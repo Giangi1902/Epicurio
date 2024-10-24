@@ -1,0 +1,25 @@
+# Gnocchi di farina di ceci con taccole e pomodorini gialli
+Categoria: Primi piatti
+
+## Ingredienti
+- Patate: a pasta gialla 1 kg
+- Farina di ceci: 300 g
+- Uova: (circa 1) 55 g
+- Taccole: gialle 250 g
+- Pomodorini gialli: in salamoia o freschi 200 g
+- Aglio: 1 spicchio
+- Basilico: q.b.
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Pepe nero: q.b.
+- Acqua: 1 bicchiere
+
+## Preparazione
+Per preparare gli gnocchi di farina di ceci con taccole e pomodorini gialli iniziate a cuocere le patate in acqua fredda per - minuti . Quando saranno morbide, scolatele e schiacciatele con l'apposito attrezzo, non sarà necessario sbucciarle. Disponete poi la farina di ceci su una spianatoia e versate le patate al centro . Impastate con le mani per qualche istante aggiungete poi l'uovo  e lavorate il tutto fino ad ottenere un composto omogeneo . Prelevate una porzione d'impasto e modellatela fino ad ottenere un bigolo spesso un paio di cm . Tagliatelo poi a tocchetti  e passandoli sul rigagnocchi facendo una leggera pressione con il pollice , dategli la classica forma. Continuate così fino a terminare l'impasto, disponendo man mano gli gnocchi su un vassoio spolverizzato con farina di ceci. Passate al condimento. Lavate le taccole, spuntatele  e tagliatele in pezzetti piuttosto piccoli . Versate un filo d'olio in un tegame, unite uno spicchio d'aglio sbucciato  e lasciatelo imbiondire. Aggiungete poi le taccole  e mescolate . Unite poi i pomodorini interi , mescolate ancora  e aggiungete abbondante basilico . Salate, pepate  e versate  bicchiere d'acqua . Coprite con un coperchio  e lasciate cuocere per circa  minuti, aggiungendo altra acqua al bisogno. Eliminate l'aglio  e spegnete il fuoco. Nel frattempo mettete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura degli gnocchi. Trasferite il tutto in un contenitore dai bordi alti  e frullate con un mixer ad immersione  fino ad ottenere una crema . Cuocete pochi gnocchi per volta nell'acqua che ormai sarà arrivata a bollore . Nel frattempo versate di nuovo il condimento nel tegame e unite un mestolo d'acqua di cottura . Quando gli gnocchi torneranno a galla scolateli e trasferiteli nel condimento ; proseguite cuocendo tutti gli gnocchi e versandoli man mano insieme agli altri . Saltate per  minuto, poi impiattate gli gnocchi e guarnite con un filo d'olio e il pepe nero . Servite gli gnocchi di farina di ceci con taccole e pomodorini gialli ancora caldi . 
+
+## Descrizione
+Il risultato finale sarà un piatto di gnocchi di farina di ceci con taccole e pomodorini gialli, dal gusto rustico e saporito. Gli gnocchi saranno morbidi e leggeri, arricchiti dal sapore dolce e croccante delle taccole e dei pomodorini gialli.
+
+Questo piatto è adatto per una cena o un pranzo leggero, perfetto da gustare in primavera o estate grazie alla presenza di ingredienti freschi e colorati.
+
+Le gnocchi di farina di ceci con taccole e pomodorini gialli sono adatti per una dieta vegetariana, in quanto non contengono carne o pesce. Possono essere consumati anche da persone intolleranti al lattosio, ma è importante verificare che gli ingredienti siano privi di tracce di lattosio. Le taccole possono essere sostituite con verdure a piacere per adattare la ricetta a una dieta vegana.

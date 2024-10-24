@@ -1,0 +1,35 @@
+# New York Cheesecake
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti Digestive: 360 g
+- Burro: 180 g
+- Sale fino: 1 pizzico
+- Formaggio fresco spalmabile: (a temperatura ambiente) 1,25 kg
+- Panna acida: (a temperatura ambiente) 120 g
+- Zucchero: 290 g
+- Uova: (medie, a temperatura ambiente) 4
+- Amido di mais (maizena): 20 g
+- Estratto di vaniglia: 2 cucchiaini
+- Scorza di limone: 1
+- Succo di limone: 1 cucchiaio
+- More: 100 g
+- Mirtilli: 100 g
+- Lamponi: 100 g
+- Zucchero: 50 g
+- Amido di mais (maizena): 20 g
+- Acqua: q.b.
+- Frutti di bosco: q.b.
+- Menta: q.b.
+
+## Preparazione
+Per realizzare la cheesecake iniziate dalla base: fate sciogliere il burro in un pentolino e lasciate intiepidire. Versate i biscotti in un mixer  e frullate per tritarli finemente, mentre aggiungete il burro fuso  e un pizzico di sale. Dovrete ottenere un composto dalla consistenza simile alla sabbia bagnata .Imburrate e foderate con carta forno uno stampo a cerniera del diametro di  cm, ricoprendo sia la base che i bordi. Trasferite il composto di biscotti nello stampo  e pressate bene per compattarlo, aiutandovi col fondo di un bicchiere . Cuocete la base di biscotti in forno statico preriscaldato a ° per circa  minuti, poi sfornate e lasciate raffreddare completamente .Abbassate la temperatura del forno a ° e passate alla preparazione della crema. Versate il formaggio in una ciotola capiente e ammorbiditelo con una marisa , poi aggiungete lo zucchero  e mescolate per amalgamarlo. Unite anche la panna acida  e mescolate ancora.Sbattete le uova in una ciotola a parte e versatele nella ciotola poco alla volta , mescolando per incorporarle in modo omogeneo. Aromatizzate il composto con l’estratto di vaniglia  e la scorza grattugiata del limone .Unite anche il succo di limone  e mescolate bene. Infine setacciate l’amido di mais nella ciotola  e amalgamate il tutto. Sbattete la ciotola sul piano di lavoro un paio di volte per eliminare le bolle d'aria, poi versate la crema di formaggio sulla base di biscotti ormai intiepidita .Livellate poco la superficie , sbattete un'altra volta lo stampo sul piano di lavoro e cuocete nel forno statico a ° per circa - minuti, posizionando alla base del forno un pentolino riempito con acqua calda per creare la giusta umidità . Una volta cotta, la cheesecake risulterà ancora leggermente traballante al centro. Spegnete il forno e lasciatela raffreddare completamente all'interno. Quando si sarà raffreddata , trasferite la cheesecake in frigorifero e lasciate rassodare per almeno  ore, o meglio per tutta la notte.Trascorso il tempo di rassodamento, dedicatevi alla decorazione: versate le more, i mirtilli e i lamponi in un pentolino  insieme allo zucchero . Schiacciate con una forchetta , portate a bollore e cuocete per circa  minuti, mescolando spesso.Nel frattempo diluite l’amido di mais con l’acqua . Versate il composto poco per volta nel pentolino, così da raggiungere la consistenza desiderata ; la salsa deve risultare fluida e bella lucida .A questo punto potete sformare delicatamente la cheesecake e trasferirla su un piatto da portata . Servite la vostra bellissima cheesecake guarnita con la salsa ai frutti di bosco  e qualche fogliolina di menta !
+
+## Descrizione
+Il risultato finale della New York Cheesecake sarà un dolce cremoso e vellutato, con una base croccante di biscotti digestive e burro. La cheesecake sarà arricchita da una golosa salsa ai frutti di bosco e decorata con frutti freschi e foglie di menta.
+
+Questa ricetta è adatta per occasioni speciali come compleanni, feste o cene eleganti. La sua presentazione scenografica la rende perfetta come dessert per un buffet o per concludere un pranzo importante.
+
+La New York Cheesecake è adatta per chi segue una dieta moderata in quantità di zuccheri e grassi, in quanto è un dolce ricco e calorico. È ideale per chi non ha particolari restrizioni alimentari e vuole concedersi una coccola golosa e indulgente.
+
+Le persone con intolleranze al lattosio potrebbero avere problemi a digerire la quantità elevata di formaggio nella cheesecake. Inoltre, chi soffre di intolleranza al glutine dovrà sostituire i biscotti digestive con biscotti senza glutine oppure con una base di biscotti specifici per celiaci.

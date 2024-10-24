@@ -1,0 +1,25 @@
+# Pancake bicolore
+Categoria: Dolci
+
+## Ingredienti
+- Burro: 25 g
+- Farina 00: 100 g
+- Lievito in polvere per dolci: 6 g
+- Latte intero: a temperatura ambiente 200 g
+- Zucchero: 15 g
+- Uova: (medie) 2
+- Farina 00: 25 g
+- Cacao amaro in polvere: 15 g
+- Sciroppo di acero: q.b.
+
+## Preparazione
+Per preparare i pancake bicolore iniziate dalla base: fondete il burro a fuoco bassissimo, quindi lasciate intiepidire. Intanto dividete gli albumi dai tuorli . Versate i tuorli in una ciotola e sbatteteli con una frusta, poi unite il burro fuso fatto intiepidire  e il latte a filo .Montate il composto finchè non risulterà chiaro. Unite il lievito a  g di farina setacciandoli  e mescolate il tutto. Ora montate con le fruste elettriche gli albumi che avete tenuto da parte, versando poco alla volta lo zucchero  e quando saranno bianchi e spumosi incorporateli delicatamente al composto di uova, con una spatola e movimenti dall'alto verso il basso, per evitare di smontarli .Ora dividete l'impasto a metà in due ciotole, in una versate  g di farina e mescolate con una frusta (o con la spatola) , nell'altra  g di cacao in polvere . Mettete a scaldare sul fuoco medio (non alto altrimenti non darete il tempo all'impasto di lievitare bene durante la cottura e i pancakes diventeranno troppo scuri) una padella ampia antiaderente (meglio se a fondo spesso) e ungete con poco burro da spandere sulla superficie .Iniziate dai pancake chiari: al centro della padella versate un mestolino di preparato , non ci sarà bisogno di spanderlo. Non appena si vedranno le bollicine in superficie, girate il pancake  e cuocete dall'altro lato .Man a mano disponete i pancake pronti su un piatto  e proseguite fino a terminare l'impasto. Procedete allo stesso modo per quelli al cacao, avendo cura di scaldare sempre bene la padella e ungerla con pochissimo altro burro prima di proseguire versando un mestolo impasto al centro, attendendo la creazione delle prime bollicine e girando i pancake al cacao come fatto in precedenza per una cottura uniforme (-).Una volta pronti , potete copparli con le formine: coppate un pancake chiaro e uno scuro con la stessa formina (-)e inserite l'omino scuro ottenuto nel pancake chiaro , l'omino chiaro nel pancake scuro. Proseguite allo stesso modo con altre formine a vostro piacere una stellina ad esempio , alberelli, cuori, calze della befana... fino ad ottenere tutti i vostri pancake bicolore  da servire con abbondante sciroppo d'acero!
+
+## Descrizione
+Il risultato finale della ricetta dei pancake bicolore sarà una stack di pancake soffici e leggeri, con un delizioso contrasto tra il colore bianco e marrone dei due impasti. I pancake avranno un sapore dolce e leggermente cioccolatoso, ideali da gustare con dello sciroppo d'acero.
+
+Gli pancake bicolore sono adatti per la colazione o la merenda, ma possono essere serviti anche come dessert. Sono perfetti da preparare per una colazione speciale o per coccolarsi un po' durante una pausa in giornata.
+
+Questi pancake sono adatti a qualsiasi tipo di dieta, purché consumati con moderazione. Possono essere incorporati in un'alimentazione equilibrata, ma è importante non esagerare con le quantità a causa del loro contenuto calorico e di zuccheri.
+
+Le persone con intolleranze al lattosio possono provare a sostituire il latte intero con una alternativa senza lattosio. Per le persone con intolleranza al glutine, è possibile utilizzare una farina senza glutine al posto della farina 00. Inoltre, chi è intollerante al cacao può escludere il cacao amaro dalla ricetta senza compromettere la riuscita dei pancake.

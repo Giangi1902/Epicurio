@@ -1,0 +1,28 @@
+# Ceci al pomodoro
+Categoria: Contorni
+
+## Ingredienti
+- Ceci secchi: 300 g
+- Alloro: 1 foglia
+- Bicarbonato: 1 pizzico
+- Pomodori pelati: 250 g
+- Concentrato di pomodoro: 10 g
+- Aglio: 1 spicchio
+- Vino rosso: corposo 50 g
+- Peperoncino secco: 1
+- Salvia: q.b.
+- Rosmarino: q.b.
+- Origano: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare i ceci al pomodoro mettete in ammollo i ceci in acqua fredda, con una puntina di bicarbonato  e lasciateli in acqua per almeno dodici ore (la sera prima per il giorno dopo). Prendete i ceci, sciacquateli sotto l’acqua corrente  e cuoceteli in casseruola coprendoli con acqua e aggiungendovi una foglia di alloro . Cuoceteli così per almeno settanta minuti, o comunque finché non risulteranno cotti, abbastanza consistenti e non spappolati . In una casseruola a parte versate un filo d’olio e soffriggete l’aglio , il peperoncino , e le erbe aromatiche . Aggiungete anche i pomodori pelati sfilacciati  e il concentrato di pomodoro .Mescolate per bene il tutto e unite i ceci ben scolati , avendo cura di tenere da parte l'acqua di cottura. Salate e pepate, alzate la fiamma e sfumate con il vino rosso . Mescolate il tutto, aggiungete circa due mestoli di acqua di cottura dei ceci  e cuocete a fiamma dolce per circa  minuti.Prima di spegnere la fiamma eliminate l’aglio in camicia  e le erbe . I ceci al pomodoro sono pronti , serviteli con con un giro d’olio extravergine.
+
+## Descrizione
+Il risultato finale della ricetta "Ceci al pomodoro" sarà un contorno gustoso e saporito, arricchito dalla combinazione di ceci teneri e pomodoro dal sapore intenso. I ceci saranno morbidi e avvolti da una salsa densa e profumata, arricchita dall'aroma dell'aglio, del peperoncino e delle erbe aromatiche.
+
+Questa ricetta è adatta per un pranzo o una cena in famiglia o con gli amici. Può essere servita come contorno a carne o pesce, oppure come piatto unico accompagnata da pane per fare la scarpetta. 
+
+Le ceci al pomodoro possono essere consumate all'interno di una dieta vegetariana, vegana o senza glutine. Tuttavia, è importante fare attenzione ad eventuali allergie o intolleranze alimentari. Le persone con intolleranza al glutine dovranno assicurarsi che i ceci utilizzati siano privi di contaminazione da glutine. Le persone con intolleranze specifiche agli ingredienti come aglio, peperoncino o pomodoro dovranno adattare la ricetta secondo le loro esigenze.

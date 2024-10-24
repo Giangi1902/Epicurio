@@ -1,0 +1,31 @@
+# Colomba al cioccolato
+Categoria: Lievitati
+
+## Ingredienti
+- Farina Manitoba: 140 g
+- Latte intero: a temperatura ambiente 40 g
+- Acqua: a temperatura ambiente 100 g
+- Lievito di birra fresco: 15 g
+- Farina Manitoba: 100 g
+- Zucchero: 20 g
+- Burro: a temperatura ambiente 20 g
+- Farina Manitoba: 210 g
+- Zucchero: 120 g
+- Uova: (circa 2 medie) 112 g
+- Burro: a temperatura ambiente 80 g
+- Sale fino: 10 g
+- Gocce di cioccolato fondente: 100 g
+- Scorza d'arancia: 1
+- Cioccolato fondente: 250 g
+- Panna fresca liquida: 80 g
+- Nocciole: tritate q.b.
+
+## Preparazione
+Per preparare la colomba al cioccolato iniziate a realizzare il primo impasto. Versate in una ciotola la farina setacciata . Poi in una brocca versate il lievito di birra fresco, il latte a temperatura ambiente e anche l’acqua . Mescolate con una marisa per far sciogliere il lievito. Versate a filo i liquidi nella farina mescolando sempre con la spatola , fino a che non avrete ottenuto un composto liscio ed omogeneo . Coprite con pellicola  e lasciate lievitare per  ore a una temperatura di - c° .Una volta che il primo impasto sarà lievitato, trasferitelo nella ciotola di una planetaria, dotata di gancio  e unite lo zucchero . Azionate la macchina e incorporate la farina poco per volta .Solo quando sarà perfettamente assorbita potrete aggiungere il burro morbido, un pezzetto alla volta . Continuate a lavorare l'impasto fino a che sarà ben incordato , quindi trasferitelo su un piano da lavoro e aiutandovi con un tarocco lavoratelo per qualche istante . In ultimo date all'impasto una forma sferica  e trasferitelo all'interno di una ciotola di vetro, coprendolo sempre con della pellicola trasparente . Lasciate lievitare nuovamente, in forno spento solo con la luce accesa o comunque a una temperatura compresa tra i ° e i ° per almeno  ore e mezza, o fino a che non avrà raddoppiato nuovamente il suo volume .Trascorso questo tempo occupatevi di realizzare il terzo impasto: versate il ° impasto lievitato nella ciotola della planetaria  e unite lo zucchero . Montate il gancio, azionate la macchina a velocità moderata e quando lo zucchero sarà stato completamente assorbito versate la farina poco per volta  e lasciatelo incorporare. Quindi unite lentamente anche le uova  fino a che non saranno ben assorbite, aggiungete il sale  e in fine la scorza grattugiata di un'arancia .Unite il burro morbido poco per volta aspettando che il pezzetto si sia assorbito prima di aggiungerne un altro . Una volta finito di aggiungere il burro versate le gocce di cioccolato  e continuate a lavorare fino a che non saranno ben incorporate. Trasferite l'impasto su un piano leggermente infarinato , appiattitelo delicatamente con le mani e dategli delle pieghe di rinforzo portando i lembi esterni della pasta verso l'interno. Una volta date le pieghe di rinforzo conferite all'impasto una forma sferica  e trasferitelo all'interno di una ciotola di vetro, coprite con la pellicola trasparente  e riponete in frigorifero a maturare per  ore, trascorso questo tempo tiratelo fuori dal frigo e ponetelo in forno spento con luce accesa per circa - ore . Terminata quest'ultima fase, trasferite l'impasto su una spianatoia: risulterà piuttosto idratato . Se necessario, potete infarinarvi leggermente le mani per lavorarlo, ma non dovrete aggiungere troppa farina per evitare di far indurire troppo l'impasto. Allargatelo delicatamente con le mani e dividete l'impasto in due parti: una da circa  g, che servirà per formare le ali, ed una da circa  g, che servirà per il corpo della colomba . Prendete la porzione più grande e appiattitela con le mani ;poi arrotolatela , in modo da formare un filone . Posizionatela nella parte più lunga dello stampo da  g . Come appena fatto arrotolate anche l'altra porzione d'impasto, in modo da formare un filoncino  e posizionatelo all'interno dello stampo sopra all'altro . La colomba è formata, lasciatela lievitare per  ore e mezza fino a che non raggiungerà quasi il bordo dello stampo ; potete far lievitare sempre in forno spento con luce accesa.Trascorse le ore di lievitazione, cuocete la colomba in forno statico preriscaldato a °, nel ripiano basso, per  - minuti (per questa ricetta è preferibile evitare la cottura in forno ventilato che asciugherebbe troppo l'impasto); per assicurarvi che la colomba sia cotta potete sempre verficare la temperatura al cuore, che deve essere di °, altrimenti potete fare la prova dello stecchino. Una volta sfornata , inserite degli spiedini lunghi di acciaio sull'intera lunghezza della colomba (in modo da infilzare contemporaneamente sia un'ala che il corpo della colomba) . Posizionatela capovolta, sospesa su dei sostegni (noi abbiamo utilizzato due ciotole ad esempio) e lasciatela raffreddare . Questo farà si che la colomba, raffreddandosi, non collassi al centro.Una volta che la colomba sarà fredda estraete gli spiedini di acciaio e trasferitela su una gratella . Ora occupatevi della copertura tritate il cioccolato fondente finemente , scaldate la panna fresca, fino a raggiungere quasi il bollore  e versatela direttamente nel cioccolato tritato, che avrete trasferito in una ciotola . Mescolate per far sciogliere bene il cioccolato . Non appena avrete ottenuto una consistenza liscia con una spatola spalmate la ganache sopra alla colomba , fate in modo da ricoprire l'intera superficie . Decorate con le nocciole tritate  e lasciate solidificare per circa  ora prima di servire la vostra colomba la cioccolato !
+
+## Descrizione
+Il risultato finale di questa ricetta è una soffice e profumata colomba al cioccolato, arricchita con gocce di cioccolato fondente e una glassa al cioccolato. Sarà un dolce perfetto per la Pasqua o per qualsiasi altra occasione festosa.
+
+Questa ricetta non è adatta per diete particolari, in quanto è ricca di zuccheri, burro e cioccolato. È un dolce da gustare con moderazione e senza esagerare.
+
+Le persone con intolleranze al lattosio e al glutine non potranno gustare questa ricetta, in quanto contiene latte e farina di frumento. Tuttavia, è possibile fare alcune modifiche sostituendo il latte con una bevanda vegetale senza lattosio e utilizzando farina senza glutine. Quante alle intolleranze al cioccolato e alle nocciole, è possibile omettere questi ingredienti dalla ricetta senza compromettere troppo il risultato finale.

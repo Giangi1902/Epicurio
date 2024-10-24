@@ -1,0 +1,30 @@
+# Crostata morbida al cioccolato bianco
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 180 g
+- Uova: 55 g
+- Farina di nocciole: 30 g
+- Zucchero: 90 g
+- Lievito in polvere per dolci: 8 g
+- Burro: morbido 100 g
+- Latte intero: a temperatura ambiente 110 g
+- Cioccolato bianco: 650 g
+- Panna fresca liquida: 250 g
+- Burro: morbido 70 g
+- Pasta di pistacchi: 50 g
+- Confettura di fragole: 120 g
+- Fragole: (circa 220 grammi) 16
+- Frutti di bosco: 30 g
+- Pistacchi: 10 g
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare la crostata morbida al cioccolato bianco come prima cosa realizzate la ganache, che dovrà riposare in frigorifero per almeno un paio d'ore. Scaldate la panna in un pentolino a fiamma molto bassa  e tritate rapidamente il cioccolato bianco .Trasferitelo poi in una ciotola e versate la panna bollente poco per volta , mescolando con una spatola fino a scioglier completamente il cioccolato. Unite poi il burro morbido  ed emulsionate il tutto con un mixer ad immersione fino ad incorporarlo completamente . A questo punto prelevate circa  gdella ganache e tenetela da parte . Aggiungete la pasta di pistacchi in quella rimasta . Emulsionate nuovamente con il mixer per incorporarla  e coprite entrambe le ciotole con della pellicola per alimenti . Riponete in frigorifero per  ore fino a che non sarà ben cristallizzata. Nel frattempo realizzate la base della crostata morbida. Versate l'uovo in una ciotola e sbattendo con le fruste elettriche incorporate lo zucchero . Solo quando il composto sarà ben montato potrete aggiungere il burro morbido, tagliato a cubetti  e continuate a sbattere fino ad ottenere una crema liscia e spumosa . Versate poi anche il latte a temperatura ambiente e incorporatelo con le fruste elettriche al resto degli ingredienti (-). In un'altra ciotola setacciate la farina , il lievito e la farina di nocciole . Unitele all'impasto in maniera graduale  fino a che non saranno ben amalgamate . Imburrate  e infarinate uno stampo furbo da  cm e versate l'impasto all'interno ; livellate la superficie con una spatola  e cuocete in forno statico preriscaldato a ° per  minuti nel ripiano centrale.Una volta cotta, sfornate la crostata morbida  e lasciatela raffreddare prima di sformarla, capovolgendola su una gratella . Sistemate poi la confettura nella cavità del dolce e con il dorso di un cucchiaio spargetela in modo da ricoprire l'intera superficie . Prendete le fragole, eliminate il picciolo tagliandolo con un coltellino in modo da avere una base piatta  e sistematele sulla crostata . Riprendete la ganache dal frigo e montatele entrambe con le fruste elettriche (-). Trasferite poi la ganache al cioccolato bianco in una sacca da pasticcere dotata di bocchetta rigata da  cm e quella al pistacchio in una sacca da pasticcere dotata di bocchetta liscia da  mm . Decorate la crostata prima con la ganache al pistacchio ricoprendo quasi interamente gli spazi vuoti e poi con quella bianca, coprendo così tutta la superficie della torta  in modo da non intravedere più la confettura. Decorate con i frutti di bosco freschi . Tritate poi grossolanamente i pistacchi   e spargeteli sopra alla ganache . Ultimate con lo zucchero a velo  e servite la vostra crostata morbida con cioccolato bianco . 
+
+## Descrizione
+Il risultato finale della crostata morbida al cioccolato bianco sarà un dolce dal gusto delicato e irresistibile, con una base di pasta frolla morbida e friabile, ricoperta da una golosa crema al cioccolato bianco e arricchita con fragole, frutti di bosco, pistacchi e confettura di fragole. La crostata sarà arricchita da una glassa al cioccolato bianco e decorata con fragole, frutti di bosco, pistacchi e zucchero a velo.
+
+Questa crostata è perfetta per occasioni speciali come compleanni, feste e occasioni festive, ma è anche ottima da gustare come dessert goloso per coccolarsi ogni tanto.
+
+La crostata morbida al cioccolato bianco è adatta per i golosi e per chiunque ami il cioccolato bianco e i dolci ricchi e golosi. Non è adatta per persone con intolleranze al lattosio, al glutine, alle uova o alle nocciole, in quanto contiene ingredienti come latte, farina, uova e nocciole. È importante verificare la presenza di allergie o intolleranze prima di consumare questo dolce.

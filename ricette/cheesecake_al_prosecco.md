@@ -1,0 +1,25 @@
+# Cheesecake al prosecco
+Categoria: Dolci
+
+## Ingredienti
+- Pandoro: 200 g
+- Burro: 55 g
+- Formaggio fresco spalmabile: 300 g
+- Panna fresca liquida: 50 g
+- Gelatina in fogli: 9 g
+- Zucchero a velo: 50 g
+- Prosecco: 100 g
+- Baccello di vaniglia: 1
+- Ribes: 4 rametti
+
+## Preparazione
+Per preparare la cheesecake al prosecco cominciate dalla base fatta di pandoro. Tagliatelo a pezzetti di - cm  e versatelo in una padella antiaderente. Cuocete i pezzetti di pandoro per - minuti a temperatura media mescolando di frequente , eviterete in questo modo che bruci. Infatti il pandoro dovrà risultare soltanto asciutto, dorato e ben tostato .Trasferite i pezzi nel mixer e ottenete delle piccolissime briciole azionando le lame . Versatele in una ciotola , aggiungete il burro fuso e mescolate . Trasferite il composto all’interno di  stampini da , cm di diametro e , cm di altezza appoggiati su un vassoio con carta forno. Inoltre abbiate cura di rivestire la circonferenza con della carta acetata o carta forno . Appiattite per bene con il dorso del cucchiaio e trasferite in frigorifero per  minuti .Intanto occupatevi della crema. Mettete in ammollo la gelatina in acqua fresca  e nel frattempo scaldate la panna in un pentolino ma senza portarla a bollore . Non appena sarà sufficientemente calda scolate la gelatina e tuffatela nella panna. Mescolate bene con una frusta facendo molta attenzione che non restino dei grumi: se dovesse accadere basterà rimettere per un attimo sul fuoco .Mentre il composto si intiepidisce per bene versate il formaggio fresco in un’altra ciotola e lavoratelo qualche istante con una frusta . Poi versate il prosecco , i semi estratti dalla bacca di vaniglia e per finire lo zucchero a velo . Mescolate accuratamente . A questo punto potete incorporare anche la crema di latte .Recuperate gli stampini con la base di pandoro dal frigorifero e riempiteli con la crema . Metteteli in frigorifero e fateli rassodare per almeno  ore . Trascorso il tempo le cheesecake si saranno rassodate per bene. Quindi sfilate lo stampo e poi la carta acetata o forno . Guarnite ogni sformatino con un rametto di ribes freschi  ed ecco pronte le vostre cheesecake al prosecco: non vi resta che gustarle !
+
+## Descrizione
+Il risultato finale della Cheesecake al prosecco sarà un dolce cremoso e fresco, arricchito dal sapore frizzante e fruttato del prosecco e dal profumo della vaniglia. La consistenza sarà morbida e delicata, perfetta per essere gustata come dessert.
+
+Questa cheesecake è particolarmente adatta per occasioni speciali e festive, come compleanni, cene eleganti o occasioni importanti. 
+
+Essendo ricca di formaggio fresco e panna, questa ricetta non è adatta per diete ipocaloriche o a basso contenuto di grassi. Tuttavia, può essere consumata occasionalmente anche da chi segue una dieta bilanciata e controllata.
+
+Le persone con intolleranze al lattosio possono provare a sostituire il formaggio fresco con un prodotto senza lattosio, mentre chi ha intolleranza al glutine può scegliere di utilizzare un pandoro senza glutine. Chi è intollerante al lievito può evitare l'utilizzo del pandoro o cercare alternative senza lievito.

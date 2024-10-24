@@ -1,0 +1,31 @@
+# Orecchiette con broccoletti alici e pomodori secchi
+Categoria: Primi piatti
+
+## Ingredienti
+- Acqua: 150 g
+- Semola di grano duro rimacinata: 250 g
+- Olio extravergine d'oliva: 8 g
+- Acciughe (alici): 300 g
+- Broccoli: 300 g
+- Pomodori secchi sott'olio: 60 g
+- Peperoncino: 1
+- Prezzemolo: 1 mazzetto
+- Timo: 1 rametto
+- Olio extravergine d'oliva: q.b.
+- Aglio: 1 spicchio
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pane: pagnotta tipo pugliese 150
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare le orecchiette con broccoletti alici e pomodori secchi iniziate dall’impasto delle orecchiette: mescolate la farina setacciata in una ciotola e trasferitele su una spianatoia, formando la classica fontana con il buco al centro (in alternativa potete lavorare l’impasto anche in una ciotola). Aggiungete l’acqua poco alla volta  e cominciate ad impastare (l’aggiunta dell’acqua varia dal grado di assorbimento della farina) . Per ultimo unite l’olio  e continuate ad impastare  fino ad ottenere un impasto molto liscio e morbido a cui darete una forma rotonda.Avvolgete la pasta di semola nella pellicola  e lasciatela riposare al fresco a temperatura ambiente per circa  minuti affinché l'impasto diventerà ben elastico. Intanto pulite le alici: staccate la testa e le interiora  , aprite il pesce per eliminare la lisca centrale e la coda così otterrete due filetti, sciacquateli sotto acqua corrente delicatamente e poi tagliateli a pezzetti  e teneteli da parte.Riprendete l’impasto, ponetelo su una spianatoia infarinata, dividetelo in bastoncini sottili  e poi da questi ricavate dei pezzettini da circa  cm . Con un coltello dalla punta arrotondata, trascinate ogni pezzetto di pasta sulla spianatoia in modo che la pasta si curvi . Durante questa operazione con l'altra mano tenete fermo un lato del pezzo di pasta  .A questo punto, appoggiate ogni conchiglia sulla punta del dito pollice e rovesciatela all'indietro per ottenere le vostre orecchiette . Tritate il timo  eliminate il gambo e i semi del peperoncino e tritatelo finemente, se volete tritate anche l’aglio oppure lasciatelo intero. Staccate le cime dei broccoli  e riducetele a pezzettini. Eliminate la parte esterna più coriacea del gambo e tagliatelo a piccoli pezzi.Sgocciolate i pomodori secchi ed sciugateli con un panno da cucina dopodichè tagliatli a pezzetti .  Eliminate la crosta dalla pagnotta , tagliatela grossolanamente poi sminuzzatela nel mixer  per ridurla finemente.Scaldate l’olio in una padella (in questo passaggio potete unire anche metà del trito di aromi), poi unite la mollica  e fatela rosolare pochi minuti il tempo necessario per farla diventare croccante . Quando sarà dorata spegnete il fuoco e trasferitela subito in una ciotola perché altrimenti nella padella calda continuerà a cuocere e rischierete di bruciarla. In una pentola dai bordi alti portate al bollore abbondante acqua salata, buttate le cimette di broccoletti con i pezzetti di gambo  e cuoceteli contando due minuti dalla ripresa del bollore, devono rimanere croccanti.Intanto scaldate un filo di olio in una padella, unite lo spicchio di aglio (se lo avete lasciato intero), le alici , il peperoncino   e il timo tritato . Fate saltare le alici il tempo necessario per farle schiarire.Intanto i broccoletti saranno pronti, scolateli direttamente nella padella con le alici , unite i pomodori secchi . Nell’acqua di cottura dei broccoletti lessatele orecchiette (in alternativa potete lessarle insieme ai broccoli)e poi scolatele sempre nella padella , se necessario aggiungete un mestolo di acqua di cottura, lasciate insaporire a fuoco medio per un paio di minuti. Spegnete il fuoco e per ultimo unite la mollica di pane croccante  e una spolverata di prezzemolo tritato. Le vostre orecchiette con broccoletti alici e pomodori secchi sono pronte, gustatele calde!
+
+## Descrizione
+Il risultato finale della ricetta sarà un piatto di orecchiette condite con broccoletti, acciughe, pomodori secchi e aromi che conferiscono un sapore intenso e molto gustoso.
+
+- Occasioni adatte: Questo piatto è perfetto per un pranzo o una cena informale con amici o familiari. Può essere servito anche nelle occasioni speciali come un pranzo di festa o un'occasione più informale come un pic-nic.
+
+- Diete adatte: Questa ricetta è adatta a una dieta bilanciata e completa. Può essere inserita in un regime alimentare mediterraneo o in una dieta che preveda un consumo moderato di carboidrati e una buona quantità di verdure.
+
+- Intolleranze: Le persone con intolleranza al glutine possono consumare questa ricetta sostituendo la semola di grano duro con una versione senza glutine. Le persone con intolleranza al lattosio devono prestare attenzione ai formaggi aggiunti come condimento. Le persone con intolleranza al pesce dovrebbero evitare di aggiungere le acciughe nella preparazione.

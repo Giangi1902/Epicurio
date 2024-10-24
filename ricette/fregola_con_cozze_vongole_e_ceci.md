@@ -1,0 +1,31 @@
+# Fregola con cozze vongole e ceci
+Categoria: Primi piatti
+
+## Ingredienti
+- Fregola: 250 g
+- Cozze: 1 kg
+- Vongole: 1 kg
+- Ceci secchi: 150 g
+- Acqua: circa 2 l
+- Sedano: ½ costa
+- Scalogno: 1
+- Passata di pomodoro: 40 g
+- Prezzemolo: 4 ciuffi
+- Peperoncino fresco: 1
+- Aglio: 1 spicchio
+- Sale grosso: 15 g
+- Sale fino: q.b.
+- Pepe bianco: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare la fregola con cozze, vongole e ceci dovrete aver messo a reidratare i ceci per almeno  ore (o una notte intera), in una ciotola riempita di acqua . Dedicatevi quindi ai molluschi, iniziando dalle vongole. Mettetele a bagno in acqua fredda  e aggiungete il sale grosso per farle spurgare . Muovete con le mani le vongole una contro l’altra in modo che eliminino tutta la sabbia possibile e lasciatele in ammollo per - ore. Durante questo tempo cambiate l’acqua e il sale grosso e ripetete l'operazione finchè l’acqua nella ciotola non risulterà chiara e pulita del tutto (per abbreviare i tempi, potete anche sciacquare le vongole sotto acqua corrente e batterle su di un tagliere di legno con il taglio rivolto verso il basso: se la vongola è pulita può essere cotta, se fuoriesce della sabbia la vongola è da scartare).Passate quindi alle cozze (potete consultare la scheda della Scuola di cucina: come pulire le cozze per seguire il procedimento passo passo). Lavate le cozze sotto acqua corrente, quindi con il dorso della lama di un coltello eliminate tutte le incrostazioni e i cirripedi  (parassiti, di colore bianco o grigio, che si formano sul guscio) e, con un movimento energico, staccate manualmente la barbetta, o bisso, che fuoriesce dalle valve . Sempre sotto l’acqua fresca corrente e utilizzando una paglietta d'acciaio (oppure una spazzola rigida), sfregate energicamente le cozze per eliminare ogni impurità .Ora dedicatevi al trito che servirà a cuocere le cozze e le vongole: tritate finemente i ciuffi di prezzemolo  precedentemente lavato sotto acqua corrente, poi tritate anche l'aglio e il peperoncino fresco . Quindi in una padella larga, versate il trito, aggiungete un filo d'olio  e fate soffriggere per qualche secondo.Unite le cozze e le vongole (precedentemente risciacquate per togliere la sapidità dell'acqua salata) , bagnatele con  mestoli di acqua  e copritele con un coperchio . Fate cuocere fino alla completa apertura delle valve.Quando le valve saranno aperte, spegnete il fuoco e filtrate il liquido dei molluschi , per raccoglierlo in una pentola che avrete precedentemente riempito con circa  litri di acqua. Accendete il fuoco basso sotto la pentola e portate il brodo ad ebollizione. Intanto lasciate intiepidire i molluschi, quindi privateli dei gusci e raccogliete i frutti in una ciotolina . Poi passate a mondare e tagliare finemente lo scalogno .Lavate e sfilate il mezzo gambo di sedano con un pelapatate o un coltello, poi tagliatelo finemente . In un tegame capiente e fondo, versate un filo d'olio, aggiungete il trito fine di scalogno e sedano  e fate soffriggere per  minuto. Quindi scolate i ceci che saranno reidratati dopo le ore in ammollo .Aggiungete i ceci nel tegame con il soffritto , quindi bagnateli con il brodo ottenuto con l'acqua di cottura dei molluschi, fino a ricoprirli . Unite poi la passata di pomodoro , mescolate e fate cuocere a fuoco dolce il tutto per almeno  h e  minuti, aggiungendo di tanto in tanto il brodo se tendessero troppo ad asciugarsi.Passato il tempo indicato, lasciando acceso il fuoco, prelevate dal tegame due cucchiai di ceci , poneteli su un piatto e schiacciateli con la forchetta  per ottenere una purea. Quindi versate la purea ottenuta nel tegame con il resto dei ceci in cottura  e fate addensare. Mescolate e fate cuocere per qualche minuto ancora.Unite anche la fregola ai ceci , mescolate e cuocete a fuoco dolce aggiungendo a mano a mano qualche mestolo di brodo. Quindi versate anche le cozze e le vongole che avevate sgusciato , cuocete ancora per - minuti, finchè la preparazione avrà raggiunto la consistenza di una zuppa densa. Aggiustate di sale e pepe a piacere, quindi spegnete il fuoco e la vostra fregola con cozze vongole e ceci sarà pronta per essere servita !
+
+## Descrizione
+Il risultato finale sarà un piatto ricco e saporito, caratterizzato dalla combinazione di sapori del mare delle cozze e vongole, arricchito dalla consistenza della fregola e dai sapori dei ceci e delle erbe aromatiche.
+
+Occasioni: Questa ricetta è perfetta per un pranzo o una cena speciale, da servire ai propri ospiti per impressionarli con un piatto ricco di sapori mediterranei.
+
+Compatibilità con diete o regimi alimentari: Questo piatto è adatto a una dieta mediterranea e può essere inserito in un regime alimentare equilibrato e sano grazie alla presenza di pesce, legumi e verdure.
+
+Intolleranze alimentari: Le persone intolleranti al glutine dovranno evitare la fregola e verificare che gli altri ingredienti non presentino tracce di glutine. Le persone allergiche ai molluschi dovranno evitare di consumare le cozze e le vongole. Chi è allergico ai legumi dovrà evitare i ceci. Inoltre, chi è allergico agli alimenti piccanti dovrà evitare l'uso del peperoncino fresco.

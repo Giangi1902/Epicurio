@@ -1,0 +1,32 @@
+# Crepe alla crema di asparagi
+Categoria: Primi piatti
+
+## Ingredienti
+- Latte intero: 500 ml
+- Farina 00: 250 g
+- Uova: medie 3
+- Sale fino: 1 pizzico
+- Burro: q.b.
+- Latte intero: 500 ml
+- Farina 00: 50 g
+- Burro: 50 g
+- Noce moscata: 1 pizzico
+- Sale fino: 1 pizzico
+- Asparagi: 600 g
+- Groviera: da grattugiare 200 g
+- Burro: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Parmigiano Reggiano DOP: da grattugiare 2 cucchiai
+- Burro: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare le crepe alla crema di asparagi, per prima cosa preparate l’impasto delle crepe: rompete le uova in una ciotola e sbattetele con una forchetta , poi versate il latte  e mescolate ancora per amalgamare bene il tutto .Setacciate la farina direttamente all’interno della ciotola  e mescolate energicamente con una frusta per incorporarla al composto ed evitare la formazione di grumi . Quando avrete ottenuto un composto liscio ed omogeneo, coprite la ciotola con pellicola trasparente  e mettetelo in frigorifero a riposare per almeno  minuti.Nel frattempo mettete a bollire una pentola alta (o asparagiera) piena di acqua che vi servirà per cuocere gli asparagi e passate alla preparazione della besciamella: versate il latte in un pentolino  e fatelo scaldare, mentre nel frattempo sciogliete il burro in un pentolino a parte. Quando il burro sarà sciolto, aggiungete la farina in una volta sola  e mescolate bene per evitare la formazione di grumi .Quando avrete ottenuto un roux dorato, aggiungete un pizzico di sale e la noce moscata grattugiata , poi versate il latte caldo a filo continuando a mescolare con una frusta  fino a che la besciamella non si sarà addensata . Spegnete il fuoco e tenete da parte.A questo punto riprendete l’impasto delle crepe dal frigorifero e dategli una mescolata. Ungete una padellina antiaderente con poco burro e riscaldatela bene a fuoco medio-basso, poi versate un mestolo dell’impasto nel centro della padella  e stendetelo uniformemente su tutta la superficie con l’apposito attrezzo di legno oppure ruotando la padella. Dopo circa  minuto l’impasto comincerà a rapprendersi e a staccarsi dalla padella , quindi girate delicatamente la crepe con una spatola e fatela cuocere per  minuto anche sull’altro lato . Man mano che le crepe saranno pronte, impilatele su un piatto e tenetele da parte.Ora potete passare alla preparazione degli asparagi: eliminate la parte bianca del gambo e lessateli per circa - minuti (il tempo di cottura può variare a seconda della dimensione), avendo cura di lasciare le punte fuori dall’acqua in modo che cuociano con il vapore . Una volta cotti, tagliate i gambi degli asparagi a rondelle e conservate le punte intere . Fate sciogliere il burro in una padella, aggiungete i gambi degli asparagi  e cuocete a fiamma vivace per circa  minuti, poi salate e pepate.Trasferite i gambi cotti in un mixer dotato di lame d’acciaio  e frullateli per ridurli in purea, poi unite tre quarti di besciamella  e frullate ancora per ottenere una crema liscia e omogenea .A questo punto potete farcire e assemblare le crepe: distribuite una cucchiaiata di crema di asparagi sulla superficie di ogni crespella , cospargete con il groviera grattugiato  e richiudete la crepe arrotolandola su se stessa .Prendete una pirofila capiente, ungete la base con il burro e adagiate all’interno le crepe farcite e arrotolate . Dopo aver disposto tutte le crepe, cospargete la superficie con la besciamella avanzata  e decorate con le punte di asparago tenute da parte .In ultimo, aggiungete il Parmigiano grattugiato  e una macinata di pepe nero , poi accendete il grill del forno e fate gratinare il tutto per - minuti, fino a che la besciamella non comincerà a dorarsi. Sfornate le vostre crepe alla crema di asparagi e servitele ben calde !
+
+## Descrizione
+Il risultato finale sarà deliziosi crepe farcite con una cremosa crema di asparagi, arricchita con formaggio gruyère e parmigiano. Le crepe saranno morbide e leggere, con un sapore ricco e avvolgente, grazie alla combinazione di ingredienti selezionati.
+
+Le crepe alla crema di asparagi sono perfette per un pranzo o una cena elegante, ma possono essere gustate anche come piatto unico in un pasto leggero. Sono adatte a chi segue una dieta bilanciata, in quanto contengono ingredienti nutrienti e ben bilanciati in termini di carboidrati, proteine e grassi.
+
+Le crepe alla crema di asparagi sono adatte a tutte le persone tranne a chi è allergico alle uova, al lattosio e al formaggio. L'intolleranza al lattosio può essere gestita utilizzando il latte senza lattosio e il formaggio senza lattosio. Si consiglia di consultare un medico in caso di allergie o intolleranze alimentari.

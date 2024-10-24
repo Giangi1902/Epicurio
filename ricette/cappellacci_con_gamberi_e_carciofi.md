@@ -1,0 +1,36 @@
+# Cappellacci con gamberi e carciofi
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 300 g
+- Spinaci: (lessati e strizzati) 100 g
+- Uova: 2
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Gamberi: 14
+- Carciofi: 4
+- Patate: 1
+- Cipolle dorate: 1
+- Sedano: 1 costa
+- Carote: 1
+- Concentrato di pomodoro: 1 cucchiaio
+- Cognac: 30 g
+- Aglio: 1 spicchio
+- Maggiorana: q.b.
+- Olio extravergine d'oliva: q.b.
+- Pepe bianco: q.b.
+- Sale fino: q.b.
+- Ghiaccio: q.b.
+- Acqua: fredda q.b.
+
+## Preparazione
+Per preparare i cappellacci con gamberi e carciofi per prima cosa occupatevi della pasta fresca all'uovo agli spinaci: sbollentateli in acqua bollente salata , il tempo necessario ad ammorbidirli. Scolateli e trasferiteli in una ciotola con acqua e ghiaccio per mantenere vivo il colore verde . Strizzateli con un colino .Trasferite gli spinaci in una brocca, aggiungete le uova , sale e un filo d'olio. Frullate con il mixer a immersione  per ottenere una crema. Sulla spianatoia versate la farina a fontana, al centro ponete la crema di spinaci .Mescolate prima con la forchetta  poi proseguite a mano fino ad ottenere un panetto omogeneo e compatto . Coprite con pellicola e lasciate in frigo per  minuti. Occupatevi intanto del ripieno: lessate la patata  finché non sarà morbida.Pulite i gamberi e conservate gli scarti . In una pentola fate rosolare un giro d'olio con un trito grossolano di carota, cipolla e sedano . Unite gli scarti della pulizia dei gamberi .Aggiungete la maggiorana e un cucchiaio di concentrato di pomodoro . Tostate il tutto, poi sfumate con il cognac  e, se preferite, potete anche fiammeggiare con cautela. Coprite con acqua fredda e ghiaccio .Cuocete il fumetto per  minuti a fiamma bassa . Poi filtratelo attraverso un colino  e rimettetelo sul fuoco dolce  finché non si sarà ristretto, ci vorranno almeno  minuti.Ora pulite i carciofi: separate il gambo , eliminate le foglie esterne più dure e con un coltellino pelate la parte esterna coriacea . Tagliate a spicchi i cuori  ed estraete la barbetta interna.Pelate anche il gambo e riducetelo a pezzetti . Conservate i carciofi pulite in acqua e limone, così non anneriranno . In una padella scaldate un giro d'olio con uno spicchio d'aglio schiacciato, versate i carciofi .Aggiungete il sale  e il pepe bianco, poi fateli saltare per una decina di minuti per ammorbidirli, aggiungendo un goccio d'acqua se necessario. Tritate i gamberi puliti  e i carciofi cotti .Con lo schiacciapatate riducete a purea la patata lessata precedentemente , unite gamberi e carciofi , sale, pepe bianco  e un filo d'olio, poi mescolate per amalgamare.Trasferite il ripieno in un sac-à-poche . Recuperate la pasta, infarinatela leggermente  e passatela nella sfogliatrice  partendo dallo spessore più largo fino ad arrivare a uno spessore di circa - mm.Ritaglia dei quadrati di circa x cm . Farcisci con il ripieno  spremendo delle palline di impasto. Ora chiudete la pasta facendo combaciare gli angoli, così da ottenere un triangolo .Ripiegate i due lembi verso il centro e unite le due estremità . Nel frattempo fate bollire l'acqua per la pasta. Trasferite il fumetto ristretto in una padella larga con un mestolo di acqua di cottura dei cappellacci. Lessate i cappellacci finché non risaliranno a galla , basteranno pochi minuti.Scolate i ravioli in padella con il condimento  e saltateli brevemente, poi spegnete il fuoco e mantecate con un filo d'olio . Servite i vostri cappellacci con gamberi e carciofi profumando i piatti con foglioline di maggiorana fresca !
+
+## Descrizione
+Il risultato finale della ricetta "Cappellacci con gamberi e carciofi" sarà un piatto di pasta fresca ripiena di una deliziosa combinazione di gamberi e carciofi, arricchito da aromi di mare e di terra. I cappellacci saranno ben chiusi in modo da trattenere il ripieno all'interno e saranno conditi con una salsa a base di gamberi e carciofi.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia e può essere considerato un primo piatto raffinato e gustoso.
+
+Le persone che seguono una dieta equilibrata e varia possono includere questo piatto nella loro alimentazione, in quanto fornisce un mix di proteine, carboidrati e verdure, con pochi grassi aggiunti.
+
+Le persone con intolleranze alimentari alla frutta di mare o ai crostacei dovrebbero evitare questo piatto, in quanto contiene gamberi. Inoltre, chi soffre di intolleranza al glutine dovrebbe optare per una versione senza glutine della pasta oppure evitare completamente questo piatto.

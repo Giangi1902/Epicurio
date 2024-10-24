@@ -1,0 +1,24 @@
+# Orecchiette alle erbe aromatiche
+Categoria: Primi piatti
+
+## Ingredienti
+- Orecchiette: 320 g
+- Pecorino romano: grattugiato 3 cucchiai
+- Burro: a temperatura ambiente 120 g
+- Erba cipollina: tritata 2 cucchiaini
+- Timo: tritato 2 cucchiai
+- Prezzemolo: tritato 2 cucchiai
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le orecchiette alle erbe aromatiche, tritate finemente le erbe . In una ciotolina, versate il burro ammorbidito  e lavoratelo a crema con una spatola .Aggiungete al burro le erbe aromatiche tritate finemente , salate  e pepate a piacere quindi mescolate gli ingredienti .Una volta che la crema sarà omogenea  tenetela da parte coperta con pellicola trasparente e lessate le orecchiette in abbondante acqua salata a piacere . Scolatele ancora al dente (tenete da parte un bicchiere di acqua di cottura). Unite le orecchiette al condimento preparato ed amalgamate per bene il tutto mescolando con una spatola , aggiungete il pecorino grattugiato , incorporatelo per bene e, se la pasta risultasse troppo asciutta, aggiungete qualche cucchiaio di acqua di cottura. Servite le orecchiette alle erbe aromatiche ben calde guarnendo i piatti di portata con qualche filo di erba aromatica .
+
+## Descrizione
+Il risultato finale della ricetta "Orecchiette alle erbe aromatiche" sarà un piatto di pasta condito con una crema di burro alle erbe aromatiche e pecorino romano grattugiato. Le orecchiette saranno avvolte in una salsa cremosa e profumata, arricchita dal gusto delle erbe aromatiche.
+
+Questo piatto è adatto per occasioni speciali, cene eleganti o per sorprendere gli ospiti con un primo piatto ricco di sapore. Si presta bene anche per un pranzo in famiglia o per una cena romantica.
+
+La ricetta non è particolarmente indicata per diete ipocaloriche o per regimi alimentari controllati, dato che la presenza di burro e formaggio rende il piatto abbastanza calorico. Tuttavia, è possibile moderare le quantità e adattare la porzione in base alle esigenze alimentari.
+
+Le persone con intolleranze alimentari al lattosio o al formaggio dovrebbero evitare questo piatto o sostituire il formaggio con un'alternativa senza lattosio. Inoltre, chi soffre di intolleranze alle erbe aromatiche presenti nella ricetta, come ad esempio il timo o il prezzemolo, dovrebbe evitare di consumare questo piatto o cercare di sostituire gli ingredienti con altre erbe che non creino problemi.

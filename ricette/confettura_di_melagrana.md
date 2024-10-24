@@ -1,0 +1,21 @@
+# Confettura di melagrana
+Categoria: Dolci
+
+## Ingredienti
+- Melagrana: intere 1,5 kg
+- Mele Golden: 220 g
+- Zucchero: 300 g
+- Scorza di limone: 1
+- Succo di limone: 60 g
+
+## Preparazione
+Per realizzare la confettura di melagrana dividete a metà i frutti , sgranateli e raccogliete circa  g di chicchi in una ciotola . Lavate la mela e, senza sbucciarla, tagliatela a metà, eliminate il torsolo e tagliatela a pezzetti .Versate i chicchi di melgrana in un tegame ampio , aromatizzate con la scorza del limone  e unite anche la mela .Unite lo zucchero , coprite con pellicola  e lasciate macerare per una notte. Trascorso il tempo di riposo, versate il succo di limone  e fate cuocere per circa  minuti a fiamma bassa.Man mano che si formerà la schiuma eliminatela con una schiumarola . Togliete dal fuoco  e passate al passaverdure il composto per eliminare i semini . Per questa operazione potete anche usare il frullatore a immersione.Raccogliete tutto il succo  versatelo nel tegame e rimettetelo sul fuoco basso, fate cuocere ancora per altri - minuti mescolando spesso . La confettura deve addensarsi .Controllate la consistenza con la prova del piattino. Versate su un piattino un cucchiaino di confettura, se il composto colerà, vorrà dire che la confettura necessita di cuocere ancora, se invece rimarrà soda , sarà pronta. Trasferite la confettura ancora calda nei barattoli che avete sanificato , aiutandovi con un mestolo e avendo cura di lasciare  centimetro di spazio dal bordo. Richiudete i barattoli e lasciateli raffreddare . Potete capovolgerli oppure evitare questo passaggio: grazie al calore si formerà comunque il sottovuoto, che permetterà al prodotto di conservarsi a lungo. La confettura di melagrana è pronta.
+
+## Descrizione
+Il risultato finale della confettura di melagrana sarà una deliziosa e colorata marmellata dal sapore agrodolce, con piccoli pezzi di melagrana e mela che si fondono insieme. La scorza di limone conferisce un tocco fresco e profumato alla confettura, mentre lo zucchero completa la sua consistenza densa e cremosa.
+
+Questa confettura di melagrana è adatta per la colazione o la merenda, da spalmare su pane tostato, crostate o biscotti. Può essere servita anche come accompagnamento per formaggi stagionati o carni arrosto.
+
+Questa ricetta è adatta per le persone che seguono una dieta vegetariana e vegana, in quanto non contiene ingredienti di origine animale. Tuttavia, va consumata con moderazione dalle persone in sovrappeso o affette da diabete, a causa dell'aggiunta di zucchero.
+
+Le persone con intolleranza al glutine possono consumare questa confettura di melagrana in quanto non contiene glutine. Tuttavia, chi soffre di intolleranza al lattosio dovrebbe prestare attenzione all'eventuale presenza di zuccheri nascosti derivati dal latte. Chi è intollerante al fruttosio dovrebbe limitare il consumo di questa confettura a causa della presenza di fruttosio nella melagrana e nelle mele.

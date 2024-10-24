@@ -1,0 +1,29 @@
+# Capretto in padella
+Categoria: Secondi piatti
+
+## Ingredienti
+- Capretto: (in pezzi) 1 kg
+- Patate: 300 g
+- Cipolle: 250 g
+- Brodo di carne: 200 g
+- Vino bianco: 100 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Vino bianco: 500 g
+- Aglio: 1 spicchio
+- Alloro: 2 foglie
+- Timo: q.b.
+- Pepe nero in grani: q.b.
+
+## Preparazione
+Per realizzare il capretto in padella per prima cosa mettete a marinare la carne: inserite i pezzi di capretto in una ciotola, poi aggiungete il vino bianco , le foglie di alloro  e lo spicchio di aglio schiacciato .Unite anche i rametti di timo  e il pepe in grani . Assicuratevi che la marinatura copra completamente la carne e lasciate marinare a temperatura ambiente per almeno  ore . Nel frattempo preparate il brodo di carne che vi servirà per cuocere il capretto.Trascorso questo tempo scolate la marinatura e tenete da parte la carne con gli aromi . Preparate il resto degli ingredienti: pelate le patate e tagliatele a cubetti , poi mondate le cipolle e affettatele sottilmente .Scaldate una padella capiente con un giro di olio, poi versate le patate  e fatele rosolare per una decina di minuti. Unite le cipolle  e saltate per  minuti a fuoco medio, dopodiché abbassate la fiamma, salate  e pepate.Sfumate con  g di vino bianco , coprite con il coperchio e proseguite la cottura per  minuti . Una volta cotte, prelevate patate e cipolle dalla padella e tenetele da parte .Nella stessa padella scaldate un altro filo d’olio, poi aggiungete i pezzi di capretto insieme agli aromi della marinatura  e rosolateli bene su tutti i lati a fiamma alta . Salate e pepate .Sfumate con i restanti  g di vino bianco , poi unite le patate e le cipolle  e versate il brodo di carne .Abbassate il fuoco, coprite con il coperchio  e cuocete per altri  minuti. Trascorso il tempo di cottura  servite subito il vostro capretto in padella !
+
+## Descrizione
+Il risultato finale sarà un gustoso secondo piatto a base di capretto in padella, morbido e saporito, accompagnato da patate e cipolle, il tutto insaporito con brodo di carne e vino bianco, arricchito da aromi come aglio, alloro, timo e pepe nero.
+
+Questa ricetta è adatta per occasioni speciali come pranzi o cene in famiglia, ma anche per grigliate all'aperto con amici.
+
+La ricetta del capretto in padella è adatta a persone che seguono una dieta proteica, ma va consumata con moderazione a causa del suo contenuto calorico. È consigliato per chi segue una dieta mediterranea.
+
+Le persone con intolleranza al lattosio dovrebbero evitare il burro e sostituirlo con olio extravergine d'oliva. Le persone con intolleranza al glutine dovrebbero prestare attenzione al brodo di carne utilizzato, optando per versioni senza glutine.

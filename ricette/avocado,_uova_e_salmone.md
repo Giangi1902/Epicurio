@@ -1,0 +1,25 @@
+# Avocado, uova e salmone
+Categoria: Antipasti
+
+## Ingredienti
+- Avocado: 2
+- Uova: medie 4
+- Salmone affumicato: 90 g
+- Erba cipollina: 6 rametti
+- Lime: 1
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pepe rosa in grani: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare l’avocado, uova e salmone, grattugiate la scorza del lime e raccoglietela in una ciotolina . Tritate l’erba cipollina e tenetela da parte . Ora dividete a metà l’avocado (per la ricetta ne occorreranno due per un totale di  g) ,eliminate il nocciolo , spremete sulla polpa il succo del lime  per non farla annerire, quindi intagliate la polpa con un coltellino in senso orizzontale e poi in senso verticale , in questo modo sarà più pratico estrarre la polpa con il cucchiaio.Adagiate su ciascuna metà di avocado una fettina di salmone affumicato , salate, pepate e insaporite con la scorza di lime che avete grattugiato . Ora preparate le uova al tegamino: scaldate una padella con un filo di olio di oliva ,versate le uova delicatamente facendo attenzione a non romperle . Cuocete le uova per circa - minuti. Una volta cotte, raccogliete ciascun uovo con un cucchiaio  e adagiatelo sull'avocado .Condite con i grani di pepe rosa , aromatizzate con l’erba cipollina tritata  e servite subito il vostro avocado, uova e salmone !
+
+## Descrizione
+Il risultato finale sarà un antipasto fresco e completo, con il contrasto cremoso dell'avocado, il sapore deciso del salmone affumicato e il tocco agrumato del lime. Il tutto sarà arricchito dalla consistenza morbida delle uova sode e dalla fragranza dell'erba cipollina e del pepe rosa.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o buffet, per stupire gli ospiti con un antipasto raffinato e gustoso.
+
+La ricetta è adatta a una dieta bilanciata e salutare, grazie alla presenza di ingredienti ricchi di proteine, acidi grassi buoni e vitamine. Tuttavia, va consumata con moderazione a causa del contenuto calorico dell'avocado e del salmone affumicato.
+
+Le persone con intolleranze al lattosio o al glutine possono consumare questa ricetta, in quanto non contiene ingredienti che ne possano causare problemi. Tuttavia, chi soffre di allergia al pesce dovrebbe evitare il salmone affumicato.

@@ -1,0 +1,26 @@
+# Cuori di cheesecake mandorle e amarene
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti Digestive: 100 g
+- Amaretti: 100 g
+- Burro: 100 g
+- Formaggio fresco spalmabile: 200 g
+- Panna fresca liquida: 120 g
+- Zucchero: 60 g
+- Latte di mandorle: 30 g
+- Gelatina in fogli: 10 g
+- Mandorle in scaglie: 50 g
+- Amarene: 30
+
+## Preparazione
+Per realizzare le cheesecake mandorla e amarena per prima cosa preparate la base: frullate i biscotti (in alternativa ai Digestive potete utilizzare dei semplici biscotti secchi) insieme agli amaretti in un mixer dotato di lame , mettete il composto in una ciotola e aggiungete il burro sciolto , mescolate con un cucchiaio per amalgamare bene il tutto .Stendete il composto ottenuto negli stampi a forma di cuore della dimensione di xx, cm, schiacciate per bene per compattare  disponete gli stampini su un vassoio e fate raffreddare in frigorifero per  minuti. Ora passate alla preparazione della crema: mettete i fogli di gelatina in ammollo in acqua fredda per  minuti . Quando sarà ammorbidita strizzatela bene e scioglietela in  g di panna calda .In una ciotola mescolate il formaggio spalmabile con lo zucchero e il latte di mandorla  e aggiungete la gelatina sciolta nella panna . In un’altra ciotola montate i restanti  g di panna e aggiungetela delicatamente alla crema di formaggio . Riempite gli stampini fino al bordo livellando bene la superficie . Lasciate riposare in frigorifero per  ore. Una volta che i cuoricini saranno ben sodi, sformateli delicatamente e guarnitele sistemando le mandorle tagliate a lamelle lungo i bordi  e ponendo al centro le amarene divise a metà (in alternativa potete utilizzare le ciliegie) . Ecco, i vostri bellissimi e deliziosi cuori di cheesecake mandorle e amarene sono pronti per essere divorati!
+
+## Descrizione
+Il risultato finale sarà un dolce e cremoso cuore di cheesecake con una base croccante di biscotti e amaretti, arricchito dal sapore delle mandorle e delle amarene.
+
+Occasioni: Questo dolce è adatto per occasioni speciali come feste, compleanni o cene eleganti.
+
+Dieta: Questa ricetta è adatta per una dieta equilibrata se consumata con moderazione. Può essere adatta anche per una dieta vegetariana se si sceglie di utilizzare ingredienti vegetariani.
+
+Intolleranze: Le persone con intolleranze al lattosio possono sostituire il formaggio fresco spalmabile con una versione senza lattosio. Per le persone con intolleranze alle mandorle, possono sostituire il latte di mandorle con latte di riso o di soia.

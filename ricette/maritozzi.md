@@ -1,0 +1,28 @@
+# Maritozzi
+Categoria: Lievitati
+
+## Ingredienti
+- Farina Manitoba: 500 g
+- Acqua: tiepida 250 ml
+- Uova: medie 2
+- Lievito di birra secco: 4 g
+- Olio di semi di mais: 85 g
+- Sale: 6 g
+- Zucchero: 95 g
+- Malto: 1 cucchiaino
+- Uva passa: 30 g
+- Pinoli: 30 g
+- Arancia candita: 30 g
+- Scorza di limone: 1
+- Zucchero: 150 g
+- Acqua: 100 g
+- Panna fresca liquida: 500 ml
+- Zucchero a velo: 40 g
+
+## Preparazione
+Per preparare i maritozzi, sciogliete il lievito disidratato (oppure  gr di lievito di birra fresco) in poca acqua tiepida , aggiungete un cucchiaino di malto  e mescolate bene. Ponete la farina manitoba in una ciotola, insieme allo zucchero, formando un buco al centro in cui verserete il lievito e il malto sciolti insieme  , che stempererete un po' con la farina.Nella restante acqua tiepida versate il sale , l’olio di semi  e la scorza grattugiata di limone   e mescolate.Versate il liquido ottenuto a filo sulla farina e impastate con le mani, facendo gesti ampi e veloci . Intanto separate i tuorli dagli albumi, che terrete da parte, e aggiungete solo i tuorli e all’impasto . Continuate ad impastare , almeno per - minuti, fino a che il composto non risulterà ben compatto.Intanto mettete ad ammollare l’uvetta in acqua fredda per  minuti , strizzatela o lasciatela sgocciolare in un colino e asciugatela con un panno. Aggiungete l'uvetta, i pinoli  e l'arancia candita (oppure la scorza grattugiata di  arancia) all’impasto e continuate ad impastare affinchè i pinoli, l’uvetta e l'arancia vengano assorbiti dall’impasto. Ponete l’impasto dei maritozzi in una ciotola infarinata , coperta dalla pellicola e lasciate lievitare per almeno  ore in forno chiuso e spento (potete lasciare la sola luce accesa per accelerare la lievitazione).Quando l’impasto dei maritozzi avrà raddoppiato di volume , trasferitelo su di un piano di lavoro infarinato e dividetelo  pezzi del peso di circa - gr l’uno (-).Date ad ogni pezzo una forma rotonda ben chiusa sotto , sistemateli su di una leccarda da forno foderata con un foglio di carta da forno e copriteli con della pellicola , lasciandoli lievitare per mezz’ora. Trascorso questo tempo date loro una forma un po’ allungata e spennellateli con gli albumi che avrete tenuto da parte . Copriteli ancora con la pellicola e fateli lievitare per l’ultima volta ancora un’ora. Intanto che i maritozzi lievitano, preparate lo sciroppo di zucchero, che servirà per spennelare, mettendo in un pentolino lo zucchero e l’acqua . Fate sciogliere bene lo zucchero fino a che il liquido non diventi trasparente  e fatelo raffreddare.  Ora che i maritozzi avranno finito di lievitare infornateli in forno caldo a  gradi per  minuti.Montate anche la panna a neve ferma in una planetaria insieme allo zucchero a velo (-). Quando i vostri maritozzi si saranno ben dorati sulla superficie, sfornateli e ancora caldi spennellateli con lo sciroppo di zucchero .Una volta raffreddati, fate un taglio al centro di ogni maritozzo  e farcite ognuno con ciuffi di panna montata che avrete trasferito in una sac-à-poche (-). Ecco pronti per essere serviti (e spazzolati) i vostri maritozzi!
+
+## Descrizione
+Il risultato finale sarà un dolce lievitato soffice e profumato, arricchito da uvetta, pinoli e scorza di limone, e farcito con panna fresca zuccherata. La superficie dei maritozzi sarà lucida grazie alla glassa di zucchero e acqua applicata alla fine della cottura. Saranno perfetti da gustare per colazione, merenda o dessert.
+
+Questi maritozzi sono adatti a chi segue una dieta non troppo restrittiva, in quanto sono ricchi di zuccheri e grassi. Non sono adatti per chi segue una dieta low-carb, a basso contenuto di grassi o per chi è intollerante al glutine o al lattosio. Le persone con intolleranza al lattosio possono provare a sostituire la panna fresca con una alternativa senza lattosio, mentre per gli intolleranti al glutine è necessario utilizzare una farina senza glutine e verificare che gli altri ingredienti siano privi di glutine.

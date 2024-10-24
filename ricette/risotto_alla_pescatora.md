@@ -1,0 +1,42 @@
+# Risotto alla pescatora
+Categoria: None
+
+## Ingredienti
+- Riso Carnaroli: 350 g
+- Scalogno: 1
+- Vino bianco: q.b.
+- Triglie: già eviscerate 200 g
+- Vongole veraci: 1 kg
+- Calamari: (già puliti, solo il mantello) 500 g
+- Gamberi: 250 g
+- Olio extravergine d'oliva: q.b.
+- Aglio: 1 spicchio
+- Acqua: ghiacciata 2 l
+- Scalogno: 60 g
+- Finocchi: 200 g
+- Pepe nero in grani: 3
+- Basilico: 2 fogli
+- Aglio: 2 spicchi
+- Olio extravergine d'oliva: 100 g
+- Peperoncino fresco: 5 g
+- Basilico: 5 foglie
+- Pepe bianco: 1 pizzico
+- Pomodorini datterini: 250 g
+- Zucchero: 1 pizzico
+- Sale fino: 1 pizzico
+- Acqua: 50 g
+- Aglio: 1 spicchio
+- Prezzemolo: (solo foglie) 50 g
+- Olio extravergine d'oliva: delicato 100 g
+
+## Preparazione
+Per preparare il risotto alla pescatora come prima cosa occupatevi della pulizia delle vongole. Inanzitutto assicuratevi che tutte siano ben chiuse, altrimenti scartate quelle aperte. Battetele su un tagliere  e trasferitele in una ciotola con acqua e sale per un paio d'ore . Poi scolatele e passate alla cottura. In un tegame versate un filo d'olio e lasciatelo scaldare, aggiungete poi uno spicchio d'aglio schiacciato e non appena l'olio sarà caldo versate le vongole . Alzate il fuoco, aspettate qualche secondo poi sfumate con il vino bianco . Coprite con un coperchio  e cuocete per qualche minuto fino a che tutte le vongole saranno aperte. A questo punto, utilizzando un colino, filtrate l'acqua di cottura in una bowl . Scartando le vongole chiuse, sgusciate le altre e tenetele da parte . Passate ai calamari. Incidete il mantello a metà , allargatelo, distendendolo su un tagliere e realizzate delle striscioline sottolissime, come se fossero dei fili . Tenete da parte e occupatevi delle triglie. Tagliate la testa e la parte finale della coda , poi sfilettate i pesci in modo da ottenere  filetti regolari . Conservate gli scarti perchè serviranno per realizzare il brodo. Adesso pulite i gamberi. Con le mani staccate la testa e il carapace insieme alla coda , anche questi serviranno per arricchire il brodo. Poi con un coltellino incidete il dorso di ciascun gambero  e con le mani eliminate il filamento nero. A questo punto passate al brodo. Tritate finemente lo scalogo  e tagliate i finocchi in striscioline sottili .In una pentola abbastanza capiente versate un filo d'olio. Aggiuntete  spicchi d'aglio, lo scalogno, i carapaci dei gamberi e le lische delle triglie . Lasciate rosolare , poi aggiungete l'acqua con il ghiaccio , i finocchi , i grani di pepe  e le foglie di basilico . Aggiungete anche l'acqua delle vongole precedentemente filtrata . Portate a bollore, poi abbassate la temperatura e lasciate cuocere per - minuti a fuoco basso.  Nel frattempo passate alla coulis di pomodori. In un tegame versate i pomodori, lo zucchero , il sale, lo spicchio d'aglio in camicia  e l'acqua . Aspettate che inizi a bollire, poi cuocete per - minuti. A questo punto togliete l'aglio , spegnete il fuoco e trasferite tutto in un mixer. Frullate il tutto e trasferite in una ciotola . Ora anche il brodo sarà pronto, filtratelo e tenetelo in caldo. Adesso potrete occuparvi della cottura del riso. In un tegame versate un filo d'olio, aggiungete lo scalogno tritato  e lasciatelo tostare leggermente. Quando inizierà a sudare aggiungete il riso carnaroli  e mescolando di tanto in tanto fatelo tostare .                                        Per capire quando il riso è ben tostato toccatelo con il dorso della mano, senza scottarvi, e se risulterà caldo aggiungete il vino bianco , ne serviranno circa  g. Non appena sarà evaporato bagnate il riso con un paio di mestoli di brodo  .Non appena inizierà a bollire saranno necessari circa  minuti di cottura, dovrete aggiungere altro brodo solo al bisogno. Dopo una decina di minuti il riso sarà quasi cotto, aggiungete le vongole  e mescolate. Poi unite i calamari , mescolate di nuovo, aggiungete i gamberi e mescolate ancora una volta . Aspettate che siano trascorsi i  minuti, quindi spegnete il fuoco e mantecate. Aggiungete l'olio, il peperoncino tagliato sottile, una grattata di pepe bianco e qualche foglia di basilico , spezzettandole con le mani. Aggiungete la coulis di pomodoro , mescolate scuotendo contemporaneamente il tegame, in modo da mantecare il risotto .Coprite con un coperchio , lasciate riposare per un minuto e nel frattempo scottate rapidamente le triglie. In un tegame versate un filo d'olio, lasciatelo scaldare, quindi aggiungete i filetti di triglia . Dopo pochi secondi girateli e ultimate la cottura anche dall'altro lato . Trasferite poi su un vassoio con carta assorbente per asciugarle . Riprendete il riso, assaggiatelo. Regolate di sale, di pepe bianco ed eventualmente se non dovesse essere mantecato a puntino aggiungete ancora un filo d'olio . Mantecate un'ultima volta prima di impiattare. Versate un mestolo di riso al centro di un piatto .Battete con il palmo della mano sotto il fondo del piatto perchè il riso si distribuisca. Posizionate su ciascuna porzione  filetti di triglie  e per finire aggiungete su ciascun piatto un giro d'olio al prezzemolo . Servite il risotto alla pescatora ancora caldo ! Lavate le foglioline di prezzemolo e tuffatele in un tegame con acqua bollente . Scottatele per pochi minuti, poi scolatele e strizzatele . Trasferite il prezzemolo nel contenitore di un mixer e aggiungete l'olio . Frullate il tutto fino ad ottenere una crema liscia . Setacciate quindi il composto, in modo da ricavare il vostro olio al prezzemolo . Trasferitelo quindi in un biberon da cucina o in una bottiglietta , in questo modo sarà più facile utilizzarlo! 
+
+## Descrizione
+Il risultato finale del Risotto alla pescatora sarà un piatto cremoso e ricco di sapori di mare, grazie alla presenza di triglie, vongole, calamari e gamberi. Il riso carnaroli sarà perfettamente cotto al dente e arricchito dai succulenti frutti di mare e da un mix di aromi come aglio, cipolla, basilico e prezzemolo.
+
+Questo piatto è adatto per occasioni speciali o per chi ama i sapori del mare. Perfetto da servire come primo piatto in una cena importante o come portata principale in una cena a base di pesce.
+
+La ricetta del Risotto alla pescatora potrebbe essere adatta a persone che seguono una dieta mediterranea o a chi è alla ricerca di piatti leggeri e nutrienti. Tuttavia, chi segue una dieta vegetariana o vegana dovrebbe evitare questo piatto a base di frutti di mare.
+
+Le persone con intolleranze al pesce o ai crostacei dovrebbero evitare il Risotto alla pescatora, in quanto contiene triglie, vongole, calamari e gamberi. Chi soffre di intolleranze alimentari dovrebbe prestare attenzione agli ingredienti e, se necessario, sostituire o eliminare alcuni frutti di mare nella ricetta.

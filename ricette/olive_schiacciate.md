@@ -1,0 +1,21 @@
+# Olive schiacciate
+Categoria: Contorni
+
+## Ingredienti
+- Olive verdi: fresche e polpose 850 g
+- Olio extravergine d'oliva: 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Aglio: 3 spicchi
+- Peperoncino fresco: 1
+- Origano: q.b.
+
+## Preparazione
+Per realizzare le olive schiacciate, iniziate al mattino perché dovrete cambiare l'acqua di macerazione un paio di volte al giorno, mattina e sera. Prendete dunque le olive verdi fresche (scegliete quelle più polpose e grandi possibilmente), battetele con un batticarne  in modo da dividerle a metà senza romperle del tutto possibilmente ed estrarre il nocciolo . Riponetele in una ciotola ampia e versate l’acqua Fino a ricoprirle completamente . Coprite la ciotola con un canovaccio pulito e asciutto  e conservate le olive in un luogo fresco e asciutto al riparo dalle fonti di calore. Dovrete cambiare l'acqua  volte al giorno, con un intervallo di circa  ore tra un riposo e l'altro. Quindi scolate le olive dall'acqua di macerazione e ricopritele ancora con altra acqua corrente , appoggiate nuovamente il canovaccio pulito e asciutto  e conservatele ancora con le stesse modalità, cambiando l'acqua due volte al dì, come indicato. Cambiate l’acqua alle olive per  giorni rispettando queste tempistiche. Il sesto giorno la colorazione e la consistenza delle olive sarà già diversa; scolatele e ricopritele ancora con acqua corrente ; quindi lasciatele riposare le olive fino al giorno dopo. Il settimo giorno, sciacquate, salate e ricoprite nuovamente con acqua; quindi lasciate riposare fino all'ottavo giorno, quando potrete scolare le vostre olive schiacciate, che oramai si presenteranno piuttosto scure ; sciacquatele accuratamente sotto acqua corrente quindi rovesciatele su un canovaccio pulito  e tamponatele delicatamente per asciugarle . Trasferite le olive schiacciate in una ciotola, condite con sale, olio di oliva poi sbucciate l'aglio e affettatelo finemente , dividete a metà nel senso della lunghezza il peperoncino fresco , eliminate i semini interni e tagliatelo a striscioline sottili .Completate il condimento con l’aglio, il peperoncino  e l’origano secco . Mescolate per insaporite e servite le vostre olive schiacciate come contorno (o come antipasto se preferite) !
+
+## Descrizione
+Il risultato finale delle olive schiacciate sarà un contorno saporito e aromatico, perfetto per accompagnare piatti di carne o pesce. Le olive saranno morbide e leggermente piccanti grazie al peperoncino fresco, e ben condite con l'olio extravergine d'oliva, l'aglio e l'origano.
+
+Questo contorno è adatto per occasioni informali come aperitivi o barbecue, ma può essere servito anche come antipasto o parte di un buffet. 
+
+Le olive schiacciate sono adatte per diete mediterranee e vegetariane, essendo a base di ingredienti naturali e non processati. Possono essere consumate anche da persone con intolleranze al lattosio o al glutine, ma è consigliabile controllare l'assenza di contaminazioni crociate. Le persone con intolleranze al nichel dovrebbero prestare attenzione al consumo di olive.

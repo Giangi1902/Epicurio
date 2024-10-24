@@ -1,0 +1,24 @@
+# Bocconcini di tacchino e pancetta
+Categoria: Secondi piatti
+
+## Ingredienti
+- Petto di tacchino: pezzo unico 500 g
+- Pancetta affumicata: 40 fette
+- Salvia: 30 foglie
+- Senape: forte 50 g
+- Vino rosso: 30 ml
+- Burro: 20 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: (se necessario) q.b.
+
+## Preparazione
+Per preparare i bocconcini di tacchino e pancetta, iniziate a tagliare il petto tacchino a tocchetti regolari di circa  cm di spessore . Preparate su un tagliere gli altri ingredienti: la senape, le foglie di salvia pulite e le fette di pancetta  quindi procedete alla composizione degli involtini. Spalmate sulla superficie superiore di ogni tocchetto di tacchino un cucchiaino scarso di senape  eappoggiateci sopra una fogliolina di salvia . Avvolgete il bocconcino di tacchino con un paio di fettine di pancetta affumicata, fino a ricoprirlo totalmente (-).Continuate così fino a ricoprire tutti i tocchetti di tacchino. Mettete in una padella antiaderente il burro e fatelo sciogliere insieme ad un goccio d’olio, in modo che il burro non bruci, aggiungete una decina di foglie di salvia  e lasciatele rosolare un paio di minuti a fuoco basso in modo da non farle bruciare. A questo punto, aggiungete in padella i bocconcini di tacchino ,lasciate rosolare un paio di minuti  e poi sfumate col vino rosso . Terminate la cottura a fuoco vivace per circa  minuti, ricordandovi di girare i bocconcini a metà cottura in modo che risultino ben rosolati anche dall’altro lato . Assaggiate e aggiungete del sale solo se necessario; i vostri bocconcini di tacchino e pancetta sono pronti per essere serviti!
+
+## Descrizione
+- Risultato finale: I bocconcini di tacchino avvolti nella pancetta saranno croccanti fuori e morbidi all'interno, arricchiti dal sapore della salvia e della senape. La combinazione di ingredienti crea un piatto gustoso e invitante.
+
+- Occasioni adatte: Questa ricetta è perfetta per una cena in famiglia, un pranzo con gli amici o come secondo piatto per una cena speciale.
+
+- Diete o regime alimentare: Questo piatto è adatto a una dieta proteica, a basso contenuto di carboidrati e senza glutine. Tuttavia, è consigliabile prestare attenzione alle porzioni per chi segue una dieta ipocalorica.
+
+- Intolleranze alimentari: Le persone con intolleranza al lattosio dovrebbero prestare attenzione all'uso del burro nella ricetta. Inoltre, chi soffre di intolleranza al glutine deve assicurarsi che tutti gli ingredienti siano privi di glutine.

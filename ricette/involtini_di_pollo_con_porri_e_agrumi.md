@@ -1,0 +1,26 @@
+# Involtini di pollo con porri e agrumi
+Categoria: None
+
+## Ingredienti
+- Petto di pollo: (8 fette sottili) 500 g
+- Pangrattato: 100 g
+- Arance: 1
+- Limoni: 1
+- Porri: 1
+- Aglio: 1 spicchio
+- Prezzemolo: 1 ciuffo
+- Olio extravergine d'oliva: 3 cucchiai
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare gli involtini di pollo con porri e agrumi come prima cosa occupatevi del ripieno. Nel contenitore di un mixer versate il pangrattato, un pizzico di sale, un pizzico di pepe, il prezzemolo e l'aglio sbucciato . Frullate il tutto e trasfetite in una ciotola, aggiungete la scorza di mezzo limone  e quella di mezza arancia . Mescolate  e tenete da parte per un momento. Grattugiate la scorza di limone e la scorza d'arancia rimasti e teneteli da parte per la decorazione. Tagliate l'arancia a metà e pelatela a vivo , poi tagliatela a cubetti e trasferitela nella ciotola con il mix di pangrattato . Mescolate e tenete da parte. Eliminate dal porro la parte con le radici, sfogliatelo per eliminare le foglie più dure e tagliatelo a rondelle. Lavatelo e scolatelo per bene. Passate ora alla composizione degli involtini. Stendete le fettine di pollo su un tagliere e posizionate un cucchiaio di ripieno all'inizio di ciascuna fettina . Poi arrotolatele per formare gli involtini . Scaldate l'olio in un tegame, aggiungete il porro e lasciatelo appassire a fuoco dolce per pochi minuti . Alzate poi la fiamma, posizionate gli involtini con la chiusura rivolta verso il basso .  Aspettate circa  minuti, poi girateli . Lasciate rosolare per altri  minuti anche dall'altro lato. Aggiungete il succo del limone e quello della mezza arancia tenuta da parte. Abbassate nuovamente la fiamma, coprite con coperchio  e lasciate cuocere gli involtini per altri  minuti. Trasferite gli involtini in un piatto e decorate con la scorza d'arancia e di limone prima di servirli . 
+
+## Descrizione
+- Risultato finale: Gli involtini di pollo con porri e agrumi saranno dei deliziosi involtini di pollo farciti con una miscela di porro, pangrattato, agrumi e spezie. Saranno cotti in padella con olio extravergine d'oliva fino a raggiungere una consistenza dorata e croccante.
+
+- Occasioni adatte: Questa ricetta di involtini di pollo con porri e agrumi è adatta per occasioni speciali come cene eleganti o pranzi festivi. Può essere servita come piatto principale in un menu completo.
+
+- Diete o regimi alimentari adatti: Gli involtini di pollo con porri e agrumi possono essere adatti a diverse diete o regimi alimentari. Sono ideali per una dieta proteica, poiché il pollo è una fonte magra di proteine. Possono essere anche adatti a una dieta bilanciata e salutare.
+
+- Intolleranze alimentari: Questa ricetta può essere adatta a persone con intolleranze al glutine, se si utilizza del pangrattato senza glutine. Tuttavia, potrebbe non essere adatta a persone con intolleranze al lattosio se vengono utilizzati eventuali ingredienti latticini aggiuntivi. È importante leggere attentamente le etichette degli ingredienti per evitare allergeni nascosti.

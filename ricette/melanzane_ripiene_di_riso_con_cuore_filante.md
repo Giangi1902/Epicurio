@@ -1,0 +1,30 @@
+# Melanzane ripiene di riso con cuore filante
+Categoria: Piatti Unici
+
+## Ingredienti
+- Melanzane: (3 pezzi) 900 g
+- Riso Carnaroli: 300 g
+- Vino bianco: 50 g
+- Scalogno: 50 g
+- Olio extravergine d'oliva: 30 g
+- Passata di pomodoro: 400 g
+- Sale grosso: 1 pizzico
+- Brodo vegetale: 500 g
+- Parmigiano Reggiano DOP: grattugiato 150 g
+- Scamorza (provola): 120 g
+- Basilico: q.b.
+- Sale fino: 1 pizzico
+- Pepe nero: 1 pizzico
+- Olio di semi di arachide: 800 g
+
+## Preparazione
+Per preparare le melanzane ripiene di riso con cuore filante inanzittutto occorre realizzare il brodo vegetale che vi servirà più avanti per il risotto. Nel frattempo occupatevi delle melanzane. Lavatele e asciugatele con un foglio di carta da cucina, quindi spuntatele e tagliatele a metà nel senso della lunghezza . Aiutandovi con un coltellino dalla lama affilata effettuate un'incisione tra la buccia e la polpa . Procedendo in questo modo per tutto il contorno della melanzana riuscirete a separare le due parti facendo una leggera pressione , senza rompere l'involucro esterno.Tagliate la polpa a cubetti  e friggeteli in abbondante olio già caldo . La temperatura consigliata per ottenere un fritto asciutto è quella di -° (utilizzate un termometro per misurarla). Una volta che i cubetti di melanzane saranno ben dorati scolateli e posizionateli su un foglio di carta da cucina ; salate a piacere.A parte friggete in olio di semi anche i "gusci" delle melanzane tenuti da parte . Non appena saranno dorati  scolateli su un vassoio con carta assorbente .Tenete da parte le melanzane e dedicatevi alla cottura del risotto. Tritate finemente lo scalogno  e soffriggetelo dolcemente in un tegame insieme all'olio. Una volta che sarà appassito unite il riso  e tostatelo per pochi minuti mescolando spesso .Una volta che il riso avrà cambiato colore sfumate con il vino bianco , unite la passata di pomodoro  e aggiungete un pizzico di sale. Mescolate e portate il riso a cottura aggiungendo il brodo caldo poco per volta . Lasciate cuocere venti minuti, continuando ad aggiungere brodo se necessario.Solo quando il riso sarà pronto unite il Parmigiano , tenendone da parte circa  grammi per spolverizzare poi le melanzane. Mescolate e trasferite il riso in una ciotola. Aggiungete le foglioline di basilico spezzettate con le mani  e unite i cubetti di melanzane .Disponete gli involucri di melanzana fritti precedentemente su una pirofila e farciteli a strati. Aggiungendo prima  cucchiaio di riso , poi una fetta di scamorza  e ancora un cucchiaio di riso .Ultimate spolverizzando le melanzane con il parmigiano tenuto da parte  ed infornate, in modalità grill, a ° per circa - minuti. Quindi sfornatele  e servite le vostre melanzane ripiene di riso con cuore filante ancora calde .
+
+## Descrizione
+Il risultato finale della ricetta "Melanzane ripiene di riso con cuore filante" sarà un piatto colorato e gustoso, con le melanzane morbide e aromatiche, il riso cremoso e il cuore filante di scamorza. Il tutto sarà arricchito dal saporito sugo di pomodoro e dal profumo del basilico.
+
+Questa ricetta è adatta per occasioni speciali come cene in famiglia o con amici, poiché si tratta di un piatto unico ricco e sostanzioso. È perfetto da servire come piatto principale per un pranzo o una cena ricca e soddisfacente.
+
+Questa ricetta è adatta a una dieta vegetariana, in quanto non contiene carne o pesce. Inoltre, può essere adattata per una dieta senza glutine utilizzando riso senza glutine e assicurandosi che gli altri ingredienti siano privi di glutine.
+
+Le persone con intolleranze possono mangiare questa ricetta se sono intolleranti al lattosio, eliminando il parmigiano reggiano DOP e utilizzando un formaggio senza lattosio al posto della scamorza. Inoltre, coloro che sono intolleranti al glutine possono mangiarla utilizzando riso senza glutine e assicurandosi che gli altri ingredienti siano privi di glutine.

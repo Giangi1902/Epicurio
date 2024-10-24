@@ -1,0 +1,24 @@
+# Biscotti lecca lecca
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero a velo: 100 g
+- Farina 00: 250 g
+- Tuorli: 2
+- Burro: (freddo di frigo) 125 g
+- Baccello di vaniglia: 1
+- Marzapane: 125 g
+- Coloranti alimentari: giallo, blu, rosso q.b.
+- Colla alimentare: q.b.
+- Matite alimentari: brillanti, color madreperla q.b.
+- Confettini colorati: al cioccolato q.b.
+
+## Preparazione
+Per prepare i biscotti lecca lecca iniziate dalla frolla: nella tazza di un mixer versate la farina setacciata e il burro freddo a pezzetti . Quindi azionate le lame e realizzate la sabbiatura ; rovesciate tutto su un piano di lavoro. Setacciate lo zucchero a velo Prelevate i semini della bacca di vaniglia e unite tutto al resto del composto. Al centro della fontana versate le uova e iniziate a mescolare prima con una forchetta , poi a mano impastando molto velocemente per non scaldare troppo la frolla . Quando avrete ottenuto un composto compatto, formate un panetto e schiacciatelo leggermente e avvolgetelo in pellicola trasparente . Fatelo rassodare in frigorifero almeno  minuti.Passato il tempo necessario, riprendete la frolla, infarinate leggermente il piano di lavoro e stendetela con il mattarello in un disco dello spessore di  cm (-). Quindi con le formine di biscotti a forma di fiore, cuore e stella coppate la frolla : con queste dosi ne verranno .Infilzate i biscotti ottenuti con uno stecco  quindi poneteli su una leccarda foderata con carta da forno e cuocete in forno statico preriscaldato a ° per circa  minuti (° per circa  minuti se forno ventilato) ; quando saranno cotti potrete sfornarli  e lasciarli raffreddare completamente su una gratella.Mentre i biscotti si cuociono, preparate la decorazione: prendete il marzapane e dividetelo in  parti uguali . Colorate ciascun panetto con i coloranti alimentari giallo, blu, rosso e uno con il giallo e blu per realizzare il colore verde . Amalgamate bene i colori e formate delle palline di marzapane stendete ciascuna pallina in un disco sottile  e coppateli con le stesse forme di biscotti per poi decorarli . Distribuite poca colla alimentare sulla sagoma di marzapane e adagiatela su ciascun biscotto (i biscotti dovranno essere completamente freddi) A questo punto potete decorarli come più preferite, ad esempio con le decorazioni in gel per rifinire i bordi dei biscotti ; poi arricchiteli con confetti di cioccolato  da adagiare sempre con la colla alimentare per un risultato di grande effetto. I vostri biscotti lecca lecca sono pronti per essere gustati .
+
+## Descrizione
+Il risultato finale della ricetta "Biscotti lecca lecca" sono dei biscotti colorati a forma di lecca lecca, graziosi e allegri. Sono croccanti all'esterno e morbidi all'interno, grazie al marzapane.
+
+Questi biscotti sono adatti per feste di compleanno, feste per bambini, feste a tema o semplicemente come dolce divertente da offrire agli ospiti.
+
+Questa ricetta non è adatta a persone con intolleranze al glutine, al lattosio o alle uova, a causa della presenza di farina e tuorli. Tuttavia, è possibile apportare delle modifiche utilizzando ingredienti senza glutine, lattosio o sostituendo i tuorli con un'altra alternativa.

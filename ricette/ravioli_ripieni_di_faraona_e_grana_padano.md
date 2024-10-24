@@ -1,0 +1,39 @@
+# Ravioli ripieni di faraona e Grana Padano
+Categoria: Primi piatti
+
+## Ingredienti
+- Faraona: ½
+- Grana Padano DOP: da grattugiare 60 g
+- Sedano: 1 costa
+- Carote: 1
+- Scalogno: 1
+- Brodo di carne: circa 500 g
+- Brandy: 10 g
+- Alloro: 2 foglie
+- Salvia: q.b.
+- Timo: q.b.
+- Rosmarino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Farina 00: 300 g
+- Uova: medie 3
+- Semola di grano duro rimacinata: q.b.
+- Burro: 80 g
+- Grana Padano DOP: da grattugiare q.b.
+- Gherigli di noci: 8
+- Rosmarino: q.b.
+- Timo: q.b.
+- Salvia: q.b.
+
+## Preparazione
+Per realizzare i ravioli ripieni di faraona e Grana Padano per prima cosa preparate il brodo di carne seguendo la scheda sul nostro sito e tenetelo in caldo, poi dedicatevi al ragù: disossate la faraona , rimuovete la pelle  e tagliate  g di polpa a pezzetti di circa  cm .Mondate e tritate il sedano , la carota  e lo scalogno .Scaldate un giro d’olio in una casseruola, aggiungete la faraona  e rosolate per  minuti a fuoco vivace, mescolando spesso , poi versate il brandy  e lasciate evaporare.Unite le verdure tritate  e rosolate per un paio di minuti, poi versate un mestolo di brodo caldo  e aromatizzate con le foglie di alloro .Aggiungete anche le erbe aromatiche che avrete precedentemente tritato , abbassate il fuoco e cuocete a fiamma dolce per  minuti, bagnando al bisogno con altro brodo. Trascorso questo tempo il ragù dovrà risultare asciutto, quindi rimuovete le foglie di alloro, salate, pepate  e lasciate raffreddare .Nel frattempo preparate la pasta fresca all’uovo: versate la farina e le uova in una ciotola  e amalgamate il composto con le mani , poi continuate a lavorare sulla spianatoia fino ad ottenere un impasto liscio, elastico e omogeneo . Avvolgete l’impasto nella pellicola e lasciate riposare per circa  minuti.Quando il ragù si sarà raffreddato aggiungete il Grana Padano DOP grattugiato  e mescolate bene per incorporarlo in modo uniforme , poi trasferite in frigorifero fino al momento dell’utilizzo .Trascorso il tempo di riposo della pasta fresca utilizzate un tirapasta per ottenere delle sfoglie dello spessore di - mm . Adagiate le sfoglie su un canovaccio spolverizzato con poca semola e distanziate i mucchietti di ripieno a circa  cm l’uno dall’altro , poi inumidite leggermente i bordi con un pennellino .Ricoprite con una seconda sfoglia e premete lungo i bordi per farli aderire . Infine ritagliate i ravioli con un coppapasta del diametro di  cm  e sistemate i ravioli ottenuti su un vassoio spolverizzato con della semola ; con queste dosi ne otterrete una ventina.Quando tutti i ravioli saranno pronti, potete procedere con la cottura: portate a bollore una pentola di acqua salata e cuocete i ravioli per - minuti . Nel frattempo fate sciogliere il burro in un pentolino  fino a quando diventerà color nocciola .Scolate i ravioli  e adagiateli nei piatti da portata , poi irrorate con il burro nocciola .Completate con le erbe aromatiche , i gherigli di noce  e una generosa grattugiata di Grana Padano DOP: i vostri ravioli ripieni di faraona e Grana Padano sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale dei ravioli ripieni di faraona e Grana Padano sarà un piatto ricco e saporito, con un ripieno morbido e gustoso grazie alla faraona e al formaggio Grana Padano. La pasta sarà fresca e delicata, perfettamente abbinata al ripieno.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o pranzi importanti, in cui si desidera deliziare gli ospiti con un piatto raffinato e gustoso.
+
+La ricetta è adatta a persone che seguono una dieta onnivora, poiché contiene carne, formaggio e ingredienti vegetali.
+
+Le persone con intolleranze devono fare attenzione agli ingredienti contenuti nella ricetta. In particolare, potrebbero non poter consumare la faraona se sono intolleranti alla carne di pollo, alcol (presente nel Brandy) e lattosio presente nel formaggio Grana Padano. Inoltre, chi è intollerante al glutine dovrebbe evitare di consumare i ravioli in quanto la pasta è preparata con farina 00.

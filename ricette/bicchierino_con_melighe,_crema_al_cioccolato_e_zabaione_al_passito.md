@@ -1,0 +1,26 @@
+# Bicchierino con melighe, crema al cioccolato e zabaione al passito
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti melighe: 8
+- Latte intero: 250 ml
+- Panna fresca liquida: 250 ml
+- Zucchero: 125 g
+- Amido di riso: 30 g
+- Cioccolato fondente: (tritato) 100 g
+- Tuorli: 125 g
+- Tuorli: (temperatura ambiente) 8
+- Zucchero: 100 g
+- Passito di Pantelleria: 100 ml
+
+## Preparazione
+Per realizzare il bicchierino con melighe, crema al cioccolato e zabaione al passito iniziate dalla preparazione della crema pasticcera al cioccolato: in un pentolino con il doppio fondo versate i tuorli, rompeteli con una frusta poi unite lo zucchero semolato  e l’amido di riso , aggiungete anche a filo il latte e la panna  continuando a sbattere con la frusta per incorporare gli ingredienti. Scaldate il composto e mescolate fino a quando la crema non sarà densa. A questo punto spegnete il fuoco e aggiungete il cioccolato tritato  mescolate finché non si sarà sciolto. Trasferite la crema pasticcera al cioccolato in una ciotola bassa e larga , coprite con la pellicola a contatto e lasciatela raffreddare. Ora occupatevi dello zabaione: in una bastardella ponete i tuorli, aggiungete lo zucchero  e montate con uno sbattitore elettrico  fino ad ottenere un composto spumoso e chiaro.Poi aggiungete a filo il vino passito , sempre sbattendo finchè non si sarà ben amalgamato. Prendete una pentola che possa contenere la bastardella , riempitela con due dita d’acqua e ponetela a scaldare sul fuoco, ponete sopra la bastardella con la crema di zabaione  e fate scaldare per  minuti sempre sbattendo con la frusta il composto .Quando la crema sarà gonfia e densa trasferite la bastardella in una ciotola colma di ghiaccio per far raffreddare rapidamente lo zabaione. Ora componete i bicchierini della capacità di  ml: sbriciolate le melighe grossolanamente , poi ponete uno strato di melighe sbriciolate sul fondo del bicchierino , prendete la crema pasticcera, trasferitela in una sac-à-poche con bocchetta stellata e spremete un po’ di crema nel bicchierino ,poi fate un altro strato di melighe e terminate con lo zabaione . Per finire guarnite i bicchierini con briciole di melighe . I vostri bicchierini con melighe, crema al cioccolato e zabaione al passito sono pronti per essere gustati !
+
+## Descrizione
+Il risultato finale di questa ricetta è un bicchierino composto da strati di biscotti melighe, crema al cioccolato e zabaione al passito. La consistenza sarà cremosa e ricca di sapori, con il contrasto croccante dei biscotti. 
+
+Occasioni adatte: Questo dolce è perfetto per una cena elegante, un pranzo speciale o per stupire gli ospiti durante un buffet. 
+
+Dieta o regime alimentare: Questa ricetta è adatta per chi non segue una dieta specifica e vuole concedersi un dolce decadente e pieno di gusto. 
+
+Intolleranze: Le persone con intolleranza al lattosio possono provare a sostituire il latte e la panna con alternative senza lattosio. Chi ha intolleranza al glutine può optare per biscotti senza glutine al posto delle melighe. I soggetti con intolleranza al cioccolato possono sostituire il cioccolato fondente con cioccolato bianco o senza zucchero.

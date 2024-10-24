@@ -1,0 +1,26 @@
+# Empanadas con gorgonzola e porri
+Categoria: None
+
+## Ingredienti
+- Farina 00: 210 g
+- Acqua: tiepida 70 g
+- Strutto: 50 g
+- Aceto di vino bianco: 3 g
+- Sale fino: 1 pizzico
+- Porri: 200 g
+- Gorgonzola: piccante 100 g
+- Gorgonzola: dolce 85 g
+- Formaggio latteria: tipo Branzi 65 g
+- Olio extravergine d'oliva: 15 g
+- Sale fino: q.b.
+- Olio di semi di girasole: q.b.
+
+## Preparazione
+Per realizzare le empanadas con gorgonzola e porri, per prima cosa preparate l’impasto: formate una fontana con la farina sul piano di lavoro, poi aggiungete al centro lo strutto , il sale  e l’aceto .Unite l’acqua tiepida  e impastate fino ad ottenere un composto liscio e omogeneo . Formate una palla  e lasciate riposare l'impasto in frigorifero per  minuti.Nel frattempo potete dedicarvi al ripieno: mondate i porri e tagliateli a julienne facendo in modo che non siano troppo lunghi , poi versateli in una padella con l’olio caldo . Soffriggete i porri a fuoco medio-alto per - minuti fino a quando inizieranno a prendere colore; dovranno ridursi di volume di circa il %. Salate a fine cottura .Trasferite i porri in una ciotola e aggiungete i formaggi a cubetti: il Branzi , il gorgonzola dolce e il gorgonzola piccante . Mescolate bene e tenete da parte .Riprendete l’impasto e stendetelo fino allo spessore di , mm; potete utilizzare il mattarello o la macchina per la pasta . Ricavate  dischi con un coppapasta del diametro di  cm . Se non li utilizzate subito potete avvolgerli nella pellicola e riporli in frigorifero .Adagiate un disco di impasto sul piano di lavoro e aggiungete al centro una cucchiaiata di ripieno . Ripiegate il disco a metà e premete i bordi con le dita per sigillarli , poi fate delle pieghette per creare il tipico cordoncino . In alternativa potete sigillare il bordo premendo con i rebbi di una forchetta.Dopo aver formato le empanadas riscaldate abbondante olio di semi in un pentolino fino alla temperatura di °. Friggete  o  pezzi per volta per - minuti . Scolate le empanadas quando saranno belle dorate  e trasferitele su carta assorbente per eliminare l’olio in eccesso. Le vostre empanadas con gorgonzola e porri sono pronte per essere gustate !
+
+## Descrizione
+Il risultato finale delle Empanadas con gorgonzola e porri sarà un delizioso e sfizioso mini calzone ripieno di una cremosa e saporita miscela di formaggi gorgonzola e Branzi, insieme a porri cotti e aromatizzati con olio extravergine d'oliva. La pasta sarà dorata e croccante all'esterno, mentre all'interno si troverà un cuore filante di formaggio.
+
+Queste Empanadas sono perfette come antipasto o finger food per feste e buffet, ma si possono anche gustare come piatto unico leggero accompagnato da una fresca insalata. Sono adatte per chi segue una dieta mediterranea o ama i sapori intensi dei formaggi stagionati.
+
+Le persone con intolleranze al lattosio dovrebbero fare attenzione alla presenza di formaggi stagionati come il gorgonzola, tuttavia potrebbero sostituire i formaggi con alternative senza lattosio o più facilmente digeribili. Le persone celiache possono rendere la ricetta senza glutine utilizzando apposite farine senza glutine e attenzione nella scelta degli ingredienti.

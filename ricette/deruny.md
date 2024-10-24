@@ -1,0 +1,21 @@
+# Deruny
+Categoria: Antipasti
+
+## Ingredienti
+- Patate: 680 g
+- Uova: 1
+- Farina 00: 50 g
+- Sale fino: q.b.
+- Erba cipollina: q.b.
+- Olio di semi di arachide: q.b.
+- Panna acida: q.b.
+
+## Preparazione
+Per preparare i deruny pelate le patate , poi grattugiatele  e scolatele su un colino  pressandole con un cucchiaio per eliminare eventuale acqua di vegetazione in eccesso.In una ciotola rompete l'uovo e versate la farina , mescolate con una forchetta per ottenere un composto omogeneo , quindi salate .Unite la pastella ottenuta alle patate grattugiate . Mescolate ancora per amalgamare . Scaldate bene una padella e poi versate un dito di olio di semi .Prelevate un cucchiaio di impasto , quindi immergetelo nell'olio caldo  e appiattite leggermente la superficie con il dorso del cucchiaio , friggete da un lato fino a doratura .Giratele e proseguite la frittura anche dall'altro lato, sempre fino a doratura, basteranno pochi minuti . Scolate le frittele su un vassoio rivestito con carta assorbente  e servite subito i deruny cospargendoli di erba cipollina tritata e accompagnandoli con la panna acida .
+
+## Descrizione
+Il risultato finale sono delle croccanti frittelle di patate, arricchite con un tocco di erba cipollina e servite con panna acida.
+
+È adatto per un antipasto rustico e sostanzioso, perfetto da servire in occasione di una cena informale tra amici o in un buffet.
+
+La ricetta è adatta a persone che seguono una dieta lattovegetariana. Tuttavia, persone con intolleranza al lattosio possono sostituire la panna acida con alternative senza lattosio. Le deruny sono gluten-free se si usa farina senza glutine, quindi sono adatte anche per chi segue una dieta senza glutine. Per le persone con intolleranza al glutine, è importante assicurarsi che tutti gli ingredienti utilizzati siano privi di glutine.

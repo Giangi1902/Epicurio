@@ -1,0 +1,34 @@
+# Gnocchi di patate senza farina
+Categoria: None
+
+## Ingredienti
+- Patate: 500 g
+- Fecola di patate: 100 g
+- Zafferano: (in polvere) 2 bustine
+- Mandorle pelate: 40 g
+- Acqua: 250 g
+- Amido di mais (maizena): 5 g
+- Olio extravergine d'oliva: 20 g
+- Sale fino: q.b.
+- Pepe bianco: q.b.
+- Broccoli: 200 g
+- Funghi champignon: 100 g
+- Mirtilli rossi: disidratati 20 g
+- Scorza di limone: da grattugiare q.b.
+- Pepe rosa in grani: q.b.
+- Pepe in grani: bianco e nero q.b.
+- Acqua: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare gli gnocchi di patate senza farina, per prima cosa preparate l’impasto degli gnocchi: lessate le patate partendo da acqua fredda per - minuti a seconda della dimensione . Per controllare che siano cotte bucatele con una forchetta e se raggiungete facilmente il cuore, saranno pronte. Sbucciatele e passatele al setaccio . Aggiungete la fecola di patate alla purea ancora calda .Unite anche lo zafferano in polvere , poi impastate a lungo  fino ad ottenere un composto liscio e dal colore omogeneo ; in questo modo otterrete la giusta consistenza. Lasciate riposare l'impasto a temperatura ambiente per  minuti.Trasferite l’impasto sul piano di lavoro di legno, non infarinato, e formate dei filoncini spessi di , cm . Spolverizzatel con un po’ di fecola perchè si crei uno strato leggero e tagliateli a tocchetti della lunghezza di circa  cm . Trasferiteli su un vassoio foderato con carta forno e tenete da parte mentre proseguite con la ricetta .Passate alla preparazione della panna di mandorle: in un frullatore versate l’acqua e le mandorle , frullate per almeno un minuto . Filtrate il latte di mandorla ottenuto con un colino a maglie strette, per separare la parte liquida da quella granulosa, così da ottenere un risultato liscio. Aiutatevi schiacciando il composto con il dorso di un mestolo o un cucchiaio . La polpa che resta sul colino non va gettata, si può utilizzare come consigliato in fondo alla ricetta.Versate il liquido ottenuto in un pentolino e portatelo a ebollizione, poi aggiungete l’amido di mais , che avrete diluito con poca acqua. Unite anche l’olio , il sale e il pepe bianco. Mescolate con una frusta per amalgamare, spegnete il fuoco e tenete da parte .Ora dedicatevi alle verdure. Mondate i broccoli e divideteli in cimette della stessa dimensione . Scaldate circa  g di olio in una padella, aggiungete i broccoli  e il sale. Coprite con il coperchio e lasciate arrostire a fuoco basso per una decina di minuti, senza mescolare; verso metà cottura aggiungete un goccio d’acqua per facilitare la cottura . A fine cottura togliete il coperchio per far evaporare l'acqua rimasta.Pulite i funghi e divideteli a metà in modo che siano grandi uguali . In un’altra padella scaldate un giro abbondante d’olio, aggiungete i funghi  e fateli saltare per circa  minuti a fiamma alta . Salate solo a fine cottura.Mettete sul fuoco una pentola con acqua abbondante per cuocere gli gnocchi. Nel frattempo passate i grani di pepe rosa al colino a maglie grosse: raccogliete su della carta forno la buccia, più aromatica  Resterà la parte interna più piccante da mettere da parte per altri usi. Tritate al coltello anche i grani di pepe bianco e nero  e i mirtilli disidratati .Una volta che l’acqua sarà giunta a bollore, aggiungete il sale e cuocete gli gnocchi per circa un minuto e mezzo . Mentre gli gnocchi cuociono saltate i mirtilli in una padella con un filo d’olio  insieme al pepe tritato. Dopo un paio di minuti sfumate con un mestolo dell’acqua di cottura .Scolate gli gnocchi nella padella  e saltateli insieme ai mirtilli , mentre riscaldate le verdure a parte .Siete pronti per impiattare: versate la panna di mandorle sul fondo del piatto , poi aggiungete gli gnocchi , i funghi e i broccoli .Completate con la buccia del pepe rosa  e la scorza grattugiata del limone . I vostri gnocchi di patate senza farina sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto di gnocchi di patate senza farina, arricchiti con il sapore dello zafferano e delle mandorle. I gnocchi saranno serviti con una salsa di broccoli, funghi champignon, mirtilli rossi e pepe rosa, il tutto completato da una grattugiata di scorza di limone.
+
+Questa ricetta è adatta per occasioni speciali come cene eleganti o pranzi in famiglia. 
+
+Questa ricetta è adatta per persone che seguono una dieta senza glutine, in quanto non viene utilizzata farina di frumento. È inoltre adatta per persone che seguono una dieta vegetariana.
+
+Le persone con intolleranze alimentari possono consumare questa ricetta, a patto di controllare la presenza di altre allergie. Le tipologie di intolleranze da tenere in considerazione sono l'intolleranza al lattosio, in quanto non vengono utilizzati latticini, e l'intolleranza al glutine, in quanto la ricetta è senza farina.

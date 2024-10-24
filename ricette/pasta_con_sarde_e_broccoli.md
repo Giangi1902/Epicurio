@@ -1,0 +1,27 @@
+# Pasta con sarde e broccoli
+Categoria: Primi piatti
+
+## Ingredienti
+- Pennette rigate 5 cereali: 320 g
+- Broccoli: 400 g
+- Sarde: (da pulire) 500 g
+- Olio extravergine d'oliva: q.b.
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Cipolle rosse: 1
+- Aglio: 2 spicchi
+- Peperoncino fresco: 1
+- Pecorino romano: semi stagionato 100 g
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare la pasta con sarde e broccoli per prima cosa occupatevi della pulizia delle sarde (occorrerrano circa  g pulite per arrivare a circa  g di sarde pulite da usare per la ricetta): eliminate la testa  e apritele a libro per eliminare le interiora e la lisca interna , fate questa operazione sotto l’acqua corrente in modo da eliminare gli scarti. Ora pulite i broccoli: staccate le cimette dal torsolo (otterrete circa  g di cimette) e tagliatele a piccoli pezzetti , sciacquatele poi sotto l’acqua corrente e tenetele da parte (con il torsolo una volta mondato della parte esterna più coriacea, potrete realizzare altri piatti come burger vegetariani o una vellutate). Mondate e affettate la cipolla  e tagliate a cubetti il pecorino semi stagionato .In un tegame ampio scaldate l’olio di oliva con l’aglio e il peperoncino , lasciate insaporire per un paio di minuti a fuoco dolce e poi versate le cipolle , stufatele per  minuti a fuoco moderato, poi eliminate l’aglio . Intanto ponete sul fuoco una pentola colma di acqua salata e portate al bollore, servirà per la cottura della pasta.Una volta che le cipolle saranno morbide, aggiungete le sarde pulite , saltatele a fuoco medio alto per - minuti poi unite anche i broccoli . Nel frattempo cuocete la pasta  fino a quando non mancheranno  minuti al termine della cottura rispetto ai tempi indicati sulla confezione.Proseguite la cottura del condimento aggiungendo al bisogno l’acqua di cottura della pasta , salate e pepate. Scolate la pasta direttamente nel tegame con il sugo , aggiungete un mestolo di acqua della pasta  e portate a cottura per altri  minuti.Spegnete il fuoco, aggiungete i cubetti di pecorino , coprite con il coperchio  e lasciate riposare per  minuto, dopodiché mescolate e servite subito la vostra pasta con sarde e broccoli .
+
+## Descrizione
+Il risultato finale sarà una pasta cremosa e saporita, arricchita dal sapore delle sarde e dalla croccantezza dei broccoli. Il pecorino romano semi stagionato aggiunge una nota salata e aromatico, mentre il pepe nero e il peperoncino fresco donano un tocco di piccantezza.
+
+Questa ricetta è adatta per una cena tra amici o per un pranzo in famiglia. Può essere servita sia in occasioni informali che in occasioni più speciali.
+
+Questa ricetta è adatta per chi segue una dieta onnivora, ma può essere facilmente adattata per essere vegetariana sostituendo le sarde con qualche altro ingrediente (come ad esempio olive nere). 
+
+Le persone con intolleranze al glutine possono preparare questa ricetta utilizzando pasta senza glutine. Le persone intolleranti al lattosio possono evitare l'aggiunta di pecorino romano, mentre le persone con intolleranze al pesce dovranno ovviamente evitare l'utilizzo delle sarde.

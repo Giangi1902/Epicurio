@@ -1,0 +1,24 @@
+# Penne con rana pescatrice e pomodorini
+Categoria: Primi piatti
+
+## Ingredienti
+- Penne Rigate Senza Glutine: 320 g
+- Rana pescatrice: 600 g
+- Pomodorini ciliegino: 500 g
+- Aglio: 1 spicchio
+- Basilico: 3 foglie
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le penne con rana pescatrice e pomodorini, procuratevi uno o più tranci già puliti di rana pescatrice  e togliete l’osso centrale, incidendo con un coltello il perimetro dell'osso stesso cercando di mantenere intatta la polpa . Tagliate la rana pescatrice a pezzetti della dimensione di - centimetri .Lavate i pomodorini e poi tagliateli a metà , scaldate l’olio di oliva in un tegame e aggiungete l’aglio intero sbucciato . Lasciate insaporire l’aglio nell’olio e poi versate i pomodorini ,profumate con le foglio di basilico fresco , salate, pepate, coprite con il coperchio  e lasciate cuocere a fuoco basso per  minuti. Nel frattempo ponete sul fuoco una pentola colma di acqua salata e portatela al bollore. Una volta a bollore salate, servirà per la cottura della pasta. Trascorso il tempo di cottura dei pomodorini, eliminate l’aglio Aggiungete la rana pescatrice tagliata a pezzetti  e proseguite la cottura per altri  minuti così da portare a cottura anche il pesce . Nel frattempo cuocete anche le penne rigate senza glutine per  minuti o per il tempo indicato sulla confezione .A cottura ultimata scolate la pasta con una schiumarola direttamente nella pentola con il sugo di pomodorini , mescolate per amalgamare il condimento  e servite in tavola le vostre penne con rana pescatrice e pomodorini ben calde .
+
+## Descrizione
+Il risultato finale di questa ricetta saranno delle penne senza glutine condite con rana pescatrice e pomodorini, arricchite da una base di aglio, basilico, olio extravergine d'oliva e spezie come sale e pepe nero. Il piatto sarà colorato e molto appetitoso, con un mix di sapori freschi e rustici che si bilanciano perfettamente tra loro.
+
+Questo piatto è adatto soprattutto per occasioni speciali o pranzi in famiglia, ma può essere preparato anche per un pranzo veloce durante la settimana. È un piatto ricco di sapore e molto nutriente, perfetto per essere gustato in diverse occasioni.
+
+Questa ricetta è adatta per le persone che seguono una dieta senza glutine, in quanto le penne utilizzate sono senza glutine. Inoltre, è adatto anche per chi segue una dieta ricca di pesce e verdure, dato che la rana pescatrice e i pomodorini sono gli ingredienti principali della ricetta.
+
+Le persone con intolleranze al glutine possono mangiare questo piatto, ma è importante assicurarsi che gli ingredienti utilizzati siano privi di contaminazioni da glutine. Le persone con intolleranze al pesce o agli agrumi dovrebbero evitare di consumare questo piatto, in quanto la rana pescatrice potrebbe causare reazioni allergiche in caso di intolleranza.

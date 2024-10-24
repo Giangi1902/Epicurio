@@ -1,0 +1,26 @@
+# Pizza a portafoglio con salame
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 0: 750 g
+- Acqua: (a temperatura ambiente) 440 g
+- Sale fino: 20 g
+- Lievito di birra secco: 3 g
+- Polpa di pomodoro: 600 g
+- Salame piccante: 200 g
+- Mozzarella: 750 g
+- Origano: q.b.
+- Olio extravergine d'oliva: 30 g
+- Sale fino: 10 g
+
+## Preparazione
+Per preparare la pizza a portafoglio con salame iniziate a realizzare la pasta per la pizza. Versate la farina nella ciotola della planetaria, aggiungete il lievito  e circa  grammi d’acqua, quindi azionate la planetaria con il gancio a velocità medio bassa . Procedete aggiungendo l’acqua poco per volta, avendo cura di aspettare che la dose precedente sia stata ben assorbita dalla farina. Una volta versati circa i / dell'acqua aggiungete il sale  e continuate ad impastare.Aggiungete il resto dell’acqua sempre a filo e lasciate lavorare fino ad ottenere un composto liscio ed omogeneo . A questo punto estraete l’impasto dalla planetaria e lavoratelo su un piano per qualche minuto, in modo da favorire al meglio la maglia glutinica ; quindi modellatelo con le mani fino ad ottenere una palla ed inseritela in una ciotola capiente leggermente unta .Coprite con pellicola trasparente o con un canovaccio pulito  e mettete a lievitare nel forno spento con la luce accesa (ad una temperatura tra i -° massimo). Attendete che l’impasto abbia almeno raddoppiato il suo volume (ci vorrà circa  ora e mezza), meglio ancora se triplicato (ci vorranno in questo caso tra le  e le  ore) . Una volta che l’impasto sarà lievitato, trasferitelo sulla spianatoia e dividetelo in  parti uguali con l'aiuto di un tarocco .Da ciascuna di queste formate delle palline, aiutandovi con le mani . Una volta terminato, coprite con un canovaccio pulito e lasciate riposare ancora per  minuti . Nel frattempo versate la polpa di pomodoro in una ciotola e conditela con l’origano .Aggiungete quindi anche l’olio di oliva  e il sale. Passati i  minuti, riprendete le vostre palline di impasto e iniziate a stenderle. Prendete una pallina e schiacciatela leggermente con le mani su un piano infarinato , quindi tirate la pasta molto delicatamente fino ad ottenere uno spessore non superiore al mezzo cm .A questo punto passate la pizza in una teglia leggermente unta e stendetela con le mani ricoprendo l’intera superficie . Con un cucchiaio distribuite la passata sulle pizze, spargendola con un movimento circolare, ricoprendo quasi tutta l’area, e lasciando solo un bordo di circa , cm . Infornate ciascuna pizza in forno preriscaldato statico a ° per circa  minuti nella parte più bassa del forno (o in forno ventilato a ° per  minuti). Nel frattempo, affettate il salame e tagliate a metà ciascuna fetta .Poi sfornate ciascuna pizza , aggiungete la mozzarella tagliata a cubetti e i pezzi di salame . Infornate nuovamente sempre alla stessa temperatura per altri  minuti, posizionando la teglia nel ripiano centrale del forno .Appena pronte, sfornate le pizze, ripiegatele ancora calde in , piegando a metà  e poi di nuovo a metà , come se fosse un libretto. Servite la pizza a portafoglio con salame ancora calda .
+
+## Descrizione
+Il risultato finale sarà una gustosa pizza a portafoglio con salame, condita con polpa di pomodoro, mozzarella, origano e olio extravergine d'oliva. La consistenza sarà morbida e croccante, con il salame che conferirà un sapore piccante e saporito alla pizza.
+
+Questa pizza è adatta per occasioni informali come una serata tra amici o una cena in famiglia. Può essere servita come piatto unico o tagliata in porzioni più piccole per un buffet.
+
+La pizza a portafoglio con salame è adatta a chi segue una dieta onnivora, ma può essere moderatamente consumata anche da chi è in regime dietetico controllato, preferibilmente optando per una porzione più piccola per limitare l'apporto calorico.
+
+Le persone con intolleranze al lattosio possono consumare questa pizza evitando o riducendo la quantità di mozzarella utilizzata. Le persone celiache possono realizzare una versione senza glutine utilizzando farina senza glutine e controllando la presenza di tracce di glutine negli ingredienti come il salame.

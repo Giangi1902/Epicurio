@@ -1,0 +1,24 @@
+# Polpette di tonno e patate
+Categoria: Antipasti
+
+## Ingredienti
+- Tonno al naturale: sgocciolato 110 g
+- Patate: 650 g
+- Timo: q.b.
+- Salvia: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Scorza di limone: 1
+- Uova: 2
+- Pangrattato: 150 g
+- Olio di semi: q.b.
+
+## Preparazione
+Per preparare le polpette di tonno e patate come prima cosa ponete a lessare le patate in acqua fredda  per circa  minuti . Questo tempo varia in base alla grandezza delle patate, per verificare che siano cotte provate a punzecchiarle con una forchetta, se i rebbi entreranno facilmente significa che sono cotte. A questo punto scolatele e sbucciatele; poi schiacciatele all'interno di una ciotola, utilizzando l'apposito attrezzo . Lasciate intiepidire e nel frattempo preparate il trito di timo e salvia . Non appena le patate non saranno più bollenti aggiungete il tonno, il trito aromatico  e regolate di sale .Unite anche il pepe  e la scorza di un limone grattugiata  e mescolate il tutto con una forchetta  fino ad ottenere un composto uniforme.A questo punto preparate delle polpettine di circa  g , poi passatele prima nell'uovo sbattuto  e poi nel pangrattato . Nel frattempo che preparate le polpette versate l'olio in un tegame e scaldatelo fino a raggiungere la temperatura di ° (da misurare con un termometro da cucina).Non appena questo sarà sufficientemente caldo, immergete pochi pezzi per volta . Friggete le polpette di tonno e patate per circa  minuti, poi scolate con una schiumarola e trasferitele su un foglio di carta per fritti . Ultimate di friggere e servite le vostre polpette di tonno e patate ben calde .
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle polpette di tonno e patate saporite e croccanti all'esterno e morbide all'interno, dal gusto fresco grazie alla presenza di erbe aromatiche e scorza di limone. 
+
+Queste polpette sono perfette come antipasto in un buffet o come piatto unico leggero e saporito. Sono adatte a chi segue una dieta equilibrata e proteinica, ma anche a chi segue una dieta senza glutine se si utilizza pangrattato senza glutine. 
+
+Le persone con intolleranze al lattosio possono consumare questa ricetta se si utilizzano uova fresche e tonno al naturale senza lattosio. Le persone con intolleranze al glutine possono consumare questa ricetta se si utilizza pangrattato senza glutine.

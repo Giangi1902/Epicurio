@@ -1,0 +1,36 @@
+# Lasagne vegane
+Categoria: Primi piatti
+
+## Ingredienti
+- Lenticchie secche: 330 g
+- Polpa di pomodoro: 550 g
+- Acqua: 550 g
+- Olio extravergine d'oliva: 20 g
+- Sedano: 40 g
+- Cipolle dorate: 50 g
+- Carote: 50 g
+- Rosmarino: 2 rametti
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Latte di riso: 1 l
+- Farina 00: 100 g
+- Margarina vegetale: 100 g
+- Sale fino: q.b.
+- Noce moscata: q.b.
+- Pepe nero: q.b.
+- Farina integrale: 200 g
+- Acqua: 145 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: 5 g
+
+## Preparazione
+Per preparare le lasagne vegane, iniziate a realizzare l'impasto della sfoglia. Ponete su una spianatoia la farina integrale, cercando di darle una forma a fontana. Aggiungete un pizzico di sale , l'olio , e iniziate a impastare versando l'acqua a filo .Continuate a lavorare il composto  fino a che non otterrete un panetto liscio e omogeneo . A questo punto avvolgetelo nella pellicola  e lasciatelo riposare per un'ora a temperatura ambiente.Nel frattempo occupatevi di preparare il ragù di lenticchie. Mondate e tritate finemente le carote, il sedano e la cipolla ; a questo punto versateli in un tegame insieme all'olio  e lasciateli imbiondire a fiamma moderata per una decina di minuti. Quando saranno ben dorati aggiungete le lenticchie secche precendentemente sciacquate . Aggiungete poi anche il rosmarino tritato , la passata di pomodoro , l'acqua e mescolate il tutto .Coprite con un coperchio  e lasciate cuocere per  minuti. Solo quando le lenticchie saranno cotte potrete salare e pepare il tutto ; mescolate nuovamente  e il ragù di lenticchie sarà pronto. Non appena la pasta avrà riposato, riprendete il panetto e dividetelo in più pezzi utilizzando un tarocco . Utilizzando una sfogliatrice stendete la pasta dallo spessore più largo  fino al penultimo , in modo da avere una sfoglia spessa circa - mm. In alternativa potete utilizzare un mattarello.Posizionate man mano la sfoglia sulla spianatoia leggermente infarinata, poi tagliatela in modo da ricavare dei rettangoli della giusta dimensione della teglia. Nel nostro caso i rettangoli di pasta avevano una dimensione di x cm . Una volta ricavati i rettangoli posizionateli sui vassoi dove avrete posizionato dei canovacci puliti . Lasciate essiccare leggermente la pasta e nel frattempo occupatevi di preparare la besciamella. Versate il latte di riso in un tegame, unite la noce moscata  e portatelo a sfiorare il bollore.In un altro tegame aggiungete la margarina  e lasciatela fondere dolcemente. Quando sarà completamente fusa, aggiungete la farina a pioggia  e mescolate rapidamente in modo da ottenere un composto privo di grumi. Lasciatelo imbiondire dolcemente, dopodichè versate il latte caldo poco per volta .Regolate di sale e di pepe , quindi continuate a cuocere fino a che la vostra besciamella non si sarà addensata . Ponete sul fuoco un tegame colmo d'acqua, salata a piacere, che servirà per la cottura della sfoglia. Munitevi di una teglia di x cm e sistemate uno strato di ragù sulla base . Non appena l'acqua inizierà a bollire, tuffate ciascun rettangolo di pasta  e cuocetelo per circa  minuto. Utilizzando una schiumarola scolatelo bene dall'acqua di cottura  e posizionatelo sul ragù . Proseguite in questo modo fino a ricoprire l'intera superficie.Aggiungete anche uno strato di besciamella  e ricoprite con altro ragù . Proseguite in questo modo, fino ad ultimare la pasta .Ricoprite con uno strato abbondante di ragù e qualche cucchiaio di besciamella  qua e là . Cuocete in forno statico a ° per  minuti, poi sfornatela e attendete una decina di minuti prima di servirla .
+
+## Descrizione
+Il risultato finale delle lasagne vegane sarà un piatto ricco e saporito, con strati di pasta integrale alternati a un gustoso sugo di lenticchie e verdure, il tutto coperto da una deliziosa besciamella vegana.
+
+Le lasagne vegane sono adatte per occasioni informali con amici e famiglia, come pranzo o cena di comfort food.
+
+Questa ricetta è adatta per diete vegetariane e vegane, in quanto non contiene ingredienti di origine animale. È inoltre adatta per persone con intolleranze al lattosio e al glutine, purché vengano utilizzate farine e latte senza glutine e prodotti lattiero-caseari.
+
+Le persone con intolleranze al lattosio possono optare per latte di riso senza lattosio, mentre le persone con intolleranze al glutine possono utilizzare farina integrale e farina senza glutine.

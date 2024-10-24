@@ -1,0 +1,24 @@
+# Muffin cocco e cioccolato
+Categoria: None
+
+## Ingredienti
+- Farina 00: 230 g
+- Farina di cocco: 50 g
+- Latte di cocco: 200 g
+- Cioccolato fondente: 100 g
+- Zucchero: 150 g
+- Cacao amaro in polvere: 15 g
+- Olio di semi: 30 g
+- Uova: (circa 2 medie) 100 g
+- Lievito in polvere per dolci: 7 g
+- Cocco rapè: q.b.
+
+## Preparazione
+Per preparare i muffin cocco e cioccolato, per prima cosa tritate il cioccolato fondente con un coltello , poi fatelo sciogliere a bagnomaria  o in microonde e lasciatelo intiepidire. Nel frattempo versate le uova intere in una ciotola ,aggiungete lo zucchero  e mescolate con le fruste elettriche  fino ad ottenere un composto soffice e spumoso .Versate il latte di cocco e riprendete a mescolare con le fruste a velocità più bassa , poi unite anche l’olio di semi  e infine il cioccolato fuso .A questo punto occupatevi degli ingredienti secchi: setacciate la farina  e il cacao amaro in una ciotola  insieme al lievito in polvere  e mescolate bene con un cucchiaio .Ora riprendete il composto con le uova e aggiungete le polveri un cucchiaio alla volta, tenendo le fruste in azione . Quando le polveri saranno ben incorporate, aggiungete la farina di cocco  e mescolate con una spatola dal basso verso l'alto per amalgamare il tutto .Foderate uno stampo da muffin con i pirottini di carta, poi riempiteli con l’impasto lasciando circa , cm dal bordo . Cuocete in forno statico preriscaldato a ° per  minuti, poi sfornateli e lasciateli raffreddare . In ultimo, guarnite con una spolverata di cocco rapé: i vostri muffin cocco e cioccolato sono pronti per essere gustati !
+
+## Descrizione
+Il risultato finale dei muffin cocco e cioccolato sarà dei dolci soffici e profumati, arricchiti dal contrasto tra il gusto intenso del cioccolato fondente e la dolcezza della farina di cocco. La superficie sarà decorata con fiocchi di cocco rapè che creeranno un piacevole contrasto di consistenze.
+
+Questi muffin sono perfetti da gustare a colazione o a merenda, magari accompagnati da una tazza di té o caffè. Possono essere un'ottima idea anche per una festa o per un buffet di dolci.
+
+Questa ricetta è adatta a persone che seguono una dieta standard, ma potrebbe non essere adatta a chi segue un regime alimentare senza glutine o senza lattosio. Le persone con intolleranze al lattosio potrebbero sostituire il latte di cocco con un latte vegetale senza lattosio. Per le persone celiache, è importante utilizzare ingredienti senza glutine e verificare la presenza di eventuali tracce di glutine negli ingredienti utilizzati.

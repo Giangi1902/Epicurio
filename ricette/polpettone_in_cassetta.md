@@ -1,0 +1,37 @@
+# Polpettone in cassetta
+Categoria: Secondi piatti
+
+## Ingredienti
+- Manzo: macinato 600 g
+- Mortadella: a cubetti 220 g
+- Pancetta dolce: a cubetti 100 g
+- Pane raffermo: 200 g
+- Parmigiano Reggiano DOP: da grattugiare 120 g
+- Pecorino: da grattugiare 100 g
+- Uova sode: 4
+- Uova: medie 4
+- Aglio: 1 spicchio
+- Pangrattato: 1 cucchiaio
+- Prezzemolo: da tritare q.b.
+- Maggiorana: da tritare q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Noce moscata: q.b.
+- Burro: 150 g
+- Farina 00: 300 g
+- Acqua: ghiacciata 105 ml
+- Sale fino: q.b.
+- Uova: 1
+- Latte intero: 1 cucchiaio
+
+## Preparazione
+Per realizzare il polpettone in cassetta iniziata preparando la pasta brisèe. Mettete nel frullatore la farina , il burro a pezzi freddo di frigo , un pizzico di sale e frullate il tutto fino ad ottenere un composto dall'aspetto sabbioso e farinoso. A questo punto, disponete il composto ottenuto su una spianatoia .nella classica forma a fontana ed impastate il tutto velocemente aggiungendo poco alla volta l'acqua fredda  fino ad ottenere un impasto compatto, sodo ed abbastanza elastico. Una volta pronta , avvolgete la vostra pasta brisè in un foglio di pellicola da cucina  e lasciatela riposare in frigo per almeno  minuti.Ora dedicatevi all’impasto del polpettone: in una ciotola capiente, unite la carne di manzo, la pancetta a cubetti, la mortadella , i pezzetti di mollica , il pecorino grattugiato ,il parmigiano anch'esso grattugiato , le  uova intere  e uno spicchio di aglio schiacciato. Aggiungete il pangrattato , aromatizzate con il prezzemolo e la maggiorana tritati,un pizzico di noce moscata grattugiata , sale e pepe. Mescolate l’impasto con un cucchiaio di legno per amalgamare gli ingredienti  fino ad ottenere un composto omogeneo e ben compatto .Ora prendete la pasta brisèe, stendetela in una sfoglia sottile rettangolare . Imburrate lo stampo, rivestitelo di carta da forno avendo cura di lasciare delle alette laterali per estrarre meglio il polpettone dallo stampo e foderate l’interno con la pasta brisèe, aiutatevi con il mattarello per adagiare la sfoglia  e ponete all’interno il polpettone, create un incavo centrale per il verso lungo e posizionate all'interno le  uova sode . Ricoprite la superficie con altro impasto  e chiudete con la sfoglia di pasta brisèe che avanza dal bordo ,ritagliate la pasta in eccesso e pizzicate i bordi in modo da saldare bene la pasta. Sbattete l’uovo con un cucchiaio di latte e spennellate il polpettone in modo che la pasta risulti dorata e croccante . Con la pasta avanzata potete creare delle foglioline da applicare sulla superficie . Procedete ora con la cottura: cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sfornate il polpettone in cassetta, lasciatelo intiepidire  e poi sformatelo sollevandolo con i lembi della carta da forno. Servite il polpettone a fette e accompagnatelo con contorni di verdure miste o patate arrosto.
+
+## Descrizione
+Il risultato finale della ricetta "Polpettone in cassetta" sarà un polpettone saporito e succulento, con una crosta croccante e un cuore morbido, grazie alla combinazione di carne macinata, mortadella, pancetta e formaggio grattugiato, arricchita da aromi di prezzemolo e maggiorana.
+
+Questa ricetta è adatta per occasioni speciali come pranzi o cene importanti, poiché il polpettone è un piatto sostanzioso e gustoso che può essere servito come piatto unico, magari accompagnato da contorni di verdure o patate.
+
+Il polpettone in cassetta è adatto a persone che seguono una dieta equilibrata e non ha particolari restrizioni alimentari. Tuttavia, è importante tener conto delle calorie e moderare le porzioni, in quanto è un piatto ricco di carboidrati e grassi.
+
+Le persone con intolleranze alimentari al glutine devono prestare attenzione all'uso del pane raffermo e del pangrattato, e potrebbero optare per alternative senza glutine. Inoltre, chi è intollerante al lattosio dovrebbe evitare il formaggio e il latte nell'impasto.

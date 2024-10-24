@@ -1,0 +1,31 @@
+# Polpette danesi (Frikadeller) con patate prezzemolate
+Categoria: Secondi piatti
+
+## Ingredienti
+- Carne di suino: macinata 500 g
+- Pangrattato: 80 g
+- Cipolle dorate: 200 g
+- Uova: 2
+- Birra chiara: danese a temperatura ambiente 200 g
+- Olio extravergine d'oliva: 35 g
+- Limoni: 60 g
+- Noce moscata: grattugiata ½ cucchiaino
+- Cannella in polvere: ½ cucchiaino
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Patate: 400 g
+- Prezzemolo: 2 ciuffi
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+- Burro: 50 g
+- Farina 00: 10 cucchiai
+
+## Preparazione
+Per preparare le polpette danesi (Frikadeller) con patate prezzemolate ponete sul fuoco una pentola con acqua salata che vi servirà per il brodo vegetale. Tritate finemente la cipolla  e fatela ad appassire in una padella antiaderente insieme all’olio di oliva per  minuti a fuoco molto basso , aggiungendo di tanto in tanto il brodo vegetale .Spegnete il fuoco  e tenete da parte in una ciotola a intiepidire. Mettete la carne macinata in una ciotola, aggiungete le uova , la cannella ,la noce moscata grattugiata  e aggiustate di sale  e di pepe .Amalgamate bene tutti gli ingredienti lavorando il composto con le mani , poi aggiungete il pangrattato  e continuate ad impastare. Unite anche la cipolla appassita ormai tiepida ,mescolate tutto con l'aiuto di una spatola  fino ad ottenere un impasto omogeneo che lascerete riposare per  minuti . Trascorso il tempo necessario, formate delle palline del peso di - gr ciascuna con l'impasto che avete preparato, passandole tra i palmi delle mani per dare una forma tonda  e procedete in questo modo fino ad ultimare l'impasto: con le nostre dosi dovrete ottenere  polpette.Passatele nella farina , girandole in modo che aderisca in maniera uniforme. Una volta terminato, fate sciogliere il burro in una padella capiente  e fate cuocere le polpettine per  minuti a fuoco vivace ,girandole per una cottura uniforme . Versate la birra a temperatura ambiente  e il succo di limone  e fate cuocere a fuoco dolce per altri - minuti fino a che la salsa non si sarà addensata . Spegnete, tenete le polpette al caldo e nel frattempo preparate il contorno di patate. Lavatele sotto abbondante acqua fresca corrente, poi fatele lessare con la buccia per  minuti . Successivamente sbucciatele e tagliatele a fettine ; servite le vostre polpettine danesi (Frikadeller) con patate prezzemolate terminando con un pizzico di sale e una spolverizzata di prezzemolo  e con un filo di olio .
+
+## Descrizione
+Il risultato finale delle polpette danesi con patate prezzemolate sarà un piatto ricco e saporito, con delle polpette morbide e succulente grazie alla presenza di birra chiara danese nella preparazione. Le polpette saranno ben condite con spezie come noce moscata e cannella, che daranno un tocco aromatico alla carne di suino. Le patate prezzemolate saranno croccanti all'esterno e morbide all'interno, arricchite dal gusto del prezzemolo.
+
+Le polpette danesi sono adatte per occasioni informali tra amici o in famiglia, e possono essere servite accompagnate da una insalata fresca o delle verdure alla griglia. Sono perfette per una cena invernale o per un pranzo sostanzioso.
+
+Questa ricetta è adatta per chi segue una dieta onnivora, ma può essere facilmente adattata per essere inclusa in una dieta senza glutine sostituendo il pangrattato con una versione senza glutine. Le polpette danesi possono essere consumate anche da persone con intolleranze al lattosio, purché si eviti l'utilizzo di burro nella preparazione delle patate e si scelga un'alternativa senza lattosio.

@@ -1,0 +1,21 @@
+# Mousse cioccolato e avocado
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato fondente: 100 g
+- Avocado: 260 g
+- Zucchero: 40 g
+- Granella di pistacchi: q.b.
+- Mandorle in scaglie: q.b.
+
+## Preparazione
+Per preparare la mousse cioccolato e avocado, per prima cosa dividete l’avocado a metà  e rimuovete il nocciolo con l’aiuto di un cucchiaio , poi estraete la polpa (ne otterrete circa  g) e mettetela all’interno di un mixer .Aggiungete lo zucchero  e frullate fino a ottenere una crema liscia e senza grumi . Sciogliete il cioccolato in microonde a W per circa  minuti, mescolandolo almeno ogni  secondi  in modo da non farlo bruciare; in alternativa, potete scioglierlo a bagnomaria.Unite la crema di avocado al cioccolato fuso  e mescolate bene con una spatola per amalgamare il tutto , poi trasferite il composto in un sac-à-poche dotata di bocchetta stellata  e lasciatelo rassodare in frigorifero per circa  minuti.Trascorso il tempo di riposo, riempite  bicchierini della capienza di circa  g l’uno con il composto di cioccolato e avocado, poi guarnite con la granella di pistacchi  e le mandorle a lamelle : la vostra mousse cioccolato e avocado è pronta per essere servita !
+
+## Descrizione
+Il risultato finale della mousse sarà una crema morbida e vellutata, con un delicato equilibrio tra il sapore intenso del cioccolato fondente e la cremosità dell'avocado. La presenza delle mandorle in scaglie e della granella di pistacchi conferirà alla mousse una piacevole croccantezza.
+
+Questa ricetta di mousse di cioccolato e avocado è adatta ad occasioni speciali come cene eleganti, compleanni o feste. Può essere servita come dessert dopo un pasto raffinato o come dolce per chiudere una cena importante.
+
+La mousse di cioccolato e avocado è adatta a diverse diete, in quanto è senza glutine e può essere resa vegana sostituendo lo zucchero con dolcificanti alternativi come lo sciroppo d'agave o lo zucchero di canna integrale. È ricca di grassi monoinsaturi presenti nell'avocado, che apportano benefici per la salute del cuore.
+
+Le persone con intolleranze alimentari al lattosio possono tranquillamente consumare questa mousse, in quanto non contiene latticini. Tuttavia, è importante fare attenzione alle intolleranze alle noci, poiché la ricetta prevede l'utilizzo di granella di pistacchi e mandorle in scaglie. In questo caso è possibile sostituire le noci con altra frutta secca o eliminate completamente l'ingrediente.

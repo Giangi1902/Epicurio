@@ -1,0 +1,35 @@
+# Mini tarte tropezienne con crema mousseline e confettura di albicocche
+Categoria: Dolci
+
+## Ingredienti
+- Latte intero: 40 g
+- Farina 00: 50 g
+- Lievito di birra secco: 4 g
+- Farina Manitoba: 180 g
+- Farina 00: 100 g
+- Uova: (medio) 1
+- Latte intero: 150 g
+- Zucchero: 40 g
+- Burro: (morbido) 60 g
+- Sale fino: 1 pizzico
+- Tuorli: 3
+- Amido di mais (maizena): 25 g
+- Baccello di vaniglia: 1
+- Zucchero: 70 g
+- Latte intero: 250 g
+- Burro: (morbido) 80 g
+- Confettura di albicocche: 250 g
+- Granella di zucchero: 50 g
+- Albumi: 1
+
+## Preparazione
+Per realizzare laTarte Tropeziénne iniziate dal lievitino: in una ciotola ponete la farina setacciata, il lievito di birra secco e il latte . Potete usare anche il lievito di birra fresco: in questo caso la dose è di  g. Impastate a mano gli ingredienti  fino ad ottenere un composto morbido. Ponete il lievitino in una ciotola, coprite con pellicola trasparente  e lasciate lievitare per un ora in un luogo tiepido come il forno spento con la luce accesa.Trascorso il tempo di lievitazione ponete il lievitino nella planetaria munita di foglia, aggiungete l’uovo intero  e azionate la macchina, poi versate il latte a temperatura ambiente , le farine setacciate poco alla volta , il sale e lo zucchero . Una volta che tutti gli ingredienti si saranno assorbiti, sostituite la foglia con il gancio, aggiungete il burro ammorbidito, un pezzetto alla volta  aspettando che si sia assorbito prima di aggiungere un altro pezzo, continuate ad impastare fino a quando tutti gli ingredienti non si saranno raccolti intorno al gancio .Trasferite l’impasto su di una spianatoia infarinata, dategli una forma sferica, ponetelo in una ciotola, copritelo con pellicola  e lasciatelo lievitare per  ore a temperatura ambiente poi ponetelo in frigorifero a lievitare per  ore. Preparate la crema: versate il latte in un pentolino, unite i semini e la bacca di vaniglia , fate scaldare il composto e poi spegnete il fuoco lasciando in infusione la bacca.intanto lavorate i tuorli con lo zucchero aiutandovi con uno sbattitore elettrico (o con una frusta a mano)  e setacciate l'amido di mais ; eliminate la bacca dal tegame con il latte versate il composto con le uova nel latte , riaccendete il fuoco e cuocete la crema mescolando con una frusta per far addensare . Quando la crema sarà pronta, spegnete il fuoco e versatela in una pirofila bassa e larga .Coprite con pellicola a contatto  e fate raffreddare prima a temperatura ambiente poi in frigorifero perchè si rassodi e raffreddi completamente. Quando sarà raffreddata, ponetela nella tazza di una planetaria e lavoratela con le fruste, quindi aggiungete il burro ammorbidito un pezzetto alla volta aspettando che si sia assorbito prima di proseguire . Quando il burro si sarà assorbito, trasferite la crema in una sac-à-poche e riponetela in frigo per almeno  minuti . Quindi riprendete l'impasto che sarà raddoppiato di volume , ponetelo su un piano di lavoro leggermente imburrato e lavoratelo pochi istanti aiutandovi con un tarocco . Riponetelo nella ciotola, copritelo con pellicola e fatelo rinvenire a temperatura ambiente per circa  ore.Passato il tempo necessario, Dividete l'impasto in  parti da  g l'una  e date a ciascuna una forma rotonda . Ponete le palline su una leccarda foderata con carta da forno Schiacciatele leggermente e copritele con pellicola trasparente , quindi fatele lievitare ancora  ore, dopodichè eliminate la pellicola e spennellate le mini tarte con l'albume . Cospargetele con la granella di zucchero . Cuocete le mini tarte tropezienne in forno statico preriscaldato a ° per circa  minuti.Una volta cotte andranno sfornate  e fatte raffreddare completamente su una gratella. Quando saranno ben fredde, potete dividerle a metà  e farcire la base con un velo di confettura di albicocche Poi farcite anche con la crema mousseline  e richiudete con l'altra metà : le mini tarte tropezienne con crema mouselline e confettura di albicocche sono pronte per essere servite!
+
+## Descrizione
+Il risultato finale della ricetta sarà un delizioso dolce composto da mini tarte tropezienne ripiene di crema mousseline e con una golosa copertura di confettura di albicocche e granella di zucchero.
+
+Questo dolce è adatto per occasioni speciali come feste di compleanno, buffet, brunch o come dessert per una cena elegante.
+
+La ricetta è adatta per coloro che non seguono una dieta particolare e vogliono concedersi un dolce indulgente. Tuttavia, è importante fare attenzione al consumo di zuccheri e grassi a causa della presenza di burro e zucchero nella ricetta.
+
+Le persone con intolleranza al lattosio possono trovare difficoltà a digerire la ricetta a causa della presenza di latte intero, burro e uova. Inoltre, chi soffre di intolleranza al glutine dovrebbe evitare la ricetta a causa della presenza di farina e lievito.

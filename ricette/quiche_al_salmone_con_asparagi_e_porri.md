@@ -1,0 +1,35 @@
+# Quiche al salmone con asparagi e porri
+Categoria: Torte salate
+
+## Ingredienti
+- Salmone affumicato: 250 g
+- Asparagi: 400 g
+- Porri: 250 g
+- Panna fresca liquida: 50 ml
+- Burro: 50 g
+- Olio extravergine d'oliva: 2 cucchiai
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Latte intero: 200 ml
+- Farina 00: 20 g
+- Burro: 20 g
+- Noce moscata: q.b.
+- Sale fino: q.b.
+- Latte intero: 2 cucchiai
+- Tuorli: 1
+- Farina 00: 200 g
+- Burro: 100 g
+- Acqua: ghiacciata 70 ml
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare la quiche al salmone con asparagi e porri cominciate pulendo gli asparagi, eliminate la parte finale del gambo più dura, e con un pelapatate asportate i filamenti più duri del gambo. Quindi lessate gli asparagi in una asparagiera con acqua salata bollente , tenendo le punte fuori dall'acqua. Mentre gli asparagi cuociono, preparate la besciamella: fate il roux con burro e farina e poi aggiungete il latte caldo e mescolate il tutto, salate e aggiungete la noce moscate . Una volta che gli asparagi saranno cotti, tagliate i gambi  a rondelle conservando intere le punte ,prendete il salmone e tagliatelo a listarelle piuttosto grandi . Quindi mettete l’olio e il burro a fondere, dopodiché aggiungete i porri, che avrete precedentemente mondato e tagliato finemente  (solo la parte bianca) e  lasciateli appassire dolcemente senza fargli prendere colore. Quando i porri saranno ben ammorbiditi, aggiungete in padella gli asparagi tagliati  (lasciando da parte le punte) e fate insaporire qualche minuto.Unite il salmone tagliato ; aggiungete la panna , mescolate e dopo un minuto aggiungete anche la besciamella , lasciate cuocere per  minuti.Amalgamate per bene, poi aggiustate di sale e pepe e spegnete il fuoco . Preparate la pasta briseè mettendo in un mixer il burro freddo e la farina, trasferite su una spianatoia, aggiungete l'acqua e impastate il tutto. Quindi imburrate una pirofila bassa per quiche del diametro di  cm e sistemate la pasta briseé, quindi punzecchiate la pasta con i rebbi di una forchetta  e versate al suo interno il composto precedentemente ottenuto . Con un tagliapasta eliminate la pasta in eccesso  e richiudete i bordi della quiche verso l’interno della pirofila (-)a questo punto dedicatevi alla decorazione: con un coppapasta a forma di foglia o di qualsiasi altra sagoma ricavate delle foglioline dalla pasta briseè avanzata . Sistemate le punte degli asparagi al centro della quiche in modo da formare un fiore, e disponete sulla superficie le sagome ritagliate creando la decorazione che più vi piace .Quindi sbattete il latte con un tuorlo  e spennellate la pasta briseè in modo da renderla lucida  e infornate in forno già caldo a ° per - minuti ( gradi per  minuti in forno ventilato), fino a che la pasta briseè sarà ben dorata e croccante . Estraete la quiche, lasciatela riposare per  minuti e poi tagliatela e servitela calda o tiepida.
+
+## Descrizione
+Il risultato finale della quiche al salmone con asparagi e porri sarà una torta salata croccante e ricca di sapore, grazie al salmone affumicato, agli asparagi e ai porri.
+
+Occasioni: La quiche al salmone con asparagi e porri è perfetta come piatto unico per una cena elegante con amici o come antipasto in un buffet.
+
+Dieta: Questa ricetta è adatta per una dieta bilanciata, in quanto contiene proteine dal salmone e verdure come gli asparagi e i porri. 
+
+Intolleranze: Le persone con intolleranza al lattosio possono sostituire il latte e la panna con alternative senza lattosio. Le persone con intolleranza al glutine possono utilizzare farina senza glutine per la base della quiche. È consigliabile verificare la composizione del salmone affumicato per evitare eventuali allergie al pesce.

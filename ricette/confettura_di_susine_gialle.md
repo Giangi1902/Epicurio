@@ -1,0 +1,19 @@
+# Confettura di susine gialle
+Categoria: Marmellate e Conserve
+
+## Ingredienti
+- Susine: 1050 g
+- Zucchero: 300 g
+- Succo di limone: 40 g
+
+## Preparazione
+Per preparare la confettura di susine gialle, iniziate dalla preparazione della frutta: lavate le susine, tagliatele a metà con un coltello , rimuovete il nocciolo  e tagliatele in quarti . Una volta denocciolate, il peso complessivo delle susine sarà di circa kg.Aggiungete lo zucchero  e mescolate bene . Coprite la ciotola con la pellicola trasparente o con un piatto  e lasciate macerare a temperatura ambiente per circa un'ora. Mentre aspettate che la frutta si maceri, potete procedere con la sanificazione dei barattoli e dei tappi, come riportato nelle linee guida del Ministero della Salute indicate in fondo alla ricetta.Trascorso il tempo di macerazione, versate le susine con tutto il loro liquido in una pentola in alluminio con il doppio fondo e i bordi alti e accendete la fiamma al massimo . Una volta raggiunto il bollore abbassate la fiamma, in modo da tenere un bollore sostenuto, ma non troppo forte . Lasciate cuocere per circa  minuti, mescolando il meno possibile fino al raggiungimento di  gradi. Aiutatevi con un termometro da cucina per misurare la temperatura esatta .Trascorsi  minuti togliete dal fuoco e aggiungete il succo di mezzo limone  e mescolate . La confettura deve presentarsi densa e con alcuni pezzi di frutta ancora visibili. A questo punto potete cominciare a invasare nei vasetti che avete sanificato, versando la confettura ancora calda con un mestolo .Riempite i vasetti lasciando almeno  cm di spazio dal tappo ;  avvitate bene i tappi sanificati ma senza stringere eccessivamente  e lasciate raffreddare . Con il calore della confettura si creerà il sottovuoto, che permetterà di conservare il prodotto a lungo. Una volta che i barattoli si saranno raffreddati verificate se il sottovuoto è avvenuto correttamente: potete premere al centro del tappo e, se non sentirete il classico "click-clack", il sottovuoto sarà avvenuto.  La vostra confettura di susine gialle è pronta per essere gustata!
+
+## Descrizione
+Il risultato finale della confettura di susine gialle sarà una deliziosa e dolce marmellata con un intenso sapore fruttato e un piacevole equilibrio di dolce e acido.
+
+Occasioni: La confettura di susine gialle è perfetta da spalmare su fette di pane tostato, crostate o dolci da forno. Può essere servita a colazione, merenda o come dessert.
+
+Dieta e regime alimentare: La confettura di susine gialle è adatta a chi segue una dieta equilibrata e consapevole, in quanto contiene solo frutta e zucchero. È consigliata per chi segue una dieta vegetariana o vegana.
+
+Intolleranze: Le persone con intolleranza al fruttosio devono fare attenzione al consumo di frutta zuccherina come le susine. Le persone con intolleranza al lattosio possono consumare la confettura di susine gialle senza problemi. Nelle persone con intolleranza al glutine, bisogna prestare attenzione agli ingredienti aggiunti come zucchero e succo di limone.

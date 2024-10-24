@@ -1,0 +1,29 @@
+# Anello di riso con cuore di mozzarella e gamberi
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Carnaroli: 500 g
+- Fiori di zucca: 200 g
+- Gamberi: 500 g
+- Mozzarella: 200 g
+- Acqua: 500 ml
+- Birra analcolica: 330 ml
+- Burro: 40 g
+- Cipolle: ½
+- Aglio: 1 spicchio
+- Timo: 5 rametti
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare l'anello di riso con cuore di mozzarella e gamberi iniziate dalla preparazione dei gamberi (in alternativa, potete usare le mazzancolle): prendete i gamberi e tenetene da parte /  (serviranno per la guarnizione finale), sbollentate il resto dei gamberi per qualche minuto in acqua bollente , lasciateli immersi per - minuti e scolateli con una schiumarola ; fateli raffreddare per un paio di minuti e poi procedete con la pulizia. Eliminate la testa , le zampette, sfilate il carapace e la coda e togliete il filamento di intestino sul dorso, avendo cura di tenere da parte testa e carapace che serviranno per il fumetto. Per ulteriori dettagli consultate la scheda Come pulire i gamberi della Scuola di cucina. (In alternativa potete pulire i gamberi da crudi, tagliarli a pezzetti e scottarli in padella con l'olio per qualche minuto).Una volta puliti, tagliateli a piccoli bocconcini  e teneteli da parte. Ora occupatevi del fumetto: riempite un pentolino con  ml di acqua e aggiungete gli scarti dei gamberi  che avete tenuto da parte dopo la pulizia (testa, carapace, coda). Fate cuocere per almeno  minuti in modo da insaporire il brodo. Una volta pronto, filtrate il fumetto attraverso un colino e tenetelo da parte, servirà per la cottura del risotto. (Per un gusto ancora più ricco preparate il fumetto seguendo la scheda Fumetto di crostacei della Scuola di cucina). Tagliate la mozzarella a pezzetti ,ponetela in un colino per eliminare l'acqua di conservazione . prendete i fiori di zucca, eliminate il gambo, aprite delicatamente i fiori di zucca con le dita ed estraete i pistilli carnosi posti all’interno e sulla base dei fiori stessi eliminate il picciolo , praticate un taglio sul lato lungo e apriteli .Ungete uno stampo per ciambella del diametro superiore di cm - cm e della capacità di  ml  , foderate le pareti dello stampo con i fiori di zucca (-) e tenete da parte i fiori che avanzano, serviranno per il risotto.Ora che avete predisposto tutti gli ingredienti necessari iniziate a preparare il risotto: ponete in un tegame l’olio, fate appassire la cipolla per almeno  minuti, quando sarà imbiondita unite il riso , fatelo tostare qualche minuto, sfumate con la birra a temperatura ambiente  e quando sarà evaporata unite poco alla volta il fumetto di pesce  precedentemente preparato.A metà cottura aromatizzate il risotto con il timo  e unite i fiori di zucca avanzati . Continuate la cottura del riso, aggiungendo brodo ogni volta che il riso avrà assorbito quello precedente. Una volta pronto, lasciate intiepidire il risotto. A questo punto potete comporre l’anello: prendete lo stampo che avete foderato con i fiori di zucca: riempite lo stampo con metà riso, livellate la superficie con il dorso di un cucchiaio e premete al centro del riso, per formare un incavo ; quindi alzate il riso sulle pareti laterali, per meglio disporre poi il ripieno.Adagiate al centro della conca ottenuta il ripieno di mozzarella  e gamberi . Ricoprite il tutto con il restante riso ,livellate bene la superficie con il dorso di un cucchiaio . Cuocete l’anello in forno statico a ° per  minuti (oppure in forno ventilato a  ° per  minuti). A cottura ultimata  lasciate intiepidire e poi estraete l’anello dallo stampo rovesciandolo su un piatto di portata .Terminate il piatto guarnendo l’anello con i gamberi tenuti da parte: in un padella con olio e uno spicchio di aglio fate saltare i gamberi interi con il guscio  per pochi minuti, poi poneteli al centro dell’anello, adagiandoli con la coda verso l'esterno . Il vostro anello di riso con cuore di mozzarella e gamberi è ora pronto per essere portato in tavola .
+
+## Descrizione
+Il risultato finale sarà un delizioso primo piatto composto da anello di riso con un cuore filante di mozzarella e gamberi, arricchito dal sapore delicato dei fiori di zucca e aromatizzato con timo.
+
+Per quali occasioni è adatto: Questa ricetta è perfetta da servire per una cena speciale, come ad esempio un anniversario o una festa importante. Anche per un pranzo tra amici o in famiglia sarà apprezzata per la sua presentazione originale e il gusto raffinato.
+
+Per quali diete o regime alimentare sono adatte: Questa ricetta è adatta per una dieta equilibrata e varia, che preveda la presenza di proteine, cereali, verdure e latticini. Può essere inclusa in una dieta mediterranea o essere modulata secondo le esigenze di chi segue una dieta vegetariana, tralasciando i gamberi.
+
+Persone con intolleranze: Le persone con intolleranza al lattosio potrebbero avere difficoltà a mangiare questa ricetta a causa della presenza della mozzarella. Per chi è intollerante al glutine, è possibile sostituire il riso con una variante senza glutine. In caso di allergia ai crostacei, i gamberi andranno eliminati dalla ricetta.

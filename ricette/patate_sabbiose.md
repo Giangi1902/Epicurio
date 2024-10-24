@@ -1,0 +1,25 @@
+# Patate sabbiose
+Categoria: Contorni
+
+## Ingredienti
+- Patate: 1 kg
+- Aglio: 1 spicchio
+- Rosmarino: 2 rametti
+- Pane: mollica 50 g
+- Pangrattato: 20 g
+- Salvia: 3 foglie
+- Olio extravergine d'oliva: q.b.
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare le patate sabbiose, pelate le patate e tagliatele a spicchi  poi ponetele in una ciotola con acqua fredda per non farle annerire. Intanto tritate finemente il rosmarino e la salvia  e tenete da parte il trito. Ora prendete la pagnotta, eliminate la crosta con un coltello ,tagliate grossolanamente la mollica  e ponetela in una ciotolina, aggiungete il pangrattato , il trito di erbe aromatiche e uno spicchio di aglio schiacciato . Ora scolate gli spicchi di patate in un colino poi versate il trito di mollica e aromi sulle patate , condite con un filo di olio di oliva ,sale  e pepe a piacere. Mescolate gli spicchi di patate e versateli in una teglia rivestita con carta da forno precedentemente inumidita e poi ben strizzata in modo che aderisca meglio alla teglia,per ultimo ricoprite le patate con un cucchiaio di pangrattato . Cuocete le patate sabbiose in forno statico a ° per  minuti ( se forno ventilato a ° per  minuti) e poi passatele al grill per  minuti. A cottura ultimata le vostre patate sabbiose saranno dorate e croccanti , sfornatele e lasciatele intiepidire prima di servirle.
+
+## Descrizione
+Il risultato finale della ricetta "Patate sabbiose" sarà un contorno aromatico e dal sapore rustico, grazie all'aggiunta di aglio, rosmarino, salvia e pane mollica croccante. Le patate saranno ricoperte da una crosta dorata e croccante, con un cuore morbido e saporito.
+
+Questo contorno è adatto per accompagnare piatti di carne o pesce alla griglia, ed è perfetto per pranzi o cene informali tra amici o in famiglia.
+
+Le "Patate sabbiose" sono adatte a una dieta equilibrata e possono essere consumate anche all'interno di un regime alimentare vegetariano. Tuttavia, per chi segue una dieta ipocalorica è consigliato consumarle in piccole quantità a causa del pane e pangrattato utilizzati nella ricetta.
+
+Le persone con intolleranze al glutine devono fare attenzione poiché la ricetta prevede l'utilizzo di pane e pangrattato, a meno che non si scelga di utilizzare varianti senza glutine di questi ingredienti. Le persone con intolleranze all'aglio possono sostituire l'aglio con altre spezie a piacere.

@@ -1,0 +1,28 @@
+# Ravioli al cacao con cuore di cioccolato bianco
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato bianco: 500 g
+- Latte intero: 500 g
+- Tuorli: 4
+- Farina 00: 30 g
+- Zucchero: 100 g
+- Cardamomo: 8 bacche
+- Scorza d'arancia: non trattata 1
+- Cacao amaro in polvere: crudo biologico 20 g
+- Uova: biologiche 1
+- Acqua: 130 g
+- Vino bianco: frizzante 70 g
+- Farina 00: 480 g
+- Olio di semi di arachide: q.b.
+- Zucchero: q.b.
+
+## Preparazione
+Per preparare i ravioli al cacao con cuore al cioccolato bianco, cominciate preparando la crema pasticcera al cioccolato bianco. Grattugiate la scorza di un’arancia non trattata , e incidete le bacche di cardamomo . Mettete sul fuoco un pentolino con il latte, e unite la scorza d’arancia E i semi e le bacche del cardamomo . Portate il latte a sfiorare il bollore, quindi spegnete il fuoco e lasciatelo in infusione per  minuti, coperto con pellicola, mentre intiepidisce. Nel frattempo unite in una ciotola lo zucchero e i tuorli  e sbatteteli con le fruste fino a renderli chiari e spumosi .Aggiungete la farina setacciata  e amalgamate bene, in modo da ottenere una pastella senza grumi. Unite nella ciotola il latte aromatizzato, ormai tiepido , e amalgamate con cura fino a ottenere una crema liscio e piuttosto liquido .Filtrando la crema attraverso un colino, ponetela in un tegame abbastanza capiente  e mettetela sul fuoco, a fiamma dolce, dove dovrete farla addensare per circa  minuti, mescolando continuamente per evitare la formazione di grumi. Tritate il cioccolato bianco  e unitelo alla crema ormai pronta .Mescolate energicamente fino a far sciogliere completamente , quindi trasferite la crema al cioccolato bianco in una pirofila bassa e larga, coprendola con pellicola a contatto per evitare che si formi la fastidiosa pellicina . Ponete la vostra crema in frigo, dove dovrà rassodare per almeno  ore. Intanto, dedicatevi all’impasto dei ravioli: in una ciotola capiente setacciate la farina e il cacao crudo in polvere e amalgamateli con un cucchiaio di legno .Unite l’uovo leggermente sbattuto , il vino  e l’acqua .Impastate dapprima con una forchetta , poi a mano . Infine trasferite l’impasto, che risulterà ancora piuttosto duro e nervoso, sul piano da lavoro per continuare a impastarlo qualche minuto .Formate infine una palla, copritela con pellicola trasparente e fatela riposare a temperatura ambiente per circa mezzora . Quando saranno trascorsi i tempi di riposo sia della crema che dell’impasto, con un tarocco prendete una piccola porzione di impasto riposato , stendetelo un poco sulla spianatoia leggermente infarinata E poi, a mano o con la macchina sfogliatrice, tiratelo a sfoglia dello spessore di  mm . Ricavate  rettangoli di sfoglia e disponeteli sulla spianatoia. Distribuite su uno dei due rettangoli, a distanza regolare, delle noci di crema . Coprite quindi con il secondo rettangolo di pasta  (se le sfoglie risultassero troppo poco umide, potete spennellare un po’ di acqua intorno ai mucchietti di crema).Fate aderire bene tra di loro le due sfoglie , e, con pressioni delle dita, fate aderire il foglio di pasta superiore attorno ai mucchietti di crema . Con un coppapasta di  cm di diametro formate i vostri ravioli E sigillatene i bordi esercitando delle leggere pressioni con i rebbi di una forchetta . Proseguite fino ad esaurire gli ingredienti. Portate un tegame con abbondante olio di semi alla temperatura di °, quindi friggetevi i ravioli , pochi per volta per non abbassare la temperatura dell’olio. Appena la superficie dei ravioli assumerà un colore uniforme e affioreranno delle piccole bollicine (ci vorranno un paio di minuti) ,scolate i ravioli e poneteli ad asciugare su un vassoio coperto con dei fogli di carta da cucina . Proseguite con la frittura, e infine cospargete i vostri ravioli con abbondante zucchero semolato . I vostri ravioli al cacao con cuore di cioccolato bianco sono pronti per essere gustati caldi, tiepidi o freddi!
+
+## Descrizione
+Il risultato finale della ricetta "Ravioli al cacao con cuore di cioccolato bianco" sarà un dolce squisito e raffinato, con una pasta di ravioli al cacao che racchiude un delicato cuore di cioccolato bianco. Saranno leggermente croccanti all'esterno e morbidi e cremosi all'interno.
+
+Questa ricetta è adatta per occasioni speciali come una cena romantica, una festa per gli amici oppure per un dessert gourmet.
+
+La ricetta non è adatta a persone con intolleranze al lattosio, al glutine e alle uova, in quanto contiene latte, farina e tuorli d'uovo. Tuttavia, è possibile apportare delle modifiche agli ingredienti per renderla adatta a persone con intolleranze specifiche, come sostituire il latte con un'alternativa senza lattosio, la farina con farina senza glutine e utilizzare un sostituto vegano per il tuorlo d'uovo.

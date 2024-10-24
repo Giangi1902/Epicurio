@@ -1,0 +1,32 @@
+# Piadine con petti di pollo e mais
+Categoria: Piatti Unici
+
+## Ingredienti
+- Petto di pollo: 500 g
+- Pepe nero: 1 cucchiaino
+- Pepe bianco: 1 cucchiaino
+- Paprika dolce: 1 cucchiaino
+- Timo: secco 1 cucchiaino
+- Alloro: 2 foglie
+- Aglio in polvere: 1 cucchiaino
+- Cipolle: secca 1 cucchiaino
+- Sale fino: q.b.
+- Chicchi di mais giallo in scatola: 400 g
+- Peperoncino fresco: 1
+- Yogurt greco: 200 ml
+- Succo di limone: ½
+- Olio extravergine d'oliva: 1 cucchiaio
+- Sale fino: q.b.
+- Piadine: (da circa 24 cm di diametro) 4
+
+## Preparazione
+Per preparare le piadine con petto di pollo e mais iniziate realizzando il mix di spezie, unitele tutte nel mixer , azionatelo e tritate tutto fino a ottenere una polvere omogenea ; prendete i petti di pollo, tagliateli a metà e prelevate le ossicine interne e le eventuali parti di grasso; tagliate i petti di pollo in - tranci e spolverateli con il mix di spezie ottenuto in modo da coprirli quanto più possibile . Scaldare due cucchiai di olio in una padella antiaderente e disporvi i petti di pollo speziati ; dorarli bene da entrambi i lati e proseguire la cottura fino a che l’interno sia cotto e ancora tenero; tenere da parte il pollo e farlo intiepidire.Preparare ora il mais; scolare il mais dal liquido di conservazione e disponetelo in una terrina; unite il succo del mezzo limone e il peperoncino tritato senza i semini interni .Ammorbidite lo yogurt greco mescolandolo con un cucchiaio, fino a che non sarà cremoso . Quindi scaldate una padella antiaderente a fuoco medio e scaldate una piadina alla volta pochi istanti per lato, deve restare morbida per poterla poi chiudere (se volete preparare le piadine in casa leggete la ricetta qui). Spalmate con una spatola lo yogurt greco sulla piadina , tagliate i petti in tante striscioline e disponetele al centro della piadina,in ultimo aggiungete il mais ; procedete a chiudere la piadina, partendo dal basso e rivoltando la linguetta di piadina sul pollo , poi chiudete il primo lato e poi il secondo sul primo . Procedete allo stesso modo per le altre piadine e gustatele ancora tiepide!
+
+## Descrizione
+Il risultato finale sarà delle gustose piadine farcite con petto di pollo e mais, condite con una salsa allo yogurt greco e limone. Le piadine avranno un ripieno morbido e saporito, arricchito dal contrasto tra il pollo speziato e il mais croccante, il tutto completato dalla freschezza della salsa allo yogurt.
+
+Le piadine con petti di pollo e mais sono adatte per un pranzo o una cena veloce e gustosa, ideali da preparare per un picnic o un pranzo al sacco. Possono essere servite anche come piatto unico, magari accompagnate da una semplice insalata.
+
+Questa ricetta è adatta a chi segue una dieta equilibrata, in quanto contiene proteine magre dal petto di pollo, fibre dal mais e yogurt greco, e carboidrati dalle piadine. È adatta anche a persone che seguono una dieta mediterranea.
+
+Le persone con intolleranze al lattosio possono sostituire lo yogurt greco con una versione senza lattosio o con un'altra salsa a base di yogurt vegetale. Le persone con intolleranze al glutine possono utilizzare delle piadine senza glutine, facilmente reperibili in commercio.

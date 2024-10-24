@@ -1,0 +1,32 @@
+# Ravioli al cotechino con salsa di lenticchie
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 300 g
+- Farina di grano duro: 100 g
+- Uova: grandi 4
+- Sale fino: q.b.
+- Lenticchie: 150 g
+- Cotechino: precotto 250 g
+- Scalogno: 2
+- Sedano: 1 costa
+- Carote: 1
+- Aglio: 1 spicchio
+- Rosmarino: 1 rametto
+- Olio extravergine d'oliva: 20 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Prezzemolo: tritato 10 g
+- Brodo vegetale: vegetale 100 g
+
+## Preparazione
+Per preparare i ravioli al cotechino con salsa di lenticchie incominciate col realizzare la pasta fresca all'uovo: ponete le farine setacciate in una ciotola e al centro versate le uova  e un pizzico di sale. Quindi iniziate a lavorare gli ingredienti mescolando con una forchetta , allargando sempre di più per prendere la farina. Poi iniziate a lavorare con le mani  almeno per  minuti,maneggiando e sbattendo l'impasto sulla spianatoia fino a quando non otterrete un composto morbido e omogeneo . Formate un panetto e rivestitelo con pellicola trasparente , poi fate riposare a temperatura ambiente per circa  minuti. Intanto proseguite con la preparazione della salsa: per prima cosa sciacquatele le lenticchie sotto l’acqua corrente ;mettetele all’interno di una pentola a pressione, versate l’acqua in modo da coprirle interamente . Chiudete la pentola e cuocete per  minuti e poi lasciatele raffreddare . In una pentola antiaderente fate soffriggere  a fuoco basso l’ olio con lo scalogno, l’aglio, il sedano e la carota tritati finemente .Aggiungete anche il rosmarino  e mescolate con una spatola. Unitevi le lenticchie  e coprite la pentola con un coperchio, lasciando cuocere a fuoco lento per circa  minuti. Mescolatele spesso per controllare che non si asciughino troppo  eregolate di sale  e di pepe. Quando saranno pronte, spegnete il fuoco e procedete con al cottura del cotechino: prendete un cotechino precotto e mettetelo in una pentola con acqua fredda; accendete il fuoco e fatelo lessare secondo le istruzioni riportate sulla confezione (ci vorranno circa  minuti) . Passato il tempo necessario, scolatelo e ponetelo in una ciotolina per eliminare l'involucro esterno , facendo attenzione a non scottarvi con il liquido presente nella confezione.Eliminate la pelle del cotechino , poi tritatelo finemente al coltello in una ciotola . Aggiungete  g delle lenticchie che avete preparato alla carne  e mescolate con una spatola: il vostro ripieno è pronto.A questo punto, riprendete il panetto di pasta all'uovo e ponetelo sulla spianatoia leggermente infarinata. Stendetelo con il mattarello , dividetelo e ricavatene  sfoglie di x, il più possibile sottili, servendovi di una macchinetta per la pasta . Disponete sulla sfoglia un cucchiaino (circa  g) del ripieno che avete preparato , lasciando circa - cm tra una cucchiaiata di impasto e l’altra;quindi sovrapponete un’altra sfoglia della stessa dimensione ; fate una leggera pressione per far uscite tutta l’aria trattenuta dalle due sfoglie . Con uno stampo a forma di stella ricavate i vostri ravioli , ripetendo l’operazione fino all’esaurimento degli ingredienti e rimpastando i ritagli: con le nostre dosi dovrete ottenere  ravioli.man mano che li realizzate appoggiateli su un canovaccio infarinato . Ponete sul fuoco una pentola con abbondante acqua per preparare il brodo vegetale. Lessate i ravioli in acqua bollente salata per circa - minuti , quindi scolateli .Nel frattempo trasferite in un recipiente dai bordi alti le lenticchie avanzate che avete cotto. Frullate con un frullatore ad immersione, aggiungendo a filo  g di brodo . Quando la salsa ha raggiunto la giusta consistenza, setacciatela con un colino per renderla più omogena . In una padella antiaderente fate scaldare la salsa di lenticchie insieme al brodo che avete avanzato , poiaggiungete i ravioli  e fate saltare per qualche secondo. A fine cottura, spegnete e aggiungete il prezzemolo tritato . I vostri ravioli al cotechino con salsa di lenticchie sono pronti per essere gustate e serviti .
+
+## Descrizione
+Risultato finale: I ravioli al cotechino con salsa di lenticchie sono dei deliziosi ravioli fatti in casa ripieni di cotechino e serviti con una salsa cremosa di lenticchie condita con prezzemolo fresco.
+
+Occasioni: Questa ricetta è perfetta da servire come primo piatto in occasioni speciali come il pranzo di Natale o Capodanno. Potrebbe essere un piatto originale da proporre agli ospiti durante una cena invernale.
+
+Dieta: Questa ricetta è adatta a una dieta onnivora, ma potrebbe essere adattata per essere vegetariana se si usasse un cotechino di natura vegetale. Ricca di proteine e carboidrati complessi, è un piatto sostanzioso e calorico, adatto per un pasto principale.
+
+Intolleranze: Le persone con intolleranze al glutine potrebbero sostituire la farina con una versione senza glutine per preparare la pasta dei ravioli. Chi soffre di intolleranze al lattosio potrebbe dover fare attenzione alla presenza di latticini nel cotechino o nella pasta. Chi ha intolleranze alle lenticchie o alle verdure contenute nella ricetta dovrebbe evitare o sostituire gli ingredienti.

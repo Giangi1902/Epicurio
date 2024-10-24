@@ -1,0 +1,32 @@
+# Pisarei e fasò
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 400 g
+- Pangrattato: 150 g
+- Acqua: tiepida 400 g
+- Sale fino: 5 g
+- Cipolle dorate: 60 g
+- Burro: 30 g
+- Lardo: 80 g
+- Fagioli borlotti secchi: 220 g
+- Passata di pomodoro: 200 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: 20 g
+- Grana Padano DOP: grattugiato q.b.
+
+## Preparazione
+Per preparare i pisarei e fasò iniziate dai fagioli borlotti, poneteli in un ampia ciotola colma d’acqua e lasciateli in ammollo per  ore o una notte, coperti con pellicola trasparente . Trascorso il tempo dell’ammollo scolateli e sciacquateli sotto l’acqua corrente, poi versateli in un tegame copriteli con l’acqua  e cuocete per  minuti ; questo tempo sarà sufficiente in quanto la cottura dei fagioli proseguirà poi con il sugo successivamente.Ora occupatevi dell’impasto dei pisarei: setacciate la farina in una ciotola , poi unite il pangrattato  e il sale .Versate a filo l’acqua tiepida  e impastate energicamente per amalgamare gli ingredienti , formate un panetto compatto e avvolgetelo nella pellicola trasparente . Fate riposare l’impasto in un luogo fresco per  ora (fuori da frigo andrà bene). Trascorso il tempo di riposo, riprendete l’impasto, dividetelo in piccole porzioni , da queste create dei filoncini del diametro di cm circa .Tagliate i filoncini di pasta a pezzetti grandi come un fagiolo . Con il pollice pressate ciascun gnocchetto per creare un incavo all’interno . I pisarei sono pronti ; potete distribuirli su un vassoio foderato con un panno da cucina pulito e asciutto, leggermente infarinato. Non c'è bisogno di coprirli, anche se si seccheranno non sarà un problema.Ora occupatevi del sugo: sbucciate e tritate finemente la cipolla , tritate anche il lardo . Poi in un tegame sciogliete il burro a fuoco dolce e fate rosolare la cipolla ,poi unite il lardo tritato , mescolate per insaporire e quando la cipolla sarà appassita, unite anche i fagioli cotti in precedenza e scolati accuratamente , copriteli con la passata di pomodoro  e proseguite la cottura del sugo per circa  minuti. Potete regolare di sale e aggiungere dell'acqua calda (o brodo vegetale) se necessario perche il sugo non si rapprenda troppo.Quando i fagioli saranno cotti, portate al bollore l'acqua in un tegame capiente, salate a piacere e immergete i pisarei  e cuoceteli pochi minuti il tempo necessario che riaffiorino in superficie ; poi scolateli con una schiumarola direttamente nel tegame con i fagioli , insaporite con il Grana padano grattugiato  e servite i pisarei e fasò ben caldi con qualche scaglia di Grana ancora a piacere !
+
+## Descrizione
+Il risultato finale sarà un piatto di pisarei e fasò, composto da gnocchetti di pasta fresca di farina e acqua serviti con un condimento a base di fagioli borlotti, passata di pomodoro, lardo e cipolle.
+
+- Aspetto: I pisarei e fasò avranno un aspetto rustico e invitante, con i pisarei che saranno morbidi e leggermente gommosi, arricchiti dalla salsa cremosa e saporita dei fagioli e del lardo.
+
+- Gusto: Il piatto sarà molto gustoso e saporito, con il sapore ricco dei fagioli borlotti, il lardo che conferisce un tocco di sapidità e la nota dolce delle cipolle.
+
+- Occasioni: Questa ricetta è adatta per un pranzo o una cena in famiglia o con gli amici, per un'occasione informale o una vera e propria festa.
+
+- Diete: Questa ricetta può essere adattata a una dieta vegetariana eliminando il lardo, e può essere parte di una dieta equilibrata se consumata in moderazione.
+
+- Intolleranze: Le persone con intolleranze al glutine non potranno consumare questa ricetta a meno di utilizzare farina senza glutine per preparare i pisarei. Le persone con intolleranze al lattosio dovranno evitare il grana Padano grattugiato e potranno sostituire il burro con olio extravergine d'oliva.

@@ -1,0 +1,28 @@
+# Flan di Grana con funghi finferli
+Categoria: Secondi piatti
+
+## Ingredienti
+- Grana Padano DOP: da grattugiare 300 g
+- Panna fresca liquida: 100 g
+- Uova: medie 4
+- Noce moscata: da grattugiare 1 pizzico
+- Sale fino: 1 pizzico
+- Olio extravergine d'oliva: per ungere gli stampi q.b.
+- Funghi finferli (gallinacci): 300 g
+- Vino bianco: 50 g
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: 40 g
+- Sale: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il flan di Grana con funghi finferli, iniziate tagliando il Grana per eliminare la crosta . Grattugiatelo  e ponetelo nella brocca di un frullatore. Versate la panna ,poi le uova  e aromatizzate con la noce moscata . Aggiustate di sale e frullate il tutto fino ad ottenere un composto cremoso e omogeneo . Prendete gli stampini da  cm di diametro e , di altezza, spennellateli con l’olio  e foderateli con strisce di carta da forno abbastanza larghe, in modo che i bordi fuoriescano dagli stampini : in questo modo potrete staccare più agevolmente i flan dai bordi una volta cotti. Versate all’interno il composto, lasciando circa  cm dal bordo, poi poneteli in una teglia dai bordi alti e versate l’acqua (a temperatura ambiente) nella teglia, in modo che copra per un paio di centimetri gli stampini . Fate cuocere i flan in forno ventilato preriscaldato a ° per  minuti (oppure statico a ° per - minuti).Nel frattempo che i flan di Grana cuociono, pulite i funghi finferli: spazzolate delicatamente la parte sottostante la calotta, per rimuovere le tracce di terriccio tra le pieghe  e puliteli con un panno morbido . Quindi tagliateli a metà .In una padella ampia, fate rosolare uno spicchio d’aglio sbucciato e diviso a metà, poi toglietelo  e aggiungete i funghi . Fateli cuocere a fuoco vivace sfumandoli con il vino bianco ; fateli cuocere per circa  minuti. poi salate e pepate e spegnete il fuoco . Una volta pronti i flan, quando si sarà creata una deliziosa crosticina in superficie , sfornateli, eliminate la carta da forno e capovolgeteli su un piatto da portata . Quindi decorate ciascun flan con i funghi finferli  e con scagliette di grana . I vostri flan di Grana con funghi finferli sono pronti per essere gustati !
+
+## Descrizione
+Il risultato finale della ricetta Flan di Grana con funghi finferli sarà un delizioso flan cremoso al formaggio Grana Padano, arricchito dal sapore dei funghi finferli e condito con un tocco di noce moscata. 
+
+Occasioni: Questo piatto è perfetto da servire come secondo piatto in una cena raffinata o come piatto unico per un pranzo speciale.
+
+Dieta/Regime alimentare: Questa ricetta è adatta per una dieta ricca di proteine e calcio. È ideale per chi segue una dieta controllata e bilanciata, ma va consumata con moderazione per via del suo contenuto calorico.
+
+Intolleranze: Le persone con intolleranze al lattosio potrebbero avere difficoltà a digerire il formaggio Grana Padano e la panna fresca. Inoltre, chi soffre di allergia ai funghi dovrebbe evitare di consumare questo piatto. È sempre consigliabile consultare un medico o un nutrizionista prima di consumare cibi a cui si è sensibili.

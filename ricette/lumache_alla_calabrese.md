@@ -1,0 +1,23 @@
+# Lumache alla calabrese
+Categoria: Secondi piatti
+
+## Ingredienti
+- Lumache: sgusciate e pulite 800 g
+- Concentrato di pomodoro: 100 g
+- Origano: 1 cucchiaio
+- Olio extravergine d'oliva: 4 cucchiai
+- Cipolle: 300 g
+- Sale fino: q.b.
+- Peperoncino in polvere: q.b.
+
+## Preparazione
+Tritate la cipolla e mettetela a dorare in una pentola con  cucchiai di olio. Quando la cipolla sarà dorata, aggiungete le lumache, e fatele rosolare per un minuto, poi aggiungete dell’acqua calda fino a coprirle, un po' di sale (o, per dare maggiore sapore, un dado di carne), e fatele cuocere per almeno  minuti a fuoco basso, coprendo la pentola con un coperchio (aggiungete eventualmente dell’acqua calda, se necessita, fino al termine della cottura).Quando le lumache saranno abbastanza asciutte, aggiungete il peperoncino in polvere e il concentrato di pomodoro: lasciate rosolare le lumache fino a che il concentrato sia ben amalgamato, poi aggiustate di sale, spegnete il fuoco e aggiungete un filo di olio di oliva crudo e l’origano ridotto in polvere sottile; servite in piatti fondi o pirofiline monoporzione, accompagnati da fette di pane casereccio.
+
+## Descrizione
+Il risultato finale delle lumache alla calabrese sarà un piatto ricco e saporito, con lumache tenere e gustose condite con una salsa di pomodoro arricchita da aromi mediterranei.
+
+È adatto per occasioni speciali o per una cena rustica in famiglia.
+
+Le lumache alla calabrese sono adatte per una dieta equilibrata, ricca di proteine e ricca di fibre. Sono particolarmente indicate per chi segue una dieta mediterranea.
+
+Le persone con intolleranze al glutine possono mangiare le lumache alla calabrese, ma devono verificare che il concentrato di pomodoro e gli altri ingredienti utilizzati siano privi di glutine. Le persone con intolleranza al lattosio devono fare attenzione all'eventuale presenza di lattosio nei formaggi e nei latticini utilizzati nella preparazione. Le lumache in sé non contengono glutine né lattosio.

@@ -1,0 +1,25 @@
+# Cookies cocco e lime
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 200 g
+- Zucchero di canna: 120 g
+- Burro: (a temperatura ambiente) 100 g
+- Uova: (1 medio) 55 g
+- Cocco rapè: 55 g
+- Scorza di lime: 1
+- Gocce di cioccolato fondente: 50 g
+- Sale fino: 1 pizzico
+- Cocco rapè: q.b.
+
+## Preparazione
+Per preparare i cookies cocco e lime versate in una ciotola la farina , il cocco rapè ( ), il burro tagliato a pezzetti  e lo zucchero di canna .Aggiungete anche il sale  e iniziate ad amalgamare l’impasto con le mani  per qualche secondo ottenendo un composto sabbioso. Aromatizzate con la scorza del lime grattugiata .Incorporate l’uovo  e impastate ancora con le mani sino a ottenere un composto omogeneo . Aggiungete le gocce di cioccolato fondente .Lavorate ancora per qualche secondo in modo da distribuirle uniformemente . Prelevate - g di impasto e formate delle palline , passatele nel cocco rapè e adagiatele man mano su una teglia rivestita con carta da forno .Fate una leggera pressione con le dita schiacciando i biscotti , in modo da ottenere uno spessore di circa  cm . Cuocete in forno ventilato preriscaldato a ° per  minuti e proseguite per altri  minuti a ° in forno statico, nel ripiano centrale. A cottura ultimata, sfornate i cookies cocco e lime e lasciateli intiepidire prima di gustarli !
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi cookies al cocco e lime, croccanti all'esterno e morbidi all'interno, con l'inconfondibile aroma fresco del lime e la dolcezza del cocco e del cioccolato fondente.
+
+Occasioni adatte: Questi cookies sono perfetti da gustare come colazione o merenda, ma possono essere offerti anche durante un party o come dessert dopo un pasto.
+
+Dieta/Regime alimentare: Questi cookies sono adatti a una dieta in generale, ma vanno consumati con moderazione a causa dell'alto contenuto di zucchero e burro. Possono essere inseriti in una dieta bilanciata, facendo attenzione alle quantità.
+
+Intolleranze: Le persone con intolleranze al lattosio possono provare a sostituire il burro con margarina senza lattosio. Le persone celiache possono utilizzare una farina senza glutine per rendere la ricetta adatta. Le persone con intolleranze al cocco o al cioccolato fondente dovranno evitare di consumare questa ricetta.

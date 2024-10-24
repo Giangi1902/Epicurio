@@ -1,0 +1,26 @@
+# Pere al vino e cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Pere Williams: non mature 800 g
+- Vino rosso: novello 500 g
+- Acqua: 300 g
+- Zucchero: 165 g
+- Anice stellato: 2
+- Baccello di vaniglia: 1
+- Cannella in stecche: 1
+- Pepe nero: 10
+- Panna fresca liquida: 150 g
+- Cioccolato fondente all'85%: 100 g
+
+## Preparazione
+Per preparare le pere al vino con salsa al cioccolato cominciate proprio dalle pere. Dopo aver lavato le pere, scavatele con un levatorsoli facendo attenzione a non forare la parte esterna o quella con il picciolo (-). Sbucciatele lasciando soltanto la parte in superficie che fa da corona al picciolo .Dividete a metà il baccello di vaniglia  e spostatevi ai fornelli. Mettete sul fornello una pentola alta e stretta, all’interno versate il vino , l’acqua , lo zucchero , il baccello di vaniglia  e l'anice stellato .In ultimo unite la cannella e il pepe nero . Accendete il fornello e portate il tutto a bollore mescolando di tanto in tanto . Immergete le pere  cercando di tenerle strette, in questo modo resteranno bene in piedi e si coloreranno uniformemente. Abbassate un po’ la fiamma, coprite con il coperchio  e cuocete per circa  minuti: a fine cottura, toccatele con le dita senza scottarvi, al tatto dovranno risultare morbide, ma non molli. Quindi scolatele delicatamente  e lasciate restringere la salsa finché non diventerà come uno sciroppo. Fate attenzione che la salsa non bruci . Filtrate la riduzione  e tenete da parte a raffreddare a temperatura ambiente; tenete da parte anche le pere. Nel frattempo preparate la salsa al cioccolato. Sminuzzate quest’ultimo  e versatelo in una ciotola. In un pentolino invece fate scaldare la panna facendole sfiorare il bollore. Quindi versate la panna calda nella ciotola con il cioccolato e mescolate bene con la spatola  fino ad ottenere una ganache liscia . Una volta ottenuta la salsa non vi resta che procedere con l’impiattamento. Su un piattino di servizio spennellate un po’ di riduzione al vino rosso , poi glassate una pera con il cioccolato, mettendo al di sotto una ciotolina per raccogliere l’eccedenza , e disponete sul piatto . Procedete così con tutte le altre e le vostre pere al vino con salsa al cioccolato sono pronte per essere gustate !
+
+## Descrizione
+Risultato finale: Le pere al vino e cioccolato sono un dolce ricco e profumato, con le pere cotte lentamente nel vino rosso aromatizzato con spezie, vaniglia e zucchero. Le pere saranno morbide e saporite, immerse in una salsa densa e scuro grazie al cioccolato fondente fuso.
+
+Occasioni adatte: Questo dolce è perfetto per occasioni speciali come cene romantiche, feste eleganti o come dessert raffinato per un pranzo importante.
+
+Diete o regimi alimentari adatti: Le pere al vino e cioccolato sono adatte per una dieta bilanciata, in quanto contengono frutta fresca, vino rosso, spezie e cioccolato fondente. Tuttavia, è una ricetta piuttosto calorica e ricca di zuccheri, quindi va consumata con moderazione.
+
+Intolleranze e restrizioni alimentari: Le persone con intolleranza al lattosio possono sostituire la panna fresca con panna di soia o di riso e assicurarsi che il cioccolato fondente utilizzato non contenga lattosio. Le persone con intolleranza al glutine devono assicurarsi che il cioccolato fondente e le spezie utilizzate siano prive di glutine. Per quanto riguarda le persone con intolleranza al vino, è consigliabile consultare un medico prima di consumare questo dolce.

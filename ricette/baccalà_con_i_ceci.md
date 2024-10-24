@@ -1,0 +1,28 @@
+# Baccalà con i ceci
+Categoria: Secondi piatti
+
+## Ingredienti
+- Baccalà dissalato: 540 g
+- Ceci precotti: 400 g
+- Pomodori pelati: 400 g
+- Acqua: 180 g
+- Cipolle rosse: 70 g
+- Peperoncino fresco: piccolo 1
+- Rosmarino: q.b.
+- Salvia: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Timo: q.b.
+
+## Preparazione
+Per realizzare il baccalà con i ceci, iniziate a preparare tutti gli ingredienti che vi serviranno per la ricetta: dividete il baccalà (noi abbiamo utilizzato un baccalà già dissalato) in  tranci di uguale spessore , mondate e affettate sottilmente la cipolla , poi tritate il peperoncino fresco ,gli aghi di rosmarino  e le foglie di salvia . Scaldate un filo d’olio in una casseruola capiente, aggiungete la cipolla, il peperoncino, il rosmarino e la salvia  e soffriggete per un paio di minuti.Ora unite i pomodori pelati  e i ceci precotti scolati dal liquido di conservazione , allungate il sugo con l’acqua e regolate di sale  e di pepe. Coprite con il coperchio  e cuocete per circa  minuti a fiamma vivace. Trascorso questo tempo, adagiate i tranci di baccalà all’interno della casseruola ,richiudete con il coperchio  e cuocete per altri  minuti a fuoco medio. A questo punto, prelevate circa  g di sughetto e trasferiteli in un contenitore alto e stretto , dopodiché frullate con un frullatore a immersione e versate nuovamente la crema ottenuta nella casseruola . Proseguite la cottura per altri  minuti a fuoco vivace, questa volta senza coperchio, smuovendo la casseruola di tanto in tanto . Servite il vostro baccalà con i ceci ben caldo e guarnito con foglioline di timo fresco !
+
+## Descrizione
+Il risultato finale della ricetta "Baccalà con i ceci" sarà un piatto gustoso e saporito, con il baccalà che si presenta morbido e delicato al palato, accoppiato con la consistenza cremosa dei ceci e il sapore intenso dei pomodori, delle cipolle e delle erbe aromatiche.
+
+Questo piatto è adatto per occasioni speciali e cene eleganti, ma può essere preparato anche per un pranzo in famiglia o tra amici.
+
+La ricetta è adatta a una dieta mediterranea e equilibrata, ricca di proteine e fibre grazie al baccalà e ai ceci. È indicata per chi segue una dieta pescetariana o per chi cerca un piatto leggero ma nutriente.
+
+Le persone con intolleranze al lattosio possono mangiare questo piatto, in quanto non contiene latticini. Tuttavia, è importante fare attenzione alle persone con intolleranza al glutine, in quanto il baccalà con i ceci potrebbe contenere tracce di glutine se non si presta attenzione alla contaminazione crociata durante la preparazione.

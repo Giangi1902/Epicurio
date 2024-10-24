@@ -1,0 +1,26 @@
+# Bombe di patate veloci
+Categoria: Antipasti
+
+## Ingredienti
+- Patate: 400 g
+- Farina 00: 200 g
+- Lievito istantaneo per preparazioni salate: 16 g
+- Uova: 1
+- Sale fino: q.b.
+- Prosciutto cotto: a fette 100 g
+- Scamorza affumicata: 70 g
+- Origano: fresco q.b.
+- Olio di semi di girasole: 1 l
+- Sale di maldon: q.b.
+
+## Preparazione
+Per preparare le bombe di patate veloci, per prima cosa mettete a lessare le patate in abbondante acqua fredda : ci vorranno circa  minuti. Una volta cotte, lasciatele raffreddare e rimuovete la buccia . Versate la farina in una ciotola capiente, poi schiacciate le patate direttamente nella ciotola .Mentre iniziate a impastare con le mani, aggiungete anche il lievito istantaneo , l’uovo  e un pizzico abbondante di sale fino. Continuate ad impastare fino ad ottenere un composto omogeneo ,poi trasferitelo sul piano da lavoro che avrete leggermente infarinato e lavorate ulteriormente l’impasto per formare una palla . Ponete nuovamente l’impasto nella ciotola, coprite con pellicola trasparente e lasciate riposare a temperatura ambiente, in un luogo asciutto, per circa - minuti . Nel frattempo prendete la scamorza affumicata, rimuovete la crosta e tagliatela a cubetti piuttosto piccoli .Trascorso il tempo di riposo dell’impasto, stendetelo con un mattarello su un piano leggermente infarinato fino a uno spessore di circa , cm . Prendete un coppapasta del diametro di  cm e usatelo per ricavare dei dischi dalla sfoglia : in tutto dovrete ottenere  dischi .Farcite  di questi dischetti con mezza fetta di prosciutto, un cucchiaino di cubetti di scamorza  e qualche foglia di origano fresco , poi coprite con i restanti dischetti e premete bene i bordi con le dita per sigillare il ripieno ed evitare che fuoriesca durante la frittura . Dopo aver farcito e sigillato tutti i dischetti , versate l’olio di semi in un pentolino e portatelo alla temperatura di °-°. Immergete un pezzo per volta con l’aiuto di una ramina  e lasciatelo cuocere per circa - minuti per lato.Quando sarà dorato da entrambe le parti, rimuovetelo delicatamente dall’olio  e mettetelo a scolare su un foglio di carta per fritti . In ultimo, condite con sale di maldon  e servite le vostre bombe di patate veloci ben calde!
+
+## Descrizione
+- Risultato finale: Le bombe di patate veloci sono delle palline di patate ripiene di prosciutto cotto e scamorza affumicata, croccanti all'esterno e morbide all'interno grazie alla presenza della pasta lievitata. Sono profumate dall'origano fresco e si presentano come un antipasto sfizioso e invitante.
+
+- Occasioni adatte: Le bombe di patate veloci sono perfette da servire come antipasto durante una cena informale tra amici o come finger food in un buffet. Possono essere gustate anche durante un aperitivo o un brunch.
+
+- Diete o regimi alimentari adatti: Questa ricetta è adatta a una dieta onnivora, ma può essere modificata per renderla adatta anche a una dieta vegetariana sostituendo il prosciutto cotto con ingredienti a base vegetale. Le bombe di patate veloci possono essere consumate occasionalmente in una dieta bilanciata.
+
+- Intolleranze: Le bombe di patate veloci contengono farina di grano (glutine) e latticini (scamorza affumicata), quindi non sono adatte a persone con intolleranza al glutine e alla lattosio. Tuttavia, la ricetta può essere facilmente adattata utilizzando ingredienti senza glutine e formaggi senza lattosio per renderla adatta a persone con queste intolleranze.

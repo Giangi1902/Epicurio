@@ -1,0 +1,44 @@
+# Cassoeula
+Categoria: None
+
+## Ingredienti
+- Verza: 1,2 kg
+- Costine di maiale: 750 g
+- Arista: 200 g
+- Verzini: 7
+- Cotenna di suino: 150 g
+- Carne di suino: piedino 1
+- Carne di suino: orecchio 1
+- Carne di suino: codino 1
+- Carne di suino: musetto ½
+- Carote: 2
+- Cipolle: 1
+- Sedano: 1 costa
+- Pomodori ramati: maturi 5
+- Aglio: (da tritare) q.b.
+- Vino bianco secco: 100 g
+- Alloro: 2 foglie
+- Prezzemolo: (da tritare) q.b.
+- Olio extravergine d'oliva: 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Sale fino: 50 g
+- Rosmarino: 1 rametto
+- Prezzemolo: q.b.
+- Maggiorana: q.b.
+- Aglio: q.b.
+- Aglio: 2 spicchi
+- Alloro: 2 foglie
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare la cassoeula per prima cosa fatevi aiutare dal vostro macellaio di fiducia per scegliere, tagliare e pulire le parti del maiale che andrete a utilizzare. Preparate tutti gli ingredienti, iniziando dalla verza: prelevate le foglie verdi dalla parte esterna del cespo  e le foglie bianche dal cuore interno , poi dividetele a metà .Sbollentate le foglie verdi in acqua bollente leggermente salata per una decina di minuti , poi scolate  e tenete da parte. Fate la stessa cosa con le foglie bianche della verza, tenendole separate da quelle verdi. Sbollentate in acqua bollente leggermente salata anche i pezzi di carne: quindi immergete la cotenna  e scolatela dopo  minuti.Procedete nello stesso modo anche con l’orecchio , il codino , il piedino e il musetto . Sbollentate anche le costine e i verzini, sempre per  minuti. Scolate e tenete da parte.Ora passate ai pomodori: sbianchiteli brevemente nell’acqua bollente , poi spellateli  e tagliateli a cubetti . Tenete tutto da parte.Infine mondate e tagliate a listarelle le carote , la cipolla e il sedano. Scaldate l’olio in una casseruola di ghisa, poi aggiungete la cipolla  e le carote .Unite anche il sedano  e lasciate stufare dolcemente aiutandovi con poca acqua . Aromatizzate con le foglie di alloro  e un pizzico di aglio tritato.Quando le verdure si saranno ammorbidite potete aggiungere il piedino, il codino, il musetto e l’orecchio del maiale precedentemente sbollentati . Sfumate con il vino bianco  e lasciate evaporare la parte alcolica, poi inserite le foglie verdi della verza .Versate la polpa dei pomodori tagliati a cubetti (solo la parte più liquida con i semini) , mescolate  e coprite con il coperchio . Cuocete per un’ora e mezza a fiamma medio-alta.Nel frattempo preparate il sale aromatizzato che vi servirà per cuocere l’arista e le costine: realizzate un trito molto fino di rosmarino, maggiorana, prezzemolo e aglio, unite il sale  e amalgamate bene . Insaporite l’arista tagliata a cubotti con il sale aromatizzato, massaggiando bene ogni pezzo .Trasferite l’arista in una teglia unta con l’olio , condite con altro filo d’olio in superficie  e profumate con uno spicchio d’aglio e una foglia di alloro .Fate la stessa cosa con le costine, precedentemente sbollentate: massaggiate la carne con il sale aromatizzato , poi trasferitele in una teglia unta con l’olio e condite con un altro filo d’olio , alloro e aglio . Infornate entrambe le teglie in forno statico preriscaldato per  minuti.Dopo un’ora e mezza gli ingredienti nella casseruola avranno iniziato ad amalgamarsi, quindi potete inserire quelli restanti: aggiungete la cotenna  e uno strato di foglie bianche di verza , poi versate una parte dei pomodori a cubetti .Unite anche l’arista  e le costine cotte al forno , senza il loro fondo di cottura, poi versate i pomodori rimanenti .Infine aggiungete i verzini  e coprite con l’ultimo strato di foglie bianche di verza . Insaporite con un pizzico di sale aromatizzato e versate un pochino di acqua .Profumate con dei rametti di maggiorana , dopodiché lasciate cuocere ancora almeno per un’ora con il coperchio, senza mescolare ma controllando ogni tanto che non si asciughi troppo . A fine cottura guarnite con delle foglioline di prezzemolo e di maggiorana. La vostra cassoeula è pronta per essere servita con un bel piatto di polenta !
+
+## Descrizione
+Il risultato finale della cassoeula sarà un piatto ricco e saporito, con un mix di sapori intensi dati dalle carni di maiale, dalla verza e dagli aromi delle erbe utilizzate. La consistenza sarà cremosa grazie alla presenza delle cotenne di suino.
+
+La cassoeula è un piatto perfetto per le occasioni in cui si ha voglia di comfort food. È adatta soprattutto per l'inverno, quando si preferiscono piatti caldi e sostanziosi.
+
+Questa ricetta non è adatta per diete vegetariane o vegane, in quanto è a base di carne di maiale. È invece adatta per diete chetogeniche, low carb e paleo, poiché non prevede l'uso di carboidrati complessi.
+
+Le persone con intolleranza al lattosio possono mangiare la cassoeula, poiché non prevede l'uso di latticini. Tuttavia, è poco adatta per persone con intolleranze al glutine a causa della presenza di cotenne e carni di maiale. Infine, le persone con intolleranze al nichel dovrebbero evitare il consumo di arista e cotenne di suino.

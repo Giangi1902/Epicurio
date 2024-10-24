@@ -1,0 +1,24 @@
+# Panini morbidi ripieni di cioccolato
+Categoria: Lievitati
+
+## Ingredienti
+- Farina Manitoba: 150 g
+- Farina 00: 350 g
+- Lievito di birra fresco: 7 g
+- Latte intero: (a temperatura ambiente) 300 g
+- Burro: fuso, a temperatura ambiente 50 g
+- Zucchero: 60 g
+- Sale fino: 1 pizzico
+- Cioccolato fondente: 300 g
+- Tuorli: 1
+- Panna fresca liquida: 20 g
+
+## Preparazione
+Per preparare i panini morbidi, come prima cosa fondete il burro e lasciatelo intiepidire. Passate ora all'impasto: in una ciotola versate le due farine , lo zucchero  e sbriciolate all'interno il lievito di birra . Versate il latte a temperatura ambiente  e iniziate ad impastare con le mani . Quando avrete ottenuto un composto piuttosto omogeneo versate una parte del burro fuso, ormai tiepido, all'interno .Impastate ancora sino a che non sarà completamente assorbito  e aggiungete ancora un po' di burro. Proseguite in questo modo sino a terminare tutto il burro, facendolo assorbire lentamente. Trasferite poi l'impasto su un piano da lavoro  e aggiungete il sale . Impastate ancora qualche minuto , poi coprite con una ciotola  e lasciate riposare l'impasto per una decina di minuti. Lavoratelo nuovamente  e pirlatelo. L'impasto dovrà risultare liscio ed elastico.Trasferitelo in una ciotola, coprite con della pellicola  e lasciate lievitare per circa  ore a una temperatura di circa -°. Una volta passato il tempo indicato il vostro impasto sarà cresciuto di volume . Traferitelo sul piano di lavoro e maneggiatelo brevemente per ottenere un filone . Dividetelo con un tarocco, in modo da ottenere dei pezzi di circa  g . Ne otterrete  pezzi . Modellate ciascun pezzo in modo da formare una pallina .Proseguite per tutte le altre, coprendo con un canovaccio umido per non far seccare l'impasto e lasciate riposare per  minuti . Prendete le barrette di cioccolato e tagliatele a pezzi . Prendete ora una delle palline e schiacciatela con le mani, sino ad ottenere un disco di  cm.Sistemate al centro il cioccolato, circa  g per ciascuno . Coprite con un lembo di pasta  e arrotolatelo .Pizzicate i bordi per sigillare i panini e non far fuoriuscire il cioccolato in cottura . Disponeteli man mano su una teglia rivestita con carta forno, distanziandoli tra di loro e posizionando la chiusura verso il basso . Coprite con pellicola . Lasciate lievitare per  ora, o sino a che non saranno raddoppiati di volume . La temperatura consigliata è di -°. Spennellate i panini con tuorlo e panna sbattuti insieme , poi create dei tagli obliqui,  o  per ciascun panino.Cuocete in forno statico preriscaldato a ° per  minuti, sino a che non saranno ben dorati. Sfornateli  e lasciateli raffreddare su una gratella  prima di servirli .
+
+## Descrizione
+Il risultato finale sarà un panino morbido e soffice, con un cuore cremoso di cioccolato fondente che si scioglierà in bocca. Sarà ottimo da gustare sia a colazione che come dolce durante il giorno, magari accompagnato da una tazza di caffè o latte.
+
+Questi panini sono adatti per chi segue una dieta onnivora, in quanto contengono latte, burro e uova. Tuttavia, possono essere adattati per chi segue una dieta vegetariana sostituendo il latte e la panna con alternative vegetali.
+
+Le persone con intolleranze al lattosio potrebbero avere problemi a digerire questi panini a causa della presenza di latte e panna fresca. Per chi è intollerante al lattosio, si potrebbe sostituire il latte con una alternativa senza lattosio e la panna con una panna vegetale o senza lattosio. Coloro che sono intolleranti al glutine possono fare una versione senza glutine di questi panini utilizzando farina senza glutine.

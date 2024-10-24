@@ -1,0 +1,24 @@
+# Piccatine al pomodoro
+Categoria: Secondi piatti
+
+## Ingredienti
+- Fesa di vitello: 550 g
+- Pomodori pelati: 400 g
+- Aglio: 1 spicchio
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Basilico: 10 foglie
+- Burro: 20 g
+- Prezzemolo: q.b.
+- Prosciutto cotto: 120 g
+- Mozzarella: 160 g
+
+## Preparazione
+Per realizzare le piccatine al pomodoro per prima cosa tagliate a fette la fesa di vitello in modo da ricavare  pezzi . Avvolgete ciascuna fetta nella carta forno , quindi battetela con il batticarne . Otterrete così delle fette sottili . In un tegame fate scaldare l'olio, unite lo spicchio d'aglio schiacciato , fate insaporire per qualche minuto, poi  aggiungete il pomodoro  e salate.Insaporite con - foglie di basilico  e cuocete per circa - minuti coperto con un coperchio. A fine cottura, spegnete il fuoco e tenete da parte . In un'altra padella fate sciogliere il burro con un filo di olio .Adagiate le fettine di carne , salate  e lasciatele rosolare da entrambe le parti per qualche minuto, il tempo di far dorare la carne . Tagliate a fette la mozzarella  e lasciatela scolare adagiandola in un colino , in questo modo non rilascerà acqua in cottura. In una pirofila di circa x cm distribuite - cucchiai di pomodoro sul fondo .Adagiate la carne  e versate il resto del pomodoro , in modo da ricoprirla . Ora distribuite il prosciutto a fette  e la mozzarella . Tritate il prezzemolo, precedentemente lavato e asciugato .Aromatizzate la pietanza con il prezzemolo e il basilico restante . Passate in forno preriscaldato in modalità grill per circa - minuti o il tempo di far sciogliere la mozzarella . Le piccatine al pomodoro sono pronte, gustatele calde !
+
+## Descrizione
+Il risultato finale delle piccatine al pomodoro sono delle gustose fettine di vitello, arricchite da un saporito sugo di pomodoro, prosciutto cotto, mozzarella fusa e aromi come aglio, basilico e prezzemolo. Questo piatto è molto invitante e saporito, perfetto per chi ama i sapori intensi e la combinazione di carne e formaggio.
+
+Le piccatine al pomodoro sono adatte per occasioni speciali come cene eleganti o pranzi in famiglia. Possono essere servite come secondo piatto principale, magari accompagnate da contorni leggeri come insalata mista o verdure grigliate.
+
+Questa ricetta è adatta per persone che seguono una dieta onnivora e non sono intolleranti a nessuno degli ingredienti elencati. Tuttavia, chi soffre di intolleranze alimentari come lattosio, glutine o celiachia, dovrebbe fare attenzione e eventualmente sostituire la mozzarella con un formaggio senza lattosio o senza glutine. Se si è intolleranti al pomodoro, è possibile cercare alternative come la salsa di peperoni o melanzane.

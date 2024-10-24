@@ -1,0 +1,27 @@
+# Crocchette di patate e speck
+Categoria: Antipasti
+
+## Ingredienti
+- Patate: 800 g
+- Speck: 100 g
+- Uova: medie 2
+- Grana Padano DOP: da grattugiare 100 g
+- Prezzemolo: q.b.
+- Noce moscata: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Uova: medio 1
+- Pangrattato: q.b.
+- Olio di semi di arachide: q.b.
+
+## Preparazione
+In una casseruola mettete a bollire dell’acqua salata, quindi fate cuocere le patate con la buccia , una volta cotte, sbucciatele e schiacciatele con uno schiacciapatate all’interno di una ciotola . Quindi aggiungete alla purea di patate, il  prezzemolo, il sale ed il pepe.Quindi sminuzzate lo speck e unitelo all’impasto  aggiungete poi le uova e il Grana Padano grattugiato . Amalgamate quindi bene tutti gli ingredienti e prelevate con le mani una parte del composto (circa  g) e modellatelo per formare delle crocchette . Quindi passate le crocchette nell’uovo sbattuto , poi nel pangrattato e infine friggetele in olio bollente e lasciatele ben dorare rigirandole da una parte e dall’altra. (-) Scolatele su un foglio di carta assorbente e servite calde .
+
+## Descrizione
+Il risultato finale sarà delle deliziose crocchette di patate e speck croccanti all'esterno e morbide all'interno, dal sapore intenso grazie al mix di patate, speck e Grana Padano.
+
+Occasioni: Le crocchette di patate e speck sono perfette come antipasto in un pranzo o una cena informale con amici o in famiglia.
+
+Dieta: Le crocchette di patate e speck sono adatte a una dieta onnivora. Possono essere consumate moderatamente anche in una dieta bilanciata.
+
+Intolleranze: Le persone con intolleranza al lattosio dovranno evitare di utilizzare il formaggio Grana Padano nella ricetta. Le persone con intolleranza al glutine dovranno utilizzare pangrattato senza glutine. Per le persone con intolleranza al nichel è consigliabile scegliere uno speck di alta qualità.

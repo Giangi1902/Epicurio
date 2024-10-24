@@ -1,0 +1,26 @@
+# Clafoutis alle prugne
+Categoria: Dolci
+
+## Ingredienti
+- Prugne: 500 g
+- Latte intero: 200 ml
+- Zucchero: 200 g
+- Farina 00: 90 g
+- Uova: medie 3
+- Mandorle pelate: 30 g
+- Brandy: 20 ml
+- Baccello di vaniglia: i semi 1
+- Sale fino: 1 pizzico
+- Burro: q.b.
+- Zucchero: q.b.
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per realizzare il clafoutis alle prugne iniziate tagliando le mandorle pelate a spicchi , ponetele in una teglia rivestita da carta da forno  e mettetele a tostare in forno preriscaldato statico a ° per circa  minuti (oppure in forno ventilato per pochi minuti) o il tempo necessario per farle dorare leggermente .Ora occupatevi delle prugne: lavatele sotto l’acqua corrente , tagliatele a metà , eliminate il nocciolo con uno spelucchino e poi tagliatele a fette abbastanza regolari . Tenete da parte la frutta e preparate l’impasto: in una ciotola ponete le uova intere, aggiungete lo zucchero , amalgamate il composto con una frusta a mano ,unite un pizzico di sale , la farina setacciata e i semi della bacca di vaniglia , versate il latte a filo a temperatura ambiente  continuando a mescolare con la frusta,per ultimo aromatizzate con il brandy . Ora che l’impasto è pronto imburrate una teglia del diametro di  cm  e cospargetela con dello zucchero semolato .Distribuite sul fondo della teglia le fettine di prugne creando un motivo di cerchi concentrici (-), poi cospargete le prugne con le mandorle tostate .Per finire versate l'impasto nella teglia . Il clafoutis alle prugne è pronto per essere infornato : cuocetelo in forno statico preriscaldato a ° per -  minuti o fino a quando non risulterà dorato (se avete il forno ventilato cuocete a ° per - minuti). A cottura ultimata, sfornate il clafoutis alle prugne , lasciatelo intiepidire e poi servitelo spolverizzando la superficie con lo zucchero a velo.
+
+## Descrizione
+Il risultato finale della ricetta "Clafoutis alle prugne" sarà un dolce soffice e profumato, con una consistenza simile a quella di una frittata dolce. Le prugne, dolci e succose, si amalgameranno perfettamente con il composto cremoso e aromatizzato alla vaniglia e al brandy. Le mandorle daranno un tocco croccante e la polvere di zucchero a velo sulla superficie renderà il dolce ancora più invitante.
+
+Questo dolce è perfetto per essere servito come dessert dopo un pasto importante o come merenda. Può essere portato in tavola in occasioni speciali come compleanni o feste, rendendo il momento ancora più dolce e piacevole.
+
+La ricetta del clafoutis alle prugne è adatta a persone che seguono una dieta tradizionale e non sono intolleranti ai latticini, alle uova, alle mandorle e al glutine presente nella farina. Le persone con intolleranze a questi alimenti dovrebbero evitare di consumare questo dolce o cercare delle varianti con ingredienti sostitutivi.

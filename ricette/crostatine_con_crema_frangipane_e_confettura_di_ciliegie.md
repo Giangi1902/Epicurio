@@ -1,0 +1,26 @@
+# Crostatine con crema frangipane e confettura di ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Burro: (freddo di frigorifero) 270 g
+- Farina 00: 500 g
+- Tuorli: 4
+- Zucchero a velo: 200 g
+- Sale fino: 1 pizzico
+- Farina di mandorle: 150 g
+- Burro: (a temperatura ambiente) 100 g
+- Uova: 2
+- Zucchero: 120 g
+- Confettura di ciliegie: 250 g
+
+## Preparazione
+Per realizzare le crostatine con crema frangipane e confettura di ciliegie incominciate con la preparazione della pasta frolla: in un mixer ponete la farina setacciata, un pizzico di sale ed il burro freddo da frigorifero a cubetti . Frullate il tutto fino ad ottenere un composto dall'aspetto sabbioso e farinoso ; versate la sabbiatura ottenuta su un piano di lavoro (oppure in una ciotola), create la forma a fontana e al centro aggiungete lo zucchero a velo setacciato .Versate i tuorli, quindi iniziate ad amalgamare il tutto con la forchetta . Quando le uova avranno assorbito la farina potete proseguire a mano: impastate brevemente, giusto il tempo di compattare l'impasto  perché la frolla non si scaldi troppo con il calore delle mani e rimanga friabile. Formate un panetto, appiattitelo così si raffredderà più facilmente, e avvolgetelo nella pellicola trasparente , riponendolo in frigorifero almeno  minuti.Nel frattempo potete preparare la crema frangipane: in una ciotola versate il burro a temperatura ambiente tagliato a tocchetti e lo zucchero . Lavorate con uno sbattitore elettrico dotato di fruste  e, quando il composto sarà ben montato, aggiungete un uovo alla volta , aspettando che il precedente si sia incorporato e continuando con le fruste.Raccogliete il composto dai lati con una spatola e in ultimo aggiungete la farina di mandorle , dunque mettete la crema in una sac-à-poche senza bocchetta, riponendola in frigorifero . Passato il tempo necessario, con il mattarello stendete la pasta frolla ad uno spessore di circa  cm .Con un coppapasta del diametro di  cm ricavate  dischi  e con questi foderate  stampini tondi antiaderenti, precedentemente imburrati e infarinati, della misura di  cm di diametro e con il bordo alto  cm ; premete leggermente con le dita il fondo e i bordi per far aderire bene la pasta e poi con un coltellino eliminate la pasta in eccesso, conservando la pasta che è avanzata .Se volete realizzare un'unica crostata potete usare uno stampo del diametro di  cm con un bordo alto  cm.Passate quindi alla farcitura: con l'aiuto della sac-à-poche riempite circa  cm del fondo delle crostatine con la crema frangipane  e poi terminate con la confettura di ciliegie, riempiendo lo stampino fino al bordo . Passate quindi alla decorazione: stendete la pasta frolla che avete tenuto da parte ad uno spessore di  mm e poi con una rotella taglia pasta dentellata ricavate delle striscioline di  cm di spessore .Applicate le striscioline di pasta frolla sulle crostatine per creare un motivo decorativo a losanghe . Una volta terminato , fate cuocere in forno statico preriscaldato a ° per  minuti (se in forno ventilato a ° per  minuti). Quando saranno pronte, sfornatele , fatele raffreddare completamente su una gratella e poi sformate. Infine servite e gustate le vostre crostatine con crema frangipane e confettura di ciliegie.
+
+## Descrizione
+Le crostatine con crema frangipane e confettura di ciliegie sono dolci e golose, con una base di pasta frolla croccante e friabile, farcita con una morbida crema frangipane alle mandorle e una dolce confettura di ciliegie. Il contrasto tra la dolcezza della crema e l'acidità della confettura rende queste crostatine irresistibili.
+
+Queste crostatine sono perfette per occasioni speciali come feste di compleanno, brunch, buffet dolci o per coccolarsi con un dolce preparato con cura. Sono adatte a tutti coloro che amano i dolci ricchi e golosi.
+
+Le crostatine con crema frangipane e confettura di ciliegie sono adatte a chi segue una dieta onnivora, con moderazione. Tuttavia, è importante prestare attenzione alla quantità consumata, in quanto sono ricche di burro, zucchero e calorie.
+
+Le persone con intolleranze al lattosio o al glutine dovrebbero fare attenzione a questa ricetta, poiché contiene burro e farina di frumento. È possibile sostituire il burro con un'alternativa vegana senza lattosio e utilizzare una farina senza glutine per renderla adatta anche a chi ha queste intolleranze.

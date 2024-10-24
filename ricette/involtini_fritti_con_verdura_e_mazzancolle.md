@@ -1,0 +1,29 @@
+# Involtini fritti con verdura e mazzancolle
+Categoria: Antipasti
+
+## Ingredienti
+- Dischetti di pasta: 16
+- Carote: 80 g
+- Zucchine bianche: 80 g
+- Melanzane: lunghe 80 g
+- Carciofi: 2
+- Porri: ½
+- Mazzancolle: 200 g
+- Timo: 2 rametti
+- Olio extravergine d'oliva: 20 g
+- Albumi: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio di semi: 1 l
+
+## Preparazione
+Per realizzare gli involtini fritti con verdura e mazzancolle iniziate a lavare le verdure, poi pelate e spuntate le carote, riducetele prima a bastoncini e poi a cubetti , spuntate anche le zucchine e tagliatele allo stesso modo , proseguite con le melanzane: spuntatele e tagliatele a piccoli cubetti .Sfogliate il pollo e affettatelo a rondelle . Occupatevi dei carciofi: tagliate via la punta spinosa, sfogliate il carciofo, ovvero eliminate le foglie più esterne più dure , andate avanti fino a quelle più tenere, eliminate la parte finale del gambo e con uno spelucchino rimuovete lo strato esterno fibroso .Ora tagliate il carciofo in due parti e poi affettatelo . In una padella scaldate  gr di olio di oliva, unite il porro , fatelo appassire per  minuti poi versate le carote  fatele cuocere per - minuti,poi unite le melanzane  e proseguite la cottura per altri - minuti, poi incorporate i carciofi  e lasciate andare ancora per -- minuti, terminate con le zucchine aromatizzate con il timo , salate , pepate e cuocete per altri  minuti. Una volta pronto tutto, spegnete il fuoco e lasciate raffreddare. Pulite le mazzancolle: staccate la testa delle mazzancolle, poi le zampe ed il carapace (-) per estrarre delicatamente le carni.Tagliate a metà le code di mazzancolle incidendo il dorso , eliminate l’intestino In un tegame capiente versate un filo d'olio, lo spicchio d'aglio sbucciato, fate saltare le mazzancolle (-)per un minuto poi ponete le verdure in una ciotola  e unite le mazzancolle eliminando lo spicchio d’aglio. Prendete i dischetti di pasta adagiateli su un tagliere, farciteli con  cucchiaini di ripieno, spennellate il bordo del disco con l’albume  e chiudete i lati  e arrotolate per conferire la forma di un involtino . Cuocete gli involtini: in una pentola capiente scaldate l’olio di semi, quando arriva a ° friggete - involtini alla volta  fino a quando non saranno dorati. Scolate gli involtini e adagiateli su un vassoio ricoperto da carta assorbente per farli asciugare . I vostri involtini fritti con verdura e mazzancolle sono pronti da gustare caldi.
+
+## Descrizione
+Il risultato finale di questa ricetta sono involtini fritti croccanti e gustosi, farciti con verdure e mazzancolle, dal sapore equilibrato e ricco di sapori mediterranei.
+
+Occasioni adatte: Questi involtini fritti con verdura e mazzancolle sono perfetti come antipasto in occasioni speciali come feste, cene eleganti o pranzi in compagnia.
+
+Diete adatte: Questa ricetta è adatta a una dieta equilibrata e varia, in quanto contiene verdure e mazzancolle, fonti di fibre e proteine. Adatta anche a chi segue una dieta mediterranea.
+
+Intolleranze: Le persone con intolleranza al glutine dovranno optare per una pasta senza glutine. Le persone allergiche ai crostacei dovranno evitare le mazzancolle.

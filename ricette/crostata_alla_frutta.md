@@ -1,0 +1,34 @@
+# Crostata alla frutta
+Categoria: Dolci
+
+## Ingredienti
+- Tuorli: 2
+- Farina 00: 250 g
+- Baccello di vaniglia: 1
+- Zucchero a velo: 100 g
+- Burro: freddo 150 g
+- Scorza di limone: ½
+- Zucchero: 120 g
+- Tuorli: 4
+- Latte intero: 500 g
+- Amido di mais (maizena): 40 g
+- Farina 00: 20 g
+- Fragole: 250 g
+- Kiwi: 2
+- Ananas: 4 fette
+- Mirtilli: 20 g
+- Lamponi: 20 g
+- More: 20 g
+- Menta: q.b.
+
+## Preparazione
+Per preparare la crostata alla frutta iniziate dalla pasta frolla: mettete in una ciotola farina, lo zucchero a velo  i semi raschiati da una bacca di vaniglia  e il burro freddo a pezzetti . Lavorate gli ingredienti con le mani fino a ottenere un composto sabbioso , poi unite i tuorli d’uovo  e impastate ancora .Quando avrete ottenuto un panetto omogeneo e morbido  avvolgetelo nella pellicola trasparente e fate riposare in frigorifero per almeno  minuti . Se non riuscite a lavorarlo bene in ciotola, trasferitevi su un piano di lavoro per compattarlo velocemente, sino a che non sarà omogeneo. Nel frattempo preparate la crema pasticcera versando in un pentolino il latte Profumate grattugiando la scorza di limone , accendete il fuoco a fiamma bassa e portate a sfiorare il bollore. Versate i tuorli in un altro pentolino più capiente, aggiungete lo zucchero  e mescolate. Unite anche l'amido di mais e la farina .Mescolate evitando la formazione di grumi . A questo punto il latte dovrebbe essere pronto, versatene un po' per stemperare il composto , mescolate, aggiungete il latte rimasto e mescolate ancora. Spostate il tutto sul fornello e cuocete la crema, mescolando di continuo, finché non sarà diventata soda. Ci vorranno all'incirca  minuti . Trasferite la crema in un contenitore basso e largo, copritela con pellicola a contatto e fate raffreddare a temperatura ambiente; poi mettetela in frigorifero a rassodare . Recuperate la pasta frolla, stendetela su una spianatoia leggermente infarinata e ricavatene un cerchio dello spessore di  mm circa , sollevate il disco con il matterello e srotolate nello stampo da  cm. Passate il matterello in superficie per staccare gli eccessi .Bucherellate il fondo coi rebbi di una forchetta  e passate alla cottura in bianco: significa cuocere la base della crostata senza farcitura, in forno statico, già caldo a °, per circa / minuti .  Sfornate la base di frolla e lasciatela raffreddare . Lavorate la crema raffreddata con una frusta , trasferitela in una sac-à-poche e farcite il guscio di frolla . Livellate la superficie con il dorso di un cucchiaio e riponete la crostata in frigorifero . Nel frattempo passate alla pulizia e il taglio della frutta. Iniziate dall'ananas, sbucciatelo  e tagliatelo a fette spesse mezzo cm. Poi ricavate da ciascuna ottenendo  triangolini . Passate ai kiwi, sbucciatelo, dividetelo a metà per il lungo e tagliatelo a fettine .In ultimo occupatevi delle fragole. Eliminate il picciolo e ricavate  spicchi da ciascuna . Passate alla decorazione: fate in maniera non troppo ordinata. Quindi sulla base decorate prima con gli spicchi di fragole con la punta rivolta verso l'alto , poi aggiungete le fettine di kiwi .Continuate con l'ananas inserendo i triangolini fino a ricoprire quasi l’intera superficie . Completate guarnendo con i frutti di bosco e qualche fogliolina di menta qua e la . Ecco pronta la vostra crostata alla frutta .
+
+## Descrizione
+Il risultato finale della crostata alla frutta sarà una crostata croccante con una crema pasticcera al limone e una varietà di frutta fresca sopra, decorata con foglie di menta. 
+
+Questa crostata è adatta per occasioni speciali come feste di compleanno, buffet e brunch. 
+
+Questa ricetta non è adatta per diete a basso contenuto di grassi o zuccheri, ma può essere adatta per una dieta bilanciata se consumata con moderazione. 
+
+Le persone con intolleranze al lattosio non possono consumare questa ricetta a causa della presenza di latte intero nella crema pasticcera. Le persone con intolleranze al glutine possono utilizzare farina senza glutine per rendere la crostata adatta alle loro esigenze.

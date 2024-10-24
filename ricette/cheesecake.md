@@ -1,0 +1,28 @@
+# Cheesecake
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti Digestive: 240 g
+- Burro: 110 g
+- Formaggio fresco spalmabile: 500 g
+- Panna fresca liquida: 100 g
+- Zucchero: 65 g
+- Amido di mais (maizena): 25 g
+- Uova: (medio) 1
+- Tuorli: 1
+- Succo di limone: ½
+- Baccello di vaniglia: ½
+- Panna acida: 100 g
+- Baccello di vaniglia: ½
+- Frutti di bosco: q.b.
+- Menta: q.b.
+
+## Preparazione
+Per preparare la cheesecake per prima cosa fondete il burro e lasciatelo intiepidire; nel frattempo ponete i biscotti in un mixer  e frullateli fino a ridurli in polvere . Poi trasferiteli in una ciotola e versate il burro .Mescolate con un cucchiaio fino ad uniformare il composto ; prendete poi uno stampo a cerniera da  cm e foderate la base con la carta forno. Ponete metà dei biscotti all'interno e schiacciateli con il dorso del cucchiaio per compattarli .Foderate anche il bordo dello stampo utilizzando i biscotti rimanenti . Non appena avrete ricoperto l'intera superficie ponete la base della vostra cheesecake a rassodare in frigorifero per  minuti, oppure in freezer per  minuti. Nel frattempo occupatevi della crema: in una ciotola versate un uovo, un tuorlo, lo zucchero  e sbattete il tutto con una frusta fino ad ottenere una consistenza cremosa .Prelevate i semi di mezza bacca di vaniglia (tenendo da parte il resto che servirà successivamente) e aggiungeteli alle uova . Unite anche il formaggio cremoso poco per volta .Continuate a mescolare con una frusta . Non appena avrete incorporato tutto il formaggio aggiungete anche il succo di limone  e l'amido di mais .Unite poi la panna  e mescolate ancora delicatamente con la frusta . Riprendete dal frigorifero lo stampo con la base di biscotti e versate il composto all'interno .Livellate leggermente la superficie e cuocete in forno statico preriscaldato a ° per  minuti, poi proseguite la cottura a ° per altri  minuti. Una volta cotta, lasciate raffreddare la cheesecake nel forno spento con lo sportello aperto e nel frattempo occupatevi del topping. In una ciotola mescolate la panna acida con i semi della mezza bacca di vaniglia tenuta da parte e amalgamate il tutto con una spatola.Versate il topping sulla cheesecake a temperatura ambiente e spalmatelo uniformemente , poi riponetela nuovamente in frigorifero a rassodare per  ore. Trascorso il tempo di riposo, sformate il dolce  e occupatevi della decorazione aggiungendo per prima cosa i ribes .Guarnite ulteriormente con le more, i mirtilli e i lamponi . In ultimo aggiungete le foglioline di menta  e servite la vostra favolosa cheesecake !
+
+## Descrizione
+Il risultato finale della cheesecake sarà un dolce cremoso e ricco, dal sapore fresco e deciso grazie al formaggio fresco e al tocco di limone. La consistenza sarà morbida e delicata, perfettamente bilanciata dal fondo croccante di biscotti e burro.
+
+Questa cheesecake è adatta per occasioni speciali come feste di compleanno, cene formali o semplicemente per coccolarsi con un dolce raffinato. È perfetta per chi ama i dolci al cucchiaio e desidera un dessert elegante e goloso.
+
+La cheesecake è adatta a una dieta equilibrata, ma dovrebbe essere consumata con moderazione a causa del suo contenuto calorico e di grassi. È ideale per coloro che seguono una dieta lattosio libera, ma non per chi è intollerante al lattosio o alle uova.

@@ -1,0 +1,28 @@
+# Cornetti ripieni di confettura
+Categoria: Dolci
+
+## Ingredienti
+- Burro: 100 g
+- Farina 00: 380 g
+- Zucchero: 40 g
+- Tuorli: 3
+- Yogurt bianco naturale: 125 g
+- Scorza di limone: 1
+- Cannella in polvere: raso 1 cucchiaino
+- Marmellata: di diversi gusti q.b.
+- Zucchero a velo vanigliato: q.b.
+
+## Preparazione
+Mettete nel vaso del mixer la farina, il burro tagliato a pezzetti e lo zucchero. Mixate fino a ridurre gli ingredienti in piccole briciole, quindi aggiungete i tuorli d’uovo, lo yogurt, la scorza di limone e la cannella. Azionate di nuovo il mixer, poi estraete la pasta e impastatela a mano per qualche minuto, formate una palla che avvolgerete nella pellicola trasparente e lascerete riposare in frigo per mezz’ora.Trascorsa la mezz’ora, estraete la pasta dal frigorifero e stendetela con il matterello fino a formare una sfoglia di circa  mm di spessore, quindi tagliatela in quadretti di  cm di lato.Disponete un cucchiaio di marmellata al centro di ogni quadrato e ripiegatelo in modo da ottenere un triangolo. Sigillate i bordi pressandoli leggermente con le dita, quindi arrotolate i triangoli su se stessi. Piegate le punte leggermente in avanti per dargli una forma simile ad un croissant.Disponete i biscotti sopra una placca foderata con carta forno e cuocete i biscotti per  minuti in forno già caldo a ºC. Lasciate raffreddare i biscotti fuori dal forno e poi spolverizzateli con dello zucchero a velo, quindi serviteli.
+
+## Descrizione
+Il risultato finale della ricetta sarà un delizioso dolce a base di cornetti ripieni di confettura con un sapore burroso e fragrante, arricchito dalla presenza di yogurt e scorza di limone. I cornetti saranno croccanti all'esterno e morbidi all'interno, con un cuore dolce e fruttato dato dalla confettura.
+
+Occasioni:
+Questi cornetti ripieni di confettura sono perfetti per la colazione, la merenda o come dolce da servire durante una festa o un buffet.
+
+Dieta/regime alimentare:
+La ricetta è adatta per una dieta onnivora. È consigliato consumare i cornetti in moderazione se si segue una dieta ipocalorica o a basso contenuto di zuccheri.
+
+Intolleranze:
+Le persone con intolleranza al lattosio possono sostituire lo yogurt bianco con un'alternativa senza lattosio. Inoltre, per i celiaci, è consigliabile utilizzare una farina senza glutine. Le persone con intolleranza ai lieviti dovrebbero evitare di consumare questo dolce in quanto la ricetta prevede l'utilizzo di lievito per dolci.

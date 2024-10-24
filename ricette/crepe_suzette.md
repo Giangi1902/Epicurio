@@ -1,0 +1,27 @@
+# Crepe Suzette
+Categoria: Dolci
+
+## Ingredienti
+- Uova: medie 2
+- Farina 00: 150 g
+- Latte intero: 300 ml
+- Burro: 40 g
+- Zucchero: 1 cucchiaio
+- Scorza d'arancia: ½
+- Arance: 3
+- Succo di limone: 1
+- Grand Marnier: 150 ml
+- Zucchero: 130 g
+- Burro: 80 g
+
+## Preparazione
+Per realizzare le crepes suzette inziate dall'impasto di base: mettete in una ciotola dai bordi alti la farina setacciata , lo zucchero semolato, i semi di mezza bacca di vaniglia, un pizzico di sale e il latte. Lavorate il composto con una frusta a mano o con uno sbattitore elettrico fino a che sarà liscio . In una terrina a parte sbattete con una forchetta le uova, poi aggiungetele agli altri ingredienti  e continuate a mescolare.Sciogliete il burro in un pentolino a fuoco basso e fatelo intiepidire, poi aggiungetelo all’impasto per le crepes e mescolate accuratamente. Infine aggiungete all’impasto la buccia di mezza arancia grattugiata . Mescolate bene gli ingredienti per ottenere un impasto denso senza grumi . Coprite l’impasto con pellicola trasparente e lasciatelo riposare per almeno mezz’ora in frigo. Trascorso il tempo di riposo, riprendete l’impasto delle crepe, munitevi di una padella da crepe, piatta e con i bordi bassi, scaldate la padelle, versate un mestolo di impasto  e cuocete la prima crepe ruotando la padella per distribuire il composto su tutta la superficie.Cuocete le crepe su entrambi i lati girandole con una spatola . Man mano che cuocete le crepes trasferitele su un piatto una sopra l’altra per non farle asciugare . Ripiegate le crepe in  per ottenere dei piccoli ventagli .Ora preparate la salsa, grattugiate la scorza di  arance , spremetene il succo e filtratelo  grattugiate anche la scorza del limone, spremete il succo del limone spremete il succo e filtratelo attraverso un colino . Ponete il burro in una padella insieme allo zucchero  e scioglieteli a fuoco basso mescolando con un cucchiaio di legno  , usate una padella in acciaio, ideale per flambare.Aromatizzate con la scorza delle arance , del limone  versate il succo di arancia e quello di limone . Fate cuocere la salsa a fuoco basso finché lo zucchero non si sarò sciolto  poi immergete le crepes nella salsa all’arancia per insaporirle .A parte in un pentolino scaldate il Grand Marnier  e poi versatelo nella padella con le crepes , ora incendiate il liquore per il flambé, per spegnere la fiamma basterà coprire la padella con un coperchio. Le crepes suzette sono pronte per essere gustate , i più golosi possono accompagnarle con una ganache al cioccolato preparata sciogliendo il cioccolato fondente nella panna.
+
+## Descrizione
+Il risultato finale della ricetta Crepe Suzette sarà un dolce composto da crepes sottili glassate con una salsa agrumata e leggermente alcolica, arricchita dall'aroma dell'arancia e del Grand Marnier. Le crepes saranno morbide e leggere, mentre la salsa avrà un sapore dolce e fresco.
+
+Questo dolce è adatto per occasioni speciali come cene eleganti o brunch raffinati. Può essere servito come dessert dopo un pasto ricco o come dolce da gustare con il tè pomeridiano.
+
+Le Crepe Suzette sono adatte a una dieta non rigorosamente controllata, in quanto sono piuttosto caloriche a causa del burro e dello zucchero presenti nella ricetta. Tuttavia, possono essere gustate occasionalmente come indulgenza.
+
+Le persone con intolleranze al lattosio dovrebbero evitare questo dolce a causa della presenza di latte e burro nella ricetta. Chi soffre di intolleranza al glutine può optare per una versione senza glutine utilizzando una farina senza glutine al posto della farina 00. Chi è intollerante agli agrumi dovrebbe evitare questa ricetta a causa della presenza di scorza d'arancia e succo di limone.

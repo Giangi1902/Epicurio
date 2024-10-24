@@ -1,0 +1,33 @@
+# Risotto ai carciofi
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Carnaroli: 320 g
+- Brodo vegetale: 1 l
+- Grana Padano DOP: da grattugiare 50 g
+- Olio extravergine d'oliva: 20 g
+- Scalogno: 1
+- Vino bianco: fermo 200 g
+- Timo: 1 rametto
+- Burro: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Carciofi: (circa 4 teste) 400 g
+- Olio extravergine d'oliva: 30 g
+- Aglio: 1 spicchio
+- Scalogno: 1
+- Timo: 3 rametti
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il risotto ai carciofi, iniziate a fare il brodo vegetale.Pulite e tagliate ora i carciofi ma prima di toccarli proteggete le mani con dei guanti in lattice o strofinando sulla pelle del limone per evitare che diventino nere.Togliete le foglie esterne più spesse  fino ad arrivare a quelle tenere, poi , con un coltello, recidete le sommità più dure e privateli anche del gambo . Pelate ora i gambi eliminando la parte esterna più filamentosa, quindi tagliateli a cubetti  e teneteli separati dal resto in una bacinella riempita con acqua e limone per non farli annerire.Tagliate ora i cuori di carciofo a metà, privateli della barbetta interna e riduceteli in quarti . Immergete anche questi in una bacinella riempita con acqua e succo di limone . Mondate e tritate finemente gli scalogni , separatamente: uno vi servirà per la cottura dei carciofi e uno per il soffritto del risotto.In una padella antiaderente irrorata di olio extravergine di oliva fate soffriggere lo spicchio d’aglio senza privarlo della pelle  e, a rosolatura completata, rimuovetelo . Aggiungete all’olio caldo il trito di uno scalogno e lasciatelo soffriggere qualche secondo .A questo punto irrorate le cipolle con un mestolo di brodo vegetale  e aggiungete i quarti di carciofo , che farete cuocere a fuoco dolce per - minuti. Se notate che si asciugano troppo, aggiungete poco brodo. Una volta cotti, aggiustate di sale e pepe ,tritate il timo e aggiungete anche questo . Tenete da parte i cuori di carciofo cotti.Iniziate ora il risotto. In un tegame irrorato di olio extravergine di oliva fate soffriggere il rimanente trito di scalogno  e quando sarà imbiondito aggiungete il riso .Mescolatelo un paio di minuti per farlo tostare bene e a questo punto sfumatelo con il vino bianco . Aggiungete i gambi di carciofo a cubetti  e iniziate ora ad aggiungere il brodo vegetale poco alla volta mantecando costantemente : il riso impiegherà in tutto circa  minuti e usate solo la quantità di brodo necessaria.A metà cottura, quindi dopo una decina di minuti circa, aggiungete i carciofi cotti in precedenza  e proseguite la cottura aggiungendo poco brodo alla volta e mescolando . Quando il riso è cotto spegnete il fuoco. Mantecate il risotto con il burro e il Grana Padano grattugiato ,quindi aggiustate di pepe e sale  e ultimate con il timo spezzettato grossolanamente . Potete impiattare il vostro risotto ai carciofi : servitelo subito!
+
+## Descrizione
+Il risultato finale di questo risotto ai carciofi sarà un piatto cremoso e ricco di sapore, grazie alla combinazione di carciofi, formaggio Grana Padano e brodo vegetale. Il risotto sarà arricchito da un mix di aromi come scalogno, timo e vino bianco, per un risultato equilibrato e gustoso.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti, pranzi in famiglia o per celebrare un'occasione importante.
+
+La ricetta è adatta per una dieta vegetariana, ma è possibile aggiungere del prosciutto cotto o del bacon per renderla più sostanziosa per chi segue una dieta onnivora.
+
+Le persone con intolleranze alimentari alla lattosio devono evitare di utilizzare il formaggio Grana Padano. Inoltre, chi è intollerante all'aglio dovrebbe evitarne l'uso nella ricetta. La ricetta è adatta per chi segue una dieta senza glutine, utilizzando un brodo vegetale privo di glutammato monosodico e controllando che il riso sia privo di contaminazioni da glutine.

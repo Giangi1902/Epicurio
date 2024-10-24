@@ -1,0 +1,23 @@
+# Plumcake alla Nutella
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Zucchero: 200 g
+- Nutella: 100 g
+- Burro: 100 g
+- Miele: 50 g
+- Cacao amaro in polvere: 25 g
+- Uova: a temperatura ambiente 5
+- Lievito in polvere per dolci: 12 g
+- Sale fino: 1 pizzico
+
+## Preparazione
+Per realizzare il plumcake alla Nutella ponete in una ciotola capiente le uova a temperatura ambiente, il miele  , lo zucchero  il pizzico di sale e montate con una frusta elettrica il composto fino ad ottenere una crema spumosa e chiara  (in alternativa potete usare anche una planetaria). A parte setacciate la farina, il lievito e il cacao amaro in polvere , versate le polveri setacciate nel composto di uova ,mescolate con un cucchiaio  per amalgamare gli ingredienti. Sciogliete il burro in un pentolino o nel microonde  incorporate la Nutella al burro fuso  e mescolate per sciogliere la Nutella e ottenere una crema liscia senza grumi.Incorporate la crema di Nutella all’impasto mescolando con una spatola (-). La base del plumcake è pronta, imburrate uno stampo da plumcake di  X  cm e foderatelo con carta da forno, per un risultato ottimale ritagliate dei fogli di carta da forno della stessa misura del fondo e dei bordi così da far aderire bene la carta senza creare increspature .Versate l’impasto nello stampo , livellate la superficie con una spatola  e cuocete il plumcake in forno statico preriscaldato a ° per circa - minuti (° per - minuti se forno ventilato). A cottura ultimata sfornate il plumcake alla Nutella, per sformarlo aspettate che si raffreddi e poi basterà rovesciare lo stampo per sformarlo . Il vostro goloso plumcake alla Nutella è pronto, non vi resta che tagliare delle generose fette e gustarlo!
+
+## Descrizione
+Il risultato finale del Plumcake alla Nutella sarà un dolce soffice e goloso, dal sapore avvolgente di Nutella e cacao. La consistenza sarà morbida e leggermente umida, perfetta da gustare sia a colazione che a merenda.
+
+Questo dolce è adatto per occasioni informali come feste in casa, compleanni oppure per coccolarsi con un dessert speciale durante la settimana.
+
+Il Plumcake alla Nutella è adatto a tutte le persone che non hanno problemi di intolleranza ai singoli ingredienti. Tuttavia, è da evitare per le persone con intolleranza al glutine, al lattosio, al cacao o al miele. Per tali situazioni è possibile sostituire gli ingredienti con alternative senza glutine, senza lattosio o allergeniche.

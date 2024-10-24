@@ -1,0 +1,31 @@
+# Crespelle al salmone
+Categoria: None
+
+## Ingredienti
+- Uova: (circa 3 a temperatura ambiente) 200 g
+- Farina 00: 250 g
+- Latte intero: ( a temperatura ambiente) 500 g
+- Burro: q.b.
+- Ricotta vaccina: 250 g
+- Salmone affumicato: 200 g
+- Erba cipollina: 1 mazzetto
+- Maggiorana: 1 rametto
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Latte intero: 250 g
+- Burro: 25 g
+- Farina 00: 25 g
+- Noce moscata: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare le crespelle al salmone iniziate dalla preparazione della besciamella: in una pentolino sciogliete il burro a fiamma dolce. Unite la farina in un colo colpo  e mescolate per creare il roux. Aggiungete il latte un po' alla volta  mentre continuate a mescolare. Continuate a cuocere per una decina di minuti mescolando di continuo, in questo modo la salsa di addenserà . Infine regolate con un pizzico di sale e un po' di noce moscata. Coprite con pellicola a contatto e lasciate intiepidire.Occupatevi ora dell'impasto delle crespelle. Rompete le uova in una ciotola ampia , lavoratele e unite il latte a temperatura ambiente . Mescolate ancora accuratamente per amalgamare .Setacciate la farina per unirla al composto di uova , mescolate tutto  fino a ottenere un impasto liscio, vellutato e privo di grumi . Potete usare sempre una forchetta o passare alla frusta a mano.Coprite la ciotola con della pellicola  e lasciate riposare per almeno  minuti in frigorifero. Riprendete la pastella dal frigorifero e mescolate qualche istante per farla rinvenire . Ungete con poco burro una padella antiaderente (o una crepiera) di  cm di diametro . Scaldatela a fuoco medio.Appena arriva a temperatura versate un mestolo di pastella, sufficiente a ricoprire la superficie , spargetela in modo uniforme scuotendo leggermente la padella (fate attenzione a non farlo andare sui bordi): vi consigliamo di effettuare queste operazioni in fretta, la pastella si rapprende molto velocemente. Passato un minuto, i bordi si ritireranno: prima di girarla assicuratevi che sia ben dorata alla base , giratela e lasciate cuocere anche l’altro lato un minuto .Adagiate la crepe su un piatto . Cuocete tutte le crepe allo stesso modo, con queste dosi ne otterrete . Appena tutte le crepe saranno pronte potete dedicarvi al ripieno. Tritate l’erba cipollina , sfogliate  il rametto di maggiorana per prendere le foglie. Tagliate il salmone a pezzetti di circa  cm . In una ciotola versate la ricotta , aggiungete la besciamella , un pizzico di sale e una macinata di pepe , mescolate con un cucchiaio fino a ottenere un composto omogeneo. Aggiungete l’erba cipollina , la maggiorana e il salmone , mescolate il tutto. Il ripieno è pronto . Adesso potete farcire le vostre crepe al salmone. Mettete le crepe su un tagliere, ricoprite metà lato con il ripieno , ripiegate sopra il lato non farcito  e poi piegate ancora in due, ottenendo un ventaglio , farcite le altre crepe allo stesso modo. Disponete le crespelle al salmone in una pirofila che le possa contenere tutte  e scaldatele  minuti nel forno statico preriscaldato a °. Le crespelle al salmone sono pronte per essere servite, potete decorarle con una fogliolina di maggiorana .
+
+## Descrizione
+Il risultato finale delle crespelle al salmone sarà un piatto delizioso e cremoso, con il salmone affumicato che si sposa perfettamente con la ricotta e le erbe aromatiche.
+
+Queste crespelle sono adatte per occasioni speciali, come cene eleganti o pranzi in famiglia. Possono essere servite come antipasto o piatto principale, a seconda delle porzioni.
+
+Le crespelle al salmone sono adatte per una dieta equilibrata, ma sono ricche di calorie a causa della presenza di burro e formaggio. Possono essere consumate occasionalmente come parte di una dieta variata e bilanciata.
+
+Le persone con intolleranza al lattosio dovrebbero evitare questo piatto poiché contiene latte e ricotta. Le persone con intolleranza al glutine possono optare per una versione senza glutine della ricetta utilizzando farina di riso o un mix senza glutine al posto della farina 00.

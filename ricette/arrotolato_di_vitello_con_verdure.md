@@ -1,0 +1,32 @@
+# Arrotolato di vitello con verdure
+Categoria: Secondi piatti
+
+## Ingredienti
+- Fesa di vitello: in una fetta intera 1 kg
+- Grana Padano DOP: 60 g
+- Pancetta affumicata: 80 g
+- Tuorli: 2
+- Prezzemolo: tritato 2 cucchiai
+- Olio extravergine d'oliva: 3 cucchiai
+- Vino bianco: 250 ml
+- Pane: mollica 100 gr
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Patate: 400 g
+- Carote baby: 200 g
+- Fagiolini: 200 g
+- Cipolle dorate: 1
+- Olio extravergine d'oliva: 2 cucchiai
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare l’arrotolato di vitello con verdure battete la carne con un pestacarne  ed eliminate eventuali parti grasse o cartilagini, poi salate e pepate in superficie. Preparate il ripieno della carne: prendete il pane, eliminate la crosta con un coltello , riducetelo in briciole con un mixer e trasferitelo in una terrina capiente .Aggiungete la pancetta affumicata tritata finemente, due tuorli , il prezzemolo tritato , il Grana Padano DOP , quindi salate e pepate.Amalgamate tutti gli ingredienti con le mani  e disponete il composto ottenuto sulla carne, lasciando tutto intorno un bordo di - cm. Arrotolate la carne su se stessa  e legatela con dello spago da cucina, come mostrano le figure e  (guarda come legare un arrosto cliccando qui). In una pentola da forno capiente mettete a cuocere, a fuoco vivace, l’arrotolato con  cucchiai d’olio d’oliva, girandolo di tanto in tanto per rosolarlo su tutti i lati . Quando l’arrotolato sarà ben dorato, sfumatelo con il vino bianco .Mondate le verdure, poi tagliate a fette la cipolla , a cubetti le carote  e le patate, quindi aggiungetele alla carne .Mondate e spuntate i fagiolini, quindi unite anch'essi alla carne  e coprite con un coperchio per continuare la cottura senza dispersione di vapore. Gli ingredienti all’interno della pentola cuoceranno per circa  minuti a fuoco dolce, senza l’aggiunta di acqua: saranno i liquidi rilasciati dalla carne e delle verdure a procurare il giusto grado di umidità che faciliterà la cottura dell’arrotolato, rendendolo tenero e non legnoso. Trascorso il tempo indicato, punzecchiate l’arrosto con uno stuzzicadenti per verificarne la cottura: se i liquidi che ne fuoriusciranno saranno trasparenti, la carne sarà cotta. Spegnete il fuoco e, senza togliere il coperchio, lasciate riposare la carne per circa  minuti al caldo, poi tagliate l’arrotolato a fette e servitelo assieme alle verdure stufate.
+
+## Descrizione
+Il risultato finale sarà un arrotolato di vitello farcito con pancetta, formaggio Grana Padano, tuorli, prezzemolo e pane, cotto in forno e accompagnato da verdure stufate come patate, carote, fagiolini e cipolla.
+
+Questo piatto è adatto per occasioni speciali e cene eleganti, grazie alla sua presentazione raffinata e saporita.
+
+La ricetta è adatta per chi segue una dieta proteica e può essere consumata anche in una dieta bilanciata, se accompagnata da contorni leggeri.
+
+Le persone con intolleranze al lattosio dovrebbero evitare il formaggio Grana Padano. Analogamente, chi soffre di intolleranze al glutine dovrebbe sostituire la mollica di pane con del pane senza glutine. Chi ha intolleranze al nichel dovrebbe preferire altri condimenti al posto dell'olio extravergine d'oliva.

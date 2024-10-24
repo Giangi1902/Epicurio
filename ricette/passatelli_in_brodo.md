@@ -1,0 +1,24 @@
+# Passatelli in brodo
+Categoria: Primi piatti
+
+## Ingredienti
+- Uova: (3 circa) 170 g
+- Pangrattato: 140 g
+- Parmigiano Reggiano DOP: (da grattugiare) 100 g
+- Scorza di limone: ½
+- Noce moscata: q.b.
+- Sale fino: q.b.
+- Brodo di carne: 1 l
+- Farina 00: (facoltativa) 10 g
+
+## Preparazione
+Per preparare i passatelli iniziate preparando un buon brodo di carne. Mentre cuoce dedicatevi all’impasto dei passatelli: grattugiate la scorza di limone, facendo attenzione a non prelevare anche la parte bianca più amara . Sbattete le uova per pochi istanti in un recipiente insieme a un pizzico di sale . In una ciotola più grande mescolate pangrattato (meglio se grattugiato da pane secco) e Parmigiano Reggiano DOP grattugiato .Versate anche la farina, aromatizzate con la scorza di limone  e la noce moscata grattugiata . Unite le uova .Amalgamate gli ingredienti aiutandovi con una spatola all'inizio , poi proseguite a mano. Dovrete lavorare a lungo per ottenere un panetto consistente ed elastico . Potete lavorarlo subito o far riposare almeno - minuti, fino a due ore avvolto in pellicola .Inserite un pezzo di impasto alla volta in uno schiacciapatate a fori larghi almeno  mm  e schiacciatelo direttamente nel brodo portato a bollore (non deve bollire in maniera veemente) . Utilizzate la lama di un coltello per tagliare i passatelli a una lunghezza di circa - cm .Cuocete i passatelli per pochissimo tempo , non appena verranno a galla, scolateli direttamente nei singoli piatti o in una zuppiera . Servite i passatelli ben caldi , se preferite condendo ancora con un po' di Parmigiano Reggiano DOP grattugiato e del pepe nero macinato al momento!
+
+## Descrizione
+Il risultato finale sarà un piatto di passatelli in brodo, una delicata e gustosa zuppa tipica della cucina emiliana. I passatelli sono una sorta di pasta fresca preparata con uova, pangrattato, formaggio Parmigiano Reggiano grattugiato e aromatizzata con scorza di limone, noce moscata e sale. Vengono passati attraverso uno speciale attrezzo a forma di trafilatura per formare delle strisce sottili che vengono poi cotte nel brodo di carne caldo.
+
+Gli passatelli in brodo sono adatti per occasioni speciali come pranzi o cene invernali, feste di compleanno o occasioni familiari. Sono ottimi come primo piatto caldo e confortante.
+
+Questo piatto è adatto a qualsiasi tipo di dieta, tranne a quella vegana e vegetariana in quanto contiene uova e formaggio. Tuttavia, è possibile preparare una versione vegetariana sostituendo il brodo di carne con brodo vegetale. Le persone con intolleranze al glutine possono gustare questa ricetta utilizzando pangrattato senza glutine e omettendo la farina 00.
+
+Le persone con intolleranze al lattosio possono sostituire il formaggio Parmigiano Reggiano con un formaggio senza lattosio o vegan. Le persone con intolleranze alle uova possono provare a sostituire le uova con una quantità equivalente di uova di lino o di mais.

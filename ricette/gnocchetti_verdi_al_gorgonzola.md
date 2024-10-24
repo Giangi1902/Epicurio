@@ -1,0 +1,24 @@
+# Gnocchetti verdi al gorgonzola
+Categoria: Primi piatti
+
+## Ingredienti
+- Patate rosse: 700 g
+- Spinaci: 400 g
+- Farina 00: 200 g
+- Semola di grano duro rimacinata: q.b.
+- Sale fino: q.b.
+- Gorgonzola: 400 g
+- Pepe nero: q.b.
+- Timo: q.b.
+
+## Preparazione
+Per realizzare gli gnocchetti verdi iniziate a cuocere le patate. Sceglietele tutte della stessa dimensione e sistematele in una pentola con acqua fredda . Cuocete dal bollore per - minuti. Nel frattempo cuocete gli spinaci. Immergeteli in acqua bollente, leggermente salata  e cuoceteli per circa  minuti, sino a che non saranno appassiti. Trasferiteli in un colino, posizionato su una ciotola .Strizzateli per bene e trasferiteli su un tagliere; poi tritateli finemente con un coltello .Trasferiteli in una ciotola e teneteli da parte. A questo punto, non appena le patate saranno cotte, scolatele e lasciatele intiepidire appena. Versate la farina  su una spianatoia e schiacciate sopra le patate ; unite anche gli spinaci .Ora impastate con le mani velocemente. Dovrete ottenere un impasto omogeneo . Prelevatene una porzione utilizzando un coltello o un tarocco e con le mani formate un cilindro su una spianatoia ; dovrà essere spesso circa  cm. Utilizzando la semola infarinate bene il cilindro di impasto, poi utilizzando sempre il tarocco (o un coltello) realizzate dei tocchetti larghi , cm . Eventualmente aggiungete ancora un po' di semola per non farli attaccare.Ora utilizzando il riga gnocchi, o i rebbi di una forchetta, rigate gli gnocchi . Aggiungete sempre un po' di semola per non farli attaccare e man mano disponeteli su un vassoio rivestito con uno strofinaccio, leggermente infarinato con la semola . Mettete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura degli gnocchi. Nel frattempo tagliate a cubetti il gorgonzola .In una padella capiente versate il gorgonzola , aggiungete un mestolo di acqua ormai calda  e mescolate per scioglierlo. Aggiungete poi ancora un mestolo di acqua calda .Mescolate sino a che non sarà sciolto completamente e unite le foglioline di timo . Ora potrete cuocere gli gnocchi tuffandone pochi alla volta nell'acqua bollente . Non appena saliranno a galla potrete scolarli utilizzando una schiumarola .Trasferiteli nel condimento , aggiungete abbondante pepe nero , mescolate e servite i vostri gnocchetti verdi al gorgonzola !
+
+## Descrizione
+Il risultato finale sarà un piatto di gnocchetti verdi al gorgonzola, dal colore verde intenso grazie agli spinaci utilizzati nella preparazione. Gli gnocchetti saranno morbidi e al dente, conditi con una salsa cremosa al gorgonzola arricchita con pepe nero macinato e timo fresco.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o pranzi in famiglia. Può essere servito come primo piatto in un menù completo oppure come piatto unico, accompagnato da una fresca insalata.
+
+Questi gnocchetti sono adatti a persone che seguono una dieta vegetariana e possono essere consumati da chi segue una dieta senza glutine, utilizzando farina certificata senza glutine e verificando la presenza di eventuali tracce di glutine negli ingredienti utilizzati.
+
+Le persone con intolleranze al lattosio possono substituire il gorgonzola con un formaggio senza lattosio o utilizzare una versione meno stagionata. Le persone con intolleranza al glutine devono assicurarsi di utilizzare ingredienti adatti e preparare gli gnocchetti in una cucina separata da quella in cui vengono preparati alimenti con glutine.

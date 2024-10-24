@@ -1,0 +1,27 @@
+# Crostata foresta nera
+Categoria: None
+
+## Ingredienti
+- Cioccolato fondente: 120 g
+- Farina 00: 100 g
+- Burro: (morbido) 120 g
+- Zucchero: 95 g
+- Lievito in polvere per dolci: 3 g
+- Uova: (circa 3 medie) 155 g
+- Panna fresca liquida: 300 g
+- Zucchero a velo: 80 g
+- Cioccolato fondente: in scaglie 150 g
+- Amarene sciroppate: (circa 10) q.b.
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare la crostata morbida al cioccolato riponete il burro fuori dal frigorifero e assicuratevi che questo sia morbido prima di iniziare la preparazione. A questo punto tritate il cioccolato fondente, ponetelo in una ciotola  e fondetelo al microonde; basterà azionarlo pochi secondi per volta e mescolare man mano il cioccolato in modo che non bruci. In alternativa potete fonderlo a bagnomaria. Aggiungete il burro a cubetti  e mescolate energicamente in modo da amalgamare completamente il burro insieme al cioccolato .Tenete da parte il cioccolato e passate a montare le uova aggiungendo lo zucchero poco per volta . Ci vorranno circa  minuti per ottenere un composto chiaro e gonfio. A questo punto unite anche il composto a base di cioccolato e burro . Continuate a lavorare il tutto a media velocità . Setacciate poi direttamente nella ciotola la farina insieme al lievito  e incorporate anche queste con le fruste elettriche .Non appena avrete ottenuto un composto uniforme trasferitelo in uno stampo furbo da  cm in superficie e  cm alla base, precedentemente imburrato e infarinato . Livellate la superficie  e cuocete in forno statico preriscaldato a ° per  minuti. Una volta che la torta sarà cotta (fate sempre la prova dello stecchino) sfornatela . Lasciatela intiepidire quindi capovolgetela su un piatto da portata. Sollevate delicatamente lo stampo e lasciate raffreddare . A questo punto montate la panna insieme allo zucchero a velo . Poi trasferitela in sac-à-poche. Spremetene un po' sulla base  e livellatela sulla superficie utilizzando una spatola  . Poi, sempre con la panna in sac-à-poche, iniziate a decorare la circonferenza della torta .Noi abbiamo realizzato delle piccole onde , ma se preferite potete realizzare anche dei semplici ciuffi . Ricavate dal cioccolato fondente delle scaglie  e disponetele al centro della torta . Decorate con le amarene  e spolverizzate con lo zucchero a velo , prima di servire la vostra torta .
+
+## Descrizione
+Il risultato finale della ricetta "Crostata foresta nera" sarà una deliziosa crostata al cioccolato con una crema di panna e cioccolato fondente, decorata con amarene sciroppate e scaglie di cioccolato. 
+
+Occasioni adatte: La crostata foresta nera è perfetta da servire come dessert in occasioni speciali come compleanni, feste o cene eleganti. Può essere anche un'ottima scelta per una merenda golosa.
+
+Diete o regime alimentare adatti: La crostata foresta nera non è indicata per diete ipocaloriche o per chi segue regimi alimentari particolari come la dieta vegana o senza glutine, in quanto contiene ingredienti come burro, uova e farina.
+
+Intolleranze alimentari: Le persone con intolleranza al lattosio dovrebbero prestare attenzione, poiché la ricetta contiene burro e panna fresca liquida. Inoltre, le persone con intolleranza al glutine non potranno consumare questa crostata, in quanto contiene farina di grano.

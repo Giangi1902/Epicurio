@@ -1,0 +1,25 @@
+# Risotto giallo ai finferli
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Carnaroli: 320 g
+- Funghi finferli (gallinacci): 400 g
+- Cipolle bianche: 1
+- Burro: 80 g
+- Grana Padano DOP: da grattugiare 50 g
+- Brodo vegetale: 1 l
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Zafferano: 1 bustina
+
+## Preparazione
+Per preparare il risotto giallo ai finferli, lavate i funghi sotto acqua corrente , asciugateli con un canovaccio e dividete a metà quelli più grandi . Fate stufare i finferli in una padella con  gr di burro  per qualche minuto e salate leggermente.In una pentola capiente fate sciogliere i restanti  gr di burro e fate dorare la cipolla tritata finemente . Aggiungete il riso e fatelo tostare per qualche minuto girando per non farlo attaccare . Durante la cottura sfumate il riso con il brodo, aggiungendo un mestolo di tanto in tanto .Dopo  minuti unite lo zafferano  e proseguite la cottura aggiungendo ancora del brodo e mescolate . A cottura quasi ultimata, unite i funghi cotti  e aggiustate di sale, se necessario. Completate con una spolverata di pepe e a fuoco spento, unite il grana e mantecate. Servite il risotto giallo ai finferli caldo.
+
+## Descrizione
+Il risultato finale sarà un risotto cremoso, dal colore giallo intenso grazie allo zafferano e arricchito dal sapore unico dei finferli.
+
+Occasioni: Il risotto giallo ai finferli è perfetto per una cena elegante, una cena tra amici o una cena in famiglia.
+
+Dieta/Regime alimentare: Questa ricetta è adatta a una dieta bilanciata e variata, in quanto contiene riso come carboidrato principale, funghi come fonte di proteine vegetali e brodo vegetale ricco di vitamine e minerali. È adatto anche a vegetariani.
+
+Intolleranze: Le persone con intolleranze al lattosio possono sostituire il burro con olio extravergine di oliva e eliminare il formaggio grattugiato. Le persone con intolleranze ai funghi dovranno ovviamente evitare di consumare questa ricetta.

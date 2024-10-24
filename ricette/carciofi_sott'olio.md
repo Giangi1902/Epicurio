@@ -1,0 +1,19 @@
+# Carciofi sott'olio
+Categoria: Contorni
+
+## Ingredienti
+- Carciofi: (8 carciofi) 2,6 kg
+- Olio extravergine d'oliva: 700 g
+- Limoni: 1
+
+## Preparazione
+Per realizzare i carciofi sott’olio, procedete con la sanificazione dei barattoli. Noi abbiamo usato dei barattoli a chiusura ermetica quindi potete bollirli togliendo le guarnizioni in gomma. Per una corretta sanificazione, seguite le linee guida del Ministero della Salute, come riportato in fondo alla scheda. dalla pulizia dei carciofi: riempite una ciotola con acqua e spremete all’interno il succo di limone, servirà per conservare i carciofi puliti senza farli annerire. Iniziate eliminando le foglie più esterne e coriacee per arrivare dove le foglie iniziano ad essere bianche alla base del fiore ; tagliate la parte più dira del gambo conservandone alcuni centimetri iniziali sotto il fiore , poi pelate il gambo per eliminare la parte più coriacea A questo punto tagliate via le punte per ottenere il cuore del carciofo  e dividete a metà i carciofi (-),con uno spelucchino eliminate la barbetta centrale , ovvero la peluria interna che si trova al centro del cuore. Man mano che pulite i carciofi (ne otterrete  g puliti) immergeteli nella ciotola con acqua acidulata . Una volta terminata la pulizia, scolate i carciofi  con un colino,riscaldate una griglia sul fuoco e cuocete i carciofi per - minuti per lato . A cottura ultimata trasferite i carciofi in un barattolo da conserve con chiusura ermetica , riempite con l’olio di oliva fino a ricoprire completamente i carciofi , per una conservazione ottimale si consiglia di riempire il barattolo lasciando  centimetri dal bordo e per assicurarsi che i carciofi siano ben immersi nel liquido,inserire un distanziatore di plastica per pressare bene i carciofi all'interno del barattolo ; a questo punto chiudete il barattolo inserendo la guarnizione . Per terminare procedete con la pastorizzazione, ovvero la bollitura dei vasetti, rispettando le linee guida del Ministero della Salute . Una volta pronti, lasciate raffreddare completamente, poi riponete i vostri carciofi sott’olio in dispensa. Lasciate riposare la conserva per mezza giornata. Se vi accorgete che in questo tempo ha assorbito molto olio, potete procedere con il rabbocco avendo cura di pastorizzarle nuovamente. Quando andrete a consumare i carciofi sott'olio, verificate che il sottovuoto sia avvenuto: tirate la linguetta e se farà resistenza e sentirete un rumore di "stappo" il sottovuoto sarà avvenuto correttamente. In caso contrario il sottovuoto non sarà avvenuto correttamente e non potrete consumare la conserva.
+
+## Descrizione
+Il risultato finale della ricetta "Carciofi sott'olio" sarà un contorno gustoso e versatile, perfetto da servire come antipasto, condimento per piatti di pasta o come guarnizione per carni e pesce. I carciofi sott'olio avranno un sapore intenso e aromatico, grazie alla combinazione tra i carciofi freschi, l'olio extravergine d'oliva e il limone.
+
+Questo piatto è adatto per varie occasioni, come aperitivi, pranzi o cene speciali. Può essere servito sia a temperatura ambiente che freddo, quindi è ideale anche per buffet e picnic.
+
+I carciofi sott'olio sono adatti a diversi regimi alimentari, come la dieta mediterranea, vegetariana e vegana. Sono ricchi di fibre, vitamine e antiossidanti, rendendoli una scelta salutare per tutti.
+
+Le persone con intolleranze al glutine possono mangiare i carciofi sott'olio, ma è importante assicurarsi che tutti gli ingredienti utilizzati siano privi di glutine. Le persone con intolleranza al lattosio possono consumare tranquillamente questo piatto, in quanto è naturalmente privo di latticini. Tuttavia, coloro che soffrono di allergie agli agrumi devono fare attenzione al limone utilizzato nella ricetta.

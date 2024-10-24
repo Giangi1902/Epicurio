@@ -1,0 +1,23 @@
+# Biscotti all'olio d'oliva
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 280 g
+- Olio extravergine d'oliva: leggero e fruttato 50 ml
+- Zucchero: 100 g
+- Uova: medie 2
+- Lievito in polvere per dolci: 10 g
+- Sale fino: 1 pizzico
+- Scorza di limone: 1
+- Baccello di vaniglia: 1
+- Tuorli: 1
+
+## Preparazione
+Mettete le uova intere più il tuorlo dentro ad una ciotola  e sbattete con lo zucchero per un minuto quindi, continuando a sbattere, aggiungete l’olio extravergine e gli aromi ( i semi del baccello di vaniglia e la scorza di limone) . Setacciate in una ciotola la farina e il lievito , aggiungete il sale,unite al composto di uova e zucchero  e cominciate ad impastare : quando avrete amalgamato tutti gli ingredienti ed ottenuto un impasto liscio ed omogeneo, avvolgetelo nella pellicola  e ponetelo a riposare in frigo per almeno mezz’ora.Trascorso il tempo indicato, stendete l’impasto su una spianatoia infarinata fino ad arrivare allo spessore di mezzo centimetro , quindi ricavate delle sagome tonde del diametro di  cm  che adagerete su di una teglia foderata di carta forno  e farete cuocere in forno statico preriscaldato a ° per circa  minuti. Una volta cotti, estraete i biscotti dal forno, lasciateli raffreddare completamente e poi conservateli in una scatola di latta con il coperchio o in un contenitore a chiusura ermetica.
+
+## Descrizione
+Il risultato finale dei biscotti all'olio d'oliva sarà croccante all'esterno e morbido all'interno, con un profumo intenso di olio d'oliva e una leggera nota di limone e vaniglia. Saranno perfetti da gustare con una tazza di tè o caffè, sia a colazione che come snack durante la giornata.
+
+Questi biscotti sono adatti per chi segue una dieta vegetariana e possono essere facilmente adattati anche per chi segue una dieta senza lattosio sostituendo il burro con olio d'oliva. Tuttavia, non sono adatti per chi segue una dieta vegana in quanto contengono uova. 
+
+Le persone con intolleranze al lattosio possono consumare questi biscotti se utilizzano olio d'oliva al posto del burro e verificano che gli altri ingredienti non contengano lattosio. Le persone con intolleranze al glutine possono anche consumare i biscotti se utilizzano una farina senza glutine.

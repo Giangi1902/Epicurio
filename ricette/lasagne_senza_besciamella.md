@@ -1,0 +1,28 @@
+# Lasagne senza besciamella
+Categoria: Primi piatti
+
+## Ingredienti
+- Lasagne all'uovo: sfoglie fresche 12
+- Mozzarella: 250 g
+- Parmigiano Reggiano DOP: (da grattugiare) 100 g
+- Passata di pomodoro: 700 g
+- Macinato di manzo: 300 g
+- Macinato di maiale: 200 g
+- Cipolle dorate: 50 g
+- Carote: 50 g
+- Sedano: 50 g
+- Vino rosso: 60 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare le lasagne senza besciamella per prima cosa preparate il ragù: mondate e tritate finemente il sedano, la carota e la cipolla . In una casseruola scaldate un giro d’olio, poi aggiungete il macinato di manzo e di maiale  e rosolate a fiamma alta fino a quando il fondo si sarà asciugato .A questo punto abbassate il fuoco e unite il trito di verdure . Lasciate appassire il soffritto per qualche minuto, poi alzate nuovamente la fiamma e sfumate con il vino rosso . Quando l’alcool sarà completamente evaporato versate anche la passata di pomodoro .Aggiungete anche un pochino di acqua (quanto basta per sciacquare la brocca) , salate e cuocete a fuoco dolce per  minuti ; a fine cottura dovrete ottenere un ragù abbastanza liquido. Nel frattempo tagliate la mozzarella a cubetti .Trascorso il tempo di cottura del ragù potete comporre le vostre lasagne: prendete una teglia da x cm e distribuite uno strato di ragù sul fondo , poi adagiate  sfoglie di lasagna  e ricoprite con il ragù .Distribuite un po’ di cubetti di mozzarella  e di Parmigiano Reggiano DOP grattugiato , poi formate un altro strato di lasagne  e procedete alternando gli ingredienti in questo ordine fino ad ottenere  strati in tutto.Terminate con un abbondante strato di ragù , mozzarella e formaggio grattugiato . Cuocete in forno statico preriscaldato a ° per circa  minuti, poi azionate il grill e proseguite la cottura per altri  minuti. Sfornate e lasciate riposare qualche minuto prima di servire le vostre lasagne senza besciamella !
+
+## Descrizione
+Il risultato finale delle Lasagne senza besciamella sarà un piatto ricco e saporito, con strati di pasta all’uovo, ragù di carne ben condito e formaggi filanti. La superficie sarà dorata e croccante grazie alla cottura in forno.
+
+Le Lasagne senza besciamella sono adatte per occasioni speciali come pranzi in famiglia, cene con amici o feste. Sono perfette per chi ama i classici piatti della tradizione italiana e vuole preparare un primo piatto gustoso e appagante.
+
+Le Lasagne senza besciamella possono essere consumate da chi segue una dieta equilibrata e bilanciata, ma dovrebbero essere consumate con moderazione a causa della presenza di carboidrati e grassi. Sono adatte anche per chi segue una dieta onnivora.
+
+Le Lasagne senza besciamella possono essere consumate da persone con intolleranze al lattosio, se utilizzano formaggi privi di lattosio o sostituti. Tuttavia, chi soffre di intolleranza al glutine dovrebbe scegliere lasagne senza glutine oppure preparare il piatto con sfoglie apposite.

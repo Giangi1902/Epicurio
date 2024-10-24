@@ -1,0 +1,24 @@
+# Plumcake alle ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero: 180 g
+- Farina 00: 200 g
+- Uova: 3
+- Fecola di patate: 50 g
+- Ciliegie: denocciolate 300 g
+- Lievito in polvere per dolci: 16 g
+- Sale fino: 1 pizzico
+- Baccello di vaniglia: 1
+- Burro: 180 g
+- Farina 00: per infarinare le ciliegie q.b.
+
+## Preparazione
+Per preparare il plumcake alle ciliegie, iniziate togliendo il picciolo alle ciliegie, lavatele, asciugatele e snocciolatele  (se non avete lo snocciolatore potete praticare un’incisione con un coltellino ed estrarre il nocciolo). Nel frattempo, accendete il forno a ° e ponete in una ciotola lo zucchero insieme al burro , poi prendete una bacca di vaniglia, incidetela, estraete i semi e aggiungeteli al composto . Cominciate a mescolare con le fruste , quindi aggiungete le uova ,continuate a mescolare fino ad ottenere un composto omogeneo e aggiungete anche un pizzico di sale. Quando tutti gli ingredienti saranno incorporati, mettete in una ciotola la farina, la fecola e il lievito , e poi setacciate il tutto dentro il composto di uova e burro , amalgamando bene .Adagiate poi le ciliegie in una teglia  e cospargetele con la farina ; quando saranno tutte infarinate, scuotetele in un colino per togliere la farina in eccesso .Ungete quindi uno stampo da , l da plumcake e foderatelo con la carta da forno: ponete sul fondo dello stampo metà composto , poi cospargetevi sopra la metà delle ciliegie snocciolate . Copritele con il rimanente impasto ,quindi versatevi le restanti ciliegie . Infornate in forno preriscaldato a ° per circa - minuti. Fate la prova con lo stecchino per vedere a che punto è la cottura e, una volta pronto, lasciatelo raffreddare, poi toglietelo dallo stampo  e il vostro plumcake alle ciliegie è pronto per essere gustato !
+
+## Descrizione
+Il risultato finale sarà un morbido e profumato plumcake arricchito dalla dolcezza delle ciliegie. La superficie sarà dorata e leggermente croccante, mentre l'interno sarà umido e pieno di pezzetti di ciliegie.
+
+Questo dolce è adatto per la colazione, la merenda o come dessert, sia servito da solo che accompagnato da una pallina di gelato alla vaniglia.
+
+Questa ricetta è adatta a tutti, tranne per chi segue un regime alimentare vegano o senza uova. Tuttavia, può essere adattata per le persone con intolleranze al lattosio sostituendo il burro con olio di semi di girasole e il latte con una bevanda vegetale. Per le persone celiache, basterà utilizzare un mix di farine senza glutine al posto della farina 00. Le persone intolleranti al lattosio o sensibili al glutine possono consumare questa ricetta senza problemi, a patto che vengano apportate le giuste modifiche.

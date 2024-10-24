@@ -1,0 +1,23 @@
+# Fasolari gratinati
+Categoria: Antipasti
+
+## Ingredienti
+- Fasolari: 12
+- Pane casereccio: 100 g
+- Prezzemolo: da tritare 1 ciuffo
+- Pepe nero: q.b.
+- Grana Padano DOP: (da grattugiare) 50 g
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: 2 cucchiai
+
+## Preparazione
+Per preparare i fasolari gratinati aprite i fasolari da crudi , raccogliete la loro acqua durante l'apertura , staccateli dai gusci, che terrete da parte, e battete i molluschi con un batticarne .Su di un tagliere con un coltello, tritate grossolanamente i fasolari e teneteli in una ciotola (-). Filtrate l'acqua raccolta  e mettete tutto da parte.Dedicatevi ora al ripieno: togliete la crosta al pane e tagliate la mollica a pezzi . Ponete la mollica in un mixer e tritatela quindi amalgamatela con il prezzemolo tritato il Grana Padano DOP , l'aglio schiacciato  e il pepe: mescolate bene con un cucchiaio, amalgamando il tutto con due cucchiai d'olio. Infine aggiungete un po’ alla volta il liquido dei fasolari ,fino ad ottenere un composto cremoso . Con la carta stagnola create delle striscette che piegherete a cerchio e posizionerete sotto ogni guscio dei fasolari , a fare da supporto per stare dritti. Posizionate i gusci su di una leccarda ricoperta da un foglio di carta forno .Ora aggiungete un cucchiaio di fasolari tritati in ogni guscio  e ricoprite ognuno con un cucchiaio di composto di pane . Infornate a  ° per  minuti poi, trascorso questo tempo, alzate la temperatura al massimo e accendete il grill per  minuti fino a quando si formerà la crosticina dorata in superficie . I fasolari gratinati saranno pronti per essere portati in tavola!
+
+## Descrizione
+Il risultato finale delle Fasolari gratinati sarà un antipasto gustoso e croccante, con un sapore intenso dato dall'aglio, dal prezzemolo e dal formaggio grana padano gratugiato.
+
+Le Fasolari gratinati sono adatte per occasioni speciali come aperitivi o cene eleganti, da servire come antipasto. Si possono servire anche come secondo piatto leggero accompagnate da contorni di verdure.
+
+Questa ricetta è adatta a una dieta equilibrata e salutare, in quanto le fasolari sono ricche di proteine ma povere di grassi. Gli ingredienti principali sono ingredienti naturali e freschi, senza aggiunta di conservanti o coloranti artificiali.
+
+Le fasolari gratinati possono essere consumate da persone con intolleranze al glutine, se si utilizza del pane senza glutine al posto del pane casereccio. Tuttavia, è importante considerare che le fasolari possono causare allergie in persone sensibili ai molluschi e ai crostacei. Si consiglia di consultare un medico o un nutrizionista in caso di intolleranze alimentari.

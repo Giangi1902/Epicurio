@@ -1,0 +1,21 @@
+# Girella di sfoglia alle ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Pasta Sfoglia: rettangolare 230 g
+- Ciliegie: (260 g denocciolate) 280 g
+- Cioccolato fondente: 80 g
+- Burro: 30 g
+- Zucchero di canna: 60 g
+
+## Preparazione
+Per realizzare la girella di sfoglia alle ciliegie per prima cosa lavate e denocciollate le ciliegie con l’apposito strumento (-) raccogliendole all’interno di una ciotola. Tritate grossolanamente il cioccolato e poi farcite le ciliegie con il cioccolato, riempiendo il foro realizzato per snocciolarle . Tenete da parte le ciliegie e srotolate la pasta sfoglia su un tagliare, dividetela a metà nel senso della lunghezza , poi spennellate con il burro fuso la parte inferiore delle due strisce ottenute .Spolverizzate sul lato imburrato lo zucchero di canna per tutta la lunghezza (-) e poi adagiate sopra le ciliegie in fila .Una volta terminato arrotolate la sfoglia dal lato lungo  così da ottenere un filoncino  e fate lo stesso con l’altra sfoglia .Ora prendete una tortiera di  cm di diametro e rivestite solo il fondo con della carta da forno ritagliata a misura . Ora arrotolare un filoncino  per ottenere una sorta di girella .Adagiatelo al centro dello stampo  e poi avvolgete intorno anche l’altro filoncino  facendo aderire i punti di giuntura e richiudendo l’estremità. Ora spennellate la superficie con altro burro fuso .Spolverizzate sopra lo zucchero di canna (-) e cuocete il dolce in forno ventilato preriscaldato a ° per  minuti nel ripiano centrale, fino a doratura della sfoglia. A cottura ultimata sfornate la girella di sfoglia alle ciliegie  e lasciatela intiepidire prima di gustarla!
+
+## Descrizione
+Il risultato finale della Girella di sfoglia alle ciliegie sarà un dolce goloso e colorato, con un ripieno di ciliegie dolci e succose avvolti in una croccante sfoglia, arricchita da pezzetti di cioccolato fondente e zucchero di canna.
+
+Questa ricetta è adatta per occasioni speciali come feste di compleanno, cene con amici o per deliziare gli ospiti durante una cena. 
+
+La Girella di sfoglia alle ciliegie è adatta per persone che seguono una dieta bilanciata e non sono intolleranti a nessuno degli ingredienti utilizzati. Tuttavia, è importante moderarne il consumo per coloro che seguono regimi alimentari ipocalorici o ipoglicemici.
+
+Le persone con intolleranze alimentari al lattosio o al glutine dovranno fare attenzione e valutare eventuali sostituzioni degli ingredienti in base alle loro esigenze.

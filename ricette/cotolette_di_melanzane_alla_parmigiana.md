@@ -1,0 +1,27 @@
+# Cotolette di melanzane alla parmigiana
+Categoria: Antipasti
+
+## Ingredienti
+- Passata di pomodoro: 300 g
+- Melanzane tonde: 1
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Aglio: 1 spicchio
+- Parmigiano Reggiano DOP: da grattugiare 30 g
+- Basilico: 8 foglie
+- Fiordilatte: 180 g
+- Pangrattato: q.b.
+- Uova: 5
+- Olio di semi: q.b.
+
+## Preparazione
+Per realizzare le cotolette di melanzane alla parmigiana cominciate preparando il sugo: in un pentolino fate soffriggere lo spicchio d’aglio in un filo d’olio di oliva , versate poi la passata di pomodoro , coprite con il coperchio  e cuocete  minuti mescolando di tanto in tanto.Mentre il sugo cuoce, tagliate il fiordilatte a fiocchi  e metteteli a scolare su un colino . Tagliate a fette spesse - mm la melanzana, facendo in modo da ottenere  fette di diametro simile a  a  .Intanto il sugo sarà pronto, eliminate l’aglio e aggiustate di sale . In una ciotola bassa e larga sbattete le uova con un pizzico di sale ; in un’altra versate il pangrattato. Ora tutto è pronto per comporre le cotolette. Su una fetta di melanzana spalmate un cucchiaio raso di sugo, facendo in modo di lasciare un cm abbondante dal bordo .Aggiungete qualche fiocco di fiordilatte, una fogliolina di basilico  e un cucchiaino di parmigiano . Coprite con una seconda fetta di melanzana ,e pigiate leggermente con le dita per farle aderire . Passate la cotoletta nell’uovo , poi nel pangrattato ;poi di nuovo nell’uovo  e ancora nel pangrattato , prestando particolare attenzione a sigillare i bordi per evitare fuoriuscite di farcitura in cottura. Scaldate l'olio di semi in una padella e quando avrà raggiunto la temperatura di ° potrete procedere con la frittura: immergete le cotolette  e cuocetele  minuti per lato.Quando saranno ben dorate, scolatele , trasferitele su carta assorbente  e salatele. Servite subito le cotolette alla parmigiana .
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle gustose cotolette di melanzane alla parmigiana croccanti all'esterno e morbide all'interno, ricoperte da una salsa di pomodoro, formaggio e basilico.
+
+Questa ricetta è adatta come antipasto per pranzi e cene speciali, ma può anche essere servita come piatto principale leggero e sfizioso.
+
+Le cotolette di melanzane alla parmigiana sono adatte per una dieta vegetariana, ma possono essere consumate anche da chi segue una dieta senza glutine, modificando l'impasto con un pangrattato specifico. È consigliabile controllare la presenza di formaggio Parmigiano Reggiano per chi segue una dieta vegana.
+
+Le persone con intolleranze al lattosio possono sostituire il formaggio Fiordilatte e Parmigiano Reggiano con alternative senza lattosio. Chi soffre di intolleranza al glutine può optare per l'utilizzo di pangrattato certificato senza glutine. Chi ha intolleranze specifiche ai pomodori o all'aglio dovrebbe evitare questa ricetta o trovare alternative agli ingredienti principali.

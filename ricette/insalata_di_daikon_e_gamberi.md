@@ -1,0 +1,27 @@
+# Insalata di daikon e gamberi
+Categoria: Antipasti
+
+## Ingredienti
+- Gamberi: 12
+- Daikon: 80 g
+- Carote: 100 g
+- Semi di papavero: q.b.
+- Fiocchi di sale: q.b.
+- Limoni: 1
+- Basilico: q.b.
+- Olio extravergine d'oliva: q.b.
+- Tuorli: 1
+- Aceto di riso: 10 g
+- Wasabi: pasta 2 g
+- Olio di semi di arachide: 80 g
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare l’insalata di daikon e gamberi per prima cosa assicuratevi che i vostri gamberi siano stati abbattuti, se non ne siete certi vi consigliamo comunque di congelarli per almeno per  ore a - gradi, poi di scongelarli prima di impiegarli nella ricetta. Sgusciate i gamberi eliminando il carapace e le zampette ,poi staccate anche la coda e in ultimo con un coltellino estraete il filamento nero che si trova sul dorso ; per ulteriori approfondimenti consultate la nostra scheda come pulire i gamberi. Ponete i gamberi puliti in una ciotola, condite con l’olio di oliva ,i fiocchi di sale , la scorza di limone  e le foglioline di basilico fresco, spezzettandole con le mani .Spremete il succo del limone , versatelo sui gamberi  e mescolate il tutto. Lasciate marinare il pesce a temperatura ambiente, giusto il tempo di realizzare le altre preparazioni. Occupatevi intanto della maionese al wasabi: nel bicchiere alto del mixer versate il tuorlo d’uovo Salate , unite l’aceto di riso , la pasta di wasabi  e aggiungete metà dose di olio di semi.Iniziate ad emulsionare tutto con il frullatore ad immersione aggiungendo anche la quantità d'olio rimasta . Frullate il tempo necessario per ottenere una salsa cremosa e spumosa . Ora preparate le verdure: lavate, pelate le carote e con lo stesso pelaverdure ritagliate delle fettine sottili di carote Sovrapponetele una sopra l'altra, quindi ripiegatele in due e poi tagliatele a julienne . Per preservare il colore vivo delle carote ponetele in un colino immerso in una ciotola con acqua e ghiaccio . Ripetete lo stesso procedimento per il daikon (prediligendo la parte alta che è più dolce): pelatelo e poi ritagliatelo a fettine molto sottili con il pelaverdure quindi sovrapponete le fettine una sopra l'altra per poi ritagliare a julienne . Unite il daikon nella ciotola con acqua e ghiaccio . Le verdure sono pronte, potete scolarle su un canovaccio per poi tamponarle delicatamente . Trasferite le verdure in una ciotola, conditele con sale e olio di oliva . Tutto è pronto per servire: prendete un piatto di portata e ponete al centro un coppapasta, inserite all’interno uno strato di verdure aggiungete poi i gamberi  ed estraete il coppapasta con delicatezza. Guarnite il piatto con la maionese al wasabi  e i semi di papavero . La vostra insalata di daikon e gamberi è pronta per essere gustata!
+
+## Descrizione
+Il risultato finale di questa insalata di daikon e gamberi sarà un piatto fresco, leggero e ricco di sapore. I gamberi si uniranno perfettamente al gusto delicato del daikon e delle carote, arricchiti dall'aroma del basilico e dei semi di papavero. Il condimento a base di limone, uovo, aceto di riso e wasabi darà una nota agrodolce e piccante al piatto, bilanciata dall'olio extravergine d'oliva e dall'olio di semi di arachide.
+
+Questa insalata è perfetta come antipasto per una cena leggera e raffinata, oppure come piatto unico per un pranzo estivo. Grazie alla presenza di gamberi e vegetali, è indicata per una dieta ricca di proteine e vitamine, ideale per chi segue un'alimentazione sana ed equilibrata. 
+
+Le persone con intolleranze dovrebbero fare attenzione alla presenza di gamberi e uovo nella ricetta. Questo piatto non è adatto per chi soffre di allergia ai crostacei, al pesce o all'uovo. Tuttavia, è possibile adattare la ricetta sostituendo i gamberi con cubetti di tofu o con verdure grigliate per renderla adatta anche a chi ha intolleranze specifiche.

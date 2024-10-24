@@ -1,0 +1,27 @@
+# Bigoli con fasolari in letto di crema di carciofi
+Categoria: Primi piatti
+
+## Ingredienti
+- Bigoli: 500 g
+- Fasolari: 800 g
+- Cipolle bianche: 1
+- Pomodori: del Cavallino 500 g
+- Vino bianco: ½ bicchiere
+- Aglio: 1 spicchio
+- Limoni: 1
+- Brodo vegetale: q.b.
+- Prezzemolo: tritato 2 cucchiai
+- Sale fino: q.b.
+- Carciofi: violetti di San Erasmo 5
+
+## Preparazione
+Per preparare i bigoli con fasolari in letto di crema di carciofi iniziate preparando la crema di carciofi: pulite i carciofi strofinandoli con del limone e teneteli a bagno in acqua e limone. In un altro tegame mettete uno spicchio d’aglio e un cucchiaio d’olio a soffriggere. Strizzate i carciofi e al centro mettete del prezzemolo tritato e una presa di sale (se usate carciofi di altro tipo tagliateli in quarti privandoli della barba centrale e delle foglie esterne più dure . Metteteli nel tegame con un mestolo di brodo vegetale , copriteli e portateli a cottura. Poi frullateli fino ad ottenere una crema sufficientemente densa .Fate aprire i fasolari  in un tegame coperto e filtrando la loro acqua . Toglieteli quindi dalle valve. Lavate i pomodori e tagliateli a pezzetti .In una padella inbiondite la cipolla bianca di Chioggia in un cucchiaio di olio extravergine di oliva sfumandola con un po’ di vino bianco . Aggiungete poi i fasolari tagliati a pezzetti  e i pomodori di Cavallino .Cuocete finché i fasolari diventeranno teneri aggiungendo la loro acqua a bisogno  e sale. Portate ad ebollizione l’acqua salata e cuocete i bigoli tenendoli al dente. Scolateli e versati nel sughetto con i fasolari . Aggiungete quindi una manciata di prezzemolo tritato . Infine, impiattate mettendo sul fondo dei piatti la crema di carciofi e un ciuffo di bigoli.
+
+## Descrizione
+Il risultato finale della ricetta "Bigoli con fasolari in letto di crema di carciofi" sarà un piatto di pasta ricco e saporito, arricchito dalla presenza dei fasolari e della crema di carciofi. La pasta sarà condita con una salsa cremosa e gustosa, che si amalgamerà perfettamente con il sapore delicato e marino dei fasolari.
+
+Questo piatto è adatto per occasioni speciali o cene eleganti, grazie alla sua presentazione ricercata e al suo sapore raffinato.
+
+La ricetta è adatta a persone che seguono una dieta classica, poiché contiene carboidrati (bigoli), proteine (fasolari) e verdure (carciofi). È consigliata anche per chi segue una dieta mediterranea, grazie agli ingredienti freschi e di stagione utilizzati nella preparazione.
+
+Le persone con intolleranze al glutine devono prestare attenzione alla scelta della pasta, optando per bigoli senza glutine. Inoltre, chi soffre di intolleranza al lattosio può ridurre la quantità di crema di carciofi o scegliere alternative senza lattosio. Per coloro che sono allergici ai crostacei, è consigliabile sostituire i fasolari con un altro tipo di pesce o frutti di mare.

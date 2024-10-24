@@ -1,0 +1,26 @@
+# Frittelle di pane
+Categoria: None
+
+## Ingredienti
+- Pane raffermo: 200 g
+- Latte intero: 350 g
+- Parmigiano Reggiano DOP: (da grattugiare) 60 g
+- Uova: medio 1
+- Aglio: 1 spicchio
+- Lievito istantaneo per preparazioni salate: 7,5 g
+- Prezzemolo: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio di semi di arachide: q.b.
+
+## Preparazione
+Per realizzare le frittelle di pane, per prima cosa mettete a scaldare il latte in un pentolino , poi tagliate il pane secco a cubetti . Trasferite il pane in una ciotola e versate il latte caldo .Mescolate con un cucchiaio  e lasciate riposare per qualche minuto, coperto con pellicola. Nel frattempo tritate finemente il prezzemolo  e lo spicchio di aglio privato dell’anima .Spezzettate il pane ammollato con le mani , poi aggiungete sale, pepe  e l’aglio tritato .Unite anche il prezzemolo , il Parmigiano Reggiano DOP grattugiato  e l’uovo .Infine aggiungete il lievito per torte salate  e amalgamate il tutto . Intanto mettete a scaldare l’olio di semi in un pentolino, poi prelevate una cucchiaiata di impasto .Formate delle palline con le mani oppure tuffate l’impasto nell’olio aiutandovi con un altro cucchiaio . Friggete pochi pezzi per volta fino a doratura per evitare che la temperatura dell’olio si abbassi . Scolate su carta assorbente e gustate le frittelle di pane ancora calde !
+
+## Descrizione
+Il risultato finale delle frittelle di pane sarà delle morbide e fragranti frittelle dal cuore filante, arricchite dal sapore del parmigiano reggiano e del prezzemolo. Saranno croccanti all'esterno e morbide all'interno, perfette da gustare calde.
+
+Queste frittelle sono adatte per un aperitivo o antipasto, da servire durante una cena informale tra amici o come piatto unico per una cena leggera. Sono ottime anche da portare in ufficio come pranzo da asporto.
+
+Le frittelle di pane sono adatte per chi segue una dieta equilibrata, purché consumate con moderazione. Sono ricche di carboidrati e proteine grazie al pane e al formaggio, ma anche abbastanza caloriche per via della frittura.
+
+Per le persone con intolleranze, le frittelle di pane non sono adatte per celiaci, in quanto contengono pane. Tuttavia, possono essere consumate da persone intolleranti al lattosio sostituendo il latte con una bevanda vegetale senza lattosio. Inoltre, è possibile escludere il formaggio o utilizzare una versione senza lattosio.

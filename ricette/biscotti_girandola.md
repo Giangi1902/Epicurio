@@ -1,0 +1,23 @@
+# Biscotti girandola
+Categoria: Dolci
+
+## Ingredienti
+- Burro: freddo di frigo 200 g
+- Farina 00: 250 g
+- Zucchero a velo: 100 g
+- Uova: (1 intero) 55 g
+- Acqua: a temperatura ambiente per spennellare q.b.
+- Cacao amaro in polvere: 20 g
+- Farina 00: 40 g
+
+## Preparazione
+Per preparare i biscotti girandola iniziate dall'impasto base: versate il burro ben freddo di frigorifero tagliato a cubetti nella ciotola di un mixer . Aggiungete  gr di farina  e azionate le lame: non dovrete lavorare il composto a lungo, meglio a più riprese per non scaldare eccessivamente il burro, ma giusto il tempo di ottenere un composto sabbioso .A questo punto trasferitelo all'interno di una ciotola e unite sia lo zucchero a velo  che l'uovo . Impastate il tutto molto velocemente con le mani . Questo passaggio è molto importante per la riuscita: non scaldate troppo l'impasto lavorando a lungo, sarà sufficiente compattarlo.Una volta che avrete ottenuto un composto uniforme (risulterà morbido)   pesatelo, dividetelo in due parti uguali e sistematelo in due ciotoline separate . In una di queste aggiungete la parte restante di farina ( g)  e impastate sempre velocemente con le mani per far assorbire la farina.Nell'altra ciotola, invece, unite il cacao  e lavorate anche questa frolla, sempre velocemente, con le mani . Una volta ottenute le  frolle ,appiattite leggermente i panetti, avvolgeteli separatamente nella pellicola per alimenti  e riponetele in frigorifero per un paio d'ore (o fino a quando si saranno ben compattati). Trascorso questo tempo stendete le  frolle in modo da ottenere dei rettangoli spessi circa  mm e dalle dimensioni di X cm (-). Se preferite potete stendere ciascuna frolla più facilmente ponendo il panetto in due fogli di carta da forno.Una volta stesi, spennellate il rettangolo di frolla bianca con dell'acqua  e aiutandovi con un mattarello trasferite anche il rettangolo di frolla al cacao al di sopra di quello neutro , facendo combaciare i bordi. Pressate delicatamente con il mattarello  in modo da far aderire perfettamente i  rettangoli di frolla.A questo punto spennellate l'intera superficie al cacao sempre con dell'acqua e procedete ad arrotolare insieme le  frolle (-). Una volta ottenuto il vostro rotolo , avvolgetelo nella pellicola trasparente e riponetelo a rassodare in frigorifero per circa  minuti.A questo punto riprendete il rotolo e tagliate dei dischi dello spessore di circa mm . Trasferite i vostri biscotti girandola su una leccarda foderata con la carta forno  e cuocete in forno statico preriscaldato a ° per circa  minuti (se utilizzate il forno ventilato potete infornare pochi pezzi come prima infornata per regolarvi su tempi e temperatura per i successivi). Una volta cotti sfornate , lasciate raffreddare e gustate i vostri biscotti girandola!
+
+## Descrizione
+Il risultato finale dei biscotti girandola sarà un dolce fragrante e croccante, con un delizioso contrasto tra la parte al cacao e quella semplice alla vaniglia. I biscotti avranno una forma a spirale grazie alla tecnica di lavorazione dell'impasto, che li renderà molto decorativi e invitanti da gustare.
+
+Questi biscotti sono adatti per occasioni speciali e feste, grazie alla loro presentazione elegante e alla bontà del loro sapore. Possono essere gustati a colazione, come merenda o come dolce fine pasto.
+
+I biscotti girandola sono adatti a una dieta equilibrata se consumati con moderazione, in quanto sono ricchi di grassi e zuccheri. Possono essere inclusi in una dieta bilanciata se consumati con parsimonia e compensati con scelte alimentari più leggere durante la giornata.
+
+Le persone con intolleranze al lattosio dovranno fare attenzione a consumare i biscotti girandola, in quanto contengono burro. Possono essere adatti, invece, a persone con intolleranze al glutine se si utilizzano ingredienti senza glutine, come la farina di riso o di mais.

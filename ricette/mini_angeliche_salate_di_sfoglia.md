@@ -1,0 +1,25 @@
+# Mini angeliche salate di sfoglia
+Categoria: Antipasti
+
+## Ingredienti
+- Pasta Sfoglia: (2 rotoli rettangolari) 460 g
+- Zucca delica: 300 g
+- Verza: 200 g
+- Grana Padano DOP: 20 g
+- Finocchietto selvatico: 1 rametto
+- Curcuma in polvere: 5 g
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Uova: 1
+- Panna fresca liquida: (o latte) 10 g
+- Semi di lino: q.b.
+
+## Preparazione
+Per preparare le mini angeliche salate di sfoglia come prima cosa pulite la zucca . Poi tagliatela prima a fette e poi a dadini ; in tutto ne otterrete  g. Tagliate a fette anche il cavolo verza e tritatelo grossolanamente . Versate poi un filo d'olio in un tegame e unite la zucca ; aggiungete anche la verza  e mescolate.Unite un pizzico di sale  e coprite con un coperchio . Lasciate cuocere per una decina di minuti e nel frattempo unite in una ciotolina il Grana Padano e la curcuma . Mescolate con un cucchiaino fino ad ottenere un composto omogeneo , quindi tenete da parte. Non appena le verdure saranno cotte, spegnete il fuoco e lasciatele raffreddare completamente . In un'altra ciotola rompete l'uovo, aggiungete la panna (o latte)  e sbattete il tutto. Srotolate uno dei due fogli di pasta sfoglia e spennellatelo interamente con il composto di uova e panna . Sistemate le verdure su tutta la superficie . Spolverizzate poi con il composto di curcuma e Grana Padano . Aggiungete un pizzico di pepe nero e anche il finocchietto spezzettandolo in pizzoli pezzetti  e spargendoli ovunque. Ricoprite con il secondo foglio di pasta sfoglia  e sigillate i bordi pizzicandoli con le dita . Ricavate una striscia larga circa  cm , arrotolatela da un capo all'altro , richiudetela a mò di ciambellina  e trasferitela su una leccarda foderata con la carta forno. Ripetete questa operazione per le altre ciambelline, in tutto ne otterrete circa . Dispondetele lasciando un po' di spazio tra una ciambellina e l'altra; dovrete fare due teglie. Spennellate con uovo e panna ; ricoprite con i semi di lino  e cuocete in forno statico preriscaldato a ° per circa  minuti. Poi sfornate le mini angeliche salate di sfoglia  e gustatele calde o a temperatura ambiente! 
+
+## Descrizione
+Il risultato finale sarà composto da piccole angeliche di sfoglia ripiene di zucca, verza, Grana Padano, finocchietto selvatico e aromatizzate con curcuma, pepe nero e sale. Saranno decorate con semi di lino e avranno una consistenza croccante grazie alla pasta sfoglia.
+
+Le mini angeliche salate di sfoglia sono adatte come antipasto per cene speciali, buffet, aperitivi o come finger food per feste e eventi. Possono essere servite sia calde che fredde.
+
+Questa ricetta è adatta per una dieta vegetariana, ma non per diete vegane in quanto contiene uova, formaggio e panna. Le persone intolleranti al lattosio possono sostituire il formaggio Grana Padano con una variante senza lattosio o eliminare la panna e utilizzare latte di origine vegetale. Le persone intolleranti al glutine devono assicurarsi di utilizzare pasta sfoglia senza glutine.

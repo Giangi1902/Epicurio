@@ -1,0 +1,26 @@
+# Carote alla senape
+Categoria: None
+
+## Ingredienti
+- Carote: 600 g
+- Aceto di vino bianco: 150 g
+- Vino bianco: 200 g
+- Acqua: 700 g
+- Aglio: 2 spicchi
+- Olio extravergine d'oliva: 2 cucchiai
+- Prezzemolo: 3 ciuffi
+- Alloro: 4 foglie
+- Senape: 20 g
+- Sale fino: q.b.
+- Zucchero: 1 cucchiaino
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le carote alla senape come prima cosa lavate bene le carote. Poi spuntatele  e pelatele . Utilizzando una lama dentellata realizzate delle fettine di carote, facendo un taglio obliquo .Proseguite in questo modo fino a terminare tutte le carote . In una padella capiente versate l'acqua, aggiungete l'aceto di vino bianco , il vino bianco l'olio , un pizzico di sale  e un cucchiaino di zucchero . Aggiungete i  spicchi d'aglio , le foglie di alloro e  ciuffi di prezzemolo . Portate a bollore, poi versate le carote  e lasciate cuocere a fuoco medio per circa - minuti. Dovranno essere morbide ma consistenti. A questo punto utilizzando un colino scolate le carote  e trasferitele in una ciotola . Lasciate restringere il fondo di cottura per altri  minuti a fuoco vivo, poi filtratelo , in modo da eliminare l'aglio e le erbe aromatiche . Lasciatelo raffreddare, poi unite la senape  e mescolate per amalgamare gli ingredienti . Trasferite le carote in un piatto da portata, cercando di non sovrapporle. Condite con la salsa alla senape  e aggiungete del prezzemolo tritato in superficie . Le carote sono pronte da servire ! 
+
+## Descrizione
+Il risultato finale sarà un piatto di carote cotte in una marinata con senape, aceto, vino bianco e aromi che conferiscono un sapore agrodolce e leggermente piccante alle carote. Le carote saranno tenere ma non sfatte, con un sapore deciso e aromatico grazie alla presenza della senape, dell'aglio e del prezzemolo.
+
+Questa ricetta è adatta come contorno per piatti di carne o pesce, perfetto per accompagnare arrosti o grigliate. È ideale per un pranzo o una cena in famiglia o per occasioni speciali.
+
+Le carote alla senape sono adatte per le diete vegetariane e vegane, dato che non contengono ingredienti di origine animale. Possono essere consumate anche da persone intolleranti al lattosio, al glutine o al lievito, in quanto la ricetta non prevede l'uso di questi ingredienti. Tuttavia, è importante verificare che la senape utilizzata non contenga tracce di glutine o altri allergeni.

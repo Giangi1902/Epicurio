@@ -1,0 +1,25 @@
+# Bavette con pesto di agrumi
+Categoria: Primi piatti
+
+## Ingredienti
+- Linguine: 320 g
+- Basilico: 60 g
+- Limoni: (circa 1) 110 g
+- Arance: (circa 2) 470 g
+- Olio extravergine d'oliva: 120 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pinoli: 30 g
+- Grana Padano DOP: grattugiato 60 g
+
+## Preparazione
+Per realizzare le bavette al pesto di agrumi iniziate pelando a vivo gli agrumi: con uno spelucchino eliminate le estremità delle arance, fino ad arrivare alla polpa; poi eliminate la scorza compresa la parte bianca, seguendo l'andamento dello spicchio ; estraete gli spicchi ad uno ad uno in modo da liberarli dalla pellicina che li avvolge , procedete allo stesso modo con i limoni: eliminate le estremità e poi la scorza e la parte bianca quindi estraete gli spicchi  come avete fatto per le arance. Ora ponete prendete le foglie di basilico (potete pulirle con un panno asciutto oppure lavarle in una ciotola con acqua fredda, molto delicatamente; quindi asciugarle sempre delicatamente con carta da cucina) e versatele in un mixer dotato di lame , aggiungete i pinoli ,il formaggio grattugiato , gli spicchi di arancia  e gli spicchi di limone .Per finire versate a filo l’olio di oliva  e azionate il robot per frullare il composto il tempo necessario per ottenere un pesto omogeneo . Intanto in un tegame capiente, portate a bollore l’acqua, salate e cuocete le bavette ; cuocetele al dente.Intanto versate il pesto in una padella larga  o un saltapasta, salate  e pepate  a piacere.quando le bavette saranno cotte, scolatele direttamente nella padella con il pesto . Fate saltare le bavette al pesto di agrumi per qualche istante e  poi servitele bene calde .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto di linguine condite con un pesto fresco e aromatico a base di agrumi. Le linguine saranno avvolte in un mix di basilico, limone e arancia, arricchito da pinoli e formaggio grattugiato. Il piatto sarà fragrante, leggermente agrumato e molto saporito.
+
+Questa ricetta è adatta per occasioni speciali e cene eleganti, ma anche per un pranzo leggero e fresco in una calda giornata estiva.
+
+Questa ricetta è adatta a dieti equilibrate e varie, in quanto contiene ingredienti freschi e nutrienti come agrumi, pinoli e formaggio. È consigliata per chi cerca un piatto leggero e gustoso.
+
+Le persone con intolleranze al glutine possono scegliere di utilizzare linguine senza glutine per preparare questo piatto. Le persone con intolleranze al lattosio possono optare per un formaggio senza lattosio o sostituirlo con del formaggio vegano. Le persone con intolleranze ai frutti a guscio devono evitare i pinoli.

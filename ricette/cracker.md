@@ -1,0 +1,22 @@
+# Cracker
+Categoria: Antipasti
+
+## Ingredienti
+- Farina 00: 500 g
+- Olio extravergine d'oliva: 120 g
+- Lievito di birra secco: 4 g
+- Sale fino: 10 g
+- Acqua: 180 ml
+- Olio extravergine d'oliva: 3 cucchiai
+- Acqua: 2 cucchiai
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare i cracker, setacciate la farina in una ciotola . Versate un po’ di acqua (presa dalla dose totale della ricetta) in una ciotolina e unitevi il lievito di birra disidratato, quindi mescolate qualche secondo fino a che il lievito non sarà completamente sciolto . Versate il composto di lievito e acqua nella farina .Nel resto dell’acqua scioglietevi il sale , quindi unite l’olio extravergine d'oliva alla farina  e cominciate ad impastare, aggiungendo l'acqua a filo  di tanto in tanto.Quando avrete amalgamato tutti gli ingredienti , trasferite il composto su di una spianatoia ed impastate fino ad ottenere un composto liscio e omogeneo, a cui darete una forma rotonda . Mettete l’impasto ottenuto in una ciotola e copritelo con della pellicola trasparente .Lasciate lievitare la pasta per due ore, fino al raddoppiamento del volume iniziale . Ora con la macchina per la pasta, stendete l’impasto fino ad ottenere delle sfoglie spesse non più di  mm . Tagliate i bordi irregolari con un tagliapasta liscio per ottenere delle strisce larghe  cm .Dividete le strisce con un tagliapasta dentellato in modo che siano lunghe  cm . Con i rebbi di una forchetta praticate una linea verticale alla metà esatta della lunghezza del cracker  e poi con uno stecchino per spiedini praticate  buchi su ognuna delle due parti divise dalla linea .Foderate una leccarda con carta forno e disponetevi sopra le sagome dei cracker, che spennellerete leggermente con un’emulsione di acqua e olio ; a piacere potete cospargere i cracker con del sale fino . Infornate in forno statico già caldo a  gradi per circa  minuti (i cracker devono leggermente dorarsi ai lati) . Non appena li sfornerete toglieteli immediatamente dalla teglia per evitare che il calore latente non continui la cottura scurendoli troppo. Una volta freddi, potete mangiare i vostri cracker fatti in casa!
+
+## Descrizione
+Il risultato finale sarà un cracker croccante e gustoso, perfetto da servire come antipasto o spuntino. I crackers saranno dorati e leggermente salati, ideali da accompagnare con formaggi, salumi o salse.
+
+Questa ricetta è adatta per occasioni informali come aperitivi, feste in casa o picnic all'aperto. Si può personalizzare aggiungendo spezie o semi (es. rosmarino, sesamo, paprika) per un tocco in più di sapore.
+
+I crackers sono adatti a persone che seguono una dieta vegetariana o vegana, in quanto non contengono ingredienti di origine animale. Possono essere consumati anche da persone con intolleranze al lattosio o al glutine, purché si utilizzi una farina senza glutine e si controlli la presenza di tracce nei restanti ingredienti.

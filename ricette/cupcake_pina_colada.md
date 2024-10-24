@@ -1,0 +1,27 @@
+# Cupcake Pina colada
+Categoria: Dolci
+
+## Ingredienti
+- Ananas: (già pulito) 170 g
+- Aroma al rum: 5 gocce
+- Farina 00: 200 g
+- Burro: (morbido) 200 g
+- Zucchero: 200 g
+- Uova: (medie) 3
+- Lievito in polvere per dolci: 3 g
+- Latte di cocco: (per dolci) 220 ml
+- Gelatina in fogli: 6 g
+- Panna fresca liquida: 300 ml
+- Zucchero a velo: 100 g
+- Ciliegie sciroppate: 12
+- Ananas: 2 fette
+- Menta: q.b.
+- Cocco disidratato: q.b.
+
+## Preparazione
+Per realizzare i cupcake pinacolada sbucciate l’ananas fresco e tagliatene  gr a piccoli cubetti , ponete in una ciotola il burro morbido e lo zucchero , montateli con le fruste elettriche per ottenere una crema poi unite le uova  e quando saranno ben incorporate all’impasto versate l’aroma di rum , mescolate con una spatola e aggiungete anche la farina setacciata  e il lievito.Mescolate finché le polveri non saranno ben amalgamate  e per finire aggiungete i cubetti di ananas fresco . Trasferite l’impasto in una sac-à-poche senza bocchetta , poi ponete dei pirottini di carta in uno stampo da  cupcake .Distribuite l’impasto ottenuto nei  pirottini  riempiendoli per metà così in cottura raggiungeranno il bordo dei pirottini. Cuocete in forno statico preriscaldato a ° per  minuti (o ventilato a ° per - minuti). Intanto occupatevi della crema: ponete la gelatina in fogli in una ciotolina con acqua fredda per  minuti così da ammorbidirla , versate il latte di cocco in un pentolino e scaldatelo a fuoco moderato, poi spegnete il fuoco e incorporate la gelatina scolata e ben strizzata ,mescolate con la frusta per far sciogliere la gelatina . Trasferite il latte di cocco in una ciotola , coprite con pellicola trasparente a contatto e fate rassodare la crema in frigorifero per  ora. Trascorso questo tempo, montate la panna fresca liquida con lo zucchero a velo e unitela al latte di cocco , mescolate con una spatola per amalgamare il composto, coprite la crema con pellicola e lasciate nuovamente rassodare in frigorifero per  minuti. Trascorso il tempo di riposo riprendete i cupcake ormai raffreddati , sformateli dallo stampo multiplo mantenendo i pirottini di carta.Realizzate le decorazioni: tagliate a spicchi la noce di cocco  e a triangolini le fette di ananas . Trasferite la crema al cocco in una sac-à-poche con bocchetta stellata e spremetene un ciuffo su ciascun  cupcake , guarnite con i pezzetti di ananas , una ciliegina scolata dal liquido di conservazione, le fettine di cocco (o il cocco disidratato) e le foglioline di menta  . I vostri cupcake pinacolada sono pronti!
+
+## Descrizione
+Il risultato finale della ricetta "Cupcake Pina colada" sarà un dolce cupcake dall'aroma tropicale di ananas e cocco, arricchito da un tocco di rum. I cupcakes saranno soffici e leggermente umidi grazie al latte di cocco, con una crema di panna fresca e ananas al centro e decorati con ciliegie sciroppate, fette di ananas, menta fresca e cocco disidratato. Saranno perfetti da gustare come dessert in occasioni speciali o feste estive.
+
+Questo dolce è adatto a una dieta normale, ma potrebbe essere troppo calorico per chi segue una dieta ipocalorica o a basso contenuto di grassi. Le persone con intolleranze al lattosio potrebbero preferire utilizzare alternative senza lattosio al latte di cocco e alla panna fresca. Chi è intollerante al glutine dovrà utilizzare una farina senza glutine e controllare che gli altri ingredienti siano privi di contaminazioni. Le persone celiache dovranno fare attenzione all'eventuale presenza di tracce di glutine negli ingredienti utilizzati.

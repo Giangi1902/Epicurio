@@ -1,0 +1,22 @@
+# Biscottini al burro con marmellata
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 180 g
+- Burro: a temperatura ambiente 100 g
+- Zucchero: 70 g
+- Tuorli: 2
+- Marmellata di arance: 30 g
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per realizzare i biscottini al burro con marmellata, iniziate con la preparazione dell’impasto: in una ciotola unite la farina, lo zucchero  e i tuorli leggermente sbattuti . Mescolate con le dita per amalgamare gli ingredienti .Aggiungete il burro a temperatura ambiente a tocchetti  e impastate fino a ottenere un composto liscio e omogeneo . Trasferite l’impasto su un piano da lavoro e formate un filoncino di circa  cm di lunghezza, poi avvolgetelo nella pellicola  e mettetelo a riposare in frigorifero per  minuti. Trascorso il tempo di riposo, riprendete il filoncino di impasto e tagliatelo in dischetti dello spessore di  cm, utilizzando un coltello dalla lama liscia : con queste dosi otterrete circa  tocchetti. A questo punto preriscaldate il forno a ° in modalità statica, poi foderate una leccarda con la carta forno. Lavorate i dischetti fra i palmi delle mani per formare delle palline , poi posizionatele sulla leccarda, ben distanziate fra di loro.Con il dito indice realizzate una leggera pressione nel centro di ogni pallina in modo da formare una piccola conca , poi cuocete nel forno statico preriscaldato a °, sul ripiano basso, per circa  minuti. Una volta cotti, sfornate i biscottini e lasciateli intiepidire, dopodiché aggiungete un cucchiaino di marmellata nell’incavo di ogni biscotto  e spolverizzate con abbondante zucchero a velo: i vostri biscottini con burro con marmellata sono pronti per essere serviti !
+
+## Descrizione
+I biscottini al burro con marmellata sono dei dolcetti croccanti fuori e morbidi dentro, con un cuore dolce di marmellata di arance. Il burro conferirà al dolce un sapore ricco e cremoso, mentre la marmellata darà un tocco fruttato e aromatico.
+
+Questi biscottini sono adatti per occasioni speciali come colazioni o merende, da gustare con una tazza di tè o caffè. Sono perfetti anche come dolce fine pasto.
+
+Questi biscottini sono adatti a chi segue una dieta bilanciata, ma con moderazione dato il contenuto di zucchero e burro. Possono essere adattati per una dieta senza glutine usando farina senza glutine.
+
+Le persone con intolleranze al lattosio potrebbero avere problemi a consumare questo dolce per via del burro. Possono essere sostituito con burro senza lattosio o margarina vegetale. Le persone celiache dovrebbero usare farina senza glutine.

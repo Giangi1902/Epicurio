@@ -1,0 +1,32 @@
+# Minicharlotte di Pavesini con crema diplomatica e frutti di bosco
+Categoria: Dolci
+
+## Ingredienti
+- Pavesini: 100 g
+- Latte intero: 750 ml
+- Panna fresca liquida: 375 ml
+- Zucchero: 225 g
+- Farina 00: 75 g
+- Zucchero a velo: 30 g
+- Gelatina in fogli: 15 g
+- Tuorli: 9
+- Baccello di vaniglia: 1
+- Gelatina in fogli: 6 g
+- Lamponi: 500 g
+- Zucchero: 2 cucchiai
+- Pavesini: 120 g
+- Menta: 6 foglie
+- Frutti di bosco: q.b.
+- Latte intero: 200 ml
+
+## Preparazione
+Per realizzare le minicharlotte di Pavesini con crema diplomatica e frutti di bosco iniziate a preparare la crema pasticcera con il procedimento a freddo: ponete in una pentola il latte con la bacca di vaniglia incisa a metà , lo zucchero, i tuorli  e la farina setacciata e fate addensare tutti gli ingredienti a fuoco basso, continuando a mescolare con una frusta per evitare la formazione di grumi . (In alternativa potete seguire il procedimento che trovate nella scheda dettagliata della crema pasticcera che trovate qui).intanto ponete la gelatina in una ciotola con acqua fredda per  minuti  fino a quando non si sarà ammorbidita, poi strizzatela bene  e incorporatela alla crema pasticcera calda .Coprite la crema pasticcera con un foglio di pellicola a contatto e lasciate raffreddare la crema  in frigorifero per almeno  ore. Ora preparate una crema chantilly (per la scheda dettaglita cliccate qui): montate la panna nella tazza di una planetaria dotata di frusta, oppure usate uno sbattitore elettrico  e quando la panna inizierà a scrivere unite lo zucchero a velo setacciato fino a quando non avrà raggiunto una consistenza corposa. Riprendete la crema pasticcera e montatela qualche istante con una frusta elettrica per renderla spumosa ,incorporate quindi la crema pasticcera alla crema chantilly , ora la vostra crema diplomatica è pronta . Prendete dei coppa pasta a cilindro del diametro di  cm e alti  cm ,ritagliate con la carta da forno delle strisce larghe  cm  che andrete ad arrotolare per rivestire le pareti dei cilindri . Ponete i cilindri su un vassoio ricoperto di carta da forno e iniziate a comporre le minicharlotte: in una ciotolina versate il latte freddo per l’inzuppo, prendete un Pavesino, immergetelo nel latte e adagiatelo all’interno del cilindro ,per ciascuno strato sono sufficienti  Pavesini ( intero al centro +  leggermente tagliati secondo la forma del cilindro)  , riempite una sac-à-poche dotata di bocchetta liscia di  cm e / con la crema e versate uno strato di crema  sui Pavesini, proseguite con un secondo strato di Pavesini  e crema e infine terminate con un terzo strato sempre di Pavesini e crema. Ponete in frigorifero il vassoio con le minicharlotte per fare rassodare la crema per  ora.Intanto occupatevi della coulis di lamponi: ponete la gelatina in una ciotolina con acqua fredda fino a che non si sarà ammorbidita. Intanto ponete i lamponi con lo zucchero semolato in una padella , fate appassire i lamponi a fiamma bassa, per - minuti  (per la scheda dettagliata cliccate qui). Filtrate la coulis ottenuta con un colino per eliminare eventuali semi : premete bene con il dorso di un cucchiaio e raccogliete la salsa all’interno di una ciotolina,Intanto ponete la gelatina in acqua fredda per farla ammorbidire .  Infine strizzate bene la gelatina ammorbidita e unitela alla coulis calda . Lasciate raffreddare la coulis. Tirate fuori dal frigo le minicharlotte Con un cucchiaio versate la coulis sopra l’ultimo strato di crema ormai rassodato  (sono sufficienti  g di coulis per ciascuna minicharlotte). Riponete nuovamente in frigorifero il vassoio con le minicharlotte per far rassodare anche la coulis di lamponi per circa  ore. Trascorso il tempo di riposo,  sfilate i cilindri  poneteli su un piattino, e srotolate la carta forno che avvolge le minicharlotte .Ora potete guarnire le vostre minicharlotte : adagiate sul bordo della minicharlotte i Pavesini uno vicino all'altro in modo da rivestire completamente il bordo; per ciascuna minicharlotte serviranno  pavesini. Ultimate le vostre minicharlotte di Pavesini con crema diplomatica e frutti di bosco guarnendo con frutti di bosco freschi  e foglioline di menta.
+
+## Descrizione
+Il risultato finale sarà una deliziosa minicharlotte composta da strati di Pavesini imbevuti nel latte e crema diplomatica alla vaniglia, decorata con frutti di bosco e lamponi freschi.
+
+Questa ricetta è adatta per occasioni speciali come feste di compleanno, anniversari o cene eleganti.
+
+La ricetta è adatta a chi segue una dieta vegetariana, ma non è adatta per chi segue una dieta vegana in quanto contiene tuorli d'uovo e panna fresca liquida.
+
+Le persone con intolleranza al lattosio potrebbero trovare difficoltà a digerire questa ricetta a causa della presenza di latte intero e panna fresca liquida. Chi soffre di intolleranza al glutine dovrebbe sostituire i Pavesini con una versione senza glutine e assicurarsi che gli altri ingredienti siano privi di glutine.

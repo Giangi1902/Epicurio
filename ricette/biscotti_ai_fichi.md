@@ -1,0 +1,28 @@
+# Biscotti ai fichi
+Categoria: Dolci
+
+## Ingredienti
+- Burro: morbido 100 g
+- Farina 00: 200 g
+- Uova: (circa 1) 50 g
+- Zucchero a velo: 50 g
+- Sale fino: 1 pizzico
+- Lievito in polvere per dolci: 3 g
+- Scorza di limone: ½
+- Fichi: 380 g
+- Zucchero di canna: 30 g
+- Biscotti Digestive: 50 g
+- Scorza di limone: ½
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare i biscotti ai fichi come prima cosa realizzate la pasta frolla. Versate nella ciotola di una planetaria il burro morbido tagliato a cubetti , un pizzico di sale  e la scorza di mezzo limone . Lavorate con la frusta a foglia per qualche istante,poi, sempre con la planetaria in azione, aggiungete lo zucchero a velo . Aspettate circa  minuto, fino a che sarà completamente assorbito e unite anche la farina setacciata . Aggiungete il lievito in polvere e in ultimo l'uovo sbattuto . Lavorate il tutto, fino ad ottenere un impasto omogeneo . Trasferite poi il composto, aiutandovi con un leccapentole, su un foglio di pellicola che avrete posizionato sul piano di lavoro .Dategli la forma di un panetto e avvolgetelo completamente, in modo da non lasciare parti scoperte, quindi riponete in frigorifero a rassodare per almeno  ore . Nel frattempo occupatevi del ripieno ai fichi. Per prima cosa sbucciateli , trasferiteli in una ciotola e schiacciateli con una forchetta . Dovrete ottenerne  grammi.Aggiungete lo zucchero di canna , la scorza di mezzo limone  e lavorate il composto con la forchetta per amalgamare tutti gli ingredienti . Versate il composto ottenuto in una padella  e lasciatelo cuocere per una decina di minuti . Nel frattempo sbriciolate i biscotti a mano .Trascorsi i  minuti di cottura, unite i biscotti al composto di fichi  e mescolate fino a farli amalgamare completamente . Trasferite poi il tutto in una ciotola  e lasciate raffreddare prima a temperatura ambientee poi in frigorifero, coprendo con della pellicola solo in quest'ultima fase . Dopo che la frolla avrà riposato trasferitela su un piano di lavoro leggermente infarinato  e stendetela fino ad ottenere uno spessore di circa  mm . Dovrete ottenere un quadrato di x cm . Tagliate poi  strisce larghe  cm e lunghe  cm . Prelevate / del composto e posizionatelo sulla prima striscia  spargendolo bene, lasciando qualche cm dal bordo . Ripiegate poi la striscia verso il centro da entrambi i lati  in modo da formare un filoncino ripieno . Ripetete la stessa operazione anche per le altre due strisce di pasta. Aiutandovi con una spatola trasferite molto delicatamente i filoncini su un vassoio foderato con carta forno . Riponete in freezer per  minuti. Poi riprendeteli e tagliateli a cubotti di circa  cm . Trasferite su una leccarda foderata con carta forno, ben distanziati e cuocete in forno statico preriscaldato a ° nel ripiano centrale per  minuti. Quando saranno dorati sfornate i biscotti , aspettate qualche minuto prima di trasferirli su una gratella. Fateli raffreddare completamente e spolverizzate con lo zucchero a velo , prima di servirli . 
+
+## Descrizione
+Il risultato finale della ricetta sarà dei biscotti morbidi e dal sapore dolce, arricchiti dalla presenza dei fichi e della scorza di limone. Saranno leggermente croccanti grazie alla presenza dei biscotti Digestive e ricoperti da uno strato di zucchero a velo.
+
+Questi biscotti ai fichi sono adatti per occasioni come la merenda, la colazione o come dessert accompagnato da una tazza di tè o caffè. Possono essere serviti anche come dolce durante una festa o come regalo fatto in casa.
+
+Questi biscotti sono adatti per una dieta vegetariana. Tuttavia, poiché contengono burro e uova, non sono adatti per una dieta vegana. Possono essere consumati con moderazione anche in una dieta bilanciata, facendo attenzione alle quantità di zuccheri.
+
+Le persone con intolleranze al lattosio possono rendere questa ricetta adatta alle loro esigenze sostituendo il burro con un'alternativa senza lattosio. Le persone con intolleranze al glutine possono utilizzare della farina senza glutine al posto della farina 00. Per le persone con intolleranze agli agrumi, è possibile eliminare la scorza di limone dalla ricetta.

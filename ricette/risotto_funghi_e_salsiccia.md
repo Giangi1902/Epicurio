@@ -1,0 +1,27 @@
+# Risotto funghi e salsiccia
+Categoria: None
+
+## Ingredienti
+- Riso Carnaroli: 320 g
+- Funghi finferli (gallinacci): 250 g
+- Salsiccia: 150 g
+- Vino bianco secco: 100 g
+- Prezzemolo: tritato 10 g
+- Aglio: 1 spicchio
+- Cipolle bianche: 40 g
+- Olio extravergine d'oliva: 50 g
+- Burro: 60 g
+- Brodo vegetale: 1 l
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare il risotto funghi e salsiccia per prima cosa pulite i finferli: eliminate la terra in eccesso strofinandoli delicatamente con un canovaccio; poi spazzolateli con un pennellino dalle setole morbide   ed infine, se necessario, grattateli con un coltellino a lama liscia. Se la terra è molta, potete passare velocemente i funghi sotto un getto di acqua fredda. Poi tamponate bene. Tagliate i finferli a pezzetti , avendo cura di lasciare qualche fungo intero per l’impiattamento finale. In una padella versate  g di olio e lo spicchio d'aglio .Scaldate sul fuoco e poi versate i funghi . Cuocete a fiamma vivace per un paio di minuti, quindi sfumate con  g di vino bianco . Salate e proseguite la cottura per  minuti. Prima di spegnere il fuoco aggiungete il prezzemolo fresco sminuzzato .I funghi sono pronti , versatene un terzo nella ciotola del mixer ; aggiungete un cucchiaio di brodo vegetale e frullate fino ad ottenere una consistenza cremosa  (ricordatevi di non frullare i funghi interi che vi serviranno alla fine per impiattare il vostro risotto). Tenete la crema di funghi da parte, fino al momento di utilizzarla.Preparate la salsiccia: incidetela con un coltello a lama liscia ed eliminate il budello . Sbriciolatela con le mani . Mettete la salsiccia in una padella e rosolatela con  g di olio, rigirandola spesso. Ci vorranno circa  minuti.Regolate di sale ed insaporite con il prezzemolo . Tenete la salsiccia da parte fino al momento di utilizzarla. Scaldate il brodo vegetale ed iniziate la preparazione del risotto. Mondate e sminuzzate la cipolla ; fatela rosolare in padella insieme a  g di burro .Unite il riso e fatelo tostare qualche minuto , girandolo spesso. Sfumate con il vino bianco  e poi abbassate la fiamma. Cuocete per  minuti, aggiungendo, quando necessario, poco brodo vegetale alla volta . Unite i funghi  e proseguite la cottura per  minuti. Aggiungete la salsiccia  e portate a cottura il risotto. Al termine della cottura, unite la crema di funghi e mescolate .Spegnete il fuoco, unite il prezzemolo fresco  e mantecate con  g di burro . Lasciate riposare  minuti, quindi impiattate e aggiungete i finferli interi. Insaporite con del prezzemolo fresco e servite il risotto funghi e salsiccia ben caldo .
+
+## Descrizione
+Il risultato finale della ricetta "Risotto funghi e salsiccia" sarà un piatto cremoso e saporito, con il gusto intenso dei funghi finferli e della salsiccia. Il risotto sarà perfettamente cotto e avvolto dalla maggioranza dei sapori dei suoi ingredienti.
+
+Questo piatto è adatto per occasioni speciali o per un pranzo o cena più ricercata. Può essere servito come piatto unico o come primo piatto in un menù completo.
+
+La ricetta è adatta per le persone che seguono una dieta equilibrata, ma va consumata con moderazione a causa del contenuto calorico e di grassi saturi. È ideale per coloro che seguono una dieta mediterranea o che hanno bisogno di un pasto confortante e nutriente.
+
+Le persone con intolleranze al glutine devono assicurarsi di utilizzare ingredienti certificati senza glutine, come il riso Carnaroli senza contaminazioni. Le persone con intolleranze ai latticini possono sostituire il burro con olio extravergine d'oliva e assicurarsi che la salsiccia utilizzata non contenga lattosio. Le persone con intolleranze alle proteine animali possono optare per una versione vegetariana della ricetta, eliminando la salsiccia e sostituendola con verdure o tofu.

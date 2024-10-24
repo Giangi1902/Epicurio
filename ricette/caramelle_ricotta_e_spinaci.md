@@ -1,0 +1,28 @@
+# Caramelle ricotta e spinaci
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 250 g
+- Uova: 2
+- Tuorli: 1
+- Spinaci: 250 g
+- Ricotta vaccina: 125 g
+- Sale: q.b.
+- Noce moscata: 1 pizzico
+- Grana Padano DOP: (da grattugiare) 50 g
+- Pepe nero: q.b.
+- Burro: 100 g
+- Salvia: 6 foglie
+- Parmigiano Reggiano DOP: da grattugiare q.b.
+
+## Preparazione
+Per preparare le caramelle ricotta e spinaci iniziate dalla pasta all’uovo. In una ciotola versate la farina, restando indietro di circa  g da aggiungere al bisogno ; poi unite le uova  e maneggiate il tutto all'interno della stessa ciotola . Quando le uova saranno assorbite potete proseguire su un piano di lavoro e maneggiate l'impasto fino a renderlo liscio ed elastico.Una volta pronto, dategli una forma sferica , avvolgete con pellicola e lasciate riposare in luogo fresco con luce accesa per circa  minuti. Dedicatevi alla preparazione del ripieno: lessate gli spinaci in pochissima acqua salata  oppure cuoceteli al vapore o fateli semplicemente saltare a fuoco dolce in una padella antiaderente. Poi strizzateli e tritateli finemente . Una volta cotti e ben strizzati gli spinaci peseranno circa  gr.Ponete gli spinaci tritati in una ciotola nella quale aggiungerete la ricotta e il Grana Padano DOP grattugiato , la noce moscata, il sale e il pepe . Amalgamate tutti gli ingredienti fino a ottenere un composto morbido ma compatto .Stendete la pasta all'uovo in una sfoglia molto sottile, che taglierete in rettangoli della dimensione di x cm . Al centro di ogni rettangolo di pasta, ponete un cucchiaino scarso di ripieno  e avvolgete la sfoglia su se stessa dal lato più lungo . Ora modellate le vostre caramelle: girate in senso orario il lembo destro  e in senso antiorario quello sinistro, come per richiudere la carta di una caramella . Tagliate i bordi esterni di ambedue i lembi con una rotella dentellata .Una volta che avrete modellato tutte le caramelle, disponetele su di una spianatoia infarinate e lasciatele seccare per un'ora circa . Cuocete la pasta in acqua bollente salata per almeno  minuti , intanto in una padella fate indorare le foglie di salvia nel burro fuso . Una volta cotte scolate le caramelle e conditele con il burro e la salvia e con il parmigiano grattugiato a piacere. Le vostre caramelle ricotta e spinaci sono pronte per essere servite!
+
+## Descrizione
+Risultato finale: Le caramelle ricotta e spinaci sono un primo piatto delizioso e cremoso. Le caramelle di pasta fresca sono ripiene di una miscela di ricotta vaccina, spinaci cotti e grana Padano, che dona al piatto un sapore ricco e un'ottima consistenza. Il condimento di burro e salvia rende la preparazione ancora più gustosa.
+
+Occasioni adatte: Questa ricetta è perfetta per una cena speciale o per festività, grazie alla sua presentazione elegante e al suo sapore raffinato.
+
+Diete o regimi alimentari adatti: Le caramelle ricotta e spinaci sono adatte a una dieta equilibrata, in quanto contengono ingredienti nutrienti come la ricotta e gli spinaci e apportano una buona quantità di carboidrati, proteine e grassi. Tuttavia, è importante fare attenzione alle porzioni e al consumo di altri alimenti durante il pasto per bilanciare adeguatamente la dieta complessiva.
+
+Intolleranze: Le caramelle ricotta e spinaci potrebbero non essere adatte per le persone con intolleranza al lattosio, in quanto contengono ricotta e formaggi come il grana Padano e il Parmigiano Reggiano. Tuttavia, è possibile sostituire i formaggi con alternative senza lattosio per renderla adatta a questo tipo di intolleranza. Inoltre, le persone con intolleranze al glutine dovrebbero fare attenzione all'uso della farina 00, che contiene glutine. È possibile utilizzare alternative senza glutine per adattare la ricetta a questo tipo di intolleranza.

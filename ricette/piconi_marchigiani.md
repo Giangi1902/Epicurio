@@ -1,0 +1,27 @@
+# Piconi marchigiani
+Categoria: Antipasti
+
+## Ingredienti
+- Farina 00: 400 g
+- Uova: (circa 4 medie) 220 g
+- Olio extravergine d'oliva: 30 g
+- Pecorino: da grattugiare 300 g
+- Parmigiano Reggiano DOP: da grattugiare 300 g
+- Uova: (circa 3 medie) 165 g
+- Scorza di limone: 1
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Tuorli: 1
+- Latte intero: 20 g
+
+## Preparazione
+Per realizzare i piconi marchigiani in una ciotola versate la farina, le uova  e l’olio . Impastate bene con le mani  sino ad ottenere un impasto liscio e omogeneo.Trasferitelo su una spianatoia , formate un panetto e ricopritelo con pellicola alimentare . Lasciate riposare per  minuti a temperatura ambiente. Nel frattempo occupatevi del ripieno: in una ciotola versate le uova e la scorza del limone .Aggiungete anche il Parmigiano  e il pecorino grattugiati , mescolate per amalgamare e infine salate e pepate .Riprendete la pasta e stendetela con il mattarello a circa  mm di spessore . Tagliate delle strisce della larghezza di circa  cm . Adagiate a distanza di circa  cm un cucchiaio di ripieno (circa  g) appallottolato con le mani .Ripiegate la sfoglia su se stessa per coprire il ripieno , poi con un tagliapasta dentellato tagliate dei “ravioli” di circa  cm di lunghezza e  di larghezza . Con queste dosi otterrete circa  ravioli. Adagiate i piconi su una teglia rivestita con carta forno .Spennellate la superficie con il composto di uova e latte  e con un paio di forbici incidete la superficie realizzando una “x” . Cuocete in forno statico a ° per circa  minuti. A cottura ultimata sfornate i piconi marchigiani e lasciateli intiepidire prima di gustarli .
+
+## Descrizione
+Il risultato finale sarà un antipasto croccante e saporito, ricco di formaggio e con un delicato profumo di limone. I piconi marchigiani sono delle sfoglie di pasta ripiene di un composto di formaggi, che vengono fritte fino a diventare dorati e croccanti.
+
+Questo piatto è adatto principalmente per occasioni informali, come aperitivi con amici o feste in famiglia. Può essere servito caldo, come finger food, oppure a temperatura ambiente come antipasto in un buffet.
+
+La ricetta dei piconi marchigiani è adatta a chi non segue particolari diete alimentari e è perfetta per chi ama i sapori intensi e gustosi dei formaggi. Tuttavia, è sconsigliata a chi segue una dieta vegana o vegetariana in quanto contiene formaggi di origine animale.
+
+Le persone con intolleranze al lattosio non dovrebbero consumare i piconi marchigiani in quanto la ricetta prevede l'uso di latte e formaggi. Chi soffre di intolleranza al glutine può eventualmente provare a sostituire la farina con una versione senza glutine per adattare la ricetta alle proprie esigenze.

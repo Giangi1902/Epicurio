@@ -1,0 +1,29 @@
+# Filetto di salmone croccante con salsa Chardonnay
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di salmone: ( 4 pezzi) 800 g
+- Sesamo: 50 g
+- Olio extravergine d'oliva: 30 g
+- Scalogno: 60 g
+- Sale fino: q.b.
+- Pepe nero: 1 pizzico
+- Funghi champignon: 280 g
+- Chardonnay: 100 g
+- Latte intero: 50 g
+- Olio extravergine d'oliva: 20 g
+- Sale fino: 1 pizzico
+- Pepe nero: 1 pizzico
+- Prezzemolo: 3 g
+
+## Preparazione
+Per preparare il filetto di salmone croccante con salsa Chardonnay, per prima cosa iniziate a preparare la salsa di accompagnamento: tritate lo scalogno , tagliate tutti i  g di funghi champignon a fettine , poi prendete una padella ampia, versate un po' d'olio mettete a rosolare lo scalogno per circa - minuti, unite tutti i funghi champignon, sfumate con il vino Chardonnay fate evaporare, quindi salate , pepate  e lasciate cuocere a fuoco dolce per - minuti. Una volta cotti, trasferite  g dei funghi in un bicchiere alto da frullatore ad immersione, tenete gli altri  g da parte: vi serviranno per accompagnare il filetti. Frullate i funghi con un frullatore ad immersione .Aggiungete il latte in modo da ottenere un composto più cremoso  e tenetelo da parte . Dedicatevi al salmone: tirate via le lische presenti con una pinza da cucina  e la pelle con un coltello dalla lama affilata se presente. poi in un piatto mettete del sesamo bianco e un po' di sale e impanate i filetti ricoprendoli bene , quindi scaldate bene una padella antiaderente e metteli a cuocere , per circa  minuti per parte, facendo attenzione a girarli di tanto in tanto  in modo che si cuociano uniformemente.Una volta cotto il salmone, in un piatto da portata adagiate alcuni funghi interi messi da parte e i filetti di salmone. Aggiustate di pepe , irrorate con un filo di olio a crudo e servite insieme alla crema di funghi e Chardonnay che avete preparato e tenete a parte in una salsiera, guarnite con qualche fogliolina di prezzemolo e i vostri filetti di salmone croccante con salsa Chardonnay sono pronti per essere gustati! 
+
+## Descrizione
+Il risultato finale della ricetta "Filetto di salmone croccante con salsa Chardonnay" sarà un delizioso piatto di salmone croccante ricoperto di semi di sesamo, accompagnato da una salsa cremosa al Chardonnay e funghi champignon. Il salmone sarà morbido e succulento all'interno, mentre la crosta croccante di sesamo gli conferirà una consistenza interessante.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi importanti, ma può essere gustato anche durante una cena romantica a casa.
+
+La ricetta si presta a essere consumata da persone che seguono una dieta pescetariana, ma può essere adattata per soddisfare anche i palati dei consumatori di carne.
+
+Le persone con intolleranze al lattosio possono sostituire il latte intero con latte senza lattosio nella preparazione della salsa. Inoltre, coloro che sono intolleranti al sesamo possono utilizzare altri tipi di crosta per il salmone, come pangrattato o frutta secca tritata.

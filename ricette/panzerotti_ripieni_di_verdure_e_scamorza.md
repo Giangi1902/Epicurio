@@ -1,0 +1,29 @@
+# Panzerotti ripieni di verdure e scamorza
+Categoria: Antipasti
+
+## Ingredienti
+- Dischetti di pasta: 16
+- Carote: 150 g
+- Zucchine: 150 g
+- Fagiolini: 100 g
+- Scamorza (provola): (dolce) 150 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio di semi: 1 l
+
+## Preparazione
+Per preparare i panzerotti ripieni di verdure e scamorza lavate le verdure sotto abbondante acqua fresca corrente. Spuntate le zucchine , tagliatele a fettine  e poi a cubetti di  mm .Ripetete la stessa operazione anche per le carote , infine tagliate a fette e poi a dadini anche la scamorza . Spuntate i fagiolini e fateli sbollentare per  minuti in abbondante acqua salata ,dopodiché scolateli e tagliateli a tocchetti sempre di  mm . Ponete una pentola ampia antiaderente sul fuoco con l’olio ; quando l’olio sarà caldo, versate le carote a dadini, facendo cuocere per  minuti, poi unite le zucchine e cuocete per altri  minuti .Unite i fagiolini , regolando di sale e pepe a vostro piacere. Quando le verdure saranno pronte, spegnete e trasferitele in una ciotola a raffreddare. Successivamente aggiungete anche la scamorza precedentemente tagliata a cubetti  e mescolate con un cucchiaio .Prendete uno alla volta i dischetti di pasta  e farciteli con circa  g di ripieno di verdure e formaggio ; spennellate i bordi con un po' d'acqua e richiudeteli sovrapponendo i bordi uno sopra l’altro per creare una mezzaluna ; sigillate bene i bordi con le dita , quindi rifiniteli un coppapasta del diametro di  cm con il bordo ondulato .In una pentola ampia fate scaldare l’olio, quando l’olio avrà raggiunto la temperatura di °-° (potete controllare con un termometro da cucina) friggete i panzerotti - alla volta  fino a quando saranno dorati e croccanti. Scolateli dall’olio in eccesso con una schiumarola e fateli asciugare su carta assorbente . Servite i vostri panzerotti ripieni di verdura e scamorza ben caldi al momento !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un antipasto gustoso e colorato, con panzerotti croccanti e ricchi di verdure fresche e formaggio filante all'interno. 
+
+Adatto per: 
+- Occasioni informali come aperitivi o cene tra amici
+- Diete vegetariane
+- Dieta senza glutine (utilizzando pasta senza glutine)
+- Intolleranze al lattosio (utilizzando formaggio senza lattosio)
+- Intolleranze al glutine (utilizzando pasta senza glutine)
+- Intolleranze alle uova (verificare gli ingredienti della pasta)
+- Intolleranze al formaggio (eliminando o sostituendo con un formaggio alternativo)
+
+Il panzerotto ripieno di verdure e scamorza è un piatto versatile e adatto a molte situazioni, garantendo un mix di sapori e consistenze che soddisferanno il palato di tutti i commensali.

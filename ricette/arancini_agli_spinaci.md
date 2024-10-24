@@ -1,0 +1,32 @@
+# Arancini agli spinaci
+Categoria: Antipasti
+
+## Ingredienti
+- Riso Roma: 350 g
+- Zafferano: (1 bustina) 0,125 g
+- Acqua: 1 l
+- Burro: 20 g
+- Parmigiano Reggiano DOP: da grattugiare 30 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: per ungere il vassoio q.b.
+- Spinaci: 500 g
+- Caciocavallo: 250 g
+- Prosciutto cotto: a fette 120 g
+- Acqua: 200 g
+- Sale fino: q.b.
+- Farina 00: 80 g
+- Acqua: 110 g
+- Pangrattato: q.b.
+- Olio di semi: 1 l
+
+## Preparazione
+Per realizzare gli arancini agli spinaci, iniziate con la preparazione del riso: versate il riso in una pentola capiente, aggiungete  litro d’acqua  e il sale  e portatelo a cottura circa  minuti: alla fine il riso dovrà risultare ben asciutto .A questo punto spegnete il fuoco e aggiungete lo zafferano che avrete diluito in una piccola quantità di acqua di cottura del riso , mescolate bene , poi unite il Parmigiano e il burro  e mescolate ancora per amalgamare bene il tutto. Trasferite il riso su un vassoio unto con olio  e stendetelo uniformemente per facilitarne il raffreddamento, poi coprite con pellicola trasparente a contatto  e lasciatelo raffreddare in frigorifero per almeno  ore.Nel frattempo preparate gli ingredienti per il ripieno: riducete il caciocavallo a cubetti molto piccoli  e tritate finemente il prosciutto cotto . Sciacquate bene gli spinaci e versateli in una pentola capiente, salate e aggiungete circa  g di acqua .Coprite con un coperchio  e cuocete a fiamma bassa fino a che non saranno appassiti: ci vorranno circa - minuti . Scolate gli spinaci per eliminare l’acqua in eccesso  e lasciateli raffreddare.Una volta che gli spinaci si saranno raffreddati, tritateli finemente . Ora occupatevi della pastella: in una ciotola unite l’acqua alla farina  e mescolate bene con una frusta per evitare la formazione di grumi fino ad ottenere un composto omogeneo .Quando il riso si sarà raffreddato per bene, potete passare alla composizione degli arancini: per aiutarvi tenete vicino una ciotola colma d’acqua con cui inumidirvi le mani al bisogno . Prelevate circa - g di riso per volta, schiacciatelo sul palmo della mano e formate una specie di conca , poi aggiungete un cucchiaio di caciocavallo a cubetti ,un cucchiaio di prosciutto tritato  e un cucchiaio di spinaci . Date al riso una forma sferica spingendo il ripieno verso l’interno per assicurarvi che non fuoriesca . Una volta che avrete formato tutti gli arancini, versate l’olio di semi in un pentolino e portatelo alla temperatura di °.Immergete un arancino per volta nella pastella , poi ricopriteli con il pangrattato  e friggeteli nell’olio caldo per circa - minuti l’uno . Non è consigliabile friggere più di un pezzo per volta per evitare che la temperatura dell’olio si abbassi.Quando gli arancini saranno belli dorati, scolateli  e metteteli su un foglio di carta per fritti o carta assorbente per eliminare l’olio in eccesso . I vostri arancini agli spinaci sono pronti per essere gustati ancora caldi !
+
+## Descrizione
+Risultato finale: Gli arancini agli spinaci sono sferette di riso ripiene di spinaci, caciocavallo e prosciutto cotto che vengono poi fritte. Una volta pronti, avranno un guscio croccante dorato e un ripieno cremoso e saporito.
+
+Occasioni adatte: Questa ricetta è perfetta come antipasto in una cena o come finger food per un buffet. Può essere servita anche come piatto principale leggero, accompagnata da un'insalata fresca.
+
+Diete o regime alimentare: Gli arancini agli spinaci sono adatti a una dieta equilibrata e variegata. Non sono adatti a diete restrittive, come quelle low carb o gluten-free, a causa dell'uso di riso e farina di grano.
+
+Intolleranze: Le persone con intolleranza al lattosio possono evitare di grattugiare il parmigiano Reggiano o sostituirlo con un formaggio senza lattosio. Coloro che hanno intolleranza al glutine possono sostituire la farina di grano con una farina senza glutine.È importante verificare l'eventuale presenza di glutine nel prosciutto cotto, che potrebbe contenere additivi o farine di riempimento potenzialmente non idonee.  

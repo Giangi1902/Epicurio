@@ -1,0 +1,23 @@
+# Biscotti bustina di tè
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Zucchero a velo: 125 g
+- Tuorli: 2
+- Burro: 125 g
+- Sale fino: 1 pizzico
+- Cioccolato fondente: 100 g
+- Baccello di vaniglia: 1
+
+## Preparazione
+Per realizzare i biscotti bustina di tè iniziate preparando la pasta frolla: estraete il burro dal frigorifero e tenetelo a temperatura ambiente per circa  minuti per ammorbidirlo; procedete quindi mettendo in un mixer la farina e il burro tagliato a pezzetti . Frullate il tutto brevemente fino ad ottenere un composto dall’aspetto sabbioso e farinoso; trasferitelo in una terrina ed unite lo zucchero a velo setacciato , i semi di una bacca di vaniglia, due tuorli e un pizzico di sale .Amalgamate con le mani tutti gli ingredienti dapprima nella terrina , poi su una spianatoia infarinata lavorate il tutto fino ad ottenere un impasto compatto ed elastico. Non appena avrete raggiunto questo risultato, formate una palla , copritela bene con della pellicola e riponetela in frigorifero a riposare per circa mezz’ora .Trascorso il tempo indicato, estraete la frolla dal frigorifero e stendetela con un mattarello fino ad ottenere uno strato dello spessore di circa  mm . Con l’aiuto di un coltello ritagliate dei rettangoli di  cm x  cm, quindi smussateli su due angoli per creare la classica forma a bustina di tè . Trasferite le bustine su una leccarda coperta di carta da forno e, utilizzando uno stecco di legno, praticate un foro nella parte superiore di ogni bustina . Ponete ora a cuocere i biscotti per - minuti a ° in forno statico.Nel frattempo fate sciogliere a bagnomaria  gr di cioccolato fondente , mescolando continuamente per non formare grumi, poi trasferite il cioccolato fuso in una ciotolina. Una volta cotti i biscotti e lasciati completamente raffreddare, intingete la parte inferiore di ciascuna bustina nel cioccolato , ponete i biscotti su un foglio di carta da forno e lasciateli asciugare per - minuti. A questo punto preparate, per ogni biscotto, due piccole "etichette da tè" e un sottile spago da cucina (o un filo da cucito grosso) di circa  cm . Le etichette, di carta o cartoncino leggero, possono essere realizzate di svariate forme e decorate a piacere (secondo l'occasione per la quale vengono preparati questi biscotti): noi le abbiamo fatte esagonali e decorate con il logo di GialloZafferano...Quando il cioccolato dei biscotti sarà completamente asciutto, procedete alla decorazione finale: fate passare lo spago attraverso il foro praticato in precedenza e annodatene insieme le due estremità . Passate della colla stick sulla parte interna delle due etichette e unitele tra loro , dopo aver inserito al centro il cordoncino (avendo cura di lasciare all'esterno delle etichette il nodino). I vostri graziosi e fragranti biscotti bustina di tè sono pronti: stupirete i vostri ospiti accompagnandoli con dell'ottimo tè, per una merenda raffinata e originale .
+
+## Descrizione
+I biscotti bustina di tè saranno croccanti all'esterno e morbidi all'interno, con un delicato profumo di tè grazie alla presenza del baccello di vaniglia e del cioccolato fondente. Saranno dal sapore dolce ma non eccessivamente, perfetti da gustare con una tazza di tè caldo o da portare in ufficio come snack.
+
+Occasioni adatte: Colazione, merenda, pause caffè, feste di compleanno, regali homemade.
+
+Dieta: Adatti a una dieta equilibrata se consumati con moderazione, in quanto contengono zuccheri e burro. Possono essere consumati all'interno di una dieta bilanciata e varia, ma non adatti a diete ipocaloriche o povere di grassi.
+
+Intolleranze: Le persone con intolleranza al lattosio dovranno fare attenzione alla presenza del burro e potrebbero dover optare per alternative senza lattosio. Le persone con intolleranza al glutine dovranno sostituire la farina con una senza glutine per renderli adatti al consumo.

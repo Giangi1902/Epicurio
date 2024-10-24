@@ -1,0 +1,30 @@
+# Crostata con curd di limone e meringa
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero integrale di canna: (Muscovado) 60 g
+- Farina 00: 250 g
+- Burro: freddo di frigo 120 g
+- Uova: biologiche medie 1
+- Sale fino: 1 pizzico
+- Limoni: (succo e scorza) 3
+- Zucchero: 220 g
+- Burro: 100 g
+- Amido di mais (maizena): 30 g
+- Uova: 3
+- Tuorli: 2
+- Albumi: a temperatura ambiente 100 g
+- Acqua: 30 g
+- Zucchero: 200 g
+
+## Preparazione
+Per preparare la crostata con curd di limone e meringa cominciate occupandovi della pasta frolla. Nella planetaria in cui avrete inserito la frusta piatta unite il burro molto freddo a cubetti e la farina , azionate la frusta a velocità medio-bassa e fatela lavorare fino ad ottenere una sabbiatura abbastanza uniforme. Con la frusta ancora in azione, unite quindi lo zucchero muscovado  ed infine l’uovo  e il sale.Quando il composto appare uniforme  spegnete la frusta e rovesciate l’impasto sul piano da lavoro . Lavoratelo velocemente per ottenere una palla, e foderatela con pellicola trasparente . Ponete la frolla così ottenuta in frigo a rassodare per almeno  ora.Intanto, dedicatevi alla farcitura: il curd di limoni. Per prepararlo, lavate accuratamente i limoni e grattugiatene la scorza , prendendo solo la parte gialla e non quella bianca sottostante, che è amara. In un pentolino fate sciogliere il burro e unite lo zucchero . Spremete i limoni per ottenerne il succo e unite anch’esso nel pentolino, non appena lo zucchero risulta sciolto .A parte, in una ciotola, sbattete insieme le uova e l’amido  e, quando risultano una pastella liscia , versatela nel pentolino .Aggiungete anche la scorza  e fate addensare il vostri curd a fuoco dolce, mescolando spesso per evitare la formazione di grumi . Lasciate intiepidire. Recuperate quindi la frolla riposata dal frigo, infarinate leggermente la spianatoia e, con il mattarello, stendete la frolla allo spessore di circa mezzo cm .Disponete un foglio di carta da forno sulla leccarda, imburrate lo stampo quadrato da x cm, posizionatelo sulla leccarda foderata e adagiatevi all’interno la frolla , facendola aderire con cura. Con un coltellino eliminate gli eccessi di impasto dai bordi , quindi forellate la base della vostra crostata con i rebbi di una forchetta .Procedere quindi disponendo il necessario per la cottura alla cieca: foderate la crostata con carta da forno e riempitela con delle apposite sferette (se non ne avete, potete utilizzare a questo scopo del riso o dei legumi secchi) . Cuocete la crostata alla cieca per  minuti in forno statico preriscaldato a °, quindi rimuovete i pesi e la carta da forno e proseguite la cottura per altri  minuti. In totale la crostata dovrà cuocere  minuti. Una volta cotta, estraetela dal forno e lasciatela raffreddare completamente prima di sformarla . Versate al suo interno il curd ,livellandolo con l’aiuto di una spatola . Trasferite la crostata così farcita in frigo, a rassodare per almeno  ora . Dedicatevi quindi alla meringa all’italiana: ponete in un pentolino a fuoco dolce l’acqua e lo zucchero e procuratevi l’apposito termometro da cucina. Quando lo sciroppo ottenuto raggiunge i °  versate gli albumi a temperatura ambiente nella planetaria in cui avrete inserito la frusta a filo , e cominciate a montare a velocità media. Abbassate quindi la velocità della planetaria e aggiungete agli albumi seminontati metà dello sciroppo, che ormai avrà raggiunto i ° , aumentate nuovamente la velocità e aggiungete il restante sciroppo a filo. Proseguite a montare fino a quando la meringa non si sarà raffreddata.Alla fine, sollevando la frusta a filo, dovrete ottenere l classica punta . Inserite la meringa in una sac-à-poche con bocchetta liscia, recuperate dal frigo la crostata rassodata e cominciate a decorarne la superficie formando tanti piccoli ciuffi di meringa uno accanto all’altro . Infine, con l’apposito cannello da cucina, fiammeggiate la meringa , se non disponete di questo attrezzo potete passare la crostata in forno, con modalità grill, per qualche minuto fino a che i ciuffetti risulteranno ben dorati. La vostra crostata con curd di limone e meringa è pronta per entrare in scena!
+
+## Descrizione
+Il risultato finale della crostata con curd di limone e meringa sarà una crostata morbida e friabile, farcita con uno strato cremoso e acidulo di curd di limone e ricoperta da una golosa meringa croccante e dorata.
+
+Occasioni: Questa crostata è perfetta per occasioni speciali come compleanni, feste, brunch o semplicemente per un dolce da gustare durante una pausa relax.
+
+Dieta/Regime alimentare: La crostata con curd di limone e meringa è adatta a una dieta bilanciata se consumata con moderazione, in quanto è ricca di zuccheri e grassi. Non è adatta per diete ipocaloriche o basso contenuto di grassi.
+
+Intolleranze: Le persone con intolleranza al lattosio possono consumare questa ricetta sostituendo il burro con un burro senza lattosio e utilizzando un curd di limone senza lattosio. Le persone con intolleranza al glutine possono preparare la crostata con farina senza glutine. Le persone con intolleranza al tuorlo d'uovo possono evitare il consumo di questa ricetta o sostituire i tuorli con una quantità maggiore di albumi.

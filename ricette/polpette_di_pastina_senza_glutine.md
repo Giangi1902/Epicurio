@@ -1,0 +1,25 @@
+# Polpette di pastina senza glutine
+Categoria: Primi piatti
+
+## Ingredienti
+- Stelline Senza Glutine: 200 g
+- Brodo di carne: 1 l
+- Parmigiano Reggiano DOP: grattugiato 60 g
+- Granella di pistacchi: 50 g
+- Farina di mais: senza glutine 20 g
+- Uova: (circa 2) 110 g
+- Amido di mais (maizena): 20 g
+- Farina di mais: senza glutine 130 g
+- Olio di semi di arachide: 500 g
+
+## Preparazione
+Per preparare le polpette di stelline senza glutine iniziate a realizzare il brodo di carne. Mondate, tagliate le verdure e trasferitele in un tegame, unite anche la carne e coprite il tutto con  litri di acqua . Lasciate cuocere per due ore a fuoco medio-alto, aggiungete ancora  litro d'acqua e ultimate la cottura per un'ora a fuoco basso . A fine cottura filtrate il brodo e versatelo nuovamente nella pentola. Riportate a bollore, prendete la pasta e versate in tegame . Lasciate cuocere per cira  minuti , scolate e lasciate raffreddare .Versate quindi la pastina in una ciorola più grande, aggiungete le uova , il formaggio grattugiato  e mescolate il tutto. Unite anche la granella di pistacchi la farina di mais  e la maizena . Amalgamate gli ingredienti fino ad ottenere un composto uniforme e con un cucchiaio prelevate circa  gr di impasto , con le mani umide cercate di ottenere il più possibile una forma sferica pressando delicatamente l'impasto.Man mano che realizzate le polpette posizionatele su un vassoio foderato di carta forno , quindi passatele nella farina di mais e adagiatele nuovamente su un altro vassoio, sempre foderato con carta forno . Versate l'olio di semi in un tegame e portatelo a raggiungere la temperatura di ° (in questa fase utilizzate un termometro da cucina per misurare la temperatura esatta). Solo quando l'olio sarà caldo immergete - polpettine per volta e friggetele per - minuti fino a che risulteranno ben dorate, solo allora potrete scolarle . Continuate a friggere le polpette in questo modo posizionandole di volta in volta su un vassoio foderato con carta da cucina, che servirà ad assorbire l'olio in eccesso . Una volta cotte, servite le vostre polpette di pastina senza glutine ancora calde !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà delle deliziose polpette di pastina senza glutine, croccanti fuori e morbide dentro, ricche di sapore grazie al parmigiano e alla granella di pistacchi.
+
+Occasioni adatte: Queste polpette sono perfette per un pranzo o una cena leggera, ma anche per un aperitivo o un buffet.
+
+Dieta/Regime alimentare: Questa ricetta è adatta per persone celiache, in quanto priva di glutine. È inoltre adatta per persone che seguono una dieta senza glutine per motivi di salute o personali.
+
+Intolleranze: Le polpette di pastina senza glutine sono adatte anche per persone con intolleranza al glutine, ma è sempre consigliabile verificare l'assenza di contaminazioni crociate durante la preparazione. Le persone con intolleranza al lattosio possono sostituire il parmigiano con un formaggio senza lattosio, mentre le persone con intolleranza ai pistacchi possono omettere la granella di pistacchi.

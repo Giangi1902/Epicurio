@@ -1,0 +1,28 @@
+# Orata affumicata su misticanza, crostini e vinaigrette al miele
+Categoria: Secondi piatti
+
+## Ingredienti
+- Orata: (filetti affumicati) 200 g
+- Rucola: 100 g
+- Insalata misticanza: 100 g
+- Pane: 120 g
+- Olio extravergine d'oliva: 15 g
+- Olio extravergine d'oliva: 50 g
+- Aceto di mele: 25 g
+- Miele di acacia: 1 cucchiaino
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pomodorini: 200 g
+- Olive nere: (denocciolate) 30 g
+
+## Preparazione
+Per preparare l’orata affumicata su misticanza e vinaigrette al miele, cominciate dalla tostatura del pane: tagliate il pane  fino a ridurlo in tocchetti di circa , cm , poi disponetelo su una leccarda foderata con carta forno ,cospargetelo d’olio  e lasciatelo dorare in forno statico preriscaldato a ° per - minuti (oppure in forno ventilato a ° per - minuti). Nel frattempo, preparate la vinaigrette al miele: in una ciotola versate l’olio , poi aggiungete l’aceto di mele ,quindi unite il miele d'acacia , il sale , il pepe ,ed emulsionate il tutto mescolando con una forchetta . A questo punto la vostra vinaigrette al miele sarà pronta . Prendete quindi i filetti di orata affumicata, divideteli in due  e teneteli da parte.Diisponete su un piatto da portata il letto di rucola e insalata, aggiungete i pomodorini tagliati , i crostini , i filetti di orata affumicata .In ultimo aggiungete le olive nere  e irrorate il tutto con la vinaigrette al miele . La vostra orata affumicata su misticanza, crostini e vinaigrette al miele è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale di questa ricetta è un piatto elegante e raffinato, con un mix di sapori intensi e contrastanti. I filetti di orata affumicata si abbinano perfettamente alla freschezza della misticanza e della rucola, mentre i crostini croccanti aggiungono una nota di consistenza. La vinaigrette al miele conferisce al piatto un tocco dolce e aromatico, che bilancia alla perfezione il sapore deciso dei pomodorini e delle olive nere.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o pranzi importanti. Grazie alla varietà di ingredienti e alla presentazione curata, può essere servito come secondo piatto in un menu completo.
+
+Questa ricetta è adatta a una dieta mediterranea e a chi segue un regime alimentare equilibrato. Gli ingredienti utilizzati sono freschi e sani, e il piatto risulta leggero ma soddisfacente.
+
+Le persone con intolleranze alimentari possono consumare questa ricetta facendo delle modifiche. In particolare, coloro che soffrono di intolleranza al glutine possono sostituire i crostini con del pane senza glutine. Per quanto riguarda le intolleranze al lattosio, è possibile escludere i formaggi dalla misticanza o utilizzare una versione senza lattosio. Infine, le persone con intolleranza al solfites dovrebbero prestare attenzione agli ingredienti affumicati come la orata.

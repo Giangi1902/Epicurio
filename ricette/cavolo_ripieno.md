@@ -1,0 +1,28 @@
+# Cavolo ripieno
+Categoria: Secondi piatti
+
+## Ingredienti
+- Verza: 1
+- Carne bovina: di vitello tritata 400 g
+- Uova: 1
+- Pangrattato: 2 cucchiai
+- Latte intero: 100 ml
+- Vino bianco: 100 ml
+- Cipolle dorate: 1
+- Brodo vegetale: 300 ml
+- Alloro: 1 foglia
+- Pepe nero in grani: 4
+- Sale fino: 2 cucchiaini
+- Maionese: 150 ml
+
+## Preparazione
+Tagliate leggermente la base del cavolo per far si che rimanga in piedi. Aprite piano piano le foglie cercando di non romperle; basta un piccolo spazio, nel quale successivamente metterete il ripieno. In una ciotola, sbattete l’uovo con il vino, il sale ed il pan grattato; aggiungete il latte e la carne trita e mescolate bene.Farcite le foglie del cavolo con la carne. E’ possibile legare il cavolo per evitare che si apra durante la cottura. Mettete nella pentola il brodo vegetale, l’alloro, il pepe e la cipolla tagliata a spicchi. Sistemate il cavolo dentro la pentola. Cuocete per mezz’ora da quando il vapore comincia a fuoriuscire. Il tempo di cottura con la pentola a pressione dipende da ogni tipo di pentola. Controllate la cottura incidendo un coltello nel centro; il cavolo sarà pronto quando sarà morbido dentro; Tirate fuori il cavolo dalla pentola e tenetelo al caldo. Portate ad ebollizione la salsa e fatela ridurre di ¼. Servite il cavolo caldo, tagliato a fettine decorato con un cucchiaio di maionese e la salsa.
+
+## Descrizione
+- Risultato finale: Il risultato finale sarà un cavolo ripieno dal sapore intenso e piacevolmente avvolgente. La verza, farcita con una gustosa miscela di carne bovina di vitello tritata, uova, pangrattato e aromi, sarà cotta al forno e accompagnata da una deliziosa salsa maionese.
+
+- Occasioni adatte: Il cavolo ripieno è perfetto per una cena speciale o un pranzo domenicale in famiglia. Può essere servito come piatto principale in un pranzo a base di carne o come piatto unico in un menu vegetariano. 
+
+- Diete o regimi alimentari adatti: Questa ricetta può essere consumata sia da persone che seguono una dieta normale che da coloro che seguono una dieta proteica o senza glutine. Tuttavia, non è adatta a diete vegetariane o vegane in quanto contiene carne bovina.
+
+- Intolleranze alimentari: Le persone con intolleranze al lattosio possono provare a sostituire il latte intero con una bevanda vegetale senza lattosio. Le intolleranze al glutine sono facilmente gestibili, in quanto la ricetta non contiene glutine. Tuttavia, le persone con intolleranza alla carne bovina dovranno evitare di consumare questa ricetta o sostituire la carne bovina tritata con un'altra fonte di proteine.

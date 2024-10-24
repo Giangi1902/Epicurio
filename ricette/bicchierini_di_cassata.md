@@ -1,0 +1,28 @@
+# Bicchierini di cassata
+Categoria: Dolci
+
+## Ingredienti
+- Uova: (medie) 2
+- Farina 00: 40 g
+- Zucchero: 60 g
+- Miele: 5 g
+- Baccello di vaniglia: ½
+- Ricotta: 300 g
+- Latte condensato: 100 g
+- Gocce di cioccolato fondente: 50 g
+- Frutta candita: (arance , cedro, pera, ciliegine) q.b.
+
+## Preparazione
+Per preparare i bicchierini di cassata cominciate con la preparazione della pasta biscotto. Prendete le uova a temperatura ambiente, rompetele e versatele nella planetaria . Aggiungete quindi alle uova il miele  ed i semi della bacca di vaniglia .Versatevi ora lo zucchero piano piano  e montate finché l’impasto non diventa chiaro e spumoso . Dopo circa  minuti otterrete la consistenza desiderata. Setacciate a questo punto la farina ed incorporate delicatamente l’impasto precedentemente ottenuto facendo molta attenzione a non smontare l’impasto .Quindi prendete una teglia da  cm e rivestitela con carta forno. Versate all’interno della teglia rivestita il composto  e livellate bene affinché risulti uniforme e la cottura in forno sia omogenea. Infornate la teglia a forno statico preriscaldato a ° per circa  minuti. Il composto a fine cottura otterrà una colorazione dorata . Mentre la pasta biscotto sta cuocendo in forno procedete con la preparazione della crema per i vostri bicchierini di cassata. Setacciate la ricotta per renderla ancora più soffice e cremosa .Unite alla ricotta setacciata il latte condensato  e mescolate fino ad ottenere un composto omogeneo. Aggiungete a questo composto le gocce di cioccolato  ed amalgamate gli ingredienti. La crema per i vostri bicchierini è pronta. Trascorso il tempo di cottura della pasta biscotto, toglietela dal forno e lasciatela raffreddare. Quando raggiungerà la temperatura ambiente prendete un coppa pasta dal diametro di  cm (per i dischetti del fondo del bicchierino) ed uno da  cm (per i dischetti mediani del bicchierino) . Vi avanzerà una piccola parte della pasta biscotto. Coppate ora la pasta biscotto ottenendo tanti dischetti quanti sono i bicchierini.Ora passate alla composizione dei bicchierini. Prendete i bicchierini e adagiate sul fondo la pasta biscotto dal diametro di  cm . Con una sac-à-poche versate la crema di ricotta e latte condensato precedentemente preparata . Prendete ora i canditi e tagliateli a piccoli pezzetti .Aggiungete i canditi tagliati aiutandovi con delle pinzette  e sopra a questi aggiungete un dischetto da  cm di pasta biscotto . Nuovamente con la sac-à-poche farcite con la crema di ricotta e latte condensato, poi con i canditi. I bicchierini di cassata saranno pronti da gustare !
+
+## Descrizione
+Il risultato finale dei bicchierini di cassata sarà un dolce fresco e colorato, con strati di crema di ricotta e cioccolato fondente alternati a cubetti di frutta candita.
+
+Per quali occasioni è adatto:
+I bicchierini di cassata sono perfetti per occasioni speciali come feste di compleanno, pranzi di Pasqua o per concludere un pasto importante con un tocco dolce e raffinato.
+
+Per quali diete o regime alimentare sono adatte:
+Questa ricetta non è adatta per diete ipocaloriche o per chi segue un regime alimentare particolarmente restrittivo, a causa dell'alto contenuto di zuccheri e grassi. Tuttavia, può essere consumata occasionalmente come dolce da gustare con moderazione.
+
+Intolleranze:
+Le persone con intolleranze al lattosio potrebbero avere difficoltà a digerire il latte condensato e la ricotta presenti nella ricetta. Inoltre, chi è intollerante al glutine dovrebbe evitare i biscotti al cioccolato che spesso vengono utilizzati per la base dei bicchierini. Si consiglia quindi di trovare alternative senza lattosio e gluten-free per adattare la ricetta alle esigenze specifiche di chi ha queste intolleranze.

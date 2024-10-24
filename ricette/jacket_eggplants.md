@@ -1,0 +1,23 @@
+# Jacket eggplants
+Categoria: Secondi piatti
+
+## Ingredienti
+- Melanzane: piccole 4
+- Zucchine: medie 2
+- Pomodorini ciliegino: 120 g
+- Caciocavallo: 200 g
+- Menta: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le jacket eggplants, per prima cosa lavate e asciugate accuratamente le melanzane . Sovrapponete un foglio di carta forno a un foglio di alluminio e avvolgete singolarmente ogni melanzana  così da ottenere un cartoccio ben sigillato. Disponete i cartocci su una teglia  e cuocete in forno ventilato preriscaldato a ° per circa un’ora.Nel frattempo preparate gli ingredienti per il ripieno: grattugiate il caciocavallo con una grattugia a fori larghi  e tenete da parte. Lavate le zucchine e grattugiate anch’esse con una grattugia a maglie larghe , poi trasferitele in un colino, salate leggermente  e lasciate scolare in modo che perdano l’acqua di vegetazione.Fate la stessa cosa anche con i pomodorini, che avrete lavato e tagliato a dadini : sistemateli in un colino, salate leggermente  e lasciate scolare. Verso la fine del tempo di cottura delle melanzane, trasferite le zucchine scolate in una ciotola, unite circa due terzi del caciocavallo grattugiato  e mescolate.A questo punto sfornate le melanzane, aprite il cartoccio e incidete la melanzana per il lungo, poi rimuovete uno spicchio di polpa per fare posto al ripieno . Farcite le melanzane con il mix di zucchine e caciocavallo  e i pomodori scolati .In ultimo distribuite il caciocavallo rimasto  e aggiungete una macinata di pepe , poi infornate nuovamente in modalità grill a ° per - minuti per far sciogliere il formaggio e gratinare la superficie. Una volta cotte, guarnite con qualche fogliolina di menta e gustate le vostre jacket eggplants !
+
+## Descrizione
+Il risultato finale della ricetta "Jacket eggplants" sarà un piatto colorato e gustoso, ideale per un pranzo o una cena leggera ma sfiziosa. Le melanzane e le zucchine farcite con pomodorini, caciocavallo e menta saranno cotte al forno fino a risultare morbide e saporite.
+
+Questa ricetta è adatta per occasioni informali come un pranzo in famiglia o una cena tra amici. Può essere servita sia calda che fredda ed è ottima da gustare anche in versione vegetariana.
+
+La ricetta "Jacket eggplants" è adatta a una dieta equilibrata e può essere inclusa in un regime alimentare sano e controllato. È una ricetta leggera e ricca di fibre e vitamine grazie alle verdure utilizzate.
+
+Le persone con intolleranze alimentari possono consumare questa ricetta se sostituiscono il formaggio caciocavallo con una versione senza lattosio per intolleranti al lattosio, o con formaggio vegano per intolleranti al lattosio e al latte. Può essere consumata anche da persone con intolleranza al glutine se assicurandosi che gli ingredienti utilizzati siano privi di glutine.

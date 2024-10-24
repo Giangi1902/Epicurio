@@ -1,0 +1,37 @@
+# Nidi di funghi, crema di zucca e mozzarella
+Categoria: Primi piatti
+
+## Ingredienti
+- Latte intero: 250 g
+- Farina 00: 125 g
+- Uova: (circa 1,5) 80 g
+- Burro: 20 g
+- Sale fino: 1 pizzico
+- Zucca delica: (già pulita) 550 g
+- Latte intero: 100 g
+- Acqua: 100 g
+- Aglio: 1 spicchio
+- Rosmarino: 1 rametto
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Funghi secchi: porcini 40 g
+- Aglio: 1 spicchio
+- Prezzemolo: (da tritare) q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Mozzarelline ciliegine: 20
+- Grana Padano DOP: (da grattugiare) q.b.
+- Burro: per la crepiera q.b.
+- Olio extravergine d'oliva: per la teglia q.b.
+
+## Preparazione
+Per realizzare i nidi di funghi, crema di zucca e mozzarella per prima cosa mettete in ammollo i funghi secchi in acqua fredda . Nel frattempo preparate l’impasto per le crespelle: fate sciogliere il burro in un pentolino  e lasciate intiepidire. In una ciotola sbattete le uova con una frusta, poi versate il latte  e mescolate nuovamente.Aggiungete il burro fuso nel composto  e un pizzico di sale. Amalgamate il tutto e unite anche la farina setacciata . Mescolate fino ad ottenere un composto liscio e omogeneo . Coprite la ciotola con pellicola e lasciate riposare in frigorifero per almeno  minuti.Passate alla crema di zucca: pulite la zucca e tagliate la polpa a cubetti irregolari . In una pentola scaldate l’olio con il rosmarino e uno spicchio di aglio in camicia , poi aggiungete i cubetti di zucca .Salate , pepate e versate l’acqua , poi coprite con un coperchio e cuocete a fuoco dolce per circa  minuti, mescolando spesso .Mentre la zucca cuoce scolate i funghi, filtrate l’acqua di ammollo e tenetela da parte. In una padella fate insaporire un giro d’olio con uno spicchio di aglio in camicia , poi aggiungete i funghi  e circa  g della loro acqua .Cuocete a fiamma media per circa  minuti , dopodiché eliminate l’aglio  e aromatizzate con il prezzemolo tritato . Tenete i funghi da parte.A questo punto la zucca sarà cotta, quindi spegnete il fuoco ed eliminate l’aglio e il rosmarino , poi aggiungete il latte  e mescolate bene fino ad ottenere una crema .Ora potete cuocere le crespelle: mettete sul fuoco una padella per crepe (o una padella antiaderente) del diametro di  cm e ungetela con poco burro, poi versate al centro un mestolo del composto  e ruotate la padella per distribuirlo uniformemente (oppure utilizzate l’apposita spatola). Dopo circa un minuto a fuoco medio-basso i bordi inizieranno a staccarsi , quindi girate la crespella e cuocetela per un minuto anche dall’altro lato, dovrà risultare leggermente dorata . Procedete in questo modo fino a terminare tutto l’impasto, impilando man mano le crespelle su un piatto.Siete pronti per assemblare il piatto: spalmate ciascuna crespella con la crema di zucca , aggiungete qualche fungo  e arrotolatela .Rifilate i bordi del rotolo e dividetelo in parti della larghezza di circa  cm ; con queste dosi otterrete circa  pezzi. Sistemate le girelle ottenute in una pirofila precedentemente unta con l’olio, disponendole in piedi una accanto all’altra . Infine aggiungete una mozzarellina in cima a ogni nido .Condite la superficie con un filo di olio  e spolverizzate con il Grana Padano DOP grattugiato . Cuocete in forno statico preriscaldato a ° per  minuti, poi passate in modalità grill a ° per altri - minuti. I vostri nidi di funghi, crema di zucca e mozzarella sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta saranno dei deliziosi nidi di pasta con crema di zucca e funghi porcini, arricchiti con mozzarella e grana padano. I nidi saranno croccanti fuori e morbidi dentro, grazie alla crema di zucca, mentre i funghi porcini daranno un sapore intenso e ricco al piatto. La mozzarella ciliegina aggiungerà una nota cremosa e filante.
+
+Questo piatto è perfetto per occasioni speciali o cene eleganti, grazie alla presentazione raffinata e ai sapori equilibrati. È adatto a chi segue una dieta bilanciata e gustosa, in quanto contiene ingredienti nutrienti e ricchi di sapori. È adatto anche a vegetariani, purché si utilizzi formaggio vegetariano.
+
+Le persone con intolleranze al lattosio dovrebbero fare attenzione all'uso di latte, burro, mozzarella e grana padano, e potrebbero sostituire questi ingredienti con alternative senza lattosio. Le persone celiache possono utilizzare ingredienti senza glutine per adattare la ricetta alle loro esigenze. Per chi soffre di intolleranze ai funghi, è possibile sostituire i porcini con altri tipi di funghi o verdure a piacere.

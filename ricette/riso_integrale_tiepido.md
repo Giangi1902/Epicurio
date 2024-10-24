@@ -1,0 +1,27 @@
+# Riso integrale tiepido
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso integrale: 280 g
+- Gamberi: 12
+- Porri: 1
+- Aceto di vino bianco: 5 g
+- Salsa di soia: 15 g
+- Mandorle pelate: 20 g
+- Zucchero di canna: 10 g
+- Pepe nero: q.b.
+- Semi di sesamo nero: q.b.
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare il riso integrale tiepido, affettate sottilmente, circa  mm, il porro eliminando l’estremità con le radici . Versate un filo di olio in una padella, aggiungete il porro facendo attenzione a non sovrapporre le fette. Salate  e pepate.Aggiungete lo zucchero di canna  ed il pepe. Lasciar cuocere a fuoco vivace per circa  min, girandolo di tanto in tanto sino a doratura, se necessario allungare un pochino con acqua calda . Nel frattempo versate il riso in acqua bollente salata e cuocete per  minuti . Una volta cotto , trasferite il porro in una ciotola  e tenetelo da parte. Staccate la testa dei gamberi .Eliminate il carapace . Nella stessa padella in cui avete cotto il porro, versate un filo di olio  ed aggiungete i gamberi precedentemente sgusciati . Cuocere a fuoco vivace  minuto per lato. Aggiungete la salsa di soia  e cuocete per un paio di minuti. Traferite i gamberi in una pirofila  e tenete da parte. Scolate il riso giunto a cottura .Saltate le mandorle intere in padella  sino a doratura e poi tritatele grossolanamentee . Trasferite il riso intiepidito in una ciotola ampia, condite con olio .Un iye anche il porro , le mandorle tritate  ed il sesamo nero .Mescolate il tutto. Impiattate utilizzando un anello da  cm e pressando leggermente il riso all’interno . Ultimate il piatto con i gamberi saltati alla soia  ed un filo di olio a crudo .
+
+## Descrizione
+Il risultato finale della ricetta "Riso integrale tiepido" sarà un piatto dal sapore delicato e ricco, grazie alla combinazione di riso integrale, gamberi e porri, arricchito da una salsa agrodolce a base di aceto, zucchero di canna e salsa di soia. Le mandorle pelate conferiranno una nota croccante e le spezie come il pepe nero e i semi di sesamo nero aggiungeranno profondità al piatto.
+
+Questa pietanza è adatta per occasioni informali ma sofisticate, ideale come primo piatto in una cena tra amici o in una festa in giardino. Può essere servita tiepida o fredda a seconda dei gusti.
+
+La ricetta del "Riso integrale tiepido" è adatta a chi segue una dieta sana ed equilibrata, grazie alla presenza del riso integrale, una fonte di fibre e sali minerali, e dei gamberi, ricchi di proteine magre. Le mandorle e l'olio extravergine di oliva apportano grassi insaturi benefici per il cuore.
+
+Le persone con intolleranze alimentari possono tranquillamente consumare questa ricetta, fatta eccezione per chi è allergico ai crostacei (gambe). È consigliabile evitare il consumo in caso di intolleranza al glutine, poiché il riso integrale contiene glutine.

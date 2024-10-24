@@ -1,0 +1,32 @@
+# Cornetti integrali al miele
+Categoria: Lievitati
+
+## Ingredienti
+- Farina integrale: 150 g
+- Farina Manitoba: (tipo 1) 350 g
+- Acqua: a temperatura ambiente 225 g
+- Uova: (circa 1 medio) 55 g
+- Zucchero di canna: 50 g
+- Burro: (morbido) 40 g
+- Lievito di birra fresco: 12 g
+- Miele di acacia: 10 g
+- Sale fino: 1 pizzico
+- Burro: freddo 250 g
+- Tuorli: 1
+- Panna fresca liquida: 30 g
+- Miele di acacia: 100 g
+- Acqua: 100 g
+- Miele di tiglio: 120 g
+- Polline: in grani q.b.
+
+## Preparazione
+Per realizzare i cornetti integrali al miele cominciate dall’impasto. Il burro da aggiungere all'impasto dovrà essere morbido, per cui assicuratevi di tirarlo fuori dal frigo almeno un'ora prima se non di più. In una ciotola unite la farina manitoba tipo  e la farina integrale in una ciotola , lo zucchero di canna  e il lievito di birra .Versate l’acqua a temperatura ambiente  e iniziate a impastare con le mani fino al completo assorbimento della farina , poi aggiungete l’uovo .Unite anche il miele  e continuate a impastare. Quando l’uovo e il miele saranno ben assorbiti, aggiungete il sale  e lavorate ancora per un paio di minuti , fino a completo assorbimento.A questo punto unite il burro morbido, un pezzetto per volta , assicurandovi sempre che sia stato assorbito prima di aggiungere quello successivo . Coprite la ciotola con pellicola  e lasciate lievitare per circa  minuti, comunque fino al raddoppio del volume. Le tempistiche possono sempre variare in base alla temperatura o alle stagioni. Nel frattempo preparate il burro per la sfogliatura: togliete il burro dal frigo e lasciatelo a temperatura ambiente per  minuti, poi posizionatelo al centro di un quadrato di carta forno di x cm (-). Stendete il burro con il mattarello fino a uno spessore di circa mezzo centimetro . Lasciate la sfoglia di burro in frigorifero fino al momento di utilizzarla.Trascorso il tempo di lievitazione , stendete l’impasto sul piano di lavoro leggermente infarinato  per ottenere un quadrato di x cm .Disponete la sfoglia di burro al centro del quadrato in modo da formare un rombo , rimuovendo la carta forno. Ripiegate gli angoli del quadrato sottostante verso il centro della sfoglia di burro , avendo cura di congiungere i lembi senza sovrapporli. Sigillate premendo con le dita  e lasciate riposare in frigorifero per - minuti.Trascorso questo tempo posizionate il quadrato ottenuto sul piano di lavoro leggermente infarinato e stendetelo con il mattarello allungando uno solo dei lati fino ad ottenere un rettangolo di x cm . Procedete con la prima piega a : ripiegate il lembo inferiore fino a un terzo del rettangolo , poi sovrapponete il lembo superiore . Coprite il panetto così ottenuto con pellicola e lasciate riposare in frigorifero per almeno  minuti.Trascorso questo tempo stendete nuovamente il panetto per ottenere un rettangolo delle stesse dimensioni di quello precedente . Procedete con la seconda piega a  ripiegando il lembo inferiore  e quello superiore . Avvolgete il panetto nella pellicola e mettete a riposare in frigorifero per altri  minuti.Trascorso questo tempo, procedete con la terza e ultima piega a : stendete nuovamente il panetto per formare un rettangolo della stessa dimensione , ripiegate il lembo superiore  e quello inferiore, coprite con pellicola  e mettete a riposare in frigorifero, questa volta per circa  minuti.Trascorso questo tempo stendete il panetto per ottenere un rettangolo di x cm con uno spessore di circa mezzo centimetro  e ricavate dei triangoli con base di  cm e altezza di  cm . Arrotolate ogni triangolo partendo dalla base fino a formare  giri completi, facendo attenzione a non schiacciare o stringere troppo l’impasto .Disponete i cornetti così formati su una leccarda foderata con carta forno, distanziandoli bene fra loro; otterrete quindi  cornetti da  spire l’uno . Lasciate lievitare per un’ora a temperatura ambiente al riparo da correnti d'aria. Una volta lievitati, spennellate i cornetti con il composto di tuorlo e panna  e cuocete in forno ventilato preriscaldato a ° per  minuti, avendo cura di non aprire mai il forno e monitorare la cottura. Quando saranno belli dorati, sfornate e lasciate raffreddare .Nel frattempo preparate lo sciroppo di miele: versate l’acqua e il miele in un pentolino  e portate a bollore , poi spegnete il fuoco e lasciate intiepidire .Spennellate i cornetti con lo sciroppo  e farciteli con il miele di tiglio utilizzando una siringa per dolci . Guarnite con il polline in grani e i vostri cornetti integrali al miele sono pronti da gustare !
+
+## Descrizione
+Il risultato finale della ricetta dei cornetti integrali al miele sarà un dolce lievitato, leggermente dolce e profumato grazie al miele. I cornetti saranno dorati e croccanti all'esterno, morbidi e fragranti all'interno, con un cuore di miele che li rende irresistibili.
+
+Occasioni adatte: i cornetti integrali al miele sono ideali per la colazione, la merenda o come dolce da servire durante una pausa caffè. Sono perfetti da gustare da soli o accompagnati da una tazza di caffè o tè.
+
+Dieta/Regime alimentare: i cornetti integrali al miele sono adatti a una dieta equilibrata e varia. Grazie alla presenza della farina integrale e del miele, sono particolarmente indicati per chi segue una dieta ricca di fibre e naturalmente dolce. Possono essere consumati occasionalmente anche da chi segue una dieta controllata se inseriti all'interno del proprio fabbisogno calorico giornaliero.
+
+Intolleranze: le persone con intolleranza al glutine non possono consumare i cornetti integrali al miele poiché contengono farina di grano. Tuttavia, è possibile preparare una versione senza glutine utilizzando farina senza glutine. Le persone con intolleranza al lattosio devono fare attenzione al burro e alla panna fresca liquida presenti nella ricetta, ma è possibile sostituirli con alternative senza lattosio. È consigliabile verificare la presenza di allergie al polline nel caso l'intolleranza sia grave.

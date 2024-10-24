@@ -1,0 +1,18 @@
+# Millefoglie taleggio, salmone e rucola
+Categoria: Antipasti
+
+## Ingredienti
+- Taleggio: D.O.P. 200 g
+- Pasta Sfoglia: rettangolare 230 g
+- Salmone affumicato: 100 g
+- Rucola: 65 g
+
+## Preparazione
+Per preparare la millefoglie taleggio, tagliate il Taleggio D.O.P. in  fette . Stendete la sfoglia e dividetela in  parti uguali. Bucherellate la superficie con i rebbi di una forchetta (così in cottura non si gonfierà) e ponete sulla teglia da forno rivestita con carta forno . Adagiate le fette di taleggio sulle sfogliette . Cuocete in forno statico preriscaldato a ° per circa  minuti.Una volta pronte, sfornate  e alternate gli strati a formare la millefoglie: adagiate su un rettangolo di sfoglia - fettine di salmone affumicato , della rucola precedentemente lavata e asciugata accuratamente, poi ancora un rettangolo di sfoglia e così via fino ad esaurire gli ingredienti terminando con la sfoglia . La millefoglie taleggio, salmone e rucola è pronta per essere servita.
+
+## Descrizione
+Il risultato finale della ricetta "Millefoglie taleggio, salmone e rucola" sarà un antipasto sfizioso e raffinato, perfetto per occasioni speciali come cene eleganti o feste.
+
+Questa ricetta è adatta per chi segue una dieta lacto-ovo vegetariana, in quanto contiene formaggio ma non carne. È inoltre adatta per chi segue una dieta ricca di proteine, grazie al salmone affumicato, e per chi cerca un antipasto leggero ma gustoso.
+
+Le persone con intolleranza al lattosio possono mangiare questa ricetta scegliendo formaggio senza lattosio al posto del Taleggio. Le persone con intolleranza al glutine devono assicurarsi di utilizzare una pasta sfoglia senza glutine. Non dovrebbero esserci problemi per le persone con intolleranze al pesce o alla verdura.

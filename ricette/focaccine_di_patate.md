@@ -1,0 +1,26 @@
+# Focaccine di patate
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 0: 150 g
+- Semola: 150 g
+- Patate: 100 g
+- Acqua: tiepida 200 ml
+- Olio extravergine d'oliva: 20 ml
+- Lievito di birra secco: 5 g
+- Sale fino: ½ cucchiaino
+- Rosmarino: 1 rametto
+- Olio extravergine d'oliva: q.b.
+- Sale grosso: q.b.
+
+## Preparazione
+Per realizzare le focaccine di patate iniziate setacciando in una ciotola larga la farina di semola e la farina  . Mettete la patata a bollire in abbondante acqua , Quando sarà ben tenera (ci vorranno circa  minuti, in alternativa potete bollirla con pentola a pressione per dimezzare i tempi), sbucciatela  e lasciate intipiedire.Una volta intiepidita, schiacciatela con uno schiacciapatate e raccogliete la purea nella ciotola con le farine . Sciogliete il lievito di birra disidratato (oppure  g di lievito di birra fresco) in circa  ml di acqua tiepida  e poi unite la miscela all’impasto .Versate a filo l’olio di oliva  e iniziate ad impastare gli ingredienti con le mani. Versate il sale nei restanti  ml di acqua tiepida, mescolate con un cucchiaio per scioglierlo e poi incorporate anche l’acqua e sale all’impasto . Continuate ad impastare per raccogliere gli ingredienti fino ad ottenere un composto omogeno, abbastanza morbido e umido, non preoccupatevi se risulterà un po’ appiccicoso, coprite l’impasto con la pellicola trasparente  lasciate lievitare per  ore a temperatura ambiente, o in un ambiente tiepido (°-°).Trascorso il tempo di riposo la pasta avrà raddoppiato il suo volume , trasferitela su una spianatoia infarinata e lavoratela a mano con l'apposita spatola per impasti , iniziate a stendere con le mani l'impasto, potete infarinarvi le mani per stendere meglio l'impasto se risulta appiccicoso, procedete poi con il mattarello stendendo una sfoglia alta circa  cm poi con un coppapasta dal diametro di  cm ricavate le focaccine , con le dosi indicate otterrete circa  focaccine. Ponetele su una leccarda foderata di carta forno e lasciatele lievitare ancora per  minuti. Intanto tritate finemente il rosmarino   ponetelo in una ciotola e incorporate l'olio di oliva  per creare un emulsione aromatizzata che servirà per insaporire le focaccine.Trascorsa l'ultima lievitazione, schiacciate le focaccine al centro per formare il bordo e spennellate l’emulsione di olio aromatizzato con il rosmarino sulla superficie . Procedete con la cottura: cuocete le focaccine in forno statico preriscaldato a ° per  minuti (oppure in forno ventilato a ° per circa  minuti). A cottura ultimata insaporite ancora le vostre focaccine con un filo di olio di oliva  e qualche granello di sale grosso . Le focaccine di patate sono finalmente pronte per essere divorate!
+
+## Descrizione
+Il risultato finale sarà delle focaccine fragranti e leggere, arricchite dal gusto delle patate e del rosmarino.
+
+Le focaccine di patate sono adatte per un aperitivo tra amici o come accompagnamento a un piatto di carne o formaggi.
+
+Sono adatte per una dieta vegetariana, ma anche per una dieta senza lattosio se si utilizza olio al posto del burro per ungere le focaccine.
+
+Le persone con intolleranze al glutine non possono mangiare questa ricetta, a meno che non sostituiscano la farina con una senza glutine. Le persone con intolleranza al lattosio possono consumare la ricetta se si utilizza olio al posto del burro.

@@ -1,0 +1,30 @@
+# Filetto di maiale alle amarene con crema di patate
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di maiale: 300 g
+- Vino bianco: 80 g
+- Amarene con sciroppo: (16 amarene e il loro sciroppo) 150 g
+- Acqua: 30 g
+- Salvia: 8 foglie
+- Rosmarino: 2 rametti
+- Timo: 1 rametto
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: q.b.
+- Sale: aromatizzato alle erbe q.b.
+- Patate: 280 g
+- Latte intero: 100 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il filetto di maiale alle amarene con crema di patate potete iniziare da quest'utlima. Lavate e lessate una patata ; non appena raggiunge il bollore lasciate cuocere dai  ai  minuti a seconda della grandezza: ricordate di fare la prova con una forchetta, quando i rebbi entreranno facilmente al cuore allora sarà pronta. Quando sarà pronta dovrete sbucciarla da calda e schiacciarla . Quindi potrete unire il latte ,salare e pepare  e mescolare con un cucchiaio . Per rendere poi la crema ancora più vellutata potrete frullare il tutto con frullatore a immersione .Mentre si cuociono le patate potrete già occuparvi del filetto di maiale. Calcolate bene i tempi in modo da poter impiattare sia la carne che la crema di patate ben caldi: eliminate il grasso e i tessuti in eccesso , ricavate  pezzi grossi circa  cm ciascuno . Quindi sistemate due foglie di salvia su ciascun filetto e legate con dello spago da cucina . Passate alla cottura: mettete un pentolino sul fuoco e scaldate un filo d’olio, lo spicchio d’aglio in camicia e i rametti di timo e rosmarino . Non appena il fondo è ben caldo sistemate i filetti di carne. Non appena avrà preso un bel colore, circa  minuto dopo, girate i pezzi sull’altro lato aiutandovi con le pinze  in modo da non forare la carne. Cuocete per lo stesso tempo.Salate , sfumate con il vino bianco , lasciate evaporare l’alcol e poi chiudete con il coperchio .Dopo circa - minuti di cottura, in cui la carne si sarà intenerita diventando succosa e rosata, potrete togliere il coperchio e rimuovere l’aglio e le erbe aromatiche . Quindi versate le amarene con il loro sciroppo , l’acqua .Proseguite la cottura per altri - minuti ; appena pronti i filetti sistemateli in un piatto e copriteli, giusto il tempo di preparare l'impiattamento. Distribuite una cucchiaiata di crema di patate sul fondo dei piatti, adagiate due pezzi di carne per parte insieme alle amarene. Guarnite con un po’ di riduzione di cottura e il vostro filetto di maiale alle amarene con crema di patate è pronto per essere servito !
+
+## Descrizione
+Il filetto di maiale alle amarene con crema di patate sarà un piatto succulento e aromatico, grazie alla combinazione del dolce delle amarene con il sapore deciso della carne di maiale. Il filetto sarà tenero e ricco di aroma, grazie alle erbe aromatiche utilizzate nella preparazione. La crema di patate sarà cremosa e delicata, perfetta per accompagnare il piatto principale.
+
+Questo piatto è adatto per occasioni speciali e cene eleganti, grazie alla sua presentazione raffinata e al suo sapore ricercato.
+
+La ricetta del filetto di maiale alle amarene con crema di patate può essere adattata a diverse diete e regimi alimentari. Ad esempio, potrebbe essere adatto a una dieta proteica se consumato senza eccessivi condimenti e accompagnato da contorni leggeri. Tuttavia, a causa del suo contenuto di grassi e zuccheri, potrebbe non essere adatto a una dieta ipocalorica o ipoglicemica.
+
+Le persone con intolleranze alimentari potrebbero avere problemi a consumare questo piatto a causa della presenza di glutine nelle patate (se utilizzate nella preparazione), del lattosio nel latte e degli zuccheri nelle amarene e nel loro sciroppo. Inoltre, potrebbero esserci allergeni nei condimenti utilizzati nella preparazione. Sarebbe consigliabile consultare un medico o un dietologo prima di consumare questo piatto se si soffre di intolleranze alimentari specifiche.

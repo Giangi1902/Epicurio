@@ -1,0 +1,23 @@
+# Orata al forno
+Categoria: Secondi piatti
+
+## Ingredienti
+- Orata: 900 g
+- Aglio: 2 spicchi
+- Rosmarino: 1 rametto
+- Timo: 1 rametto
+- Limoni: 2 fette
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Patate novelle: 400 g
+- Fiocchi di sale: q.b.
+- Origano: secco q.b.
+- Olio extravergine d'oliva: 40 g
+
+## Preparazione
+Per preparare l’orata al forno si parte dalla pulizia dell’orata: con una forbice tagliate le pinne , poi desquamatela sotto l’acqua corrente utilizzando il dorso di coltello o, se l’avete, con l’apposito attrezzo per desquamare il pesce  oppure con la lama di un coltello. Con un paio di forbici praticate un taglio sul ventre dell’orata, procedendo dritto fino a sotto la testa .A questo punto levate le interiora  e sciacquate bene l’orata sotto l’acqua corrente per eliminare le impurità . Riempite la cavità con i rametti di rosmarino .Aggiungete anche i rametti di timo , i due spicchi d'aglio, poi salate e pepate . In ultimo inserite due fette di limone . Passate ora alle patate. Lavatele bene e senza sbucciarle tagliate ciascuna in  spicchi. Trasferite in una ciotola condite con olio  e fiocchi di sale .Aggiungete dell'origano secco  e mescolate bene . Ora trasferite l'orata in una teglia capiente e metteteci anche le patate .Sistematele bene intorno al pesce, senza sovrapporle . Aggiungete ancora del rosmarino  e delle fette di limone, se preferite. Cuocete in forno statico a ° per  minuti. A metà cottura date una mescolata alle patate per una cottura uniforme. Sfornate e servite la vostra orata al forno.
+
+## Descrizione
+Il risultato finale della ricetta "Orata al forno" sarà un piatto di pesce profumato e saporito, con la carne dell'orata morbida e succulenta, arricchita dal sapore dell'aglio, del rosmarino e del timo. Le patate novelle, cotte insieme al pesce, saranno croccanti all'esterno e morbide all'interno, perfette per accompagnare la delicatezza del pesce.
+
+Questa ricetta è adatta per occasioni speciali e cene eleganti, ma può essere preparata anche per un pranzo in famiglia. È perfetta per chi segue una dieta equilibrata e salutare, in quanto il pesce è ricco di proteine e povero di grassi. Le persone che seguono una dieta senza glutine possono tranquillamente gustare questo piatto, ma è opportuno verificare che tutti gli ingredienti siano privi di contaminazioni. Le persone con intolleranze al lattosio possono sostituire l'olio extravergine d'oliva con un'alternativa senza lattosio.

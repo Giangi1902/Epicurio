@@ -1,0 +1,26 @@
+# Pancake giganti americani
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 130 g
+- Uova: 3
+- Latte intero: 70 g
+- Lievito in polvere per dolci: 5 g
+- Baccello di vaniglia: 1
+- Zucchero: 1 pizzico
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sciroppo di acero: q.b.
+- Mirtilli: q.b.
+- Yogurt greco: q.b.
+- Albicocche: q.b.
+
+## Preparazione
+Per preparare i pancake giganti americani versate in una ciotola le uova e il latte , sbattete con la frusta  per amalgamare i liquidi, quindi versate la farina .Il lievito , il sale , un pizzico di zucchero e i semi del baccello di vaniglia . Mescolate per ottenere un composto liscio e senza grumi.Ora spennellate un padellino antiaderente di  cm di diametro con dell'olio . Versate un mestolo di impasto  e ruotate il padellino per distribuirlo sul fondo .Coprite con il coperchio  e scaldate a fuoco moderato finché non si formeranno delle bollicine in superficie, ci vorranno circa  minuti. Girate il pancake  e cuocete anche dall'altro lato pe qualche minuto, finché il fondo non inizierà a dorarsi .Una volta pronti, ponete i pancake su un piatto da portata, spalmateli con lo yogurt greco , guarnite con mirtilli e fettine di albicocche, quindi versate sopra dello sciroppo d'acero a piacere . I pancake giganti americani sono pronti, serviteli subito .
+
+## Descrizione
+Il risultato finale della ricetta dei Pancake giganti americani sarà un piatto composto da pancake alti e soffici, arricchiti da mirtilli freschi, albicocche e yogurt greco. Saranno dolci ma equilibrati, grazie al tocco leggermente acidulo dei frutti e alla freschezza dello yogurt.
+
+Questo piatto è adatto per la colazione o la merenda, ma anche come dessert o dolce da servire durante un brunch. I Pancake giganti americani sono la scelta perfetta per chi ama i pancake ma vuole qualcosa di diverso e in versione gigante.
+
+La ricetta dei Pancake giganti americani è adatta a tutte le diete e regimi alimentari, tranne per chi segue un'alimentazione vegana (a meno che non si sostituiscano gli ingredienti animali con alternative plant based). Le persone con intolleranze al lattosio o al glutine possono eventualmente adattare la ricetta sostituendo il latte con una bevanda vegetale e la farina con una versione senza glutine. Chi soffre di intolleranze agli agrumi dovrebbe evitare di consumare gli agrumi usati come decorazione.

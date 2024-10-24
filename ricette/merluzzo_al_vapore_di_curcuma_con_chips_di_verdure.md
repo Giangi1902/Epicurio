@@ -1,0 +1,32 @@
+# Merluzzo al vapore di curcuma con chips di verdure
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di merluzzo: 4
+- Curcuma in polvere: raso 1 cucchiaino
+- Acqua: 2 l
+- Pepe nero in grani: 10
+- Bacche di ginepro: 10
+- Scorza di limone: ½
+- Alloro: 3 foglie
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Barbabietole precotte: 180 g
+- Patate viola: 180 g
+- Patate: 180 g
+- Zucchine: 180 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il merluzzo al vapore di curcuma con chips di verdure, cominciate preriscaldando il forno a ° impostato alla modalità ventilata. Iniziate dalle verdure: partite dalla barbabietola, con una mandolina affettatela sottilmente ad uno spessore di - mm (in alternativa potrete utilizzare una lama affilata, l’importante è che otteniate dei dischetti molto sottili) . Su una leccarda con carta forno sistemate le fettine di barbabietola , condite con olio, sale e pepe e infornate per  minuti o fin quando non otterrete delle chips asciutte e croccanti . Fate lo stesso con le patate viola. Quindi sbucciatele, affettatele  e disponetele sulla leccarda con carta forno .Regolate di olio, sale e pepe e cuocete come prima . Ora dovrete ripetere gli stessi passaggi anche per le patate. Lavatele accuratamente, poi asciugatele, pelatele e ottenete dei dischetti sottili – dello spessore di -mm – aiutandovi con la mandolina . Sistematele sulla leccarda con carta forno ,regolate di olio, di sale e di pepe e infine cuocete in forno a ° per circa  minuti, fino a farle diventare croccanti . Per completare potete occuparvi delle zucchine. Lavatele, asciugatele e spuntatele. Poi tagliate a fettine  e sistemate sulla leccarda con carta forno e cuocete anche queste per il tempo indicato o comunque fin quando non saranno croccanti . Tra un’infornata e l’altra potrete intanto occuparvi del resto. Mettete sul fuoco una pentola con l'acqua e poi versate la curcuma , le bacche di ginepro, il pepe in grani ,la scorza di mezzo limone e le foglie di alloro . Portate il tutto a bollore  e, non appena sarà a temperatura, abbassate la fiamma fino a far sobbollire l’acqua e lasciate andare per  minuti .Trascorso il tempo prendete i filetti di merluzzo e sciacquateli sotto un getto d’acqua fresca e poi asciugateli con della carta da cucina. Montate sulla pentola una vaporiera e rivestitene il fondo con carta forno , poi adagiate i filetti di merluzzo , regolate di sale e di pepe e coprite con il coperchio . Cuocete così per circa  minuti a fuoco dolce . Quando saranno cotti sistemate i filetti di merluzzo al vapore di curcuma con chips di verdure su un piatto da portata con le chips sistemate in una ciotola e gustate il pesce ancora caldo e guarnito con un filo d’olio !
+
+## Descrizione
+Il risultato finale della ricetta "Merluzzo al vapore di curcuma con chips di verdure" sarà un piatto leggero e saporito, con il merluzzo cotto al vapore con aromi di curcuma, pepe nero, bacche di ginepro e scorza di limone. Le chips di verdure, preparate con barbabietole, patate viola, patate e zucchine, aggiungeranno una croccantezza e un tocco di colore al piatto.
+
+Occasioni adatte: Questo piatto è perfetto per una cena leggera ma raffinata, da servire magari durante una cena con amici o in una occasione speciale.
+
+Diete o regime alimentare adatte: Questa ricetta è adatta per chi segue una dieta ricca di pesce e verdure, perfetta per chi vuole mantenersi leggero e in forma. È adatta anche per chi segue una dieta senza glutine, previa verifica che tutti gli ingredienti siano privi di glutine.
+
+Intolleranze: Le persone con intolleranza al lattosio devono fare attenzione all'uso di burro o altri latticini nel preparare le chips di verdure. Le persone con intolleranza al pesce possono sostituire il merluzzo con un altro tipo di pesce a loro gradimento. Le persone con intolleranza al glutine devono assicurarsi che tutti gli ingredienti siano privi di glutine.

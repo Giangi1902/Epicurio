@@ -1,0 +1,22 @@
+# Aspic ai frutti di bosco
+Categoria: Dolci
+
+## Ingredienti
+- Frutti di bosco: (ribes bianchi, fragole, lamponi, mirtilli) 500 g
+- Moscato: 550 ml
+- Gelatina in fogli: 35 g
+- Zucchero: 20 g
+- Menta: 8 foglie
+- Succo di limone: ½
+
+## Preparazione
+Per realizzare l’aspic ai frutti di bosco iniziate lavando e asciugando i mirtilli  le fragole, le more, i lamponi e i ribes bianchi. Eliminate il picciolo dalle fragole e tagliatele metà a rondelle  e le altre dividetele a metà  .A parte in una ciotola e ponete i fogli di gelatina in acqua fredda per  minuti  o finché non saranno ammorbiditi, intanto scaldate  ml di moscato e poi versatelo in una ciotola . Scolate bene con un colino i fogli di gelatina  e strizzateli.Scioglieteli nella ciotola con il moscato caldo, unite lo zucchero e mescolate con una spatola  per ottenere un composto liscio senza grumi. Versate ora il restante vino a temperatura ambiente, unite il succo di limone filtrato e mescolate la miscela. Prendete degli stampini da budino della capacità di  ml ciascuno, versate  g di liquido in ogni stampino  che andrete a far rassodare in frigorifero per almeno  minuti o finché la gelatina non avrà preso corpo. Trascorso il tempo indicato riprendete gli stampini, ponete al centro una fogliolina di menta e una fetta di fragola ,riempite tutto il bordo intorno con i mirtilli . Ricoprite con il moscato (circa  g)  e ponete nuovamente in frigorifero a rassodare per altri  minuti. Poi proseguite adagiato gli spicchi di fragole in verticale con la parte tagliata verso il perimetro dello stampino e  lamponi con la parte più larga orientata verso l’esterno : mettete un mirtillo al centro e ricoprite di liquido, quindi riponeteli nuovamente in frigorifero per  minuti.Quando la gelatina sarà solidificata disponete uno strato di ribes bianchi  quindi ricoprite di nuovo con il liquido a base di moscato e mettete gli stampini in frigorifero per altri  minuti. Terminate con un ultimo strato di mirtilli  e lasciate che gli aspic riposino in frigorifero almeno  ore prima di servirli. Al momento di sformarli, immergeteli per qualche secondo in una ciotola con acqua bollente e e poi aiutatevi a sformarli incidendo il bordo tutto intorno con la punta di un coltellino e rovesciateli su un piatto. Guarnite i vostri aspic ai frutti di bosco con foglioline di menta e qualche frutto di bosco avanzato  e portateli intavola!
+
+## Descrizione
+Il risultato finale sarà un delicato e colorato dessert a base di frutti di bosco immersi in una gelatina aromatizzata al Moscato e alla menta. La consistenza sarà morbida e fresca, perfetta per essere gustata come fine pasto o come fine pasto.
+
+Occasioni adatte: l'aspic ai frutti di bosco è ideale per occasioni speciali come cene eleganti, feste e compleanni.
+
+Dieta: Questa ricetta è adatta per una dieta equilibrata e varia. Può essere consumata da persone che seguono una dieta vegetariana, poiché non contiene ingredienti di origine animale.
+
+Intolleranze: Le persone con intolleranze alimentari al glutine possono mangiare questo dolce se si utilizza della gelatina in fogli senza glutine. Le persone intolleranti al lattosio possono sostituire il Moscato con un succo di frutta senza lattosio.

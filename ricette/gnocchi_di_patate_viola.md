@@ -1,0 +1,25 @@
+# Gnocchi di patate viola
+Categoria: Primi piatti
+
+## Ingredienti
+- Patate viola: 1 kg
+- Farina 00: 300 g
+- Uova: 1
+- Sale fino: q.b.
+- Panna fresca liquida: 500 ml
+- Groviera: 200 g
+- Noce moscata: q.b.
+- Pepe bianco: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare gli gnocchi di patate viola, prendete le pate viola , lavatele accuratamente e lessatele in acqua bollente salata a piacere : ci vorranno circa - minuti (i tempi si dimezzeranno se utilizzerete la pentola a pressione). Una volta cotte, scolatele e sbucciatele ancora calde .Passatele al passaverdure  e fate cadere la polpa in una ciotola, dove potete unire anche la farina setacciata, l'uovo  e un pizzico di sale. Impastate il tutto con le mani direttamente nella ciotola , fino ad ottenere un composto omogeneo e compatto.Con l'impasto ottenuto formate dei filoncini  che dovrete tagliare a bocconcini . Passate gli gnocchi ottenuti sui rebbi di una forchetta  o sull'apposito rigagnocchi per creare la caratteristica rigatura.A mano a mano che li preparate, disponeteli su un vassoio leggermente infarinato . Copriteli con un canovaccio pulito e manteneteli in un luogo fresco per almeno  minuti. Intanto dedicatevi alla crema alla Groviera: grattugiate il formaggio , mentre in un tegame versate la panna  e fatela scaldare. Prima che raggiunga il bollore,aggiungete il Groviera grattutgiato . Mescolate bene per farlo sciogliere, poi aggiustate di sale, pepe e grattugiate la noce moscata per aromatizzare. Mentre la crema si addensa a fuoco lento, fate cuocere gli gnocchi in un tegame capiente: basteranno pochi istanti e gli gnocchi saranno pronti quando verranno a galla. Quindi scolateli con una schiumarola  e conditeli con la crema di Groviera! Servite gli gnocchi di patate viola ben caldi !
+
+## Descrizione
+Il risultato finale della ricetta sarà degli gnocchi di patate viola, di un colore caratteristico e dal sapore leggermente più dolce rispetto ai tradizionali gnocchi di patate. Saranno morbidi e leggeri, perfetti da abbinare con una crema di panna fresca e formaggio grattugiato, arricchiti da una spolverata di noce moscata e pepe bianco.
+
+Questo piatto è adatto per occasioni speciali e per chi vuole sorprendere i propri ospiti con un piatto colorato e gustoso. 
+
+La ricetta è adatta per persone che seguono una dieta equilibrata e che possono concedersi un piatto ricco di carboidrati. È consigliata per i vegetariani, ma può essere resa più leggera sostituendo la panna con una versione light. 
+
+Le persone con intolleranze al lattosio possono sostituire il formaggio grana con una alternativa senza lattosio. Le persone celiache possono utilizzare la farina senza glutine per preparare gli gnocchi.

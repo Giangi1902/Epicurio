@@ -1,0 +1,29 @@
+# Panadas
+Categoria: Antipasti
+
+## Ingredienti
+- Strutto: 150 g
+- Farina 00: 500 g
+- Sale fino: 1 cucchiaino
+- Maiale: 250 g
+- Agnello: 250 g
+- Salsiccia: 100 g
+- Cipolle: 1
+- Lardo: q.b.
+- Olive: denocciolate 100 g
+- Pomodori secchi sott'olio: 100 g
+- Zafferano: 1 bustina
+- Prezzemolo: 1 ciuffo
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: mezzo bicchiere
+- Pepe nero: q.b.
+
+## Preparazione
+In un tegame abbastanza capiente fate soffriggere nell’olio la carne tagliata a pezzetti piccoli insieme alla salsiccia e alla cipolla.Dopo qualche minuto a fuoco non fortissimo aggiungete gli altri ingredienti e lasciate rosolare qualche minuto; ammorbidite eventualmente il composto con un po’ di acqua per non renderlo troppo asciutto.Nel frattempo preparate la pasta con la farina e lo strutto ammorbidito a bagno maria e il sale, impastate fino ad ottenere un impasto uniforme ed elastico che lascerete riposare  min.Panadas piccole Prendete la pasta e cominciare a tirarla con il matterello, in modo da ottenere una sfoglia sottile:con un bicchiere, una tazza o un tagliapasta ricavate dunque tanti dischi, di numero pari.A questo punto potete procedere in due modi: utilizzando delle coppette dove adagiare il disco inferiore, riempirlo con del ripieno, sovrapporre l’altro disco e chiudere il tutto, saldando i bordi arricciandoli verso l’interno, oppure solo con le mani, senza l’aiuto delle coppette, mettete del ripieno nel disco inferiore, alzatene i bordi creando delle piccole pences per dare al disco forma cilindrica, sovrapponete un altro disco di pasta a mo’ di “coperchio”, saldandone bene i bordi e arricciandoli verso l’interno.Disponete le panadas così ottenute in una teglia ed infornatele a ° per  minuti; saranno pronte quando la pasta si colorerà uniformemente.Vanno servite calde, ma se lo desiderate potete anche pre cuocerle, e congelarle, e, al momento di gustarle farle rinvenire nel forno a fuoco dolce.Panadas grande in tortiera Dividere l’impasto in due parti da stendere in due dischi sottili, sistemate il primo in una tortiera tonda con i bordi alti precedentemente unta, e riempite con il preparato di carne e verdure; ricoprite con l’altro disco a mo’ di coperchio, chiudendo i bordi. Al centro della teglia fate dei fori con una forchetta, in modo che durante la cottura il vapore possa uscire facilmente. Sistemate la teglia in forno e fate cuocere a °, dai  ai  minuti, fino a che la pasta risulti dorata.
+
+## Descrizione
+Il risultato finale delle Panadas sarà una sorta di empanadas, ovvero delle pastarelle ripiene di un gustoso e saporito ripieno a base di carne, condito con pomodori secchi, olive e zafferano. La consistenza sarà croccante all'esterno e morbida all'interno, perfetta per essere gustate sia calde che fredde.
+
+Le Panadas sono adatte come antipasto in occasioni informali e festive, come buffet, aperitivi e picnic. Possono essere servite come finger food o come piatto principale accompagnate da insalata.
+
+Le Panadas sono adatte per chi segue una dieta protettiva in quanto sono ricche di proteine e sostanze nutrienti, ma potrebbero non essere adatte a chi segue una dieta ipocalorica a causa del loro contenuto calorico. Possono essere consumate in moderazione anche da chi segue una dieta senza glutine e senza lattosio, se si utilizzano gli ingredienti adatti. Tuttavia, è importante fare attenzione alle intolleranze alimentari specifiche, come l'intolleranza al lattosio per la presenza di lardo e salsiccia, e l'intolleranza al glutine per la presenza di farina.

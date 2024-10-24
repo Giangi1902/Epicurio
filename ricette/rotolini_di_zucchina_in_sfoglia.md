@@ -1,0 +1,22 @@
+# Rotolini di zucchina in sfoglia
+Categoria: Antipasti
+
+## Ingredienti
+- Zucchine tonde: 200 g
+- Scamorza (provola): 150 g
+- Pasta Sfoglia: (rettangolare) 230 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Albumi: 1
+
+## Preparazione
+Per preparare i rotolini di zucchine in sfoglia, lavate le zucchine e togliete il picciolo . Quindi dividetele a metà e affettatele molto sottili ; affettate finemente anche la scamorza con una mandolina .Prendete il rotolo rettangolare di sfoglia e ricavate delle strisce di circa  cm di spessore con un tagliapasta a lama liscia  Adagiate le fettine di zucchine in modo che la parte rotonda strabordi leggermente dalla sfoglia , poi adagiate anche le fettine di scamorza facendo in modo che rimangano entro i bordi della sfoglia, salate e pepate a piacere .Arrotolate ciascuna sfoglia su se stessa  e spennellate con l'albume la parte finale della striscia  in modo da poter sigillare meglio le roselline .Una volta pronte tutte le roselline  ponetele in una leccarda foderata con carta da forno  e cuocetele in forno statico preriscaldato a ° per circa  minuti (se forno ventilato a ° per  minuti).  Una volta cotte, sfornatele e lasciate raffreddare i rotolini di zucchine in sfoglia su una gratella .
+
+## Descrizione
+Il risultato finale della ricetta "Rotolini di zucchina in sfoglia" sono deliziosi rotolini di zucchina avvolti in sfoglia croccante e filante scamorza. I rotolini saranno dorati e croccanti all'esterno, mentre all'interno saranno morbidi e gustosi grazie alla combinazione di zucchine e formaggio.
+
+Questa ricetta è adatta come antipasto per una cena speciale o un buffet, ma può essere anche servita come finger food per feste e aperitivi.
+
+Gli ingredienti di questa ricetta sono adatti a una dieta vegetariana e possono essere adattati per una dieta senza glutine evitando l'utilizzo della pasta sfoglia e scegliendo un'alternativa senza glutine. Tuttavia, la ricetta non è adatta per diete vegane in quanto contiene formaggio.
+
+Le persone con intolleranze al lattosio dovrebbero evitare questa ricetta o optare per un formaggio senza lattosio. Le persone con intolleranze al glutine dovrebbero scegliere una pasta sfoglia senza glutine per adattare la ricetta alle loro esigenze.

@@ -1,0 +1,23 @@
+# Pasta fredda con polpo
+Categoria: None
+
+## Ingredienti
+- Gigli: 320 g
+- Polpo: (già pulito) 500 g
+- Pomodorini ciliegino: 200 g
+- Rucola: 30 g
+- Basilico: q.b.
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare la pasta fredda con polpo come prima cosa sistemate il polpo in una pentola per la cottura "a secco": il polpo cuocerà nella sua stessa acqua. Coprite con un coperchio  e lasciate cuocere a fiamma medio-bassa per - minuti , poi lasciatelo raffreddare nella pentola. Intanto cuocete la pasta  e non appena pronta scolatela, trasferitela in una ciotola, condite con un filo d'olio e lasciate raffreddare.Lavate i pomodorini e tagliateli in , o a metà se dovessero essere piccoli . Trasferiteli in una ciotola capiente  e aggiungete anche la rucola, spezzettandola con le mani .Aggiungete delle foglioline di basilico  e condite con olio extravergine . Mescolate bene e lasciate insaporire .Non appena il polpo sarà freddo, tagliatelo a pezzetti , se preferite potete togliere un po' di pelle strofinandolo con della carta da cucina. Versate il polpo nella ciotola con la rucola e i pomodori , poi aggiungete anche la pasta ormai fredda .Condite con sale e olio . Mescolate bene  e riponete in frigorifero sino al momento di servirla .
+
+## Descrizione
+Risultato finale: La pasta fredda con polpo è un piatto fresco e gustoso, perfetto per le giornate estive. I gigli si uniranno alla consistenza tenera e morbida del polpo, mentre la freschezza dei pomodorini ciliegino e il sapore pungente della rucola completeranno l'aroma dell'intero piatto. Il basilico aggiungerà una nota di freschezza e profumo, mentre l'olio extravergine d'oliva conferirà un tocco di sapore e renderà il piatto ancora più invitante.
+
+Occasioni adatte: La pasta fredda con polpo è adatta per essere servita come antipasto o piatto unico durante un pranzo o una cena estiva. È perfetta anche da portare in un picnic o per un pranzo al sacco, poiché può essere conservata in frigorifero e consumata fredda.
+
+Diete o regimi alimentari adatti: Questa ricetta è adatta a una dieta bilanciata e può essere inclusa in un regime alimentare sano ed equilibrato. Essendo a base di polpo e pasta, fornisce un buon apporto di proteine e carboidrati. È indicata anche per le persone che seguono una dieta mediterranea.
+
+Intolleranze: Le persone con intolleranza al glutine dovrebbero optare per pasta senza glutine, come la pasta di mais o di riso, per adattare la ricetta alle loro esigenze. Inoltre, chi è intollerante al lattosio può omettere il formaggio o sostituirlo con un formaggio senza lattosio, se desidera aggiungerlo come condimento.

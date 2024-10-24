@@ -1,0 +1,24 @@
+# Crostatine capresi
+Categoria: None
+
+## Ingredienti
+- Pasta Sfoglia: 230 g
+- Pomodorini ciliegino: 120 g
+- Mozzarelline ciliegine: 120 g
+- Basilico: q.b.
+- Origano: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Burro: q.b.
+
+## Preparazione
+Per realizzare le crostatine capresi, per prima cosa preparate le basi di sfoglia: stendete il rotolo di pasta sfoglia e ritagliate  dischi usando un coppapasta del diametro di  cm , poi eliminate la sfoglia in eccesso . Imburrate  stampini per crostatine dello stesso diametro e adagiate all’interno i dischi di pasta sfoglia, facendo aderire bene i bordi , poi bucherellate la base con i rebbi di una forchetta . Adagiate un rettangolo di carta forno sopra ogni crostatina, ricopritelo con delle sfere per la cottura alla cieca (in alternativa potete utilizzare dei legumi secchi)  e cuocete in forno statico preriscaldato a ° per  minuti. Trascorso questo tempo rimuovete la carta forno e le sfere e proseguite la cottura per altri - minuti.Nel frattempo preparate gli ingredienti per farcire le crostatine: lavate i pomodorini e divideteli a metà , poi tagliate a metà anche le mozzarelline  e infine in quarti .Trascorso il tempo di cottura, sfornate le crostatine , lasciatele intiepidire e rimuovetele dagli stampini. A questo punto potete farcire le crostatine disponendo sulla superficie i pomodorini alternati con le mozzarelline . Condite con un pizzico di sale ,un filo d’olio , una foglia di basilico e un pizzico di origano  e proseguite nello stesso modo con tutte le altre: le vostre crostatine capresi sono pronte per essere servite !
+
+## Descrizione
+Il risultato finale delle Crostatine capresi sarà un finger food gustoso e appetitoso, con un mix di sapori mediterranei dati dai pomodorini ciliegino, mozzarelline, basilico e olio extravergine d'oliva, il tutto racchiuso in una croccante e sfogliosa pasta sfoglia.
+
+Le Crostatine capresi sono adatte per occasioni informali come aperitivi, buffet, picnic o cene leggere in compagnia. Possono essere servite sia calde che fredde.
+
+Le Crostatine capresi sono adatte a una dieta bilanciata e variegata, ma va tenuto conto del contenuto calorico della pasta sfoglia e dell'olio extravergine d'oliva, quindi vanno consumate con moderazione. Sono adatte in particolare per vegetariani, ma possono essere adattate per chi segue una dieta senza glutine sostituendo la pasta sfoglia con una versione senza glutine.
+
+Le persone con intolleranze al lattosio o al glutine dovrebbero evitare le Crostatine capresi, a meno di utilizzare ingredienti specifici per le loro esigenze (come mozzarelline senza lattosio o pasta sfoglia senza glutine).

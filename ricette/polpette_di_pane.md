@@ -1,0 +1,29 @@
+# Polpette di pane
+Categoria: Antipasti
+
+## Ingredienti
+- Pane raffermo: 500 g
+- Latte intero: 250 g
+- Parmigiano Reggiano DOP: da grattugiare 50 g
+- Uova: medio 1
+- Aglio: 1 spicchio
+- Prezzemolo: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Uova: medio 1
+- Sale fino: q.b.
+- Pangrattato: q.b.
+- Olio di semi di girasole: q.b.
+
+## Preparazione
+Per realizzare le polpette di pane per prima cosa eliminate la crosta al pane raffermo , poi riducete la mollica a cubotti . Trasferite il pane in una ciotola e versate sopra il latte .Schiacciate con le mani o con un cucchiaio per assicurarvi che tutti i cubotti siano imbevuti di latte , poi lasciate riposare per  minuti. Trascorso questo tempo aggiungete un uovo  e il Parmigiano Reggiano DOP grattugiato .Unite anche il prezzemolo tritato  e lo spicchio di aglio schiacciato , poi versate un filo d’olio .Salate , pepate e amalgamate il composto con le mani oppure con un cucchiaio . A questo punto formate delle palline del peso di circa  g l’una e adagiatele man mano su un vassoio ; con queste dosi dovreste ottenerne circa .Passate alla panatura: immergete ogni polpetta nell’uovo, che avrete precedentemente sbattuto con un pizzico di sale , poi ricopritela con il pangrattato . Proseguite in questo modo per impanare tutte le polpette .Scaldate l’olio di semi fino a una temperatura di °, poi friggete poche polpette per volta per - minuti. Quando saranno dorate in modo uniforme, scolate e trasferite su carta per fritti . Le vostre polpette di pane sono pronte per essere servite ancora calde e fragranti, accompagnate con una salsina a piacere !
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle deliziose polpette di pane croccanti all'esterno e morbide all'interno, ricche di sapore grazie al formaggio e al prezzemolo. Perfette da servire come antipasto caldo o come secondo piatto accompagnate da salse o contorni.
+
+Le polpette di pane sono adatte per occasioni informali come aperitivi con amici o pranzi familiari. Possono essere servite anche durante feste e buffet.
+
+Queste polpette sono adatte a una dieta bilanciata in quanto contengono ingredienti come pane, latte, uova, parmigiano e prezzemolo che forniscono carboidrati, proteine, calcio, fibre e vitamine. Tuttavia, data la frittura, è consigliabile consumarle con moderazione.
+
+Le persone con intolleranze al lattosio possono sostituire il latte intero con latte senza lattosio. Le persone celiache possono sostituire il pane normale con pane senza glutine e il pangrattato con pangrattato senza glutine. Le persone con intolleranze e allergie specifiche devono controllare attentamente gli ingredienti e eventualmente modificarli secondo le proprie esigenze.

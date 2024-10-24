@@ -1,0 +1,26 @@
+# Lagane e ceci
+Categoria: Primi piatti
+
+## Ingredienti
+- Semola di grano duro rimacinata: 400 g
+- Acqua: 210 g
+- Ceci secchi: 400 g
+- Passata di pomodoro: 500 g
+- Olio extravergine d'oliva: 45 g
+- Aglio: 1 spicchio
+- Peperoncino fresco: 1
+- Sale fino: 1 pizzico
+- Pepe nero: q.b.
+- Timo: q.b.
+
+## Preparazione
+Per preparare le lagane ai ceci, iniziate ponendo in ammollo i ceci secchi (meglio se per  giorno intero) in acqua fredda (-). Dopo l’ammollo, scolateli e fateli bollire in una pentola capiente per circa h/h e  minuti, anche in base a quanto riportato sulla confezione ; si possono anche cuocere in pentola a pressione e in questo ultimo caso i tempi si dimezzeranno.Nel frattempo dedicatevi alle lagane: in una ciotola versate la semola rimacinata e unite l’acqua a temperatura ambiente a filo, poco alla volta , mescolando con una forchetta . Lavorate l’impasto a mano direttamente nella ciotola  fino ad ottenere una consistenza liscia ed omogenea.Fate una pallina di impasto, coprire con pellicola  e lasciate riposare a temperatura ambiente per almeno mezz’ora in modo che la pasta si distenda. Intanto, private i semini dal peperoncino fresco  e tritatelo, sbucciate l'aglio e dividetelo a metà; quindi fatelo soffriggere in una ampia padella con l'olio poi togliete l'aglio e versate il peperoncino fresco tritato ; fatelo soffriggere e intanto scolate i ceci oramai cotti . Aggiungeteli in padella  fateli saltare per  minuti, aromatizzando con sale, pepe e foglioline di timo . Quindi unite la passata di pomodoro  e cuocete a fiamma bassa per - minuti (se necessario potete aggiungere poca acqua calda per favorire la cottura); dovranno risultare cremosi a fine cottura . Nel frattempo riprendete la pasta , dividetela in bocconcini  e passateli nella macchina tirapasta, impostando man a mano lo spessore sempre più sottile fino ad arrivare a mm (potete anche stendere l’impasto con un mattarello) .Dovrete ottenere una striscia di pasta sottile da arrotolare su se stessa (-). Tagliate ciascun rotolino di pasta realizzando dei pezzetti di  cm di spessore ,e proseguite allo stesso modo fino a terminare tutto l'impasto ;  potrete poi allargare a mano le lagane  e disporle su un vassoio leggermente infarinato coperte con un canovaccio pulito; fate riposare - minuti. Dopodichè, portate a bollore l’acqua salata in un tegame capiente e cuocete le lagane per pochi secondi quindi scolate la pasta aiutandovi con uno scola spaghetti e trasferitela nella padella con i ceci ; mantecate per qualche istante , quindi fate riposare un minuto, prima di servire le lagane ai ceci ben calde !
+
+## Descrizione
+Risultato finale: Le lagane e ceci sono un piatto di pasta leggermente ricurva accompagnata da una gustosa zuppa di ceci, arricchita da una salsa di pomodoro e aromi mediterranei. Il piatto è saporito, consistente e ricco di nutrienti.
+
+Occasioni adatte: Le lagane e ceci sono ideali per un pranzo o una cena invernale, da gustare in famiglia o con gli amici. È un piatto che si presta bene anche per essere servito durante le festività o in occasioni speciali.
+
+Diete adatte: Le lagane e ceci sono adatte a una dieta vegetariana e possono essere facilmente adattate a una dieta vegana sostituendo il formaggio grattugiato con una variante vegana. Inoltre, essendo un piatto a base di legumi e pasta, è ricco di fibre, proteine e carboidrati complessi.
+
+Intolleranze alimentari: Le lagane e ceci sono adatte a persone con intolleranza al lattosio se si omette il formaggio grattugiato. Tuttavia, possono non essere adatte a persone con intolleranza al glutine, in quanto la ricetta prevede l'uso di semola di grano duro rimacinata. Si consiglia quindi di sostituire la pasta con una variante senza glutine, come ad esempio la pasta di mais o di riso.

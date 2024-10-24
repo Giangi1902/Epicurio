@@ -1,0 +1,26 @@
+# Pasta e patate alla tiella
+Categoria: Primi piatti
+
+## Ingredienti
+- Pasta: (candele lunghe) 230 g
+- Pomodori pelati: 750 g
+- Caciocavallo silano: 230 g
+- Patate: della sila 400 g
+- Pecorino: 50 g
+- Pane: (solo mollica) 50 g
+- Acqua: 200 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Origano: q.b.
+
+## Preparazione
+Per preparare la pasta e patate alla tiella come prima cosa lavate e sbucciate le patate , poi tagliatele a pezzi grandi un paio di cm . Ora prendete il caciocavallo, eliminate la parte esterna e tagliatelo a cubetti .Versate i pomodori pelati in una ciotola  e sminuzzateli con le mani. Cercate di romperli il più possibile, per ottenere una pasta ben condita. Prendete la pasta, noi abbiamo usato delle candele lunghe e spezzatele con le mani in - parti. Ora prendete una teglia da forno rotonda, di  cm di diametro. Disponete sul fondo un po' dei pomodori .Aggiungete qualche patata  e realizzate un primo strato di pasta . Aggiungete altro pomodoro .Insaporite con il Pecorino grattugiato , abbondanti cubetti di Caciocavallo  e l'origano secco .Aggiungete anche un po' di mollica di pane  e altre patate . Realizzate un ultimo strato di pasta .Aggiungete il sugo rimasto  e il Caciocavallo . Salate .Aggiungete la mollica sbriciolandola con le mani , versate un filo d'olio abbondante  e l'acqua .Coprite con un foglio di carta forno  e cuocete in forno statico preriscaldato a ° per  minuti. Negli ultimi  minuti togliete la carta forno per far dorare ben la pasta, quindi potrete sfornarla  e servirla .
+
+## Descrizione
+Il risultato finale sarà un piatto ricco e saporito, con una consistenza cremosa grazie alla presenza di patate e formaggio. La pasta sarà avvolta da una deliziosa salsa di pomodoro arricchita da caciocavallo e pecorino, con un tocco di croccantezza dato dalla mollica di pane e dall'origano.
+
+Questo piatto è adatto per occasioni informali come pranzi o cene in famiglia o tra amici. La sua bontà e semplicità lo rendono perfetto per essere preparato durante una cena tra settimana veloce e gustosa.
+
+La ricetta della pasta e patate alla tiella è adatta a persone che seguono una dieta bilanciata e desiderano un pasto completo e nutriente. È consigliato consumarla con moderazione se si è a dieta o si segue un regime alimentare ipocalorico.
+
+Le persone con intolleranze al lattosio possono optare per formaggi senza lattosio o sostituirli con formaggio vegano. Chi soffre di celiachia può scegliere una pasta senza glutine e assicurarsi che tutti gli ingredienti utilizzati siano senza glutine.

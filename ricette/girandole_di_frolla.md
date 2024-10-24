@@ -1,0 +1,21 @@
+# Girandole di frolla
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 600 g
+- Burro: 200 g
+- Zucchero a velo: 200 g
+- Uova: (circa 4 medie) 240 g
+- Lievito in polvere per dolci: 8 g
+- Scorza di limone: 1
+- Coloranti alimentari: in gel (rosso, giallo, verde, viola, arancione, verde acqua) q.b.
+
+## Preparazione
+Per realizzare le girandole di frolla iniziate dalla preparazione dell’impasto: versate la farina sul piano di lavoro, poi aggiungete lo zucchero , il lievito  e la scorza grattugiata di limone .Unite anche il burro a cubetti  e lavorate rapidamente con la punta delle dita per ottenere un composto bricioloso . A questo punto aggiungete le uova che avrete sbattuto a parte .Impastate velocemente, giusto il tempo necessario per compattare gli ingredienti . Formate un panetto , poi dividetelo in  parti del peso di  g l’una .Aggiungete un colorante diverso per ciascuna parte  e impastate  per amalgamarlo in modo uniforme .Quando avrete colorato tutti i panetti, avvolgeteli nella pellicola  e lasciate riposare in frigorifero per almeno  ore. Trascorso questo tempo dividete gli impasti in piccole porzioni del peso di  g  e formate dei filoncini della lunghezza di circa  cm .Affiancate un filoncino di ogni colore e premete leggermente per attaccarli insieme , poi arrotolate il tutto per formare una girella . Infilzate la girella con uno stecchino lungo  e procedete in questo modo per formare tutte le altre.Adagiate le girandole su una leccarda foderata con carta forno  e cuocete in forno statico preriscaldato a ° per  minuti. Una volta cotte, sfornate e lasciate raffreddare . Le vostre girandole di frolla sono pronte per essere gustate !
+
+## Descrizione
+Il risultato finale della ricetta "Girandole di frolla" sarà un dolce a base di frolla colorata e intrecciata a forma di girandola, croccante all'esterno e morbida all'interno. Le girandole avranno un sapore dolce e leggermente burroso, arricchito dalla scorza di limone.
+
+Questo dolce è adatto per occasioni speciali come feste di compleanno, buffet, o semplicemente per deliziare il palato con un dolce colorato e divertente.
+
+La ricetta delle "Girandole di frolla" è adatta a una dieta normale, ma va consumata con moderazione a causa dell'alto contenuto di zucchero e burro. Chi segue una dieta vegana o senza glutine non potrà consumare questo dolce, in quanto contiene ingredienti di origine animale e farina di grano. Le persone con intolleranza al lattosio potrebbero trovare difficoltà a digerire il burro presente nella ricetta. Le persone con intolleranze al glutine o al lattosio possono cercare alternative senza glutine o latticini per adattare la ricetta alle loro esigenze alimentari.

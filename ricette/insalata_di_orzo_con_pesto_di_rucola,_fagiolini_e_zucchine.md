@@ -1,0 +1,27 @@
+# Insalata di orzo con pesto di rucola, fagiolini e zucchine
+Categoria: Primi piatti
+
+## Ingredienti
+- Orzo perlato: 350 g
+- Zucchine: 500 g
+- Fagiolini: 300 g
+- Pomodorini ciliegino: 250 g
+- Rucola: 100 g
+- Pinoli: 40 g
+- Parmigiano Reggiano DOP: da grattugiare 40 g
+- Ghiaccio: cu q.b.
+- Olio extravergine d'oliva: circa 5 cucchiai
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare l’insalata di orzo con pesto di rucola, fagiolini e zucchine per prima cosa portate a bollore una pentola di acqua salata e cuocete l’orzo per il tempo indicato sulla confezione . Nel frattempo mettete sul fuoco un’altra pentola da salare a bollore per cuocere le verdure e dedicatevi alla preparazione degli altri ingredienti: lavate e spuntate le zucchine , poi tagliatelle a rondelle .Spuntate anche i fagiolini  e dividetele in - parti , poi tagliate a metà i pomodorini .Versate i fagiolini nell’acqua bollente  e, dopo  minuti, aggiungete anche le zucchine . Cuocete le verdure per circa  minuti, dovranno risultare ancora croccanti. Trascorso il tempo di cottura dell’orzo, scolatelo in una ciotola capiente .Non vi resta che preparare il pesto di rucola: lavate e asciugate la rucola, poi mettetela in un contenitore alto e stretto insieme ai pinoli , al Parmigiano grattugiato  e un paio di cubetti di ghiaccio .Salate, pepate  e aggiungete circa  cucchiai di olio . Frullate con un mixer a immersione per ottenere una salsa cremosa e omogenea; se necessario aggiungete altro olio per raggiungere la consistenza desiderata. Versate il pesto di rucola nella ciotola con l’orzo  e mescolate bene.Unite anche i fagiolini con le zucchine  e i pomodorini . Mescolate il tutto e servite la vostra insalata di orzo con pesto di rucola, fagiolini e zucchine !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un'insalata fresca e gustosa, perfetta per l'estate, arricchita dalla presenza del pesto di rucola che conferirà un sapore deciso e aromatico al piatto. L'orzo perlato, le zucchine, i fagiolini e i pomodorini ciliegino si combinano per creare una miscela di sapori e consistenze equilibrata e leggera, ideale per un pasto fresco e nutriente.
+
+Questa insalata di orzo con pesto di rucola, fagiolini e zucchine è adatta per occasioni informali come pranzi in giardino, picnic o cene leggere con amici. Può essere servita sia come piatto unico che come contorno, in base alle esigenze.
+
+Questa ricetta è adatta a persone che seguono una dieta vegetariana e può essere facilmente adattata per renderla vegana, sostituendo il formaggio con una versione vegan. È inoltre adatta a chi segue una dieta equilibrata e cerca un piatto completo e ricco di sostanze nutrienti.
+
+Le persone con intolleranze al lattosio possono preparare questa ricetta eliminando il formaggio oppure utilizzando una versione senza lattosio. Le persone con intolleranza al glutine devono assicurarsi di utilizzare un orzo perlato certificato senza glutine. Infine, chi soffre di allergie ai frutti a guscio dovrebbe evitare di aggiungere i pinoli al pesto di rucola.

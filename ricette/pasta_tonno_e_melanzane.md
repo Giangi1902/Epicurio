@@ -1,0 +1,26 @@
+# Pasta tonno e melanzane
+Categoria: None
+
+## Ingredienti
+- Fusilli: 320 g
+- Filetti di tonno: 200 g
+- Melanzane: 350 g
+- Cipolle ramate: 50 g
+- Pinoli: 20 g
+- Olio extravergine d'oliva: q.b.
+- Prezzemolo: q.b.
+- Aglio: 1 spicchio
+- Sale fino: q.b.
+- Sale grosso: per le melanzane q.b.
+
+## Preparazione
+Per preparare la pasta melanzane e tonno cominciate lavando e asciugando le melanzane. Tagliatele prima a fette, poi a strisce e infine a cubetti di circa  cm . Cospargete le melanzane con del sale grosso (senza esagerare). Sistemate in superficie un piatto con un peso sopra e lasciate così a spurgare per almeno mezzora . Prima di impiegarle nella ricetta ricordate di sciacquarle accuratamente e tamponarle per bene. Schiacciate l'aglio con la parte piatta di una lama ,mondate e tritate la cipolla al coltello , sminuzzate finemente il prezzemolo  e finite sbriciolando, sempre al coltello, i filetti di tonno sgocciolati .Spostatevi ai fornelli e mettete sul fuoco la pentola in cui cuocere la pasta quando sarà bollente, quindi salate pure a piacere . Nel frattempo ponete una casseruola capiente, e preparate il condimento, lasciate sfrigolare per un minuto, a fuoco dolce, lo spicchio d'aglio e la cipolla . Versate poi i pinoli e fate tostare anche questi per un minuto  e infine il tonno lasciandolo insaporire per circa un minuto ancora . A questo punto potete aggiungere le melanzane ben sciacquate e scolate  e fatele cuocere - minuti. Rimuovete l'aglio ,aggiungete il prezzemolo  e scolate la pasta direttamente nel condimento . una breve saltata e potete finalmente impiattare la vostra pasta tonno e melanzane .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto gustoso e saporito, con la combinazione di tonno, melanzane e pinoli che si sposano perfettamente con il condimento a base di olio extravergine d'oliva, aglio, prezzemolo e cipolle ramate. Le melanzane saranno morbide e saporite grazie alla cottura in padella, mentre il tonno aggiunge una nota di pesce al piatto. Il tutto sarà arricchito dalla presenza dei pinoli che apportano croccantezza al piatto.
+
+Questo piatto è adatto per un pranzo o una cena completa e soddisfacente. È perfetto per chi ama i sapori del mare e della terra uniti in un unico piatto.
+
+Questa ricetta è adatta per una dieta mediterranea, ricca di pesce, verdure e cereali. È un piatto equilibrato che può essere inserito in una dieta equilibrata e variegata.
+
+Le persone con intolleranze al glutine possono consumare questa ricetta utilizzando pasta senza glutine al posto dei fusilli tradizionali. Le persone con intolleranza al lattosio devono fare attenzione alla presenza di eventuali latticini nei condimenti o nel tonno in scatola.

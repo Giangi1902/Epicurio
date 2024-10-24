@@ -1,0 +1,28 @@
+# Frittata senza uova
+Categoria: Secondi piatti
+
+## Ingredienti
+- Farina di ceci: 100 g
+- Acquafaba: 180 g
+- Acqua: 180 g
+- Patate: 350 g
+- Cipolle dorate: 80 g
+- Timo: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare la frittata senza uova, per prima cosa pelate le patate e tagliatele a cubetti di mezzo cm , poi sciacquate sotto l’acqua corrente  e trasferite in una ciotola con acqua fredda. Mondate la cipolla e tritatela finemente .Scolate i ceci (o altri legumi) in scatola dal loro liquido di governo, la cosiddetta acquafaba . Versate la farina di ceci in una ciotola insieme a un pizzico di sale. Aggiungete poco per volta sia l’acquafaba  che l’acqua naturale, mescolando con una frusta per ottenere un composto liscio e fluido, senza grumi . Coprite la ciotola con pellicola e lasciate riposare in frigorifero per  minuti.Scaldate un giro d’olio in una padella antiaderente del diametro di  cm , poi aggiungete le patate  e le cipolle , salate e pepate.Cuocete per - minuti a fuoco medio, fino a quando saranno dorate . A questo punto date una mescolata alla pastella e versatela nella padella , ruotandola leggermente per distribuirla in modo uniforme. Abbassate leggermente il fuoco e profumate con il timo .Cuocete a fuoco medio-basso per - minuti, poi giratela con l’aiuto di un piatto o di un coperchio  e proseguite la cottura dall’altro lato per altri - minuti . La vostra frittata senza uova è pronta per essere servita !
+
+## Descrizione
+Il risultato finale sarà una frittata senza uova dal cuore morbido e saporito, con una consistenza leggermente cremosa grazie alla farina di ceci e all'acquafaba. Le patate e le cipolle aggiungono morbidezza e dolcezza alla preparazione, mentre il timo conferisce un profumo fresco. La frittata sarà dorata e croccante all'esterno grazie alla cottura in padella con olio extravergine d'oliva.
+
+Occasioni adatte:
+La frittata senza uova è adatta per un pranzo veloce o una cena leggera, da servire sia calda che fredda. Può essere gustata come piatto principale, accompagnata da insalata o verdure di stagione, oppure tagliata a cubetti e servita come finger food per un buffet o un picnic.
+
+Diete o regime alimentare adatti:
+La frittata senza uova è perfetta per chi segue una dieta vegetariana, vegana o per chi è allergico alle uova. È inoltre senza lattosio e senza glutine, se preparata utilizzando ingredienti privi di contaminazioni.
+
+Intolleranze alimentari:
+Le persone con intolleranza al glutine possono consumare questa frittata senza problemi, utilizzando farina di ceci certificata senza glutine. Tuttavia, in caso di intolleranza al ceci o alle patate, è necessario fare delle modifiche alla ricetta o evitare di consumarla.

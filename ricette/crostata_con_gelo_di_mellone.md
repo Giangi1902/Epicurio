@@ -1,0 +1,27 @@
+# Crostata con gelo di mellone
+Categoria: None
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: (freddo di frigo) 90 g
+- Zucchero a velo: 50 g
+- Uova: (circa 1 medio) 55 g
+- Estratto di vaniglia: 1 cucchiaino
+- Sale fino: 1 pizzico
+- Cocomero (anguria): (già pulita) 1 kg
+- Zucchero: 200 g
+- Amido di mais (maizena): 70 g
+- Estratto di vaniglia: 1 cucchiaino
+- Gocce di cioccolato fondente: q.b.
+
+## Preparazione
+Per realizzare la crostata con gelo di mellone iniziate dalla pasta frolla: versate in una ciotola la farina e lo zucchero a velo , poi aggiungete un pizzico di sale  e l’estratto di vaniglia .Mescolate con una forchetta, poi unite il burro freddo a cubetti . Lavorate con la punta delle dita fino a formare un composto sabbioso , poi aggiungete l’uovo .Ora impastate con le mani per ottenere un composto liscio e compatto . Trasferite l’impasto su un foglio di carta forno , coprite con un altro foglio e stendete con il mattarello fino a uno spessore di mezzo cm . Lasciate riposare la frolla in frigorifero per almeno  minuti.Intanto preparate il gelo di mellone: pulite l’anguria dai semi e dalla buccia , poi tagliatela grossolanamente. Trasferite l’anguria in un mixer  e frullate .Setacciate la purea di anguria in un pentolino per eliminare eventuali filamenti , poi unite lo zucchero  e l’amido di mais . Mescolate con una frusta e mettete sul fuoco.Cuocete a fiamma media mescolando continuamente dal momento in cui inizia ad addensarsi, ci vorranno circa  minuti . Quando avrete ottenuto la giusta consistenza togliete il pentolino dal fuoco e aromatizzate con l’estratto di vaniglia . Mescolate e lasciate raffreddare il gelo di mellone in una ciotola .Nel frattempo riprendete la frolla dal frigorifero e adagiatela con la carta forno in uno stampo del diametro di  cm, poi eliminate la frolla e la carta in eccesso dai bordi . Versate il gelo di mellone nello stampo  e livellate la superficie .Impastate nuovamente la frolla avanzata, stendetela e ricavate delle strisce per la decorazione . Adagiate le strisce sulla crostata  e cuocete in forno statico preriscaldato a ° per circa  minuti, fino a quando la frolla risulterà dorata. Sfornate e lasciate raffreddare completamente, poi guarnite con le gocce di cioccolato. La crostata con gelo di mellone è pronta per essere servita !
+
+## Descrizione
+Il risultato finale della crostata con gelo di mellone sarà una crostata fragrante e burrosa con un ricco e cremoso gelo di mellone al suo interno. La crostata sarà ricoperta da uno strato croccante di zucchero a velo e decorata con gocce di cioccolato fondente.
+
+Questa crostata è adatta per essere servita come dessert in occasioni speciali come feste di compleanno, brunch o cene eleganti.
+
+Questa ricetta non è adatta per diete ipocaloriche o a basso contenuto di zuccheri, dato che contiene quantità significative di burro, zucchero e farina. Tuttavia, può essere adatta per una dieta vegetariana.
+
+Le persone con intolleranze al glutine devono fare attenzione poiché la ricetta prevede l'utilizzo di farina di frumento; potrebbero provare a sostituirla con farina senza glutine. Inoltre, le persone con intolleranza al lattosio devono prestare attenzione all'uso del burro e potrebbero optare per una versione senza lattosio.

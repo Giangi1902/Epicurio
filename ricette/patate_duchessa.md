@@ -1,0 +1,22 @@
+# Patate duchessa
+Categoria: Contorni
+
+## Ingredienti
+- Patate rosse: 700 g
+- Burro: morbido 70 g
+- Grana Padano DOP: (da grattugiare) 50 g
+- Tuorli: 3
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare le patate duchessa lessate le patate con la buccia partendo da acqua fredda per circa - minuti, fino quando saranno abbastanza tenere da infilzarle facilmente con una forchetta . Sbucciate le patate ancora calde  e passatele con un passaverdure .Raccogliete le patate schiacciate ancora calde in una ciotola e unite i tuorli , il burro  e il formaggio grattugiato .Salate, pepate e amalgamate il tutto con una frusta a mano  fino ad ottenere un composto omogeneo . Trasferite il composto in un sac-à-poche con bocchetta a stella da  mm .Spremete dei ciuffetti su una leccarda foderata con carta forno  e cuocete in forno ventilato preriscaldato a ° per - minuti, fino a doratura . Servite subito le vostre patate duchessa !
+
+## Descrizione
+Il risultato finale della ricetta delle patate duchessa sarà un contorno soffice e cremoso, con una crosticina croccante e dorata sulla superficie. Le patate saranno profumate dal burro e dal formaggio grattugiato, mentre i tuorli conferiranno una consistenza vellutata al piatto.
+
+Le patate duchessa sono adatte per occasioni speciali come pranzi o cene eleganti, grazie alla loro presentazione raffinata e al gusto ricco e saporito. Possono essere servite come contorno per carni o pesci al forno, o come piatto principale accompagnate da una fresca insalata.
+
+Le patate duchessa sono adatte a una dieta bilanciata e moderata, poiché sono saporite e ricche di carboidrati complessi. Tuttavia, essendo un piatto che contiene burro e formaggio, dovrebbero essere consumate con moderazione per non eccedere con le calorie e i grassi.
+
+Le persone con intolleranze al lattosio dovrebbero evitare di consumare le patate duchessa, in quanto contengono formaggio grattugiato. Coloro che soffrono di intolleranze al glutine possono comunque gustare questo piatto, a patto di utilizzare ingredienti privi di glutine e di controllare che i condimenti utilizzati siano adatti alle proprie esigenze alimentari.

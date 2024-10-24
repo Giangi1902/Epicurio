@@ -1,0 +1,29 @@
+# Frittata con pesto e pomodori
+Categoria: Secondi piatti
+
+## Ingredienti
+- Uova: medie 5
+- Pomodori ramati: 120 g
+- Basilico: 1 ciuffo
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Basilico: 12,5 g
+- Parmigiano Reggiano DOP: da grattugiare 18 g
+- Pecorino: da grattugiare 7 g
+- Pinoli: 4 g
+- Olio extravergine d'oliva: 25 ml
+- Aglio: ½ spicchio
+- Sale grosso: 2 g
+- Basilico: 6 foglie
+
+## Preparazione
+Per preparare la frittata con pesto e pomodori, iniziate dal pesto genovese (se avete già a disposizione del pesto fatto in casa potete utilizzarlo nella dose indicata). Per consultare il procedimento completo potete cliccare sulla scheda della Scuola di cucina che trovate qui: pesto alla genovese. Riducete lo spicchio d'aglio a crema pestandolo in un mortaio (se non lo avete potete utilizzare il mixer) . Quindi aggiungete le foglie di basilico  insieme ad un pizzico di sale grosso. Schiacciate con il pestello le foglie di basilico contro le pareti del mortaio ruotando il pestello da sinistra verso destra e contemporaneamente il mortaio nell'altro senso . Quando dalle foglie uscirà il liquido verde brillante, aggiungete i pinoli e continuate a pestare. Poi versate i formaggi grattugiati a mano a mano, continuando a pestare; infine versate l'olio extravergine d'oliva a filo . Amalgamate gli ingredienti. Ora che il pesto è pronto mettetelo da parte coperto con pellicola trasparente.Dedicatevi quindi a preparare i pomodori. Lavateli sotto acqua corrente, poi riducetene uno a dadini: eliminate il picciolo e tagliatelo a metà , quindi scavate l'interno con un cucchiaino per eliminare i semi . Poi ricavate dalla polpa dei dadini  e conservateli in una ciotolina.Passate all'altro pomodoro: eliminate il peduncolo e riducete il pomodoro a fettine  che terrete da parte per la decorazione. Quindi sminuzzate il ciuffo di basilico fresco  che poi aggiungerete alla frittata. In una ciotola rompete le uova, salate e pepate a vostro gusto, quindi con una frusta iniziate a sbatterle .Dopo aver sbattuto le uova per qualche secondo, incorporate il pesto che avevate messo da parte  e mescolate con la frusta  per ottenere un composto omogeneo .Poi aggiungete anche il basilico spezzettato  e la polpa di pomodori a dadini che avevate messo da parte . Quindi mescolate ancora il tutto .Ora potete iniziare a comporre la vostra frittata: prendete una tortiera del diametro di  cm e rivestitela di carta da forno. Quindi adagiate sul fondo la metà delle fette di pomodoro che avevate preparato in precedenza . Versate il composto di uova pesto e cubetti di pomodoro nella tortiera , livellando il composto in modo che riempia la tortiera in modo uniforme e senza buchi. Poi terminate di comporre la frittata disponendo le restanti fette di pomodoro .Decorate la frittata con le foglie di basilico intere , adagiandole su ciascuna fetta di pomodoro per creare un contrasto di colori. Quindi infornate  in forno statico preriscaldato a ° per - minuti oppure forno ventilato a ° per circa  minuti fino a quando la superficie non risulterà dorata (potete anche cuocere la frittata in una padella antiaderente come una normale frittata). Sfornate la frittata con pesto e pomodori , lasciate intiepidire e servitela tiepida o fredda a vostro gusto!
+
+## Descrizione
+Il risultato finale è una deliziosa frittata arricchita con pesto e pomodori, che si presenta con un colore verde intenso e pezzetti di pomodori rossi. La consistenza sarà soffice e leggera, con un sapore fresco e aromatico grazie al basilico e al formaggio.
+
+Questa frittata è adatta per un pranzo o una cena leggera, da servire sia calda che a temperatura ambiente. Può essere un piatto unico o un contorno, perfetto da gustare in primavera o in estate.
+
+Questa ricetta è adatta a una dieta equilibrata, grazie alla presenza di uova come fonte di proteine, verdure fresche come pomodori e basilico, e formaggio per un tocco di sapore. È un piatto versatile che si adatta a diverse esigenze alimentari.
+
+Le persone con intolleranze possono consumare questa frittata con modifiche. Per chi è intollerante al lattosio, si consiglia di sostituire il Parmigiano Reggiano e il Pecorino con formaggi senza lattosio. Per chi è intollerante al glutine, bisogna assicurarsi che i pinoli siano privi di tracce di glutine e che non ci siano contaminazioni crociate durante la preparazione.

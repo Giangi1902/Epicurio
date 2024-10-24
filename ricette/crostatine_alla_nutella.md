@@ -1,0 +1,22 @@
+# Crostatine alla Nutella
+Categoria: Dolci
+
+## Ingredienti
+- Burro: (freddo di frigo) 125 g
+- Farina 00: 250 g
+- Scorza di limone: mezza
+- Tuorli: 2
+- Zucchero a velo: 100 g
+- Nutella: 180 g
+
+## Preparazione
+Per preparare le crostatine alla nutella iniziate dalla frolla: in un mixer ponete la farina setacciata, un pizzico di sale ed il burro appena tolto dal frigo tagliato grossolanamente . Frullate il tutto fino ad ottenere un composto sabbioso ; versate la sabbiatura ottenuta su un piano di lavoro (oppure in una ciotola) e aggiungete lo zucchero a velo setacciato; create la forma a fontana e al centro versate la scorza di limone grattugiata e i tuorli  Amalgamate il tutto prima con la forchetta, poi quando le uova avranno assorbito la farina potete proseguire a mano. Impastate giusto il tempo di compattare l'impasto  perchè la frolla non si scaldi troppo con il calore delle mani e rimanga friabile. Formate un panetto e appiattitelo prima di avvolgerlo nella pellicola ; riponetelo in frigorifero per farlo rassodare almeno  minuti.Passato il tempo necessario stendete la frolla  dello spessore di circa mezzo cm e con un coppapasta (o una coppetta)  del diametro di , cm ricavate  dischi . Poneteli in appositi stampini per crostatine di circa  cm di diametro, precedentemente imburrati e infarinati .Fate aderire bene il fondo e i bordi , eliminate l'impasto in eccesso , poi ponete nuovamente in frigorifero per circa  minuti. Quindi bucherellate il fondo delle crostatine, aggiungete la Nutella  fino a raggiungere il bordo.Con i ritagli di pasta frolla potete realizzare delle decorazioni, come le classiche losanghe , oppure stelline o fiorellini. Infornate in forno statico preriscaldato a ° per circa  minuti (° per - minuti se forno ventilato). Una volta cotte , sfornate le crostatine alla Nutella e fatele raffreddare su una gratella, quindi sformatele  e servitele ai vostri bambini come golosa merenda!
+
+## Descrizione
+Il risultato finale delle crostatine alla Nutella sarà delle deliziose e morbide mini crostate con un cuore cremoso di Nutella al loro interno, dal gusto equilibrato tra la croccantezza della frolla e la dolcezza della crema alla Nutella.
+
+Occasioni adatte: Le crostatine alla Nutella sono perfette per essere gustate come dessert o merenda, ideali da servire durante feste di compleanno, buffet o per coccolarsi con un dolce goloso.
+
+Dieta/Regime alimentare: Le crostatine alla Nutella sono adatte a una dieta standard, da consumare con moderazione per mantenere un'alimentazione equilibrata. Si consiglia di evitarle in caso di regimi alimentari ipocalorici o iperproteici.
+
+Intolleranze: Le crostatine alla Nutella sono adatte per le persone intolleranti al lattosio solo se viene utilizzata una crema spalmabile senza lattosio al posto della Nutella. Sono da evitare in caso di intolleranze al glutine, essendo la frolla preparata con farina di frumento.

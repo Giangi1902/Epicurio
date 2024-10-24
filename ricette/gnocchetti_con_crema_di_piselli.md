@@ -1,0 +1,25 @@
+# Gnocchetti con crema di piselli
+Categoria: Primi piatti
+
+## Ingredienti
+- Gnocchetti Sardi: 400 g
+- Pisellini: 500 g
+- Grana Padano DOP: da grattugiare 20 g
+- Pecorino sardo: 30 g
+- Brodo vegetale: q.b.
+- Noce moscata: q.b.
+- Burro: 30 g
+- Scalogno: 30 g
+- Sale fino: q.b.
+
+## Preparazione
+Per prima cosa preparate la crema di piselli: tritate finemente lo scalogno e scaldate in una capiente casseruola il burro , unite lo scalogno tritato  e lasciate imbiondire per un paio di minuti ;unite i piselli , rimestate per far insaporire  e lasciateli cuocere per circa  minuti, fino a che risultino ben teneri, aggiungendo all'occorrenza il brodo vegetale , e regolate di sale.Trasferite i piselli cotti  nella tazza di un mixer dotato di lame e azionate in modo da ottenere un composto vellutato , a piacere potete anche setacciare la crema attraverso un colino a maglia fitta per eliminare eventuali scorie delle pellicine dei piselli. Rimettete la crema di piselli così ottenuti in una casseruola e aggiungete anche la noce moscata ,regolate con il pepe bianco ; unite il Pecorino grattugiato  e i il Grana Padano DOP  mescolate bene e tenete in caldo.Intanto portate a bollore abbondante acqua salata e fatevi cuocere gli gnocchetti  per il tempo indicato sulla confezione; scolateli al dente e fateli saltare velocemente nella casseruola con la crema (-). Regolate di sale se necessario e servite gli gnocchetti con crema di piselli ben caldi.
+
+## Descrizione
+Il risultato finale di questa ricetta sono degli gnocchetti con una delicata e cremosa salsa di piselli, arricchita dal sapore del formaggio e della noce moscata. La consistenza morbida degli gnocchetti si sposa perfettamente con la cremosità della salsa, creando un piatto ricco e gustoso.
+
+Questo piatto è adatto per occasioni speciali come cene in famiglia, pranzi eleganti o per sorprendere gli ospiti durante una cena. 
+
+Questo piatto è adatto a persone che seguono una dieta vegetariana, in quanto non contiene carne o pesce. Per adattarlo a una dieta vegana, è sufficiente sostituire il burro con olio vegetale e utilizzare una versione vegana del formaggio.
+
+Le persone con intolleranze ai latticini possono sostituire il formaggio Grana Padano e il Pecorino con alternative vegane o senza lattosio. Le persone con intolleranza al glutine possono utilizzare gnocchetti senza glutine.

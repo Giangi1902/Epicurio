@@ -1,0 +1,30 @@
+# Raviolone verde ripieno
+Categoria: Primi piatti
+
+## Ingredienti
+- Spinaci: lessati 60 g
+- Farina 00: 300 g
+- Uova: medie 3
+- Semola: q.b.
+- Ricotta vaccina: 250 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Noce moscata: q.b.
+- Parmigiano Reggiano DOP: 20 g
+- Scorza di limone: q.b.
+- Tuorli: 6
+- Semola: q.b.
+- Burro: 70 g
+- Salvia: 3 foglie
+- Parmigiano Reggiano DOP: q.b.
+- Burro: q.b.
+
+## Preparazione
+Per preparare il raviolone verde ripieno occupatevi della pasta fresca. In un contenitore alto e stretto versate le uova e gli spinaci cotti e setacciati . Frullate con il mixer a immersione  per ottenere una crema liscia e omogenea . Ponete sulla spianatoia la farina a fontana, versate al centro quasi tutta la crema di spinaci , tenetene da parte un pochino per calibrarne meglio il dosaggio in base a come la farina assorbe i liquidi. Mescolate prima con una forchetta  e poi impastate a mano . Una volta ottenuto un impasto omogeneo , avvolgetelo con la pellicola  e lasciatelo riposare coperto per almeno mezz’ora in luogo fresco. Passate al ripieno: in una ciotola versate la ricotta ben scolata e insaporitela con sale, pepe e noce moscata . La scorza del limone  e il Parmigiano Reggiano DOP grattugiato . Mescolate per amalgamare i sapori . Trasferite la crema di ricotta in un sac-à-poche .  Dopo il riposo la pasta fresca risulterà più morbida ed elastica, stendete una parte del panetto con poca farina sulla spianatoia  e tiratelo con la macchina sfogliatrice al massimo spessore . Ripiegate i due lembi della sfoglia verso il centro quindi spolverate di nuovo con pochissima farina.Ripassatela tra i rulli fino al penultimo spessore, per ottenere una sfoglia spessa circa - mm , una volta ottenuta una sfoglia rettangolare, adagiatela sulla spianatoia leggermente infarinata  e rifilate le estremità con un tarocco. Con il sac-à-poche create dei cerchi . Inserite al centro il tuorlo .  Coprite con un’altra sfoglia, sigillate bene in modo da far uscire l'aria . Con un coppapasta leggermente più largo ritagliate il raviolo Una volta formati i ravioli , adagiateli su un vassoio spolverato di semola  , ben distanziati per non farli attaccare . In padella sciogliete il burro , unite la salvia  e quando sarà bruno versate un mestolo di acqua calda .Fate addensare il fondo e tenetelo da parte . Lessate i ravioloni in acqua salata bollente , poi scolateli nella padella con il fondo  e aggiungete ancora una noce di burro.Ripassate qualche istante per insaporire . Impiattate versando sul fondo il sughetto  poi il raviolone e per finire una spolverata di Parmigiano reggiano DOP grattugiato. Il raviolone verde ripieno è pronto per essere servito .
+
+## Descrizione
+Il raviolone verde ripieno avrà un aspetto affascinante e invitante, con la pasta verde che avvolge un delicato e saporito ripieno di ricotta, spinaci e aromi. Il piatto sarà arricchito da una salsa al burro e salvia e da una spolverata di parmigiano Reggiano DOP.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia. È perfetto per chi segue una dieta equilibrata e ama i sapori tradizionali della cucina italiana.
+
+Le persone con intolleranze al lattosio possono sostituire la ricotta vaccina con una versione senza lattosio o con una crema vegetale. Le persone con intolleranze al glutine possono utilizzare una farina senza glutine per la preparazione della pasta.

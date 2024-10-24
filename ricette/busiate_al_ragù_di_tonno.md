@@ -1,0 +1,34 @@
+# Busiate al ragù di tonno
+Categoria: Primi piatti
+
+## Ingredienti
+- Busiate: 320 g
+- Tonno: 300 g
+- Pomodori pelati: 500 g
+- Cipolle: 50 g
+- Aglio: 2 spicchi
+- Concentrato di pomodoro: 20 g
+- Vino bianco: 150 g
+- Menta: q.b.
+- Olio extravergine d'oliva: 20 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pangrattato: 100 g
+- Aglio: 1 spicchio
+- Prezzemolo: 5 g
+- Olio extravergine d'oliva: 30 g
+- Peperoncino in polvere: q.b.
+- Menta: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare le busiate al ragù di tonno tagliate il tonno fresco prima a fette dello spessore di ,- cm  e poi a cubetti . Mondate e tritate finemente la cipolla .Scaldate l’olio in un’ampia padella antiaderente, poi aggiungete la cipolla tritata e gli spicchi di aglio interi  e fate soffriggere a fuoco medio-basso fino a quando la cipolla diventerà trasparente. A questo punto eliminate l’aglio e unite i cubetti di tonno . Rosolate il tonno a fuoco dolce per - minuti, cercando di girarlo delicatamente su tutti i lati per evitare di romperlo .A questo punto alzate la fiamma e sfumate con il vino bianco . Una volta evaporato, versate i pomodori pelati  e spezzettateli con il mestolo, poi aggiungete poca acqua, quanto basta per sciacquare la ciotola . Unite anche il concentrato di pomodoro.Salate, pepate e aromatizzate con le foglie di menta spezzettate con le mani . Mescolate bene , abbassate nuovamente la fiamma e lasciate cuocere per circa  minuti .Nel frattempo occupatevi della muddica: in un’altra padella fate insaporire l’olio con l’aglio  e il prezzemolo , tritati finemente. Aggiungete anche il peperoncino .Versate il pangrattato  e lasciate dorare a fiamma moderata, mescolando spesso . Tenete da parte la muddica e mettete sul fuoco una pentola di acqua da salare a bollore. Quando il sugo sarà pronto tuffate la pasta nell’acqua bollente salata .Scolate le busiate molto al dente e trasferitele nella padella con il condimento . Terminate la cottura della pasta aiutandovi con un mestolo della sua acqua di cottura , mescolando bene per amalgamare il tutto .Impiattate e guarnite con abbondante muddica , poi completate il piatto con un filo di olio a crudo  e qualche fogliolina di menta fresca: le vostre busiate al ragù di tonno sono pronte per essere servite !
+
+## Descrizione
+Il risultato finale della ricetta "Busiate al ragù di tonno" sarà un primo piatto gustoso e ricco di sapori mediterranei, grazie all'abbinamento del tonno con pomodori, cipolle, aglio, menta e vino bianco. Le busiate, tipica pasta siciliana a forma di spirale, si insaporiranno con il ragù di tonno e saranno arricchite da una spolverata di pangrattato aromatizzato con aglio, prezzemolo e peperoncino.
+
+Le busiate al ragù di tonno sono adatte per occasioni informali e conviviali, perfette per un pranzo o una cena in compagnia di amici e parenti. Possono essere servite sia in versione vegetariana senza il tonno, sia in versione classica con il pesce.
+
+Le busiate al ragù di tonno sono adatte a una dieta mediterranea e sono un piatto ricco di proteine grazie al tonno. Possono essere consumate anche in una dieta dimagrante, in quanto presentano una ridotta quantità di grassi.
+
+Le persone con intolleranze al pesce non possono mangiare questa ricetta, così come quelle con intolleranze al lattosio se il pangrattato è stato preparato con formaggio grattugiato. Inoltre, bisogna fare attenzione alle intolleranze al glutine se le busiate non sono preparate con una pasta senza glutine.

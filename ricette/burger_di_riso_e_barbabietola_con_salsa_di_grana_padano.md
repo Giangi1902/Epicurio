@@ -1,0 +1,26 @@
+# Burger di riso e barbabietola con salsa di Grana Padano
+Categoria: Piatti Unici
+
+## Ingredienti
+- Barbabietole: (circa 1 intera) 100 g
+- Riso Ribe: 100 g
+- Panini integrali: 6
+- Lattuga iceberg: q.b.
+- Pomodori ramati: 1
+- Olio extravergine d'oliva: q.b.
+- Menta: q.b.
+- Sale fino: q.b.
+- Grana Padano DOP: Riserva oltre 20 mesi 80 g
+- Latte intero: 200 g
+
+## Preparazione
+Per realizzare il burger di riso e barbabietola con salsa al Grana Padano per prima cosa lavate con cura la barbabietola e poi cuocetela da cruda e con tutta la buccia in abbondante acqua non salata per circa  minuti o fino a quando non sarà morbida . Ricordate di conservare l’acqua di cottura della barbabietola perché vi servirà per cuocere il riso. Quando la barbabietola sarà cotta pelatela  e frullatela con un frullatore a immersione ;Dovrete ottenere una consistenza cremosa . Scaldate un filo d’olio in una padella  e tostate il riso a fuoco vivace per un minuto .Proseguite la cottura del riso aggiungendo l’acqua della barbabietola ben calda . Salate, aggiungete foglioline di menta  e, a circa a metà cottura, versate la purea di barbabietola . Mescolate per insaporire e proseguite la cottura aggiungendo il brodo di barbabietola al bisogno.Dopo circa  minuti il risotto sarà pronto, dovrà risultare ben compatto . Stendete il riso su un vassoio , distribuendolo in modo omogeneo, copritelo con pellicola a contatto  e riponetelo in frigo a freddare poiché dovrà risultare ben freddo per poter formare i burger.Ora prendete i panini, divideteli a metà , poneteli su una teglia da forno, irrorateli con un filo di olio  e tostateli in forno preriscaldato a  gradi per circa cinque minuti, tenete in caldo il pane  e proseguite con le preparazioni.Preparate la salsa al Grana Padano DOP: portate a bollore il latte , aggiungete il Grana Padano DOP grattugiato  e mescolate per bene ;fino a quando non avrete ottenuto una consistenza piuttosto fluida . Formate i vostri burger: riprendete il riso ormai freddo , prelevate circa  gr di riso e coppatelo con un coppa pasta da , cm . Avendo cura di pressare bene il riso.man mano che formate i burger, adagiateli su un vassoio rivestito con carta forno . Versate un filo d’olio in una padella e quando sarà ben caldo scottate i vostri burger da una parte e dall’altra  per un paio di minuti .Tagliate finemente l’insalata iceberg  e affettate il pomodoro ramato  . Adesso componete i vostri burger nel seguente modo: adagiate metà di un panino su un piatto e poi farcite con i burger ,abbondante salsa al Grana Padano DOP , una fetta di pomodoro, l'insalata  e chiudete con l’altra metà del panino . I vostri burger di riso e barbabietola con salsa al Grana Padano sono pronti, gustateli subito!
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un burger vegano a base di riso e barbabietola, arricchito da una salsa cremosa di Grana Padano. Il burger sarà colorato e saporito, con una consistenza morbida all'interno e croccante all'esterno grazie alla cottura in padella. La salsa di Grana Padano darà al piatto una nota di gusto intenso e formaggio, perfettamente bilanciata dall'accoppiata dolce delle barbabietole e del riso.
+
+Questo piatto è adatto per un pranzo o una cena sostanziosa, da gustare da soli o in compagnia. È perfetto da servire durante un barbecue o un picnic, ideale per chi ama i sapori originali e la cucina innovativa.
+
+La ricetta è adatta a una dieta vegetariana e può essere facilmente adattata per renderla vegana, sostituendo il latte intero con una bevanda vegetale. È un piatto ricco di fibre e antiossidanti grazie alla presenza delle barbabietole, ideale per chi segue una dieta equilibrata e varia.
+
+Le persone con intolleranze al lattosio possono mangiare questo piatto sostituendo il Grana Padano con un formaggio senza lattosio o con una salsa alternativa. Chi soffre di celiachia può preparare dei burger senza glutine utilizzando panini integrali senza glutine.

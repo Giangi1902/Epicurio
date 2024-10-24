@@ -1,0 +1,27 @@
+# Risotto mozzarella di bufala e pomodorini
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Carnaroli: 320 g
+- Pomodorini datterini: 200 g
+- Mozzarella di bufala: 300 g
+- Vino bianco: 50 g
+- Olio extravergine d'oliva: q.b.
+- Scalogno: 1
+- Basilico: 4 foglie
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Brodo vegetale: 1 l
+- Parmigiano Reggiano DOP: 50 g
+
+## Preparazione
+Per realizzare il risotto mozzarella di bufala e pomodorini, preparate il brodo vegetale; quindi mondate lo scalogno e poi tritatelo finemente con il coltello . Lavate i pomodorini e tagliateli in quarti . Trasferite i pomodorini all’interno di una ciotola e conditeli con sale, pepe, foglioline di basilico e olio di oliva .Coprite la ciotola con la pellicola e teneteli da parte . In un tegame ampio, scaldate un filo di olio di oliva, poi versate lo scalogno tritato  e fate stufare  a fuoco medio per circa  minuti o fino a quando non risulterà morbido, mescolando di tanto in tanto per non farlo attaccare.A quel punto versate il riso, tostatelo per - minuti, mescolando. Poi sfumate con il vino bianco . Una volta che il vino sarà evaporato, iniziate a versare il brodo vegetale caldo, un mestolo alla volta al bisogno , mescolando spesso il riso. Intanto tagliate a piccoli dadini la mozzarella di bufala . Tenete da parte qualche cubetto di mozzarella per la guanizione del piatto.Quando il riso avrà raggiunto la cottura, spegnete il fuoco, pepate e mantecate con la mozzarella  e il Parmigiano . Mescolate per amalgamare e insaporire .Versate il riso nei piatti, distribuite sopra i pomodorini  e al centro adagiate i cubetti di mozzarella di bufala che avete tenuto da parte  e per finire guarnite con foglioline di basilico e servite subito il vostro delizioso risotto mozzarella di bufala e pomodorini .
+
+## Descrizione
+Il risultato finale della ricetta "Risotto mozzarella di bufala e pomodorini" sarà un risotto cremoso e saporito, con il gusto distintivo della mozzarella di bufala e l'accostamento dolce dei pomodorini datterini.
+
+Occasioni adatte: Questo risotto è perfetto per una cena elegante o una serata speciale, ma può essere preparato anche per un pranzo informale tra amici o famiglia.
+
+Diete o regime alimentare adatti: Il risotto mozzarella di bufala e pomodorini non è adatto a diete restrittive, come quelle ipocaloriche o chetogeniche, a causa dell'alto contenuto di carboidrati nel riso. Tuttavia, può essere incluso in una dieta bilanciata come primo piatto.
+
+Intolleranze: Le persone con intolleranza al glutine possono consumare questa ricetta sostituendo il riso carnaroli con riso senza glutine. Le persone con intolleranza al lattosio possono optare per una mozzarella di bufala senza lattosio o sostituirla con un formaggio vegano a base di anacardi. Le persone con intolleranza al pomodoro dovranno evitare i pomodorini datterini, ma possono sostituirli con altri ortaggi o ridurre la quantità di pomodoro utilizzata.

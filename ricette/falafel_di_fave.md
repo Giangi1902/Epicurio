@@ -1,0 +1,25 @@
+# Falafel di fave
+Categoria: Antipasti
+
+## Ingredienti
+- Fave secche: 500 g
+- Acqua: 35 g
+- Farina 00: 20 g
+- Prezzemolo: 10 g
+- Cipolle: 1
+- Aglio: 1 spicchio
+- Sale fino: 5 g
+- Cardamomo: 2 g
+- Bicarbonato: 2 g
+- Cumino: 1 g
+- Pepe nero: q.b.
+- Olio di semi di arachide: q.b.
+
+## Preparazione
+Per poreparare i falafel di fave mettete le fave in una ciotola con acqua fredda e lasciatele in ammollo per una notte. Il giorno dopo scolatele in un colino  e asciugatele con un canovaccio . Ponete le fave in un mixer, aggiungete lo spicchio di aglio la cipolla tagliata a fette grossolane  e il prezzemolo , frullate le fave con gli aromi fino ad ottenere un composto omogeneo e ben compatto.Sciogliete il bicarbonato nell’acqua  e aggiungete anche questa al composto . Aromatizzate il composto con il mix di spezie preparato con cumino e cardamomo Per ultima unite la farina  e frullate ancora per qualche istante. Dovrete ottenere un composto non troppo liscio, ma granuloso . Scaldate l’olio e portatelo alla temperatura massima di ° (se preferite potete friggere i falafel anche nella friggitrice). Si sconsiglia la cottura in forno perchè non avendo panatura i falafel rischiano di seccarsi. Con un cucchiaino prendete l’impasto, tirate indietro la levetta presente sull’apposito attrezzo da falafel (se non disponete dell’attrezzo potete formare delle polpettine leggermente schiacciate formando dei dischi); riempite la conca fino a formare una cupoletta  pressando bene con il cucchiaino (ogni felafel pesa  gr circa)Lasciate la levetta e versate il falafel direttamente nell’olio caldo , rigirate i falafel di tanto in tanto e toglieteli quando saranno dorati . Scolateli su un foglio di carta assorbente  e salateli leggermente, se preferite. Serviteli i vostri falafel di fave caldi!
+
+## Descrizione
+- Il risultato finale della ricetta sarà un piatto di falafel di fave croccanti all'esterno e morbidi e saporiti all'interno. Avranno un colore verde intenso grazie al prezzemolo e saranno profumati grazie alle spezie utilizzate.
+- Gli falafel di fave sono adatti come antipasto per un pranzo o una cena, oppure possono essere serviti come finger food in occasioni informali.
+- Questa ricetta è adatta per una dieta vegetariana e vegana, in quanto non contiene ingredienti di origine animale. Inoltre, è senza glutine se si utilizza una farina senza glutine.
+- Le persone con intolleranze al lattosio, al glutine e al lievito possono mangiare questo piatto. Tuttavia, se si ha un'intolleranza ai legumi, è meglio evitare questo piatto in quanto le fave sono un legume.

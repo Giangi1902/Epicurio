@@ -1,0 +1,26 @@
+# Chiocciole di pane ripiene di cubetti di cotto e fontina
+Categoria: Antipasti
+
+## Ingredienti
+- Acqua: tiepida 150 ml
+- Farina 00: 250 g
+- Olio extravergine d'oliva: 1 cucchiaio
+- Malto: 1 cucchiaino
+- Sale fino: 5 g
+- Lievito di birra secco: 3 g
+- Prosciutto cotto: a cubetti 120 g
+- Fontina: 90 g
+- Uova: 1
+- Latte intero: 1 cucchiaio
+- Semi di papavero: q.b.
+
+## Preparazione
+Per realizzare le chioccioline di pane ripieno di cotto e fontina iniziate dalla preparazione della pasta di pane: in una ciotola setacciate la farina , in un’altra ciotola sciogliete il lievito disidratato nell’acqua tiepida  mescolando con un cucchiaio, incorporate poi il malto (in alternativa potete utilizzare lo zucchero)  fino ad ottenere un composto omogeneo.Versate il composto nella ciotola con la farina , versate l’olio di oliva  e il sale .Mescolate gli ingredienti con le mani  e trasferite l’impasto su di una spianatoia e impastate fino ad ottenere un panetto liscio, trasferite il panetto in una ciotola, copritelo con al pellicola trasparente  e ponetelo in forno spento con la luce accesa a lievitare per  ore. Trascorso il tempo della lievitazione il panetto avrà raddoppiato il suo volume ,trasferitelo sulla spianatoia e stendete una sfoglia di x cm spennellate la superficie con una miscela di uovo sbattuto con un cucchiaio di latte . Passate ora alla farcitura: adagiate sulla superficie della sfoglia di pane le fette di fontina lasciando  cm di bordo per facilitare l’avvolgimento. Distribuite i cubetti di cotto . Ora arrotolate la pasta dal lato lungo ,una volta avvolto il rotolo  trasferitelo su un vassoio ricoperto di carta da forno  e lasciatelo riposare un frigorifero almeno mezz’ora. Trascorso questo tempo tagliate il rotolo a fette spesse , cm , otterrete circa  chiocciole, trasferitele su una leccarda rivestita di carta da forno, riponete le chioccioline a lievitare per almeno  ora in forno spento con la luce accesa.Spennellate la superficie delle chioccioline con l’emulsione di latte e uovo sbattuto , spolverizzate con i semi di papavero  e cuocete in forno statico preriscaldato a ° per  minuti (oppure in forno ventilato a ° per - minuti) fino a quando i bocconcini non risulteranno dorati. Le vostre chioccioline di pane ripiene di cotto e fontina sono pronte  per essere portate in tavola!
+
+## Descrizione
+Il risultato finale sarà un antipasto sfizioso e appetitoso, con una consistenza croccante fuori e morbida dentro. Le chiocciole di pane saranno ripiene di cubetti di prosciutto cotto e formaggio fontina, che si scioglierà delicatamente durante la cottura, creando un saporito contrasto di sapori.
+
+Questa ricetta è perfetta per occasioni speciali come aperitivi o buffet, ma può essere gustata anche come antipasto in un pranzo o cena informale.
+Le chiocciole di pane ripiene sono adatte a una dieta bilanciata, in quanto contengono sia proteine dal prosciutto cotto, sia carboidrati dalla farina e formaggio. È consigliabile consumarle con moderazione per evitare un eccessivo apporto calorico.
+
+Le persone con intolleranze al lattosio potrebbero sostituire il latte con latte senza lattosio. Chi soffre di intolleranza al glutine potrebbe provare a realizzare la ricetta con farina senza glutine, anche se il risultato potrebbe variare leggermente. Le persone con intolleranze alimentari possono comunque gustare questa ricetta, facendo le opportune modifiche agli ingredienti.

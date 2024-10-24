@@ -1,0 +1,33 @@
+# Crostata frangipane con mele e ribes
+Categoria: Dolci
+
+## Ingredienti
+- Farina integrale: 500 g
+- Burro: freddo 280 g
+- Zucchero di canna: 120 g
+- Tuorli: (circa 3) 45 g
+- Uova: (1 medio) 55 g
+- Sale fino: 1 pizzico
+- Scorza di limone: 1
+- Uova: 100 g
+- Farina di mandorle: 100 g
+- Burro: morbido 100 g
+- Zucchero di canna: 100 g
+- Latte intero: a temperatura ambiente 50 g
+- Mele renette: 2
+- Confettura di ribes: 250 g
+- Mandorle in scaglie: q.b.
+- Ribes: q.b.
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare la crostata frangipane alle mele e ribes per prima cosa preparate la pasta frolla. Versate in una ciotola la farina integrale ed il burro freddo a pezzetti . Lavorate gli ingredienti con le mani sino ad ottenere un impasto sabbioso. Ottenuto l’impasto sabbioso unite lo zucchero di canna  e il sale  e lavorate il tutto ancora per un paio di minuti.Aggiungete all’impasto i tuorli e le uova a temperatura ambiente poi la scorza del limone , lavorate nuovamente gli ingredienti  sino a completo assorbimento delle uova ottenendo in impasto uniforme e abbastanza consistente. Trasferite l’impasto sul piano di lavoro e formate un panetto .Coprite con pellicola  e lasciate riposare in frigorifero almeno per  ore.  Realizzate la crema frangipane. In una ciotola versate le uova, lo zucchero , la farina di mandorle e il burro .Lavorate il tutto con le fruste elettriche  sino ad ottenere un composto morbido e montato. Unite al composto il latte a temperatura ambiente  e lavorate nuovamente sino a completo assorbimento .Mondate le mele  e tagliatele a pezzetti irregolari di circa  cm . Versate le mele a cubetti nella crema frangipane . Mescolate bene e tenete da parte . Spolverate leggermente il piano di lavoro con della farina e stendete, con un mattarello, la frolla a circa ½ cm di spessore . Arrotolate la frolla stesa sul mattarello . Adagiate delicatamente sulla tortiera a cerniera da  cm di diametro . Con le dita fate aderire la frolla allo stampo e con un coltellino eliminatee la parte in eccesso sul bordo . Tenete da parte la frolla che avanza. Versate la confettura di ribes nel guscio di frolla .  Spalmate su tutta la base in modo omogeneo . Versate sulla confettura la crema frangipane di mele  e livellate dolcemente con un cucchiaio .Riprendete la frolla avanzata e passatela nello schiacciapatate  realizzando delle striscioline  . Decorare la superficie della crostata con le striscioline di frolla integrale . Completate con le mandorle a lamelle . Cuocete in forno statico preriscaldato a ° per  ora e  minuti. Sfornate e lasciate raffreddare completamente a temperatura ambiente prima di sformare . Terminate la crostata frangipane di mele e ribes decorando con zucchero a velo e con qualche ribes .
+
+## Descrizione
+Il risultato finale sarà una crostata frangipane con mele e ribes, con una base friabile e golosa grazie alla farina integrale e al ripieno di frangipane alle mandorle. Le mele renette e la confettura di ribes aggiungono freschezza e acidità alla dolcezza della crostata. Le mandorle in scaglie e i ribes utilizzati come decorazione la rendono anche molto accattivante visivamente.
+
+Questa crostata è adatta per occasioni speciali come feste di compleanno, brunch o merende in compagnia. Si presta bene a essere servita come dessert dopo un pranzo o una cena.
+
+La ricetta contiene farina integrale, quindi è adatta per chi segue una dieta più salutare e ricca di fibre. Tuttavia, è comunque un dolce, quindi dovrebbe essere consumato con moderazione.
+
+Le persone con intolleranza al glutine dovrebbero fare attenzione in quanto la ricetta contiene farina di frumento. Inoltre, chi è allergico alle mandorle dovrebbe evitare questo dolce, poiché contiene sia farina che latte di mandorle. Chi ha intolleranza al lattosio può sostituire il latte con una versione senza lattosio o con latte di mandorle. Chi è intollerante al fruttosio dovrebbe fare attenzione alla quantità di zucchero e frutta presenti nella ricetta.

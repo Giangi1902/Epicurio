@@ -1,0 +1,21 @@
+# Clafoutis al cacao e fragole
+Categoria: Dolci
+
+## Ingredienti
+- Latte condensato al cacao Nestlé: 200 g
+- Farina 00: 200 g
+- Uova: (circa 3 medie) 165 g
+- Fragole: 90 g
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare i clafoutis al cacao e fragole iniziate rompendo le uova in una ciotola, versate il latte condensato al cacao  e mescolate con una frusta . Setacciate la farina .Incorporate bene la farina , fino a ottenere una crema morbida e omogena . Pulite le fragole e tagliatele a rondelle .Aggiungete le fragole all’impasto  e incorporatele delicatamente . Imburrate  stampini in ceramica, di  cm di diametro e  cm di altezza, e trasferite il composto .Passate alla cottura : i clafoutis al cacao e fragole cuociono in forno statico, già caldo a °, per circa  minuti . Una volta cotti e tiepidi gustateli con un po' di zucchero a velo in superficie .
+
+## Descrizione
+Il risultato finale della ricetta di Clafoutis al cacao e fragole sarà un dolce soffice e leggermente umido, grazie alla presenza del latte condensato al cacao. Le fragole aggiungono un tocco di freschezza e colore al dolce, mentre lo zucchero a velo crea una piacevole crosticina sulla superficie.
+
+Questo dolce è adatto per un'occasione speciale come una cena tra amici o per una festa di compleanno. Può essere servito come dessert dopo un pranzo o una cena leggera.
+
+La ricetta è adatta per persone che seguono una dieta moderata in grassi, in quanto contiene latte condensato al cacao che può essere più calorico rispetto ad altri tipi di latticini. Tuttavia, può essere consumato occasionalmente come dolce di concessione.
+
+Le persone con intolleranza al lattosio potrebbero non essere in grado di consumare questo dolce a causa della presenza del latte condensato. Inoltre, chi è allergico alle fragole dovrebbe evitare di consumare questo dolce o sostituire le fragole con un altro tipo di frutta.

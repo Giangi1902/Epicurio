@@ -1,0 +1,33 @@
+# Lasagne al ragù bianco e zucchine
+Categoria: Primi piatti
+
+## Ingredienti
+- Lasagne all'uovo: 250 g
+- Zucchine: 300 g
+- Parmigiano Reggiano DOP: da grattugiare q.b.
+- Salsiccia: 320 g
+- Sedano: 1 costa
+- Carote: 1
+- Cipolle: 1
+- Vino rosso: 50 ml
+- Acqua: 50 ml
+- Rosmarino: da tritare 1 rametto
+- Aglio: 1 spicchio
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Latte intero: 500 ml
+- Parmigiano Reggiano DOP: da grattugiare 200 g
+- Burro: 50 g
+- Farina 00: 50 g
+
+## Preparazione
+Per realizzare le lasagne al ragù bianco e zucchine iniziate preparando il soffritto seguendo la nostra scheda come fare il soffritto: lavate e spuntate la carotae la costa di sedano, sbucciate la cipolla e tagliate tutte le verdure per ottenere dei piccoli cubetti. In una pentola mettete a scaldare un filo d’olio e fate insaporire uno spicchio d’aglio, unite poi le verdure per il soffritto (-). Fate rosolare almeno  minuti per ammorbidire le verdure, poi unite il trito di rosmarino .Spellate la salsiccia  e tritatela con il coltello  poi unitela nel tegame con il soffritto . Salate, pepate e fate rosolare la salsiccia per qualche minuto,sfumate con il vino rosso  e fatelo evaporare. Versate anche l’acqua calda e fate cuocere il ragù. Quando la salsiccia risulterà morbida e ben cotta spegnete il fuoco ed eliminate lo spicchio di aglio con una pinza da cucina . Ora occupatevi delle verdure: lavate e spuntate le zucchine e tagliatele per il lato lungo a fette sottili circa  cm con una mandolina .Grigliate le fette di zucchina su una piastra e tenetele da parte . Ora preparate la crema al formaggio seguendo la nostra scheda crema al Parmigiano: in un pentolino mettete a scaldare il latte (non dovrà arrivare a bollore), mentre in un altro sciogliete il burro , aggiungete la farina  e mescolate per ottenere un roux.Poi versate il latte scaldato in precedenza (leggermente intiepidito) nel roux  e stemperate tutto il composto, mescolando bene con la frusta e cuocete a fuoco basso, quando si sarà addensato, togliete il pentolino dal fuoco e unite il Parmigiano Reggiano grattugiato , dovete ottenere una sorta di besciamella cremosa .La vostra crema al parmigiano è pronta, potete comporre le lasagne: prendete una teglia rettangolare che misuri  x  cm, stendete sul fondo uno strato di crema al parmigiano , poi ponete uno strato di sfoglie , ricoprite con altra crema, poi con il ragù e infine con uno strato di zucchine , iniziate un altro strato di sfoglie e proseguite alternando gli strati fino ad esaurire gli ingredienti. Terminate con uno strato di ragù e spolverate la superficie con del Parmigiano Reggiano grattugiato . Cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sfornate le lasagne, lasciatele intiepidire qualche minuto e poi portatele in tavola!
+
+## Descrizione
+Il risultato finale delle Lasagne al ragù bianco e zucchine sarà un piatto ricco e cremoso, con strati di lasagne all'uovo alternate a un ragù bianco di salsiccia, zucchine e besciamella. La superficie sarà gratinata con Parmigiano Reggiano per un tocco croccante e saporito.
+
+Questo piatto è adatto per occasioni speciali come pranzi in famiglia, cene con gli amici o per festeggiare un'occasione particolare.
+
+Le Lasagne al ragù bianco e zucchine sono adatte a una dieta bilanciata e sana, ma non sono indicate per chi segue una dieta vegana o vegetariana, in quanto contengono carne di salsiccia. Tuttavia, si possono adattare a una dieta senza glutine utilizzando lasagne senza glutine e sostituendo la farina 00 con un'altra farina priva di glutine per la besciamella.
+
+Le persone con intolleranze al lattosio o al glutine dovrebbero fare attenzione a consumare questo piatto, ma possono adattarlo utilizzando alternative senza lattosio alla besciamella e alle lasagne, e sostituendo la farina con una senza glutine.

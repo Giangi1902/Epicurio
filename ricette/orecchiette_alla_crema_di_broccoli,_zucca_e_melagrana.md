@@ -1,0 +1,34 @@
+# Orecchiette alla crema di broccoli, zucca e melagrana
+Categoria: Primi piatti
+
+## Ingredienti
+- Orecchiette: 320 g
+- Zucca: pulita 280 g
+- Broccoli: cimette verdi 120 g
+- Olio extravergine d'oliva: 20 g
+- Peperoncino: secco 1
+- Aglio: 1 spicchio
+- Melagrana: 1
+- Origano: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Broccoli: gambi e parti chiare 250 g
+- Scalogno: 50 g
+- Olio extravergine d'oliva: 15 g
+- Acqua: 300 g
+- Robiola: 100 g
+- Origano: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le orecchiette con broccoli cremosi, zucca e melagrana cominciate dalla pulizia del broccolo. Lavatelo accuratamente ed eliminate la base del gambo, se risulta scura. Poi separate il gambo dalla cima  e pelate il gambo . Staccate le cimette verdi dalla base più chiara della chioma .Tagliate il gambo a tocchetti , quindi radunate da una parte le cimette più verdi e vivaci, che terrete da parte per dopo; dall’altra i gambi a tocchetti e le basi chiare delle cime del broccolo . Occupatevi quindi della crema di broccolo, per la quale utilizzerete gambo e parti chiare. Tagliate a rondelle sottili lo scalogno Ponetelo in un tegame  e fatelo appassire per qualche minuto con l’olio extravergine. Unite i gambi , fateli rosolare per un paio di minuti e sfumate con l’acqua .Stufate a fuoco dolce per circa  minuti, fino a quando il broccolo non risulterà ben tenero. Unite l’origano fresco , regolate di sale, trasferite nel bicchiere del mixer  e con un frullatore a immersione frullate a crema. Unite la robiola ,amalgamate con una spatola per incorporarla in maniera omogenea e regolate di pepe . Tenete la crema da parte. Nel frattempo, portate ad ebollizione una pentola con abbondante acqua salata. Mondate e tagliate la zucca a dadini , versatela in pentola assieme alle cimette verdi del broccolo , e fate sbollentare per - minuti. Scolate le verdure e ponetele immediatamente in una bacinella con acqua fredda e ghiaccio  per bloccare la cottura e fissare il colore . Poi mettetele a scolare in un colino.Nel frattempo, portate ad ebollizione una pentola con abbondante acqua salata e buttate le orecchiette . Mentre cuociono, scaldate in una larga padella l’olio, il peperoncino intero e l’aglio tagliato a metà, fate soffriggere leggermente e poi unite le verdure ben scolate . Fatele saltare a fuoco vivace per qualche minuto, sfumando se necessario con un po’ di acqua di cottura della pasta, e regolate di sale e pepe .Rimuovete il peperoncino e l’aglio , scolate le orecchiette  e aggiungetele in padella .Fatele saltare un minutino, intanto tagliate a metà la melagrana  e raccoglietene i chicchi . Unite alla pasta i chicchi di melagrana ,l’origano fresco  e amalgamate bene. Impiattate distribuendo un po’ di crema di broccolo e robiola sul fondo dei piatti  e completando con una generosa dose di orecchiette! Le orecchiette alla crema di broccoli, zucca e melagrana, sono pronte da gustare !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto di pasta orecchiette condite con una cremosa salsa a base di broccoli, zucca e melagrana. La combinazione di sapori e colori renderà il piatto appetitoso e invitante.
+
+Questo piatto è adatto per pranzi o cene speciali, come ad esempio una cena con amici o in famiglia. La presenza della melagrana conferisce al piatto un tocco di freschezza e originalità, perfetto per stupire i tuoi ospiti.
+
+Questo piatto è adatto a una dieta vegetariana, poiché non contiene carne o pesce. Anche le persone che seguono una dieta senza glutine possono consumarlo, sostituendo semplicemente la pasta con una versione senza glutine. Tuttavia, è importante verificare l'etichetta degli ingredienti per essere certi della loro compatibilità con le esigenze dietetiche.
+
+Le persone con intolleranza al lattosio dovrebbero fare attenzione alla presenza di robiola nella ricetta, e potrebbero sostituirla con una versione di formaggio priva di lattosio. Le persone con intolleranza al glutine devono assicurarsi di utilizzare pasta senza glutine.

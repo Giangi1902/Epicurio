@@ -1,0 +1,27 @@
+# Bavaresi alle ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Ciliegie: intere 300 g
+- Gelatina in fogli: 12 g
+- Panna fresca liquida: 150 g
+- Latte intero: 150 g
+- Zucchero: 60 g
+- Tuorli: (circa 3 ) 55 g
+- Succo di limone: ½
+- Baccello di vaniglia: 1
+- Ciliegie: intere 100 g
+- Zucchero: 20 g
+- Succo di limone: ½
+
+## Preparazione
+Per realizzare le bavaresi alle ciliegie per prima cosa mettete in ammollo la gelatina in acqua fredda per una decina di minuti . Poi in un pentolino versate il latte con i semini e la bacca di vaniglia  quindi portate a sfiorare il bollore. Nel frattempo potete versare i tuorli in una ciotola con lo zucchero ,mescolate con una spatola  per ottenere un composto omogeneo . Filtrate il latte oramai caldo e versatelo sui tuorli , mescolando con la spatola il tutto.Riportate sul fuoco, cuocendo finché non raggiungerà una temperatura pari a ° . Togliete dal fuoco, aggiungete la gelatina strizzata delicatamente , mescolate e filtrate nuovamente in ciotola. Raffreddate la crema poggiandone la base su un’altra ciotola contenente acqua fredda e ghiaccio .Denocciolate le ciliegie  e frullatele con il succo di limone (-).Filtrate il succo ottenuto con un colino  per eliminare i residui di buccia . In una ciotola versate la panna liquida ben fredda .Montate la panna con le fruste elettriche  e unitela alla crema  mescolando con la spatola .Incorporate il succo di ciliegie filtrato , mescolate  e travasatelo in  stampini da bavaresi della capacità di  ml circa .Fate freddare in frigo almeno per cinque ore.Per la decorazione realizzate una coulis a caldo: denocciolate  g di ciliegie  e dividetele in due con le mani, sistemandole in una casseruola con lo zucchero  e il succo di limone .Cuocete per pochi istanti finché le ciliegie non avranno rilasciato il loro succo . Scolate le ciliegie, tenendo da parte il liquido in una ciotolina e fate freddare il tutto .Sformate le bavaresi immergendo la base in una ciotola contenente acqua tiepida (aiutatevi anche con un coltellino per staccare il bordo se è necessario).Ribaltate le bavaresi sui piattini (-). Decorate con la coulis  e servite subito la vostre bavaresi alle ciliegie.
+
+## Descrizione
+Il risultato finale sarà costituito da una dolce e fresca bavarese alle ciliegie, una deliziosa crema a base di panna e ciliegie, arricchita dal sapore della vaniglia e del limone, e servita con una salsa alle ciliegie fresche.
+
+Questa ricetta è adatta per occasioni speciali come feste di compleanno, cene eleganti o semplicemente come dessert da gustare in famiglia.
+
+La bavarese alle ciliegie è adatta per chi segue una dieta equilibrata, in quanto è un dolce leggero e ricco di frutta. Tuttavia, è consigliabile consumarla con moderazione data la presenza di zucchero e panna.
+
+Le persone con intolleranze al lattosio potrebbero provare ad utilizzare alternative senza lattosio come latte di mandorla o di riso nella preparazione della ricetta. Inoltre, coloro che sono intolleranti al glutine possono utilizzare gelatina senza glutine per preparare la bavarese alle ciliegie.

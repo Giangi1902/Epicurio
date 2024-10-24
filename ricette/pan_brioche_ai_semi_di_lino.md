@@ -1,0 +1,28 @@
+# Pan brioche ai semi di lino
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 0: 350 g
+- Farina Manitoba: 150 g
+- Latte intero: a temperatura ambiente 240 g
+- Acqua: a temperatura ambiente 100 g
+- Zucchero di canna: 25 g
+- Burro: a temperatura ambiente 20 g
+- Lievito di birra fresco: 5 g
+- Semi di lino: 20 g
+- Sale fino: 1 cucchiaino
+- Acqua: a temperatura ambiente 250 g
+- Farina 0: 50 g
+- Tuorli: 1
+- Latte intero: 10 g
+- Semi di lino: q.b.
+
+## Preparazione
+Per realizzare il pan brioche ai semi di lino, per prima cosa preparate il water roux: versate l’acqua a temperatura ambiente in un pentolino , aggiungete la farina setacciata  e mescolate a fuoco dolce con una spatola o una frusta facendo attenzione a non formare dei grumi .Quando il composto avrà raggiunto una consistenza gelatinosa dall’aspetto opalescente , rimuovete il pentolino dal fuoco e trasferite il composto in un barattolo o in un contenitore , dove lo lascerete raffreddare  chiuso con il coperchio o coperto con pellicola a contatto. Una volta raffreddato, il water roux sarà pronto per essere utilizzato, quindi prelevatene una porzione del peso di  g che vi servirà per il resto della ricetta.Sbriciolate il lievito di birra nell’acqua a temperatura ambiente  e mescolate con un cucchiaino per scioglierlo completamente . Versate la farina  e la farina manitoba nella ciotola di una planetaria munita di frusta a gancio ,poi unite il water roux , il lievito disciolto nell’acqua , il latte e lo zucchero di canna . Lavorate il tutto a velocità bassa fino ad ottenere un composto liscio e omogeneo, poi aggiungete il burro ammorbidito poco per volta, mantenendo la planetaria in funzione, avendo cura che ogni pezzetto venga assorbito completamente dall’impasto prima di aggiungerne un altro . In ultimo unite il sale e i semi di lino  e continuate a lavorare fino a che l’impasto non si staccherà dai bordi della ciotola . Trasferite l’impasto su un piano da lavoro leggermente infarinato e lavoratelo velocemente con le mani per formare una palla bella liscia .Trasferite la palla di impasto in una ciotola, coprite con pellicola  e lasciate lievitare a temperatura ambiente per circa  ora e mezza. Trascorso il tempo di lievitazione, mettete l’impasto sul piano leggermente infarinato e dividetelo in  parti uguali . Pirlate ogni porzione di impasto ruotandola fra le mani per formare una sfera perfetta e ben soda .Oliate uno stampo da plumcake o pane in cassetta da x cm  e posizionate all’interno le  sfere di impasto , poi coprite con pellicola e lasciate lievitare a una temperatura di °-° (per esempio nel forno spento con la luce accesa) fino a che l’impasto non avrà raggiunto i bordi dello stampo ; ci vorrà almeno  ora e mezza.Una volta lievitato, spennellate la superficie dell’impasto con il composto di latte e tuorlo che avrete sbattuto insieme , cospargete con i semi di lino  e cuocete in forno statico preriscaldato a ° per circa  minuti, posizionandolo sul ripiano in basso. Per verificare la cottura potete usare un termometro da cucina: quando il cuore avrà raggiunto i ° potete sfornare il vostro pan brioche e lasciarlo raffreddare. Una volta raffreddato, rimuovete il pan brioche ai semi di lino dallo stampo e gustatelo come preferite !
+
+## Descrizione
+Il risultato finale sarà un pan brioche soffice e fragrante, arricchito dal sapore dei semi di lino che conferiscono un tocco croccante e nutriente al prodotto.
+
+Questo pan brioche ai semi di lino è adatto per la colazione o la merenda, da gustare da solo o accompagnato da marmellata o crema spalmabile. È ottimo anche come base per realizzare toast o panini farciti.
+
+Questa ricetta è adatta a persone che seguono una dieta equilibrata e varia. Essendo un prodotto lievitato contenente farine e latticini, è sconsigliato per chi segue una dieta senza glutine o lattosio. Le persone con intolleranze al lattosio potrebbero provare a sostituire il latte intero con una bevanda vegetale senza lattosio, e chi ha intolleranza al glutine potrebbe cercare alternative senza glutine per le farine utilizzate.

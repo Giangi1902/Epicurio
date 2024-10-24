@@ -1,0 +1,31 @@
+# Cuoppo alla milanese
+Categoria: Secondi piatti
+
+## Ingredienti
+- Vitello: trita 250 g
+- Grana Padano DOP: 2 cucchiai
+- Uova: 1
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Farina 00: 50 g
+- Uova: 2
+- Pangrattato: 80
+- Olio di semi di arachide: q.b.
+- Patate: 150 g
+- Salvia: 2 foglie
+- Rosmarino: 2 rametti
+- Sale grosso: 1 cucchiaio
+- Aglio: 1 spicchio
+- Ketchup: 50 g
+- Yogurt greco: 1 cucchiaio
+- Tabasco®: qualche
+
+## Preparazione
+Per preparare il cuoppo alla milanese cominciate dalle polpettine. In un recipiente versate la carne macinata di vitello insieme alle uova , il sale, il pepe e il grana padano . Impastate bene il tutto fin quando tutti gli ingredienti non si sono compattati .Formate delle polpettine da circa  grammi ciascuna  e man mano disponetele su un vassoietto . Quindi riponete le polpettine a riposare in frigorifero mentre nel frattempo potete occuparvi del mix di erbe che servirà per condire le patate. Nel mixer versate l’aglio sbucciato ,le foglie di salvia , i rametti di rosmarino  e il sale grosso .Azionate le lame e ottenete un mix granuloso; mettetelo da parte . Lavate e asciugate le patate e poi affettatele sottilmente con la mandolina ottenendo delle fettine spesse  millimetri . Scolatele su carta assorbente e tamponate delicatamente .Poi riscaldate abbondante olio in una pentola capiente e immergete la pentola quando è a ° , lasciatele dorare un paio di minuti e poi scolatele su carta assorbente . Guarnite con il mix e tenete da parte .A questo punto riprendete le polpettine dal frigo e passatele prima nella farina , poi nelle uova sbattute  e infine nel pangrattato .Passate a friggere anche le polpettine nell’olio caldo, ancora a °, per circa un paio di minuti  e scolatele quando saranno dorate . Infine preparate la salsa d’accompagnamento versando il ketchup in una ciotolina insieme a qualche goccia di tabasco e lo yogurt greco .Mescolate bene il tutto  fino ad ottenere una crema liscia . Non vi resta che avvolgere il vostro cuoppo alla milanese in un cono di carta e servire con la salsa d’accompagnamento .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto croccante e sfizioso, grazie alla panatura croccante e dorata che avvolge la carne di vitello tritata. L'interno sarà morbido e gustoso, grazie al mix di carne e formaggio Grana Padano. Le patate, aromatizzate con salvia, rosmarino e aglio, saranno croccanti all'esterno e morbide all'interno. Il ketchup e lo yogurt greco con Tabasco® aggiungeranno un tocco di freschezza e piccantezza al piatto. 
+
+Questo piatto è adatto per una cena informale tra amici o come finger food per un aperitivo. Può essere servito come secondo piatto o anche come piatto unico, accompagnato da una bella insalata di stagione. 
+
+Questa ricetta è adatta a persone onnivore. Può essere consumata all'interno di una dieta equilibrata, ma va consumata con moderazione a causa della sua frittura. Le persone con intolleranze al lattosio possono sostituire il formaggio Grana Padano con formaggio senza lattosio o eliminare completamente il formaggio dalla ricetta. Le persone con intolleranze al glutine possono sostituire la farina 00 e il pangrattato con versioni senza glutine. Chi soffre di intolleranze al lattosio dovrebbe evitare il formaggio Grana Padano e lo yogurt greco, mentre chi ha intolleranze al glutine dovrebbe evitare la farina e il pangrattato.

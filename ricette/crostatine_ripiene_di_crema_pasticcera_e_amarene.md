@@ -1,0 +1,23 @@
+# Crostatine ripiene di crema pasticcera e amarene
+Categoria: Dolci
+
+## Ingredienti
+- Dischetti di pasta: 16
+- Tuorli: 3
+- Amido di mais (maizena): 45 g
+- Zucchero: 70 g
+- Latte intero: 200 g
+- Amarene sciroppate: q.b.
+- Menta: q.b.
+
+## Preparazione
+Per preparare le crostatine ripiene di crema pasticcera e amarene, iniziate dalla crema pasticcera: prendete la bacca di vaniglia, incidetela con un coltellino ed estraetene i semi raschiandola . Aggiungete i semi ed il baccello di vaniglia al latte e panna versati in un tegame (potete anche sostituire la panna con  g di latte) . Accendete il fuoco dolce e quando il composto avrà sfiorato il bollore, spegnete il fuoco e lasciate la vaniglia in infusione per almeno  minuti. Intanto proseguite la preparazione separando gli albumi dai tuorli; raccogliete questi ultimi un una ciotola capiente e aggiungete lo zucchero. Sbattete i tuorli e lo zucchero con uno sbattitore elettrico  oppure una frusta a mano per ottenere una crema omogenea.Quando saranno bianchi e spumosi, unite l'amido di mais setacciato  o di riso e amalgamatelo al resto del composto. Togliete la bacca di vaniglia dal latte e panna scaldati e unite il composto con le uova . Accendete nuovamente il fuoco dolce e mescolate con una frusta continuamente per addensare il composto .Una volta pronta la crema, versatela in una ciotola  e coprite con pellicola trasparente a contatto. Lasciatela raffreddare prima a temperatura ambiente poi riponetela in frigorifero fino al momento di utilizzarla. Prendete i dischetti di sfoglia , foderate con ciascun dischetto  stampini smerigliati che misurano  cm di diametro nella parte superiore e  cm nella parte inferiore .Fate aderire bene il fondo e i bordi e bucherellate il fondo con i rebbi di una forchetta ; spennellate i dischetti con il tuorlo sbattuto con il latte , poi cuceteli in forno statico preriscaldato a ° per  minuti (° per  minuti se forno ventilato; in questo caso potete cuocerne uno per regolarvi per i successivi). Una volta cotti, sfornateli  e lasciateli intiepidire quindi sformateli e fateli raffreddare completamente su una gratella.Nel frattempo, prendete le amarene, scolatele del liquido di conservazione e tagliatele a metà , e ricavate due quarti da ogni metà . Prendete la crema e versatela in una sac-à-poche con bocchetta a stella per farcire ciascuna crostatina Adagiate su ciascuna crostatina i quarti di amarena, cercando di comporre dei petali:  quarti sul perimetro e  al centro . Una volta terminato , potete ulteriormente decorare le crostatine ripiene di crema pasticcera e amarene con foglioline di menta .
+
+## Descrizione
+Il risultato finale sarà costituito da crostatine croccanti e dorati, ripiene di una delicata crema pasticcera arricchita con amarene sciroppate e decorata con foglioline di menta fresca.
+
+Occasioni: Le crostatine ripiene di crema pasticcera e amarene sono perfette da servire come dessert per occasioni speciali come feste di compleanno, anniversari, o come dolce da fine pasto.
+
+Dieta: Questa ricetta è adatta per chi segue una dieta bilanciata e non è esclusivamente dedicata a nessuna dieta specifica. È consigliato consumarle con moderazione per chi segue una dieta ipocalorica.
+
+Intolleranze: Le crostatine contengono ingredienti come uova, latte e glutine, perciò non sono adatte a persone con intolleranze a questi alimenti. Chi è intollerante al lattosio può sostituire il latte intero con latte senza lattosio, e chi è intollerante al glutine può optare per dischetti di pasta senza glutine.

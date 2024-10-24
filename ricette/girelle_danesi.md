@@ -1,0 +1,35 @@
+# Girelle danesi
+Categoria: Dolci
+
+## Ingredienti
+- Farina 0: 500 g
+- Latte intero: (a temperatura ambiente) 250 g
+- Zucchero: 100 g
+- Burro: (morbido) 70 g
+- Lievito di birra secco: 6 g
+- Uova: (medio, a temperatura ambiente) 1
+- Scorza di limone: 1
+- Sale fino: 1 pizzico
+- Latte intero: 250 g
+- Amido di mais (maizena): 25 g
+- Zucchero: 50 g
+- Uova: 1
+- Tuorli: 1
+- Scorza di limone: 1
+- Uvetta: 100 g
+- Zucchero a velo: 75 g
+- Acqua: 50 g
+- Tuorli: 1
+- Latte intero: q.b.
+
+## Preparazione
+Per preparare le girelle danesi inserite farina, zucchero, lievito di birra secco in planetaria . Azionate con la foglia e poi arrestate per unire la scorza di limone, l'uovo  e il latte a filo .Quando l'impasto inizierà ad essere omogeneo, aggiungete un pizzico di sale e il burro morbido un po' alla volta . Continuate a lavorare con la planetaria finché il burro non sarà completamente assorbito e l'impasto incordato . Poi trasferite l'impasto in una ciotola e coprite con pellicola: fate lievitare in luogo riparato da correnti d'aria o in forno spento con luce accesa per un'ora e mezza circa. Nel frattempo preparate la crema: scaldate il latte in un pentolino. In una ciotolina miscelate uovo e tuorlo, zucchero, amido e scorza di limone grattugiata .Dovrete ottenere un composto fluido e omogeneo . Versate in due volte in questo composto il latte caldo  e mescolate. Rimettete poi tutto sul fuoco dolce . Mescolate e cuocete la crema fino a quando non sarà arrivata alla consistenza ideale. Versate la crema pronta in una pirofila bassa e ampia, coprite subito con pellicola a contatto  e fate raffreddare completamente. Potete sciacquare e mettere in ammollo l'uvetta , intanto stendete l'impasto su un piano di lavoro leggermente infarinato .Dovrete farlo diventare quasi un rettangolo dello spessore di , cm . Spalmate su tutta la superficie la crema pasticcera , cospargete con uvetta precedentemente scolata e strizzata bene . Arrotolate dal lato più lungo , stringendo bene man a mano e, una volta terminato, sigillate le estremità pizzicando l'impasto . Tagliate il rotolo a fette spesse circa  cm, con un coltello ben affilato .Disponete le girelle ben distanziate su una teglia foderata con carta da forno (dovreste riuscire a posizionare circa  girelle per teglia) . Coprite con la pellicola e fate lievitare per  minuti sempre lontano da correnti d'aria. A questo punto rimuovete la pellicola, sbattete il tuorlo con poco latte  e spennellate le girelle con questo composto prima di infornare . Cuocete in forno statico preriscaldato a ° per  minuti.In una ciotolina mescolate  g di zucchero a velo con  g di acqua . Con questa mistura potrete spennellare le girelle una volta cotte e ancora calde  così da dare un effetto glassato. Infornate ancora per  minuti, poi una volta pronte gustatele ancora calde !
+
+## Descrizione
+Il risultato finale delle girelle danesi sarà un dolce soffice e profumato, con un ripieno cremoso e dolce all'uvetta. Le girelle saranno ricoperte da uno strato di glassa al limone e spolverate con zucchero a velo, creando un contrasto di consistenze e sapori.
+
+Le girelle danesi sono adatte per la colazione, la merenda o come dessert da servire durante una pausa caffè. Possono essere incluse in un buffet di dolci per feste e occasioni speciali.
+
+Le girelle danesi non sono adatte per diete ipocaloriche o a basso contenuto di grassi, dato che contengono ingredienti ricchi come burro, zucchero e uova.
+
+Le girelle danesi non sono adatte per persone con intolleranze al lattosio, all'uovo, al grano o al lievito. Si consiglia di utilizzare alternative senza lattosio, senza glutine e senza lievito per adattare la ricetta alle esigenze delle persone con queste intolleranze.

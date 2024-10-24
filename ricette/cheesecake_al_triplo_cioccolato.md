@@ -1,0 +1,36 @@
+# Cheesecake al triplo cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti secchi al cioccolato: 200 g
+- Burro: 100 g
+- Cioccolato fondente: 50 g
+- Formaggio fresco spalmabile: 250 g
+- Gelatina in fogli: 3 g
+- Panna fresca liquida: 80 ml
+- Zucchero a velo: 20 g
+- Cioccolato al latte: 50 g
+- Formaggio fresco spalmabile: 250 g
+- Gelatina in fogli: 3 g
+- Panna fresca liquida: 80 ml
+- Zucchero a velo: 20 g
+- Cioccolato bianco: 50 g
+- Formaggio fresco spalmabile: 250 g
+- Gelatina in fogli: 3 g
+- Panna fresca liquida: 80 ml
+- Zucchero a velo: 20 g
+- Cioccolato fondente: in scaglie q.b.
+- Cioccolato al latte: in scaglie q.b.
+- Cioccolato bianco: in scaglie q.b.
+
+## Preparazione
+Per preparare la cheesecake al triplo cioccolato iniziate predisponendo il fondo: mettete i biscotti al cacao nel mixer quindi sminuzzateli finemente. Ponete il burro a sciogliere in un pentolino; nel frattempo mettete i biscotti sminuzzati in una ciotola e aggiungete a poco a poco il burro sciolto  amalgamando per bene il tutto. Imburrate una tortiera, meglio se a cerchio apribile, del diametro di  cm; a questo punto potrete rivestire lo stampo con carta forno: quindi ritagliate un disco di carta forno dello stesso diametro del fondo della tortiera e due strisce della stessa altezza dei bordi, quindi foderate la tortiera stessa. Versate i biscotti sbriciolati nella tortiera ricoperta di carta forno  e con l'aiuto di un cucchiaio compattate bene la base di biscotto . Fate raffreddare il composto in frigorifero per mezz’ora o in freezer per una decina di minuti.Ora dedicatevi al ripieno: predisponete tre ciotole per le tre creme e ponete in ciascuna  g di formaggio fresco spalmabile, mescolate per ammorbidirlo . Intanto sciogliete a bagnomaria (o nel microonde) i  tipi di cioccolato separatamente (-)e incorporateli in ciascuna ciotola contenente il formaggio fresco spalmabile mescolando fino ad ottenere un composto cremoso (--) .Ora prendete tre ciotole e ammorbidite la gelatina necessaria per ciascuna crema ( g) separatamente in acqua fredda per  minuti. Quindi prendete altre  ciotole e versate in ciascuna  ml di panna, che avrete precedentemente scaldato, e in ognuna sciogliete la gelatina ben strizzata ( g per ogni ciotola) (-). Alla fine dovrete ottenere  ciotole ognuna contenente  ml di panna e  g di gelatina disciolta. Incorporate il primo dei  composti di panna e gelatina al cioccolato bianco utilizzando una frusta .Fate la stessa operazione per le altre ciotole di panna e gelatina, incorporandole sia nel cioccolato al latte che in quello fondente (-). Per ultimo unite lo zucchero a velo mescolando con una spatola .Fate la stessa operazione per tutti i tipi di cioccolato (-). Ora che le creme sono pronte potete comporre la cheesecake, estraete dal frigorifero la base di biscotto ormai fredda e compatta, iniziate a versare per prima la crema al cioccolato fondente , lasciate riposare in frigorifero o in freezer per - minuti.Quando il primo strato avrà cominciato a rassodarsi, procedete con il secondo strato di cioccolato al latte , lasciate riposare in frigorifero per altri - minuti, e terminate coprendo la superficie con il cioccolato bianco . Ponete in frigorifero a rassodare per almeno  ore . Quando la cheesecake al triplo cioccolato sarà pronta guarnitela a piacere con scaglie di cioccolato fondente, bianco e al latte.
+
+## Descrizione
+Il risultato finale della cheesecake al triplo cioccolato sarà un dolce cremoso e ricco, con tre diverse sfumature di cioccolato che si fondono insieme in un mix delizioso. La base croccante dei biscotti al cioccolato si sposa perfettamente con la consistenza morbida e vellutata della crema al formaggio e della gelatina alle tre varietà di cioccolato. Le scaglie di cioccolato fondente, al latte e bianco sulla superficie aggiungono un tocco extra di golosità e decorano la torta in modo elegante.
+
+Questa cheesecake è adatta per occasioni speciali come compleanni, feste e cene importanti, in quanto è un dolce che stupirà e delizierà gli ospiti. È perfetta anche come dessert da preparare in anticipo e conservare in frigorifero, per poterla servire fredda e fresca.
+
+Dal punto di vista delle diete, la cheesecake al triplo cioccolato è adatta ai vegetariani, purché venga utilizzata gelatina vegetale anziché quella in fogli di origine animale. Tuttavia, è un dolce ricco di grassi e zuccheri, quindi è consigliabile consumarlo con moderazione e principalmente come treat occasionale.
+
+Le persone con intolleranze al lattosio o al glutine potrebbero avere delle difficoltà a consumare questa ricetta. Nello specifico, per le persone intolleranti al lattosio si consiglia di utilizzare formaggi freschi senza lattosio e panna senza lattosio. Per le persone intolleranti al glutine, è necessario utilizzare biscotti senza glutine per la base e accertarsi che gli altri ingredienti siano privi di glutine o certificati come tali.

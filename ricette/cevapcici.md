@@ -1,0 +1,25 @@
+# Cevapcici
+Categoria: Secondi piatti
+
+## Ingredienti
+- Agnello: macinato 200 g
+- Manzo: macinato 150 g
+- Maiale: macinato 150 g
+- Cipolle bianche: 1
+- Aglio: 1 spicchio
+- Paprika dolce: ½ cucchiaino
+- Cumino in polvere: ½ cucchiaino
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare i cevapcici, per prima cosa mondate e tritate finemente la cipolla  e l’aglio , poi versate i  tipi di carne macinata in una ciotola capiente .Unite la cipolla , l’aglio  e il cumino .Aggiungete anche la paprika  e impastate con le mani per ottenere un composto omogeneo, poi regolate di sale  e di pepe e impastate ancora. Coprite la ciotola con pellicola  e lasciate in frigorifero per almeno  ore, per permettere ai sapori di amalgamarsi.Trascorso questo tempo riprendete il composto e formate delle polpette cilindriche lunghe circa  cm e larghe  cm, lavorandolo fra i palmi delle mani . Nel frattempo scaldate bene una piastra. Dopo averli formati, cuocete i cevapcici sulla piastra per circa  minuti, girandoli spesso per assicurarvi una cottura uniforme : dovranno risultare abbrustoliti all’esterno ma ancora morbidi e succosi all’interno. Servite i cevapcici ancora caldi o tiepidi, magari accompagnati con cipolla cruda e salsa ajwar come da tradizione !
+
+## Descrizione
+Il risultato finale sarà un piatto di cevapcici, ovvero delle polpette di carne piccole e sottili di origine balcanica, aromatizzate con spezie come paprika e cumino.
+
+Occasioni adatte: I cevapcici sono ideali per un pranzo o una cena in famiglia, un barbecue con amici o come finger food per un buffet.
+
+Dieta/Regime alimentare: I cevapcici possono essere adatti a una dieta proteica, ma è importante moderarne il consumo a causa dell'alto contenuto di grassi saturi presenti nella carne di maiale e agnello. Possono essere adatti anche a una dieta senza glutine se viene utilizzato sale senza glutine.
+
+Intolleranze: Le persone con intolleranza al lattosio dovrebbero prestare attenzione agli ingredienti che potrebbero contenere derivati del latte. Anche le persone con intolleranza al glutine dovrebbero prestare attenzione e assicurarsi che tutti gli ingredienti siano senza glutine.

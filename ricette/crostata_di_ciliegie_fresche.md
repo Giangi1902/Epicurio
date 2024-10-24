@@ -1,0 +1,27 @@
+# Crostata di ciliegie fresche
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: freddo 125 g
+- Zucchero a velo: 100 g
+- Uova: (1 piccolo) 56 g
+- Lievito in polvere per dolci: 4 g
+- Scorza di limone: 1
+- Sale fino: 1 pizzico
+- Ciliegie: (circa 250 g) 21
+- Zucchero: 50 g
+- Scorza di limone: ½
+- Mandorle in scaglie: 10 g
+
+## Preparazione
+Per preparare la crostata di ciliegie fresche come prima cosa realizzate la frolla. Nel contenitore di un mixer versate la farina, la scorza di limone , il burro a cubetti  e lo zucchero a velo . Unite poi anche il lievito , il sale  e l'uovo leggermente sbattuto . Azionate il mixer fino ad ottenere una consistenza omogenea , poi trasferite su un piano e lavorate rapidamente, giusto il tempo di compattare la frolla . Avvolgete il panetto ottenuto nella pellicola per alimenti  e lasciate riposare in frigorifero per un'ora. Nel frattempo denocciolate le ciliegie  e trasferitele in una ciotola. Unite lo zucchero , la scorza di limone  e mescolate bene. Coprite con la pellicola  e lasciate macerare fino a che la frolla non sarà pronta. A questo punto riprendete il panetto dal frigo e stendetelo utilizzando poca farina : dovrete ottenere uno spessore di circa  mm . Utilizzando un coppapasta da  cm ricavate un disco di frolla . Prendete una ciliegia (ricordatevi di conservare il succo di macerazione, perché servirà successivamente) e sistematela al centro del disco . Sollevate i bordi in modo da incastonarla all'interno  e lavorate con le mani per ottenere una forma sferica . Fate la stessa operazione fino a terminare le ciliegie; potete reimpastare i ritagli di frolla e stenderli nuovamente prima di copparli. Una volta che avrete realizzato le palline , disponetele all'interno di uno stampo da  cm in superficie e  cm alla base. Una volta che avrete riempito l'intero stampo , spennellate la torta con il succo di macerazione delle ciliegie  e guarnite con le scaglie di mandorle . Quando le avrete distribuite su tutta la superficie , cuocete la crostata di ciliegie fresche in forno statico preriscaldato a ° per  minuti nel ripiano centrale. Sfornate  e lasciate raffreddare prima di sformarla e servirla . 
+
+## Descrizione
+Il risultato finale della crostata di ciliegie fresche sarà una crostata croccante con un morbido ripieno di ciliegie fresche e dolcificato con zucchero e scorza di limone. Le mandorle in scaglie sulla superficie aggiungeranno una nota croccante e aromatica alla crostata.
+
+Questa crostata è adatta per occasioni speciali come feste di compleanno, cene con gli amici o semplicemente per una golosa merenda. 
+
+Questa ricetta non è adatta per diete ipocaloriche o chetogeniche a causa dell'alto contenuto di zuccheri e grassi presenti nella crostata. È adatta per chi segue una dieta bilanciata e che permette di concedersi un piccolo peccato di gola.
+
+Le persone con intolleranze al glutine non possono consumare questa crostata a meno di utilizzare farina senza glutine. Le persone con intolleranza al lattosio possono sostituire il burro con una margarina senza lattosio. Chi soffre di intolleranza alle uova può provare a sostituire l'uovo con una sostituto vegetale o una banana schiacciata.

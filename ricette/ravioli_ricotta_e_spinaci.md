@@ -1,0 +1,26 @@
+# Ravioli ricotta e spinaci
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 200 g
+- Uova: 2
+- Spinaci: 135 g
+- Ricotta vaccina: 70 g
+- Grana Padano DOP: da grattugiare 30 g
+- Noce moscata: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Semola: q.b.
+- Acqua: q.b.
+
+## Preparazione
+Per realizzare i ravioli ricotta e spinaci iniziate dalla pasta fresca: sbattete le uova a parte , poi versatele poco per volta in una ciotola con la farina  mentre mescolate per incorporarla .Continuate a impastare con le mani nella ciotola , poi trasferitevi sulla spianatoia e lavorate fino ad ottenere una consistenza liscia e omogenea . Avvolgete l’impasto nella pellicola e lasciate riposare in un luogo fresco e asciutto per  minuti .Nel frattempo preparate il ripieno: scaldate un filo di olio nella padella, aggiungete gli spinaci  e saltateli brevemente, poi abbassate il fuoco, coprite con il coperchio  e cuocete per circa - minuti. Trascorso questo tempo regolate di sale .Trasferite gli spinaci cotti in un colino e schiacciate bene per eliminare il liquido in eccesso , poi tritateli finemente . Tenete gli spinaci momentaneamente da parte e versate in una ciotola la ricotta e il Grana Padano DOP grattugiato .Insaporite con pepe e noce moscata , poi unite gli spinaci tritati  e amalgamate bene il tutto . Trasferite il ripieno in un sac-à-poche senza bocchetta.Trascorso il tempo di riposo dividete il panetto a metà . Prendete una delle due porzioni, spolverizzate leggermente con della semola e appiattitela con le mani , poi stendetela con il mattarello per darle una forma abbastanza regolare e ottenere una larghezza simile a quella del rullo della sfogliatrice . Passate la sfoglia tra i rulli della macchina tirapasta allo spessore più largo . Adagiate nuovamente la striscia di pasta ottenuta sul piano di lavoro e ripiegate i lati verso il centro , poi appiattitela nuovamente con il mattarello per darle una forma rettangolare il più regolare possibile . Passate ancora la sfoglia tra i rulli, diminuendo man mano lo spessore fino ad arrivare a - mm circa ; se l'impasto dovesse risultare troppo umido potete spolverizzare leggermente la sfoglia con della semola. Procedete nello stesso modo per stendere anche la seconda porzione di impasto; nel frattempo ricoprite la prima sfoglia con un canovaccio o della pellicola per evitare che si secchi. Una volta ottenute le sfoglie rifilate i lati corti con un coltello ; potete reimpastare gli scarti avendo cura di non farli seccare. Spremete il ripieno su una delle  sfoglie distanziando i mucchietti di circa  cm e lasciando libero un bordo esterno di circa , cm (se non avete il sac-à-poche potete utilizzare un cucchiaino) .Inumidite la sfoglia con dell'acqua utilizzando un pennello o uno spruzzino , poi ricoprite con la seconda sfoglia facendo combaciare bene i lati . Pressate leggermente i bordi con le dita per far aderire le sfoglie .Passate delicatamente il dito anche intorno al ripieno per far uscire tutta l'aria . Infine ritagliate e rifinite i bordi con una rotella zigrinata per ottenere dei ravioli della misura di circa ,x, cm . Adagiate man mano i vostri ravioli ricotta e spinaci su un canovaccio spolverizzato con della semola .
+
+## Descrizione
+Il risultato finale della ricetta "Ravioli ricotta e spinaci" sarà un piatto di ravioli freschi ripieni di una deliziosa combinazione di ricotta, spinaci e Grana Padano DOP, profumati con noce moscata e pepe nero. I ravioli saranno cotti al dente e conditi con burro fuso e scaglie di Grana Padano.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia. È un piatto che si presta bene anche per essere servito durante le festività.
+
+La ricetta dei ravioli ricotta e spinaci è adatta a persone che seguono una dieta equilibrata, in quanto contiene ingredienti freschi e nutrienti. È un piatto molto apprezzato dagli amanti della cucina italiana.
+
+Le persone con intolleranze alimentari possono mangiare i ravioli ricotta e spinaci, tuttavia è importante fare attenzione alla presenza di lattosio nella ricotta vaccina e nel Grana Padano DOP per chi è intollerante al lattosio. In tal caso si consiglia di sostituire la ricotta con una versione senza lattosio e il Grana Padano con un formaggio senza lattosio. Inoltre, è consigliabile utilizzare farina senza glutine per preparare la sfoglia dei ravioli per le persone celiache.

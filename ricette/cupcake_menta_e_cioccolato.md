@@ -1,0 +1,30 @@
+# Cupcake menta e cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Birra scura: Guinness 200 g
+- Zucchero di canna: 175 g
+- Burro: a temperatura ambiente 115 g
+- Farina 00: 115 g
+- Cacao amaro in polvere: 50 g
+- Lievito in polvere per dolci: 8 g
+- Uova: 2
+- Burro: a temperatura ambiente 175 g
+- Zucchero: 150 g
+- Tuorli: 6
+- Menta: 1 mazzetto
+- Coloranti alimentari: verde q.b.
+- Sciroppo alla menta: 50 g
+- Acqua: 50 ml
+- Menta: q.b.
+- Cioccolato fondente: q.b.
+
+## Preparazione
+Per preparare i cupcake menta e cioccolato, iniziate setacciando, in una ciotola, insieme la farina, il cacao e il lievito . Nella ciotola di una planetaria dotata di frusta (oppure con le fruste di uno sbattitore elettrico), montate il burro con lo zucchero di canna . Quando avrete ottenuto un composto cremoso, aggiungete una alla volta le uova a temperatura ambiente .Quando le uova saranno incorporate, aggiungete le farine setacciate in precedenza, un cucchiaio alla volta  e per ultima la birra Guiness  quindi amalgamate fino ad ottenere un composto cremoso e omogeneo .Prendete uno stampo da muffin foderato con i pirottini e versate in ogni pirottino il composto , lasciando  cm di spazio dal bordo. Cuocete in forno statico già caldo a ° per  minuti  (oppure in forno ventilato a ° per  minuti). Nel frattempo preparate la crema al burro: mettete in un pentolino l’acqua, lo zucchero e il mazzetto di menta .Fate sciogliere lo zucchero a fuoco lento e portate il composto a °  aiutandovi con un termometro da cucina, quando lo sciroppo avrà raggiunto la temperatura, filtratelo per eliminare le foglie di menta . Nel frattempo montate i tuorli fino ad ottenere un composto spumoso, infine aggiungete lo sciroppo precedentemente filtrato .Ammorbidite il burro e aggiungetelo poco alla volta, sempre montando . Aggiungete infine lo sciroppo di menta . Quando la crema al burro sarà pronta, unite il colorante (potete usare anche i coloranti in polvere o liquidi, uniteli poco alla volta nel composto fino ad ottenere il colore desiderato) mescolate per far sì che si amalgami bene. Mettetela in una ciotola coperta con della pellicola  e conservatela in frigorifero fino al momento di utilizzarla.Sfornate i cupcake e lasciateli raffreddare. Mettete la crema in una sac-à-poche con punta a stella e decorate i cupcake con un ciuffo di crema , Tritate il cioccolato in scaglie  per guarnire i cupcake e terminate la preparazione decorando con foglioline di menta e scaglie di cioccolato ogn cupcake . Conservate i cupcake menta e cioccolato in frigo fino al momento di servirli.
+
+## Descrizione
+Il risultato finale della ricetta sarà un delizioso cupcake dai sapori equilibrati di menta e cioccolato. La consistenza sarà soffice e leggermente umida. I cupcake saranno decorati con una crema al burro alla menta e cioccolato fondente grattugiato.
+
+Questo dolce è adatto per occasioni speciali come compleanni, feste, eventi e anche per un semplice momento di dolcezza da gustare in famiglia o con gli amici.
+
+La ricetta è adatta a tutti, tranne per le persone con intolleranze al glutine e al lattosio, in quanto contiene farina e burro. Tuttavia, è possibile adattare la ricetta utilizzando ingredienti senza glutine e senza lattosio per rendere i cupcake adatti a persone con tali intolleranze.

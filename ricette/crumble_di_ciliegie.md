@@ -1,0 +1,24 @@
+# Crumble di ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Ciliegie: 500 g
+- Zucchero: 50 g
+- Scorza di limone: 1
+- Farina 00: 100 g
+- Baccello di vaniglia: 1
+- Zucchero di canna: 60 g
+- Cannella in polvere: 2 g
+- Burro: a temperatura ambiente 50 g
+
+## Preparazione
+Per preparare il crumble di ciliegie iniziate dal ripieno. Sciacquate le ciliegie sotto acqua corrente, quindi asciugatele con un panno pulito e denocciolatele con lo snocciolatore . Riponetele in una ciotola ed unite lo zucchero  e la scorza grattugiata di un limone . Fate attenzione ad ottenere solamente la parte gialla della buccia, evitando di grattugiare anche quella bianca che è più amara.Amalgamate con una spatola per uniformare gli ingredienti  e lasciate riposare per almeno  minuti a temperatura ambiente  girandole di tanto in tanto con un cucchiaio. Nel frattempo preparate la pasta per il crumble. Incidete la bacca di vaniglia praticando un taglio seguendo la lunghezza del baccello e raschiate i semini interni aiutandovi con un coltellino dalla lama liscia . Tenete i semini della bacca di vaniglia da parte.Ora prendete una ciotola capiente e versatevi la farina  e lo zucchero di canna , la cannella in polvere  e i semini della bacca di vaniglia  infine aggiungete il burro ammorbidito a temperatura ambiente . Cominciate a lavorare gli ingredienti velocemente con le punte delle dita in modo da ottenere un composto granuloso e sbriciolato , cercando di fare in modo che il burro entri in contatto con gli ingredienti asciutti.Dovete ottenere un composto ben sgranato ma non sabbioso (da qui deriva il nome crumble che significa “briciola”). Tenete il composto da parte .Dopodiché prendete  stampini da forno dal diametro di  cm ed altezza di  cm.  Versate alcuni cucchiai di ciliegie all’interno di ciascun stampino  e livellate i frutti  all’interno dello stampino.Ricoprite ciascuno stampino con il crumble precedentemente ottenuto fino al bordo dello stampino .Disponete gli stampini su una leccarda ed infornate in forno statico preriscaldato a °C per  minuti . Dovete ottenere una superficie dorata e croccante dei crumble: a questo punto saranno pronti. Estraeteli dal forno ancora caldi . Servite il vostro crumble di ciliegie ancora caldo direttamente nello stampino.
+
+## Descrizione
+Il crumble di ciliegie è un dolce croccante e profumato, con un irresistibile mix di dolcezza delle ciliegie e croccantezza della copertura. Il sapore fresco e fruttato delle ciliegie si sposa perfettamente con il gusto burroso e leggermente speziato della crosta di crumble. Il dessert sarà servito caldo, con la ciliegia morbida e succosa che si mescola con il croccante della copertura.
+
+Questo dolce è adatto per le occasioni speciali come feste di compleanno, cene eleganti o come dessert per un pranzo in famiglia. 
+
+Il crumble di ciliegie è adatto per le persone che seguono una dieta vegetariana, ma non per quelle che seguono una dieta vegana a causa della presenza di burro. È possibile adattare la ricetta utilizzando burro vegetale per renderla adatta anche per vegetariani. 
+
+Le persone con intolleranze al lattosio potrebbero dover evitare questo dolce a causa del burro, mentre le persone con intolleranza al glutine potrebbero dover sostituire la farina con un'altra alternativa senza glutine.

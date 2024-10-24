@@ -1,0 +1,24 @@
+# Filetti di merluzzo al forno
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di merluzzo: 400 g
+- Pangrattato: 50 g
+- Limoni: (succo e scorza) 1
+- Mandorle in scaglie: 15 g
+- Timo: 3 rametti
+- Olio extravergine d'oliva: 40 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i filetti di merluzzo come prima cosa occupatevi della panatura. Versate il pangrattato in una ciotola, unite il timo , la scorza del limone  e il succo . Aggiungete poi le mandorle a lamelle , salate , pepate e mescolate il tutto . Occupatevi ora dei filetti di merluzzo: eliminate le lische presenti con una pinzetta da cucina , per verificarne la presenza accarezzate i filetti con le mani per sentire dove sono presenti. Adagiate in una ciotola i filetti, distribuite sopra metà dose di olio di oliva  e la panatura alle mandorle che avete preparato precedentemente .Massaggiate i filetti in modo da far aderire la panatura su tutti i lati . Ora prendete una pirofila da forno, irrorate il fondo con il restante olio di oliva  e adagiate all’interno i filetti di merluzzo impanati .Aggiungete il resto della panatura  e procedete con la cottura: cuocete i filetti in forno statico preriscaldato a ° per - minuti o fino a quando i filetti non formeranno la crosticina croccante in superficie. A cottura ultimata, sfornate la teglia  e servite i filetti di merluzzo al forno caldi .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto di filetti di merluzzo croccanti all'esterno e teneri all'interno, con un sentore agrumato dato dal limone e un tocco croccante dato dalle mandorle in scaglie.
+
+Occasioni: Questo piatto è adatto per una cena elegante con ospiti, ma anche per un pranzo leggero in famiglia.
+
+Dieta: Questa ricetta è adatta per una dieta mediterranea o per chi segue un regime alimentare equilibrato e sano.
+
+Intolleranze: Le persone con intolleranze al glutine dovranno sostituire il pangrattato con pangrattato senza glutine. Le persone con intolleranze alla frutta a guscio dovranno eliminare le mandorle in scaglie dalla ricetta.

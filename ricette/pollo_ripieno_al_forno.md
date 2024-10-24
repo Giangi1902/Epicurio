@@ -1,0 +1,34 @@
+# Pollo Ripieno al forno
+Categoria: Secondi piatti
+
+## Ingredienti
+- Pollo: 1,5 kg
+- Vitello: macinato 300 g
+- Pancetta affumicata: 150 g
+- Guanciale: 150 g
+- Salvia: 3 foglie
+- Rosmarino: 2 rametti
+- Timo: 2 rametti
+- Cipolle rosse: 150 g
+- Miele: 40 g
+- Zucchero di canna: 1 cucchiaino
+- Olio extravergine d'oliva: 10 g
+- Senape: 50 g
+- Miele: 50 g
+- Patate: 50 g
+- Olio extravergine d'oliva: 20 g
+- Rosmarino: 3 rametti
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare il pollo ripieno al forno, occupatevi subito del ripieno. Innanzitutto caramellate le cipolle: mondatele e tagliatele a fette piuttosto sottili , mettetele in una padella antiaderente irrorata di olio  e aggiungete infine il miele e lo zucchero di canna .Fate cuocere le cipolle per - minuti a fuoco lento e mescolando di tanto in tanto fino a quando risulteranno morbide e caramellate. Quando sono pronte  trasferitele in una terrina e lasciatele raffreddare completamente . Procedete con il ripieno: tritate finemente gli aromi ,aggiungeteli al trito di vitello  assieme alla pancetta a dadini  e dopo aver messo l’olio  amalgamate tutto alla perfezione aggiustando di sale e pepe.Incorporate ora le cipolle caramellate raffreddate  e lavorate il composto fino ad ottenere una consistenza corposa . A questo punto preparate la salsa che va aggiunta alla carne. Ponete la senape in una terrina e aggiungete il miele : miscelate la salsa in modo che risulti fluida . Pulite ora il pollo da eventuali residui di piumaggio, facendo passare la superficie sul fornello acceso. Infine sciacquatelo e asciugatelo .Spennellate bene con buona parte della salsa di senape e miele l’interno del pollo  e cucitene con ago e filo da cucina il dorso per impedire che il condimento fuoriesca . Farcite il pollo aiutandovi con un cucchiaio e compattando bene il ripieno all’interno .Cucitene anche l’altra estremità  e annodate saldamente la cucitura eseguita . Spennellate tutta la superficie del pollo con la salsa rimanente, cosce comprese .Completatelo ora con il guanciale: iniziate a foderare le cosce  e proseguite sul corpo distribuendo le fette ordinatamente e leggermente sovrapposte . Quando il pollo è completamente foderato  adagiatelo in una teglia.Potete coprire l’estremità delle cosce in modo classico: ripiegate due fogli di alluminio su se stessi fino a ridurli a due rettangoli di - cm  e tagliateli a striscioline di - cm lungo il lato lungo . Foderate l'estremità delle cosce tenendo le striscioline verso l’esterno .Ora potete dedicarvi al contorno. Lavate, asciugate le patate senza togliere la buccia e tagliatele a spicchi . In una terrina unite patate, sale  e pepe .Aggiungete infine l’olio  e mescolatele per amalgamare gli aromi. Aromatizzate il pollo e le patate con il rosmarino tritato e con dei rametti interi . Coprite infine la teglia con un foglio di alluminio e infornate in forno statico preriscaldato a ° per almeno  minuti (se ventilato, a ° per  minuti). Se dipo il tempo indicato vi accorgete che la carne del pollo è ancora attaccata all'osso o troppo rosata, proseguite la cottura, anche alzando leggermente la temperatura se necessario. Il vostro pollo ripieno è pronto : servitelo ben caldo.
+
+## Descrizione
+Il risultato finale di questa ricetta è un pollo ripieno al forno dal sapore ricco e aromatico, grazie al ripieno a base di vitello macinato, pancetta affumicata, guanciale, erbe aromatiche e cipolle rosse. Il pollo sarà croccante all'esterno e tenero all'interno, con un gusto deciso e profondo. Le patate cotte insieme al pollo saranno croccanti e saporite, arricchite dal profumo del rosmarino.
+
+Questo piatto è adatto per occasioni speciali o cene in famiglia, in quanto è un secondo piatto sostanzioso e gustoso che sicuramente farà felici tutti i commensali.
+
+Questa ricetta è adatta per una dieta normale, ma è consigliabile consumarla con moderazione a causa della presenza di grassi e calorie.
+
+Le persone con intolleranze al lattosio dovrebbero astenersi dal consumare questo piatto in quanto contiene formaggio e prodotti lattiero-caseari. Le persone con intolleranze al glutine possono tranquillamente consumare questa ricetta scegliendo ingredienti senza glutine e accertandosi che il ripieno non contenga farina o pane. Le persone con intolleranze alla carne rossa o di maiale possono sostituire il vitello e la pancetta con altre proteine animali o vegetali. Infine, le persone con intolleranze alimentari specifiche dovrebbero consultare un medico prima di consumare questo piatto.

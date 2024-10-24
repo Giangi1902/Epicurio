@@ -1,0 +1,25 @@
+# Pizza Romana
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 0: 1 kg
+- Acqua: 600 g
+- Lievito di birra secco: 7 g
+- Sale fino: 20 g
+- Olio extravergine d'oliva: 60 g
+- Passata di pomodoro: 700 g
+- Mozzarella per pizza: 600 g
+- Origano: 10 g
+- Olio extravergine d'oliva: q.b.
+- Acciughe sott'olio: 16 filetti
+- Sale fino: 20 g
+
+## Preparazione
+Per preparare la pizza romana iniziate dall'impasto per la pizza. Versate la farina nella ciotola della planetaria . Aggiungete il lievito  e  grammi d’acqua, quindi azionate la planetaria con il gancio montato a velocità medio-bassa .Procedete aggiungendo l’acqua poco per volta, avendo cura di aspettare che la dose precedente sia stata ben assorbita dalla farina . Una volta versati circa i / dell'acqua aggiungete il sale  e continuate ad impastare. Aggiungete il resto dell’acqua sempre a filo e lasciate lavorare la planetaria fino ad ottenere un composto liscio ed omogeneo .A questo punto aggiungete l’olio gradatamente (come avete fatto con l’acqua) . Quando l’olio è stato completamente assorbito, estraete l’impasto dalla planetaria e modellatelo con le mani fino ad ottenere una palla . Inseritelo in una ciotola capiente leggermente unta .Coprite con pellicola o con un canovaccio pulito e mettete a lievitare nel forno spento con la luce accesa . Attendete che l’impasto abbia almeno raddoppiato il suo volume (, h), meglio triplicato (,/ h) . Una volta che l’impasto avrà lievitato, trasferitelo sulla spianatoia e dividetelo in  parti uguali .Fate con ognuno delle palline . Copritele con un canovaccio pulito e lasciate riposare per  minuti . Ungete leggermente con un filo d’olio  teglie da pizza di  cm di diametro. Posizionate al centro della teglia una pallina di impasto e cominciate a schiacciare dal centro verso l’esterno, tirando i leggermente i lati se necessario  . Se la pasta risulta troppo elastica e tende a tornare alla forma che aveva prima, mettete da parte la pizza che state stendendo e procedete a stenderne un’altra, facendo così riposare la precedente. Cercate di distendere la pasta su tutta la superficie della teglia . Versate un mestolo abbondante di salsa al pomodoro, precentemente condita con sale e origano, sulla base della teglia e spargetela con un movimento circolare, ricoprendo quasi tutta l’area, lasciando solo un bordo di circa , cm .Tritate grossolanamente la mozzarella. Condite ora la pizza con i filetti di alici, un filo d'olio e la mozzarella tagliata a pezzetti . Lasciate riposare la pizza farcita per una decina di minuti , poi infornate a °C per / minuti in forno statico (altrimenti se utilizzate il forno ventilato basteranno una decina di minuti a °). Non appena estraete la pizza romana dal forno, servitela immediatamente .
+
+## Descrizione
+Il risultato finale della Pizza Romana sarà una deliziosa pizza croccante e fragrante, con un perfetto equilibrio di sapori tra la dolcezza del pomodoro, la cremosità della mozzarella e il sapore salato delle acciughe. L'aggiunta di origano darà quel tocco di aromaticità tipico della cucina romana.
+
+Questa pizza è adatta per una cena con amici o per una serata informale in famiglia. È perfetta da gustare calda appena sfornata, accompagnata magari da una birra fresca o da un bicchiere di vino rosso.
+
+La Pizza Romana è adatta a una dieta bilanciata se consumata con moderazione, in quanto è ricca di calorie e grassi. È adatta a chi segue una dieta senza glutine se preparata con farina priva di glutine e a chi segue una dieta vegetariana escludendo le acciughe. Le persone intolleranti al lattosio possono optare per una mozzarella senza lattosio, mentre chi è allergico al lievito può cercare alternative senza glutine.

@@ -1,0 +1,34 @@
+# Pasta alla marinara
+Categoria: None
+
+## Ingredienti
+- Passata di pomodoro: 500 g
+- Pomodorini datterini: 300 g
+- Mezzi paccheri: 320 g
+- Acqua: 1 bicchiere
+- Scampi: (340 g) 4
+- Gamberoni: (200 g) 4
+- Capesante: con guscio 4
+- Gamberetti: (190 g) 28
+- Olio extravergine d'oliva: q.b.
+- Aglio: 1 spicchio
+- Basilico: q.b.
+- Prezzemolo: q.b.
+- Sale fino: q.b.
+- Peperoncino secco: q.b.
+- Cozze: (680 g) 28
+- Vongole: (740 g) 28
+- Olio extravergine d'oliva: q.b.
+- Aglio: 1 spicchio
+
+## Preparazione
+Per preparare la pasta alla marinara come prima cosa occupatevi della pulizia dei frutti di mare. Cominciate dalla pulizia delle vongole. Per prima cosa assicuratevi che non ci siano gusci rotti o vuoti, andranno scartati. Passate poi a batterle  su un tagliere, per eliminare la sabbia presente all'interno . Poi ponete le vongole in un colapasta poggiato su una ciotola e sciacquatele . Trasferite il colapasta in una ciotola, riempite con l'acqua e aggiungete abbondante sale grosso, dovrete ricreare una sorta di acqua marina. Lasciate in ammollo le vongole per - ore . Trascorso questo tempo le vongole avranno spurgato eventuali residui di sabbia. Passate alla pulizia delle cozze. Lavatele sotto l'acqua corrente. Poi con un coltellino eliminate tutte le incrostazioni  e, con un movimento energico, staccate manualmente la barbetta, o bisso, che fuoriesce dalle valve . Sempre sotto l’acqua fresca corrente e utilizzando una paglietta d'acciaio, sfregate energicamente le cozze per eliminare ogni impurità .Passate adesso alle capesante. Staccatele dal guscio , ma non buttatelo perchè servirà per la decorazione. Eliminate il corallo  e tenetele da parte . Prendete i gamberoni rossi, lasciando la testa eliminate solo il carapace , poi incidendo leggermente il dorso  estraete anche l'intestino , che è la parte più sabbiosa. Prendete ora i gamberetti rosa e puliteli staccando solo il carapace e lasciando la testa . Adesso sistemate gli scampi su un tagliere e incideteli a metà (sia sul corpo che sulla testa) . Lasciate ben chiusa la parte della coda e allargate invece la parte della testa , che rilascerà più gusto al sugo, ed eliminate il filamento terroso . In un tegame dai bordi alti versate un filo d'olio, poi incidete uno spicchio d'aglio in camicia  e lasciatelo dorare. Quindi unite cozze  e vongole . Coprite subito con un coperchio , così con il calore si apriranno. Per girarle, senza togliere il coperchio, potete saltarle, aiutandovi con un torcione per non bruciarvi. In questo modo quelle che sono sotto, andranno sopra. Non appena saranno tutte aperte, potrete togliere il coperchio e mescolarle con una schiumarola . Non cuocetele troppo altrimenti si seccheranno. Utilizzando poi sempre la schiumarola, scolate e trasferite cozze e vongole in una placchetta , lasciando il sughetto all'interno della pentola. Eliminate l'aglio . Pulite circa metà delle vongole e metà delle cozze , estraendo i frutti dai gusci. Gli altri serviranno per la decorazione del piatto. Nel frattempo che avrete pulito le vongole eventuali residui del fondo di cottura si saranno depositati alla base della pentola. A questo punto ponete un colino su una ciotolina e molto delicatamente filtrate il sughetto , facendo attenzione a non versare anche il fondo.Avrete ottenuto così l'acqua di cottura di cozze e vongole . Adesso prendete una padella capiente. Versate un filo d'olio e unite uno spicchio d'aglio pelato e tagliato a metà . Lasciatelo dorare senza farlo annerire. Quando sarà ben dorato spostate la padella lontano dai fornelli: attenzione perchè questa operazione va fatta delicatamente, meglio se vicino ad un lavandino. Dovrete sfumare l'aglio imbiondito in padella con l'acqua di cottura di cozze e vongole, versandola poco alla volta facendo attenzione a non bruciarvi perchè potrebbe schizzare .Portate di nuovo la padella sul fuoco e aggiungete un bicchiere d'acqua . Lasciate bollire per - minuti  e poi aggiungete la salsa di pomodoro . Recuperate il pomodoro rimasto nella ciotola aggiungendo un po' d'acqua e versate in pentola . Lasciate cuocere così per - minuti. Nel frattempo cuocete anche i mezzi paccheri in acqua bollente salata a piacere , mescolandoli spesso per non farli attaccare sul fondo del tegame. Regolatevi sempre sui tempi di cottura, i nostri paccheri avevano circa  minuti di cottura. Nel frattempo tagliate anche i pomodorini a metà . Trascorsi i  minuti unite i gamberetti , le capesante  e gamberoni , disponendoli ordinatamente e in maniera uniforme, per insaporire il sugo. Posizionate gli scampi a mo' di coperchio  e sopra i gusci delle capesante rivolti verso il basso sempre per ricreare una sorta di coperchio . Alzate leggermente la fiamma e aggiungete anche cozze e vongole ancora non sgusciate . Se la salsa dovesse restringersi troppo aggiungete un mestolo di acqua di cottura della pasta  per allungarla. Aggiungete poi anche i pomodorini . Lasciate cuocere la salsa per qualche minuto riducendo la fiamma. A questo punto spostate i gusci e gli scampi in una placchetta , in modo da lasciare in padella solo il sughetto del condimento. Scolate la pasta e trasferitela nel tegame con il sugo .  Saltatela qualche istante e aggiungete un filo d'olio . A questo punto trasferite con la schiumarola tutta la pasta in un vassoio da portata , disponete sopra tutti i frutti di mare .  Portate di nuovo a bollore la salsa rimasta in padella  e versatela sulla pasta . Preparate rapidamente un trito di basilico e prezzemolo ;  spargetelo sulla pasta  insieme al peperoncino . Guarnite con un filo d'olio; posizionate gli scampi, i gusci delle capesante e servite . 
+
+## Descrizione
+Il risultato finale della Pasta alla marinara sarà un piatto ricco e gustoso, caratterizzato dalla freschezza dei frutti di mare e dal sapore intenso della passata di pomodoro e dei pomodorini datterini. La pasta sarà avvolta da una salsa densa e profumata, arricchita dal profumo dell'aglio, del basilico e del prezzemolo.
+
+Questa ricetta è adatta per occasioni speciali e cene eleganti, in cui si vuole stupire i propri ospiti con un piatto di mare raffinato e delizioso.
+
+La Pasta alla marinara è adatta per chi segue una dieta mediterranea, ricca di pesce, verdure e cereali integrali. Tuttavia, è sconsigliata a chi segue una dieta povera di carboidrati o a chi è attento alle calorie, data la presenza di frutti di mare e condimenti grassi come l'olio extravergine d'oliva.
+
+Le persone con intolleranze al glutine dovranno fare attenzione a scegliere una pasta senza glutine, mentre quelle con intolleranze al lattosio devono evitare di aggiungere formaggio grattugiato come condimento finale. Inoltre, è consigliabile evitare la pasta nel caso di intolleranze al pesce o ai crostacei.

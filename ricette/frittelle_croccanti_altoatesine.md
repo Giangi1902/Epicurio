@@ -1,0 +1,22 @@
+# Frittelle croccanti altoatesine
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 100 g
+- Zucchero a velo: 20 g
+- Latte intero: 160 g
+- Uova: medie 1
+- Sale fino: 1 pizzico
+- Baccello di vaniglia: 1
+
+## Preparazione
+Sbattete l’uovo e lo zucchero a velo  con una frusta, poi aggiungete il latte , il pizzico di sale e la vanillina e la farina setacciata  .La consistenza dell’impasto deve essere cremosa e densa . Mettete circa  dita di olio di semi di arachide in un tegame basso e largo e portatelo a ° (cercate di tenere la temperatura dell’olio piuttosto costante ); tuffate all’interno dell’olio il ferro da frittelle  con la forma prescelta avvitata al manico (di solito ci sono tre sagome diverse in dotazione) e lasciatelo scaldare per qualche secondo.Estraete il ferro, fatelo sgocciolare e poggiatelo un secondo su di un foglio di carta da cucina. Intingete il ferro nella pastella   senza però che quest’ultima superi i bordi superiori dello stampo. Immergete immediatamente lo stampo nell’olio in modo che la pastella resti qualche mm al di sotto; attendete qualche secondo poi scuotete leggermente il ferro in modo che l’impasto, gonfiandosi, si stacchi da solo . Procedete così fino a formare e friggere - frittelle per volta che lascerete dorare su entrambi i lati e poi metterete a sgocciolare su della carta da cucina . Proseguite nello stesso modo fino a terminare tutto l’impasto (formerete circa - frittelle), tenendo conto che potete anche scegliere di cambiare forma e realizzare frittelle di varie sagome.  Quando tutte le frittelle saranno pronte, spolverizza tele con lo zucchero a velo  vanigliato e…buon appetito!
+
+## Descrizione
+Le frittelle croccanti altoatesine sono dolci frittelle croccanti e leggere, con una consistenza soffice all'interno e croccante all'esterno. Il loro sapore è delicato e vanigliato, perfetto per essere gustato da solo o accompagnato da marmellata o crema pasticcera.
+
+Queste frittelle sono adatte per una merenda golosa, una colazione speciale o come dessert da servire a fine pasto. Sono ottime da offrire anche durante feste e occasioni speciali.
+
+Le frittelle croccanti altoatesine sono adatte a una dieta bilanciata, ma vanno consumate con moderazione a causa del loro contenuto calorico. Possono essere adatte a una dieta vegetariana, ma non sono adatte per una dieta vegana a meno di sostituire uova e latte con alternative vegetali.
+
+Le persone con intolleranze al latte possono sostituire il latte intero con latte senza lattosio o con alternative vegetali come latte di riso o latte di mandorla. Le persone con intolleranza al glutine possono sostituire la farina 00 con farina di riso o di mais senza glutine. Le persone con intolleranza al lattosio devono fare attenzione alla quantità di latte utilizzata e potrebbero preferire latte senza lattosio.

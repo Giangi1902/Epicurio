@@ -1,0 +1,18 @@
+# Pizzicotti di pasta di mandorle
+Categoria: Dolci
+
+## Ingredienti
+- Mandorle pelate: intere 250 g
+- Zucchero: 250 g
+- Albumi: (circa 2 medie) 70 g
+- Aroma alla mandorla: ½ cucchiaino
+- Scorza di limone: 1
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare i pizzicotti di pasta di mandorle, versate le mandorle intere pelate in un mixer dotato di lame d’acciaio , aggiungete lo zucchero  e tritate per ridurle in polvere. A questo punto unite gli albumi ,la scorza di limone grattugiata  e l’aroma di mandorle . Lavorate il composto con il mixer fino ad ottenere un impasto morbido ma compatto .Trasferite l’impasto in una ciotola, bagnatevi leggermente le mani e formate delle palline da circa  g l’una : dovreste ottenere  palline di questa dimensione . Ricoprite ogni pallina con lo zucchero a velo che avrete versato in una ciotola a parte .Posizionate le palline ricoperte di zucchero su un vassoio foderato con carta forno e pizzicate la sommità stringendola tra le tre dita: indice, medio e pollice . Quando tutti i pizzicotti saranno pronti, lasciateli riposare in frigorifero per almeno  ore o anche tutta la notte. Trascorso il tempo di riposo, trasferite il tutto su una leccarda e cuocete in forno ventilato sul ripiano medio a ° per circa  minuti, fino a che non saranno leggermente dorati . Una volta raffreddati, i vostri pizzicotti di pasta di mandorle sono pronti per essere assaggiati !
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi pizzicotti di pasta di mandorle, con una consistenza morbida all'interno ma croccante all'esterno, dal sapore intenso e dolce delle mandorle e dell'aroma alla mandorla, con una piacevole nota di freschezza data dalla scorza di limone. Sono perfetti da gustare come dolce al termine di un pasto oppure come uno snack dolce durante la giornata.
+
+Questi pizzicotti di pasta di mandorle sono adatti ad una dieta vegetariana, ma non sono adatti per persone con intolleranze al glutine, al lattosio o alle mandorle. Tuttavia, è possibile adattare la ricetta sostituendo le mandorle con altra frutta a guscio, come noci o nocciole, per renderla adatta anche a persone con intolleranza alle mandorle. Per renderla adatta a persone con intolleranza al lattosio, basta assicurarsi che gli ingredienti utilizzati siano privi di lattosio o sostituirli con alternative senza lattosio.

@@ -1,0 +1,28 @@
+# Gnocchi alla mediterranea
+Categoria: Primi piatti
+
+## Ingredienti
+- Patate: 1 kg
+- Farina 00: 300 g
+- Uova: medio 1
+- Sale fino: 2 pizzichi
+- Carote: 150 g
+- Zucchine: 180 g
+- Melanzane: 300 g
+- Cipollotto fresco: 50 g
+- Olio extravergine d'oliva: 40 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Farina 00: q.b.
+
+## Preparazione
+Per realizzare gli gnocchi alla mediterranea  la prima cosa da fare è preparare le patate: lavatele e, senza sbucciarle, mettetele in una pentola con dell'acqua salata e lasciatele bollire . Ancora calde, sbucciatele ,in una ciotola setacciate la farina e unite la purea di patate schiacciate con lo schiacciapatate . Aggiungete un pizzico di sale, la farina e iniziate ad impastare il composto per amalgamare gli ingredienti. A questo punto aggiungete un uovo sbattuto  e continuate ad impastare fino ad ottenere un impasto senza grumi e compatto e proseguite ad impastare su una spianatoia infarinata .Formate dei lunghi filoncini, che taglierete con il tarocco ( o un coltello) a pezzetti delle dimensioni di una grossa nocciola . Per finire, praticate le caratteristiche rigature degli gnocchi facendo scivolare ogni gnocco sulla forchetta oppure con l'apposito rigagnocchi . Adagiate gli gnocchi su un vassoio infarinato .Intanto occupatevi del condimento: lavate le verdure, tagliate a listarelle sottili la parte bianca del cipollotto , pelate e tagliate a bastoncini sottili le carote ,e per ultime tagliate le zucchine le melanzane . Scaldate un filo d’olio in padella, unite il cipollotto e le carote  e rosolateli per  minuti, salate, pepate e poi unite anche le zucchine e le melanzane  proseguite la cottura  per altri  minuti, le verdure dovranno rimanere croccanti. Ponete sul fuoco una pentola con abbondante acqua salata e portatela al bollore, versate gli gnocchi  e cuoceteli pochi minuti,appena gli gnocchi riaffiorano in superficie scolateli con una schiumarola  direttamente nella padella con il condimento , fate insaporire qualche istante gli gnocchi alla mediterranea e poi serviteli ben caldi .
+
+## Descrizione
+Il risultato finale dei Gnocchi alla mediterranea sarà un piatto colorato e gustoso, con gnocchi morbidi e saporiti abbinati a una deliziosa salsa di verdure mediterranee.
+
+Questo piatto è adatto per occasioni informali come pranzi o cene in famiglia o con gli amici.
+
+Gli Gnocchi alla mediterranea sono adatti a qualsiasi tipo di dieta, in quanto sono un piatto equilibrato e ricco di verdure. Possono essere consumati anche in una dieta vegetariana.
+
+Le persone con intolleranze alimentari al glutine possono consumare questa ricetta sostituendo la farina 00 con farina senza glutine. Le persone con intolleranze alle solanacee dovrebbero evitare di consumare questo piatto a causa della presenza di patate e melanzane.

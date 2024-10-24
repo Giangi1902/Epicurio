@@ -1,0 +1,23 @@
+# Fettuccine Alfredo
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 400 g
+- Semola di grano duro rimacinata: per spolverizzare q.b.
+- Uova: medie 4
+- Burro: 80 g
+- Parmigiano Reggiano DOP: grattugiato 80 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le fettuccine Alfredo, per prima cosa realizzate la pasta fresca all’uovo: setacciate la farina  in una ciotola (potete rimanere un po' indietro con la dose di farina in modo da aggiungerne al bisogno)  e aggiungete le uova . Lavorate con le mani fino a quando non avrete ottenuto un impasto omogeneo , poi trasferitelo su un piano di lavoro e finite di impastare; se l’impasto vi sembrerà troppo morbido potete aggiungere poca farina in più, se risultasse asciutto potete aggiungere pochissima acqua.Quando l’impasto sarà liscio ed elastico, formate una palla, avvolgetela nella pellicola  e lasciatela riposare a temperatura ambiente per  minuti in modo che il glutine si rilassi e l’impasto sia più facile da stendere. Trascorsa mezz’ora, spolverizzate leggermente il piano di lavoro con la farina  e dividete l’impasto in  parti usando un tarocco : lavorate una parte per volta e lasciate il restante impasto coperto con pellicola per evitare che si asciughi. Infarinate leggermente la parte di impasto che andrete a stendere e cominciate a passarla nella macchina per fare la pasta, partendo dallo spessore più largo ; aggiungete un pizzico di farina per evitare che l’impasto si stracci . Ripetete l’operazione più volte fino ad arrivare al penultimo numero . Se non possedete la macchina per fare la pasta, potete stendere l’impasto con il mattarello, arrotolando la sfoglia sul mattarello e srotolandola più volte fino a raggiungere uno spessore di pochi millimetri. Per ulteriori informazioni su come stendere l’impasto, potete consultare la nostra ricetta delle tagliatelle.A questo punto dividete le sfoglie ottenute in  o  parti, a seconda della lunghezza  e passatele nuovamente nella macchinetta al penultimo numero per evitare che si ritirino . Spolverizzate le sfoglie con la semola  e lasciatele asciugare per un paio di minuti. Nel frattempo, potete mettere a bollire una pentola capiente di acqua salata che vi servirà per cuocere le fettuccine.Una volta che la pasta si sarà asciugata, prendete una sfoglia e avvolgetela su se stessa dal lato più corto, facendo attenzione a non pressare per evitare che gli strati sovrapposti si incollino fra di loro . Quando avrete ottenuto un cilindro di forma regolare, tagliate delle rondelle di circa  mm di spessore con un coltello . Srotolate le rondelle afferrandole per un’estremità ,arrotolate le fettuccine ottenute intorno alla vostra mano per formare un nido  e lasciatelo a riposare sul piano di lavoro, mentre procedete nello stesso modo con il resto delle sfoglie. Quando le fettuccine saranno tutte pronte, potete cuocerle nell’acqua che sarà arrivata a bollore . Mentre la pasta cuoce, basteranno - minuti, preparate il condimento: in una padella capiente, fate sciogliere il burro a fuoco molto basso, facendo attenzione che non si bruci ,e aggiungete un mestolo di acqua di cottura della pasta: l’amido in essa contenuto contribuirà a dare cremosità al condimento . Scolate le fettuccine e aggiungetele direttamente nella padella con il burro , versate un altro mestolo di acqua di cottura  e saltate brevemente il tutto mescolando velocemente.A questo punto spegnete il fuoco e aggiungete il Parmigiano grattugiato ; in ultimo condite con un pizzico di sale  e un’abbondante macinata di pepe nero e mescolate ancora per amalgamare bene la pasta col condimento. Le vostre fettuccine Alfredo sono pronte per essere servite !
+
+## Descrizione
+Il risultato finale della ricetta Fettuccine Alfredo sarà un piatto di pasta fresca condita con una crema cremosa al burro e formaggio Parmigiano Reggiano DOP, arricchita da una spolverata di pepe nero. Le fettuccine saranno morbide e avvolte in una salsa ricca e saporita.
+
+Questo piatto è adatto per occasioni speciali come cene formali o romantiche, ma può essere gustato anche come comfort food in una serata tranquilla a casa.
+
+Le fettuccine Alfredo sono adatte per una dieta bilanciata, ma dovrebbero essere consumate con moderazione a causa dell'alto contenuto di grassi e calorie. È consigliabile integrare il piatto con verdure o proteine magre per renderlo più completo dal punto di vista nutrizionale.
+
+Le persone con intolleranze al lattosio possono evitare di consumare questo piatto a causa della presenza di formaggio Parmigiano Reggiano. Per le persone con intolleranza al glutine, è possibile preparare la ricetta utilizzando farina senza glutine o scegliere delle fettuccine senza glutine già pronte.

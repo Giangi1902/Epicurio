@@ -1,0 +1,32 @@
+# Risotto gamberi e zucchine
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Roma: 320 g
+- Zucchine: 300 g
+- Gamberi: 450 g
+- Cipolle bianche: 80 g
+- Grana Padano DOP: (da grattugiare) 60 g
+- Erba cipollina: q.b.
+- Burro: 20 g
+- Olio extravergine d'oliva: q.b.
+- Vino bianco: 50 g
+- Aglio: 1 spicchio
+- Sale fino: q.b.
+- Sedano: 80 g
+- Carote: 100 g
+- Cipolle bianche: 100 g
+- Acqua: 1 l
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare il risotto gamberi e zucchine per prima cosa pulite i gamberi: eliminate la testa e il carapace , quindi estrete l'intestino  e tenete da parte i gamberi interi e gli scarti .Lavate le verdure per il brodo e tagliatele a pezzi grossolani . In una pentola scaldate un giro di olio , aggiungete le verdure  e rosolate per  minuti circa a fuoco moderato.Aggiungete  g di scarti dei gamberi in pentola , rosolate ancora un paio di minuti poi coprite con l'acqua , aggiungete del sale e fate cuocere a fiamma moderata per circa  ora, avendo cura di eliminare la schiuma che si depositerà in superficie con l'apposita schiumarola .Una volta terminata la cottura , filtrate il fumetto attraverso un colino  e tenete da parte in caldo. Mondate e tritate una cipolla .Lavate e spuntate le zucchine, quindi riducetele a cubetti di circa  centimetro . Tritate anche l'erba cipollina e tenetela da parte . In una padella scaldate un giro di olio con uno spicchio d'aglio .Aggiungete le zucchine  e cuocete per - minuti a fuoco vivace irrorando con un mestolo di brodo . Una volta che il brodo sarà assorbito, aggiungete i gamberi  e cuoceteli per altri  minuti.Infine aggiungere l’erba cipollina sminuzzata , tenendone un po' da parte per guarnire i piatti da portata. Spegnete il fuoco, togliete l’aglio e lasciate da parte in caldo. In un'altra padella scaldate un giro di olio  con la cipolla precedentemente tritata . Aggiungete un mestolo di brodo per farla stufare , poi unite anche il riso e fatelo tostare , sfumate con il vino bianco , lasciate evaporare. Incorporate il fumetto, poco per volta fino a portare a cottura il riso . Verso la fine della cottura del risotto aggiungete all’interno le zucchine con i gamberi . Portate a cottura e fate amalgamare il tutto; assicuratevi che sia giusto di sale altrimenti regolate a piacere. Spegnete il fuoco e mantecate il risotto con una noce di burro e il formaggio grattugiato . Guarnite il piatto con l'erba cipollina sminuzzata tenuta da parte  e servite il risotto gamberi e zucchine ben caldo.
+
+## Descrizione
+Il risultato finale sarà un risotto cremoso e saporito, arricchito dalla presenza di gamberi e zucchine che conferiscono un tocco di freschezza al piatto. La consistenza sarà morbida e avvolgente, con il grana padano a completare il tutto con il suo sapore intenso e salato.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o pranzi importanti. È perfetto anche come piatto unico per un pranzo ricco e appagante.
+
+La ricetta è adatta a tutti coloro che non seguono una dieta vegetariana o vegana, in quanto è a base di gamberi. È adatta per chi segue una dieta equilibrata e varia, in quanto contiene carboidrati, proteine e verdure. Tuttavia, è consigliabile consumarlo con moderazione a causa della presenza di grassi saturi nel formaggio e nel burro.
+
+Le persone con intolleranze al glutine possono preparare questa ricetta utilizzando un riso gluten-free al posto del riso Roma. Le persone con intolleranze al lattosio possono sostituire il grana padano con un formaggio privo di lattosio o completamente eliminare questo ingrediente. Le persone con intolleranze ai crostacei dovranno evitare di consumare i gamberi e possono optare per un altro tipo di proteina, come il pesce o il tofu.

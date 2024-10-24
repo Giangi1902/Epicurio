@@ -1,0 +1,34 @@
+# Mini cornetti salati al salmone e stracchino
+Categoria: Antipasti
+
+## Ingredienti
+- Filetto di salmone: norvegese 250 g
+- Pasta kataifi: 250 g
+- Stracchino: 250 g
+- Semi di sesamo: q.b.
+- Semi di sesamo nero: q.b.
+- Burro: 20 g
+- Olio di semi: 200 g
+- Sale fino: 20 g
+- Zucchero: 20 g
+- Succo di limone: ½
+- Uova: 1
+
+## Preparazione
+per realizzare i mini cornetti salati al salmone e stracchino, sfilacciate la pasta kataifi e create una sorta di nastro  poi prendete dei conetti di acciaio e spennellateli con il burro, avvolgete la striscia di pasta sfoglia sul cono iniziando ad avvolgere la striscia di pasta dalla parte appuntita del cono  procedendo verso la parte più larga ,spennellate la pasta con l’uovo sbattuto . Friggete in olio di semi caldo a °C (per una cottura ottimale utilizzate un termometro per alimenti), fino a colorazione dorata (ci vorranno circa  minuti), poi scolate i cornetti aiutandovi con una pinza da cucina  e poneteli ad asciugare su un vassoio rivestito di carta assorbente. Occupatevi del salmone, se siete certi di aver acquistato salmone norvegese non sarebbero necessarie altre precauzioni. Altrimenti, assicuratevi di aver acquistato pesce abbattuto e congelatelo per almeno  ore a - gradi prima di impiegarlo nella ricetta: eliminate le lische con una pinza apposita ricavate dal filetto  fettine tagliando in diagonale , adagiate le fettine in una pirofila larga senza sovrapporle  e cospargete sulla superficie il sale e lo zucchero  poi irrorate con il succo di limone , coprite con pellicola e conservate in frigorifero il salmone marinato. Intanto preparate la crema: in un mixer con lame ponete lo stracchino , aromatizzate con sale, pepe ,frullate per renderlo cremoso poi aggiungete i semi di sesamo neri  e bianchi  mescolate per insaporire. Trasferite la crema ottenuta in una sac-à-poche con bocchetta stellata spremete un ciuffo di crema all’interno di ciascun mini cornetto , riprendete le fettine di salmone arrotolatele per formare dei petali , applicate un petalo sopra ogni cornetto ,poi spremete un altro ciuffo di crema al centro per sigillare . Trasferite i cornetti in bicchierini stretti, andranno bene quelli da liquore  e poi servite i vostri mini cornetti al salmone e stracchino su un piatto di portata guarnito con rametti di timo fresco .
+
+## Descrizione
+Il risultato finale sarà composto da mini cornetti salati al salmone e stracchino croccanti all'esterno e morbidi e cremosi all'interno, arricchiti dal sapore del salmone e del formaggio.
+
+Adatto per: 
+- Aperitivi e buffet
+- Cene informali
+- Feste e occasioni speciali
+
+Dieta:
+- Adatto per una dieta equilibrata, se consumato con moderatione
+- Non adatto per diete ipocaloriche o iposodiche a causa del salmone e del formaggio
+
+Intolleranze:
+- Non adatto a persone intolleranti al pesce (contiene salmone)
+- Non adatto a persone intolleranti al lattosio (contiene stracchino)

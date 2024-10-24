@@ -1,0 +1,30 @@
+# Ciambelline al cioccolato e nocciole
+Categoria: Dolci
+
+## Ingredienti
+- Topping al cioccolato: 100 g
+- Burro: fuso 100 g
+- Zucchero muscovado: 70 g
+- Uova: ( circa 1) 60 g
+- Latte intero: 70 g
+- Farina 00: 200 g
+- Farina di nocciole: 50 g
+- Lievito in polvere per dolci: 10 g
+- Bicarbonato: 3 g
+- Cacao amaro in polvere: 20 g
+- Noce moscata: 1 g
+- Topping al cioccolato: 110 g
+- Burro: 110 g
+- Cioccolato fondente: 120 g
+- Nocciole intere spellate: q.b.
+- Cioccolato fondente: in scaglie q.b.
+
+## Preparazione
+Per realizzare le ciambelline al cioccolato e nocciole ponete in una ciotola l’uovo e lo zucchero muscovado , montate il composto con le fruste elettriche e aggiungete a filo il burro fuso a temperatura ambiente  e il topping al cioccolato .Continuate a montare finché il composto non sarà omogeneo. A questo punto incorporate le polveri setacciate: la farina , la farina di nocciole  e il lievito .Continuate a mescolare con la frusta e aggiungete anche il bicarbonato , il cacao in polvere  e la noce moscata .Terminate versando il latte . Mescolate ancora una volta per amalgamare tutti gli ingredienti, otterrete un impasto morbido ma compatto . Trasferite il composto in un sac-à-poche con bocchetta liscia .Imburrate  stampini da ciambelline del diametro di  cm e riempiteli con l'impasto . Cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sfornate le ciambelline  e lasciatele raffreddare. Occupatevi ora della ricopertura: tritate grossolanamente le nocciole .Versate le nocciole tritate in una padella ben calda  e tostatele per pochi istanti . Infine tritate anche il cioccolato fondente .In un pentolino versate il topping al cioccolato, fatelo scaldare leggermente, poi incorporate il burro  e mescolate con la frusta  finché non si sarà sciolto. Unite anche il cioccolato tritate .Mescolate con la spatola per ottenere una salsa fluida . Ora sformate le ciambelline , intingete nella salsa la parte superiore delle ciambelline .Appoggiate le ciambelline su una gratella , ricoprite con la granella di nocciole e il cioccolato tritato . Le ciambelline sono pronte per essere gustate .
+
+## Descrizione
+Le ciambelline al cioccolato e nocciole avranno una consistenza morbida e leggermente umida, grazie alla presenza del burro fuso e del latte. Il sapore sarà intenso e goloso, grazie alla combinazione di cioccolato fondente, nocciole e zucchero muscovado. La presenza di farina di nocciole conferirà un tocco croccante e aromatico alle ciambelline, mentre il cacao amaro aggiungerà una nota decisa e avvolgente.
+
+Le ciambelline al cioccolato e nocciole sono adatte per occasioni golose e indulgenti, come merende speciali, feste di compleanno o dessert da gustare con amici e familiari. Sono perfette per soddisfare una voglia di dolce senza rinunciare a un gusto raffinato e ricco.
+
+Questa ricetta è adatta a chi segue una dieta onnivora, ma può essere consumata con moderazione anche da chi segue una dieta vegetariana. Le persone con intolleranza al glutine dovrebbero fare attenzione e utilizzare farina senza glutine al posto della farina 00. Le nocciole potrebbero causare problemi a chi è allergico alle noci, quindi è importante fare attenzione e scegliere alternative o eliminare completamente le nocciole dalla ricetta se necessario.

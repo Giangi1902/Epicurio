@@ -1,0 +1,30 @@
+# Ravioli di ortiche con fonduta
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 400 g
+- Uova: (2 medie) 110 g
+- Ortiche: 100 g
+- Acqua: 50 g
+- Olio extravergine d'oliva: 20 g
+- Semola di grano duro rimacinata: q.b.
+- Ricotta vaccina: 300 g
+- Parmigiano Reggiano DOP: grattugiato 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Fontina: 330 g
+- Panna fresca liquida: 200 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i ravioli di ortiche con fonduta, indossate per prima cosa i guanti per la pulizia delle ortiche, per proteggervi dalla sostanza urticante e iniziate a privarle degli steli conservando solo le cimette (ne otterrete circa  g) ; quindi lavatele accuratamente mettendole a bagno in acqua fresca più volte , poi scolatele .In una padella capiente versate l'olio, versate le ortiche , aggiungete l'acqua  e cuocete per circa  minuti coprendo con il coperchio .Una volta appassite, versatele nel bicchiere alto del mixer  e frullate il tutto per ottenere una purea omogenea ; frullate poi fate scolare la purea  così che le ortiche frullate perdano liquido in eccesso  e lasciate raffreddare completamente. Quando saranno fredde, pesate la farina  e versatela su una spianatoia (potete rimanere un po' indietro con la dose consigliata, in modo da aggiungerla al bisogno per ottenere una consistenza ideale per essere tirata facilmente), create la fontana e al centro versate le ortiche scolate e completamente raffreddate unite le uova leggermente sbattute e amalgamate con una forchetta per iniziare a raccogliere gli ingredienti , poi proseguite a mano impastando per ottenere una consistenza liscia ed elastica . Formate una pallina di impasto e avvolgetela in pellicola trasparente . Lasciate riposare per  minuti almeno in luogo fresco.Nel frattempo, preparate il ripieno. Versate la ricotta in una ciotolina e sgranatela con la forchetta (se la vostra ricotta presenta molto siero occorrerà farla scolare per almeno  ora in frigorifero posta in un colino poggiato su una ciotolina), poi unite il formaggio grattugiato , salate e pepate a piacere e mescolate tutti gli ingredienti . Tenete il composto da parte in frigorifero coperto con pellicola, mentre vi occupate della pasta fresca, che nel frattempo avrà riposato. Dividete il panetto di pasta in  parti (quelle che non lavorate subito lasciatele coperte con pellicola) e iniziate a tirare il primo pezzo, infarinato leggermente con farina di semola rimacinata, con la macchina tirapasta : fatelo passare nei rulli dalla misura più largaquindi ripiegate la prima striscia ottenuta  e passatela impostando la macchina sulle altre misure fino alla penultima per ottenere una sfoglia di circa - mm di spessore  che disporrete su un piano leggermente infarinato con farina di semola rimacinata. Ripetete l'operazione anche per un altro pezzetto. Quindi prendete il ripieno dal frigo e con un cucchiaino formate dei piccoli mucchietti di ripieno disponendoli su uno dei due rettangoli stesi, distanziandoli di un - cm l'uno dall'altro  spruzzate dell’acqua ai bordi della sfoglia o, se preferite, spennellate intorno ai mucchietti con un pennello da cucina. Questo servirà a fare in modo che quando sovrapporrete l'altra sfoglia su quella farcita , rimangano attaccate. Fate combaciare i bordi ed esercitate una leggera pressione con i polpastrelli tra i mucchietti di ripieno per eliminare l’aria ed evitare che in cottura si aprano ed il ripieno fuoriesca . Ora coppate con una coppa pasta del diametro  cm, dentellato . Man a mano che li realizzate disponeteli su un vassoio leggermente infarinato con semola rimacinata. Potete stendere nuovamente anche l'impasto avanzato, formate una pallina e fatelo riposare almeno  minuti prima di ristenderlo. Con queste dosi otterrete  ravioli delle dimensioni indicate. Man a mano disponeteli su un vassoio infarinato con semola rimacinata.Mettete sul fuoco una pentola con abbondante acqua da salare al bollore, vi servirà per cuocere i ravioli successivamente. Passate a preparate la fonduta: versate in una pentola la panna  e portare a bollore, intanto riducete a dadini la fontina  mescolate per far sciogliere la fontina a fuoco lentosalate pepate , spegnete il fuoco e trasferite la fonduta in una padella ampia (con fuoco spento) dove poi condirete i ravioli . Lessate i ravioli in abbondante acqua bollente salata a piacere, cuocete anche i ravioli di ortiche in acqua salata per - minuti circa ,una volta cotti, trasferiteli nella padella ampia in cui avete versato la fonduta , per mantecarli  girandoli molto delicatamente con una schiumarola per evitare di romperli. Servite i ravioli di ortiche con fonduta ben caldi !
+
+## Descrizione
+Risultato finale: I ravioli di ortiche con fonduta sono un piatto saporito e delicato. I ravioli, realizzati con una sfoglia di pasta all'uovo, sono farciti con un mix di ortiche, ricotta e Parmigiano Reggiano grattugiato. Vengono poi conditi con una cremosa fonduta di formaggio Fontina e panna fresca.
+
+Occasioni adatte: Questa ricetta è perfetta per occasioni speciali o cene eleganti, ma può essere preparata anche per un pranzo domenicale o per sorprendere gli ospiti durante una cena tra amici.
+
+Diete o regime alimentare adatti: Questa ricetta potrebbe essere adatta a una dieta equilibrata se consumata come primo piatto, sempre tenendo conto delle porzioni e bilanciando il resto del pasto. Tuttavia, è importante considerare l'alto contenuto di carboidrati della pasta e il condimento ricco di formaggio e panna, che potrebbero non essere adatti a tutti i regimi alimentari.
+
+Intolleranze alimentari: Le persone con intolleranza al lattosio possono avere difficoltà nel consumare questa ricetta a causa della presenza di ricotta, Parmigiano Reggiano e Fontina. In alternativa, è possibile cercare versioni di formaggi senza lattosio o sostituti vegani per il formaggio. Le persone con intolleranza al glutine dovrebbero evitare di consumare questa ricetta a meno che non utilizzino farina senza glutine per preparare la pasta dei ravioli.

@@ -1,0 +1,23 @@
+# Biscotti al cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Cioccolato fondente: 200 g
+- Zucchero: 100 g
+- Burro: freddo 120 g
+- Tuorli: (circa 2) 40 g
+- Lievito in polvere per dolci: 2 g
+- Sale fino: 1 pizzico
+
+## Preparazione
+Per preparare i biscotti al cioccolato iniziate tritando finemente il cioccolato fondente . Quindi trasferitelo in una bastardella per scioglierlo a bagnomaria a fuoco molto dolce ; fate attenzione che l'acqua del pentolino non entri a contatto con il cioccolato. Lasciatelo intiepidire mentre preparate la base dei biscotti: in un mixer versate la farina .Aggiungete anche il burro freddo di frigo tagliato grossolanamente  e regolate di sale . Azionate il mixer per ottenere un composto sabbioso che poi trasferirete in una ciotola capiente .Unite lo zucchero  e il cioccolato sciolto a bagnomaria ormai tiepido . Dividete i tuorli dagli albumi (il peso indicato dei tuorli è importante per ottenere un risultato perfetto come consistenza); unite i tuorli sbattuti in precedenza al composto , aiutandovi con una forchetta.Versate anche il lievito  e lavorate gli ingredienti impastando con le mani ben fredde cercando di svolgere velocemente l’operazione per non riscaldare troppo il composto. Continuate ad impastare fino a ottenere un impasto omogeneo e privo di grumi: copritelo quindi con pellicola alimentare trasparente  e mettetelo a riposare in frigorifero per circa  minuti. Trascorso questo tempo estraete il composto dal frigorifero, togliete la pellicola trasparente e disponetelo tra due fogli di carta forno. Questa accortezza serve per evitare l’utilizzo di ulteriore farina per stendere l'impasto. Appiattite il panetto di impasto con un mattarello fino a ottenere uno spessore di circa  cm .Ottenuto lo spessore desiderato prendete un coppapasta del diametro di - cm e iniziate a coppare l’impasto . Trasferite i biscotti così ottenuti su una leccarda foderata con carta forno. Per trasferirli potete aiutarvi con una spatola  per evitare di lasciare le impronte ai lati o sulla superficie dei biscottini. Cuocete i vostri biscotti al cioccolato in forno statico preriscaldato a °C per  minuti (se utilizzate un forno ventilato potete cuocerli a °C per - minuti) . Potete testare tempi e temperatura per il vostro forno cuocendo una prima infornata con pochi pezzi. Trascorso il tempo di cottura, estraeteli dal forno  e lasciateli raffreddare per almeno - minuti. Quindi trasferiteli su una gratella  a raffreddare per almeno  minuti. Per riporli sulla gratella potete usare sempre una spatola se preferite, perchè non saranno ancora perfettamente rassodati: una volta freddi la consistenza sarà friabile. I vostri biscotti al cioccolato sono ora pronti da gustare !
+
+## Descrizione
+Il risultato finale dei Biscotti al cioccolato sarà una deliziosa e croccante dolcezza al cioccolato, con una consistenza friabile ma al contempo morbida.
+
+Per quali occasioni sono adatti: Questi biscotti sono perfetti per accompagnare una tazza di tè o caffè nel pomeriggio, ma sono anche ottimi da servire come dessert dopo un pasto.
+
+Per quali diete o regime alimentare sono adatti: I Biscotti al cioccolato possono essere consumati da persone che seguono una dieta normale, senza particolari restrizioni alimentari.
+
+Intolleranze alimentari: Le persone con intolleranza al lattosio possono sostituire il burro con una margarina vegana o olio di cocco. Coloro che sono intolleranti al glutine dovranno optare per l'uso di farina di riso o farina senza glutine. Tuttavia, è importante verificare che gli altri ingredienti utilizzati non contengano tracce di glutine, come ad esempio il cioccolato fondente.

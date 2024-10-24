@@ -1,0 +1,40 @@
+# Risotto alla milanese con zafferano
+Categoria: None
+
+## Ingredienti
+- Vitello: (Ginocchio con cartilagini e nervi) 300 g
+- Biancostato di manzo: 300 g
+- Carrè di vitello: (ossi) 300 g
+- Ossibuchi di vitello: (solo ossi, con midollo) 2
+- Grasso di rognone: 50 g
+- Patate: 100 g
+- Carote: 50 g
+- Sedano: 50 g
+- Cipolle dorate: 100 g
+- Vino bianco: 100 g
+- Pepe nero in grani: 1 g
+- Noce moscata: 0,5 g
+- Alloro: 2 foglie
+- Salvia: 5 g
+- Sale fino: 4 g
+- Acqua: 2 l
+- Cannella in stecche: 1
+- Riso: (qualità Sant'Andrea) 250 g
+- Zafferano in pistilli: 0,3 g
+- Cipolle dorate: 1
+- Sale fino: 4 g
+- Vino bianco: 100 g
+- Grana Padano DOP: (da grattugiare) 125 g
+- Burro: (freddo di frigo) 100 g
+
+## Preparazione
+Per preparare il risotto alla milanese allo zafferano, iniziate dal brodo: prima di tutto bisogna sbianchire la carne (i pezzi sono biancostato, ginocchio di vitello e ossi di carré). Immergeteli in acqua bollente  e da quando riprenderà a bollire  calcolate circa  minuto, poi scolate i pezzi .Lavate bene le parti sotto acqua corrente . Sciacquate anche gli ossibuchi  e lasciateli in ammollo per  minuti, sotto un continuo getto di acqua corrente. Fate lo stesso anche per il grasso di rognone per purificarlo .Lavate e tagliate a pezzi grossolani le verdure: cipolla , carota  e sedano .Fate lo stesso per la patata  e il grasso di rognone . Versate quest'ultimo in una casseruola capiente già calda e mescolate .Quando inizierà a sciogliersi versate le verdure tagliate in precedenza . Mescolate e fate rosolare  minuti a fuoco dolce. Unite gli ossi, fate rosolare mescolando di tanto in tanto a fuoco vivace ancora  minuti. Sfumate con il vino bianco  e fate evaporare. Aggiungete le spezie: una stecca di cannella ,  grammo di pepe in grani , la noce moscata in polvere , le foglie di alloro e salvia e un pizzico di sale. Versate poi  lt di acqua  e cuocete almeno  ore . In questo tempo il brodo dovrà sobbollire e non dovrà essere schiumato. Poi alla fine aspettate qualche minuto e prelevate il grasso salito a galla con una schiumarola . Non buttatelo ma trasferitelo in una ciotolina , servirà successivamente. Ora filtrate il brodo all'interno di un tegame  e tenetelo al caldo. Spezzettate i pistilli di zafferano in una ciotolina e aggiungete un mestolo di brodo filtrato per reidratarli . Lasciateli così per circa  min . Tritate finemente anche la cipolla per il risotto . La grandezza dovrà essere come il chicco di riso. In una casseruola con doppio fondo versate i  grammi del grasso prelevato dal brodo  e lasciate ridurre leggermente per far evaporare l’acqua in eccesso.Versate nella casseruola anche la cipolla  e fate appassire bene, mescolando spesso ; ci vorranno circa  min. Poi salate a piacere. Mettete a lessare per  minuti circa l'ossobuco nel brodo filtrato bollente . Intanto potete aggiungere il riso alla cipolla ben stufata . Mescolate velocemente e lasciate rosolare circa  min. Sfumate con il vino bianco  e mescolate facendo attenzione a non spezzare il riso. Bagnate il riso con un terzo del brodo caldo , poi portate a cottura rabboccando man a mano.Ci vorranno circa  minuti di cottura, ovviamente dipende dalla tipologia e marca di riso che si utilizza: il riso che stiamo utilizzando noi, il Sant’Andrea, cuoce circa  min. Unite lo zafferano  disciolto e mescolate . Se dovesse essere troppo ristretto aggiungete ancora un goccio di brodo .Scolate l'ossobuco dal brodo  e prelevate il midollo a caldo con un coltellino  . Togliete il risotto dal fuoco, unite il midollo estratto  e mescolate per farlo sciogliere. Aggiungete il Grana Padano DOP grattugiato  e mescolate ancora . Per ultimo unite  g di burro ben freddo a pezzetti  e fate sciogliere mantecando all’onda . Servite il vostro risotto alla milanese con zafferano subito .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un risotto alla milanese cremoso e dal sapore intenso, grazie all'uso dello zafferano e del brodo di carne. Il risotto sarà arricchito con il formaggio grana padano grattugiato e il burro freddo di frigo, che conferiranno al piatto un sapore ricco e avvolgente.
+
+Questo piatto è adatto per occasioni speciali o per una cena elegante, grazie alla sua presentazione raffinata e ai suoi sapori complessi. È perfetto per un pranzo in famiglia o per una cena romantica.
+
+Questa ricetta non è adatta alle diete vegetariane o vegane, poiché contiene carne e formaggio. È consigliata per chi segue una dieta bilanciata e non ha particolari restrizioni alimentari.
+
+Le persone con intolleranze al lattosio o alla carne rossa dovrebbero evitare questo piatto, in quanto contiene formaggio grana padano e vari tagli di carne di vitello. Tuttavia, è possibile adattare la ricetta sostituendo il formaggio con una versione senza lattosio e scegliendo tagli di carne alternativi.

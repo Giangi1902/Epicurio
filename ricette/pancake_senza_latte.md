@@ -1,0 +1,18 @@
+# Pancake senza latte
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 110 g
+- Uova: 1
+- Acqua: (a temperatura ambiente) 100 g
+- Zucchero: 25 g
+- Lievito in polvere per dolci: 8 g
+
+## Preparazione
+Per realizzare i pancake senza latte versate l’uovo e lo zucchero in una ciotola , poi aggiungete l’acqua a temperatura ambiente  e mescolate con una frusta a mano per amalgamare bene il composto .Unite la farina  e il lievito setacciati , poi mescolate ancora .Dovrete ottenere una pastella liscia e senza grumi . Scaldate una padella antiaderente e versate nel centro un paio di cucchiai di composto . Lasciate cuocere a fuoco dolce fino a quando si formeranno delle bollicine .A questo punto girate il pancake dall’altro lato  e cuocete per un altro minuto . Man mano che saranno cotti impilate i pancake su un piatto e proseguite in questo modo fino a terminare tutta la pastella; con queste dosi otterrete  pancake del diametro di circa  cm. Servite i vostri pancake senza latte ancora caldi, accompagnati con frutta e salse a piacere !
+
+## Descrizione
+- Risultato finale: i pancake senza latte avranno una consistenza morbida e soffice, con un sapore leggermente dolce e perfetti da gustare sia caldi che freddi.
+- Occasioni adatte: i pancake senza latte sono ideali per la colazione o la merenda, ma possono essere serviti anche come dessert dopo un pasto leggero.
+- Diete o regimi alimentari adatti: questa ricetta è adatta a vegetariani e persone intolleranti al lattosio, in quanto non contiene latte. È possibile adattarla anche per chi segue una dieta senza glutine utilizzando farina senza glutine.
+- Intolleranze: le persone intolleranti al lattosio possono consumare questa ricetta senza problemi. Tuttavia, è importante verificare che gli altri ingredienti utilizzati siano privi di lattosio. Coloro che sono intolleranti al glutine possono utilizzare farina senza glutine per preparare i pancake.

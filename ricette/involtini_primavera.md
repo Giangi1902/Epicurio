@@ -1,0 +1,24 @@
+# Involtini primavera
+Categoria: Antipasti
+
+## Ingredienti
+- Sfoglie per involtini: (da 21,5 x 21,5 cm) 8 fogli
+- Cavolo cappuccio: qualità "cuore di bue") 300 g
+- Carote: 60 g
+- Cipolle bianche: 50 g
+- Vino di riso: 30 g
+- Olio di semi di arachide: q.b.
+- Sale fino: q.b.
+- Pepe bianco: (o nero) q.b.
+- Albumi: q.b.
+- Olio di semi di arachide: (o di girasole) q.b.
+
+## Preparazione
+Per preparare gli involtini primavera, per prima cosa scongelate le sfoglie già pronte e copritele con un canovaccio leggermente inumidito per evitare che si secchino. Mondate e tagliate a listarelle sottili il cavolo cappuccio , le cipolle  e le carote .Fate scaldare il wok a fuoco alto, poi versate l’olio di semi e le cipolle . Soffriggete per un paio di minuti, poi unite le carote e il cavolo cappuccio . Condite con sale e pepe .Aggiungete anche il vino di riso  e fate saltare le verdure per - minuti: dovranno risultare cotte ma ancora croccanti . Trasferite le verdure in un colino per eliminare il liquido in eccesso, quindi allargatele un po' con le bacchette per preservarne meglio il colore e consistenza .A questo punto potete comporre gli involtini: disponete una sfoglia per volta sul canovaccio con un angolo rivolto verso di voi e aggiungete una manciata di ripieno sulla metà inferiore . Piegate l’angolo inferiore verso l’alto e arrotolate senza premere per coprire il ripieno , poi ripiegate gli angoli ai lati verso il centro .Infine arrotolate l’involtino dal basso verso l’alto  e sigillate la sfoglia inumidendo i bordi con un po’ di albume , potete utilizzare le dita o un pennello. Non premete troppo o la sfoglia potrebbe rompersi. Procedete in questo modo per formare tutti gli involtini .Ora scaldate nuovamente il wok, poi versate abbondante olio di semi  da portare alla temperatura di °. Quando l’olio sarà a temperatura, abbassate leggermente il fuoco e friggete pochi involtini per volta , girandoli su entrambi i lati .Quando saranno ben dorati su entrambi i lati, scolate gli involtini  e adagiateli su carta da cucina per assorbire l’olio in eccesso . Servite i vostri involtini primavera ancora caldi accompagnati con salsa piccante o agrodolce !
+
+## Descrizione
+Il risultato finale di questa ricetta sono degli invitanti involtini primavera, con una sfoglia esterna croccante e un ripieno di verdure fresche e croccanti. Gli involtini sono leggeri e gustosi, ideali da servire come antipasto durante un pasto orientale o come finger food in varie occasioni sociali.
+
+Questo piatto è adatto per una dieta equilibrata e salutare, in quanto è principalmente composto da verdure e utilizza una quantità limitata di olio di semi di arachide per la cottura. È perfetto per coloro che seguono una dieta vegetariana o vegana, poiché non contiene ingredienti di origine animale.
+
+Tuttavia, le persone con intolleranze alimentari potrebbero dover fare alcune modifiche alla ricetta. Ad esempio, coloro che soffrono di intolleranza al grano dovrebbero cercare delle sfoglie per involtini senza glutine. Inoltre, se si è intolleranti all'arachide, si può sostituire l'olio di semi di arachide con olio di girasole o un'alternativa senza allergeni. In generale, è sempre consigliabile consultare un medico o un dietologo per adattare la ricetta alle proprie esigenze dietetiche specifiche.

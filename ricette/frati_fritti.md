@@ -1,0 +1,26 @@
+# Frati fritti
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero: 50 g
+- Farina 00: 500 g
+- Olio di semi: 50 g
+- Acqua: tiepida 300 g
+- Scorza di limone: 1
+- Lievito di birra secco: 3 g
+- Sale fino: 1 pizzico
+- Olio di semi: per friggere 800 g
+- Zucchero: per la superficie 100 g
+- Olio di semi: per ungere le mani e il piano da lavoro q.b.
+
+## Preparazione
+Per preparare i frati fritti cominciate setacciando la farina all’interno di una planetaria munita di foglia. Unite anche lo zucchero , il lievito  e la scorza grattugiata di  limone non trattato .Azionate quindi la planetaria, e versate al suo interno l’olio a filo  e, una volta assorbito, fate lo stesso con l’acqua a temperatura ambiente . Una volta che anch’essa risulta incorporata all’impasto, sostituite la foglia con il gancio, e proseguite ad impastare a velocità media: dovrete lavorarlo per un totale di - minuti, versando il pizzico di sale quando saranno passati i primi  minuti .Alla fine l’impasto dovrà risultare ben incordato intorno al gancio . Ungete leggermente il piano da lavoro e trasferitevi l’impasto , quindi lavoratelo brevemente per conferirgli la forma di una palla .Ponetelo all’interno di un’ampia ciotola e sigillate con della pellicola trasparente . Lasciate che l’impasto lieviti nel forno spento con la luce accesa per circa  ore: trascorso questo tempo, il suo volume dovrà essere raddoppiato . Mettete a scaldare l’olio in una capiente padella. Mentre raggiunge i ° C, munitevi di tarocco e prelevate circa  g di impasto .Ungete il piano da lavoro e oliatevi leggermente anche le mani , in modo da maneggiare l’impasto con maggiore facilità; sul piano da lavoro, allungate la vostra porzione di impasto per formare un filoncino . Agganciate i lembi del filoncino E sigillateli per ottenere la forma di una ciambella di circa  cm di diametro . Appena finito di formare il vostro frate, immergetelo in olio caldo a ° C  e friggetelo per - minuti su ciascun lato .Quando il frate risulta ben dorato su entrambi i lati, scolatelo su carta assorbente  e passatelo, acora caldo, in una pirofila bassa e larga in cui avrete posto lo zucchero semolato , rigirandolo in modo da inzuccherarlo uniformemente. Proseguite in questo modo fino ad esaurire l’impasto: dovrete ottenere - frati. Gustate i vostri frati fritti ben caldi : irresistibili!
+
+## Descrizione
+- Risultato finale: I frati fritti sono dolci fritti a base di una pasta preparata con farina, zucchero, olio di semi, acqua, scorza di limone, lievito di birra secco e sale. Dopo la preparazione della pasta, vengono fritti in abbondante olio di semi e successivamente passati nello zucchero. Il risultato finale è un dessert croccante fuori e morbido dentro, con un delicato aroma di limone e una dolcezza gradevole.
+
+- Occasioni adatte: I frati fritti sono adatti per diverse occasioni come feste di compleanno, merende, buffet o semplicemente come dolce da gustare durante una pausa. Possono essere serviti come dolce di fine pasto o come dessert per accompagnare una tazza di caffè o tè.
+
+- Diete o regimi alimentari adatti: I frati fritti sono una preparazione dolce tradizionale che generalmente non è adatta a diete o regimi alimentari restrittivi, in quanto sono fritti e ricoperti di zucchero. Tuttavia, se moderati e consumati occasionalmente, potrebbero essere inclusi in un'alimentazione normale.
+
+- Intolleranze alimentari: I frati fritti contengono glutine, quindi non sono adatti a persone con intolleranza al glutine o affette da malattia celiaca. Inoltre, essendo fritti in abbondante olio di semi, potrebbero non essere adatti a persone con intolleranze o allergie agli olii vegetali o ai semi presenti nell'olio utilizzato. È sempre consigliabile verificare la compatibilità degli ingredienti con le proprie intolleranze personali prima di consumare questa ricetta.

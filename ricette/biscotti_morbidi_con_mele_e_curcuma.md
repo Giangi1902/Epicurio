@@ -1,0 +1,25 @@
+# Biscotti morbidi con mele e curcuma
+Categoria: Dolci
+
+## Ingredienti
+- Mele Golden: 100 g
+- Curcuma in polvere: 20 g
+- Succo di limone: 20 g
+- Farina 00: 300 g
+- Burro: 100 g
+- Uova: (2 intere) 110 g
+- Zucchero: 100 g
+- Lievito in polvere per dolci: 5 g
+- Zucchero: q.b.
+
+## Preparazione
+Per realizzare i biscotti morbidi con mele e curcuma per prima cosa lavate le mele, poi dividetele in spicchi ed eliminate il torsolo . Ponete le mele tagliate nel bicchiere di un mixer, aggiungete il succo di limone  e frullate il composto con il mixer a immersione .Dovete ottenere una purea omogenea . Ora occupatevi dell’impasto: in una ciotola versate la farina  e il burro a pezzetti , impastate con le mani per sbriciolare il burro e poi versate lo zucchero .Insaporite con la curcuma in polvere  e iniziate a mescolare gli ingredienti con le mani. Versate quindi le uova , continuando a impastare, e il lievito in polvere .Trasferite l’impasto su una spianatoia  e formate un panetto omogeneo e compatto . Create ora un rotolino  e ritagliate - pezzetti del peso di circa  g ciascuno.Arrotolate ciascun pezzo per formare delle palline . Adagiate i bocconcini ottenuti su una leccarda rivestita con carta forno . Fate una pressione con l’indice al centro dei biscotti per creare un incavo .Farcite i biscotti con la purea di mele precedentemente preparata . Spolverizzate la superficie con lo zucchero  e cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sformate i biscotti morbidi alle mele e curcuma  e lasciateli intiepidire prima di gustarli.
+
+## Descrizione
+Il risultato finale saranno dei deliziosi biscotti morbidi arricchiti con il gusto fresco delle mele e il sapore caldo della curcuma. Saranno leggermente croccanti all'esterno e morbidi all'interno, perfetti per una pausa dolce durante la giornata.
+
+Questi biscotti sono adatti per occasioni informali, come una merenda in famiglia o un brunch con amici. Possono essere serviti sia a colazione che come dessert dopo un pasto leggero.
+
+Questi biscotti sono adatti a una dieta vegetariana, ma non sono adatti a una dieta vegana a causa della presenza di uova e burro. Possono essere consumati con moderazione in una dieta bilanciata, considerando i dolci come un piacere occasionale. 
+
+Le persone con intolleranze al glutine possono trovare un'alternativa usando farina senza glutine. Le persone con intolleranze alle mele dovrebbero evitare questa ricetta o sostituire le mele con un'altra frutta a loro gradita. Le persone con intolleranze al lattosio possono utilizzare burro senza lattosio per preparare i biscotti.

@@ -1,0 +1,25 @@
+# Pancake allo sciroppo d'acero
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 125 g
+- Latte intero: 200 g
+- Burro: 25 g
+- Zucchero: 15 g
+- Uova: medie 2
+- Lievito in polvere per dolci: 6 g
+- Sale fino: 1 pizzico
+- Burro: q.b.
+- Sciroppo di acero: q.b.
+- More: q.b.
+- Lamponi: q.b.
+
+## Preparazione
+Per realizzare i pancake allo sciroppo d’acero per prima cosa fate sciogliere il burro in un pentolino e lasciate intiepidire, poi separate i tuorli dagli albumi. Versate nella ciotola con i tuorli il burro fuso intiepidito  e il latte . Mescolate con una frusta, poi unite la farina setacciata .Setacciate anche il lievito  e incorporate le polveri con la frusta, poi aggiungete il sale  e mescolate ancora per ottenere un composto omogeneo. Ora prendete la ciotola con gli albumi e iniziate a montarli con le fruste elettriche .Versate gradualmente lo zucchero  e continuate a lavorare con le fruste per montare gli albumi a neve . Aggiungete gli albumi montati a neve nel composto di tuorli .Mescolate delicatamente con la frusta dal basso verso l’alto per incorporarli in modo uniforme . Siete pronti per cuocere i pancake: scaldate una padella antiaderente con pochissimo burro aiutandovi con della carta da cucina , poi versate al centro un mestolo di impasto .Lasciate cuocere a fuoco moderato per un paio di minuti; quando compariranno le prime bollicine girate delicatamente il pancake con l’aiuto di una spatola  e cuocetelo brevemente anche dall’altro lato fino a doratura . Man mano che saranno pronti trasferiteli su un piatto senza impilarli, in modo che non si sgonfino. Una volta che saranno tutti pronti, potete impilare i vostri pancake e servirli con abbondante sciroppo d’acero !
+
+## Descrizione
+Il risultato finale sarà un piatto di pancake soffici e leggermente dolci, arricchiti dal sapore intenso dello sciroppo d'acero. I pancake potranno essere guarniti con more e lamponi freschi, che aggiungeranno una nota fruttata e colorata al piatto.
+
+Questi pancake sono adatti per la colazione o la merenda, ma possono essere serviti anche come dessert. Sono particolarmente apprezzati durante la stagione invernale, grazie al gusto riscaldante dello sciroppo d'acero.
+
+Questa ricetta è adatta a tutti, tranne a chi segue una dieta vegana o senza glutine. Le persone con intolleranza al lattosio possono sostituire il latte intero con una bevanda vegetale senza lattosio. Chi soffre di intolleranza al glutine può utilizzare una farina senza glutine per preparare i pancake. Chi è intollerante al burro può sostituirlo con olio di cocco o margarina vegana.

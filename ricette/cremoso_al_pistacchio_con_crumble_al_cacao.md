@@ -1,0 +1,26 @@
+# Cremoso al pistacchio con crumble al cacao
+Categoria: Dolci
+
+## Ingredienti
+- Panna fresca liquida: 250 ml
+- Latte condensato: 80 g
+- Pasta di pistacchi: 55 g
+- Gelatina in fogli: 2 g
+- Sale fino: q.b.
+- Farina 00: 50 g
+- Zucchero di canna: 40 g
+- Burro: freddo 30 g
+- Cacao amaro in polvere: 20 g
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare il cremoso al pistacchio, iniziate mettendo il foglio di gelatina a mollo in acqua fredda per - minuti. Mentre la gelatina si ammorbidisce, versate la panna fresca in un pentolino  e lasciate che sfiori il bollore, quindi spegnete il fuoco, scolate la gelatina, strizzatela e aggiungetela alla panna calda . Mescolate con una frusta in modo da sciogliere meglio la gelatina e aggiungete il latte condensato. Mescolate nuovamente e infine aggiungete anche la pasta di pistacchio  e un pizzico di sale. In alternativa alla pasta di pistacchio, potete ottenere un risultato simile frullando finemente la stessa dose di pistacchi sgusciati non salati e un goccio di latte. Frullate il composto con un frullatore ad immersione per qualche secondo , dopodichè suddividete la crema ottenuta nei bicchierini (e mettete il cremoso a rassodare in frigorifero per almeno  ore . Nel frattempo dedicatevi alla preparazione del crumble al cacao: versate la farina setacciata e il cacao amaro in polvere in una ciotola , unite lo zucchero di canna  e il burro freddo da frigo a tocchetti . Terminate con un pizzico di sale  e sbriciolate il tutto con le mani , creando delle briciole grossolane.Quindi foderate una leccarda con carta forno e adagiateci il crumble al cacao . Cuocete in forno statico preriscaldato a ° per  minuti, fino a quando le briciole non risulteranno croccanti (se usate il forno ventilato cuocete a ° per circa - minuti). Trascorso il tempo di cottura, lasciate raffreddare le briciole. Una volta trascorse anche le  ore di rassodamento del cremoso in frigorifero, guarnite ogni bicchierino, formando uno strato di crumble al cacao . Non vi resta che servire il vostro cremoso al pistacchio con crumble al cacao !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un dolce cremoso al pistacchio con un crumble croccante al cacao. La consistenza sarà morbida e vellutata grazie alla presenza della panna fresca e della gelatina, mentre il gusto intenso del pistacchio sarà contrastato dalla croccantezza del crumble al cacao.
+
+Questo dolce è adatto per occasioni speciali come cene eleganti e feste di compleanno. È perfetto da servire come dessert dopo un pranzo o una cena importante.
+
+Questa ricetta è adatta alle diete vegetariane. Tuttavia, poiché contiene panna fresca liquida e burro, non è adatta alle diete vegane. Può essere consumato con moderazione in una dieta equilibrata.
+
+Le persone con intolleranze al lattosio dovrebbero fare attenzione a consumare questo dolce poiché contiene latte condensato e panna. Le persone con intolleranze al glutine possono usufruire di questa ricetta sostituendo la farina 00 con una versione senza glutine.

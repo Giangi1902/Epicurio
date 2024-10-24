@@ -1,0 +1,28 @@
+# Panzanella invernale
+Categoria: Antipasti
+
+## Ingredienti
+- Pane di farro: 200 g
+- Cavolo rosso: 150 g
+- Zucca mantovana: 210 g
+- Finocchi: 180 g
+- Cipolle rosse: 100 g
+- Aceto balsamico: 40 g
+- Acqua: 40 g
+- Olive taggiasche: 30 g
+- Erba cipollina: 4 fili
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare la panzanella invernale per prima cosa mondate e affettate sottilmente la cipolla rossa . Tagliate a striscioline sottili anche il cavolo rosso dopo aver eliminato le foglie più esterne e il torsolo centrale  procedete allo stesso modo con i finocchi .Sbucciate la zucca e riducetela a cubetti piccoli (ne dovrete ottenere circa  g) . Spezzettate con le mani le fette di pane all’interno di una ciotola capiente . Inumidite con acqua e aceto balsamico . Mescolate, coprite con pellicola e lasciate insaporire. Nel frattempo procedete con la preparazione: scaldate un filo di olio in padella e aggiungete la zucca . Saltate la zucca a fiamma vivace per circa  minuti, deve risultare ben brunita .Tenete da parte la zucca e nella stessa padella scaldate ancora un filo di olio, questa volta versate il cavolo rosso  e saltatelo per  minuti . A questo punto riprendete il pane ammollato e aggiungete tutti gli ingredienti preparati: la cipolla ,i finocchi , le olive, avendo cura di denocciolarle con un coltellino , infine unite anche la zucca  e il cavolo saltati in padella.Aromatizzate con gli steli di erba cipollina tagliai a pezzettini , condite con olio , sale e pepe a piacere. La vostra panzanella invernale è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale della ricetta "Panzanella invernale" è un appetitoso e colorato antipasto a base di pane di farro, cavolo rosso, zucca mantovana, finocchi, cipolle rosse, olive taggiasche e erba cipollina condito con aceto balsamico, olio extravergine d'oliva, sale e pepe nero. 
+
+È adatto per occasioni in cui si desidera preparare un antipasto saporito e nutriente, perfetto da servire durante i mesi più freddi dell'inverno.
+
+La ricetta è adatta a persone che seguono diete vegetariane e vegane. È possibile adattare la ricetta per persone celiache sostituendo il pane di farro con pane senza glutine e per persone intolleranti al lattosio eliminando eventuali latticini aggiunti.
+
+Tuttavia, è importante prestare attenzione alle intolleranze alimentari specifiche, come a quelle al glutine, al lattosio e alle allergie alle olive, e fare le opportune modifiche agli ingredienti per renderla adatta a tutti.

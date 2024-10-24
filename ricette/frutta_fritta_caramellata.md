@@ -1,0 +1,28 @@
+# Frutta fritta caramellata
+Categoria: Dolci
+
+## Ingredienti
+- Mele: 2
+- Pere: 2
+- Banane: 2
+- Succo di limone: 1
+- Uova: 2
+- Farina 00: 150 g
+- Sale fino: 1 pizzico
+- Acqua: 200 ml
+- Lievito in polvere per dolci: 1 bustina
+- Zucchero: 500 g
+- Acqua: ghiacciata q.b.
+- Olio di semi: q.b.
+
+## Preparazione
+Per preparare la frutta fritta caramellata, lavate e pelate le mele, le pere e le banane (--);tagliate le mele e le pere in quarti, togliendo il torsolo, quindi tagliate i  pezzi ottenuti a metà (-). Dividete le banane in tre pezzi . Mettete i pezzi di frutta in una ciotola e cospargeteli con del succo di limone per evitare che si anneriscano e dedicatevi alla preparazione della pastella.Dividete i tuorli dagli albumi e tenete questi ultimi da parte. Sbattete i tuorli con l’acqua  e aggiungete anche la farina e il lievito setacciati . Sbattete bene con una frusta per evitare la formazione di grumi .Montate gli albumi a neve ferme con un pizzico di sale  e uniteli alla pastella delicatamente, mescolando dal basso verso l'alto, per non farli smontare (-).Mettete l’olio di semi a scaldare in una pentola capiente e, quando sarà pronto, intingete ogni pezzo di frutta nella pastella, ricopritelo interamente (-) e immergetelo nell’olio bollente .Quando la pastella sarà ben dorata, scolate la frutta fritta dall'olio  e fatela asciugare su un vassoio con carta assorbente. Una volta fritta la frutta, preparate il caramello (qui la scheda ricetta per maggiori informazioni): in un pentolino d’acciaio dal doppio fondo, aggiungete lo zucchero semolato un cucchiaio alla volta nel pentolino  e fatelo sciogliere lentamente a fuoco basso, senza mescolare ma ruotando delicatamente il pentolino. Dovrete ottenere un caramello bruno  (la temperatura deve oscillare tra i °- °, aiutatevi con un termometro per alimenti).Quando il caramello sarà pronto, infilzate ogni pezzo di frutta fritta con uno stuzzicadenti e intingetelo velocemente nel caramello . Scolate il caramello in eccesso e immergete il pezzo di frutta nell’acqua ghiacciata, che avrete predisposto in una ciotola, per far solidificare il caramello . Sistemate la frutta fritta caramellata su un piatto da portata e servite .
+
+## Descrizione
+Il risultato finale della ricetta sarà una deliziosa frutta fritta caramellata, croccante fuori e morbida all'interno, con un gradevole sapore dolce e leggermente acidulo per via della frutta e del caramello. 
+
+Questa ricetta è perfetta per un dessert goloso e originale da servire durante una cena con amici o in occasione di una festa.
+
+La frutta fritta caramellata è adatta per una dieta moderatamente calorica e ricca di zuccheri, quindi è consigliata per chi non segue regimi alimentari troppo rigidi o per un'occasione speciale. 
+
+Le persone con intolleranze al glutine possono preparare la ricetta utilizzando farina senza glutine al posto della farina 00. Le persone con intolleranza al lattosio possono sostituire le uova con una alternativa vegetale e evitare di aggiungere panna o latticini nella preparazione del caramello. Infine, le persone con intolleranza al fruttosio dovrebbero limitare la quantità di frutta utilizzata nella ricetta e preferire le varietà con minor contenuto di fruttosio.

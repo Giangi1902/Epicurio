@@ -1,0 +1,29 @@
+# Cosce di pollo in padella
+Categoria: None
+
+## Ingredienti
+- Cosce di pollo: (8 pezzi da circa 180 g l'uno) 1,5 kg
+- Aglio: 1 spicchio
+- Acqua: 100 g
+- Vino bianco: 50 g
+- Olio extravergine d'oliva: 1 cucchiaio
+- Sale fino: q.b.
+- Rosmarino: secco 1 cucchiaino
+- Prezzemolo: secco 1 cucchiaino
+- Origano: secco 1 cucchiaino
+- Scorza di limone: non trattato 1
+- Aglio: 1 spicchio
+- Vino bianco: 100 g
+- Olio extravergine d'oliva: 4 cucchiai
+
+## Preparazione
+Per preparare le cosce di pollo in padella per prima cosa mescolate in una ciotolina il rosmarino, il prezzemolo e l’origano secchi  . Sistemate le cosce di pollo in una ciotola e aggiungete l’olio .Unite il mix di aromi  e la scorza grattugiata del limone , poi massaggiate bene la carne per insaporirla uniformemente .Infine aggiungete uno spicchio di aglio tagliato a fettine  e il vino bianco . Coprite con pellicola  e lasciate marinare in frigorifero per almeno  ore, rigirando le cosce a metà del tempo di marinatura.Trascorso questo tempo prelevate le cosce di pollo dal liquido della marinatura e trasferitele in una padella insieme a un cucchiaio di olio e a uno spicchio di aglio . Rosolate a fiamma dolce rigirando le cosce su tutti i lati , poi sfumate con il vino bianco .Quando la parte alcolica sarà del tutto evaporata, versate l’acqua , salate e coprite con un coperchio . Cuocete per  minuti, sempre a fuoco dolce. Trascorso questo tempo togliete il coperchio e cuocete per altri  minuti, per far evaporare il liquido in eccesso e formare una gustosa crosticina. Le vostre cosce di pollo in padella sono pronte per essere servite !
+
+## Descrizione
+- Risultato finale: Le cosce di pollo in padella saranno succulente e gustose, aromatizzate con aglio, rosmarino, prezzemolo, origano e scorza di limone. La cottura in padella permette di ottenere una pelle croccante e una carne morbida e tenera.
+
+- Occasioni adatte: Questa ricetta è perfetta per un pranzo o una cena in famiglia, ma può essere anche servita durante un'occasione speciale come un pranzo domenicale o una cena tra amici.
+
+- Diete adatte: Le cosce di pollo in padella possono essere inserite in una dieta equilibrata, in quanto la carne di pollo è una buona fonte di proteine magre. Tuttavia, è importante controllare le quantità di olio utilizzato per la cottura.
+
+- Intolleranze: Le persone con intolleranze al glutine possono consumare tranquillamente questa ricetta, in quanto non vi sono ingredienti che lo contengano. Tuttavia, chi soffre di intolleranze ai latticini dovrebbe prestare attenzione all'utilizzo di burro o latticini nel condimento delle cosce di pollo. Chi soffre di intolleranze all'aglio dovrebbe invece evitare o ridurre la quantità di questo ingrediente nella ricetta.

@@ -1,0 +1,30 @@
+# Canederli di riso
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso vialone nano: 320 g
+- Formaggio Stelvio: 200 g
+- Speck: 150 g
+- Farina 00: 150 g
+- Uova: (medie) 2
+- Erba cipollina: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Verza: 200 g
+- Semi di cumino: q.b.
+- Aceto di vino bianco: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare i canederli di riso iniziate facendo bollire il riso in una pentola con abbondante acqua salata a piacere, per circa  minuti . Trascorso questo tempo scolate il riso  e fatelo raffreddare in una ciotola in frigorifero ; potete coprire con pellicola.Nel frattempo tagliate a pezzettini sottili lo speck  e rosolatelo in una padella antiaderente senza aggiungere grassi . Tagliate anche il formaggio a cubettini molto piccoli .Tritate finemente l'erba cipollina . A questo punto è il momento di impastare: in una ciotola unite il riso, lo speck , il formaggio  e le uova.Insaporite con un pizzico di sale , erba cipollina e pepe . Mescolate, poi aggiungete la farina (potete regolarvi con la consistenza aggiungendone poca alla volta per capire se servirà tutta la dose indicata) .Impastate fino a che il composto non risulterà compatto . Formate dei medaglioni di circa  g l'uno  e rosolateli in padella antiaderente con un filo d’olio a fiamma media .Una volta rosolati da un lato girateli dall'altra parte  . Impiattate i canederli di riso accompagnando con la verza tagliata finemente e condita con olio, aceto, sale, pepe e cumino ! Potete aromatizzare con altra erba cipollina a piacere.
+
+## Descrizione
+Il risultato finale sarà un piatto di canederli di riso dal cuore morbido e gustoso, arricchiti con formaggio Stelvio e speck. La verza scottata con semi di cumino e aceto di vino bianco costituirà un contorno fresco e croccante, che aggiunge una nota di freschezza al piatto.
+
+Questo piatto è adatto per occasioni speciali come pranzi o cene in famiglia, ma anche per un pranzo veloce e sostanzioso. Può essere servito sia caldo che freddo.
+
+Le persone che seguono una dieta senza glutine possono gustare questa ricetta, in quanto non contiene glutine. Tuttavia, è importante verificare che tutti gli ingredienti utilizzati siano privi di glutine, soprattutto la farina 00 utilizzata per la preparazione dei canederli.
+
+Le persone con intolleranze al lattosio possono sostituire il formaggio Stelvio con un formaggio senza lattosio o evitare di aggiungerlo alla ricetta. Le persone con intolleranze al glutine possono utilizzare farine alternative senza glutine per la preparazione dei canederli.

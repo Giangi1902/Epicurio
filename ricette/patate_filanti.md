@@ -1,0 +1,21 @@
+# Patate filanti
+Categoria: Contorni
+
+## Ingredienti
+- Patate rosse: 1 kg
+- Provola: 220 g
+- Grana Padano DOP: 80 g
+- Timo: 3 rametti
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le patate filanti, per prima cosa riscaldate il forno a ° in modalità statica, poi lavate accuratamente le patate sotto l’acqua fredda, facendo attenzione a rimuovere tutti i residui di terra . Tagliate le patate con la buccia a spicchi di medio spessore . Infine grattugiate la provola con una grattugia a fori larghi  e tenetela da parte.Ora prendete una pirofila di x cm, ungete la base con un filo d’olio d’oliva e cospargetela con parte del Grana Padano grattugiato . Disponete gli spicchi di patate nella pirofila con la buccia rivolta verso il basso , fino a ricoprire interamente la base. Condite con un filo d’olio ,le foglioline di timo , sale  e pepe e cuocete nel forno statico preriscaldato a ° per  minuti sul ripiano medio. Trascorso questo tempo, rimuovete la pirofila dal forno e cospargete le patate con la provola grattugiata che avevate tenuto da parte e il restante Grana Padano . Alzate la temperatura del forno a ° e infornate le patate per altri  minuti  per far sciogliere il formaggio. Le vostre patate filanti sono pronte per essere servite ben calde !
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle deliziose patate filanti, in cui le patate rosse vengono interamente rivestite di formaggio fuso, creando una consistenza cremosa e saporita. Il tocco di timo aggiunge un profumo fresco e aromatico alle patate, mentre il Grana Padano DOP conferisce un sapore ricco e deciso.
+
+Questo piatto è perfetto come contorno in un pranzo o una cena, sia per occasioni informali che per occasioni speciali. Le patate filanti sono particolarmente adatte ai vegetariani e ai formaggi vegetariani, in quanto non contengono carne né derivati animali. Tuttavia, non è adatta alle persone che seguono una dieta vegana, in quanto contiene formaggio.
+
+Le persone con intolleranze al lattosio o con allergie al formaggio dovrebbero evitare di consumare questo piatto, in quanto contiene formaggio. Per chi soffre di intolleranze al glutine o al lattosio, è consigliabile fare attenzione agli ingredienti utilizzati e eventualmente sostituire il formaggio con una versione senza lattosio o anche con formaggio vegano.

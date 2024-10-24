@@ -1,0 +1,25 @@
+# Frolla Milano
+Categoria: Dolci
+
+## Ingredienti
+- Burro: morbido ma ancora plastico 200 g
+- Miele di acacia: 40 g
+- Baccello di vaniglia: 1
+- Zucchero a velo: 75 g
+- Tuorli: 1
+- Acqua: 4 g
+- Sale fino: 2 g
+- Farina 00: debole 300 g
+- Scorza di limone: mezzo
+
+## Preparazione
+Per preparare la frolla Milano il burro dovrà essere morbido ma ancora plastico e tagliato a piccoli pezzi. Versatelo nella planetaria munita di foglia , unite lo zucchero a velo  e il miele d'acacia  che servirà a rendere la frolla più dorata e a donare una cottura maggiormente uniforme anche alla base.Azionate la planetaria alla velocità più bassa: il burro deve assorbire il miele e lo zucchero , ma non deve montare. Arrestate la planetaria, sciogliete il sale in pochissima acqua (circa un cucchiaino) , si dovrà ben sciogliere per non avvertirlo poi al palato. Unite in planetaria il tuorlo .Aggiungete anche il sale sciolto in acqua nella planetaria  e azionatela nuovamente a bassa velocità . Incidete la bacca di vaniglia nel senso della lunghezza e prelevate i semini  versateli nella planetaria : considerate che  g di polpa di vaniglia aromatizza circa . grammi di impasto. E' uno degli aromi naturali più potenti che esistano. Grattugiate la scorza di un limone non trattato con una grattugia, grattando da sopra in modo da essere sicuri di prelevare solo la parte gialla della scorza . Versate anche la scorza nell'impasto .Setacciate la farina e versatela tutta in una volta in planetaria  quindi azionate nuovamente la planetaria e prestate attenzione a questa fase: dovrete far lavorare sempre a bassa velocità solo fino a quando il burro avrà incorporato tutta la farina. Per fare una prova della consistenza dell'impasto, prelevatene un pezzetto  e maneggiatelo alcuni istanti.Se le mani restano pulite  l'impasto è pronto. Quindi rovesciatelo su un piano di lavoro aiutandovi con un tarocco  modellatelo per dargli una forma cilindrica appiattitelo , e sigillatelo bene nella pellicola , riponetelo in frigo per un paio d'ore, meglio ancora se per tutta la notte in modo che i grassi e gli zuccheri abbiano tempo i stabilizzarsi e l'impasto risulti più lavorabile con il mattarello. Tirate quindi fuori l'impasto dal frigo e togliete la pellicola, spolverizzate leggermente il piano di lavoro e la superficie del panetto  quindi stendete con un mattarello la frolla  fino ad ottenere uno spessore di circa  mm; ne potrete verificare l'omogeneità facendo scorrere indice e pollice sui bordi della pasta; se in alcuni punti risultasse più spessa  potete passare nuovamente con il mattarello dove necessario. Ora se preferite potete realizzare una base per una crostata alla confettura, crema o cioccolato in questo modo: con un anello di  cm coppate la frolla e ponetela su una leccarda foderata con carta da forno , posizionando prima il disco sulla teglia e trasferendo poi la pasta. Potete prelevare una parte dell'impasto avanzato  e realizzare un cordoncino : vi servirà per creare il bordo della crostata. Arrotolatelo a serpentina sul piano di lavoro  e srotolatelo lungo il perimetro dello stampo ad anello ; togliete poi la pasta in eccesso . Quindi schiacciatelo leggermente con le dita e con la punta di un coltello (o con un cucchiaino) create un motivo decorativo, pressando con la punta in un punto della frolla e subito sotto e continuando per tutto il perimetro in questo modo ; poi regolarizzate il bordo con una marisa, pressando leggermente in maniera uniforme lungo il perimetro (-); infine con il coltello bucherellate il fondo con la stessa punta del coltello e la vostra crostata sarà pronta per essere farcita e cotta in forno. Per i biscotti, invece, infarinate nuovamente poco il piano di lavoro e la superficie dell'impasto e stendetelo con un mattarello, fino ad ottenere uno spessore di circa  mm , quindi realizzate i vostri biscotti: noi abbiamo scelto degli stampini a fiore . Man a mano distribuiteli su una leccarda foderata con carta da forno distanziati in maniera regolare; questo è importante perchè vi garantirà una cottura uniforme. I vostri biscotti sono pronti per essere infornati .
+
+## Descrizione
+Il risultato finale della Frolla Milano sarà una frolla morbida e burrosa, con un delicato profumo di vaniglia e limone. Avrà una consistenza croccante e friabile, perfetta per essere utilizzata come base per crostate o dolci ripieni.
+
+Questa ricetta è adatta per occasioni speciali come feste di compleanno, anniversari o per preparare dolci da servire agli ospiti.
+
+La Frolla Milano è adatta per persone che seguono una dieta non troppo restrittiva, in quanto è ricca di burro e zucchero. È da consumare con moderazione e preferibilmente dopo aver svolto un'attività fisica.
+
+Le persone con intolleranze al lattosio non potranno consumare la Frolla Milano in quanto contiene burro, mentre quelle con intolleranza al glutine potranno optare per una versione senza glutine utilizzando farina apposita. Per chi ha intolleranza al miele o alle uova, è possibile utilizzare alternative come lo sciroppo d'acero o l'olio vegetale e sostituire il tuorlo con dell'acqua o latte vegetale.

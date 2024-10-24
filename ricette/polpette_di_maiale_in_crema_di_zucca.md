@@ -1,0 +1,26 @@
+# Polpette di maiale in crema di zucca
+Categoria: None
+
+## Ingredienti
+- Uova: 1
+- Carne di suino: macinata 500 g
+- Parmigiano Reggiano DOP: 80 g
+- Pane: mollica 70 g
+- Zucca: da pulire 700 g
+- Cipolle bianche: 1
+- Sale fino: q.b.
+- Timo: secco q.b.
+- Olio extravergine d'oliva: q.b.
+- Acqua: q.b.
+
+## Preparazione
+Per realizzare le polpette con crema di zucca per prima cosa occupatevi dell’impasto delle polpette: in una ciotola mettete a bagno la mollica in acqua il tempo necessario ad ammorbidirla . Poi versate in una ciotola la carne macinata, il formaggio grattugiato  e il timo secco .Incorporate anche l’uovo , il pane ammollato e strizzato , un pizzico di sale e poi mescolate con le mani  per amalgamare l’impasto.Quando l’impasto sarà omogeneo e compatto , prendete una piccola porzione e formate delle polpette da circa  cm . Con queste dosi otterrete circa  polpette .Tenete in frigo le polpette e occupatevi della crema: tagliate a fette al zucca ed eliminate la buccia. Tagliate la zucca a dadini , poi mondate la cipolla e tritatela . In una padella versate l’olio di semi e la cipolla tritata , rosolate a fuoco moderato per qualche minuto e poi aggiungete i dadini di zucca . Versate poca acqua , quanto basta per non far attaccare la zucca.Profumate con le foglioline di salvia , coprite con il coperchio  e cuocete così per  minuti. Al termine della cottura la zucca sarà morbida .Trasferitela in un mixer  e frullatela per ottenere una crema . Ponete la crema nuovamente nel tegame, aggiungete le polpette (-)E proseguite la cottura per  minuti, girando le polpette e aggiungendo dell’altra acqua se dovesse asciugarsi troppo il sugo. A cottura ultimata  servite le polpette ben calde .
+
+## Descrizione
+Il risultato finale di questa ricetta saranno delle succulente polpette di maiale avvolte da una delicata crema di zucca. Le polpette saranno morbide e saporite grazie al formaggio e alle spezie utilizzate, mentre la crema di zucca renderà il piatto cremoso e avvolgente.
+
+Questo piatto è adatto per occasioni informali come un pranzo in famiglia o una cena con amici. Le polpette di maiale in crema di zucca sono perfette anche come secondo piatto in un menù autunnale o invernale.
+
+Questa ricetta è adatta per chi segue una dieta onnivora. Le polpette di maiale sono una fonte di proteine, mentre la crema di zucca apporta vitamine e fibre. È consigliabile consumare questo piatto con moderazione se si sta seguendo una dieta ipocalorica.
+
+Le persone con intolleranze alimentari al lattosio o al glutine non possono mangiare questa ricetta. È possibile sostituire il formaggio con una versione senza lattosio e utilizzare del pane senza glutine per la panatura delle polpette.

@@ -1,0 +1,26 @@
+# Burrito con verdure
+Categoria: Piatti Unici
+
+## Ingredienti
+- Tortillas di farina: 8
+- Fagioli borlotti precotti: 250 g
+- Mais: 140 g
+- Funghi champignon: 100 g
+- Peperoni rossi: medio 1
+- Cipolle bianche: piccola 1
+- Pomodori ramati: 1
+- Zucchine: piccola 1
+- Lattuga iceberg: 3 foglie
+- Olio extravergine d'oliva: 4 cucchiai
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Prendete le tortillas di farina; potete realizzarle voi come da ricetta dal nostro sito. Preparate quindi le verdure: tagliate la cipolla sottile, la zucchina e il pomodoro a cubetti piuttosto piccoli, il peperone, le foglie di iceberg alla julienne e i funghi a fettine sottili . Sgocciolate, dall’acqua, i fagioli borlotti e il mais. In una padella capiente mettete  cucchiai di olio di oliva e fate rosolare la cipolla ; aggiungete quindi i funghi, il peperone e la zucchina .Aggiungete quindi i borlotti , il mais  il pomodoro e l’insalata iceberg .Aggiustate di sale e pepe e fate cuocere per  minuti con il coperchio  e mescolate di tanto in tanto finché non sarà pronto . Scaldate le tortillas nel forno microonde o in una padella antiaderente, mettete nel centro un po’ di verdure e chiudete su se stessi i due lati ,come per formare un tubo  e poi gli altri due , dando alla tortilla la forma di un saccottino : preparate in questo modo le altre  tortillas. Servite i burrito di verdure caldi accompagnandoli con salsa guacamole e crema di fagioli.
+
+## Descrizione
+Il risultato finale sarà un burrito ricco di verdure colorate e saporite, avvolto in una morbida tortilla di farina. Le verdure, cotte al punto giusto, si combinano in un mix gustoso e appagante, arricchito dal sapore leggermente dolce dei fagioli borlotti e del mais.
+
+Il burrito con verdure è adatto per pranzi o cene informali in compagnia, ma anche come pranzo da portare in ufficio o in spiaggia. Si tratta di un piatto completo che soddisfa sia il palato che il fabbisogno nutritivo, grazie all'apporto di fibre, vitamine e sali minerali forniti dalle verdure.
+
+Il burrito con verdure è adatto a tutti, anche a chi segue una dieta vegetariana o vegana. Tuttavia, è importante verificare che gli ingredienti utilizzati siano privi di eventuali allergeni e che la tortilla di farina non contenga glutine per chi segue una dieta senza glutine. Le persone con intolleranze al lattosio possono consumare il burrito eliminando eventuali condimenti a base di latticini. Gli allergici ai funghi champignon o al mais dovranno sostituire questi ingredienti con alternative.

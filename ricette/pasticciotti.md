@@ -1,0 +1,29 @@
+# Pasticciotti
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 500 g
+- Burro: 250 g
+- Tuorli: 4
+- Baccello di vaniglia: 1
+- Zucchero a velo: 200 g
+- Farina 00: 50 g
+- Latte: 500 ml
+- Tuorli: 6
+- Baccello di vaniglia: 1
+- Zucchero: 150 g
+- Amarene sciroppate: q.b.
+- Tuorli: 1
+- Panna fresca liquida: 3 cucchiai
+
+## Preparazione
+Per realizzare i pasticciotti, iniziate preparando la crema pasticcera (clicca qui per la scheda ricetta): fate scaldare il latte a fuoco basso con la bacca di vaniglia aperta. Intanto sbattete bene i tuorli con lo zucchero  e unite la farina setacciata, quindi aggiungete questo composto al latte  e mescolate sempre a fuoco basso con una frusta. Fate addensare la crema e fatela raffreddare  in frigorifero con un foglio di pellicola a contatto.Preparate intanto la pasta frolla seguendo le indicazioni che trovate qui: mettete la farina ed il burro freddo nel mixer  e frullate per  ottenere un composto dall'aspetto sabbioso e farinoso, che trasferirete su una spianatoia. Aggiungete lo zucchero, i semi del baccello di vaniglia e i tuorli  e impastate velocemente il tutto fino ad ottenere un impasto compatto ed abbastanza elastico . Avvolgete la frolla nella pellicola trasparente e mettetela a riposare in frigo per almeno mezz'ora.Trascorso il tempo di riposo della frolla, stendetela su di una spianatoia infarinata , con l'aiuto di un matterello, in modo che abbia uno spessore di circa mezzo cm. Foderate tutti gli stampini, già imburrati e infarinati con la frolla (-).Inserite all'interno di ogni stampino  cucchiaini di crema  e se la gradite un'amarena . Ricoprite la formina con la pasta frolla avanzata e tagliate la pasta eccedente in modo che i bordi siano ben squadrati .Sbattete un tuorlo in un paio di cucchiai di latte o panna e spennellate la superficie dei pasticciotti . Sistemate gli stampini su di una leccarda  e infornateli in forno già caldo a ° per  –  minuti. Quando i pasticciotti saranno ben dorati  sfornateli, fateli raffreddare e gustateli ancora caldi!
+
+## Descrizione
+Il risultato finale dei pasticciotti sarà un dolce tipicamente italiano, con una pasta friabile e un ripieno cremoso e goloso. I pasticciotti sono di solito guarniti con zucchero a velo e amarene sciroppate.
+
+Sono adatti per occasioni speciali come feste di compleanno, cene eleganti o per concedersi un dolce momento di relax. 
+
+I pasticciotti non sono adatti per diete ipocaloriche o a basso contenuto di grassi, in quanto sono ricchi di burro, zucchero e panna fresca. 
+
+Le persone con intolleranze al lattosio dovrebbero evitare di consumare i pasticciotti, in quanto contengono latte e panna fresca. Le persone con intolleranza al glutine potrebbero adattare la ricetta utilizzando farina senza glutine.

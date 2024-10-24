@@ -1,0 +1,21 @@
+# Branzino al cartoccio
+Categoria: Secondi piatti
+
+## Ingredienti
+- Branzino (spigola): 800 g
+- Pomodorini ciliegino: 150 g
+- Pinoli: 15
+- Olive taggiasche: 40 g
+- Aglio: 2
+- Limoni: 1
+- Prezzemolo: 10 g
+
+## Preparazione
+Per preparare il Branzino al cartoccio lavate e tagliate a metà i pomodorini . Affettate il limone . In una ciotola raccogliete i pomodorini, i pinoli e le olive .  Tritate prezzemolo e aglio precedentemente privato della camicia  e unite ai pomodorini. Condite con olio , sale  e pepe. Ora pulite il pesce tagliando via le pinne , desquamatelo con l'apposito strumento . Quindi, dopo averlo eviscerato e sciacquato sotto l'acqua corrente sia dentro che fuori, farcite l'interno con le fette di limone .Su un piano adagiate un foglio di carta di alluminio e sopra un altro di carta forno. Appoggiate qui il branzino e distribuite sui lati i pomodorini . Chiudete i due fogli uno  sull'altro  avendo cura di sigillare bene i lati. Cuocete in forno statico preriscaldato a  gradi per / minuti.Una volta cotto, sfornate il cartoccio, apritelo e pulite il pesce ancora caldo. prendete con la forchetta un lembo di pelle e sollevatelo per tirarlo via .Servite i filetti di branzino al cartoccio ancora caldi  assieme al condimento a base di pomodorini, pinoli e olive .
+
+## Descrizione
+Il risultato finale della ricetta di Branzino al cartoccio sarà un gustoso e profumato secondo piatto a base di pesce, cotto al forno insieme a pomodorini ciliegino, pinoli, olive taggiasche, aglio, limone e prezzemolo. Il pesce verrà cotto all'interno del cartoccio, che conserverà tutto il sapore e i succhi del pesce e degli altri ingredienti, rendendo il piatto molto aromatico e succulento.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia. Grazie alla presenza del pesce, è particolarmente consigliato per chi segue una dieta ricca di proteine e povera di grassi, come la dieta mediterranea. 
+
+Le persone con intolleranze possono comunque gustare il Branzino al cartoccio, facendo attenzione a eventuali allergie ai frutti di mare (branzino), ai frutti a guscio (pinoli), alle olive o all'aglio. È sempre consigliabile consultare un medico o un nutrizionista per eventuali dubbi o allergie alimentari.

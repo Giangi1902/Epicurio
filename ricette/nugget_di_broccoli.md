@@ -1,0 +1,33 @@
+# Nugget di broccoli
+Categoria: Antipasti
+
+## Ingredienti
+- Broccoli romaneschi: 1,3 kg
+- Olio extravergine d'oliva: q.b.
+- Paprika affumicata: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Asiago: 100 g
+- Parmigiano Reggiano DOP: da grattugiare 100 g
+- Maggiorana: 4 rametti
+- Uova: 1
+- Sale fino: q.b.
+- Pangrattato: q.b.
+- Farina 00: 150 g
+- Acqua: 225 g
+- Olio di semi di girasole: per frittura, 100% italiano q.b.
+- Broccoli: scarti della pulizia 150 g
+- Olio extravergine d'oliva: 50 g
+- Acqua: di cottura 2 mestoli
+- Sale fino: q.b.
+- Curcuma in polvere: q.b.
+
+## Preparazione
+Per preparare i nugget di broccoli prendete il broccolo romanesco, sfogliatelo  e togliete la base, non scartate perché vi serviranno per realizzare la salsa d’accompagnamento . Affettate a un paio di cm di spessore il cavolo  in senso verticale rispetto alla base e ottenete delle fette spesse (le parti più esterne si sbricioleranno ma non importa).Disponete su una leccarda con carta forno, cospargete con olio evo , paprika , sale e pepe   e cuocete in forno statico, già caldo a °, per circa  minuti. Una volta cotto sfornate e lasciate raffreddare . Intanto potete grattugiare l’asiago . Una volta pronte le cime schiacciatele con una forchetta all’interno di una capiente ciotola , i gambi potranno essere sminuzzati al coltello se ancora coriacei.Unite l'asiago , il formaggio grattugiato, l’uovo , pochissimo sale e amalgamate il tutto finché non otterrete un composto omogeneo. Con le mani inumidite formate  nugget  dal peso di circa  grammi ciascuna.Man mano sistemateli su un vassoio con carta forno  e fate riposare in frigorifero per un’oretta. Intanto potete occuparvi della salsa, recuperate gli scarti del broccolo, sciacquateli e immergeteli in una pentola d’acqua bollente , lasciate cuocere per circa  minuti. Scolate e sminuzzate grossolanamente .In un bicchiere alto versate sia gli scarti sbollentati che l’olio . Iniziate a frullare avendo cura di versare acqua di cottura (circa  mestoli) . Dovrete ottenere una salsa fluida e piuttosto liscia . Trasferite in una ciotola, condite con sale e curcuma, mescolate e guarnite con un filo d’olio . Preparate una pastella di farina e acqua: quest’ultima andrà versata a filo mentre mescolate con una frusta .La pastella dovrà risultare liscia e senza grumi . Scaldate l’olio portandolo a ° e passate i nugget prima nella pastella  e poi nel pangrattato .Tuffate pochi pezzi per volta nell’olio bollente  e scolate su carta assorbente dopo - minuti . A fine cottura servite i nugget di broccoli con la salsa d’accompagnamento .
+
+## Descrizione
+Il risultato finale della ricetta "Nugget di broccoli" sarà un antipasto croccante e saporito, con il gusto fresco dei broccoli accostato alla cremosità del formaggio e al profumo della maggiorana. La panatura croccante e dorata renderà i nugget irresistibili al primo morso, perfetti da gustare appena fritti.
+
+Questo piatto è adatto per un aperitivo con gli amici o come antipasto in una cena speciale. Può essere servito anche come contorno leggero e gustoso.
+
+La ricetta dei nugget di broccoli è adatta alla maggior parte delle diete, in particolare a quelle vegetariane e a chi segue un'alimentazione senza glutine. Tuttavia, le persone con intolleranza al lattosio dovrebbero evitare di consumarli o sostituire il formaggio con una variante senza lattosio. Chi soffre di allergie ai crostacei dovrebbe fare attenzione alla presenza di curcuma, che potrebbe essere contaminata da tracce di crostacei.

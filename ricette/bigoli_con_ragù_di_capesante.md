@@ -1,0 +1,29 @@
+# Bigoli con ragù di capesante
+Categoria: None
+
+## Ingredienti
+- Bigoli: freschi 400 g
+- Capesante: sgusciate 300 g
+- Passata di pomodoro: 250 g
+- Pomodorini ciliegino: 100 g
+- Cipollotti rossi: di Tropea 50 g
+- Aglio: spicchio 1
+- Vino bianco: 70 g
+- Olio extravergine d'oliva: q.b.
+- Basilico: q.b.
+- Prezzemolo: q.b.
+- Peperoncino in polvere: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i bigoli con ragù di capesante cominciate proprio da queste ultime. Dopo averle pulite, sciacquatele  e scolatele bene prima di tagliarle in  parti . Mettete un attimo da parte e poi tagliate i pomodorini, anche questi in  parti .Pulite e affettate sottilmente i cipollotti  e per finire sminuzzate grossolanamente il basilico . Spostatevi ai fornelli e scaldate un po' d'olio in una padella insieme a uno spicchio d'aglio. Poi aggiungete le capesante e lasciatele sfrigolare qualche istante .Sfumate con il vino bianco , fate evaporare l'alcol e aggiungete i pomodorini tagliati , lo scalogno affettato ,e le foglie di basilico . Scottate rapidamente mescolando il tutto e poi togliete l'aglio  prima di aggiungere la passata di pomodoro ,un po' d'acqua  e regolate di sale, pepe e peperoncino in polvere . Mescolate e lasciate cuocere a fuoco dolce per una decina di minuti; aggiungete al bisogno altra acqua .Intanto che il condimento cuoce , tuffate i bigoli in una pentola con abbondante acqua bollente e salata . Cuocete secondo i tempi riportati sulla confezione e scolate direttamente nel sugo quando pronti .Mantecate rapidamente la pasta con il condimento, spegnete e aggiungete il prezzemolo sminuzzato grossolanamente , mescolate e impiattate . Ecco pronti i vostri bigoli con ragù di capesante, buon appetito .
+
+## Descrizione
+Il risultato finale della ricetta "Bigoli con ragù di capesante" sarà un piatto di pasta ricco e saporito, con un condimento gustoso a base di capesante e pomodoro, arricchito da aromi freschi come basilico e prezzemolo. I bigoli saranno avvolti nella salsa cremosa e ricca di sapori di mare, con una leggera nota piccante data dal peperoncino.
+
+Questo piatto è adatto per occasioni speciali o cene eleganti, ma può essere preparato anche per una cena in famiglia.
+
+Le persone che seguono una dieta pescetariana o che prediligono piatti a base di pesce possono consumare tranquillamente questo piatto. Inoltre, può essere adatto anche a chi segue una dieta mediterranea.
+
+Le persone con intolleranze al lattosio possono consumare questa ricetta eliminando eventuali aggiunte di latticini. Le persone con intolleranze al glutine dovrebbero fare attenzione ad utilizzare bigoli senza glutine, mentre chi è allergico alle capesante dovrebbe evitare completamente questo piatto.

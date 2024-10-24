@@ -1,0 +1,29 @@
+# Chupitos di melone con fagottini di feta
+Categoria: Antipasti
+
+## Ingredienti
+- Melone: 460 g
+- Olio extravergine d'oliva: 10 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pasta fillo: 4 fogli da 48x34 cm 150 g
+- Feta: 100 g
+- Pomodorini datterini: 80 g
+- Olive nere: 25 g
+- Cipolle rosse di Tropea: 60 g
+- Erba cipollina: q.b.
+- Olio extravergine d'oliva: 10 g
+- Sale fino: q.b.
+- Olio di semi di arachide: per friggere q.b.
+
+## Preparazione
+Per preparare i chupitos di melone con fagottini di feta, cominciate dalla pulizia del melone. Tagliate il melone a spicchi e rimuovete i semi e i filamenti interni . Passate poi il coltello tra la buccia e la polpa per sbucciare ogni fetta  e tagliate infine la polpa a grossi pezzi .Ponete i tocchetti di melone nel bicchiere del mixer e unite l’olio  e un pizzico di sale . Con il frullatore a immersione, frullate accuratamente E trasferite poi la purea ottenuta in una brocca . Ponete la brocca in frigo per tenere in fresco il vostro frullato di melone. Nel frattempo, occupatevi dei fagottini, cominciando dagli ingredienti del ripieno. Tritate finemente la cipolla rossa  e tenetela da parte. Tagliate i pomodorini a metà nel senso della lunghezza e ricavate, tagliandole per lungo, delle listarelle .Infine tagliate le listarelle per ricavare dei dadini . Teneteli da parte e passate alla feta. Tagliatela prima a listarelle e poi a dadini  circa della stessa dimensione di quelli di pomodorini. Tritate poi finemente l’erba cipollina .In una ciotola capiente, versate la cipolla, i pomodorini , la feta , le olive a rondelle E l’erba cipollina . Condite con l’olio  e un pizzico di sale : ne basterà poco, perché la feta è molto sapida di suo.Mescolate bene per amalgamare gli ingredienti  e tenete da parte. Disponete poi due fogli di pasta fillo da x cm uno sopra l’altro, e adagiateli sul piano da lavoro, tenendo il lato lungo alla base. Aiutandovi con un paio di forbici, tagliate  strisce larghe  cm . Spennellate le strisce con un po’ d’acqua per reidratarle .Adagiate una piccola cucchiaiata di ripieno alla base della striscia di pasta fillo , e ripiegate un lembo per creare un triangolo che racchiuda il ripieno . Ripiegate allo stesso modo il triangolo appena formato sulla striscia e proseguite in questo modo fino a terminare la striscia di pasta. Spennellate l’ultimo lembo con un po’ di acqua  prima di richiudere anch’esso, in modo da sigillare il vostro fagottino . Realizzate in questo modo gli altri  fagottini, poi ripetete con gli altri  fogli di pasta fillo per realizzare gli ultimi  fagottini. In totale ne otterrete . Scaldate l’olio di semi in un tegame profondo, e quando raggiunge la temperatura di -° immergetevi un paio di fagottini per volta, e friggeteli  circa mezzo minuto per lato fino a doratura.Asciugate i fagottini su carta assorbente e salateli leggermente in superficie . Riprendete dal frigo la brocca di frullato, distribuitelo in  bicchierini e spolverate ciascuno con un po’ di pepe . Servite i fagottini di feta ben caldi, accompagnati dai chupitos di melone .
+
+## Descrizione
+Il risultato finale sarà un antipasto fresco e gustoso, ideale per l'estate, composto da chupitos di melone serviti con fagottini di feta. Il melone sarà tagliato a cubetti e condito con olio extravergine d'oliva, sale e pepe, mentre i fagottini di feta saranno preparati con pasta fillo e ripieni di feta, pomodorini, olive nere, cipolle rosse e erba cipollina.
+
+Per quali occasioni è adatto: Questa ricetta è perfetta per un aperitivo estivo con amici o per un buffet durante una festa.
+
+Per quali diete o regime alimentare sono adatte: Questa ricetta è adatta per una dieta vegetariana.
+
+Intolleranze: Le persone con intolleranza al lattosio potrebbero avere problemi a digerire la feta, mentre le persone celiache dovrebbero fare attenzione alla presenza di pasta fillo nell'impasto.

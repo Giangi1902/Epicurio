@@ -1,0 +1,24 @@
+# Bucatini cremosi con zucchine e menta
+Categoria: Primi piatti
+
+## Ingredienti
+- Bucatini: 320 g
+- Zucchine: 300 g
+- Anacardi: al naturale 100 g
+- Menta: q.b.
+- Lievito alimentare: 5 g
+- Aglio: 1 spicchio
+- Scorza di limone: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare i bucatini cremosi con zucchine e menta per prima cosa spuntate le zucchine e tagliatele a rondelle . In una padella fate imbiondire uno spicchio di aglio sbucciato con un filo d’olio , poi aggiungete le zucchine .Salate , pepate e cuocete a fiamma media per circa  minuti girandole da entrambi i lati . Una volta pronte tenetele da parte .Nel frattempo mettete gli anacardi in un pentolino e copriteli con acqua a filo , poi mettetelo sul fuoco e fate bollire per circa  minuti, giusto il tempo che si ammorbidiscano . Cuocete anche i bucatini in acqua bollente salata .Una volta ammorbiditi versate gli anacardi con la loro acqua in un boccale , poi aggiungete quasi tutte le zucchine  e un cucchiaio di lievito alimentare .Unite anche qualche foglia di menta  e un pizzico di sale e frullate con un mixer a immersione  fino ad ottenere una consistenza cremosa e omogenea, diluendo se necessario con poca acqua di cottura della pasta .Scolate i bucatini al dente e trasferiteli nella stessa padella in cui avete cotto le zucchine, poi aggiungete la crema  e un mestolo di acqua di cottura. Saltate brevemente la pasta per amalgamarla al condimento, aggiungendo se necessario un altra acqua di cottura . Guarnite il piatto con le zucchine rimaste, qualche fogliolina di menta e della scorza di limone grattugiata: i vostri bucatini cremosi con zucchine e menta sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta è un piatto di bucatini cremosi insaporiti con zucchine e menta, arricchiti con una cremosa salsa di anacardi e lievito alimentare. Il sapore fresco della menta si sposa perfettamente con il gusto delle zucchine, creando un piatto ricco e gustoso.
+
+Questo piatto è perfetto per una cena leggera e saporita, ideale da gustare in estate grazie alla freschezza della menta e delle zucchine. Può essere servito come primo piatto in occasioni informali con amici o famiglia.
+
+Questa ricetta è adatta a una dieta vegetariana e vegana, in quanto non contiene ingredienti di origine animale. È inoltre senza glutine, se si utilizzano bucatini senza glutine. Le persone con intolleranze al lattosio possono consumare questo piatto, in quanto non contiene latticini. Tuttavia, bisogna fare attenzione agli anacardi, che possono causare allergie a persone sensibili alle noci.

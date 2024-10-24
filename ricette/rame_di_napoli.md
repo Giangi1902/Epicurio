@@ -1,0 +1,28 @@
+# Rame di Napoli
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 225 g
+- Latte intero: 200 g
+- Margarina vegetale: 50 g
+- Zucchero: 100 g
+- Cacao amaro in polvere: 50 g
+- Lievito in polvere per dolci: 8 g
+- Cannella in polvere: 1 g
+- Chiodi di garofano macinati: 1 g
+- Miele millefiori: 20 g
+- Scorza d'arancia: ½
+- Cioccolato fondente: 100 g
+- Margarina vegetale: 60 g
+- Marmellata di arance: 30 g
+- Granella di pistacchi: 20 g
+
+## Preparazione
+Per realizzare il rame di Napoli sciogliete la margarina a bagnomaria o nel microonde e tenetela da parte. Versate in una ciotola capiente lo zucchero, i chiodi di garofano  e la cannella in polvere . Aggiungete il lievito in polvere per dolci Quindi unite il cacao amaro e  aromatizzate l’impasto grattugiando la scorza d’arancia  avendo cura di evitare la parte bianca della scorza che risulterebbe amara. Versate il miele  e la margarina sciolta .Mescolate con una spatola il composto per amalgamarlo , a parte setacciate la farina  e un cucchiaio alla volta, incorporatela all’impasto .Versate anche il latte, alternandolo alla farina  mescolate per ottenere un composto ben amalgamato . Ora componete i dolcetti: rivestite con carta da forno una leccarda, quindi prendete un cucchiaio di impasto e formate una pallina facendo scivolare l’impasto sulla teglia aiutandovi con un altro cucchiaio  abbiate cura di distanziare i dolcetti l’uno dall’altro perché in cottura cresceranno.Una volta terminati i dolcetti , cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata sfornate i biscotti, e lasciateli raffreddare . Preparate intanto la ricopertura: tritate il cioccolato fondente con un coltello Ponetelo in un pentolino per la cottura a bagnomaria , aggiungete la margarina  e scaldate a fuoco moderato finché il composto non si sarà sciolto completamente .Prendete i biscotti che si saranno raffreddati, spennellate la superficie con la marmellata di arancia , intingeteli nel cioccolato  e adagiateli su una gratella Ricopriteli con la granella di pistacchi , lasciate asciugare la glassa per circa  ore  quindi gustate le vostre rame di Napoli .
+
+## Descrizione
+Il risultato finale della ricetta "Rame di Napoli" è un dolce dal sapore intenso e avvolgente, grazie alla presenza del cacao amaro, della cannella e dei chiodi di garofano. La consistenza morbida e scioglievole, arricchita dalla presenza di granella di pistacchi, si contrappone alla croccantezza della glassa al cioccolato fondente e della marmellata di arance. Il gusto dolce e speziato, arricchito dalla scorza d'arancia, rende questo dolce perfetto per essere gustato a fine pasto o come merenda.
+
+Il dolce "Rame di Napoli" è adatto per occasioni speciali come feste di compleanno, ricorrenze e occasioni festive. La sua presentazione raffinata e l'ottimo equilibrio di sapori lo rendono un'ottima scelta per stupire gli ospiti o per regalarsi un momento di piacere goloso.
+
+La ricetta del "Rame di Napoli" è adatta per persone che seguono una dieta vegetariana, in quanto non contiene ingredienti di origine animale. Tuttavia, non è adatto per persone che seguono una dieta vegana, in quanto contiene latte e derivati. È opportuno prestare attenzione alla presenza di allergie o intolleranze a ingredienti come latte, glutine, frutta a guscio e pistacchi, che potrebbero essere presenti nella ricetta. Si consiglia di consultare un medico o un nutrizionista prima di consumare il dolce in caso di intolleranze o allergie specifiche.

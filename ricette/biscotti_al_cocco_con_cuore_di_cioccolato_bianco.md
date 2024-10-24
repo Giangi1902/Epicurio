@@ -1,0 +1,24 @@
+# Biscotti al cocco con cuore di cioccolato bianco
+Categoria: Dolci
+
+## Ingredienti
+- Cocco rapè: 250 g
+- Cioccolato bianco: in pastiglie 100 g
+- Uova: ( circa 2) 115 g
+- Farina 00: 90 g
+- Zucchero: 80 g
+- Burro: morbido 80 g
+- Lievito in polvere per dolci: 5 g
+- Sale fino: 1 pizzico
+
+## Preparazione
+Per preparare i biscotti al cocco con cuore di cioccolato bianco versate in una ciotola il burro morbido a pezzetti e lo zucchero , montate gli ingredienti con le fruste elettriche e poi unite le uova, una alla volta . Quando avrete ottenuto un composto omogeneo, versate la farina setacciata .Proseguite aggiungendo anche un pizzico di sale  e il cocco rapè . Impastate a mano per incorporare le polveri .Versate infine il lievito  e amalgamate l’impasto un’ultima volta. Ora prendete una piccola porzione di impasto grande come una noce e del peso di circa  g, formate delle palline con le mani , poi create un incavo premendo con il pollice al centro della pallina .Farcite con qualche pastiglia di cioccolato bianco, circa  g , e avvolgete la farcia con l’impasto  ricreando la pallina iniziale .Con le dosi indicate otterrete circa - biscotti, adagiateli su una teglia rivestita con carta forno . Cuocete i biscotti in forno statico preriscaldato a ° per  minuti. A cottura ultimata sfornate i biscotti , lasciateli raffreddare e poi serviteli con una spolverata di zucchero a velo .
+
+## Descrizione
+Il risultato finale sarà una serie di deliziosi biscotti al cocco con un cuore morbido di cioccolato bianco. I biscotti saranno croccanti all'esterno grazie al cocco rapè e avranno un cuore dolce e cremoso di cioccolato bianco.
+
+Questi biscotti sono adatti per ogni occasione, come colazione, merenda o come dolce da gustare con il tè o il caffè. Possono essere un'ottima idea per una festa tra amici o per un regalo fatto in casa.
+
+Questi biscotti sono adatti a una dieta onnivora, in quanto contengono uova, burro e cioccolato bianco. Tuttavia, possono essere facilmente adattati per essere adatti a una dieta vegetariana sostituendo il burro con margarina vegetale e utilizzando uova sostitutive. Inoltre, possono essere adattati per essere senza glutine utilizzando farina senza glutine e per essere senza lattosio utilizzando burro e cioccolato bianco senza lattosio.
+
+Le persone con intolleranze al lattosio possono mangiare questi biscotti sostituendo il burro con margarina senza lattosio e utilizzando cioccolato bianco senza lattosio. Le persone con intolleranze al glutine possono mangiare questi biscotti utilizzando farina senza glutine.

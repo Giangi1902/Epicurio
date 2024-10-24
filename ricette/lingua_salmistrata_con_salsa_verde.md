@@ -1,0 +1,31 @@
+# Lingua salmistrata con salsa verde
+Categoria: Secondi piatti
+
+## Ingredienti
+- Lingua salmistrata: 1,2 kg
+- Acqua: q.b.
+- Scorza di limone: 1
+- Alloro: 2 foglie
+- Pepe nero in grani: 15
+- Acciughe sott'olio: 3 filetti
+- Aglio: 2 spicchi
+- Prezzemolo: 120 g
+- Capperi sotto sale: 1 cucchiaio
+- Tuorli: 2
+- Aceto di vino bianco: 50 g
+- Pane raffermo: mollica 80 g
+- Olio extravergine d'oliva: 150 g
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare la lingua salmistrata per prima cosa sciacquatela sotto il getto dell’acqua corrente  e poi tenetela a bagno per - ore. Trascorso tempo ponete la lingua in un tegame dal bordo alto, aggiungete tutti gli aromi: la scorza del limone , l’alloro e i grani di pepe e poi copritela completamente con l’acqua .Cuocete con il coperchio  per  ore dal bollore, lasciando sobbollire. Nel frattempo preparate la salsa verde. Mettete dell'acqua in un tegame,  immergete le uova  che dovranno essere ricoperte dall'acqua e cuocetele per circa - minuti. Dopodiché lasciatele raffreddare per qualche istante prima di sbucciarle .Setacciate i tuorli in un recipiente attraverso un colino . Poi eliminate la crosta del pane  e tagliate in pezzi la mollica che verserete in una ciotola insieme all’aceto di vino . Lasciate in ammollo per una decina di minuti. Intanto sbucciate l’aglio e dissalate i capperi sciacquandoli ripetutamente sotto acqua corrente e poi tritate insieme aglio, capperi e acciughe .Nella ciotola con i tuorli unite il trito di aromi e il pane strizzato . Tritate finemente le foglie di prezzemolo, ben lavate e asciugate  e unitele al composto .Salate, pepate e mescolate accuratamente, condite infine con l’olio extravergine d’oliva . La salsa è pronta , tenetela da parte. Terminato il tempo di cottura della lingua, scolatela ,lasciatela intiepidire e incidete con un coltello lo strato grigio più superficiale  e staccatelo con le mani . Una volta eliminate questa parte più esterna potete affettare sottilmente la lingua .Distribuite le fette su un vassoio  e ricopritele con la salsa verde . La lingua salmistrata è pronta per essere servita .
+
+## Descrizione
+Il risultato finale della ricetta sarà una lingua salmistrata tenera e saporita, accompagnata da una salsa verde fresca e aromatica.
+
+Occasioni: Questo piatto è ideale per occasioni speciali o per un pranzo o una cena importante.
+
+Dieta/Regime alimentare: La lingua salmistrata con salsa verde è adatta per chi segue una dieta proteica e ricca di sapori intensi.
+
+Intolleranze: Le persone con intolleranza al lattosio possono mangiare questo piatto evitando il pane nella salsa verde. Le persone celiache possono sostituire il pane con del pane senza glutine. Chi soffre di intolleranza al pesce può evitare di aggiungere le acciughe alla salsa verde.

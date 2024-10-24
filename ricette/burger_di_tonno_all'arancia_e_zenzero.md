@@ -1,0 +1,27 @@
+# Burger di tonno all'arancia e zenzero
+Categoria: Secondi piatti
+
+## Ingredienti
+- Tonno: 600 g
+- Zenzero fresco: 15 g
+- Scorza d'arancia: q.b.
+- Menta: 4 foglie
+- Aneto: 4 rametti
+- Prezzemolo: da tritare 1 cucchiaino
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+- Maionese: 90 g
+- Senape: in grani 20 g
+- Miele di acacia: 3 cucchiai
+
+## Preparazione
+Per preparare il burger di tonno all'arancia e zenzero, sminuzzate finemente il tonno con un coltello  (in alternativa potete sminuzzate il tonno in un mixer per velocizzare l'operazione) e ponetelo in una ciotola, aggiungete lo zenzero fresco grattugiato , l’aneto e il prezzemolo tritato .Grattugiate la scorza d'arancia  a piacere  e unite la menta , salate e mescolate il composto per amalgamare gli ingredienti. Ora prendete un tagliere, appogiate sopra un foglio di carta da forno e adagiate sopra un coppapasta del diametro di  cm e riempitelo con il composto di tonno, avendo cura di premere bene l'impasto con un cucchiaio : l'altezza del burger dovrà essere di circa un cm.Sfilate il coppapasta e otterete il vostro burger: spennelatelo con l'olio , per evitare che si attacchi durante la cottura, e preparatene altre  o fino l'esaurimento del composto di tonno. Trasferite il burger poi sulla padella ben calda aiutandovi con la carta forno in modo che rimanga compatto , togliete la carta e cuocete il burger in una padella ben calda per massimo  minuti per lato. Una volta cotto, tenete in caldo il burger di tonno .Ora preparate la salsa: in una ciotola mettete la maionese  e la senape , mescolate la salsa e unite infine il miele di acacia . Servite i burger di tonno all'arancia e zenzero e la salsa con fresche insalate oppure farcite con essi dei morbidi panini da hamburger!
+
+## Descrizione
+Il risultato finale sarà un burger di tonno aromatizzato all'arancia e zenzero, croccante all'esterno e morbido all'interno, arricchito dal gusto fresco di menta, aneto e prezzemolo.
+
+Occasioni: Questo burger di tonno è perfetto per una cena informale con amici o per un pranzo estivo in giardino. Si presta anche ad essere servito come antipasto in versione mini burger durante un buffet.
+
+Dieta: Questa ricetta è adatta a una dieta sana ed equilibrata, ricca di proteine e povera di grassi saturi. È ideale per chi segue una dieta mediterranea e per chi vuole mantenere il peso forma.
+
+Intolleranze: Le persone con intolleranze al glutine possono consumare questa ricetta utilizzando pane senza glutine per comporre il burger. Le persone con intolleranze al lattosio devono fare attenzione all'eventuale presenza di latticini nella maionese utilizzata. È consigliabile controllare gli ingredienti specifici per evitare eventuali allergie.

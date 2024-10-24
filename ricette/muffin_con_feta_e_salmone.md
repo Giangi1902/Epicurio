@@ -1,0 +1,31 @@
+# Muffin con feta e salmone
+Categoria: Antipasti
+
+## Ingredienti
+- Feta: 150 g
+- Salmone: 150 g
+- Latte intero: 100 g
+- Uova: medie 3
+- Farina 00: 200 g
+- Grana Padano DOP: 100 g
+- Lievito istantaneo per preparazioni salate: 10 g
+- Olio di semi: 100 g
+- Erba cipollina: 10 fili
+- Sale fino: 10 g
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i muffin con feta e salmone iniziate con la preparazione del salmone. Disponete il salmone su un tagliere e privatelo della pelle aiutandovi con un coltello . Ora prendete delle pinzette e togliete le lische del salmone. Quindi tagliate il salmone a striscioline  e da queste ricavatene dei cubetti .Ora passate alla preparazione della feta. Prendete la feta e tagliatela a striscioline, quindi anch’essa a cubetti . Prendete ora una ciotola e rompetevi tre uova aiutandovi con le fruste . Sbattetele ed aggiungete il latte e l’olio di semi  fino ad ottenere un composto omogeneo. Ora setacciate la farina e unitela al composto amalgamato di uova, olio e latte . Quindi aggiungete il lievito .Incorporate ora al composto l’erba cipollina finemente tritata  ed il Grana Padano grattugiato  che daranno un sapore più deciso ai vostri muffin. Continuate ad amalgamare gli ingredienti per rendere il composto omogeneo. Aggiustate di sale e pepe .Unite quindi la feta  ed anche il salmone tagliato a cubetti . Continuate ad impastare amalgamando delicatamente tutti gli ingredienti .Prendete ora dei pirottini Trasferite il composto ottenuto in una sac-à-poche  e riempite i pirottini quasi fino al bordo . Infornate i vostri muffin con feta e salmone in forno preriscaldato a °C per - minuti  e… buon appetito!
+
+## Descrizione
+Il risultato finale della ricetta sarà una serie di muffin salati con una morbida consistenza interna arricchita dalla feta e dal salmone. La superficie dei muffin sarà dorata grazie al formaggio Grana Padano DOP e al tocco di erba cipollina, mentre all'interno, si potranno scoprire i pezzetti di salmone e la cremosità della feta.
+
+Gli muffin con feta e salmone sono adatti come antipasto per un pranzo o una cena elegante. Possono essere serviti anche come finger food per un buffet o un aperitivo. La loro versatile natura li rende adatti anche per un brunch o un picnic.
+
+La ricetta non è specificamente adatta a nessun regime alimentare particolare. Tuttavia, comunemente rientrano in una dieta bilanciata e sono indicati per coloro che seguono una dieta mediterranea o che prediligono alimenti ricchi di proteine e calcio.
+
+Gli ingredienti della ricetta non contengono glutine, quindi i muffin con feta e salmone sono adatti per chi segue una dieta senza glutine o è celiaco. Tuttavia, è sempre importante accertarsi che tutti gli alimenti utilizzati siano certificati senza glutine.
+
+Per quanto riguarda le intolleranze, le persone con intolleranza al lattosio potrebbero avere difficoltà a digerire il latte intero presente nella ricetta. Tuttavia, esistono alternative senza lattosio o lattosio ridotto che possono essere utilizzate al posto del latte intero senza alterare troppo il risultato finale dei muffin.
+
+Non sono presenti altri ingredienti nella ricetta che sono tipicamente associati ad intolleranze alimentari comuni come il pesce o l'uovo.

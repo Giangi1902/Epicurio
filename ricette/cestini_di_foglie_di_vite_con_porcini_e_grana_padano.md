@@ -1,0 +1,24 @@
+# Cestini di foglie di vite con porcini e Grana Padano
+Categoria: Antipasti
+
+## Ingredienti
+- Funghi porcini: (4 medi) 260 g
+- Foglie di vite: 8
+- Grana Padano DOP: da grattugiare 70 g
+- Prezzemolo: da tritare 10 g
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: 20 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i cestini di foglie di vite con porcini e Grana Padano, per prima cosa pulite i funghi: raschiateli delicatamente con un coltello a lama liscia per eliminare ogni residuo di terra , poi separate la testa dal gambo  e tagliate quest’ultimo a cubetti .In una padella scaldate l’olio con uno spicchio d’aglio , poi aggiungete i gambi dei funghi , salate e pepate .Cuocete a fiamma dolce per circa  minuti, poi spegnete il fuoco e unite il prezzemolo tritato, mescolate bene, versate in una ciotola  e lasciate intiepidire. Nel frattempo grattugiate il Grana Padano DOP .Quando i gambi si saranno intiepiditi, aggiungete  g di Grana Padano DOP grattugiato  e mescolate per amalgamare il tutto . Ora prendete  cocotte del diametro di  cm e foderate la base e i lati con  foglie di vite ciascuna, formando una sorta di cestino .Versate al centro una cucchiaiata del composto di gambi  e ricoprite con la testa di un porcino , poi condite con sale , pepe e un filo d’olio.Spolverizzate la superficie con  g del Grana Padano DOP rimasto , poi trasferite le cocotte su una leccarda e cuocete in forno statico preriscaldato a ° per  minuti. Trascorso questo tempo, spolverizzate con il restante Grana Padano DOP grattugiato  e proseguite la cottura per altri  minuti accendendo il grill a °. I vostri cestini di foglie di vite con porcini e Grana Padano sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un antipasto elegante e saporito, con un mix di sapori e consistenze data dalla combinazione di funghi porcini, Grana Padano e foglie di vite croccanti.
+
+Occasioni adatte: Questa ricetta è perfetta per occasioni speciali come cene importanti, eventi esclusivi o per una cena romantica.
+
+Dieta: Questo piatto è adatto a una dieta mediterranea e può essere consumato in occasioni speciali senza esagerare nelle quantità, in quanto contiene formaggio e olio extravergine d'oliva.
+
+Intolleranze: Le persone con intolleranze al lattosio devono fare attenzione alla presenza del formaggio Grana Padano. Inoltre, le persone con intolleranze ai funghi non potranno consumare questa ricetta. Se si desidera rendere il piatto adatto a persone con intolleranze al lattosio, si può sostituire il formaggio Grana Padano con una variante senza lattosio.

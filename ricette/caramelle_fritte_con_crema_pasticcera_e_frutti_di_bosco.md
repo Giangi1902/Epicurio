@@ -1,0 +1,26 @@
+# Caramelle fritte con crema pasticcera e frutti di bosco
+Categoria: Dolci
+
+## Ingredienti
+- Dischetti di pasta: 16
+- Tuorli: 3
+- Amido di mais (maizena): 45 g
+- Zucchero: 70 g
+- Latte: 200 g
+- Baccello di vaniglia: 1
+- Panna fresca liquida: 50 g
+- Frutti di bosco: misti (lamponi e mirtilli) 100 g
+- Olio di semi: 1 l
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare la crema pasticcera prendete la bacca di vaniglia, incidetela con un coltellino ed estraetene i semi raschiandola . Aggiungete i semi ed il baccello di vaniglia al latte e panna posti sul fuoco (potete anche sostituire  g di panna con la stessa dose di latte)  (potete aromatizzare in alternativa anche con la scorza di  di arancia o di limone). Accendete il fuoco dolce e quando il composto avrà sfiorato il bollore, spegnete il fuoco e lasciate la vaniglia in infusione per almeno  minuti. Intanto proseguite la preparazione separando gli albumi dai tuorli; raccogliete questi ultimi un una ciotola capiente e aggiungete lo zucchero (con gli albumi avanzati potete preparare una deliziosa Angel Cake, delle meringhe oppure le lingue di gatto). Sbattete i tuorli e lo zucchero con uno sbattitore elettrico  oppure una frusta a mano per ottenere una crema omogenea.Quando saranno bianchi e spumosi, unite l'amido di mais setacciato  o di riso e amalgamatelo al resto del composto; Togliete la bacca di vaniglia dal latte e panna scaldati e unite il composto con le uova . Accendete nuovamente il fuoco dolce e mescolate con una frusta continuamente per addensare il composto .Quando la crema sarà ben densa, spegnete il fuoco e versatela in una terrina bassa e ampia ; copritela immediatamente con pellicola trasparente a contatto  in modo che non si crei la fastidiosa crosticina; quindi fatela raffreddare prima a temperatura ambiente e poi in frigorifero. Prendete i dischetti di pasta e con l'aiuto di una sac-à-poche usa e getta senza bocchetta farcite ciascun dischetto con un ciuffo centrale di crema ( g circa) ; adagiate un mirtillo o un lampone (o altri frutti di bosco di vostro gradimento), potete realizzare metà dischetti in un modo e l'altra metà nell'altro (-).Dunque arrotolate il disco su se stesso per  realizzare un cilindro , dopodiché pizzicate i lembi vicino alla farcitura per creare una forma simile ad una caramella , assicurandovi di sigillare bene il contenuto. Una volta pronte le caramelle potete friggerle in abbondante olio di semi portata alla temperatura di -° massimo (da controllare con un termometro da cucina); friggete poche caramelle alla volta  per pochi istanti il tempo che si dorino; quindi ponetele man a mano su un vassoio foderato con carta assorbente . Servite le caramelle fritte con crema pasticcera e frutti di bosco ancora calde, spolverizzate con zucchero a velo!
+
+## Descrizione
+Il risultato finale sarà delle caramelle fritte croccanti all'esterno, ripiene di cremosa crema pasticcera e accompagnate da dolci frutti di bosco.
+
+Occasioni: Questa ricetta è perfetta per una merenda golosa, un dessert particolare da servire durante una cena speciale o una festa in casa.
+
+Dieta: Le caramelle fritte con crema pasticcera e frutti di bosco non sono adatte a una dieta ipocalorica o a chi segue un regime alimentare particolarmente salutare, in quanto sono un dolce ricco di zuccheri e grassi.
+
+Intolleranze: Le persone con intolleranza al glutine potrebbero dover evitare questa ricetta, a meno che non optino per ingredienti senza glutine. Le persone intolleranti al lattosio potrebbero sostituire il latte con un'alternativa vegetale e la panna con panna vegetale; inoltre, potrebbero dover scegliere un'amido di mais certificato senza glutine.

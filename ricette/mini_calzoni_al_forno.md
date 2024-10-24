@@ -1,0 +1,35 @@
+# Mini calzoni al forno
+Categoria: Lievitati
+
+## Ingredienti
+- Acqua: 300 ml
+- Farina 0: 500 g
+- Lievito di birra fresco: 25 g
+- Sale fino: 10 g
+- Zucchero: 1 cucchiaino
+- Olio extravergine d'oliva: 30 g
+- Passata di pomodoro: 100 g
+- Mozzarella: 60 g
+- Prosciutto cotto: 60 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: 10 g
+- Mozzarella: 60 g
+- Zucchine: 50 g
+- Peperoni rossi: 50 g
+- Melanzane: 50 g
+- Carote: 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: 10 g
+
+## Preparazione
+Per prima cosa preparate la pasta per la pizza con le dosi sopraindicate e seguendo il procedimento che trovate cliccando qui. Lasciatela lievitare in un luogo tiepido e asciutto per circa  ore, fino a quando l’impasto non avrà raddoppiato il suo volume. Quando la pasta sarà lievitata iniziate a preparare il ripieno di verdure lavando e tagliuzzando finemente (a julienne) diverse varietà di verdure, noi abbiamo usato zucchine, melanzane, carote e peperon . Mettetele in una padella con un cucchiaio d’olio e saltatele per qualche minuto a fuoco vivace, salate e pepate . Tagliate la mozzarella a cubetti  e mettetela su un colino per farle perdere l’acqua in eccesso.Per il ripieno classico condite  ml di passata di pomodoro con dell’olio e del sale , tagliate la mozzarella a cubetti, scolandola bene e il prosciutto cotto a pezzettini. Stendete la pasta su una spianatoia in rettangoli larghi circa cm e alti  mm , disponete il ripieno in piccoli mucchietti  disposti al centro del rettangolo (con le dosi della ricetta verranno  minicalzoni pomodoro, mozzarella e prosciutto e  alle verdure e mozzarella),alzate la pasta da un lato e coprite il ripieno sovrapponendola sull’altro lato . Aiutandovi con un tagliapasta dal diametro di  cm o con un bicchiere tagliate i calzoni a mezzaluna  e con i lembi di una forchetta fate pressione sul lato da incollare . Spennellate leggermente di olio i minicalzoni e infornateli in forno ventilato a °C per / minuti. I minicalzoni al forno andranno serviti caldi, ma attenzione a non scottarvi con il ripieno!
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi mini calzoni al forno, croccanti fuori e morbidi dentro, farciti con passata di pomodoro, mozzarella, prosciutto cotto e verdure miste. 
+
+Questi mini calzoni sono perfetti come antipasto, finger food per feste o buffet, oppure come piatto principale leggero accompagnato da una buona insalata. 
+
+Questa ricetta è adatta a chi segue una dieta bilanciata e può essere facilmente adattata per essere vegana o vegetariana sostituendo il prosciutto cotto con verdure aggiuntive o tofu. 
+
+Le persone con intolleranze al lattosio possono sostituire la mozzarella con un formaggio senza lattosio. I celiaci possono sostituire la farina 0 con una farina senza glutine.

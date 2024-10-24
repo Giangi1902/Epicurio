@@ -1,0 +1,28 @@
+# Brioches variegate al cacao
+Categoria: Dolci
+
+## Ingredienti
+- Farina Manitoba: 300 g
+- Zucchero: 80 g
+- Lievito di birra secco: 2 g
+- Latte intero: 125 g
+- Uova: (medio) 1
+- Burro: (ammorbidito) 50 g
+- Baccello di vaniglia: ½
+- Burro: 100 g
+- Cacao amaro in polvere: 15 g
+- Farina 00: 10 g
+- Baccello di vaniglia: ½
+- Burro: q.b.
+
+## Preparazione
+Per preparare le brioches variegate al cioccolato, iniziate con il pastello. In una planetaria munita di gancio unite la farina setacciata, il lievito disidratato e il latte , aggiungete poi lo zucchero  e l’uovo intero .Azionate e lavorate l’impasto fino ad ottenere una consistenza liscia, quindi incorporate metà dei semi prelevati dalla bacca di vaniglia e il burro ammorbidito in pezzi, aggiungendo il successivo solo dopo il completo assorbimento del precedente . Quando l’impasto risulta abbastanza liscio e omogeneo trasferitelo sul piano di lavoro e maneggiatelo giusto il tempo di dargli una forma sferica, quindi ponetelo a lievitare in luogo tiepido per  ore in una ciotola leggermente imburrata e coperta con pellicola trasparente .Nel frattempo preparate il panetto al cacao. Nella planetaria munita ora di foglia ponete il burro a pezzetti e la farina ,quindi aggiungete la polpa rimanente della bacca di vaniglia, il cacao  e azionate fino ad ottenere una crema densa e compatta . Avvolgete il panetto al cacao con un foglio di carta da forno e, con l’aiuto di un mattarello, stendetelo per ottenere un rettangolo di x cm e spesso circa  mm .Ponetelo in frigorifero a riposare per almeno  minuti.Trascorse le  ore lavorate il pastello sul piano di lavoro leggermente infarinato e stendetelo col mattarello fino ad ottenere un rettangolo di x cm . A questo punto rimuovete la carta forno dal panetto al cacao e sovrapponetelo al centro del pastello steso, tenendo il lato corto a margine del lato lungo dell’impasto sottostante . Procedete con la prima piega a , portando i lati corti del pastello al centro in modo da chiudere la sfoglia sul panetto .Stendete l’impasto con il mattarello fino ad ottenere un rettangolo di circa x cm , procedete poi con una piega a : portate nuovamente verso il centro i due lati corti dell’impasto  quindi ripiegatelo a metà seguendo lo stesso verso .Appiattitelo leggermente con il mattarello, avvolgetelo nella pellicola trasparente  e fatelo riposare in frigorifero per almeno  minuti. Trascorso il tempo necessario stendete l’impasto perpendicolarmente rispetto alla piega precedente, in una sfoglia di x cm circa . Con un coltellino rifinite i margini della striscia ottenuta  e dividetela a metà per ottenere due strisce di x cm.Arrotolate ora le strisce su se stesse partendo dal lato corto , quindi tagliatele in rondelle spesse circa  cm : ne ottenete  in tutto. Spennellate con un po’ di burro ammorbidito i pirottini di alluminio e ponete in ciascuno una rondella di pasta . Ponete tutti i pirottini su una teglia da forno e lasciateli riposare a temperatura ambiente per  minuti , dopodiché infornateli in forno statico preriscaldato a ° per  minuti (se ventilato, a ° per  minuti). Le vostre brioches variegate al cacao sono pronte per essere assaporate .
+
+## Descrizione
+Il risultato finale di queste brioche variegate al cacao sarà un dolce soffice e profumato, con un'intensa nota di cacao che si combina armoniosamente con il gusto del burro e della vaniglia. Le brioche saranno leggermente dolci e perfette da gustare a colazione o a merenda, magari accompagnate da una tazza di latte o caffè.
+
+Queste brioche variegate al cacao sono adatte per occasioni speciali come colazioni o brunch in famiglia, feste di compleanno o per un dolce da gustare con gli amici. 
+
+Questa ricetta non è adatta per persone che seguono una dieta vegana, gluten-free o senza lattosio, in quanto contiene farina, latte, burro e uova. Tuttavia, le brioche variegate al cacao possono essere consumate con moderazione da persone che seguono una dieta bilanciata e che non hanno particolari intolleranze alimentari.
+
+Le persone con intolleranze al lattosio o al glutine dovrebbero evitare questo dolce, in quanto contiene latte e farina. Si consiglia di consultare un medico o un nutrizionista prima di consumare questo dolce se si soffre di particolari intolleranze alimentari.

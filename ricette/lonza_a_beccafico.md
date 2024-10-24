@@ -1,0 +1,30 @@
+# Lonza a beccafico
+Categoria: Secondi piatti
+
+## Ingredienti
+- Lonza di maiale: a fette 800 g
+- Succo d'arancia: ½
+- Miele: circa 2 cucchiaini
+- Alloro: q.b.
+- Peperoncino in polvere: q.b.
+- Pangrattato: 50 g
+- Uvetta: 25 g
+- Pinoli: 25 g
+- Zucchero: 15 g
+- Acciughe sott'olio: 2
+- Prezzemolo: da tritare q.b.
+- Sale fino: 1 pizzico
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare la lonza a beccafico, iniziate dal ripieno: in una padella versate un filo d'olio  e aggiungete il pangrattato  per farlo dorare. Mescolate con un cucchiaio di legno di tanto in tanto per non farlo bruciare  e cuocete per alcuni minuti per farlo tostare e diventare croccante. Poi spegnete e lasciate intiepidire.Mettete in ammollo l'uvetta in acqua tiepida per farla rinvenire , quindi tritate finemente il ciuffo di prezzemolo ; poi scolate le alici dall'olio di conservazione e tritatele finemente .In una terrina capiente versate il pangrattato dorato e intiepidito , l'uvetta scolata accuratamente  e i pinoli .Proseguite con il prezzemolo e le alici tritate , poi unite lo zucchero , il sale e il pepe a piacere e amalgamate gli ingredienti mescolando con una forchetta .Ora che il composto è pronto  potete prendere la carne: battete leggermente le fette di lonza per renderle ancora più sottili e tenere ; tagliatele a metà per il senso della lunghezza e farcite ciascuna strisciolina con il composto  (tenwte da parte quello che avanza).Quindi arrotolate la carne per creare gli involtini ; ungete la teglia con un filo d'olio  e adagiate gli involtini uno accanto all'altro .Una volta terminato , potete porre mezza foglia di alloro tra un involtino e l'altro. Quindi irrorate con un filo d'olio , il succo dell'arancia ,cospargete con il ripieno rimasto  e versate il miele a filo . Per ultimo condite gli involtini di lonza con peperoncino in polvere a piacere e cuocete in forno statico preriscaldato a ° per circa  minuti. Una volta cotti gli involtini di lonza a beccafico, sfornateli  e serviteli caldi o tiepidi!
+
+## Descrizione
+Il risultato finale della ricetta Lonza a beccafico è una gustosa e profumata lonza di maiale condita con un mix di ingredienti come succo d'arancia, miele, pangrattato, uvetta, pinoli, acciughe, peperoncino e prezzemolo, che conferiscono un sapore dolce-agro e un piacevole contrasto di consistenze.
+
+Questa ricetta è adatta per occasioni speciali come pranzi o cene in famiglia, ma anche per preparazioni più elaborate durante le festività.
+
+La lonza a beccafico è adatta a chi segue una dieta mediterranea, ma va consumata con moderazione dai soggetti che seguono una dieta ipocalorica a causa della presenza di condimenti come il miele e il pangrattato.
+
+Le persone con intolleranze al glutine devono evitare il pangrattato, mentre chi soffre di allergie al pesce deve eliminare le acciughe sott'olio dalla ricetta.

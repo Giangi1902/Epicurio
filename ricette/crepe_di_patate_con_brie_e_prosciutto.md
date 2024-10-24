@@ -1,0 +1,24 @@
+# Crepe di patate con brie e prosciutto
+Categoria: None
+
+## Ingredienti
+- Patate: piccole 4
+- Uova: 1
+- Latte intero: 200 g
+- Farina 0: 100
+- Prosciutto cotto: 200 g
+- Brie: 200 g
+- Cipolle rosse: 1
+- Olio extravergine d'oliva: 2 cucchiai
+- Burro: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare le crepe di patate per prima cosa mondate la cipolla e affettatela sottilmente . Pelate le patate e tagliatele a cubetti . In una padella versate le cipolle e un filo di olio di oliva , lasciate rosolare per  minuti a fuoco dolce.Quando la cipolla sarà morbida, versate le patate a cubetti , salate e proseguite la cottura per  minuti a fuoco vivace. Non appena le patate saranno morbide , spegnete il fuoco e schiacciate leggermente le patate con una forchetta .Nel frattempo sgusciate l’uovo in una ciotola, aggiungete un pizzico di sale , il latte  e metà della farina .Mescolate bene con una frusta e poi aggiungi a poco a poco la farina rimanente , mescolando fino a ottenere una pastella fluida , regolate la dose della farina in base alla consistenza della pastella. In una padella da  cm di diametro sciogliete una noce di burro ,aggiungete / delle patate cotte e schiacciate con una forchetta, distribuendole su tutto il fondo. Versate un mestolo della pastella sulle patate  e fate roteare la padella per distribuirla bene . Cuocete la crepe a fiamma moderata e quando inizierà a staccarsi dai bordi, rovesciatela dall’altro lato con una spatola .Cuocete per circa  minuti e poi spegnete la fiamma . Tagliate il brie a fettine  e farcite la crepe con qualche fettina di prosciutto cotto e il brie . Ripiegate la crepe sulla farcitura . Trasferite la crepe in un piatto e proseguite con il restante impasto, ricordandovi di ungere sempre con un po' di burro per le successive cotture. Servite le crepes di patate con brie e prosciutto ben calde accompagnate da insalata fresca .
+
+## Descrizione
+Il risultato finale sarà un piatto delizioso e invitante, con crepe di patate farcite con formaggio brie, prosciutto cotto e cipolle rosse croccanti. Le crepe saranno morbide e saporite, con un cuore filante di formaggio brie e un tocco salato del prosciutto cotto. 
+
+Questa ricetta è perfetta per essere servita come antipasto o piatto principale in occasioni speciali come cene eleganti o pranzi festivi. 
+
+Le crepe di patate con brie e prosciutto sono adatte a persone che seguono una dieta a base di latte e derivati, ma potrebbero non essere adatte a persone intolleranti al lattosio o al formaggio brie. Inoltre, le crepe contengono prosciutto cotto, quindi non sono adatte a persone che seguono una dieta vegetariana.

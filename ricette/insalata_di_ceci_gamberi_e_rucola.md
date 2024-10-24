@@ -1,0 +1,27 @@
+# Insalata di ceci gamberi e rucola
+Categoria: Insalate
+
+## Ingredienti
+- Gamberi: 1 kg
+- Ceci precotti: 240 g
+- Rucola: 150 g
+- Pinoli: 30 g
+- Aglio: 1 spicchio
+- Paprika: 1 cucchiaino
+- Succo di limone: 1
+- Aceto balsamico: 1 cucchiaino
+- Olio extravergine d'oliva: q.b.
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare l’insalata di ceci gamberi e rucola iniziate pulendo i gamberi (o le mazzancolle), eliminate la testa , il carapace  e l’intestino aiutandovi con uno stecchino di legno , per tutti i dettagli di questo procedimento consultate la nostra scheda Come pulire i gamberi della Scuola di cucina.Ora tostate i pinoli: poneteli in una teglia rivestita con carta da forno e cuoceteli in forno preriscaldato statico per circa  di minuti a ° (oppure in forno ventilato a ° per - minuti)  e teneteli da parte, se preferite potete tostarli anche in padella. Scaldate un filo di olio in una padella con l'aglio , unite le mazzancolle salate , pepate e unite infine la paprika. Cuocetele a fuoco vivace per  - minuti (regolate la cottura in base alla grandezza delle mazzancolle, se sono molto grosse, avranno bisogno di qualche minuto in più). Una volta cotte trasferitele in una ciotolina a raffreddare.Ora scolate i ceci precotti . Noi abbiamo usato i ceci precotti, ma voi potete usare anche quelli secchi avendo cura di metterli in ammollo per  ore; trascorso il tempo necessario scolate i ceci, sciacquateli e cuoceteli in un tegame per almeno  ore o nella pentola a pressione da un’ora a un’ora e mezzo, meglio se a fuoco lento; una volta cotti saranno pronti per essere uniti alla preparazione. Nella stessa padella usata per le mazzancolle scaldate i ceci  in modo che prendano il sapore dei crostacei). Ora che tutti gli ingredienti sono pronti potete comporre l’insalata: in una ciotola capiente mettete la rucola lavata e asciugata .Aggiungete i ceci  , le mazzancolle  e i pinoli tostati .Mescolate l'insalata . Occupatevi infine del condimento: preparate un'emulsione con olio , sale , pepe.Spremete il succo di mezzo limone , filtratelo  e unitelo all'emulsione ,terminate con un cucchiaino di aceto balsamico . Condite l'insalata con il condimento preparato . La vostra insalata di ceci gamberi e rucola è ora pronta per essere portata in tavola  !
+
+## Descrizione
+Il risultato finale sarà un'insalata fresca e saporita, arricchita dalla combinazione di aromi dei gamberi, dei ceci e della rucola. La presenza dei pinoli conferirà croccantezza e ricchezza al piatto, mentre il condimento a base di aglio, paprika, succo di limone, aceto balsamico, olio extravergine d'oliva, pepe nero e sale garantirà un mix di sapori equilibrato e sfizioso.
+
+Questa insalata è adatta per un pranzo leggero o come antipasto ricco e gustoso. Si presta bene anche come piatto unico per una cena estiva. È perfetta da portare in ufficio come pranzo da asporto o da servire come contorno in un buffet.
+
+Questa ricetta è adatta a chi segue una dieta mediterranea o a chi vuole mantenere una dieta sana ed equilibrata. È ricca di proteine, fibre e vitamine, grazie alla presenza dei gamberi, dei ceci e della rucola. È possibile adattarla per una dieta vegetariana o vegana, sostituendo i gamberi con tofu marinato o con più ceci. Chi segue una dieta senza glutine deve fare attenzione alla presenza di ceci, e verificare che non siano stati trattati con farine che contengono glutine.
+
+Le persone con intolleranze alimentari possono consumare questa insalata evitando i pinoli in caso di allergia o intolleranza agli oli dei semi. Chi ha intolleranza al lattosio può essere tranquillo, poiché la ricetta non contiene latticini. In caso di intolleranza al glutine, è fondamentale verificare che i ceci siano privi di contaminazioni e che gli altri ingredienti utilizzati siano naturalmente gluten free.

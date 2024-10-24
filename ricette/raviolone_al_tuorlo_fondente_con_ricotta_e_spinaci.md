@@ -1,0 +1,31 @@
+# Raviolone al tuorlo fondente con ricotta e spinaci
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 200 g
+- Uova: medie 2
+- Ricotta vaccina: 100 g
+- Spinaci: lessati 100 g
+- Tuorli: 4
+- Albumi: per spennellare 1
+- Pecorino: 20 g
+- Grana Padano DOP: 20 g
+- Cipolle: piccola 1
+- Olio extravergine d'oliva: q.b.
+- Noce moscata: q.b.
+- Burro: 15 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Salvia: 1 mazzetto
+- Burro: 100 g
+- Grana Padano DOP: 80 g
+
+## Preparazione
+Per preparare il raviolone al tuorlo fondente con ricotta e spinaci iniziate dalla pasta fresca (potete consultare il procedimento completo nella scheda della Scuola di Cucina: pasta fresca all'uovo, seguendo le dosi di questa ricetta). In una ciotola setacciate la farina , le uova e inizate ad impastare nella ciotola . Una volta che le uova si saranno assorbite, prendete l'impasto e maneggiatelo alcuni minuti su un piano di lavoro leggermente infarinato . Poi copritelo con pellicola trasparente e lasciatelo a riposare almeno  minuti in luogo fresco . Intanto dedicatevi al ripieno: sbucciate e tritate finemente una cipolla ;fatela rosolare in padella con un filo d'olio e  gr di burro . Quando sarà appassita, versate gli spinaci precedentemente lavati  aggiungete pochissima acqua e fateli cuocere con il coperchio per pochi minuti. Al termine della cottura saranno appassiti , fateli asciugare, poi spegnete il fuoco.In una ciotola versate la ricotta, i formaggi grattugiati  e una grattugiata di noce moscata . Quindi mescolate il tutto con una spatola .Al ripieno di formaggi aggiungete anche gli spinaci cotti e sminuzzati , aggiustate di sale e di pepe e mescolate il tutto accuratamente (per realizzare il ripieno potete anche utilizzare un mixer, frullando insieme tutti gli ingredienti). Ora riprendete la pasta fresca, stendetela in una sfoglia sottile qualche millimetro aiutandovi con un mattarello lungo: l'impasto risulterà piuttosto elastico, quindi potete trattenere un'estremità con la mano e con l'altra far scivolare il mattarello sulla pasta. Tiratelo bene in ogni verso fino a realizzare una sfoglia sottile . Ritagliate  dischi con un coppa pasta (o in alternativa seguendo il contorno di una ciotolina ) del diametro di  cm l’uno .Una volta ottenuti i dischi di pasta, trasferite il composto di spinaci e ricotta in una sac-à-poche e per ognuno di  dischi realizzate due spirali di composto . Al centro di ciascuna spirale, versate un tuorlo  tenendo da parte l'albume che servirà per spennellare i bordi dei  dischi ripieni .Su ciascun disco ripieno, adagiatene un altro e pressate delicatamente sui bordi per sigillarli . Poi decorate con i rebbi di una forchetta delicatamentte tutto intorno ai bordi . Adagiate i ravioloni su un canovaccio infarinato e intanto fate bollire abbondante acqua in una pentola capiente dai bordi alti. Nel frattempo, in una padella fate sciogliere il burro e aggiungete le foglioline di salvia .Quando l’acqua inizierà a fremere immergetevi delicatamente i ravioloni, due alla volta ; lasciateli cuocere solo per un paio di minuti, poi scolateli e fateli saltare nella padella con burro e salvia . Una volta insaporiti, trasferite un raviolone su ciascun piatto da portata e decoratelo con una fogliolina di salvia ; potete anche condire con una spolverata di Grana Padano prima di servirlo ben caldo ai vostri commensali!
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un grande raviolone dal cuore morbido e cremoso, grazie al tuorlo fondente, il ripieno di ricotta, spinaci e formaggi. La pasta sarà sottile e delicata, arricchita da una salsa di burro e salvia che conferirà un gusto fresco e aromatico al piatto.
+
+Questo piatto è adatto per occasioni speciali, come cene eleganti o pranzi importanti con amici e parenti. Può essere servito come primo piatto in un menu completo o come piatto unico per un pasto ricco e sostanzioso.
+
+La ricetta è adatta a tutte le diete che includono latticini, uova e farina, quindi non è adatta a persone con intolleranze a uno di questi ingredienti. In particolare, persone con intolleranza al lattosio dovrebbero evitare questo piatto a causa della presenza di ricotta e formaggi.

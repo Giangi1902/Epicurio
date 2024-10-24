@@ -1,0 +1,18 @@
+# Farfalle (pasta fresca)
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 200 g
+- Uova: (2 medie) 110 g
+
+## Preparazione
+Per realizzare le farfalle, iniziate pesando la farina, continuate versandola sulla spianatoia (restate un po’ indietro con la dose di farina, aggiungendola poi mentre lavorate se l'impasto risulta troppo molle)  , fate una conca al cenro e versate le uova; iniziate a mescolare con una forchetta prendendo man a mano la farina intorno , poi proseguite a mano e lavorate l'impasto fino ad ottenere una consistenza liscia ed elastica.Date all'impasto una forma seferica e avvolgetelo in pellicola trasparente ; lasciate riposare la pasta fresca per almeno  minuti. Dopodichè riprendete l'impasto e dividetelo in quarti. Passate il primo pezzo (gli altri potete lasciarli avvolti in pellicola trasparente fino a quando non li stenderete) e inseritelo nella macchina tirapasta , dovrete lavorarlo dallo spessore più grande al penultimo, ripassando la pasta con quest'ultimo più volte fino ad ottenere sfoglie dello spessore di  mm, quindi davvero molto sottili .Sulle sfoglie che otterrete, passate una rondella tagliapasta per realizzare dei rettangoli, in questo modo: create delle strisce verticali larghe  cm con la parte dentellata , poi tagliate orizzontalmente con la parte liscia, per formare lati di  cm . Per formare le farfalle, dovrete usare pollice e indice: con il pollice sollevate un lembo di pasta in corrispondenza della metà del rettangolo si creerà anche un'altra pieghetta al centro , mentre con l'indice portate il lembo opposto sempre verso il centro per creare l'altra piega (-). Quindi stringete al centro  per fissare la forma delle farfalle ; continuate con tutto l'impasto. Man a mano potete posizionarle su un vassoio e terminate la pasta fresca. Man a mano che realizzate le farfalle potete disporle su un vassoio leggermente infarinato, magari con farina di semola se preferite in modo che non venga assorbita dalla pasta fresca , quindi lasciatele seccare per circa  minuti. Le vostre farfalle cuoceranno in  minuti in acqua bollente salata a piacere!
+
+## Descrizione
+Il risultato finale della ricetta sarà un piatto di farfalle fresche fatte in casa, con una consistenza morbida e un sapore genuino. Le farfalle sono caratterizzate dalla forma a farfalla e sono perfette da condire con salse leggere a base di pomodoro fresco, verdure o formaggi.
+
+Le farfalle sono adatte per occasioni speciali come cene eleganti, pranzi in famiglia o per sorprendere gli ospiti con un piatto fatto in casa. Possono essere servite come primo piatto o come piatto unico se accompagnate da un contorno leggero.
+
+Le farfalle fatte in casa sono adatte a qualsiasi tipo di dieta, in quanto è possibile controllare gli ingredienti e la quantità di grassi presenti nella pasta. Possono essere incluse in una dieta equilibrata e sana, ma è consigliabile consumarle con moderazione in caso di regimi alimentari ipocalorici.
+
+Le farfalle fatte in casa sono adatte a persone con intolleranze al lattosio, in quanto non contengono latticini nella loro preparazione. Tuttavia, è importante verificare la provenienza degli ingredienti e la possibilità di contaminazioni crociate nel caso di intolleranze gravi. Le farfalle possono essere consumate anche da persone con intolleranza al glutine, utilizzando farina senza glutine nella preparazione.

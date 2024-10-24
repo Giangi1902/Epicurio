@@ -1,0 +1,33 @@
+# Chicken pie
+Categoria: Piatti Unici
+
+## Ingredienti
+- Farina 00: 400 g
+- Burro: 200 g
+- Acqua: fredda 120 ml
+- Sale fino: 1 pizzico
+- Petto di pollo: 1 kg
+- Funghi champignon: 300 g
+- Porri: 2
+- Brodo di pollo: 400 ml
+- Vino bianco: 100 ml
+- Panna fresca liquida: 100 ml
+- Prezzemolo: 1 ciuffo
+- Farina 00: 30 g
+- Olio extravergine d'oliva: 3 cucchiai
+- Uova: 1
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Burro: 40 g
+
+## Preparazione
+Per preparare la chicken pie iniziate con la preparazione della pasta brisé, utilizzate le dosi sopra indicate e il procedimento che trovate cliccando qui. Dividete quindi l’impasto ottenuto in due parti (una leggermente più grande dell’altra) e fate riposare la pasta in frigorifero per circa un’ora. Nel frattempo preparate il ripieno della pie: tagliate il petto di pollo a cubetti (come per uno spezzatino) , mondate i porri e affettateli piuttosto finemente, pulite bene i funghi e tagliate i più grossi a fette (mantenete invece interi i più piccolini) . In una padella molto capiente scaldate l’olio extravergine di oliva, aggiungete i porri a fettine e fateli appassire per almeno  minuti. Poi aggiungete il pollo , facendolo ben rosolare a fuoco vivo su tutti i lati; infine unite i funghi . Sfumate con il vino bianco e salate. Portate quindi il pollo a cottura. In un tegame sciogliete il burro, aggiungete la farina , mescolando con una frusta (come per preparare una besciamella),poi aggiungete il brodo di pollo , continuando a mescolare per evitare la formazione di grumi. Fate addensare a fuoco basso  e aggiungete poi questo composto al pollo .Aggiungete anche il prezzemolo tritato  e la panna fresca  e mescolate per fare addensare la crema . Aggiustate di sale e di pepe e lasciate raffreddare.Stendete quindi i due panetti di pasta brisé in due sfoglie spesse circa  mm . Imburrate e infarinate bene una tortiera di ceramica dal diametro di - cm, idealmente piuttosto alta e dai bordi ondulati. Ponete la sfoglia più grande sulla tortiera , fate aderire bene il fondo e i bordi. Prendete il composto di pollo ormai freddo a versatelo nella tortiera  cercando di formare una “montagnetta” al centro.Rivestite poi con l’altra sfoglia di impasto . Con un coltello eliminate gli eccessi di impasto dai bordi  e schiacciateli con le dita per farli aderire bene. Praticate dei fori al centro della torta e spennellatela con  uovo sbattuto . Se volete potete realizzare delle decorazioni con i ritagli di pasta brisé avanzata.  Infornate a °C per circa  minuti, fino a che la superficie della torta sarà ben dorata. Fate riposare  minuti la chicken pie prima di servirla!
+
+## Descrizione
+Il risultato finale della Chicken pie sarà una deliziosa torta salata con un ripieno cremoso a base di pollo, funghi e porri, avvolto da una crosta di pasta brisé croccante.
+
+È perfetta da gustare come piatto unico accompagnato da contorni di insalata mista o verdure grigliate. È ideale per pranzi in famiglia o cene informali con amici.
+
+La Chicken pie è adatta a regimi alimentari onnivori. Per chi segue una dieta bilanciata, è consigliabile consumarla con moderazione a causa dell'alto contenuto calorico e di grassi.
+
+Le persone con intolleranze al lattosio potrebbero dover evitare la panna fresca liquida. Chi soffre di celiachia può preparare una versione senza glutine sostituendo la farina con una versione senza glutine e accertandosi che gli altri ingredienti siano privi di glutine.

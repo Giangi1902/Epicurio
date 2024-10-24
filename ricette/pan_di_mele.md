@@ -1,0 +1,24 @@
+# Pan di mele
+Categoria: Dolci
+
+## Ingredienti
+- Mele renette: 450 g
+- Farina 00: 300 g
+- Zucchero: 250 g
+- Mascarpone: 100 g
+- Olio di semi di girasole: 100 g
+- Uova: (circa 2) 125 g
+- Lievito in polvere per dolci: 16 g
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare il pan di mele come prima cosa lavate molto bene le mele renetta. A questo punto asciugatele e tagliatele in  . Senza sbucciarle eliminate la parte del torsolo . Nel contenitore di un mixer piuttosto capiente versate le uova , lo zucchero, il mascarpone , i quarti di mela , l'olio di semi ,la farina  e il lievito . Azionate le lame del mixer e frullate fino ad ottenere un impasto liscio ed omogeneo . A questo punto imburrate e infarinate uno stampo da  cm, poi versate l'impasto all'interno  . Cuocete in forno statico preriscaldato a ° per circa  minuti. Fate sempre la prova dello stecchino prima di sfornare il dolce . Lasciatelo intiepidire, sformatelo  e servite il vostro pan di mele spolverizzandolo con lo zucchero a velo . 
+
+## Descrizione
+Il risultato finale del Pan di mele sarà un dolce soffice e profumato, con pezzetti di mela che rendono la consistenza ancora più gustosa. La superficie sarà leggermente croccante grazie alla presenza dello zucchero a velo.
+
+Questo dolce è adatto per occasioni informali come merende, colazioni o dessert da gustare con una tazza di tè o caffè. Può essere servito sia tiepido che freddo.
+
+La ricetta del Pan di mele è adatta a persone che seguono una dieta onnivora. Tuttavia, può essere facilmente adattata a una dieta vegetariana sostituendo le uova con un uovo vegetale o una banana schiacciata. È importante controllare la presenza di allergie specifiche agli ingredienti contenuti nella ricetta.
+
+Le persone con intolleranze alimentari alle uova possono sostituire le uova con un uovo vegetale o una banana schiacciata. Chi soffre di intolleranze al lattosio può sostituire il mascarpone con una crema di soia o di mandorle. Infine, per le persone celiache è consigliabile utilizzare una farina senza glutine al posto della farina 00.

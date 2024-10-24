@@ -1,0 +1,23 @@
+# Cocotte di quinoa
+Categoria: Primi piatti
+
+## Ingredienti
+- Quinoa: 200 g
+- Pomodori pelati: 200 g
+- Mozzarella: 200 g
+- Parmigiano Reggiano DOP: 80 g
+- Basilico: 5 foglie
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare le cocotte di quinoa cominciate tagliando la mozzarella a cubetti , sistematela in un colino posto all’interno di una ciotola e lasciate così per circa  minuti : in questo modo il siero in eccesso colerà sul fondo .Intanto mettete sul fuoco una pentola con dell’acqua e portate ad ebollizione. Sistemate la quinoa in un colino a maglie strette e sciacquate . A questo punto l’acqua nella pentola dovrebbe essere a temperatura, perciò versate la quinoa e lasciate cuocere per circa  minuti (o quanto riportato sulla confezione) . Dopodiché scolate e lasciate raffreddare per un quarto d’ora .Avete il tempo necessario per schiacciare i pomodori pelati in una ciotola , salate e aggiungere le foglioline di basilico spezzettandole a mano . Versate la quinoa in un recipiente più grande ,aggiungete il condimento di pomodoro  e poi i cubetti di mozzarella avendo cura di conservarne una parte perché servirà poi . Condite con il Parmigiano grattugiato e l’olio extravergine d’oliva  e per finire mescolate accuratamente per amalgamare tutti gli ingredienti . Con il composto ottenuto andate a riempire  cocotte da , cm di diametro e  cm di altezza, non c’è bisogno di imburrarle prima .Livellate la superficie e cospargetela con gli ultimi cubetti di mozzarella  e poi disponete tutte le cocotte su una leccarda. Cuocete in forno preriscaldato, in modalità statica, a ° per  minuti; poi continuate la cottura per  minuti in modalità grill a ° (se il vostro forno cuoce in modalità ventilata, potete lasciar cuocere alla stessa temperatura facendo attenzione che non bruci, valutate poi se far grillare il tutto) . Ecco pronte le vostre irresistibili cocotte di quinoa, buon appetito !
+
+## Descrizione
+Il risultato finale della ricetta sarà una gustosa e colorata cocotte di quinoa arricchita da pomodori pelati, mozzarella filante, parmigiano reggiano DOP e basilico fresco, il tutto cotto in forno per ottenere una consistenza croccante e filante.
+
+Questa ricetta è adatta per un pranzo o una cena speciale, da gustare in famiglia o con gli amici, magari accompagnata da una fresca insalata.
+
+La cocotte di quinoa è adatta a una dieta equilibrata e salutare, ricca di fibre, proteine e calcio. Può essere consumata da vegetariani, purché si scelga un parmigiano reggiano DOP vegetariano.
+
+Le persone con intolleranze al lattosio dovrebbero evitare questo piatto o optare per formaggi senza lattosio. Le persone con intolleranze al glutine possono consumare la ricetta se si utilizza quinoa certificata senza glutine.

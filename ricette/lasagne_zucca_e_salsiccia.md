@@ -1,0 +1,34 @@
+# Lasagne zucca e salsiccia
+Categoria: Primi piatti
+
+## Ingredienti
+- Lasagne all'uovo: 220 g
+- Zucca delica: da pulire 580 g
+- Mozzarella: 120 g
+- Grana Padano DOP: (da grattugiare) 120 g
+- Salsiccia: 370 g
+- Pomodori pelati: 400 g
+- Cipolle bianche: 1
+- Concentrato di pomodoro: 60 g
+- Vino bianco: 120 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Prezzemolo: q.b.
+- Burro: 100 g
+- Farina 00: 100 g
+- Latte intero: 1 l
+- Noce moscata: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare le lasagne zucca e salsiccia iniziate dal sugo: mondate e affettate finemente la cipolla , in una padella versate un filo di olio e la cipolla e fate rosolare qualche minuto a fuoco dolce . Intanto tagliate la salsiccia a tocchetti da circa quattro centimetri . Aggiungete i pezzettini di salsiccia  e fateli rosolare qualche istante. Dunque sfumate con il vino bianco  e, quando la parte alcolica sarà evaporata, aggiungete i pelati e il concentrato di pomodoro . Rimestate per bene il tutto, salate, pepate e fate cuocere a fuoco dolce per circa venti minuti con il coperchio . Nel frattempo preparate la besciamella: in un pentolino fate sciogliere il burro a fuoco basso, quindi spegnete il fuoco e incorporate la farina mescolando con una frusta .Versate quindi il latte caldo , riportate sul fuoco e fate addensare la salsa a fuoco moderato, quindi salate e insaporite con la noce moscata. La besciamella dovrà risultare piuttosto fluida . Intanto il sugo sarà giunto a cottura, aromatizzate con il prezzemolo fresco tritato e tenetelo da parte . Mondate la zucca  tagliatela a fette molto sottili , in modo tale che cuociano nella lasagna senza bisogno di precottura. Componete ora la lasagna: in una teglia da forno rettangolare da x cm stendete un velo di besciamella , disponete uno strato di pasta , dunque il sugo ,la zucca, la mozzarella a cubetti  e il Grana Padano DOP grattugiato . Distribuite un altro strato di besciamella .Realizzate un altro strato con la sfoglia, la besciamella , la zucca e il sugo , procedete così fino a esaurimento degli ingredienti. Terminate con un ultimo strato di besciamella, zucca, sugo, mozzarella e parmigiano  . Cuocete in forno statico preriscaldato a  gradi per  minuti. A cottura ultimata sfornate la lasagna zucca e salsiccia e lasciatela intiepidire un pochino prima di servirla in tavola .
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle deliziose lasagne preparate con strati di zucca e salsiccia, arricchite da una cremosa besciamella e gratinate con formaggio.
+
+Questa ricetta è perfetta per occasioni speciali come pranzi in famiglia, cene con amici o feste. Le lasagne zucca e salsiccia sono un piatto ricco e sostanzioso che sazia e conquista con il suo sapore intenso e avvolgente.
+
+Le lasagne zucca e salsiccia sono adatte a persone che seguono una dieta onnivora. Tuttavia, questa ricetta può essere adattata per diventare vegetariana sostituendo la salsiccia con un'alternativa a base di vegetali.
+
+Le persone con intolleranze alimentari dovrebbero fare attenzione a alcuni ingredienti di questa ricetta. In particolare, chi è intollerante al lattosio dovrebbe evitare la mozzarella, il Grana Padano e la besciamella preparata con latte intero. Chi è intollerante al glutine può cercare lasagne senza glutine per adattare la ricetta alle proprie esigenze. Ai soggetti intolleranti alla zucca, ovviamente, si sconsiglia di mangiare questo piatto.

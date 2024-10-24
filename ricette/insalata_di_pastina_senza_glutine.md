@@ -1,0 +1,24 @@
+# Insalata di pastina senza glutine
+Categoria: Primi piatti
+
+## Ingredienti
+- Ditalini Senza Glutine: 200 g
+- Speck: 80 g
+- Pomodori piccadilly: 160 g
+- Olive nere: 80 g
+- Feta: 100 g
+- Basilico: 4 foglie
+- Olio extravergine d'oliva: 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Brodo di carne: 1 l
+
+## Preparazione
+Per preparare l’insalata di pastina senza glutine cominciate iniziate realizzando un buon brodo di carne. Pulite le verdure, tagliatele e trasferitele in pentola assieme alla carne e coprite con  litri di acqua . Lasciate cuocere per due ore a fuoco medio-alto, aggiungete ancora  litro d'acqua e ultimate la cottura per un'ora a fuoco basso . A fine cottura filtrate il brodo E trasferitelo di nuovo in pentola. Quando riprende il bollore, prendete la pasta  e lessatela nel brodo di carne. Mentre i ditalini cuociono dedicatevi al condimento. Pulite i pomodori e tagliateli prima a spicchietti  e poi ancora a dadini .Riducete a listarelle lo speck  e a dadini la feta . Infine denocciolate le olive .Scolate la pastina ormai cotta  e trasferitela in una ciotola capiente. Conditela immediatamente con un cucchiaio di olio, mescolate per non farla attaccare  e lasciatela raffreddare. Unite quindi i pomodorini, la feta Lo speck , le olive  e il basilico spezzettato a mano .Regolate infine di sale e di pepe  e mescolate bene per amalgamare i sapori . Adesso la vostra insalata di pastina senza glutine è pronta da gustare!
+
+## Descrizione
+Il risultato finale sarà un'insalata fresca e gustosa, perfetta da servire come primo piatto o come contorno in occasioni estive. Si tratta di un piatto leggero e colorato, dal sapore deciso grazie alla presenza del pomodoro, dell'olio extravergine d'oliva e della feta.
+
+Questa ricetta è adatta per chi segue una dieta senza glutine, in quanto utilizza ditalini senza glutine al posto della pasta tradizionale. È anche ideale per chi segue una dieta vegetariana, escludendo l'uso dello speck o sostituendolo con un'altra opzione a base vegetale.
+
+Le persone con intolleranza al lattosio possono scegliere di escludere la feta o di optare per una versione senza lattosio. Le persone con intolleranza al glutine possono gustare questa insalata senza problemi, dato che tutti gli ingredienti utilizzati sono senza glutine.

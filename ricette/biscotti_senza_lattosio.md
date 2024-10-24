@@ -1,0 +1,18 @@
+# Biscotti senza lattosio
+Categoria: Dolci
+
+## Ingredienti
+- Burro di cocco: 60 g
+- Uova: ( circa 1) 60 g
+- Farina 00: 200 g
+- Zucchero: 100 g
+- Lievito in polvere per dolci: 6 g
+- Scorza di limone: 1
+
+## Preparazione
+Per realizzare i biscotti senza lattosio versate il burro di cocco in un pentolino  e scioglietelo a fiamma bassa . In una ciotola versate la farina e lo zucchero .Unite anche l’uovo  e il lievito , quindi versate a filo il burro di cocco intiepidito  mescolando con una forchetta.raccogliete tutti gli ingredienti con la forchetta , aromatizzate con la scorza di limone  poi proseguite impastando a mano fino a formare un panetto compatto. Avvolgete l’impasto con pellicola  e lasciatelo rassodare in frigorifero per un'ora.Trascorso il tempo di riposo, recuperate l’impasto e stendetelo con il mattarello su una spianatoia leggermente infarinata , deve raggiungere uno spessore di circa mezzo centimetro. Ora ricavate i biscotti con una coppapasta di , cm  e poi su ciascun biscotto formate un foro utilizzando la bocchetta del sac-à-poche del diametro di  mm .Man mano che formate i biscotti adagiateli su un vassoio rivestito con carta forno . Con queste dosi, impastando anche gli scarti, si ottengono circa  pezzi. Cuocete in forno statico preriscaldato a ° per circa  minuti. A cottura ultimata, sfornate i biscotti senza lattosio , lasciateli raffreddare  e poi riponeteli in una scatola di latta fino al consumo.
+
+## Descrizione
+I biscotti senza lattosio avranno una consistenza croccante all'esterno e morbida all'interno, con un leggero sapore di limone che li renderà molto fragranti. Saranno perfetti da gustare con una tazza di tè o caffè, sia a colazione che come dolce per merenda.
+
+Questi biscotti sono adatti a coloro che seguono una dieta senza lattosio, in quanto non contengono burro ma solo burro di cocco. Sono quindi adatti anche a chi segue una dieta vegana. Tuttavia, coloro che hanno intolleranze al cocco dovrebbero evitare di consumarli, così come chi è intollerante agli agrumi a causa della presenza della scorza di limone.

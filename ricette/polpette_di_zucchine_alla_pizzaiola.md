@@ -1,0 +1,31 @@
+# Polpette di zucchine alla pizzaiola
+Categoria: Secondi piatti
+
+## Ingredienti
+- Zucchine: 640 g
+- Pane: 40 g
+- Ricotta vaccina: 130 g
+- Uova: (1 medio) 50 g
+- Grana Padano DOP: grattugiato 20 g
+- Pangrattato: 60 g
+- Farina 00: 60 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Passata di pomodoro: 500 g
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Mozzarella: per pizza 100 g
+- Basilico: q.b.
+
+## Preparazione
+Spuntate le zucchine e grattugiatele utilizzando una grattugia a maglie larghe  e raccogliendo le zucchine in una ciotola . Trasferite il pane all'interno del contenitore di un mixer e frullatelo fino ad ottenere delle briciole . In una ciotola versate la ricotta, aggiungete il pane , le zucchine, il formaggio grattugiato , il sale, il pepe.Unite anche l'uovo  e impastate il tutto con le mani . Aggiungete poi anche la farina  il pane grattugiato  e impastate ancora fino ad ottenere un composto compatto ed omogeneo . Formate ora le polpette, prelevando per ciascuna circa  g di composto e modellandolo ta le mani . Proseguite in questo modo fino a formare tutte le polpette , ne otterrete circa . In un tegame antiaderente versate un filo d'olio e lasciatelo scaldate , aggiungete le polpette  e rosolatele da entrambi i lati . Tenete da parte e occupatevi del condimento. In un'altra padella lasciate imbiondire uno spicchio d'aglio con un filo d'olio, unite quindi la passata , salate e lasciate cuocere per circa  minuti. Trascorso questo tempo eliminate lo spicchio d'aglio  e trasferite le polpette all'interno. Aggiungete il basilico e coprite con un coperchio . Cuocete a fiamma bassa per una decina di minuti rigirando le polpette un paio di volte. Nel frattempo utilizzando una grattugia a maglie larghe grattugiate il formaggio a pasta filata e una volta che saranno trascorsi i  minuti spargetelo sulle polpette . Coprite con il coperchio e lasciate fondere il formaggio. Servite le vostre polpette ancora calde . 
+
+## Descrizione
+Il risultato finale delle Polpette di zucchine alla pizzaiola sarà un piatto gustoso e leggero, con polpette di zucchine morbide e saporite cotte in una salsa di pomodoro arricchita con mozzarella filante.
+
+Sarà adatto per occasioni informali come pranzi o cene in famiglia, ma anche come piatto unico in un menu estivo.
+
+Le Polpette di zucchine alla pizzaiola sono adatte a una dieta equilibrata e a chi cerca un piatto leggero e vegetariano, essendo a base di zucchine e ricotta.
+
+Le persone con intolleranze alimentari possono mangiare questo piatto, utilizzando pane senza glutine e sostituendo il pangrattato con una versione senza glutine. Anche le persone con intolleranze al lattosio possono optare per una versione vegan sostituendo la ricotta con un formaggio vegetale e la mozzarella con formaggio vegan.

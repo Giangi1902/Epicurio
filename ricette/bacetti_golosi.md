@@ -1,0 +1,24 @@
+# Bacetti golosi
+Categoria: Dolci
+
+## Ingredienti
+- Uova: (circa 2 medie) 110 g
+- Farina 00: 100 g
+- Zucchero: 70 g
+- Lievito in polvere per dolci: 4 g
+- Panna fresca liquida: 200 g
+- Zucchero a velo: 20 g
+- Confettura di lamponi: 100 g
+- Cioccolato fondente: 30 g
+
+## Preparazione
+Per preparare i bacetti golosi iniziate con l’impasto per i gusci. Prendete una ciotola capiente (se preferite potete usare una planetaria) in cui verserete le uova a temperatura ambiente e lo zucchero poco per volta . Azionate le fruste elettriche a velocità media fino ad ottenere un composto chiaro e spumoso: ci vorranno circa  minuti . Quando sarà pronto, setacciate al suo interno la farina .Setacciate anche il lievito nella ciotola  e mescolate delicatamente agli altri ingredienti aiutandovi con una spatola : dovrete effettuare dei movimenti delicati dal basso verso l’alto per incorporare gli ingredienti setacciati senza smontare il composto. Quando gli ingredienti saranno ben amalgamati, trasferite il composto in una sac-à-poche .A questo punto foderate una leccarda con carta forno e create dei piccoli dischi di impasto di circa  cm di diametro , avendo cura di distanziarli bene gli uni dagli altri. Dovrete ottenere  dischi  che infornerete in forno statico preriscaldato a °C per  minuti (sconsigliamo l’utilizzo del forno ventilato): i biscotti dovranno gonfiarsi leggermente e assumere una colorazione lievemente dorata .Trascorso il tempo di cottura, potete estrarli dal forno e disporli su una gratella a raffreddare . Mentre i gusci si raffreddano, dedicatevi al ripieno, iniziando dalla panna montata: prendete una ciotola pulita, versateci la panna fresca liquida fredda di frigo e azionate le fruste elettriche ben pulite, aggiungendo poco per volta lo zucchero a velo , quindi continuate a montare fino a quando la panna non risulterà ben spumosa  (per un dettaglio su questa operazione seguite la nostra scuola di cucina: come montare la panna). Trasferite la panna montata in una sac-à-poche con bocchetta stellata e la confettura in un'altra sac-à-poche a con bocchetta liscia (se non possedete le bocchette, potete comunque usare due sac-à-poche usa e getta e tagliare semplicemente la punta). Cominciate a farcire la superficie di  gusci con la confettura . Decorate anche con la panna montata , quindi adagiate gli altri gusci a chiusura : otterrete  bacetti golosi.Infine, prendete il cioccolato, tritatelo e scioglietelo a bagno maria in questo modo: ponete un pentolino con poca acqua sul fuoco e adagiate sopra una bastardella in cui verserete il cioccolato da fondere ; fatelo sciogliere a bagnomaria, mescolando con un cucchiaio di legno . Quando sarà ben sciolto, trasferitelo in un cornetto di carta forno a cui avrete dato la forma di una sac-à-poche (per un maggiore dettaglio potete consultare la nostra scuola di cucina su come fare un cornetto con la carta forno): decorate i vostri bacetti golosi disegnando delle righe parallele sul guscio superiore dei biscotti  e… gustate!
+
+## Descrizione
+Il risultato finale della ricetta dei Bacetti golosi sarà una serie di morbidi dolcetti a base di panna fresca e confettura di lamponi, ricoperti con una ganache al cioccolato fondente. Saranno golosi e irresistibili al palato, perfetti da gustare come dessert o da servire durante una merenda speciale.
+
+Questi dolci sono adatti per occasioni speciali come feste di compleanno, anniversari o semplicemente per coccolarsi con qualcosa di dolce e delicato.
+
+La ricetta dei Bacetti golosi è adatta a persone che seguono una dieta bilanciata, ma moderata nel consumo di zuccheri e calorie, in quanto sono dolci e calorici. Non sono adatti per diete ipocaloriche o restrittive.
+
+Le persone con intolleranze alimentari possono consumare i Bacetti golosi solo se sono intolleranti al lattosio, poiché contiene panna fresca liquida. In tal caso, è possibile utilizzare alternative senza lattosio alla panna per preparare i dolci. Se si soffre di intolleranza al glutine, è possibile sostituire la farina con un mix senza glutine per dolci.

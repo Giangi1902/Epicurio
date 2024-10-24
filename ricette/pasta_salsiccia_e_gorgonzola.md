@@ -1,0 +1,20 @@
+# Pasta salsiccia e gorgonzola
+Categoria: Primi piatti
+
+## Ingredienti
+- Casarecce: 320 g
+- Salsiccia: 300 g
+- Gorgonzola: dolce 200 g
+- Cipolle bianche: 50 g
+- Timo: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare la pasta salsiccia e gorgonzola incidete la salsiccia con un coltellino ed eliminate il budello . Con il coltello dividete la salsiccia in piccoli pezzi . Mondate e tritate finemente la cipolla . Versate un filo di olio in una padella capiente , unite la cipolla tritata  e lasciate soffriggere a fuoco medio per circa  minuti .Unite in padella, assieme alla cipolla, la salsiccia tritata  e un rametto di timo fresco . Cuocete a fuoco vivace per  minuti circa, sino a rendere la salsiccia ben rosolata, quindi salate . Ponete sul fuoco un tegame colmo di acqua e salate al bollore.A cottura ultimata, eliminate il rametto di timo  e trasferite la salsiccia rosolata in una ciotolina per tenerla da parte. Cuocete la pasta molto al dente . Nella stessa padella in cui avete cotto la salsiccia, versate il gorgonzola ed un mestolo di acqua di cottura della pasta .Mescolate per ottenere una consistenza cremosa . Scolate la pasta (molto al dente) nella padella con il gorgonzola  ed aggiungete un mestolo di acqua di cottura .Continuate la cottura in padella, mescolando. Nel frattempo aggiungete la salsiccia rosolata  , tenendone poca da parte per la decorazione del piatto. Terminata la cottura , impiattate e decorate con la salsiccia tenuta da parte .
+
+## Descrizione
+Il risultato finale di questa ricetta è un primo piatto cremoso e saporito, grazie alla combinazione della salsiccia e del formaggio gorgonzola. Le casarecce si impregnano bene della salsa ottenuta dalla salsiccia e dal gorgonzola, creando un piatto ricco e gustoso.
+
+Questo piatto è adatto per occasioni informali come pranzi o cene in famiglia o con gli amici. È perfetto anche da servire durante una cena speciale o per festeggiare un'occasione particolare.
+
+Questa ricetta non è adatta per persone che seguono una dieta vegana o vegetariana, in quanto contiene carne di salsiccia. È consigliata per chi segue una dieta onnivora. Per persone intolleranti al lattosio, si consiglia di scegliere un formaggio gorgonzola senza lattosio o sostituire il formaggio con una variante senza lattosio o senza latticini. Per persone intolleranti al glutine, è possibile utilizzare pasta senza glutine.

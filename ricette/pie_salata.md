@@ -1,0 +1,28 @@
+# Pie salata
+Categoria: Torte salate
+
+## Ingredienti
+- Pancetta: a fette 100 g
+- Zucca gialla: da pulire 860 g
+- Funghi finferli (gallinacci): 120 g
+- Funghi porcini: 140 g
+- Pasta Sfoglia: ( 2 rotoli da 230 g) 460 g
+- Timo: q.b.
+- Olio extravergine d'oliva: q.b.
+- Ricotta vaccina: 280 g
+- Uova: 1
+- Brodo vegetale: q.b.
+- Tuorli: 1
+- Latte intero: 20 g
+
+## Preparazione
+Per realizzare la pie salata per prima cosa occupatevi della pulizia della zucca: tagliatela a fette, eliminate i semi interni , la buccia e poi riducetela a cubetti . Passate ora alla pulizia dei funghi: eliminate la parte terrose del gambo dei porcini E poi, dopo averli strofinati con un panno per togliere le impurità, tagliateli a pezzetti . Pulite allo stesso modo i finferli e poi divideteli a metà nel senso della lunghezza . In un tegame scaldate un filo di olio di oliva, quindi versate la zucca .Insaporite con un rametto di timo fresco . Saltate la zucca per qualche minuto e poi aggiungete i funghi . Allungate con un mestolo di brodo  e proseguite la cottura fino a ottenere un contorno morbido aggiungendo il brodo se necessario, ci vorranno circa  minuti.Una volta che la zucca e i funghi saranno pronti, spegnete il fuoco e tenete da parte . Scaldate una padella, adagiate le fettine di pancetta  e cuocetele a fiamma alta per renderle croccanti , saranno sufficienti - minuti.In una ciotola versate la ricotta ben scolata e l’uovo . Mescolate con una forchetta  per ottenere una crema omogenea .Ungete una tortiera del diametro di  cm  e adagiate al suo interno un disco di pasta sfoglia, forate il fondo con i rebbi di una forchetta . Farcite con metà della crema di ricotta .Livellate con il dorso di un cucchiaio , adagiate sopra metà delle fettine di pancetta croccante  e ricoprite con metà delle verdure saltate in padella .Ora realizzate un secondo strato con la restante crema , la pancetta  e le verdure, fino a esaurire il ripieno. Ricoprite la pie con un altro strato di pasta sfoglia , in modo che i le due sfoglie si uniscano al bordo.Ritagliate il bordo in eccesso  e ripiegate tutta la pasta sul bordo . Pressate leggermente i rebbi di una forchetta sul bordo e poi forate la pasta in superficie  per non farla gonfiare in cottura.In una ciotolina mescolate la panna e il tuorlo  e con questa miscela spennellate la superficie della pie . Cuocete in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sfornate la pie salata e lasciatela intiepidire prima di portarla in tavola .
+
+## Descrizione
+Il risultato finale della pie salata sarà una torta salata dal gusto ricco e avvolgente, grazie alla combinazione di pancetta, zucca, funghi e ricotta. La pasta sfoglia croccante avvolgerà il ripieno morbido e cremoso, arricchito dal profumo del timo e del brodo vegetale. Il contrasto tra i sapori intensi della pancetta e dei funghi e la dolcezza della zucca renderà questa pie salata un piatto equilibrato e appagante.
+
+La pie salata è adatta per occasioni informali come picnic, buffet e cene in compagnia. Può essere servita sia come antipasto che come piatto unico, accompagnata da un'insalata mista o da contorni di verdure grigliate.
+
+La pie salata è adatta a una dieta equilibrata e varia, in quanto contiene ingredienti nutrienti come zucca, funghi, ricotta e uova. È consigliata per chi segue una dieta mediterranea o vuole concedersi un pasto gustoso senza eccessi.
+
+Le persone con intolleranze alimentari dovrebbero fare attenzione agli ingredienti utilizzati nella pie salata. In particolare, chi soffre di intolleranza al lattosio potrebbe sostituire il latte intero con una versione senza lattosio e optare per una ricotta senza lattosio. Inoltre, è importante verificare la presenza di allergeni nei prodotti utilizzati, come glutine nella pasta sfoglia.

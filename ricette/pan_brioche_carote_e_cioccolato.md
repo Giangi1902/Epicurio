@@ -1,0 +1,23 @@
+# Pan brioche carote e cioccolato
+Categoria: Lievitati
+
+## Ingredienti
+- Carote: 150 g
+- Farina 00: 360 g
+- Zucchero: 15 g
+- Uova: 110 g
+- Burro: 70 g
+- Lievito di birra fresco: 6 g
+- Sale fino: 3 g
+- Cioccolato fondente: 70 g
+- Panna fresca liquida: 10 g
+
+## Preparazione
+Per prepare il panbrioche alle carote come prima cosa tritate grossolanamente il cioccolato  e tenetelo da parte. A questo punto lavate le carote, sbucciatele con un pelapatate  e grattugiatele . Dovrete ottenerne  g. Nella ciotola di una planetaria versate la farina , lo zucchero  e il lievito sbriciolato . Montate la frusta a foglia, azionate la macchina e iniziate ad aggiungere lentamente le uova . Quando saranno incorporate aggiungete anche le carote grattugiate  e continuate a lavorare l'impasto . Aggiungete anche il sale  e lavorate fino a che non sarà assorbito. A questo punto  staccate la frusta a foglia e montate il gancio. Continuate a lavorare fino a che l'impasto non sarà ben incordato; solo allora potrete iniziare ad aggiungere il burro un pezzetto alla volta . E' importante aspettare che il burro sia ben incorporato prima di aggiungerne ancora. L'impasto dovrà risultare sempre ben incordato . Aggiungete i pezzi di cioccolato  e lavorate ancora per pochi istanti . Trasferite l'impasto su un piano aiutandovi con un tarocco , pirlatelo con le mani, dandogli una forma sferica  e trasferitelo all'interno di una ciotola. Coprite con pellicola  e lasciate lievitare per  ore ad una temperatura di °. Potete lasciar lievitare l'impasto anche in forno spento solo con la luce accesa. Quando l'impasto sarà raddoppiato di volume , trasferitelo su un piano leggermente infarinato . Date delle pieghe all'impasto portando i lembi di pasta esterni verso il centro  e ricavate un filone . Trasferitelo all'interno di uno stampo precedentemente imburrato del diametro di X cm . Lasciate lievitare per circa  minuti , quindi spennellate con la panna , in modo da ricoprire l'intera superficie . Cuocete in forno statico preriscaldato a ° per  minuti. Poi sfornate il vostro pan brioche  e lasciatelo intiepidire. A questo punto sformatelo dallo stampo  e lasciatelo raffreddare completamente  prima di servirlo . 
+
+## Descrizione
+Il pan brioche carote e cioccolato sarà un lievitato soffice e profumato, arricchito dal gusto dolce delle carote e dal tocco deciso del cioccolato fondente. La presenza della panna fresca conferirà una morbidezza extra al risultato finale.
+
+Questo pan brioche è adatto per colazioni speciali, merende golose o per accompagnare una tazza di tè o caffè. Può essere servito come dolce da gustare in famiglia o proposto durante una cena informale con amici.
+
+La ricetta non è adatta a persone con intolleranze al glutine, al lattosio o all'uovo. Per adattarla a una dieta senza glutine, è possibile sostituire la farina 00 con una farina senza glutine. Per una dieta senza lattosio, si può sostituire il burro con un olio vegetale senza lattosio e la panna fresca con una panna vegetale. Per una dieta vegana, si possono eliminare le uova e sostituire il burro e la panna con ingredienti vegani.

@@ -1,0 +1,30 @@
+# Ciambella di riso ripiena di melanzane
+Categoria: Primi piatti
+
+## Ingredienti
+- Riso Arborio: 540 g
+- Melanzane tonde: 450 g
+- Passata di pomodoro: 520 g
+- Acqua: 700 g
+- Caciocavallo: 200 g
+- Grana Padano DOP: da grattugiare 120 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pangrattato: q.b.
+- Olio di semi di girasole: per friggere q.b.
+- Caciocavallo: 30 g
+- Pepe nero: q.b.
+- Basilico: q.b.
+
+## Preparazione
+Per preparare la ciambella di riso ripiena di melanzane come prima cosa iniziate a realizzare il risotto. Versate un filo d'olio in un tegame , unite il riso  e tostatelo per qualche minuto .Aggiungete poi la passata di pomodoro , salate, pepate e unite i primi  grammi d'acqua . Coprite con un coperchio e portate a cottura per / minuti mescolando di tanto in tanto e aggiungendo altra acqua al bisogno. A cottura ultima spegnete il fuoco .Insaporite il riso con il Grana grattugiato  mescolate , quindi versate il riso in uan ciotola e lasciate raffreddare a temperatura ambiente per  ora .Nel frattempo lavate la melanzana, spuntatela e tagliatele a fettine spesse circa  mm con una mandolina . Versate l'olio di semi in una padella e scaldatelo fino a raggiungere una temperatura di °. Poi immergete poche fettine di melanzane  e cuocetele per pochi minuti fino a che non saranno ben dorate. Poi scolatele, trasferitele su un foglio di carta assorbente  e proseguite con la cottura delle altre.Tagliate poi il caciocavallo a cubetti  e tenetelo da parte. A questo punto oliate il fondo di uno stampo da ciambella alto circa cm, del diametro di  cm in superficie e  cm sulla base , quindi foderatelo con il pangrattato. In questo modo non avrete difficoltà a sformare la ciambella. Versate all'interno circa la metà del riso , compattando bene con un cucchiaio. Poi sistemate al centro del riso metà delle melanzane fritte ,i cubetti di caciocavallo  e le altre melanzane fritte sopra . Coprite il tutto con il riso rimasto . Compattate bene con il dorso del cucchiaio . Cuocete in forno statico preriscaldato a ° per circa  minuti, poi sfornate la ciambella e lasciatela riposare per circa  minuti prima di rovesciarla su un piatto da portata  . Guarnite la ciambella di riso ripiena di melanzane grattugiando  g di caciocavallo sulla superficie ,un spolverata di pepe e le foglie di basilico fresco .
+
+## Descrizione
+Il risultato finale sarà una deliziosa ciambella di riso ripiena di melanzane, con un cuore filante di formaggio e pomodoro. La superficie sarà croccante grazie al pangrattato e al formaggio grattugiato.
+
+Questa ricetta è adatta per occasioni speciali come pranzi e cene in famiglia o con amici, ma può essere preparata anche per un pranzo o una cena più informale.
+
+La ciambella di riso ripiena di melanzane è adatta per una dieta equilibrata e può essere inserita in un regime alimentare vegetariano. Tuttavia, non è adatta per persone con intolleranze al lattosio, al glutine o alle melanzane.
+
+Le persone con intolleranze al lattosio possono sostituire il formaggio con una versione senza lattosio o eliminare completamente il formaggio grattugiato. Per le persone con intolleranze al glutine, è possibile utilizzare riso Gluten-free e pangrattato senza glutine. Per chi è intollerante alle melanzane, è consigliabile sostituire con un'altra verdura di preferenza.

@@ -1,0 +1,28 @@
+# Ravioli dolci di Carnevale
+Categoria: Dolci
+
+## Ingredienti
+- Burro: 50 g
+- Zucchero: 60 g
+- Uova: 1
+- Latte intero: 100 ml
+- Sale fino: 1 pizzico
+- Farina 00: 300 g
+- Scorza di limone: 1
+- Baccello di vaniglia: 1
+- Marmellata: q.b.
+- Albumi: 1
+- Zucchero a velo: q.b.
+- Olio di semi: q.b.
+
+## Preparazione
+Per realizzare i ravioli dolci di Carnevale versate nella tazza di una planetaria munita di foglia (o in una ciotola se impastate a mano) la farina setacciata , il burro a cubetti , lo zucchero ,l’uovo , i semi di vaniglia , il latte  e il pizzico di salee la scorza di limone  . Impastate bene gli ingredienti fino ad ottenere un composto liscio e compatto , trasferitelo in una ciotola che coprirete con della pellicola trasparente e lascerete riposare per mezz’ora al fresco . Prendete l’impasto dividetelo in panetti (circa  gr), schiacciateli  e lavorateli con l’apposita macchinetta per tirare la sfoglia  (o con un mattarello) cercando di ottenere uno spessore di  mm ,  mm e ½ che corrisponde generalmente al penultimo spessore del rullo della macchina per la pasta, per realizzare al meglio la sfoglia consultate la scuola di cucina come tirare la sfoglia. Se durante la lavorazione la sfoglia dovesse lacerarsi, infarinatela, piegatela in tre e ripassatela nella macchinetta fino a quando risulterà liscia e compatta, passandola tra i rulli dallo spessore più largo a quello più stretto.Adagiate una sfoglia su di una spianatoia e ponete su di essa dei mucchietti di ripieno (un cucchiaino scarso) a distanza di qualche cm uno dall’altro, per facilitarvi in questa operazione potete trasferire il ripieno nella sac-à-poche  in modo da porzionare meglio la farcitura: potete scegliere tra una confettura di vostro gusto oppure della Nutella. Spennellate con l'albume i bordi laterali della sfoglia e la superficie compresa tra un mucchietto di ripieno e l’altro , quindi piegate la sfoglia nel senso della lunghezza chiudendola a libro , pressate la pasta intorno al ripieno in modo da eliminare l'aria, poi con una rotella tagliapasta dal bordo smerlato, ritagliate i ravioli  . Procedete in questo modo fino ad esaurire l’impasto.Versate dell’olio di semi in un tegame dai bordi alti e quando sarà ben caldo ma non bollente, immergete - ravioli al massimo per volta , rigirandoli su entrambi i lati e scolandoli  non appena saranno dorati. Adagiate i ravioli su della carta assorbente da cucina  per fare scolare l’olio in eccesso e poi una volta asciutti spolverizzateli con dello zucchero al velo vanigliato. Servite i ravioli dolci di Carnevale tiepidi o freddi.
+
+## Descrizione
+Il risultato finale della ricetta "Ravioli dolci di Carnevale" saranno dolci ravioli ripieni di marmellata e ricoperti di zucchero a velo, dal sapore delicato e avvolgente, arricchiti dalla scorza di limone e dalla vaniglia.
+
+Questi ravioli dolci sono adatti per le occasioni di Carnevale, ma possono essere gustati anche in altre occasioni di festa o come dolce goloso da preparare in famiglia.
+
+Questi ravioli dolci non sono adatti per diete ipocaloriche o per chi segue un regime alimentare restrittivo, dato il loro contenuto calorico e l'uso di burro e zucchero nella ricetta. Tuttavia, possono essere adatti per una dieta bilanciata se consumati con moderazione.
+
+Le persone con intolleranze al lattosio possono sostituire il latte intero con un latte senza lattosio o con una bevanda vegetale, mentre le persone con intolleranze al glutine possono utilizzare una farina senza glutine per preparare la pasta dei ravioli. Chi ha intolleranze alle uova può cercare sostituti vegetali o evitare di consumare questo dolce.

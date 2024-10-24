@@ -1,0 +1,21 @@
+# Roselline di frolla al cacao
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 290 g
+- Fecola di patate: 30 g
+- Cacao amaro in polvere: 50 g
+- Burro: morbido 250 g
+- Zucchero di canna a velo: 100 g
+- Albumi: (a temperatura ambiente) 115 g
+- Scorza d'arancia: 1
+
+## Preparazione
+Per preparare le roselline di frolla al cacao, per prima cosa setacciate in una ciotola la farina insieme alla fecola di patate e al cacao  e mescolate per amalgamare il tutto. Nella ciotola di una planetaria munita di gancio a frusta versate il burro ammorbidito e lo zucchero di canna a velo , azionate la planetaria e aggiungete anche la scorza d’arancia grattugiata .Quando il burro e lo zucchero saranno diventati cremosi, versate gli albumi  e continuate a lavorare per incorporarli, aiutandovi con una spatola per raccogliere il composto dai bordi della ciotola . Infine aggiungete le polveri setacciate, un cucchiaio per volta .Continuate a lavorare l’impasto per amalgamare il tutto , poi trasferitelo in un sac-à-poche con bocchetta a stella da  mm. Foderate una leccarda con carta forno e con il sac-à-poche formate delle roselline del diametro di - cm . Cuocete in forno ventilato preriscaldato a ° per circa  minuti .Una volta cotte, sfornate le roselline  e trasferitele su una gratella per farle raffreddare . Le vostre roselline di frolla al cacao sono pronte per essere gustate o regalate !
+
+## Descrizione
+Il risultato finale della ricetta sarà delle deliziose roselline di frolla al cacao, croccanti all'esterno e morbide all'interno. Il gusto del cacao si mescola perfettamente con la dolcezza dello zucchero di canna a velo, dando vita a un dolce dal gusto avvolgente e irresistibile. La leggera nota agrumata della scorza d'arancia rende il sapore ancora più interessante e invitante.
+
+Le roselline di frolla al cacao sono perfette per accompagnare il caffè o il tè durante una merenda o una colazione speciale. Possono essere servite anche come dessert dopo un pasto leggero, da gustare magari in compagnia di amici o parenti.
+
+Le roselline di frolla al cacao sono adatte a vegetariani, ma non sono adatte a vegani in quanto contengono albumi. Possono essere consumate occasionalmente all'interno di una dieta equilibrata e moderata, dato il loro contenuto calorico e di grassi. Le persone con intolleranza al glutine e ai latticini dovrebbero evitare questo dolce, a meno di utilizzare ingredienti alternativi che rispettino le loro esigenze alimentari.

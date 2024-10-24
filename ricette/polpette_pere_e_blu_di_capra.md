@@ -1,0 +1,29 @@
+# Polpette pere e Blu di capra
+Categoria: Antipasti
+
+## Ingredienti
+- Pere abate: (3 medie) 600 g
+- Pane integrale multi-cereali: (la mollica) 120 g
+- Scorza di limone: non trattato 1
+- Pecorino romano: da grattugiare 40 g
+- Gherigli di noci: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Blu di Capra: 100 g
+- Uova: medie 2
+- Sale fino: q.b.
+- Pane integrale multi-cereali: (solo la crosta) 40 g
+- Rosmarino: q.b.
+- Olio di semi: q.b.
+
+## Preparazione
+Per preparare le polpette di pere e Blu di capra, iniziate prendendo la pagnotta di cereali: privatela della crosta ( g di crosta vi serviranno successivamente per la panatura, quindi tenete da parte) ; tagliate la mollica a pezzi  e ponetela in un mixer riducetela in polvere fine . Poi passate a pulire le pere Abate: sbucciatele , quindi dividetele a metà e tagliate via semini e torsolo Grattugiate le pere con una grattugia a maglie strette  e raccogliete la polpa in un colino. Schiacciate con il dorso di un cucchiaio per eliminare il grosso dell’acqua , poi strizzate ulteriormente la polpa con le mani , fino a ottenere una pallotta asciutta.Trasferite la polpa in una ciotola e unite la scorza grattugiata di un limone non trattato , il Pecorino grattugiato , salate e pepate a piaere Tritate anche i gherigli di noci sempre utilizzando il mixer ma con pochi colpi di lama perchè non fuoriesca troppo olio , unitele al resto degli ingredienti  , versate anche la mollica di pane tritata in precedenza Impastate tutto a mano per ottenere un composto piuttosto compatto . Prelevate una piccola porzione di impasto, arrotondatela tra i palmi delle mani, poi schiacciatela al centro per creare una conchetta  da riempire con un cucchiaino di formaggio Blu di capra .Sigillate ciascuna polpetta per inglobare il formaggio, aiutandovi con poco altro impasto se necessario . Date una forma tondeggiante roteando tra i palmi ciascuna pallina  e proseguite così fino a terminare tutti gli ingredienti: con queste dosi otterrete circa  polpette. Mettete da parte le polpette, passate a preparare la panatura: sbattete le uova con un pizzico di sale .Sempre nel mixer, ponete  g della crosta di pane tenuta da parte , frullatela finemente , quindi trasferitela in una ciotola e aromatizzate con rosmarino tritato Passate ciascuna polpetta nelle uova sbattute  e poi nel pangrattato al rosmarino . Via via che sono pronte disponete le polpette sul vassoio .In un tegame scaldate abbondante olio di semi; quando sarà arrivato alla temperatura di ° da misurare con un termometro da cucina, friggete poche polpette alla volta in modo da non abbassare eccessivamente la temperatura ; ci vorranno circa  minuti perchè si dorino . Scolatele su carta assorbente man a mano , quindi gustate le polpette pere e Blu di Capra a piacere da sole o accompagnate da un’insalatina di rucola, valeriana, noci, pere fresche e aceto balsamico!
+
+## Descrizione
+Il risultato finale della ricetta "Polpette pere e Blu di capra" sarà delle gustose polpette a base di pere abate, pane integrale multi-cereali, scorza di limone, pecorino romano, gherigli di noci, Blu di Capra, uova, crosta di pane integrale, rosmarino e olio di semi. Le polpette saranno croccanti all'esterno e morbide all'interno, con un sapore equilibrato tra la dolcezza delle pere e la sapidità del formaggio e delle noci.
+
+Queste polpette sono adatte come antipasto per cene o pranzi speciali, ma possono essere anche gustate come secondo piatto leggero e originale. Sono perfette per occasioni festive o per sorprendere gli ospiti con un piatto fuori dall'ordinario.
+
+Le polpette pere e Blu di capra sono adatte a una dieta bilanciata e varia, in quanto contengono ingredienti nutrienti come le pere, il formaggio e le noci. Possono essere incluse in una dieta proteica o in un regime alimentare vegetariano.
+
+Le persone con intolleranze al lattosio o al glutine potrebbero non essere in grado di mangiare le polpette pere e Blu di capra, a meno che non sostituiscano il formaggio con una variante senza lattosio e utilizzino del pane senza glutine. Le persone con intolleranze alle noci possono eliminare o sostituire le noci nella ricetta.

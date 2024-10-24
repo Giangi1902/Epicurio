@@ -1,0 +1,30 @@
+# Biscotti salati di Natale
+Categoria: None
+
+## Ingredienti
+- Farina 00: 300 g
+- Grana Padano DOP: da grattugiare 100 g
+- Olio extravergine d'oliva: 75 g
+- Olio di semi di mais: 75 g
+- Acqua: fredda 50 g
+- Sale fino: q.b.
+- Pepe rosa in grani: q.b.
+- Semi di finocchio: q.b.
+- Peperoncino secco: q.b.
+- Semi di papavero: q.b.
+- Origano: q.b.
+- Rosmarino: q.b.
+
+## Preparazione
+Per realizzare i biscotti salati di Natale, per prima cosa preparate l’impasto: versate la farina in una ciotola, aggiungete il Grana Padano grattugiato  e un pizzico di sale  e mescolate con una forchetta .Unite l’olio di semi  e quello di oliva  e mescolate ancora con la forchetta per ottenere un composto bricioloso .In ultimo aggiungete l’acqua  e impastate con le mani  fino a formare un panetto compatto e omogeneo .Stendete il panetto con un mattarello su una spianatoia leggermente infarinata fino a uno spessore di mezzo centimetro , poi ritagliate i biscotti utilizzando uno stampino a forma di albero di Natale . Impastate nuovamente gli scarti per ricavare altri biscotti e adagiateli su una leccarda foderata con carta forno. Guarnite ogni biscotto con una spezia diversa oppure con un mix di spezie varie .Una volta pronti , cuocete i biscotti in forno ventilato preriscaldato a ° per circa  minuti, finché non risulteranno leggermente dorati . Lasciate intiepidire e servite i vostri biscotti salati di Natale !
+
+## Descrizione
+Il risultato finale dei biscotti salati di Natale sarà una serie di biscotti croccanti dal sapore deciso e ricco di aromi. Saranno leggermente dorati e avranno una consistenza friabile.
+
+Gli ingredienti selezionati per questa ricetta daranno vita a un mix di sapori che richiamano il periodo natalizio, ma con un tocco salato. Il Grana Padano DOP sarà il protagonista principale, aggiungendo un delizioso sapore di formaggio. Gli oli d'oliva e di semi di mais conferiranno morbidezza e leggerezza all'impasto, mentre l'acqua fredda aiuterà a amalgamare gli ingredienti. I condimenti, come il pepe rosa, i semi di finocchio, il peperoncino secco, i semi di papavero, l'origano e il rosmarino, daranno un tocco di profumo e piccantezza ai biscotti.
+
+I biscotti salati di Natale sono perfetti per essere serviti durante le feste di Natale e Capodanno come sfizioso antipasto o finger food. Possono essere gustati da soli o accompagnati da formaggi, salumi o salse, diventando così una deliziosa alternativa ai classici biscotti dolci.
+
+Questa ricetta non è specificamente adatta a particolari diete o regimi alimentari, poiché contiene farina e formaggio. Tuttavia, può essere facilmente adattata per persone vegetariane, a meno che non abbiano specifiche intolleranze al glutine o al lattosio.
+
+Le persone con intolleranza al glutine possono utilizzare una farina senza glutine come sostituto della farina 00, mentre coloro che sono intolleranti al lattosio possono provare a sostituire il Grana Padano con un formaggio senza lattosio o con una variante vegan.

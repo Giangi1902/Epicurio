@@ -1,0 +1,30 @@
+# Filetti di tonno su vellutata di ceci e cipolle rosse
+Categoria: Antipasti
+
+## Ingredienti
+- Tonno sott'olio: sgocciolato 260 g
+- Cipolle rosse: 150 g
+- Olio extravergine d'oliva: 10 g
+- Sale fino: q.b.
+- Aneto: q.b.
+- Pepe nero: q.b.
+- Ceci precotti: 240 g
+- Aglio: 1 spicchio
+- Scalogno: 1
+- Rosmarino: 1 rametto
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: 10 g
+- Acqua: q.b.
+
+## Preparazione
+Per realizzare i filetti di tonno su vellutata di ceci e cipolle rosse per prima cosa iniziate dalla crema di ceci: mondate e affettate lo scalogno . Scaldate  g di olio di oliva in un tegame, unite  spicchio di aglio sbucciato ma intero  e lo scalogno affettato .Bagnate con poca acqua , aromatizzate con un rametto di rosmarino  e fate appassire lo scalogno per circa  minuti a fuoco moderato, mescolando di tanto in tanto. Eliminate lo spicchio di aglio e il rametto di rosmarino , salate, pepate e versate i ceci , versate l'acqua  fino a ricoprirli e proseguite la cottura per circa  minuti o fino a quando i ceci non saranno ben teneri.Nel frattempo mondate la cipolla rossa e affettatela , in una padella scaldate  g di olio di oliva e versate la cipolla affettata , saltatele a fuoco medio-alto per circa  minuti o fino a quando non saranno ben dorate e croccanti ; ogni tanto mescolate e a fine cottura salate.Intanto i ceci avranno ultimato la cottura, frullateli con un mixer ad immersione  per ottenere una crema liscia e senza grumi . Componete il vostro piatto distribuendo sul fondo uno strato di crema di ceci, sopra uno di cipolle tostate in padella e per finire adagiate i filetti di tonno sgocciolati, completate con pepe a piacere e qualche fogliolina di aneto. Distribuite gli ingredienti equamente sui  piatti da portata: i filetti di tonno su vellutata di ceci e cipolle rosse sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta è un piatto leggero e gustoso, composto da filetti di tonno su una vellutata cremosa di ceci e cipolle rosse, arricchito da aromi di aneto e pepe nero.
+
+Occasioni adatte: Questo piatto è adatto per un antipasto raffinato da servire in occasioni speciali come cene eleganti o pranzi festivi.
+
+Dieta: Questa ricetta è adatta per una dieta equilibrata e sana, ricca di proteine dal tonno e fibre dai ceci.
+
+Intolleranze: Le persone con intolleranza al tonno devono evitare questo piatto. Inoltre, coloro che soffrono di intolleranza al glutine devono assicurarsi che i ceci siano certificati senza glutine.

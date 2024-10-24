@@ -1,0 +1,28 @@
+# Involtini di pollo e fagiolini
+Categoria: Secondi piatti
+
+## Ingredienti
+- Petto di pollo: (8 fette da 30 g) 240 g
+- Fagiolini: freschi 100 g
+- Senape: piccante 30 g
+- Prosciutto crudo: (8 fette) 70 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: 15 g
+- Patate: 500 g
+- Yogurt greco: 100 g
+- Latte intero: 20 g
+- Erba cipollina: 3 fili
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare gli involtini di pollo e fagiolini cominciate dalle patate che serviranno per il contorno, poiché hanno la cottura più lunga, quindi versatele in una pentola insieme ad abbondante acqua fredda  ponetela sul fuoco e lasciate che raggiunga il bollore, dopodiché cuocete le patate per - minuti a seconda della loro grandezza, facendo una prova con la forchetta. Le patate saranno cotte non appena non faranno più resistenza, a quel punto scolatele e lasciatele intiepidire un po’  infine sbucciatele e lasciatele freddare . Per dimezzare i tempi di cottura, potete cuocerle in pentola a pressione.Una volta che le patate lessate saranno completamente raffreddate, per comodità e per un taglio ottimale potreste lasciarle  minuti in freezer, tagliatele a tocchetti di un paio di centimetri . Raccogliete i cubetti in un recipiente e versate lo yogurt greco insieme all’erba cipollina che potrete tagliare aiutandovi con le forbici  e mescolate .Se vi accorgete che il composto diventa troppo denso stemperate aggiungendo - cucchiai di latte , aggiustate di sale e di pepe, mescolate e riponete in frigorifero, coprendo con pellicola trasparente . Intanto spuntate i fagiolini, quindi privateli delle due estremità poi sciacquateli sotto acqua corrente  e sbollentateli in abbondante acqua bollente per - minuti , giusto il tempo di renderli un po' più morbidi. Quindi scolate i fagiolini  e lasciateli raffreddare un po’ versando anche un po’ di acqua fredda per bloccare la cottura in questo modo resteranno di un bel colorito verde.Infine sistemate i fagiolini in un recipiente e aggiustate di sale . Su un tagliere disponete le fettine di petto di pollo e salatele solo in superficie  poi spalmate un po’ di senape aiutandovi con un cucchiaino per distribuirla .Appena più in alto del centro sistemate una manciata di fagiolini . Partendo dalla parte più alta arrotolate la fettina di pollo con in mezzo i fagiolini in modo da arrotolare la carne su se stessa  e ottenere così un involtino ; ripetete l'operazione per tutte le altre fettine.Inserite due stuzzicadenti per ogni involtino, in questo modo sarete sicuri che non si apra durante la cottura . Versate dell’olio extravergine d’oliva in una padella e quando sarà ben caldo adagiate gli involtini  rigirandoli dopo pochi minuti di cottura a fiamma viva  e continuate  in modo da sigillare per bene la carne.Lasciateli intiepidire qualche istante e non buttate l’olio di cottura che servirà successivamente . Togliete gli spiedini di legno da ogni involtino  e salate la superficie che non era stata salata in precedenza .Su un tagliere sistemate le fette di prosciutto crudo e partendo dal basso arrotolate la fettina tutto intorno all’involtino  in modo che il prosciutto ricopra completamente il rotolino  e fate così per tutti. In una pirofila versate il fondo di cottura degli involtini e adagiate questi ultimi nella stessa , lasciandoli cuocere a in forno statico preriscaldato a ° per  minuti . Non appena gli involtini di pollo e fagiolini saranno cotti potrete servirli accompagnandoli con la vostra insalata di patate allo yogurt !
+
+## Descrizione
+Il risultato finale sarà un piatto colorato e gustoso, con involtini di pollo ripieni di fagiolini e prosciutto crudo, arricchiti da una salsa cremosa al senape. Le patate al forno con yogurt greco e erba cipollina completeranno il piatto, creando un bilanciamento perfetto di sapori e consistenze.
+
+Occasioni: Questa ricetta è adatta sia per un pranzo in famiglia che per una cena speciale con gli amici. È perfetta da servire in un menu completo o come piatto unico, accompagnata da un'insalata fresca o contornata di verdure grigliate.
+
+Diete: Questa ricetta è adatta a una dieta bilanciata e varia, ricca di proteine, vitamine e fibre. È ideale per chi segue una dieta mediterranea o vuole mantenere un'alimentazione sana ed equilibrata.
+
+Intolleranze: Le persone con intolleranze al lattosio possono sostituire lo yogurt greco con una versione senza lattosio o con una crema vegetale. Le persone celiache possono rendere la ricetta senza glutine utilizzando ingredienti privi di glutine e controllando attentamente gli aromi e i condimenti utilizzati. Le persone con intolleranze al nichel possono scegliere fagiolini e yogurt a basso contenuto di nichel.

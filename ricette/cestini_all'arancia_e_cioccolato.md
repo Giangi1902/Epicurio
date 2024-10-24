@@ -1,0 +1,26 @@
+# Cestini all'arancia e cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: 125 g
+- Zucchero a velo: 100 g
+- Tuorli: 2
+- Scorza d'arancia: 1
+- Baccello di vaniglia: i semi 1
+- Cioccolato fondente: 125 g
+- Panna fresca liquida: 125 g
+- Burro: 10 g
+- Arancia candita: q.b.
+
+## Preparazione
+Per preparare i cestini all’arancia e cioccolato iniziate dalla pasta frolla (per realizzarla al meglio consultate la ricetta della Pasta frolla). Nel mixer munito di lame versate la farina setacciata e il burro , azionate la macchina qualche istante, il tempo necessario per sabbiare il composto . Trasferitelo su di una spianatoia, formate la classica fontana nel cui centro verserete i semi della bacca di vaniglia, lo zucchero a velo, la scorza grattugiata dell’arancia ,i tuorli ; impastate a mano velocemente  fino ad ottenere un panetto compatto ed elastico. Appiattitelo e copritelo con pellicola trasparente  e ponetelo in frigorifero a rassodare per mezz’ora.Trascorso il tempo di riposo, riprendete la pasta frolla, stendetela su di una spianatoia infarinata con un mattarello, fino ad ottenere una sfoglia spessa - mm . Ritagliate con una coppapasta di  cm circa dei cerchi di pasta , trasferite la pasta in  stampini da crostatine del diametro di  cm imburrati e infarinati fate aderire allo stampo la frolla ed eliminate quella in eccesso con un coltellino . Con i ritagli avanzati potete fare dei golosi biscottini!Una volta che avrete ricoperto tutti gli stampi , ritagliate  cerchi di carta da forno di  cm di diametro, rivestite il fondo degli stampini con i cerchi di carta  e ponete dei pesi per la cottura alla cieca all’interno  (oppure potete utilizzare anche dei legumi secchi). Cuocete le crostatine per  minuti in forno statico preriscaldato a ° (oppure in forno ventilato a ° per circa  minuti).A cottura ultimata sfornatele e lasciatele raffreddare prima di sformarle . Ora occupatevi della crema ganache di farcitura: tritate il cioccolato fondente al coltello , scaldate la panna in un pentolino a fuoco basso ,unite il burro  e fate sobbollire, poi spegnete il fuoco e incorporate il cioccolato tritato  e mescolate con la frusta fino a quando non si sarà completamente sciolto . Lasciate intiepidire la ganache.Farcite le crostatine con la crema di cioccolato fondente , poi ponete la crema avanzata in una ciotola sotto la quale andrete a posizionare un’altra ciotola colma di ghiaccio . Montate la crema con le fruste elettriche finché non sarà chiara . A quel punto trasferitela in una sac-à-poche con bocchetta stellata e guarnite la superficie delle crostatine con ciuffetti di ganache . Per terminare, decorate con le scorze di arancia candite . I cestini all’arancia e cioccolato sono pronti per essere gustati!
+
+## Descrizione
+Il risultato finale della ricetta "Cestini all'arancia e cioccolato" sarà dei deliziosi cestini croccanti di pasta frolla aromatizzati all'arancia, riempiti con una golosa crema al cioccolato fondente e decorati con scorza d'arancia candita.
+
+Occasioni: Questi cestini sono perfetti da servire come dessert in occasioni speciali come feste di compleanno, cene eleganti o buffet.
+
+Dieta: Questa ricetta non è adatta a persone che seguono una dieta ipocalorica, data la presenza di zucchero e burro. Tuttavia, è possibile consumarla occasionalmente come dolce indulgenza.
+
+Intolleranze: Le persone con intolleranze al lattosio possono sostituire la panna fresca con panna vegetale senza lattosio. Chi soffre di intolleranza al glutine può utilizzare farina senza glutine per la preparazione della pasta frolla. Assicurarsi che il cioccolato fondente utilizzato non contenga tracce di latte in caso di allergie al lattosio.

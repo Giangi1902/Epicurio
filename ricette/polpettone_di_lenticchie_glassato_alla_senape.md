@@ -1,0 +1,31 @@
+# Polpettone di lenticchie glassato alla senape
+Categoria: Secondi piatti
+
+## Ingredienti
+- Pasta Sfoglia: rettangolare 230 g
+- Lenticchie: di Colfiorito 100 g
+- Patate rosse: 250 g
+- Spinaci: 250 g
+- Scamorza affumicata: 100 g
+- Grana Padano DOP: da grattugiare 40 g
+- Gherigli di noci: 30 g
+- Scalogno: piccolo 1
+- Senape di Digione: forte q.b.
+- Alloro: 2 foglie
+- Rosmarino: q.b.
+- Noce moscata: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare il polpettone di lenticchie glassato alla senape per prima cosa sciacquate le lenticchie e versatele in una pentola riempita con acqua fredda non salata insieme alle foglie di alloro . Lessate le lenticchie per  minuti dal bollore, poi scolate e tenete da parte. Nel frattempo mettete a lessare anche le patate rosse intere con la buccia, sempre partendo da acqua fredda, per circa - minuti dal bollore a seconda della dimensione . Tritate lo scalogno e fatelo stufare in una padella con un giro d’olio . Aggiungete gli spinaci , salate e pepate . Quando gli spinaci saranno appassiti  scolate il liquido in eccesso e lasciate intiepidire. Nel frattempo grattugiate la scamorza con una grattugia a fori larghi e tritate grossolanamente le noci . Quando le patate saranno cotte schiacciatele in una ciotola con uno schiacciapatate , poi aggiungete le lenticchie .Unite il Grana Padano DOP grattugiato , la noce moscata  e il rosmarino tritato . Aggiungete anche le noci tritate  e metà della scamorza grattugiata , poi salate, pepate e condite con un giro d'olio. Impastate prima con la marisa e poi con le mani per ottenere un composto piuttosto consistente, come quello delle polpette .Siete pronti per assemblare il polpettone: stendete la pasta sfoglia sul foglio di carta forno, tenendo verso di voi il lato lungo. Stendete il composto di lenticchie e patate nel mezzo, avendo cura di non premerlo troppo sulla sfoglia . Schiacciatelo leggermente lungo la fascia centrale e distribuite gli spinaci , poi aggiungete la scamorza grattugiata rimanente . Modellate il composto in modo da ricoprire il ripieno e formare un polpettone . Con il coltello ritagliate delle strisce sul lembo destro della sfoglia per ottenere delle frange della larghezza di circa , cm . Ora ricoprite il polpettone con il lembo sinistro della sfoglia .Sovrapponete le frange del lato destro incrociandole leggermente . Modellate il polpettone in crosta con le mani per dargli una forma il più possibile regolare  e trasferitelo in una teglia. In una ciotolina mescolate la senape con dell’olio evo .Spennellate abbondantemente la sfoglia con la glassa di senape . Aggiungete un rametto di rosmarino  e una macinata di pepe e cuocete in forno statico preriscaldato a ° per circa - minuti. Dopo - minuti controllate che non si stia scurendo troppo in superficie, in tal caso ricoprite con un foglio di alluminio. Sfornate e lasciate intiepidire leggermente il vostro polpettone di lenticchie glassato alla senape prima di servirlo !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un delizioso polpettone vegetariano, realizzato con lenticchie, patate, spinaci, scamorza affumicata e altri ingredienti che conferiranno un sapore unico e gustoso al piatto. La pasta sfoglia utilizata per avvolgere il polpettone creerà una crosta croccante e dorata, che completerà perfettamente il piatto.
+
+Questo polpettone di lenticchie glassato alla senape è adatto per occasioni speciali come pranzi o cene in famiglia, ma può essere preparato anche per un pranzo veloce o per un picnic all'aperto. 
+
+La ricetta è adatta per una dieta vegetariana, in quanto non contiene carne ma è ricca di proteine vegetali dalle lenticchie e di altri importanti nutrienti dalle verdure. Tuttavia, i latticini presenti nell'aggiunta di scamorza affumicata la rendono inadatta per una dieta vegana.
+
+Le persone con intolleranze alimentari al lattosio o al glutine dovrebbero fare attenzione all'uso di scamorza e pasta sfoglia, che potrebbero contenere questi ingredienti. Possono essere sostituiti con alternative senza lattosio o senza glutine per rendere la ricetta adatta a persone con queste intolleranze.

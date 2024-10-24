@@ -1,0 +1,31 @@
+# Casatiello dolce
+Categoria: Dolci
+
+## Ingredienti
+- Farina Manitoba: 250 g
+- Farina 00: 250 g
+- Latte condensato: 100 g
+- Lievito di birra secco: 5 g
+- Acqua: (tiepida) 350 g
+- Sale fino: q.b.
+- Burro: ( a temperatura ambiente) 50 g
+- Albumi: (per spennellare) 1
+- Frutta disidratata: mista 200 g
+- Liquore: (a piacere) 10 g
+- Succo d'arancia: 2
+- Albumi: 70 g
+- Zucchero a velo: 200 g
+- Zuccheri glitterati: q.b.
+- Burro: (fuso) q.b.
+
+## Preparazione
+Per preparare il casatiello dolce cominciate con la realizzazione dell’impasto. Prendete la planetaria munita di gancio e versatevi al suo interno la farina di  e la farina Manitoba setacciate  e a queste aggiungete il lievito di birra disidratato . Quindi unite il latte condensato .Azionate la planetaria a velocità media e cominciate ad impastare il composto con il gancio. A questo punto aggiungete l’acqua poco alla volta . Prima di terminare l’aggiunta di tutta l’acqua aggiungete all’impasto che state amalgamando anche il sale . Continuate quindi ad amalgamare a velocità media finchè non otterrete un impasto elastico e ben incordato .Aggiungete quindi poco alla volta il burro, avendo cura di aggiungerlo ogni volta che la precedente parte è stata ben assorbita nell’impasto . Trasferite ora l'impasto su un piano di lavoro e lavoratelo con le mani fino ad ottenere una forma sferica . Mettete l’impasto a forma di palla così ottenuto in una nuova ciotola pulita, precedentemente imburrata. Coprite l’impasto con pellicola  e lasciatelo lievitare nel forno con luce accesa a ° C tra le  e le  ore a seconda dell’occorrenza.Procedete quindi ora al ripieno del casatiello. Tagliate a pezzetti grossolani la frutta secca. Spremete ora in una ciotolina le arance, ottenenedone il succo. A quest’ultimo aggiungete il liquore alle erbe . Ponete ora la frutta secca a rinvenire per circa due ore nel succo che avete ottenuto . Ritornate quindi alla preparazione dell’impasto del casatiello. Quando l’impasto riposto nel forno avrà raddoppiato di volume, trasferitelo una spianatoia. Lì appiattite l’impasto e tiratelo con le mani in modo da ottenere un rettangolo dalle dimensioni di circa  cm X  cm . L’impasto ottenuto dovrebbe essere sufficientemente morbido da non necessitare l’utilizzo del mattarello.Scolate ora la frutta secca e disponetela su tutta la superficie dell’impasto . Arrotolate l’impasto dal lato lungo . Imburrate una ciambella dal diametro di  cm e ponete nella ciambella il rotolo del casatiello .Lasciate lievitare per  minuti a temperatura ambiente. Passato il tempo della lievitazione ed il casatiello avrà raddoppiato di volume, spennellate leggermente con dell’albume  che potete sbattere aiutandovi con una forchetta. Informate il casatiello a ° C per  minuti. Sfornate il casatiello  e lasciatelo raffreddare su una gratella. Procedete ora con la preparazione della ghiaccia reale. Sbattete gli albumi con le fruste di uno sbattitore elettrico. Aggiungete ora poco per volta lo zucchero a velo .Lavorate il composto fino ad ottenere una glassa liscia e fluida . Decorate ora il casatiello dolce cospargendolo con la ghiaccia reale  e completate le decorazioni con degli zuccherini colorati a piacimento . Buon casatiello a tutti!
+
+## Descrizione
+Il risultato finale della ricetta del Casatiello dolce sarà un dolce soffice e profumato, arricchito dalla frutta disidratata mista e con una dolce glassa di zucchero a velo e zuccheri glitterati sulla superficie.
+
+Per quale occasioni è adatto: Il Casatiello dolce è perfetto per la colazione, la merenda o come dessert da servire durante una festa o un buffet.
+
+Per quali diete o regime alimentare sono adatte: Questa ricetta non è adatta per diete ipocaloriche o restrittive, ma può essere consumata all'interno di una dieta bilanciata e varia.
+
+Persone con intolleranze possono mangiarlo: Le persone con intolleranza al lattosio possono sostituire il latte condensato con una versione senza lattosio e evitare l'utilizzo del burro. Le persone celiache possono utilizzare farine senza glutine per preparare il dolce. Chi è intollerante alle uova può cercare alternative per sostituire gli albumi nella ricetta.

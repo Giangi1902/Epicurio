@@ -1,0 +1,28 @@
+# Moscow mule alla melagrana
+Categoria: Bevande
+
+## Ingredienti
+- Melagrana: succo 400 g
+- Vodka: 180 g
+- Ginger beer: 320 g
+- Succo di lime: 2
+- Zucchero: 4 cucchiaini
+- Zenzero fresco: radice 1
+- Melagrana: chicci q.b.
+- Zucchero: q.b.
+- Rosmarino: 4 rametti
+- Zenzero fresco: 4 fette
+- Lime: 1
+- Ghiaccio: q.b.
+
+## Preparazione
+Per preparare il moscow mule alla melagrana cominciate dalla pulizia del frutto. Eliminate il cappello incidendolo con un coltello a lama liscia. Ruotate sul tagliere il frutto al di sotto delle vostre mani , in questo modo la polpa si ammorbidirà. Incidete le  parti bianche e ben visibili  e cominciate a sgranare il frutto. Con questa operazione appena concluso dovrebbe essere più facile staccare i semini. Raccogliete in una ciotola e poi frullate il tutto . Trasferite il tutto in un setaccio  e ottenete il succo schiacciando con una lecca pentole .Trasferite il succo in un recipiente, aggiungete il succo di  lime , spremete  radice di zenzero sbucciata  e infine versate lo zucchero. Mescolate il tutto e lasciate macerare per un paio d’ore .Trascorso il tempo passate alla decorazione delle tipiche tazze per moscow mule oppure dei bicchieri. Tagliate  fettine di zenzero e  di lime , con l’altra metà dell’agrume andate ad inumidire il bordo del bicchiere strofinando la polpa sul bordo del bicchiere . Quindi brinate il bordo immergendo la parte bagnata nello zucchero .Riempite per metà i recipienti con il ghiaccio, e per ciascuno versate  grammi di vodka ,  g di ginger beer  e ¼ dello sciroppo di melagrana .Mescolate per bene e completate con  cucchiaiata di chicchi di melagrana,  rametto di rosmarino , una fettina di zenzero e una di limone  ed ecco pronto il vostro Moscow mule alla melagrana, non vi resta che sorseggiarlo ben fresco .
+
+## Descrizione
+Il risultato finale della ricetta Moscow mule alla melagrana sarà una bevanda rinfrescante e dal sapore unico, con il gusto dolce e leggermente acidulo della melagrana, il pizzico piccante dello zenzero e il tocco frizzante della ginger beer. Il colore rosso intenso della melagrana renderà la bevanda molto accattivante visivamente.
+
+Questa bevanda è adatta per occasioni festive e per aperitivi con amici o familiari, grazie al suo sapore originale e alla sua presentazione elegante.
+
+La Moscow mule alla melagrana è adatta alle diete vegetariane e può essere facilmente adattata alle diete senza glutine, sostituendo ad esempio lo zucchero con un dolcificante senza glutine. Tuttavia, è una bevanda alcolica e va consumata con moderazione.
+
+Le persone con intolleranze al glutine possono consumare questa bevanda sostituendo lo zucchero con uno senza glutine. Le persone con intolleranza all'alcol possono optare per una versione analcolica della Moscow mule alla melagrana, sostituendo la vodka con acqua tonica o succo di melagrana.

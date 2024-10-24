@@ -1,0 +1,31 @@
+# Gnocchi gratinati ai funghi
+Categoria: Primi piatti
+
+## Ingredienti
+- Patate: 500 g
+- Farina 00: 175 g
+- Sale fino: 8 g
+- Funghi orecchioni o ostrica (Pleurotus): (già puliti) 300 g
+- Funghi champignon: 300 g
+- Valtellina Casera: stagionato 150 g
+- Prosciutto crudo: fetta intera 100 g
+- Grana Padano DOP: da grattugiare 30 g
+- Aglio: 1 spicchio
+- Peperoncino fresco: 1
+- Rosmarino: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Burro: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare gli gnocchi gratinati ai funghi, per prima cosa lessate le patate per gli gnocchi: mettete le patate in una pentola, coprite con acqua fredda, portate a bollore e cuocete per circa - minuti, a seconda della loro dimensione . Nel frattempo preparate gli ingredienti per il condimento: pulite i funghi e tagliate i pleurotus a pezzi irregolari , poi tagliate gli champignon a fette dello spessore di circa  mm .Riducete a cubetti la fetta di prosciutto crudo . In una padella capiente versate un filo d’olio e soffriggete lo spicchio d’aglio con il rosmarino per - minuti, poi aggiungete il prosciutto  e il peperoncino tagliato a metà  e alzate la fiamma per - minuti.A questo punto versate i funghi , salate , pepate e cuocete a fuoco dolce per circa  minuti. Trascorso questo tempo, rimuovete l’aglio e il peperoncino  e tenete da parte.Quando le patate saranno cotte, schiacciatele ancora calde su una spianatoia utilizzando uno schiacciapatate , poi aggiungete la farina  e il sale .Impastate con le mani  fino ad ottenere un composto morbido ma compatto . Prelevate una porzione di impasto per volta e formate dei filoncini dello spessore di circa  cm .Tagliate i filoncini a tocchetti con l’aiuto di un tarocco  e trascinate ciascuno su un rigagnocchi o sui rebbi di una forchetta, premendo leggermente con il pollice . Sistemate gli gnocchi ottenuti su un canovaccio infarinato e mettete sul fuoco una pentola con abbondante acqua da salare a bollore. Nel frattempo tagliate il formaggio a cubetti .Tuffate gli gnocchi nell’acqua bollente . Non appena verranno a galla, scolate gli gnocchi e versateli nella padella con il condimento , poi saltate a fuoco vivace per qualche secondo, mescolando bene il tutto. Ora prendete una pirofila e ungete la base con un filo d’olio .Versate all’interno metà degli gnocchi conditi  e metà del formaggio a cubetti , poi unite il resto degli gnocchi .Terminate con il formaggio a cubetti rimasto, aggiungete qualche tocchetto di burro in superficie  e spolverizzate con il Grana grattugiato. Insaporite con una macinata di pepe  e cuocete in forno ventilato preriscaldato a ° per  minuti, poi accendete il grill e gratinate per  minuti. I vostri gnocchi gratinati ai funghi sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale della ricetta "Gnocchi gratinati ai funghi" sarà un piatto di gnocchi fatti in casa, arricchiti con una golosa gratinatura di funghi, formaggio e prosciutto crudo.
+
+Per quali occasioni è adatto: Questo piatto è perfetto per una cena speciale in famiglia o con gli amici, ma può essere servito anche durante una cena formale o come piatto principale per un pranzo autunnale.
+
+Per quali diete o regime alimentare sono adatte: Questa ricetta è adatta a una dieta onnivora e può essere facilmente adattata anche per vegetariani sostituendo il prosciutto con verdure grigliate. È consigliabile per chi segue una dieta ricca di carboidrati e proteine.
+
+Persone con intolleranze: Le persone con intolleranza al lattosio possono optare per formaggi senza lattosio o evitare completamente il formaggio dalla ricetta. Per chi è intollerante al glutine, è possibile utilizzare farina senza glutine per preparare gli gnocchi. Chi è intollerante al nichel dovrebbe evitare funghi e prosciutto crudo.

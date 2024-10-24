@@ -1,0 +1,20 @@
+# Pannocchia al cartoccio
+Categoria: Contorni
+
+## Ingredienti
+- Pannocchia di mais: 530 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Sale grosso: q.b.
+
+## Preparazione
+Per realizzare la pannocchia al cartoccio per prima cosa rimuovete la parte finale , quindi sfogliatela avendo cura di tenere da parte le foglie più interne ). Tagliate via anche la barbetta che presenta all’interno .Spuntate la base del tutolo, ovvero la parte interna a cui sono attaccati i semi , tenete da parte le pannocchie e lavate le foglie che avete tenuto da parte sotto il getto dell’acqua corrente , quindi asciugatele con un panno. Ora prendete un foglio di carta di alluminio e al centro posizionate una foglia, adagiate sopra la pannocchia, salate ,pepate e avvolgetela con altre foglie  in modo da coprire il tutolo interamente.Ora avvolgete anche il foglio di carta di alluminio intorno alla pannocchia  sigillando bene le due estremità .Prendete una teglia da forno, cospargete il fondo con uno strato di sale grosso quindi adagiate le pannocchie al cartoccio  e cuocete in forno statico preriscaldato a ° per  minuti. Una volta cotte, estraete le pannocchie, lasciatele intiepidire prima di servirle .
+
+## Descrizione
+Il risultato finale della ricetta "Pannocchia al cartoccio" sarà una pannocchia di mais cotta al cartoccio, aromatizzata con sale e pepe, dal sapore irresistibile e dalla consistenza morbida e succulenta.
+
+Questa ricetta è adatta per occasioni come grigliate all'aperto, picnic, cene informali o come contorno per piatti di carne alla griglia.
+
+Le pannocchie al cartoccio sono adatte a una dieta sana ed equilibrata, in quanto sono ricche di fibre e povere di grassi. Possono essere consumate anche in regimi alimentari vegetariani.
+
+Le persone con intolleranze alimentari possono mangiarle se non sono intolleranti al mais. Le persone con allergie al mais dovrebbero evitare questa ricetta.

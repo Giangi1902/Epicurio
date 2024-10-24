@@ -1,0 +1,26 @@
+# Cuccia al cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Grano cotto: 375 g
+- Cioccolato fondente: 150 g
+- Latte intero: 500 g
+- Cacao amaro in polvere: 150 g
+- Zucca candita: 75 g
+- Amido di mais (maizena): 40 g
+- Zucchero: 100 g
+- Cannella in polvere: 1 cucchiaino
+- Cioccolato fondente: q.b.
+- Granella di pistacchi: q.b.
+
+## Preparazione
+Per realizzare la cuccia al cioccolato, per prima cosa sciacquate sotto l’acqua corrente tiepida il grano per sgranarlo , quindi lasciatelo scolare in un colino avendo cura di porre sotto una ciotola per raccogliere l’acqua in eccesso . Tritate con il coltello il cioccolato .Riducete a cubetti la zucca candita  e tenetela da parte. In un tegame setacciate l’amido di mais  e il cacao amaro in polvere .Aggiungete anche lo zucchero  e il latte . Ponete sul fuoco il tegame e scaldate a fuoco medio mescolando con la frusta fino a far addensare la crema. A questo punto aromatizzate con la cannella in polvere, mescolate ancora e spegnete il fuoco .Aggiungete infine il grano scolato , il cioccolato tritato (tenetene da parte una piccola porzione per decorare la cuccia)  e la zucca candita ,e mescolate per amalgamare il composto . Lasciate raffreddare, quindi coprite la cuccia con pellicola alimentare a contatto . Potete servire la cuccia tiepida oppure porla a rassodare in frigorifero per una notte. Servite la vostra cuccia al cioccolato guarnendola con pistacchi tritati e cioccolato tritato a piacere .
+
+## Descrizione
+Il risultato finale della cuccia al cioccolato sarà un dolce cremoso al cioccolato, arricchito dalla presenza del grano cotto e della zucca candita, con una piacevole nota di cannella.
+
+Occasioni: La cuccia al cioccolato è perfetta da servire come dessert ad una cena speciale o come dolce da colazione o merenda.
+
+Adatta per: Adatta per chi non segue una dieta particolarmente restrittiva, ma può essere adatta anche per chi segue una dieta vegetariana.
+
+Intolleranze: Le persone con intolleranza al lattosio e al glutine dovrebbero evitare questo dolce, a meno che non vengano utilizzati ingredienti alternativi senza lattosio e senza glutine.

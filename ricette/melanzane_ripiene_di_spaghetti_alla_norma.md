@@ -1,0 +1,24 @@
+# Melanzane ripiene di spaghetti alla norma
+Categoria: Primi piatti
+
+## Ingredienti
+- Spaghetti: 320 g
+- Melanzane tonde: 4
+- Pomodori pelati: 500 g
+- Ricotta salata: 200 g
+- Aglio: 2 spicchi
+- Basilico: 12 foglie
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare le melanzane ripiene di spaghetti alla norma per prima cosa lavate le melanzane, eliminate il picciolo con le foglie e tagliate la parte superiore delle melanzane . Scavatele delicatamente con uno spelucchino e tenete da parte la polpa , che bagnerete con un goccio di limone o di aceto per non farla annerire prima di utilzzarla. Pareggiate anche il fondo delle melanzane in modo che stiano dritte in piedi e salatele .Ponete le melanzane sul cestello di una vaporiera . Se non disponete di una vaporiera, potete utilizzare uno scolapasta in acciaio. In alternativa, cuocete le melanzane al cartoccio con carta alluminio, in forno statico a ° per - minuti, controllando che non si sfaldino. Coprite con il coperchio la vaporiera  e cuocetele per circa  minuti o fino a quando non risulteranno morbide ,rigirandole con delicatezza un paio di volte . Tagliate ora la polpa della melanzana a pezzetti  e cuocetela in abbondante olio d’oliva per - minuti , fino a che sarà tutto morbido e dorato.Scolate le melanzane fritte su un foglio di carta assorbente  e tenetele da parte. In un’altra padella fate imbiondire gli spicchi d’aglio interi con un filo d’olio  aggiungete i pomodori pelati  e fate cuocere finchè si ridurranno in una polpa.Dopodichè, ponete la polpa nel passaverdure  in modo da ottenere una salsa liscia . Rimettete la salsa ottenuta sul fuoco . In alternativa potete usare la passata di pomodoro e un cucchiaio di triplo concentrato di pomodoro diluito in acqua calda.aggiungete le foglie di basilico e le melanzane  che avete precedentemente cotto e tenuto da parte. Cuocete ora gli spaghetti in abbondante acqua salata , una volta cotti scolateli e saltateli nella padella con il sugo ,insaporite infine con la ricotta salata grattugiata . Farcite le melanzane con gli spaghetti . Grattugiate un po’ di ricotta salata anche sulle melanzane e guarnite con una fogliolina di basilico . Le vostre melanzane ripiene di spaghetti alla norma sono pronte per essere portate in tavola!
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto unico e gustoso, con spaghetti conditi con una salsa di pomodoro e basilico, avvolti all'interno di melanzane tonde ripiene e gratinate con ricotta salata. Il contrasto tra la consistenza cremosa della ricotta e la croccantezza delle melanzane renderà il piatto irresistibile.
+
+Questo piatto è adatto per una cena speciale in famiglia o con gli amici, ma anche per un pranzo sfizioso durante la settimana. Le melanzane ripiene di spaghetti alla norma sono ideali per chi ama sperimentare nuove combinazioni di sapori e piatti originali.
+
+Questa ricetta è adatta a una dieta equilibrata e a chi segue un regime alimentare vegetariano. Tuttavia, è importante tenere conto del contenuto di carboidrati degli spaghetti e del formaggio, quindi è consigliabile consumare il piatto con moderazione se si è a dieta.
+
+Le persone con intolleranze al lattosio o allattamento sono invitate a sostituire la ricotta salata con un formaggio a base vegetale. Le persone con intolleranze al glutine possono utilizzare spaghetti senza glutine per preparare la ricetta senza problemi.

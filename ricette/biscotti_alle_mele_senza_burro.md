@@ -1,0 +1,23 @@
+# Biscotti alle mele senza burro
+Categoria: Dolci
+
+## Ingredienti
+- Mele renette: 260 g
+- Farina 00: 160 g
+- Olio extravergine d'oliva: 50 g
+- Lievito in polvere per dolci: 5 g
+- Uova: ( circa 1 medio) 55 g
+- Zucchero di canna: 30 g
+- Miele di acacia: 15 g
+- Scorza di limone: ½
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per realizzare i biscotti alle mele senza burro per prima cosa lavate le mele, quindi eliminate il torsolo  e tagliatene  g a cubetti di circa  cm . Tagliate a pezzi più grossolani i restanti  g di mela e ponete questi ultimi nel bicchiere alto di un mixer, versate l'olio .Aggiungete il miele  e frullate tutto fino a ottenere un composto omogeneo . In una ciotola versate la farina, il lievito , lo zucchero  e l'uovo . Mescolate con un cucchiaio, quindi incorporate anche la mela frullata . Aromatizzate l'impasto con la scorza di limone  e aggiunget i cubetti di mela , mescolate ancora per amalgamare. Rivestite una leccarda con carta forno e adagiate dei mucchietti di impasto grandi quanto una noce aiutandovi con un cucchiaio .Cospargete abbondantemente la superficie con lo zucchero a velo   e cuocete in forno statico a ° per  minuti. Sfornate i vostri biscotti alle mele senza burro e lasciateli raffreddare su un gratella prima di gustarli .
+
+## Descrizione
+Il risultato finale sarà croccante e profumato biscotti alle mele senza burro, dal cuore morbido e irresistibile. Saranno leggermente dolci, con un delicato sentore di limone che esalterà il gusto delle mele.
+
+Questi biscotti sono adatti per la colazione o come spuntino per spezzare la fame durante la giornata. Sono perfetti da gustare in compagnia di una tazza di tè o caffè.
+
+Questi biscotti sono adatti per chi segue una dieta vegetariana e può essere adattato anche per chi segue una dieta vegana sostituendo le uova con un sostituto vegetale. Sono inoltre adatti per chi è intollerante al lattosio o al burro, in quanto non contengono questi ingredienti. Tuttavia, per le persone con intolleranze al glutine, sarà necessario utilizzare farina senza glutine per preparare i biscotti.

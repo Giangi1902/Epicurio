@@ -1,0 +1,26 @@
+# Pizzette rosse
+Categoria: Lievitati
+
+## Ingredienti
+- Acqua: a temperatura ambiente 250 g
+- Farina 00: 500 g
+- Lievito di birra fresco: 10 g
+- Zucchero: 12 g
+- Olio extravergine d'oliva: 60 g
+- Sale fino: 15 g
+- Passata di pomodoro: 350 g
+- Mozzarella: 250 g
+- Sale fino: 1 cucchiaino
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: q.b.
+- Origano: q.b.
+
+## Preparazione
+Per preparare le pizzette rosse come prima cosa versate la farina in una ciotola, insieme al lievito di birra fresco sbriciolato . Aggiungete poi l'acqua a temperatura ambiente  e mescolate con un mestolo di legno .Unite poi lo zucchero , il sale  e versate anche l'olio .Mescolate ancora per incorporare gli ingredienti , quindi trasferite su un piano di lavoro  e impastate energicamente  fino a quando non risulterà liscio.Formate una sfera con l'impasto lavorato , oliate una ciotola ampia e trasferite l'impasto, coprite con pellicola trasparente  e fate lievitare per circa  ore a temperatura ambiente, lontano da correnti d'aria o in forno spento con luce accesa. Terminate le ore di lievitazione ecco come risulterà il vostro impasto : avrà triplicato il suo volume.Nel frattempo occupatevi del condimento delle pizzette: in una ciotola versate il pomodoro, condite con sale , pepe, origano e olio . Mescolate tutto con un cucchiaio  e tenete da parte fino a quando dovrete utilizzarlo.Trasferire su una spianatoia l’impasto lievitato e spolverizzate con pochissima farina ; stendete con il matterello fino ad ottenere un rettangolo di circa  mm di spessore (-).Oliate accuratamente la leccarda dove farete cuocere le pizzette. Coppate l’impasto con un coppapasta da , cm di diametro . Prelevate l'impasto in esubero  date forma sferica e fatelo riposare coperto per circa  minuti . Potete quindi impastare nuovamente l'esubero e ricavare altre pizzette: otterrete in tutto  pizzette! Prelevatele una ad una con un tarocco  e iniziate a posizionarle sulla teglia oleata .Una volta sistemate , formate una conchetta al centro , lasciando circa , cm di bordo. Tagliate la mozzarella a dadini e condite al centro con il pomodoro  e la mozzarella a dadini ; irrorate con un filo d’olio e un pizzico di origano a piacere. Infornate le pizzette in forno statico preriscaldato a °: i primi  minuti cuocete posizionando la teglia alla base del forno; mentre i restanti  minuti sul ripiano più alto. Una volta cotte , sfornate le vostre pizzette rosse e servitele calde!
+
+## Descrizione
+Il risultato finale delle pizzette rosse sarà una serie di mini pizze rosse, croccanti all'esterno e morbide all'interno, con un topping di passata di pomodoro, mozzarella filante, olio extravergine d'oliva, origano, sale e pepe nero.
+
+Le pizzette rosse sono adatte per occasioni informali come aperitivi, feste, picnic o cene tra amici. Possono essere servite come antipasto o finger food.
+
+Le pizzette rosse sono adatte per una dieta onnivora. In caso di intolleranze, è importanti verificare la presenza di intolleranze al lattosio (per la mozzarella), al glutine (per la farina) e al lievito (nel lievito di birra fresco). Possono essere adatte anche per le persone vegetariane, purché la mozzarella utilizzata sia vegetariana.

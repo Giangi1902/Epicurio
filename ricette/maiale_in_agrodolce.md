@@ -1,0 +1,35 @@
+# Maiale in agrodolce
+Categoria: Secondi piatti
+
+## Ingredienti
+- Maiale: lombo 250 g
+- Peperoni verdi: 120 g
+- Pomodori ramati: 120 g
+- Ananas sciroppato: 4 fette
+- Olio di semi di girasole: 1 cucchiaio
+- Vino di riso: 1 cucchiaio
+- Uova: ½
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Acqua: 100 g
+- Farina 00: 100 g
+- Fecola di patate: 20 g
+- Lievito istantaneo per preparazioni salate: 8 g
+- Concentrato di pomodoro: 130 g
+- Zucchero: 125 g
+- Aceto di vino bianco: 125 g
+- Acqua: 500 g
+- Fecola di patate: 35 g
+- Acqua: 4 cucchiai
+
+## Preparazione
+Per realizzare il maiale in agrodolce per prima cosa tagliate la carne a cubetti di circa , cm . Sciacquatela sotto l’acqua corrente  e trasferitela in una ciotola, poi condite con sale  e pepe.Aggiungete il vino di riso  e mezzo uovo sbattuto , mescolate bene e lasciate marinare mentre proseguite con la ricetta .Passate alla preparazione della pastella: in una ciotola unite la farina con la fecola  e il lievito , poi versate gradualmente l’acqua mentre mescolate con le bacchette .Continuate a mescolare fino ad ottenere una consistenza omogenea , poi lasciate riposare per  minuti. Nel frattempo mondate e tagliate a cubetti della stessa dimensione sia il peperone verde  che il pomodoro .Fate la stessa cosa anche con le fette di ananas sciroppato . Trascorso il tempo di riposo, versate la pastella nella ciotola con la carne marinata  e mescolate bene così da ricoprire i cubetti in modo uniforme .Scaldate il wok per circa un minuto prima di aggiungere l’olio di semi per portarlo alla temperatura di °. Friggete i cubetti di carne pastellati per circa - minuti, muovendoli delicatamente per evitare che si attacchino fra loro . Una volta dorati , scolate e trasferite su carta assorbente .A questo punto preparate la salsa agrodolce: portate a bollore l’acqua in un wok o pentolino, poi aggiungete lo zucchero , il concentrato di pomodoro  e l’aceto . Mescolate e riportate a bollore.Nel frattempo versate la fecola e l’acqua in una ciotolina a parte , mescolate bene e versate il composto ottenuto nella salsa, poco per volta . Continuate a mescolare con la frusta per qualche minuto .Riprendete il wok in cui avete cotto il maiale, lavato e asciugato, e scaldate un cucchiaio di olio di semi. Aggiungete il peperone  e il pomodoro  e fateli saltare per un minuto, poi unite anche l’ananas .Versate la salsa agrodolce  e mescolate bene , poi aggiungete i cubetti di carne fritti .Saltate il tutto per circa  secondi  e infine condite con un cucchiaio di olio di semi . Il vostro maiale in agrodolce è pronto per essere servito !
+
+## Descrizione
+Il risultato finale della ricetta "Maiale in agrodolce" sarà un piatto dal sapore agrodolce, grazie alla combinazione di maiale, peperoni, pomodori, ananas e una salsa a base di zucchero, aceto e concentrato di pomodoro. Il maiale sarà tenero e gustoso, arricchito dal contrasto di sapori tra dolce e acido.
+
+Questo piatto è adatto per un pranzo o una cena speciale, magari da servire in occasione di un incontro con amici o parenti. Può essere servito con riso bianco o noodles per accompagnare la salsa agrodolce.
+
+La ricetta del maiale in agrodolce può essere inclusa in una dieta equilibrata, se consumata con moderazione e accompagnata da contorni leggeri. È adatta per chi segue una dieta omnivora, ma può essere adattata anche per chi segue una dieta senza glutine sostituendo la farina con una senza glutine. 
+
+Le persone con intolleranza al lattosio devono fare attenzione all'utilizzo delle uova e della fecola di patate nella ricetta. Inoltre, chi soffre di intolleranza al glutine dovrebbe optare per una farina senza glutine e verificare che gli altri ingredienti non contengano glutine.

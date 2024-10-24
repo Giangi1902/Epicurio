@@ -1,0 +1,26 @@
+# Ciambelline cocco e frutti rossi
+Categoria: Dolci
+
+## Ingredienti
+- Farina 0: 250 g
+- Zucchero: 125 g
+- Latte di cocco: 100 g
+- Olio di cocco: 90 g
+- Uova: (circa 2 medie) 120 g
+- Lamponi: 15 g
+- Mirtilli: 15 g
+- Lievito in polvere per dolci: 1 cucchiaino
+- Sale fino: ½ cucchiaino
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare le ciambelline cocco e frutti rossi, per prima cosa mettete l’olio di cocco in un pentolino  e scioglietelo a fiamma bassa giusto il tempo di farlo diventare liquido . Nel frattempo setacciate la farina e il lievito in una ciotola a parte .Ora versate lo zucchero nella ciotola di una planetaria munita di gancio a foglia, aggiungete le uova  e lavorate a bassa velocità fino ad ottenere un composto chiaro e spumoso. Poi spegnete la planetaria unite l’olio di cocco , lavorate ancora e, dopo un paio di minuti, aggiungete anche il latte di cocco .Quando il composto sarà diventato omogeneo, spegnete di nuovo la macchina, versate la farina precedentemente setacciata con il lievito  e continuate a lavorare fino a che le polveri non saranno ben amalgamate. Infine aggiungete il sale , i lamponi e i mirtilli  e mescolate ancora.Dopo aver incorporato i frutti rossi nell’impasto , trasferitelo in una sacca da pasticciere  e occupatevi di imburrare  e infarinare  stampini a forma di ciambella del diametro di  cm e  cm di altezza.Riempite gli stampini con l’impasto per metà della loro altezza , poi cuocete in forno statico preriscaldato a ° per circa  minuti, posizionandoli sul ripiano medio. Una volta cotte, sfornate le ciambelline  e lasciatele raffreddare, poi rimuovetele dallo stampo. Servite le vostre deliziose ciambelline cocco e frutti rossi spolverizzate con abbondante zucchero a velo !
+
+## Descrizione
+Il risultato finale della ricetta "Ciambelline cocco e frutti rossi" sarà delle deliziose ciambelline soffici e profumate, arricchite con il gusto esotico del cocco e la freschezza dei frutti rossi. Saranno leggermente croccanti all'esterno e morbide all'interno, perfette da gustare in ogni momento della giornata.
+
+Occasioni adatte: Queste ciambelline sono adatte per la colazione, la merenda o come dolce fine pasto da servire con del tè o del caffè. Sono perfette da portare in ufficio o da preparare per una festa con gli amici.
+
+Diete/Regimi alimentari adatti: Questa ricetta è adatta per una dieta normale, ma può essere facilmente adattata per essere senza lattosio sostituendo il latte di cocco con latte vegetale e per essere senza glutine utilizzando una farina senza glutine. È inoltre adatta per i vegetariani.
+
+Intolleranze: Le ciambelline cocco e frutti rossi potrebbero contenere lattosio se non viene utilizzato latte di cocco senza lattosio. Pertanto, le persone con intolleranza al lattosio dovrebbero fare attenzione o utilizzare latte vegetale. Possono essere adatte anche per le persone con intolleranza al glutine se viene utilizzata una farina senza glutine.

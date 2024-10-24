@@ -1,0 +1,30 @@
+# Abbacchio alla cacciatora
+Categoria: None
+
+## Ingredienti
+- Agnello: 1 kg
+- Farina 00: 100 g
+- Cipolle bianche: 1
+- Sedano: 1 costa
+- Carote: 1
+- Aglio: 1 spicchio
+- Rosmarino: 1 rametto
+- Salvia: q.b.
+- Vino rosso: 100 ml
+- Aceto di vino rosso: 2 cucchiai
+- Concentrato di pomodoro: 20 g
+- Olio extravergine d'oliva: 40 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Iniziate la preparazione pelando la carota, spuntatela e tagliatela prima a fette e poi a cubetti di  cm circa . Lavate la costa di sedano e riducetela a cubetti della stessa grandezza delle carote . Sbucciate la cipolla, quindi affettatela e tritatela grossolanamente . Tritate l’aglio finemente al coltello o con l’apposito attrezzo spremiaglio . Versate l'olio in un tegame, lasciatelo scaldare , quindi aggiungete il trito per il soffritto . Lasciate rosolare per un paio di minuti, a fuoco medio, mescolando spesso. Infarinate leggermente i pezzi di agnello , scuoteteli per togliere l'eccesso di farina e quando le verdure saranno ben stufate  aggiungete anche l’agnello nel tegame . Lasciate rosolare e quando i pezzi di agnello saranno ben dorati girateli . Salate e pepate, quindi aggiungete il rosmarino e la salvia . Sfumate col vino (.  Aggiungete anche l’aceto  e il concentrato di pomodoro stemperato con un mestolo di acqua calda e versatelo sull’agnello . Coprite con un coperchio  e lasciate cuocere per circa  minuti. Aggiungete se serve poca acqua calda . Infine eliminate le erbe aromatiche , controllate il punto di cottura e togliete dal fuoco. Lasciate riposare l’abbacchio alla cacciatora per qualche minuto prima di servirlo .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto saporito e delicato, grazie alla carne tenera e agli aromi intensi delle erbe e delle verdure utilizzate nella preparazione.
+
+Questo piatto è adatto per occasioni speciali come pranzi e cene eleganti o anche come piatto principale per una cena in famiglia.
+
+Questa ricetta è adatta per una dieta bilanciata che includa carne magra e verdure. È consigliata per chi segue una dieta mediterranea.
+
+Le persone con intolleranza al glutine devono prestare attenzione all'uso della farina nell'impanatura della carne, mentre chi soffre di intolleranza al lattosio deve evitare l'aggiunta di formaggi o panna nella preparazione. Chi è intollerante al pomodoro può eliminare il concentrato di pomodoro dalla ricetta.

@@ -1,0 +1,34 @@
+# Crumb cake al cioccolato e ciliegie
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato fondente: 75 g
+- Ciliegie: da denocciolare 600 g
+- Farina 00: 135 g
+- Burro: a temperatura ambiente 135 g
+- Zucchero: 125 g
+- Zucchero di canna: 50 g
+- Farina di mandorle: 35 g
+- Uova: medie 3
+- Panna fresca liquida: 115 ml
+- Cacao amaro in polvere: 30 g
+- Lievito in polvere per dolci: 10 g
+- Mandorle pelate: 60 g
+- Cacao amaro in polvere: 25 g
+- Farina di mandorle: 75 g
+- Farina 00: 50 g
+- Zucchero di canna: 75 g
+- Sale fino: 1 pizzico
+- Burro: freddo di frigo 75 g
+
+## Preparazione
+Per preparare la crumb cake al cioccolato e ciliegie, iniziate a denocciolare le ciliegie . Poi riducete le mandorle a filetti e fatele tostare in padella alcuni istanti a fuoco vivace  (basteranno pochi secondi per non farle bruciare). Quindi nella ciotola di una planetaria (potete lavorare l'impasto anche con uno sbattitore elettrico) versate il burro ammorbidito e lo zucchero di canna ;Unite anche la farina di mandorle  e lavorate il composto a crema; aggiungete poi le uova una alla volta aspettando che la prima si sia amalgamata prima di proseguire con un'altra . Quindi unite anche lo zucchero semolato. Mentre continuate a far andare la planetaria, in una ciotolina raccogliete il cioccolato fondente fuso a bagnomaria (o al microonde); una volta intiepidito, unite la panna liquida precedentemente scaldata e mescolate il composto .Aggiungete la panna e cioccolato nella planetaria  e continuate a lavorare l'impasto; poi setacciate la farina, il lievito e il cacao amaro  e unite le polveri al composto .Lavorate il tutto per ottenere una consistenza omogenea e densa , poi versate l'impasto in uno stampo x cm piuttosto profondo foderato con carta da forno precedentemente inumidita in modo da stenderla nello stampo più facilmente. Versate l'impasto poi distribuite le ciliegie in modo uniforme e i filetti di mandorle (-).A questo punto preparate il crumble; se utilizzate il mixer potete versare tutti gli ingredienti insieme: il cacao amaro, la farina di mandorle e quella di grano, lo zucchero di canna  e il burro freddo di frigo tagliato a pezzetti  e un pizzico di sale abbondante (se non gradite la nota spiccata di salato potete diminuire la dose di sale). Quindi frullate tutto ; in questo modo il crumble avrà una grana più fine.Se preferite un crumble dalla grana più grossa, potete lavorare tutti gli ingredienti velocemente con le mani in una ciotolina ; distribuite il crumble su tutta la superficie della torta  e infornate in forno statico preriscaldato a ° per  ora (° per  minuti se ventilato). Una volta cotta, sfornate la crumb cake al cioccolato e ciliegie e lasciatela intiepidire . Potete tagliarla a cubotti epr servirla più facilmente dato che la consistenza risulterà molto morbida.
+
+## Descrizione
+Il risultato finale della ricetta sarà un delizioso crumb cake al cioccolato e ciliegie, con strati di impasto soffice e umido arricchiti da golose briciole croccanti sulla superficie. La combinazione di cioccolato fondente e dolci ciliegie crea un contrasto perfetto tra dolce e leggermente aspro, che renderà questo dolce irresistibile per chiunque lo assaggi.
+
+Questo crumb cake al cioccolato e ciliegie è perfetto per essere gustato durante una merenda pomeridiana, accompagnato da una tazza di tè o caffè. Può essere servito anche come dessert dopo un pasto leggero o come dolce da condividere con amici e familiari durante un'occasione speciale.
+
+La ricetta non è adatta per diete ipocaloriche o con restrizioni di zuccheri, dato il suo contenuto calorico e la presenza di ingredienti zuccherati come il cioccolato fondente e lo zucchero. Tuttavia, può essere gustata occasionalmente o in porzioni moderate all'interno di una dieta equilibrata.
+
+Le persone con intolleranza al lattosio possono trovare questa ricetta problematica a causa del burro e della panna utilizzati. Si consiglia di sostituire il burro con un'alternativa vegana o un olio vegetale e la panna con latte di cocco o di mandorle. Per le persone intolleranti al glutine, è importante utilizzare farine certificate senza glutine al posto della farina 00.

@@ -1,0 +1,27 @@
+# Pacchetti regalo con Pavesini
+Categoria: Dolci
+
+## Ingredienti
+- Mandorle pelate: 85 g
+- Zucchero: 40 g
+- Panna fresca liquida: 220 g
+- Zucchero: 65 g
+- Tuorli: 52 g
+- Acqua: 25 g
+- Mandorle pelate: 60 g
+- Burro: fuso 30 g
+- Pavesini: 10
+- Pavesini: al cacao 10
+- Pasta di zucchero: bianca 100 g
+
+## Preparazione
+Per preparare Pacchetti regalo con Pavesini mettete in un pentolino i  gr di zucchero e le mandorle andorle pelate  e continuate a mescolare con un cucchiaio di legno fino a farli prima sabbiare e poi caramellare .Versateli sul un foglio di carta forno o su un silpat e lasciatele raffreddare a temperatura ambiente . Ora scaldate in un pentolino l’acqua  e lo zucchero  per la pate à bombe. Intanto iniziate a montare con le fruste elettriche i tuorli  e quando lo sciroppo di acqua e zucchero avrà raggiunto i  gradi, versatelo a filo nei tuorli continuando sempre a montare  fino a che non sarà completamente raffreddata. A questo punto le mandorle si saranno completamente raffreddate, mettetele in un mixer da cucina e frullatele bene .Frullate fino a che non saranno completamente sbriciolate . Montate la panna   con le fruste elettriche e tenetela da parte . Unite in un'unica ciotola la base pate à bombe e le mandorle tritate  con un leccapentole. Poi unite in tre volte la panna montata  e lasciate il composto uniforme in frigorifero . Frullate le mandorle per la base   e mettete a sciogliere il burro, in microonde o in un pentolino a fiamma bassa. Mescolateli insieme e utilizzateli per fare la base, pressandoli con un chucchiaino in due stampi quadrati da x cm che avrete posizionato su una placchetta con carta forno . Lasciate indurire la base per  minuti in frigorifero. Riprendete gli stampi ,  versate il composto di mandorle fino al bordo degli stampi e metteteli in freezer per almeno  ore . Sformate il semifreddo aiutandovi con la lama di un coltello . Una volta sfilato il coppapasta ,  attaccate orizzontalmente  pavesini per lato  e due in superficie, alternando i colori . Stende con il mattarello la pasta di zucchero a uno spessore di  mm , ritagliate delle strisce di  cm di lunghezza e , cm di larghezza  per avvolgere il pacchetto come si fa con un nastro .Ritagliate quindi una striscia più larga , piegatela e sigillatela . pressate il centro per dare forma al fiocco .  Avvolgete il fiocco con una striscia di pasta , con l'avanzo realizzate la parte finale del nastro  con le estremità intagliate. Ora attaccate le due estremità e il fiocco e i Pacchetti regalo con Pavesini saranno pronti .
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi pacchetti regalo con Pavesini, composti da uno strato di crema alle mandorle e panna, ricoperto da un guscio di pasta di zucchero bianca e decorato con pezzetti di Pavesini.
+
+Questi dolci sono perfetti per occasioni speciali come compleanni, feste, o per regalare a una persona cara.
+
+Sono adatti a persone che seguono una dieta bilanciata, essendo moderatamente calorici e ricchi di mandorle che apportano sostanze nutrienti importanti.
+
+Le persone con intolleranze devono fare attenzione poiché la ricetta contiene latticini (panna), uova (tuorli), glutine (Pavesini) e può presentare tracce di frutta a guscio (mandorle). È quindi sconsigliato per persone con intolleranze alimentari a lattosio, uova, glutine o frutta a guscio.

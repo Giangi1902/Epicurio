@@ -1,0 +1,24 @@
+# Ragnetti di Halloween
+Categoria: Dolci
+
+## Ingredienti
+- Confettura di albicocche: 40 g
+- Torta al cioccolato: 250 g
+- Cioccolato fondente: 150 g
+- Burro: 30 g
+- Codette al cioccolato: q.b.
+- Panna fresca liquida: (facoltativa) 30 g
+- Rotella di liquirizia: 6
+- Caramelle di zucchero colorate: argentate 40
+
+## Preparazione
+Per preparare i ragnetti di Halloween dovrete sbriciolare  gr di torta al cioccolato in una ciotola  e unite la marmellata di albicocche . Almagamate bene gli ingredienti per ottenere un composto compatto e modellabille .Prendete un cucchiaio di composto alla volta e formate tante palline, modellando l'impasto con le mani (-). Adagiate le palline su di un vassioio riscoperto con un foglio di carta da forno .Fate sciogliere il cioccolato fondente a bagnomaria  e unite il burro : la glassa dovrà risultare liquida, liscia e omogenea, se è troppo dura aggiungete  ml di panna. Tuffate una pallina alla volta in modo da ricoprirla interamente .Passate poi le palline nelle codette di cioccolato , facendole aderire bene su tutta la superficie e riponetele sul vassoio. Una volta che avrete compiuto questa operazione per tutti i cake pops passate alla decorazione: posizionate due palline di zucchero argentate su ogni pallina, in modo centrale e ravvicinato, a formare due occhietti . Lasciateli asciugare bene in un luogo fresco. Intanto preparate le zampette dei ragni ricavando  pezzetti lunghi circa - cm dalle rotelline di liquirizia .Con uno bastoncino per spiedini praticate  fori ( per lato) su ogni pallina , e in ognuno di essi infilateci l'estremita di un pezzetto di liquirizia che fungerà da zampetta . Ecco che, con un po' di pazienza, i ragnetti di Halloween  saranno pronti per divertire i vostri bambini nella notte delle streghe!
+
+## Descrizione
+Il risultato finale della ricetta "Ragnetti di Halloween" sarà rappresentato da dolci a forma di ragnetto realizzati con torta al cioccolato, ricoperti di cioccolato fondente e decorati con confettura di albicocche, codette al cioccolato, rotelle di liquirizia e caramelle colorate argentate. 
+
+Occasioni adatte: Questi dolci sono ideali da preparare per feste o eventi a tema Halloween, come buffet o feste per bambini.
+
+Dieta/Regime alimentare: Questa ricetta potrebbe essere adatta a persone che seguono una dieta moderata, quindi da consumare con moderazione. 
+
+Intolleranze alimentari: Le persone con intolleranze al lattosio dovrebbero evitare di consumare questo dolce, a meno di utilizzare alternative senza lattosio per il cioccolato fondente, la panna fresca e il burro. Le persone con intolleranze al glutine dovrebbero sostituire la torta al cioccolato con una versione senza glutine per renderla adatta al loro regime alimentare.

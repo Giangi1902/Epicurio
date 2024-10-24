@@ -1,0 +1,28 @@
+# Paccheri ai 3 pomodori
+Categoria: None
+
+## Ingredienti
+- Paccheri: di Gragnano 290 g
+- Pomodori San Marzano: pelati 350 g
+- Pomodori: del Piennolo del Vesuvio 350 g
+- Pomodorini datterini: 150 g
+- Mozzarella di bufala: (solo il latte) 40 g
+- Aglio: (in camicia) 1 spicchio
+- Amido di riso: 1 cucchiaino
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: 200 g
+- Scalogno: 1
+
+## Preparazione
+Per realizzare i paccheri ai  pomodori iniziate soffriggendo uno spicchio di aglio in camicia in una padella con un filo d’olio , poi aggiungete i pomodori San Marzano  e fate sobbollire per pochi minuti .Passate all’olio aromatizzato allo scalogno: mondate e tagliate lo scalogno in  parti , poi mettetelo in un pentolino insieme all'olio evo . Portate a bollore e lasciatelo soffriggere brevemente , poi togliete il pentolino dal fuoco e lasciate raffreddare.Nel frattempo dividete a metà i pomodorini del Piennolo  e adagiateli su una griglia ben calda con il lato della buccia rivolto verso il basso. Condite con un filo d’olio  e grigliate fino a quando la buccia si sarà annerita .Trasferite i pomodorini grigliati in una ciotola ed eliminate le parti più bruciate che darebbero un retrogusto amaro alla salsa . Aggiungete l’olio con lo scalogno , sale  e pepe.Mescolate e frullate il tutto con un mixer a immersione , poi filtrate il composto ottenuto attraverso un colino  per ottenere una consistenza liscia e omogenea .Infine versate i pomodorini datterini, che avrete precedentemente immerso in una ciotola con l'acqua, in una padella già calda senza olio . Cuocete a fiamma vivace per qualche minuto bucandoli con una forchetta in modo che appassiscano leggermente . Portate a bollore una pentola di acqua salata dove andrete a cuocere i paccheri .Intanto dividete una mozzarella di bufala a metà (dovrete prenderne  g) e spremetela in una ciotola per ricavarne il latte . Aggiungete l’amido di riso  e frullate con un mixer a immersione .A questo punto rimuovete l’aglio dal sugo di San Marzano  e aggiustate di sale. Aggiungete i paccheri scolati al dente  e bagnate con quasi tutto il latte di mozzarella .Saltate la pasta per amalgamarla al condimento , poi procedete con l’impiattamento: adagiate nei piatti i paccheri al sugo di San Marzano  e condite ciascuno con la salsa di pomodorini del Piennolo grigliati .Completate con il latte di mozzarella restante  e i datterini . I vostri paccheri ai  pomodori sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale sarà un piatto di paccheri conditi con una salsa a base di tre tipi di pomodori, mozzarella di bufala e aromatizzati con aglio e scalogno. I paccheri saranno cotti al dente e avvolti in una salsa cremosa e saporita.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia. 
+
+La ricetta è adatta per persone che seguono una dieta mediterranea e possono essere adatte anche per vegetariani.
+
+Le persone con intolleranze al lattosio o al glutine dovranno evitare di consumare questo piatto.

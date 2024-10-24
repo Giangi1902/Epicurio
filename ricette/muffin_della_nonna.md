@@ -1,0 +1,32 @@
+# Muffin della nonna
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero: 200 g
+- Farina 00: 400 g
+- Burro: (a temperatura ambiente) 190 g
+- Latte intero: 200 ml
+- Uova: medie 3
+- Baccello di vaniglia: 1
+- Pinoli: 50 g
+- Lievito in polvere per dolci: 16 g
+- Sale fino: 1 pizzico
+- Latte: 270 ml
+- Panna fresca liquida: 70 ml
+- Tuorli: 4
+- Amido di mais (maizena): 30 g
+- Zucchero: 100 g
+- Baccello di vaniglia: 1
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare i muffin della nonna ponete in una ciotola il burro a temperatura ambiente tagliato a tocchetti insieme allo zucchero , quindi mescolate con uno sbattitore elettrico per almeno  minuti; quando avrete ottenuto un composto cremoso, aggiungete le uova intere una alla volta , continuando con le fruste, e poi il latte a temperatura ambiente a filo .Aggiungete la farina setacciata insieme al lievito , il pizzico di sale e mescolate fino a quando la farina si sarà incorporata . Con un coltellino incidete la bacca di vaniglia, tagliatela nel senso della lunghezza, estrete i semi e aggiungeteli al composto .Mescolate bene  e poi mettete l'impasto che avete ottenuto in una sac-à-poche senza bocchetta . Ponete  pirottini di carta in uno stampo per muffin e versate circa  gr di impasto in ogni pirottino .Una volta terminato, con un cucchiaino cospargete la superficie dei muffin con i pinoli  e poi fate cuocere in forno statico preriscaldato a ° per  minuti (o ° per  minuti se in forno ventilato). Successivamente abbassate la temperatura a °, facendo cuocere per altri  minuti (o ° per  minuti se in forno ventilato). Intanto potete procedere alla preparazione della crema pasticcera: ponete sul fuoco un pentolino con il latte e la panna; quindi prendete la bacca di vaniglia, incidetela con un coltellino nel senso della lunghezza ed estraetene i semi, conservando la bacca; aggiungete i semi ed il baccello di vaniglia al latte e panna . Accendete il fuoco dolce e, quando il composto avrà sfiorato il bollore, spegnete lasciando la vaniglia in infusione per almeno  minuti. Separate gli albumi dai tuorli (con gli albumi avanzati potete preparare delle lingue di gatto o delle meringhe) e raccogliete questi ultimi un una ciotola capiente, aggiungendo lo zucchero .Sbattete i tuorli e lo zucchero con uno sbattitore elettrico oppure una frusta a mano per ottenere una crema omogenea e poi unite l'amido di mais setacciato , amalgamandolo bene al resto del composto . A questo punto togliete la bacca di vaniglia che avete lasciato in infusione nel latte e panna scaldati E unite il composto a base di uova al latte e alla panna . Accendete nuovamente il fuoco dolce e mescolate con una frusta continuamente per far addensare il composto : quando la crema sarà ben densa, versatela in una terrina bassa e ampia coprendola immediatamente con la pellicola trasparente a contatto in modo che non si crei la fastidiosa crosticina; quindi fatela raffreddare prima a temperatura ambiente e poi in frigorifero .Quando i muffin saranno cotti, sfornateli e fateli raffreddare. Quando si saranno raffreddati completamente , sformateli e passate alla farcitura. Per la farcitura potete procedere in due modi: con un coltello potete tagliare la parte superiore dei muffin, conservandola poichè servirà per richiuderli, in corrispondenza del pirottino di carta  e poi potete scavarli al loro interno con un piccolo coppapasta per creare un foro centrale senza arrivare al fondo  oppure scavare delicatamente con un coltello per eliminare la parte centrale.Con l'aiuto di una sac-à-poche senza bocchetta farcite con la crema pasticcera (ormai fredda) che avete preparato ; chiudete i muffin con la parte superiore che avete tenuto da parte e servite terminando con una spolverizzata di zucchero a velo a piecere . In alternativa potete evitare di tagliare i muffin ed eliminare direttamente l'interno, che andrete a conservare poichè vi servirà come decorazione, usando un coppapasta .Farcite con la crema pasticcera  e poi con un coltello tagliate a metà la parte interna dei muffin tenuta da parte per creare dei piccoli cerchi . Dunque collocate i cerchietti tagliati sulla farcitura e terminate con una spolverizzata di zucchero a velo a piacere; infine servite e gustate i muffin della nonna .
+
+## Descrizione
+Il risultato finale dei Muffin della nonna sarà morbidi e profumati, con una consistenza soffice e leggermente umida. Saranno arricchiti dal sapore della vaniglia e dei pinoli, con una leggera nota di dolcezza.
+
+Questi muffin sono adatti per occasioni informali come merende o colazioni, ma sono anche perfetti da portare come dessert in una cena tra amici o in ufficio.
+
+Questa ricetta non è adatta per diete ipocaloriche o restrittive, date le quantità di zucchero e burro presenti. Tuttavia, possono essere consumati occasionalmente all'interno di una dieta equilibrata.
+
+Le persone con intolleranze al lattosio possono trovare questa ricetta problematica a causa della presenza di latte intero e panna fresca liquida. Inoltre, chi soffre di allergie ai frutti a guscio dovrebbe evitare i pinoli presenti nella lista degli ingredienti.

@@ -1,0 +1,24 @@
+# Gnocchi al gorgonzola
+Categoria: Primi piatti
+
+## Ingredienti
+- Gorgonzola: piccante 150 gr
+- Farina: 300 g
+- Patate: farinose 1 kg
+- Uova: 1
+- Sale: q.b.
+- Salvia: 1 rametto
+- Burro: 100 g
+- Grana Padano DOP: (da grattugiare) 50 g
+
+## Preparazione
+Per preparare gli gnocchi al gorgonzola cominciate lessando le patate: in una pentola capiente sistemate le patate e coprite con abbondante acqua fredda . Dal momento in cui l’acqua bolle contate circa - minuti, a seconda della loro grandezza; fate la prova forchetta e se i rebbi entreranno senza difficoltà nel mezzo allora potrete scolarle. Pelatele ancora calde e schiacciatele sulla farina che avrete versato sulla spianatoia . Aggiungete poi l’uovo leggermente battuto insieme a un pizzico di sale .Impastate il tutto con le mani fino ad ottenere un impasto morbido ma compatto . Ricordate che lavorandoli troppo, gli gnocchi diventeranno duri durante la cottura, quindi limitatevi a impastare il necessario. Ricavate dall’impasto dei salsicciotti del diametro di circa  cm , con l’aiuto di una spatola tagliapasta ricavate dei bocconcini spessi  cm .Schiacciate con le dita i bocconcini per ottenere dei piccoli cerchi di pasta . Ponete al centro del cerchio un piccolo cubetto di gorgonzola , poi richiudete l’impasto .Arrotolate il bocconcino delicatamente tra le mani come una polpetta per dare una forma arrotondata , aggiungete un po’ di farina se l’impasto risultasse appiccicoso. Infine passate gli gnocchi uno ad uno sul riga gnocchi  che conferirà la classica rigatura che caratterizza questa pasta. Ponete gli gnocchi ben distanziati tra di loro su un vassoio infarinato . Intanto ponete sul fuoco un tegame colmo di acqua da salare a bollore, per la cottura degli gnocchi.Preparate il condimento: mettete il burro in un tegame  e scioglietelo con qualche foglia di salvia . Cuocete gli gnocchi in abbondante acqua salata .Quando gli gnocchi inizieranno a emergere in superficie, scolateli con l’aiuto di una schiumarola e versateli nella padella con il condimento, spegnete il fuoco e aggiungete il formaggio grattugiato e un mestolo d’acqua di cottura  per renderli più cremosi. Saltate i vostri gnocchi al gorgonzola amalgamando il tutto  e serviteli ben caldi .
+
+## Descrizione
+Il risultato finale sarà un piatto di gnocchi al gorgonzola dalla consistenza morbida e cremosa, con il gusto deciso del formaggio blu che si sposa perfettamente con la delicatezza degli gnocchi.
+
+Occasioni: Questa ricetta è perfetta per un pranzo o una cena speciale, magari da gustare in compagnia di amici o familiari. Può essere un ottimo piatto da servire durante le festività o in occasioni speciali.
+
+Diete: Questa ricetta è adatta a una dieta onnivora. Tuttavia, per chi segue un'alimentazione vegetariana può sostituire il formaggio con un'alternativa vegetale. Inoltre, è importante tenere conto delle calorie e moderare le porzioni.
+
+Intolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questa ricetta a causa della presenza di formaggio. Inoltre, chi soffre di celiachia dovrebbe sostituire la farina con una versione senza glutine per adattare la ricetta alle proprie esigenze alimentari.

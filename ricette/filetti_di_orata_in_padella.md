@@ -1,0 +1,21 @@
+# Filetti di orata in padella
+Categoria: Secondi piatti
+
+## Ingredienti
+- Orata: (4 filetti) 550 g
+- Pomodorini datterini: rossi e gialli 300 g
+- Scorza di limone: ½
+- Aglio: 2 spicchi
+- Prezzemolo: 2 rametti
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare i filetti di orata in padella tritate il prezzemolo  avendo cura di tenere da parte i gambi, pelate il limone per ricavarne la scorza , infine lavate e dividete a metà i datterini .In una padella molto larga lasciate scaldare a fiamma bassa, per  minuti, l’olio con gli spicchi d’aglio, i gambi di prezzemolo  e le scorze di limone . Trascorso il tempo alzate un pochino la fiamma e adagiate i filetti di orata con la pelle rivolta verso il basso .Non appena cambiano colore, dopo circa  minuti, girateli e proseguite la cottura per altri  minuti . Quando saranno pronti metteteli in un piatto  e copriteli .Nel fondo di cottura potete unire i pomodorini . Fateli sfrigolare circa  minuti, o finché la polpa non sarà ammorbidita. Quindi rimuovete le scorze, l'aglio e i gambi del prezzemolo . Aggiustate di sale, aggiungete i filetti di orata e fate cuocere  minuti ancora, il tempo di far insaporire . Girate delicatamente e servite con il prezzemolo tritato . I filetti di orata in padella sono pronti , serviteli ben caldi .
+
+## Descrizione
+Il risultato finale della ricetta "Filetti di orata in padella" sarà un piatto di pesce leggero e profumato, arricchito dai pomodorini datterini e dalla freschezza della scorza di limone e del prezzemolo. I filetti di orata saranno cotti in padella in modo da mantenere la loro morbidezza e la loro delicatezza, mentre gli altri ingredienti contribuiranno a creare un piatto equilibrato e gustoso.
+
+Questa ricetta è adatta per occasioni speciali come cene eleganti, ma è anche perfetta per un pranzo leggero e salutare. È adatta per chi segue una dieta mediterranea, ricca di pesce, verdure e olio extravergine d'oliva, e per coloro che cercano piatti leggeri ma gustosi. È adatta anche per chi segue una dieta senza glutine o senza lattosio, poiché non contiene ingredienti potenzialmente problematici.
+
+Le persone con intolleranze al pesce possono sostituire l'orata con un altro tipo di pesce a loro consentito. Le persone con intolleranze al glutine devono assicurarsi che tutti gli ingredienti utilizzati siano privi di glutine, compreso l'olio e il sale. Le persone con intolleranze al lattosio devono evitare di aggiungere formaggi o latticini al piatto.

@@ -1,0 +1,27 @@
+# Focaccine ai fiocchi d'avena
+Categoria: Lievitati
+
+## Ingredienti
+- Fiocchi di avena: biologici 50 g
+- Lievito di birra secco: 4 g
+- Farina 1: 335 g
+- Farina integrale: 150 g
+- Olio extravergine d'oliva: 30 g
+- Sale fino: 12 g
+- Acqua: a temperatura ambiente 415 g
+- Fiocchi di sale: q.b.
+- Acqua: q.b.
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare le focaccine ai fiocchi d’avena per prima cosa procuratevi una madia di legno ponendo al di sotto un canovaccio umido, così che rimanga ben salda sul piano . Versate le farine e il lievito  e mescolate con un cucchiaio di legno per amalgamarli tra loro. Aggiungete l’acqua a filo continuando a mescolare . Quando la massa diventerà più consistente e l’acqua risulterà assorbita continuate ad impastare per alcuni minuti utilizzando il mestolo, fino a quando l’impasto non si avvolgerà intorno ad esso, ormai incordato. Unite quindi il sale  e una volta assorbito mettete anche l’olio .Fate assorbire nuovamente  e lasciate riposare l’impasto a temperatura ambiente per - minuti coperto con un canovaccio . Trascorso questo primo riposo con le mani oliate formate  pieghe di rinforzo ; in questa prima fase l’impasto sarà ancora molto idratato e le pieghe saranno solo accennate, ma non c’è da preoccuparsi.Coprite di nuovo l’impasto con un panno e lasciate passare altri - minuti, quindi ripetete l’operazione effettuando  pieghe: stavolta l’impasto risponderà con più facilità alle pieghe . Coprite e fate riposare altri - minuti, trascorsi i quali ripetete l’operazione e inserite i fiocchi d’avena , aiutatevi con un tarocco per fare le pieghe fino ad assorbimento dei fiocchi di avena .Una volta date le pieghe oliate una ciotola , versate qui l’impasto  coprite con un pellicola o con un panno  e mettete a riposare a temperatura ambiente in un luogo senza spifferi (come il forno spento) per almeno  ore.Trascorso il tempo di riposo, l’impasto sarà all’incirca raddoppiato : trasferitelo sulla spianatoia infarinata , aiutandovi con un tarocco a spatola, dategli  pieghe e lasciatelo rilassare per una decina di minuti coperto con un canovaccio . Utilizzate quindi un tarocco da taglio per ricavare dall’impasto  pezzi da circa  g ciascuno . Date a ogni pezzo  pieghe di rinforzo e formate le vostre palline , disponendole ben distanziate su  teglie ricoperte di carta forno e spolverizzate di farina . Coprite con un canovaccio  e fate lievitare ancora  ora a temperatura costante (potete porle nel forno spento).Preparate la salamoia per la superficie: in un bicchiere alto versate l’acqua , l’olio  e il sale, emulsionate con il mixer ad immersione (-) oppure sbattete i liquidi con una forchetta.Ungendovi le dita nella salamoia schiacciate delicatamente le palline , per formare le focaccine. Lasciate riposare ancora mezzora, poi imprimete ancora qualche ditata sulla superficie, distribuite la restante salamoia per riempire i solchi  e cospargete con i fiocchi d’avena  e i fiocchi di sale. Infornate nel ripiano medio del forno preriscaldato in modalità statica a ° e cuocete per  minuti. Dopo la cottura  lasciate intiepidire e poi gustate le vostre focaccine ai fiocchi d’avena .
+
+## Descrizione
+Il risultato finale della ricetta "Focaccine ai fiocchi d'avena" sarà delle focaccine morbide e fragranti, arricchite dal sapore e dal crunch dei fiocchi d'avena. Saranno perfette da gustare sia da sole, magari accompagnate da un filo d'olio extravergine d'oliva e un pizzico di sale, sia farcite con ingredienti salati o dolci a piacere.
+
+Le focaccine ai fiocchi d'avena sono adatte per occasioni informali come aperitivi, merende o come alternativa al pane durante i pasti. Possono essere consumate nei pasti principali o come snack durante la giornata.
+
+Questa ricetta è adatta alle diete vegetariane e vegane, in quanto non prevede l'uso di ingredienti di origine animale. Le focaccine ai fiocchi d'avena sono ricche di fibre, in quanto contengono farina integrale e fiocchi d'avena, e possono essere una buona fonte di energia.
+
+Le persone con intolleranza al glutine non potranno consumare questa ricetta, in quanto prevede l'uso di farine che contengono glutine. Le focaccine ai fiocchi d'avena potrebbero essere adatte per le persone con intolleranza al lattosio, in quanto non prevedono l'uso di latticini. Tuttavia, è importante verificare che gli ingredienti utilizzati siano privi di tracce di lattosio.

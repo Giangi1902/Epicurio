@@ -1,0 +1,31 @@
+# Alette di pollo speziate con purè ricco di patate e spinaci
+Categoria: Secondi piatti
+
+## Ingredienti
+- Alette di pollo: 870 g
+- Salsa di soia: 80 g
+- Scorza di lime: 1
+- Arance: succo e scorza (non trattata) 1
+- Maggiorana: 3 rametti
+- Scalogno: 1
+- Olio extravergine d'oliva: 10 g
+- Pepe in grani: misto 4 g
+- Sale fino: q.b.
+- Patate: 400 g
+- Spinaci: 300 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Grana Padano DOP: da grattugiare 60 g
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare le alette di pollo speziate con purè ricco di patate e spinaci, iniziate dalla marinatura del pollo (se preferite una carne ancora più aromatica potete lasciar marinare le alette per una notte intera in frigorifero). Affettate metà arancia , mentre l'altra metà potete spremerla e filtrare il succo . Quindi ponete le alette di pollo in una pirofila ampia facendo attenzione a non sovrapporle ; aggiungete metà dose di salsa di soiae il succo d'arancia . Poi aromatizzate con le foglioline di maggiorana , le fettine di arancia  e la scorza di lime;unite il sale e pepe , poi irrorate con olio  e coprite con pellicola : riponete in frigo per almeno  ore a marinare, girandole di tanto in tanto per distribuire uniformemente la marinatura.Intanto preparate il contorno: lessate le patate in abbondante acqua bollente leggermente salata  e stufate gli spinaci, lavati accuratamente in precedenza e ben strizzati, in padella con un filo d'olio e sale a piacere, coperti . Quando saranno morbidi, trasferiteli in una ciotola e riduceteli in crema con un mixer ad immersione . Quando le patate saranno lesse, sbucciatele ancora calde  e schiacciatele raccogliendole in una ciotola ; unite il formaggio grattugiato  aggiungete anche la crema di spinaci  salate e pepate, e mescolate per amalgamare il tutto . Tenete il purè al caldo in forno spento con luce accesa ad esempio; intanto in una padella versate l'olio e lo scalogno mondato e tritato . Fatelo rosolare a fuoco dolce mescolando di tanto in tanto,poi unite il pollo scolato dalla marinatura e l'altra metà dose di salsa di soia . Rigirate le ali per farle rosolare da entrambi i lati, poi coprite con un coperchio  e cuocete a fiamma moderata per circa  minuti e regolate di sale se necessario. Una volta pronte, servite le alette di pollo speziate con purè ricco di patate e spinaci .
+
+## Descrizione
+Il risultato finale sarà un piatto gustoso e saporito, con alette di pollo aromatiche e tenere, accompagnate da un purè cremoso arricchito con spinaci e Grana Padano.
+
+Occasioni adatte: Questa ricetta è perfetta per una cena in famiglia o da preparare per ospiti speciali durante una cena elegante.
+
+Dieta o regime alimentare: Questo piatto è adatto a una dieta bilanciata e ricca di proteine, vitamine e minerali. Può essere consumato anche in una dieta ipocalorica, se controllate le porzioni e le quantità di olio utilizate per la cottura. 
+
+Intolleranze: Questo piatto non è adatto a persone con intolleranze al glutine (la salsa di soia può contenere glutine), lattosio (a causa del formaggio grattugiato) e ai latticini (per il formaggio grattugiato). È possibile però sostituire la salsa di soia con tamari senza glutine e omettere il formaggio grattugiato.

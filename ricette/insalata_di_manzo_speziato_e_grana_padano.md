@@ -1,0 +1,29 @@
+# Insalata di manzo speziato e Grana Padano
+Categoria: Insalate
+
+## Ingredienti
+- Filetto di manzo: 250 g
+- Cetrioli: 300 g
+- Pomodorini datterini: 250 g
+- Grana Padano DOP: Riserva oltre 20 mesi 40 g
+- Menta: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: 60 g
+- Menta: 3 foglie
+- Timo: 1 rametto
+- Pepe rosa: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare l’insalata di manzo speziato e Grana Padano per prima cosa preparate la marinatura per la carne: versate l’olio di oliva in un bicchiere alto e stretto , aggiungete le foglie di menta , il timo ,il pepe rosa  e il pepe nero  e frullate con un frullatore a immersione  fino ad ottenere una consistenza omogenea.Pulite il filetto di manzo eliminando eventuali parti di grasso o tessuto connettivo, poi trasferitelo in un contenitore  e versate all’interno l’emulsione di olio ed erbe aromatiche . Coprite con pellicola e lasciate marinare a temperatura ambiente per circa  minuti . Potete girare la carne quando saranno trascorsi - minuti in modo da poter intingere bene anche l'altro lato della carne nella marinatura. Nel frattempo dedicatevi al resto del piatto: lavate e poi dividete i pomodorini in  parti , pelate il cetriolo e tagliatelo a fettine sottili con l’aiuto di un pelapatate . Sistemate i cetrioli in una ciotola e aggiungete i pomodorini tagliati .Ora potete cuocere la carne: trascorso il tempo della marinatura, cuocete il filetto su una piastra ben calda per circa - minuti per lato (-). Trasferite il filetto su un tagliere, lasciatelo riposare per qualche secondo e tagliatelo trasversalmente a fettine sottili .Ora potete completare l’insalata: adagiate le fettine di carne sopra i cetrioli e pomodori , aggiungete le sfoglie di Grana Padano DOP , condite con un filo d'olio, sale e pepe e, infine, guarnite con qualche fogliolina di menta fresca. La vostra insalata di manzo speziato e Grana Padano è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale sarà un'insalata fresca e saporita, con il contrasto tra la carne di manzo speziata e il sapore deciso del Grana Padano. Gli ingredienti freschi come cetrioli, pomodorini e menta aggiungono una nota di freschezza e leggerezza al piatto.
+
+Occasioni: Questa insalata è perfetta da servire come piatto unico o come antipasto in una cena estiva all'aperto. Può essere anche un'ottima opzione per un pranzo leggero durante la settimana.
+
+Dieta: Questa ricetta è adatta per una dieta ricca di proteine e povera di grassi, ideale per chi segue una dieta dimagrante o per chi pratica sport. È importante abbinare questa insalata a un contorno di verdure per rendere il pasto completo e bilanciato.
+
+Intolleranze: Le persone con intolleranza al lattosio dovrebbero evitare il Grana Padano o optare per una versione senza lattosio. Per chi è intollerante al glutine, è importante verificare che tutti gli ingredienti utilizzati siano privi di glutine.

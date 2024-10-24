@@ -1,0 +1,25 @@
+# Cracker di lupini
+Categoria: Antipasti
+
+## Ingredienti
+- Farina di lupini: 50 g
+- Farina di ceci: 100 g
+- Farina di riso senza glutine: 100 g
+- Acqua: 150 g
+- Olio di semi: 50 g
+- Sale fino: 2 g
+- Sale grosso: q.b.
+- Semi di sesamo: q.b.
+- Acqua: q.b.
+
+## Preparazione
+Per preparare i cracker di lupini versate la farina di lupini , la farina di ceci  e la farina di riso in una ciotola capiente .Aggiungete anche l’acqua , l’olio  e il sale fino .Iniziate a impastare con le mani per amalgamare tutti gli ingredienti . Quando avrete ottenuto un impasto omogeneo , posizionate il panetto fra  fogli di carta forno e stendetelo con un mattarello fino a uno spessore di massimo , mm : dovrete formare un rettangolo.Rimuovete il foglio di carta forno superiore e dividete la sfoglia ottenuta in rettangoli . Con questo impasto e lo spessore indicato ne otterrete circa . Bucherellate la superficie con l’apposito rullo bucasfoglia oppure con i rebbi di una forchetta . Trasferite il foglio di carta forno su una leccarda e spennellate la superficie dell’impasto con l’acqua .Infine cospargete con il sale grosso  e i semini di sesamo . Cuocete in forno statico preriscaldato a ° per circa - minuti .Una volta cotti, sfornate i cracker di lupini e lasciateli intiepidire  prima di staccarli con le mani  e gustarli !
+
+## Descrizione
+Risultato finale: I cracker di lupini sono croccanti e leggermente dorati, con un intenso sapore di legumi e una nota di sesamo. Sono leggermente salati e perfetti da gustare da soli o accompagnati con formaggi o salse.
+
+Occasioni adatte: I cracker di lupini sono perfetti come antipasto o spuntino durante feste o aperitivi. Possono essere serviti come accompagnamento a insalate o zuppe leggere.
+
+Diete adatte: Questa ricetta è adatta a dietetica vegana, senza lattosio e senza glutine.
+
+Intolleranze: Le persone con intolleranza al glutine possono consumare questa ricetta, in quanto non contiene farina di grano. Tuttavia, chi soffre di allergia ai legumi o al sesamo dovrebbe evitare di consumare questi cracker.

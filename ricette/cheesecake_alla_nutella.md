@@ -1,0 +1,21 @@
+# Cheesecake alla Nutella
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti Digestive: 180 g
+- Burro: 80 g
+- Nutella: 500 g
+- Formaggio fresco spalmabile: 500 g
+- Granella di nocciole: 30 g
+
+## Preparazione
+Per preparare la cheesecake alla Nutella iniziate preparando la base: mettete a sciogliere il burro in un pentolino a fuoco bassissimo, quindi lasciate intiepidire. Intanto versate i biscotti secchi nel mixer , quindi frullateli fino ad ottenere una polvere  e riponeteli in una ciotola; unite il burro fuso in precedenza e lasciato leggermente intiepidire .amalgamate per bene fino ad ottenere un composto sabbioso . Imburrate una tortiera del diametro di  cm e foderatela con la carta forno. Quindi versatevi all’interno il composto di biscotti  e con l’aiuto di un cucchiaio compattate bene, in modo da creare la base di biscotto ; riponete in frigorifero per  minuti o in freezer per una decina di minuti.Intanto dedicatevi al ripieno: in una ciotola versate il formaggio cremoso  e aggiungete un cucchiaio di Nutella , quindi amalgamate bene con una frusta  o con una spatola.A questo punto aggiungete il resto della Nutella  e proseguite a mescolare con la frusta  fino ad ottenere una crema liscia. Riprendete la tortiera dal frigorifero e versate il composto di formaggio e Nutella sulla base di biscotti oramai solidificata .Livellate bene la superficie con una spatola , copritela con la pellicola e lasciatela rassodare in frigorifero per almeno  ore (meglio ancora se una notte intera). Quindi trasferite la cheesecake in un piatto da portata e decorate a piacimento con la granella di nocciole . Servite la vostra cheesecake alla Nutella ben fredda !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà una deliziosa cheesecake con un cremoso e ricco sapore di Nutella, arricchito dalla croccantezza della base di biscotti Digestive e dalla granella di nocciole.
+
+Questo dolce è adatto per occasioni speciali come feste di compleanno, cene eleganti o semplicemente come dessert per coccolarsi.
+
+La cheesecake alla Nutella è adatta per le persone che seguono una dieta moderata in termini di zuccheri e grassi, in quanto è un dolce decisamente goloso e calorico.
+
+Le persone con intolleranze al lattosio potrebbero avere difficoltà a digerire il formaggio fresco spalmabile presente nella ricetta. Tuttavia, è possibile sostituire il formaggio fresco con un'alternativa senza lattosio per rendere questa cheesecake adatta anche a chi soffre di questa intolleranza.

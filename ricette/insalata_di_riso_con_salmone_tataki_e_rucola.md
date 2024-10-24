@@ -1,0 +1,35 @@
+# Insalata di riso con salmone tataki e rucola
+Categoria: Piatti Unici
+
+## Ingredienti
+- Riso integrale: 320 g
+- Rucola: 75 g
+- Mandorle in scaglie: 50 g
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+- Filetto di salmone: (abbattuto) 400 g
+- Salsa di soia: 50 g
+- Semi di sesamo nero: 40 g
+- Semi di lino: 40 g
+- Olio di sesamo: q.b.
+- Mandorle in scaglie: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare l’insalata di riso con salmone tataki e rucola, per prima cosa cuocete il riso integrale in acqua salata bollente per circa - minuti . Intanto mettete a marinare i filetti di salmone nella salsa di soia per circa  minuti . Una volta cotto, scolate il riso e versatelo in una ciotola, poi lasciatelo intiepidire .Mescolate i semi di sesamo e i semi di lino in una pirofila, adagiate all’interno i filetti di salmone  e ricopriteli interamente . Trasferite i filetti di salmone panati in congelatore per un’ora .Nel frattempo mettete  g di rucola in un contenitore alto e stretto insieme all’olio evo  e a un pizzico di sale , poi frullate con un mixer a immersione per ottenere una crema liscia e omogenea .Versate la crema di rucola sul riso intiepidito , mescolate bene  e aggiungete le mandorle a lamelle .Unite la rucola rimanente spezzettandola con le mani , poi mescolate ancora e riponete l’insalata di riso in frigorifero fino al momento di servirla . Trascorso il tempo di raffreddamento del salmone, scaldate un filo d’olio di semi in una padella antiaderente e adagiate i filetti di pesce .Scottate il salmone a fuoco vivace per  minuti per lato , poi tagliatelo a fette dello spessore di  cm usando un coltello ben affilato . A questo punto distribuite l’insalata di riso nei piatti da portata .Posizionate a lato le fette di salmone tataki  e guarnite con un filo d’olio e scaglie di mandorla . La vostra insalata di riso con salmone tataki e rucola è pronta per essere servita !
+
+## Descrizione
+- Il risultato finale sarà un piatto fresco e saporito, perfetto per le giornate estive o come pranzo leggero durante tutto l'anno.
+- L'insalata di riso sarà ricca di sapori grazie all'aggiunta del salmone tataki e della rucola, che conferiranno un tocco di freschezza al piatto.
+- La consistenza sarà equilibrata tra il riso, croccantezza delle mandorle in scaglie e la rucola.
+- Le mandorle in scaglie tostate daranno croccantezza al piatto e un sapore leggermente nocciolato.
+- La salsa di soia e l'olio di sesamo daranno un tocco orientale e un sapore caratteristico al salmone.
+- L'olio extravergine d'oliva e i semi di lino daranno un tocco di salubrità al piatto.
+- L'insieme di tutti gli ingredienti renderà l'insalata di riso con salmone tataki e rucola un piatto colorato, invitante e gustoso.
+
+- Questa ricetta è adatta per una cena leggera, un pranzo al sacco o come piatto unico per un pranzo o una cena.
+- È perfetta per chi segue una dieta a base di pesce, poiché contiene salmone.
+- È adatta anche a chi segue una dieta controllata, poiché il riso integrale e la rucola sono salutari e ricchi di fibre.
+- Tuttavia, non è adatta per chi segue una dieta senza glutine, poiché il riso integrale contiene glutine.
+- Le persone con intolleranza al lattosio possono mangiarlo, poiché la ricetta non contiene latticini.
+- Tuttavia, le persone con intolleranza al glutine dovrebbero evitare questa ricetta o sostituire il riso integrale con riso senza glutine.

@@ -1,0 +1,27 @@
+# Lasagne con radicchio, crema di castagne e speck
+Categoria: Primi piatti
+
+## Ingredienti
+- Lasagne Sottili all'uovo: 250 g
+- Grana Padano DOP: da grattugiare 50 g
+- Speck: 300 g
+- Castagne: 1 kg
+- Latte intero: 500 ml
+- Noce moscata: da grattugiare q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Radicchio: 800 g
+- Scalogno: 80 g
+- Vino bianco: 30 ml
+
+## Preparazione
+Per realizzare le lasagne con radicchio, crema di castagne e speck iniziate con la cottura delle castagne: sciacquatele e ponetele in un tegame , ricopritele con l’acqua  e fatele bollire per circa  minuti. Nel frattempo tagliate a sottili listarelle lo speck , sfogliate il radicchio eliminando la parte del gambo più dura, lavate le foglie e tagliatele a listarelle spesse  cm circa ,sbucciate lo scalogno e tritatelo finemente . In una padella fate appassire lo scalogno tritato con un filo di olio di oliva per  minuti , poi unite il radicchio salate, pepate, sfumate con il vino bianco  e proseguite la cottura per pochi minuti. A cottura ultimata spegnete il fuoco e lasciate intiepidire , intanto le castagne saranno pronte scolatele, sbucciatele con uno spelucchino e raccogliete la polpa in una ciotola , poi passatela attraverso il passaverdure (-).In un tegame ponete il latte, aromatizzatelo con la noce moscata  e unite un pizzico di sale grattugiata e portatelo al bollore, poi unite la purea di castagne  e proseguite la cottura per - minuti continuando a mescolare finché la crema si sarà addensata .Tutto è pronto per comporre le lasagne: prendete una pirofila x cm, spalmate sul fondo uno strato di crema di castagne , prendete le sfoglie, e posizionatene tre sul fondo , quindi proseguite con un altro strato di crema poi condite con il radicchio  e lo speck . A questo punto adagiate sopra  sfoglie nel senso inverso distribuite sopra la crema di castagne , il radicchio e lo speck . Terminate con un ultimo strato di  sfoglie e condite come in precedenza con crema di castagne , radicchio e speck.Per finire insaporite con il Grana padano grattugiato (-). Cuocete le lasagne con radicchio, crema di castagne e speck in forno statico preriscaldato a ° per  minuti (o forno ventilato a ° per  minuti) e passatele al grill per un paio di minuti a cottura quasi ultimata. Sfornate le lasagne con radicchio crema di castagne e speck  e lasciatele intiepidire prima di servirle.
+
+## Descrizione
+Il risultato finale sarà un piatto ricco e saporito, con strati di lasagne sottili alternati a uno strato di crema di castagne, radicchio e speck croccante. Il tutto verrà gratinato in forno con una spolverata di Grana Padano DOP.
+
+Occasioni: Le lasagne con radicchio, crema di castagne e speck sono perfette per un pranzo o una cena speciale in famiglia o tra amici, oppure per un'occasione formale come un pranzo o una cena importante.
+
+Dieta: Questa ricetta è adatta a una dieta bilanciata, ma ricca, adatta a chi non ha particolari restrizioni alimentari. È un piatto calorico e ricco di proteine e carboidrati, quindi da consumare con moderazione per chi segue una dieta ipocalorica.
+
+Intolleranze: Le persone con intolleranze al glutine dovranno scegliere lasagne senza glutine per preparare questo piatto. Inoltre, chi è intollerante al lattosio potrà sostituire il latte intero con latte senza lattosio o con una bevanda vegetale. Chi è intollerante al lattosio dovrà anche evitare di aggiungere Grana Padano DOP o optare per un formaggio senza lattosio. Chi è intollerante al nichel dovrà evitare di consumare il radicchio.

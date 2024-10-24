@@ -1,0 +1,24 @@
+# Pancake cinesi (cong you bing)
+Categoria: Antipasti
+
+## Ingredienti
+- Farina 00: 265 g
+- Acqua: tiepida 190 g
+- Cipollotto fresco: q.b.
+- Olio di semi: q.b.
+- Farina 00: 20 g
+- Acqua: 100 g
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare i pancake cinesi con cipollotto partite dall'impasto. In una ciotola versate la farina , il sale  e iniziate a versare una parte dell'acqua .Mescolate con le bacchette cinesi , o in alternativa con una forchetta, e proseguite versando l'acqua lentamente. Dovrete ottenere un impasto non troppo liscio, facendo in modo da far assorbire bene l'acqua . Trasferite poi l'impasto su un piano da lavoro .Non preoccupatevi se risulta molto appiccicoso, è normale. Lavoratelo con le mani per - minuti ; se risulta complicato aiutatevi con un tarocco. Trasferite l'impasto in una ciotola unta . Coprite con pellicola  e lasciate riposare per  minuti.A questo punto tritate la parte verde di un cipollotto  e tenetela da parte. Preparate poi anche l'emulsione. In una ciotola versate l'acqua, l'olio  e la farina .Mescolate sempre con le bacchette  o con una forchetta, sino ad ottenere un composto omogeneo. Riprendete l'impasto riposato  e trasferitelo su un piano leggermente infarinato; infarinate poi anche la superficie .Formate un cilindro  e dividetelo in  parti uguali . Prendete la prima porzione e appiattitela con le mani .Inumiditevi le mani nell'emulsione  e schiacciate ancora il panetto  sino ad ottenere un rettangolo sottile. Cospargetelo poi con il cipollotto .Arrotolate delicatamente i bordi del lato più lungo , portandoli verso l'interno, in modo da formare un cilindretto . Arrotolatelo poi anche dall'altro lato .Dovrete formare una girella . Schiacciatela delicatamente con le mani , aggiungendo farina al bisogno. Dovrete ottenere un disco sottile .Proseguite in questo modo sino a formare tutti e  i vostri pancake . Passate ora alla cottura, scaldate una padella leggermente più grande con un filo d'olio. Inserite il primo pancake all'interno , spennellatelo con l'emulsione e cuocete sino a che non sarà ben dorato. Quindi giratelo .Spennellatelo ancora con l'emulsione preparata in precedenza  e proseguite la cottura . Cuocete anche gli altri e servite i vostri pancake cinesi .
+
+## Descrizione
+Il risultato finale sarà rappresentato da pancake cinesi, sottili e croccanti, arricchiti dal sapore del cipollotto fresco.
+
+Questi pancakes sono adatti per un antipasto leggero e gustoso, perfetto da servire durante un pranzo o una cena orientale.
+
+Questa ricetta è adatta per persone che seguono una dieta vegetariana e vegana, in quanto non contiene nessun ingrediente di origine animale.
+
+Le persone con intolleranza al glutine non possono consumare questa ricetta poiché contiene farina di frumento. Inoltre, chi è intollerante al lattosio deve fare attenzione all'uso di alcuni tipi di olio che potrebbero contenere tracce di lattosio.

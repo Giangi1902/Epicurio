@@ -1,0 +1,28 @@
+# Maltagliati al salmone, porcini e pomodorini confit
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 350 g
+- Semola di grano duro rimacinata: 50 g
+- Uova: medie 4
+- Pomodorini ciliegino: 500 g
+- Zucchero: 125 g
+- Timo: 2 rametti
+- Olio extravergine d'oliva: 35 g
+- Origano: essiccato 2 g
+- Sale fino: 10 g
+- Pepe nero: 5 g
+- Tranci di salmone: 230 g
+- Funghi porcini: 450 g
+
+## Preparazione
+Per preparare i maltagliati con salmone, porcini e pomodorini confit, iniziate da questi ultimi: lavate i pomodorini sotto acqua corrente, asciugateli e poneteli su un tagliere, quindi dividete tutti i pomodorini a metà . Dosponeteli su una teglia foderata con carta da forno con la parte del taglio rivolta verso l'alto, quindi salate e pepate a piacere. Distribuite l'origano e il timo tritato , lo zucchero . Infine versate un filo d’olio su ogni pomodorino  e infornate il tutto a in forno statico preriscaldato a ° per circa  ore, fino a quando l’acqua di vegetazione dei pomodorini non sarà evaporata e questi non risulteranno leggermente abbrustoliti ma non secchi . Mentre i pomodorini cuociono, preparate i maltagliati: setacciate la farina e trasferitela su una spianatoia, formate una fontana e unite la semola rimacinata .Formate una cavità al centro e allargatela leggeremente. Versate un uovo al centro e cominciate ad amalgamare la farina all’uovo con una forchetta . Aggiungete le altre uova poco a poco, continuando ad impastare. Una volta che avete ottenuto un impasto compatto, continuate a lavorarlo energicamente a mano schiacciandolo con il palmo della mano . Una volta che avrete ottenuto una palla dalla consistenza liscia, mettetelo a riposare per  minuti, a temperatura ambiente dentro un sacchetto di plastica .Dopo il riposo, dividete la pasta in  parti ; mentre ne stendete una conservate le altre nel sacchetto per non farle seccare. Stendete ciascuna porzione di impasto con il mattarello , infarinando all'occorrenza con la semola rimacinata, per formare un rettangolo sottile; dovrete ottenere uno spessore di circa , mm in modo che sollevando la pasta possiate vedere l'ombra del palmo sottostante. Potete anche stendere con l'aiuto di una macchina tirapasta tirandola alla misura più stretta, infarinando all’occorrenza con semola rimacinata. Man a mano stendete le sfoglie di pasta su una spianatoia infarinata, coprite con un panno di cotone pulito, e proseguite stendendo gli altri pezzi, sovrapponendoli uno all'altro una volta pronti, intervallati con un canovaccio asciutto. Tagliate ogni sfoglia a strisce orizzontali di  cm di spessore ,poi tagliatele di nuovo a strisce diagonali di  cm . Mettete i maltagliati ottenuti  su un canovaccio asciutto leggermente infarinato, in attesa di essere cotti. Intanto dedicatevi al condimento: pulite accuratamente i funghi porcini eliminando la parte finale più terrosa del gambo; togliete accuratamente il terriccio passando accuratamente un panno inumidito dalla cappella e dal gambo . Se necessario potete sciacquarli brevemente sotto acqua corrente.Tagliateli quindi a lamelle di ca  mm di spessore  e fateli rosolare velocemente in padella a fuoco medio con l'olio , salate e pepate a piacere .Per ultimo dedicatevi al salmone; massaggiate la superficie del trancio per verificare che non ci siano lische (potrete in caso eliminarle con una pinza da cucina); toglietegli la pelle con un coltello affilato ; poi dividetelo in  pezzi che a loro volta taglierete in / fettine da  mm l’una . Nella padella con i porcini, unite i pomodorini confit poi il salmone  e fate saltare il tutto pochi istanti, giusto il tempo che il salmone prenda un colore rosato. Lessate intanto i maltagliati in abbondante acqua bollente salata a piacere per - minti , poi scolateli e mantecateli in padella con il condimento per insaporirli (se necessario potete aggiungere poca acqua di cottura) .Prendete i piatti da portata e suddividete le porzioni, ponendo in ciascun piatto un coppapasta di  cm di diametro e versate all'interno i maltagliati , quindi sfilate delicatamente il coppapasta  ed ecco pronti i maltagliati con salmone, porcini e pomodorini confit.
+
+## Descrizione
+Il risultato finale della ricetta di maltagliati al salmone, porcini e pomodorini confit sarà un piatto ricco e saporito, con la combinazione di sapori intensi del salmone, dei funghi porcini e dei pomodorini confit che si sposano perfettamente con la pasta fresca fatta in casa.
+
+Occasioni: Questo piatto è adatto a occasioni speciali o cene eleganti, ma può essere preparato anche per un pranzo in famiglia o tra amici.
+
+Diete: Questa ricetta è adatta per una dieta mediterranea, in quanto contiene ingredienti freschi e di alta qualità come salmone, funghi porcini, pomodorini e erbe aromatiche.
+
+Intolleranze: Le persone con intolleranze al glutine possono sostituire la farina con una versione senza glutine per preparare la pasta fresca. Inoltre, chi è intollerante al lattosio può evitare di utilizzare formaggi nella ricetta. Le persone allergiche al pesce dovranno ovviamente evitare di aggiungere il salmone al piatto.

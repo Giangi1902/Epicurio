@@ -1,0 +1,36 @@
+# Pastiera alle mandorle e crema pasticcera
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 350 g
+- Burro: freddo 190 g
+- Zucchero: 120 g
+- Farina di mandorle: 70 g
+- Latte condensato: 60 g
+- Uova: 1
+- Tuorli: 1
+- Scorza d'arancia: 1
+- Aroma alla mandorla: 1 cucchiaino
+- Latte intero: 375 ml
+- Zucchero: 150 g
+- Farina 00: 15 g
+- Tuorli: 4
+- Scorza d'arancia: 1
+- Grano per pastiera: 250 g
+- Ricotta vaccina: 175 g
+- Ricotta di pecora: 175 g
+- Arancia candita: 80 g
+- Latte condensato: 50 g
+- Uova: 1
+
+## Preparazione
+Per preparare la pastiera alle mandorle e crema pasticcera, iniziate dalla frolla: in un mixer ponete la farina setacciata e il burro freddo di frigo a pezzetti . Azionate le lame per creare la sabbiatura, poi ponetela in una ciotola e aggiungete la farina di mandorle , lo zucchero e grattugiate la scorza di un'arancia non trattata . Unite anche l'aroma di mandorle , l'uovo intero e il tuorlo e il latte condensato .Impastate velocemente con le mani direttamente nella ciotola  e formate un panetto omogeneo e compatto: potete avvoglerlo nella pellicola trasparente  e farlo rassodare in figorifero per almeno un'ora. Intanto dedicatevi alla crema pasticcera all'arancia: in un tegame capiente versate i tuorli, lo zucchero e lavorateli a crema con una frusta a mano ; setacciate all'interno del tegame la farina , grattugiate la scorza d'arancia e versate il latte a filo . Mescolate e portate sul fuoco dolce per far cuocere e addensare la crema : sarà pronta  quando alzando la frusta terrà la forma prima di ricadere nel tegame.Ponete la crema in una ciotolina coperta con pellicola trasparente a contatto e fatela raffreddare in frigorifero . A questo punto setacciate la ricotta vaccina e di pecora  per renderla più cremosa. Versatela poi nel mixer insieme al grano cotto ,le scorze di arancia candite tagliate a cubetti , la crema pasticcera oramai fredda e il latte condensato . Azionate le lame per frullare tutti gli ingredienti e realizzare un composto liscio e omgeneo .Ora potete comporre la vostra pastiera alle mandorle con crema pasticcera: prendete il panetto di frolla e stendetelo su un piano di lavoro leggermente infarinato per realizzare un disco spesso circa mezzo centimetro . Imburrate e foderate con carta da forno una tortiera di  cm di diametro. Quindi avvolgete il disco sul mattarello e srotolatelo delicatamente sullo stampo . Eliminate le parti in eccesso (vi serviranno per la decorazione) e fate aderire la frolla allo stampo .Versate il ripieno  e uniformatelo con una spatola, quindi rifinite i bordi con un tagliapasta liscio a filo del ripieno . Impastate i ritagli di frolla e stendeteli per realizzare poi le classiche strisce di  cm di spessore da adagiare sulla superficie della pastiera per formare delle losanghe . Spennellate la pastiera con l'uovo sbattuto  e cuocete in forno statico preriscaldato a ° per  minuti (se forno ventilato a ° per circa  minuti). Una volta cotta, sfornatela e lasciatela intiepidire, prima di sformarla e servirla !
+
+## Descrizione
+Il risultato finale della pastiera alle mandorle e crema pasticcera sarà un dolce a strati con una base croccante di pasta frolla alle mandorle, seguita da uno strato di crema pasticcera aromatizzata all'arancia e ricoperta da una morbida pastiera napoletana con ricotta e grano.
+
+Questa ricetta è adatta per occasioni speciali come Pasqua o altre festività, ma può essere gustata anche come dessert per una cena elegante o semplicemente per coccolarsi con un dolce fatto in casa.
+
+La pastiera alle mandorle e crema pasticcera è adatta a persone che seguono una dieta normale, ma si consiglia di consumarla con moderazione a causa del suo contenuto di zuccheri e grassi. 
+
+Le persone con intolleranze al lattosio possono trovare questa ricetta problematica a causa della presenza di latte e latticini. Inoltre, chi soffre di allergie alle mandorle dovrebbe evitare di consumare questo dolce. Si consiglia quindi di fare attenzione e eventualmente sostituire gli ingredienti con alternative adatte alle proprie esigenze alimentari.

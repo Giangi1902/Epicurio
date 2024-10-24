@@ -1,0 +1,26 @@
+# Filetto di maiale all'arancia
+Categoria: Secondi piatti
+
+## Ingredienti
+- Maiale: filetto 1 kg
+- Cipolle dorate: 100 g
+- Sedano: 60 g
+- Carote: 100 g
+- Rosmarino: 4 rametti
+- Timo: 4 rametti
+- Succo d'arancia: 1
+- Aglio: 1 spicchio
+- Pepe di Kampot: q.b.
+- Sale fino: 10 g
+- Olio extravergine d'oliva: 20 g
+- Brodo vegetale: 150 g
+
+## Preparazione
+Per realizzare il filetto di maiale all’arancia, preparate il brodo vegetale. Poi passate alle verdure che serviranno per aromatizzare l'arrosto: lavate e pelate il sedano e la carota, sbucciate la cipolla e poi procedete tagliando le verdure a pezzetti grossolani (--).Spremete il succo di un'arancia  e tenetelo da parte. Occupatevi ora della carne: per prima cosa posizionate il filetto di maiale su di un tagliere ed eliminate il grasso in eccesso e i tendini (la parte bianca translucida).  Poi con lo spago da cucina create la gabbia (-), per realizzare al meglio questa operazione seguite la nostra scuola di cucina: come legare l’arrosto.Tra i nodi di spago inserite i rametti di rosmarino e di timo , poi salate e massaggiate la carne con il pepe di Kampot, pestato (potete anche utilizzare del pepe nero macinato al suo posto) . Prendete un tegame o una padella dal bordo alto adatta anche alla cottura in forno, scaldate l’olio di oliva con lo spicchio di aglio sbucciato adagiate in padella la carne  e fate scottare su tutti i lati a fuoco vivace in modo da creare la crosta in superficie. Sfumate con il succo d'arancia , poi unite il pepe in grani procedete aggiungendo tutte le verdure: il sedano , le cipolle  e le carote .Per ultimo unite anche il brodo vegetale . A questo punto spegnete il fuoco e proseguite la cottura in forno statico preriscaldato a ° per  ora. A cottura ultimata  estraete il filetto dal tegame (tenendo il fondo di cottura da parte) eliminate la gabbia realizzata con lo spago  e tagliatelo a fette . In un recipiente dal bordo alto versate il fondo di cottura con le verdure e con l’aiuto di un frullatore ad immersione riducete tutto ad una salsina omogenea , se dovesse risultare troppo liquida fatela addensare sul fuoco, viceversa potete allungarla con un pò brodo fino ad ottenere la consistenza desiderata.Distribuite parte della salsa su un piatto da portata , adagiate l'arrosto a fette ( se preferite potete lasciarne una parte intera) e insaporitelo con altra salsa . Potete guarnire il filetto di maiale all'arancia con delle sottili fettine di arancia e servirlo ben caldo .
+
+## Descrizione
+Il filetto di maiale all'arancia sarà un piatto dal sapore deciso e aromatico, grazie alla presenza del succo d'arancia e delle erbe aromatiche come il rosmarino e il timo. La carne sarà morbida e succulenta, grazie alla cottura lenta nel brodo vegetale con le verdure e le spezie.
+
+Questo piatto è adatto per occasioni speciali come pranzi o cene eleganti, ma anche per una cena in famiglia o tra amici. Si può servire accompagnato da contorni come patate al forno o verdure grigliate.
+
+La ricetta del filetto di maiale all'arancia è adatta per chi segue una dieta onnivora, in quanto la carne di maiale è un alimento proteico e ricco di ferro. Per chi segue una dieta ipocalorica, è consigliabile ridurre le quantità di olio e brodo vegetale. Nelle intolleranze, le persone con intolleranza al lattosio devono fare attenzione al brodo vegetale utilizzato, mentre chi soffre di celiachia deve verificare che tutti gli ingredienti siano privi di glutine.

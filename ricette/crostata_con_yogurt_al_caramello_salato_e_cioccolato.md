@@ -1,0 +1,28 @@
+# Crostata con yogurt al caramello salato e cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: 150 g
+- Zucchero di canna: 100 g
+- Tuorli: (circa 1,5) 25 g
+- Sale fino: 1 pizzico
+- Baccello di vaniglia: 1
+- Yogurt al caramello salato: 300 g
+- Cioccolato fondente: 300 g
+- Panna fresca liquida: 300 g
+- Melagrana: q.b.
+- Nocciole: q.b.
+- Timo: q.b.
+
+## Preparazione
+Per preparare la crostata con yogurt al caramello salato e cioccolato come prima cosa preparate la frolla. Versate nella ciotola della planetaria la farina , il burro  e il sale . Lavorate gli ingredienti con il gancio a foglia sino ad ottenere un composto sabbioso.Unite al composto lo zucchero di canna  e lavorate ancora per alcuni istanti. Separate i tuorli in una ciotola, aggiungete la vaniglia  e versateli all'interno della planetaria .Azionate nuovamente la macchina sino ad ottenere un impasto uniforme e morbido . Trasferite l’impasto sul piano di lavoro  e lavoratelo velocemente in modo da ottenere un panetto .Avvolgetelo con la pellicola  e trasferite in frigo per almeno  minuti . Quando sarà ben rassodato trasferitelo su una spianatoia con poca farina  e stendetelo fino allo spessore di circa mezzo cm. Posizionate uno stampo a cerniera da  cm sulla frolla e utilizzatelo per intagliare un disco della stessa misura . Adagiate il disco di frolla sul fondo della tortiera  e con gli scarti realizzate delle strisce di circa  cm  che serviranno per realizzare il bordo .Dopo aver fatto aderire bene la base con le strisce laterali, rifilate il bordo con un coltellino . Forate la base di frolla con i rebbi di una forchetta  e adagiate all'interno della crostata un disco di carta forno. Create dei tagli con la punta di un coltellino  e cuocete in forno ventilato preriscaldato a ° per  minuti.Trascorso il tempo indicato eliminate la carta forno   e continuate la cottura per altri  minuti sempre a ° in forno ventilato, sino a che la base non risulterà dorata . Sfornate e lasciate raffreddare.Quando il guscio di frolla è completamente freddo estraetelo dallo stampo e trasferitelo in un piatto . Preparate ora la ganache al cioccolato. Tritate finemente il cioccolato fondente e portate la panna a sfiorare il bollore. Versate il cioccolato in una ciotola, poi aggiungete un terzo della panna  e mescolate .Aggiungete ancora circa metà della panna , mescolate energicamente e unite anche la panna rimanente. Dovrete ottenere una ganache liscia . Lasciate raffreddare e nel frattempo versate lo yogurt al caramello all'interno del guscio di frolla .Livellate la superficie  e riponete in frigorifero per  minuti. Frullate la ganache con un mixer ad immersione senza incorporare aria  e una volta trascorsi i  minuti versatela all'interno del guscio di frolla .Quando sarete arrivati al bordo  riponete la crostata in frigorifero per  minuti. Trasferite la ganache rimasta all'interno di un conetto di carta e tenete da parte a temperatura ambiente. Trascorsi i  minuti decorate la crostata con la ganache tenuta da parte, le nocciole, i chicchi di melagrana e il timo .
+
+## Descrizione
+Il risultato finale sarà una crostata dal sapore equilibrato tra il dolce del cioccolato e del caramello e la freschezza dello yogurt. La base croccante contrasta con la morbidezza della crema al cioccolato e yogurt, arricchita da tocchi di nocciole e melagrana. Il thimo aggiunge una nota erbacea e aromaticità alla preparazione.
+
+Questa crostata è adatta per occasioni speciali come feste, compleanni o anche come dessert per una cena elegante. Può essere servita calda o fredda a seconda delle preferenze.
+
+La crostata con yogurt al caramello salato e cioccolato è adatta per una dieta equilibrata se consumata con moderazione, grazie al contenuto di ingredienti freschi e genuini. Tuttavia, essendo un dolce ricco di zuccheri e grassi, è consigliabile limitarne il consumo se si segue una dieta ipocalorica.
+
+Le persone con intolleranze al lattosio potrebbero avere difficoltà a digerire lo yogurt al caramello salato e la panna fresca utilizzata nella ricetta. Inoltre, chi soffre di allergie alle noci dovrebbe evitare di aggiungere le nocciole tra gli ingredienti. È sempre consigliabile consultare un medico o un nutrizionista prima di consumare questo dolce in caso di intolleranze o allergie alimentari.

@@ -1,0 +1,31 @@
+# Pesce spada con salsa ai pomodori
+Categoria: Secondi piatti
+
+## Ingredienti
+- Pesce spada: (2 fette) 400 g
+- Limoni: 1
+- Maggiorana: 3 rametti
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pomodorini datterini: 250 g
+- Salsa Worcestershire: 20 ml
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: 15 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il pesce spada con salsa ai pomodori, per prima cosa occupatevi della marinatura che durerà giusto il tempo della preparazione. Ponete il filetto di pesce spada in una pirofila abbastanza ampia, aggiungete l’olio , le foglioline di maggiorana , la scorza grattugiata di un limone (tenetene un po’ da parte per la guarnizione finale) e il succo di mezzo limone . Rigirate il pesce da entrambi i lati per assicurarvi che si insaporisca uniformemente, poi ricoprite la pirofila con la pellicola trasparente  e mettetela temporaneamente da parte (in luogo fresco fuori frigo andrà bene per i pochi minuti necessari). Lavate i pomodorini e tagliateli a metà ;Scaldate l’olio in una padella, aggiungete lo spicchio d’aglio  e lasciatelo rosolare brevemente. Unite i pomodorini , salate, pepate e mescolate. Poi sfumate con la salsa Worcestershire .Lasciate cuocere i pomodorini per  minuti a fiamma media, mescolando di tanto in tanto. Una volta cotti, spegnete il fuoco, rimuovete l’aglio  e trasferiteli in un contenitore alto e stretto, poi frullateli con un frullatore a immersione  fino a ottenere una salsa liscia e omogenea .Scaldate bene un’altra padella (oppure utilizzate la stessa, per sfruttare il fondo di cottura dei pomodorini), prelevate il pesce spada dalla marinatura e adagiatelo nella padella, salate e scottate il pesce a fiamma medio-alta per  minuti da un lato  e per  minuto dall’altro . Una volta cotto, trasferite il pesce spada su un piatto e tagliatelo a cubetti .A questo punto potete assemblare i piatti da portata: cospargete il fondo con un po’ di salsa di pomodoro , aggiungete i bocconcini di pesce spada e infine guarnite con qualche fogliolina di maggiorana , la scorza di limone che avevate tenuto da parte e una macinata di pepe: il vostro pesce spada con salsa ai pomodori è pronto per essere servito !
+
+## Descrizione
+Il risultato finale è un secondo piatto leggero e gustoso, caratterizzato dalla delicatezza del pesce spada abbinato alla freschezza della salsa ai pomodori. La carne tenera e saporita del pesce, condita con succo di limone, maggiorana, olio extravergine d'oliva, sale e pepe, si completa con una salsa ai pomodori a base di pomodorini datterini, salsa Worcestershire, aglio, olio extravergine d'oliva, sale e pepe.
+
+Per quali occasioni è adatto:
+Questo piatto è particolarmente indicato per un pranzo o una cena leggera in estate, magari servito con contorno di verdure grigliate o insalata mista. Può essere proposto anche in occasioni speciali o cene eleganti.
+
+Per quali diete/regimi alimentari è adatto:
+Il pesce spada con salsa ai pomodori è adatto a una dieta mediterranea e a una dieta equilibrata, in quanto ricco di proteine, grassi buoni e sostanze antiossidanti presenti nei pomodorini. Può essere inserito in un regime alimentare controllato, come ad esempio una dieta ipocalorica o iperproteica.
+
+Intolleranze:
+Le persone con intolleranze al pesce devono ovviamente evitare questo piatto. Inoltre, chi è intollerante al glutine deve prestare attenzione alla salsa Worcestershire, che può contenere questa sostanza (nel caso, è possibile optare per un'alternativa senza glutine). Adatto anche a persone con intolleranza al lattosio, poiché non prevede l'uso di latticini.

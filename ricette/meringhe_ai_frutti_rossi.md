@@ -1,0 +1,20 @@
+# Meringhe ai frutti rossi
+Categoria: Dolci
+
+## Ingredienti
+- Fragole: 125 g
+- Lamponi: 60 g
+- Albumi: 100 g
+- Zucchero: 125 g
+
+## Preparazione
+Per preparare le meringhe ai frutti rossi, iniziate dalla pulizia della frutta. Sciacquate sotto acqua corrente i lamponi e le fragole, poi togliete a queste ultime le foglioline verdi aiutandovi con un coltello e dividetele a metà. Quindi versate nel mixer i lamponi e le fragole , azionate il mixer per frullare la frutta fino ad ottenere una polpa omogenea . Quindi filtratela con un colino a maglie strette, aiutandovi con una spatola o un cucchiaio per raccogliere la polpa setacciata in una ciotolina . La polpa così raccolta dovrà avere un peso di circa  g.Passatela poi in un pentolino, aggiungete  g di zucchero  e accendete il fuoco, mescolando per fa sciogliere lo zucchero . Portate la polpa a °  monitorando la temperatura con un termometro per alimenti. Quando lo sciroppo sarà arrivato a °, iniziate a montare gli albumi.Versate gli albumi nella ciotola di una planetaria  e azionate le fruste (se non avete la planetaria, potete utilizzare uno sbattitore elettrico). Quando saranno semi montati, con le fruste ancora in funzione aggiungete  gr di zucchero . Montate ancora per incorporare lo zucchero, poi quando lo sciroppo avrà raggiunto i ° aggiungetelo a filo agli albumi montati  continuando a far andare le fruste, fino a creare un composto spumoso omogeneo e completamente freddo.Quando la crema sarà pronta, trasferitela in una sac-à-poche con bocchetta a stella . Rivestite una leccarda con carta da forno e iniziate a creare ciuffi di meringhe distanziandoli un paio di cm gli uni dagli altri . Quando avrete terminato tutto l'impasto , cuocete in forno statico a ° per  ore, fino a quando le meringhe saranno sode e leggermente colorate sotto. Al contrario della meringa classica alla francese, questa meringa rimane ancora un po’ morbida all’esterno e croccante all’interno.
+
+## Descrizione
+Il risultato finale della ricetta "Meringhe ai frutti rossi" sono delle morbide e croccanti meringhe arricchite con fragole e lamponi freschi, che aggiungono un tocco di colore e sapore fruttato.
+
+Occasioni: Le meringhe ai frutti rossi sono perfette come dolce da servire dopo un pasto leggero, come dessert estivo da gustare in giardino o come merenda golosa.
+
+Dieta/Regime alimentare adatto: Le meringhe ai frutti rossi sono adatte a chi segue una dieta senza grassi aggiunti, in quanto sono fatte principalmente da albumi e frutta fresca.
+
+Intolleranze: Le persone con intolleranze al lattosio possono mangiare le meringhe ai frutti rossi, poiché non contengono latticini. Tuttavia, le persone con intolleranza al fruttosio dovrebbero prestare attenzione alla quantità di zucchero e frutta consumata.

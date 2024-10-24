@@ -1,0 +1,35 @@
+# Polenta con polpo in umido ed erbette saltate
+Categoria: Piatti Unici
+
+## Ingredienti
+- Polpo: (fresco) 750 g
+- Passata di pomodoro: 150 g
+- Acqua: 400 g
+- Scalogno: 1
+- Aglio: 1 spicchio
+- Vino bianco: 50 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Salvia: 2 rametti
+- Timo: 2 rametti
+- Olio extravergine d'oliva: 20 g
+- Farina di mais bramata: 250 g
+- Acqua: 500 g
+- Sale grosso: q.b.
+- Erbette: 300 g
+- Aglio: 1 spicchio
+- Sale fino: q.b.
+- Pepe nero: 2 g
+- Olio extravergine d'oliva: 15 g
+
+## Preparazione
+Per preparare la polenta con polpo in umido ed erbette, iniziate a portare a bollore una pentola con g di acqua salata. Quindi procedete con la pulizia del polpo. Dopo averlo sciacquato sotto acqua corrente fredda, ponetelo su un tagliere ed eliminate il becco: con un coltellino incidete intorno alla bocca, scavate l'interno ed estraete il becco . Togliete anche la sacca all’altezza degli occhi, quindi rimuovete la testa . Frollate la carne del polpo battendo con l’apposito martelletto, un batticarne o un utensile da cucina per  minuti, per rompere le fibre e rendere le carni più tenere. Sciacquate nuovamente il polpo sotto acqua corrente fredda ed estraete le interiora dalla sacca lavandola poi accuratamente all'interno. Dividete il polpo a metà ,separate ogni tentacolo  e riduceteli insieme alla testa in cubetti e striscioline . Mondate e affettate lo scalogno in rondelle sottili .In una pentola antiaderente con l' olio di oliva ponete una testa d’aglio e lo scalogno a soffriggere; quando questo è ben imbiondito, rimuovete l’aglio . Aggiungete il polpo e lasciatelo rosolare per - minuti , quindi sfumate con il vino bianco .Raggruppate in un mazzetto legato con spago da cucina tutte le erbe aromatiche e aggiungetelo al polpo , quindi versatevi anche la passata di pomodoro  e tanta acqua da ricoprire il pesce .Aggiustate di sale, pepe  e fate cuocere a fuoco dolce per  minuti. Nel frattempo occupatevi della polenta. In una pentola portate ad ebollizione l'acqua salata, poi versate la farina gialla a pioggia, mescolando ininterrottamente con una frusta ; amalgamate bene e coprite con un coperchio : fate cuocere la polenta a fuoco dolce per - minuti, mischiandola ogni tanto con un cucchiaio di legno (se secessario aggiungendo un mestolo di acqua). Intanto preparate il contorno; lavate le erbette sotto acqua corrente, scolatele ed asciugatele.Ponetele su un tagliere e tritatele grossolanamente , quindi saltatele assieme all’aglio in una padella con olio di oliva , aggiustatele di sale e pepe e fatele cuocere per - minuti. Una volta pronte, rimuovete la testa d’aglio  e lasciatele al caldo.Quando anche la polenta e il polpo saranno pronti, rimuovete il mazzetto di erbette da quest’ultimo  e ponete una porzione di erbette e un’abbondante cucchiaiata di polenta in un piatto da portata . Adagiate infine sulla polenta un po’ di polpo con il sugo di cottura : la vostra polenta con polpo in umido ed erbette è pronta per essere servita.
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto unico ricco e saporito, con la polenta morbida e cremosa, il polpo tenero e gustoso in umido con le erbette saltate che conferiranno un tocco di freschezza e croccantezza al piatto.
+
+Occasioni: Questa ricetta è adatta per una cena in famiglia, per un pranzo speciale o per un'occasione in cui si desidera stupire con un piatto raffinato e gustoso.
+
+Diete/Regimi alimentari: Questa ricetta è adatta per una dieta ricca di proteine e carboidrati, quindi ideale per chi pratica attività sportiva o vuole un pasto completo e nutriente. È consigliato verificare le quantità di olio e condimenti per chi segue una dieta ipocalorica.
+
+Intolleranze: Le persone con intolleranza al glutine devono evitare la farina di mais e controllare gli ingredienti della passata di pomodoro e del vino bianco per verificare che non contengano glutine. Le persone con intolleranza al lattosio devono controllare che la passata di pomodoro non contenga lattosio e possono eventualmente sostituire l'acqua con un brodo vegetale senza lattosio.

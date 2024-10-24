@@ -1,0 +1,23 @@
+# Pasta con crema di zucchine e burrata
+Categoria: None
+
+## Ingredienti
+- Strozzapreti: freschi 320 g
+- Zucchine: 500 g
+- Burrata: 250 g
+- Aglio: 1 spicchio
+- Basilico: 4 foglie
+- Menta: 4 foglie
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare la pasta con crema di zucchine e burrata, per prima cosa lavate e spuntate le zucchine, poi tagliatele a triangolini . In una padella antiaderente soffriggete lo spicchio di aglio nell’olio, poi aggiungete le zucchine , salate e pepate .Unite anche le foglie di basilico e di menta spezzettate con le mani  e cuocete le zucchine a fiamma moderata, con il coperchio, mescolando di tanto in tanto. Una volta cotte, prelevate metà delle zucchine e lasciate le altre nella padella . Nel frattempo portate a bollore una pentola di acqua salata e cuocete la pasta per il tempo indicato .Trasferite le zucchine messe da parte in un mixer , unite metà della burrata  e frullate fino ad ottenere una crema omogenea .Versate la crema nella padella con le zucchine rimaste , aggiungete un mestolo dell’acqua di cottura della pasta e mescolate bene . Trascorso il tempo di cottura, scolate la pasta direttamente nella padella .Mescolate per amalgamare la pasta al condimento . Completate il piatto con un cucchiaio di burrata a crudo  e servite la vostra pasta con crema di zucchine e burrata !
+
+## Descrizione
+Il risultato finale della ricetta "Pasta con crema di zucchine e burrata" sarà un piatto di pasta cremoso e saporito, arricchito dalla dolcezza delle zucchine e dalla cremosità della burrata. Le zucchine, aromatizzate con aglio, basilico e menta, saranno ridotte in crema per essere mescolate alla pasta, completando il piatto con pepe nero e olio extravergine d'oliva.
+
+Questo piatto è adatto per un pranzo o una cena leggera e raffinata, perfetto per un pasto estivo grazie alla freschezza delle zucchine e dell'aroma delle erbe aromatiche.
+
+La pasta con crema di zucchine e burrata è adatta per una dieta vegetariana, ma è consigliabile sostituire la burrata con un formaggio vegano per renderla vegana. Per quanto riguarda le intolleranze alimentari, questa ricetta contiene lattosio a causa della presenza di burrata, quindi non è adatta per persone con intolleranza al lattosio.

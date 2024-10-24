@@ -1,0 +1,21 @@
+# Finocchi in padella
+Categoria: Contorni
+
+## Ingredienti
+- Finocchi: (circa 2) 800 g
+- Olio extravergine d'oliva: q.b.
+- Timo: q.b.
+- Aglio: 2 spicchi
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare i finocchi in padella, iniziate lavando i finocchi, poi puliteli tagliando la base del torsolo e i gambi (questi ultimi potete usarli per aromatizzare una zuppa o un brodo). Dividete a metà ciascun finocchio e poi procedete tagliandoli a spicchi . Una volta tagliati i finocchi potete procedere con la cottura: scaldate l’olio di oliva extravergine in una padella con due spicchi di aglio .Insaporite i rametti di timo , poi aggiungete gli spicchi di finocchi . Aggiustate di sale .Pepate a piacere  e coprite con un coperchio . Cuocete per  minuti a fuoco medio (se preferite una consistenza finale più morbida potete proseguire alcuni minuti questa fase di cottura). Muovete la padella ogni tanto per muoverli, senza sfaldarli. Trascorsi i  minuti togliete il coperchio alzate la fiamma e cuocete per circa - minuti fino a farli prendere un bel colore , muovete sempre la padella per una cottura omogenea. Una volta pronti servite ben caldi.
+
+## Descrizione
+Il risultato finale della ricetta "Finocchi in padella" sarà un contorno gustoso e saporito, con i finocchi cotti alla perfezione e arricchiti dal profumo del timo e dell'aglio. Il pepe nero aggiunge un tocco di piccantezza che equilibra il dolce dei finocchi.
+
+Questa ricetta è adatta per accompagnare secondi piatti a base di carne o pesce, ma può essere gustata da sola come contorno leggero e salutare.
+
+I finocchi in padella sono adatti a persone che seguono una dieta vegetariana o vegana, in quanto non contengono ingredienti di origine animale. Sono inoltre adatti per chi segue una dieta ipocalorica, in quanto poveri di grassi e ricchi di fibre.
+
+Le persone con intolleranze possono mangiare i finocchi in padella, a meno che non siano allergiche agli ingredienti specifici come l'aglio. Le persone con intolleranze al lattosio o al glutine possono consumare questa ricetta senza problemi, in quanto non contiene nessuno di questi ingredienti.

@@ -1,0 +1,24 @@
+# Cuoricini semifreddi al frutto della passione
+Categoria: Dolci
+
+## Ingredienti
+- Gelatina in fogli: 6 g
+- Ricotta vaccina: cremosa 300 g
+- Panna fresca liquida: 250 g
+- Zucchero a velo: 120 g
+- Succo del frutto della passione: (circa 6 frutti) 70 g
+- Zucchero a velo: 1 cucchiaio
+- Frutti della passione: 3
+- Cioccolato fondente: foglie q.b.
+
+## Preparazione
+Per preparare i cuoricini semifreddi al frutto della passione, mettete in ammollo la colla di pesce in una ciotolina con acqua fredda . Poi tagliate a metà  frutti della passione , svuotateli della polpa e passatela al setaccio raccogliendo il succo ( ml) .Aiutatevi con una paletta per ricavare il succo spremendo bene i semini , poi versatelo in un pentoino. Ponetelo sul fuoco per scaldarlo leggermente, quindi versate i fogli di colla di pesce ben strizzati .Mescolate per far sciogliere completametne la colla di pesce  e tenete da parte. Intanto in una ciotolina versate la ricotta setacciata e unite la panna fresca liquida ; mescolate i due composti con una frusta a mano .Setacciate nella ciotola anche lo zucchero a velo  e quando si sarà incorporato, versate anche il succo in cui avete disciolto la colla di pesce . Amalgamate il tutto sempre con la frusta a mano .Versate il composto in un piccolo imbuto  in modo da riempire più facilmente gli stampini di silicone a cuore  (in alternativa utilizzate un cucchiaio); poi livellate la superficie degli stampini con una spatola . Lasciate riposare lo stampo in frigorifero per - ore o fino a completo rassodamento.Poi prima di tirare fuori dal frigorifero lo stampino, preparate la salsa ai frutti della passione: tagliate a metà tre frutti della passione, svuotateli dei semi e passateli al setaccio per raccoglierne il succo (come nei passaggi --); versate il succo in un tegamino  e aggiungete lo zucchero a velo . Cuocete a fuoco dolce e mescolate con una frusta per emulsionare. Una volta pronta, fatela rafferddare completamente. Ora che le preparazionoi sono pronte, potete impiattare i cuoricini semifreddi: preparate  piattini da portata, versate su ciascuno un pò di salsa ed estraete delicatamente i cuoricini dallo stampo .Appoggiate il cuore sulla salsa  poi decorate sbizzarrite la vostra fantasia per decorare il piatto con la salsa e i semini del frutto della passione (-).A questo punto potete completare la decorazione con originali cioccolatini (noi abbiamo utilizzato delle foglie fondenti)  e guarnire i cuoricini semifreddi al frutto della passione con poca salsa e qualche semino (-).
+
+## Descrizione
+Il risultato finale della ricetta "Cuoricini semifreddi al frutto della passione" sarà un dolce fresco e cremoso, dal gusto delicato e esotico del frutto della passione, arricchito dalla presenza di cioccolato fondente.
+
+Questa ricetta è perfetta per occasioni speciali come San Valentino o una cena romantica, grazie alla forma a cuoricino e al sapore raffinato. Può essere servita come dessert dopo un pasto leggero o come dolce da gustare in qualsiasi momento della giornata.
+
+Questa ricetta è adatta a persone che seguono una dieta equilibrata, purché consumata con moderazione. La presenza di ricotta e panna la rende adatta alle persone che seguono una dieta vegetariana.
+
+Le persone con intolleranze al lattosio dovranno fare attenzione alla presenza di ricotta e panna nella ricetta. In alternativa, è possibile utilizzare sostituti vegani come latte di cocco o yogurt di soia. Le persone con intolleranza al glutine dovranno verificare che gli ingredienti utilizzati siano privi di glutine e certificati senza glutine.

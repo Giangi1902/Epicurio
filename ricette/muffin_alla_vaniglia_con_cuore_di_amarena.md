@@ -1,0 +1,27 @@
+# Muffin alla vaniglia con cuore di amarena
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 190 g
+- Burro: ammorbidito 90 g
+- Latte intero: 125 ml
+- Zucchero: 100 g
+- Uova: 1
+- Tuorli: 1
+- Bicarbonato: 1 pizzico
+- Lievito in polvere per dolci: 8 g
+- Amarene sciroppate: 8
+- Baccello di vaniglia: ½
+- Sale fino: 1 pizzico
+
+## Preparazione
+Per realizzare i muffin alla vaniglia con cuore di amarena: in una ciotola ponete il burro ammorbidito, e sbattetelo con una frusta elettrica (o una planetaria) insieme allo zucchero (-), aggiungete l’uovo a temperatura ambiente , sempre continuando a sbattere,versate poi il latte a temperatura ambiente e proseguite mescolando gli ingredienti fino ad ottenere un composto omogeneo . A parte setacciate la farina con il lievito, il sale ed il pizzico di bicarbonato eunite le polveri al composto . A questo punto aromatizzate con i semi di mezza bacca di vaniglia . L'impasto dei muffin è pronto, distribuite l’impasto in  stampini in silicone adatti alla cottura in microonde .Inserite in ciascun muffin un’amarena , ponete i muffi su una teglia per microonde  e cuocete i muffin nel forno microonde Samsung Smart Oven seleionando il programma per cottura muffin - peso massimo  gr che sceglierà automaticamente tempo e temperatura di cottura in base al peso. A cottura ultimata sfornate i muffin e lasciateli intiepidire . I vostri muffin amarena e vaniglia sono pronti per essere gustati!
+
+## Descrizione
+Il risultato finale sarà dei muffin soffici e profumati alla vaniglia, con un cuore morbido e dolce di amarena al centro. Saranno leggermente dorati in superficie e rilasciano un profumo avvolgente di vaniglia.
+
+Questi muffin sono adatti per la colazione, la merenda o come dolce da gustare in qualsiasi momento della giornata. Possono essere serviti anche come dessert in occasioni speciali o feste.
+
+Questi muffin sono adatti per persone che seguono una dieta bilanciata, ma dovrebbero essere consumati con moderazione a causa dell'apporto calorico e di zuccheri. È consigliabile limitarne il consumo a chi segue una dieta ipocalorica o a coloro che hanno problemi di glicemia.
+
+Le persone con intolleranze alimentari al lattosio possono sostituire il latte intero con latte senza lattosio o con una bevanda vegetale. Per persone celiache è necessario utilizzare ingredienti privi di glutine, come la farina di riso o farina senza glutine, e verificare che il lievito in polvere per dolci sia certificato senza glutine. Le amarene possono causare problemi a coloro che sono intolleranti ai conservanti o coloranti artificiali.

@@ -1,0 +1,30 @@
+# Colac
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 700 g
+- Uova: 4
+- Strutto: 150 g
+- Zucchero: 100 g
+- Vino bianco secco: 50 g
+- Pane raffermo: (solo la mollica) 50 g
+- Mandorle pelate: 100 g
+- Noci: 100 g
+- Mele Golden: 1
+- Fichi secchi: 4
+- Scorza d'arancia: 1
+- Chiodi di garofano macinati: q.b.
+- Cannella in polvere: q.b.
+- Miele millefiori: 120 g
+
+## Preparazione
+Per preparare i colac molisani, iniziate dall'impasto: rompete le uova in una ciotolina e unite lo zucchero mescolando con una fochetta o una frusta fino a renderli un composto omogeneo . In un'altra ciotola capiente versate la farina, unite al centro i tuorli sbattuti con lo zucchero  e poi versate anche lo strutto .Versate anche il vino bianco secco  e cominciate ad amalgamare gli ingredienti con le mani . Quando avrete un impasto sufficientemente omogeneo, trasferitelo su una spianatoia leggermente infarinata . Continuate a lavorare alcuni minuti per ottenere un panetto.Avvolgetelo in pellicola . Conservate almeno un'ora in frigo mentre vi dedicate al ripieno: in un mixer versate la mollica di pane raffermo, le noci e le mandorle pelate , i fichi e la mela . Frullate fino ad ottenere un composto uniforme. Poi aromatizzate con cannella  e chiodi di garofano in polvere .Frullate ancora qualche istante , poi versate l'impasto ottenuto in un pentolino. Aggiungete il miele  e mescolate tutto cuocendo a fiamma bassa per pochissimi minuti .Trasferite poi il ripieno in una ciotola, mescolate per far intiepidire, poi profumate con scorza d'arancia grattugiata  e mescolate ancora. Riprendete l'impasto riposato, stendetelo fino ad ottenere un millimetro circa di spessore .Coppate con un coppapasta di circa  cm di diametro . Ponete al centro di ogni cerchietto un cucchiaino di ripieno , chiudete il raviolo e sigillate il bordo schiacciando con i rebbi di una forchetta . Cuocete in forno statico preriscaldato a  gradi per circa  minuti. Continuate ad impastare l'avanzo di impasto per creare altri biscotti da cuocere non appena gli altri saranno pronti: otterrete circa  biscottini con queste dosi. I vostro colac molisani sono pronti: basterà farli raffreddare completamente e poi cospargerli con zucchero a velo.Cuocete i vostri primi colac in forno statico preriscaldato a ° per circa  minuti. Continuate a stendere e lavorare l'avanzo d'impasto per creare altri biscotti da cuocere non appena gli altri saranno pronti: otterrete circa  biscottini con queste dosi. I vostro colac molisani sono pronti : basterà farli raffreddare completamente e poi cospargerli con zucchero a velo a piacere .
+
+## Descrizione
+Il risultato finale della ricetta sarà un dolce tradizionale calabrese dalla forma a ciambella, dal gusto intenso e ricco, con una consistenza morbida all'interno e croccante all'esterno grazie alle noci e alle mandorle.
+
+Occasioni: Il Colac è un dolce perfetto da servire durante le festività natalizie o in occasioni speciali come compleanni e anniversari.
+
+Diete: Questa ricetta non è adatta a regimi alimentari vegani o vegetariani a causa della presenza di uova e strutto. Tuttavia, può essere consumata all'interno di una dieta bilanciata come dessert occasionale.
+
+Intolleranze: Le persone con intolleranze al glutine dovrebbero evitare questo dolce a meno che non venga preparato con farina senza glutine. Inoltre, le persone con intolleranze alle noci o alle mandorle dovrebbero evitare di consumare il dolce o sostituire gli ingredienti con delle alternative sicure per loro.
