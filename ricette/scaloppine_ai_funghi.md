@@ -1,0 +1,26 @@
+# Scaloppine ai funghi
+Categoria: Secondi piatti
+
+## Ingredienti
+- Vitello: (noce) 400 g
+- Funghi champignon: (qualità crema) 500 g
+- Burro: 50 g
+- Pepe nero: q.b.
+- Farina 00: 40 g
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: 10 g
+- Sale fino: q.b.
+- Timo: q.b.
+- Rosmarino: tritato 1 rametto
+
+## Preparazione
+Per realizzare le scaloppine con i funghi tagliate a fette la noce di vitello , poi con il batticarne affettatele per renderle più sottili , infarinate le fettine di vitello da entrambi i lati  e poi scuotetele per eliminare la farina in eccesso.Ora occupatevi della pulizia dei funghi: con l’aiuto di un coltellino affilato dalla lama liscia cominciate a eliminare la parte terrosa sul gambo, raschiandolo con delicatezza fino ad eliminare qualsiasi traccia di terra . Se il fungo è abbastanza pulito, eliminate i pochi residui di terra con un pennello  oppure con un panno di cotone, non lavateli con acqua per non sciuparli. Affettate i funghi  e teneteli da parte.Ora procedete con la cottura della carne: in una padella sciogliete metà dose di burro ( gr) aggiungendo anche l’olio di oliva ; una volta sciolto, adagiate le fettine di vitello infarinate, salate e pepate  e fatele rosolare  minuti per lato  o fino a quando non si formerà la crosticina.Una volta ben dorate lasciatele intiepidire su un piatto  e occupatevi dei funghi: nella stessa padella in cui avete cotto la carne, sciogliete l’altra metà del burro, insaporite con lo spicchio di aglio intero e il rosmarino tritato  , aggiungete i funghi affettati  e saltate a fuoco medio per due minuti, quindi salate e pepate a piacere.Unite a questo punto le fettine di vitello rosolate e tenute da parte  e aromatizzate con le foglioline di timo , fate insaporire a fuoco basso per un minuto, aggiungendo un mestolo di acqua se necessario, e servite le scaloppine con i funghi ben calde !
+
+## Descrizione
+- Risultato finale: Le scaloppine ai funghi sono un piatto gustoso e cremoso, in cui la morbida carne di vitello si sposa perfettamente con i funghi champignon, arricchiti da aromi di aglio, rosmarino e timo. La salsa cremosa che avvolge le scaloppine rende il piatto irresistibile e ricco di sapore.
+
+- Occasioni adatte: Le scaloppine ai funghi sono perfette per un pranzo o una cena speciale, magari da servire a ospiti o durante le festività.
+
+- Diete adatte: Questa ricetta è adatta a chi segue una dieta bilanciata e varia, ricca di proteine e verdure. È consigliabile consumare le scaloppine ai funghi con contorni leggeri, come verdure grigliate o insalata.
+
+- Intolleranze: Le persone con intolleranza al lattosio possono sostituire il burro con olio extravergine d'oliva e utilizzare formaggi senza lattosio. Le persone con intolleranza al glutine possono substituire la farina con una versione senza glutine o optare per una panatura diversa. Infine, chi soffre di intolleranza ai funghi dovrà ovviamente evitare questo piatto.

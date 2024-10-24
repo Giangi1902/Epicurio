@@ -1,0 +1,26 @@
+# Trifle
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero a velo: 15 g
+- Panna fresca liquida: 150 g
+- Pan di Spagna: 80 g
+- Fragole: 400 g
+- Zucchero a velo: 60 g
+- Amido di mais (maizena): 25 g
+- Baccello di vaniglia: ½
+- Zucchero: 75 g
+- Tuorli: 3
+- Latte intero: 250 ml
+
+## Preparazione
+Per preparare il trifle tagliate le fragole a spicchi regolari  e mettetele in una ciotola capiente a macerare con lo zucchero a velo , quindi coprite con la pellicole e mettete in il tutto in frigorifero per una notte : lo zucchero dovrà sciogliersi completamente e formare uno sciroppo con le fragole.Prendete ora il pan di Spagna e tagliatelo a cubetti, spessi circa  cm  (se volete preparare da soli il pan di Spagna, seguite la nostra ricetta: cliccate qui), poi mettetelo da parte e preparate la crema pasticcera, con metà dose, seguendo la ricetta che trovate cliccando qui . Montate ora la panna insieme allo zucchero a velo  fino ad ottenere una consistenza molto cremosa, quindi iniziate a comporre il trifle: prendete un bicchiere capiente (a semisfera o a cilindro) e disponete sul fondo dei cubetti di pan di Spagna ,aggiungete un paio di cucchiai di fragole con lo sciroppo , che servirà da bagna, quindi mettete, aiutandovi con due sac à poche, la crema pasticcera  e la panna montata .Formate ora un secondo strato disponendo, come per il primo, cubetti di pan di Spagna , fragole , crema pasticcera, panna montata e, per guarnire,  fragoline tagliate a metà .
+
+## Descrizione
+Il risultato finale è un dolce soffice e cremoso composto da strati di pan di Spagna inzuppati nel latte e vaniglia, arricchiti da una crema alla vaniglia con fragole fresche e panna montata.
+
+Questo dolce è adatto per occasioni speciali come pranzi o cene eleganti, buffet e feste di compleanno.
+
+La ricetta può essere adatta a chi segue una dieta bilanciata e controllata, ma è consigliabile consumarlo con moderazione per via degli zuccheri e delle calorie presenti.
+
+Le persone con intolleranze al lattosio o al glutine dovrebbero fare attenzione poiché la ricetta contiene latte e pan di Spagna. Tuttavia, si possono trovare alternative senza glutine e lattosio per adattare la ricetta alle esigenze alimentari di chi ha queste intolleranze.

@@ -1,0 +1,33 @@
+# Salmone croccante su crema di cannellini
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di salmone: 800 g
+- Pangrattato: 20 g
+- Albumi: 1
+- Aneto: 2 rametti
+- Timo: 2 rametti
+- Prezzemolo: 1 ciuffo
+- Granella di pistacchi: 40 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Fagioli cannellini precotti: 500 g
+- Salvia: 3 foglie
+- Rosmarino: 1 rametto
+- Aglio: 1 spicchio
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Brodo vegetale: q.b.
+
+## Preparazione
+Per preparare il salmone croccante su crema di cannellini, iniziate diliscando il filetto di salmone: munitevi di pinzetta ed eliminate le lische che si trovano lungo il dorso; una volta eseguita questa operazione, tastate le carni per assicurarvi di averle eliminate tutte. Quindi praticate il taglio a farfalla: tagliate il filetto in  fette larghe circa tre dita  ed incidete a metà ogni fetta, senza tagliare completamente ; infine aprite le fette di salmone a libro , adagiatele su un piatto e mettetele da parte. Questo taglio si può praticare anche se avete un filetto di salmone con la pelle.Ora preparate le erbe aromatiche che vi serviranno per ricoprire le vostre farfalle di salmone: tritate finemente un ciuffo di prezzemolo ,  rametti di timo  e  rametti di aneto .Versate un trito di pistacchi sgusciati in una pirofila  e unite anche il trito di erbe aromatiche e il pangrattato , infine salate e pepate a piacere, in questo modo avete preparato la panure. Dopdiché rompete un uovo, eliminate il tuorlo e sbattete leggermente l’albume .Spennellate l’intera superficie di ogni farfalla di salmone con l’albume , quindi adagiatele nella pirofila con la panure e rigiratele da entrambi i lati fino a farle ricoprire completamente (-). Ponete le farfalle di salmone rivestite su un vassoio e tenete da parte.Dedicatevi alla crema di cannellini: prendete una pentola capiente e fate scaldare uno spicchio d’aglio sbucciato e un filo d’olio extravergine , quindi aggiungete la salvia  e il rosmarino, lasciate soffriggere per qualche minuto (se volete potete togliere l'aglio dopo aver insaporito l'olio), quindi versate i fagioli cannellini precedentemente ammollati e lessati .Irrorate con un paio di mestoli di brodo vegetale , insaporite con sale e pepe e lasciate cuocere per qualche minuto, fino a quando i fagioli non saranno cremosi e asciutti. Per scoprire come prepararlo al meglio, consultate la nostra Scuola di cucina: brodo vegetale. A questo punto togliete la pentola dal fuoco e passate il composto con un frullatore ad immersione  direttamente nella pentola, fino a quando non otterrete una crema liscia e densa .Ora cuocete le farfalle di salmone: fate scaldare bene una griglia o una padella larga, questo è un passaggio importante perché basteranno davvero pochi minuti di cottura a fuoco vivace per mantenere la carne morbida, in alternativa potete cuocere il salmone a fuoco più basso avendo cura di non asciugare troppo la carne. Potete in alternativa cuocere in padella con un fio di olio. Cuocete da entrambi i lati a fuoco moderato fino a che l’esterno non si colorirà (-) e l’esterno rimarrà succoso. Non vi resta che impiattare: formate un letto di crema di cannellini sul piatto da portata e adagiateci sopra la farfalla di salmone, terminate con un ciuffetto di aneto, una spolverata di timo e un filo di olio crudo . Servite il vostro salmone croccante su crema di cannellini e gustatelo ben caldo!
+
+## Descrizione
+Il risultato finale sarà un delizioso filetto di salmone croccante su una cremosa crema di cannellini, arricchita da aromi freschi di erbe e granella di pistacchi.
+
+Occasioni: Questo piatto è perfetto per una cena speciale o una occasione importante.
+
+Diete: Questa ricetta è adatta per una dieta ricca di proteine e salutare, ma è da evitare per chi segue una dieta vegetariana o vegana.
+
+Intolleranze: Le persone con intolleranza al pesce non potranno consumare questo piatto, mentre possono trovarlo adatto le persone intolleranti al glutine se si utilizzano pangrattato e granella di pistacchi privi di glutine.

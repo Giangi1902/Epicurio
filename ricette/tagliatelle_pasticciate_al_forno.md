@@ -1,0 +1,35 @@
+# Tagliatelle pasticciate al forno
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 400 g
+- Uova: 4
+- Paprika piccante: q.b.
+- Ricotta mista: 300 g
+- Salsiccia: 250 g
+- Pisellini: 150 g
+- Carote: 100 g
+- Cipolle: 100 g
+- Parmigiano Reggiano DOP: da grattugiare 60 g
+- Sedano: 1 costa
+- Aglio: 1 spicchio
+- Latte intero: 100 ml
+- Vino bianco: 30 ml
+- Olio extravergine d'oliva: q.b.
+- Pangrattato: q.b.
+- Timo: q.b.
+- Noce moscata: q.b.
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare le tagliatelle pasticciate al forno iniziate dalla pasta fresca all'uovo: nella ciotola di una planetaria dotata di gancio a uncino, versate la farina setacciata , le uova e un pizzico di paprika . Azionate la planetaria per lavorare gli ingredienti .Continuate ad impastare fino a quando l'impasto non sarà diventato liscio e omogeneo e si staccherà dalle pareti . Formate un panetto e avvolgetelo con pellicola  per riporlo in frigorifero almeno  ora. Intanto dedicatevi al ripieno: sgranate i piselli poi tritate finemente le carote , la cipolla e il sedano, il timo  e la salsiccia privata del rivestimento esterno .In una padella ampia fate soffriggere le carote, le cipolle, il sedano e uno spicchio d'aglio sbucciato con un filo d'olio. Quando il soffritto si sarà appassito, unite la salsiccia tritata , mescolate e fate rosolare bene, quindi unite anche il timo  e sfumate con il vino bianco .Quando il vino sarà sfumato e la salsiccia ben rosolata, aggiungete i piselli  e lasciate cuocere una decina di minuti ancora, poi aggiustate di sale e pepe e spegnete il fuoco . in una ciotolina, setacciate la ricotta aromatizzatela con noce moscata , condite con sale e pepe a piacere, poi unite il latte  e amalgamate gli ingredienti prima di aggiungere il ragù bianco .Mescolate gli ingredienti  e tenete il ripieno da parte. Riprendete la pasta fresca  dividetela in due panetti per stenderla più facilmente. Montate la macchinetta per stendere la pasta alla planetaria, che proprio con il movimento planetario vi permetterà di tirare la sfoglia .Ripetete l'operazione più volte fino a quando non diventerà sottile pochi millimetri, poi impostatela in modo da ottenere le tagliatelle  che potrete stendere su un setaccio o un vassoio leggermente infarinato e spolverizzate con poca farina per farle asciugare . Dopo averle fatte riposare - minuti, potete cuocerle in acqua bollente in cui avrete versato poco olio (servirà ad impedire che le tagliatelle si appiccichino tra loro in cottura) .Cuocete le tagliatelle - minuti  e scolatele al dente; ponetele in una ciotola e versate il condimento di ragù e crema di ricotta , quindi mescolate accuratamente .Prendete una teglia x e spennellatela con il burro , quindi cospargetela di pangrattato sia sul fondo che sui bordi (-).Versate all'interno le tagliatelle condite distribuendole uniformemente; spolverizzate con il Parmigiano Reggiano  e fatele gratinare in forno sotto il grill a ° per - minuti. Quindi sfornate le tagliatelle pasticciate al forno  e servitele ben calde!
+
+## Descrizione
+Il risultato finale delle tagliatelle pasticciate al forno sarà un piatto ricco e saporito, con una consistenza cremosa e croccante grazie alla cottura in forno. Le tagliatelle saranno arricchite da un condimento a base di salsiccia, verdure e ricotta, il tutto gratinato con parmigiano reggiano DOP e pangrattato.
+
+Questo piatto è adatto per occasioni informali e conviviali, perfetto da preparare per pranzi o cene in famiglia o tra amici.
+
+Le tagliatelle pasticciate al forno sono adatte a una dieta equilibrata e varia, grazie alla presenza di carboidrati, proteine e verdure. Tuttavia, è consigliabile consumarle con moderazione per non eccedere nelle calorie.
+
+Le persone con intolleranze alimentari alla lattosio potrebbero avere difficoltà a digerire la ricotta e il parmigiano reggiano, mentre coloro che soffrono di celiachia devono fare attenzione alla presenza della farina nel piatto. Inoltre, chi è allergico alle uova dovrebbe evitare di consumare questo piatto.

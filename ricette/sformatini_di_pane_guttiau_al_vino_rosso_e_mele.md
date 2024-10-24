@@ -1,0 +1,25 @@
+# Sformatini di pane guttiau al vino rosso e mele
+Categoria: Antipasti
+
+## Ingredienti
+- Mele Golden Delicious: 320 g
+- Pane guttiau: 120 g
+- Gorgonzola: dolce 170 g
+- Latte intero: 90 g
+- Vino rosso: Teroldego q.b.
+- Burro: 10 g
+- Rosmarino: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare gli sformatini di pane guttiau al vino rosso e mele, lavate le mele e dividetele a spicchi , senza togliere la buccia. Eliminate il picciolo e il torsolo e tagliate gli spicchi ancora a metà  per poi ridurli a cubetti di circa , cm .Sciogliete il burro in una padella, aggiungete le mele  e il rosmarino , salate, pepate e fate rosolare a fiamma vivace per circa  minuti fino a che non risulteranno ben dorate .Mettete il gorgonzola in un bicchiere alto e stretto, unite il latte  e frullate con un frullatore a immersione  fino ad ottenere una consistenza densa e cremosa, simile alla besciamella .A questo punto potete assemblare gli sformatini: sistemate  coppapasta del diametro di  cm su una leccarda foderata con carta forno, poi spezzettate con le mani il pane guttiau e immergete un pezzo per volta nel vino rosso in modo che si ammorbidisca . Create un primo strato di pane guttiau ammorbidito all’interno dei coppapasta , aggiungete dei tocchettini di mela e irrorate con un po’ di salsa al gorgonzola . Aggiungete un pezzetto di pane guttiau croccante  e proseguite con gli strati alternando il pane guttiau ammorbidito ,le mele , il gorgonzola e il pane croccante fino ad ottenere un totale di  strati: finite con i pezzettini di mela irrorati di salsa al gorgonzola . Cuocete gli sformatini all’interno del coppapasta in forno statico preriscaldato a ° per  minuti .Una volta cotti, trasferite gli sformatini sui piatti da portata, rimuovete delicatamente il coppapasta  e guarnite con un pezzettino di pane croccante , salsa al gorgonzola e qualche ago di rosmarino: i vostri sformatini di pane guttiau al vino rosso e mele sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale sarà un delizioso antipasto composto da sformatini di pane guttiau arricchiti dal sapore delle mele e del vino rosso, con una piacevole nota di gorgonzola dolce e rosmarino.
+
+Occasioni adatte: Questa ricetta è perfetta da servire come antipasto in occasioni speciali come cene eleganti o feste con amici e parenti.
+
+Diete o regimi alimentari adatti: Questa ricetta è adatta a una dieta lacto-ovo-vegetariana poiché contiene latticini ma non carne o pesce.
+
+Intolleranze alimentari: Le persone con intolleranza al lattosio possono sostituire il latte intero con latte senza lattosio. Le persone con intolleranza al glutine possono sostituire il pane guttiau con una versione senza glutine. Gli intolleranti al formaggio possono omettere il gorgonzola dolce o sostituirlo con un formaggio non caseario.

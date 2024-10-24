@@ -1,0 +1,28 @@
+# Torta di farro e yogurt
+Categoria: Dolci
+
+## Ingredienti
+- Farina di farro: 170 g
+- Yogurt greco: a temperatura ambiente 250 g
+- Mele Granny Smith: 2
+- Zucchero: 180 g
+- Burro: a temperatura ambiente 100 g
+- Uova: medie, a temperatura ambiente 2
+- Lievito in polvere per dolci: 10 g
+- Fecola di patate: 50 g
+- Baccello di vaniglia: 1
+- Sale fino: 1 pizzico
+- Burro: q.b.
+- Farina 00: q.b.
+- Zucchero: q.b.
+- Zucchero a velo: 40 g
+
+## Preparazione
+Per preparare la torta di farro e yogurt iniziate dalle polveri: in una ciotola setacciate la farina di farro  con il lievito  e la fecola di patate . Una volta svolta questa operazione mettete la ciotola un attimo da parte.Nella planetaria mettete il burro tagliato a tocchetti  e, mentre la planetaria lavora, aggiungete lo zucchero  e i semi del baccello di vaniglia .Unite anche lo yogurt greco  e continuate la lavorare fino a quando non avrete ottenuto un composto spumoso. A quel punto aggiungete le uova a temperatura ambiente  e, sempre continuando a montare, unite anche il sale .A questo punto aggiungete anche le polveri che avete precedentemente setacciato, unendone un cucchiaio alla volta . Una volta avrete aggiunto tutte le polveri e ottenuto un impasto liscio e senza grumi  versate l'impasto in uno stampo da  cm di diametro con cerniera apribile, imburrato e infarinato .Livellate l'impasto nello stampo con l'aiuto di una marisa  e poi spolverizzate la superficie con un cucchiaio di zucchero (-).Ora passate alle mele: lavatele bene e tagliatele a spicchi (-), ottenendo degli spicchi di circa  millimetri di spessore .Disponete gli spicchi di mela sulla superficie della torta, sovrapponendoli leggermente (-) e formando un cerchio, lasciando vuoto il centro della torta .Spolverizzate la superficie con lo zucchero a velo  e infornate in forno statico preriscaldato a °, sul ripiano medio, per  minuti . Trascorso questo tempo fate la prova dello stecchino: se lo stecchino rimane pulito e asciutto significa che la torta è cotta a dovere, e potete sfornarla . Lasciatela raffreddare prima di trasferirla su un piatto da portata e servirla: la vostra torta di farro e yogurt è pronta per essere gustata!
+
+## Descrizione
+Il risultato finale della Torta di farro e yogurt sarà una torta soffice e umida, con un delicato sapore di farro e yogurt, arricchita dal profumo della vaniglia e dalla dolcezza delle mele. La superficie sarà leggermente croccante grazie alla presenza dello zucchero e del burro.
+
+Questa torta è adatta per varie occasioni, come la colazione, la merenda o come dessert da servire dopo un pasto. Grazie alla presenza di ingredienti come la farina di farro e lo yogurt, è perfetta per chi segue una dieta vegetariana.
+
+Le persone con intolleranze al lattosio potrebbero avere difficoltà a digerire lo yogurt presente nella ricetta. Inoltre, chi soffre di intolleranza al glutine dovrebbe prestare attenzione all'utilizzo di farina di farro che, pur essendo più digeribile rispetto al grano, contiene comunque glutine e potrebbe causare problemi a chi è celiaco o sensibile al glutine.

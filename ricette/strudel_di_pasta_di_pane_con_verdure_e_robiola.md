@@ -1,0 +1,33 @@
+# Strudel di pasta di pane con verdure e robiola
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 0: 250 g
+- Miele: 10 g
+- Sale: 1 pizzico
+- Birra: 150 ml
+- Lievito di birra fresco: 18 g
+- Timo: 1 cucchiaio
+- Parmigiano Reggiano DOP: grattugiato 1 cucchiaio
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Robiola: 100 g
+- Triplo concentrato di pomodoro: 1 cucchiaio
+- Zucchine: 1
+- Carote: 1
+- Zucca: polpa 100 g
+- Cipolle rosse di Tropea: 1
+- Peperoni rossi: 1/2
+- Uova: per spennellare 1
+- Olio extravergine d'oliva: q.b.
+- Peperoni gialli: 1/2
+
+## Preparazione
+Per preparare lo strudel di pasta di pane con verdure e robiola iniziate con la preparazione dell’impasto di pane: mettete la birra in una ciotola  e scioglietevi il miele e il lievito di birra  (in alternativa al lievito di birra fresco potete usare  g di lievito di birra disidratato). Unite quindi il liquido così ottenuto alla farina e impastate aggiungendo se servisse altra birra ,fino a che avrete ottenuto una consistenza morbida ed elastica come il classico impasto per il pane . Fate lievitare l’impasto per circa due ore (dovrà raddoppiare di volume). Nel frattempo lavate bene le verdure e riducetele a cubetti, poi ponetele in una padella antiaderente con due cucchiai di olio , fatele cuocere e ammorbidire, salate e pepate. Ponete le verdure in una ciotola e fatele intiepidire, aggiungetevi quindi la robiola ,il timo , il parmigiano, sale e pepe . Stendete la pasta di pane su di una spianatoia, spennelatela con l’uovo sbattuto e distribuitevi il composto di verdure e robiola , avendo cura di lasciare i margini della pasta vuoti. Arrotolate la pasta (come per uno strudel) e premete bene sulle estremità per chiuderlo . Adagiate lo strudel su una teglia e spennelatelo con dell’olio , fatelo quindi lievitare per circa  minuti. Cuocete lo strudel in forno a °C per / minuti. Fatelo intiepidire e servitelo tagliandolo a fettine!
+
+## Descrizione
+Il risultato finale di questa ricetta è uno strudel di pasta di pane con verdure e robiola, croccante all'esterno e morbido e saporito all'interno. Le verdure aggiungono freschezza e colore al piatto, mentre la robiola dona cremosità e un tocco di sapore delicato.
+
+Questo piatto è adatto come antipasto o come secondo piatto leggero, perfetto da servire in occasioni informali o come piatto unico in un pranzo o una cena leggera.
+
+Questa ricetta è adatta a una dieta equilibrata e può essere consumata da persone vegetariane. È importante controllare la compatibilità con specifiche diete o regimi alimentari, come ad esempio la dieta senza glutine nel caso di intolleranza al glutine. Le persone con intolleranza al lattosio dovrebbero evitare la robiola o sostituirla con un formaggio senza lattosio.

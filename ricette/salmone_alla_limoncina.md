@@ -1,0 +1,29 @@
+# Salmone alla limoncina
+Categoria: Secondi piatti
+
+## Ingredienti
+- Tranci di salmone: (4 pezzi) 800 g
+- Olio extravergine d'oliva: 100 ml
+- Succo di limone: 1
+- Prezzemolo: 1 ciuffo
+- Aglio: ½ spicchio
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Carciofi: 4
+- Succo di limone: 1
+- Brodo vegetale: 150 ml
+- Aglio: 1 spicchio
+- Sale fino: 1 pizzico
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare il salmone alla limoncina, iniziate dai carciofi che accompagneranno il salmone (se preferite potete effettuare la pulizia dei carciofi anche con dei guanti per non macchiarvi le dita): in una ciotola capiente versate dell'acqua fredda e spremete il succo di un limone ; l'acqua servirà a non far diventare neri i carciofi a mano a mano che li taglierete. Quindi eliminate con un coltello tutto il gambo dei carciofi , poi staccate con le mani le foglie esterne  fino ad arrivare a quelle più tenere e bianche.Una volta eliminate le foglie esterne, tagliate le punte del carciofo  e poi dividetelo a metà . Quindi con un coltellino eliminate la barbetta interna del carciofo .Tagliate i carciofi a fettine sottili , quindi versateli a mano a mano nella ciotola con acqua e limone . Quando avrete terminato i carciofi, scolateli .Poi in una padella capiente versate un filo d'olio e lo spicchio d'aglio sbucciato . Quindi versate i carciofi scolati , mescolate e aggiungete un pizzico di sale .Versate in padella anche il brodo vegetale  per favorire la cottura e cuocete per circa  minuti i carciofi a fuoco vivace, aggiungendo altri mestoli di brodo vegetale a mano a mano. Mentre i carciofi cuociono, sminuzzate il prezzemolo . Poi spremete il succo di un limone .Quindi in una ciotolina versate  ml di olio , il succo del limone spremuto  e mescolate per emulsionare i due liquidi .Aggiungete anche il pepe e il sale a piacere , poi mezzo spicchio d'aglio sbucciato  e il prezzemolo tritato .Mescolate nuovamente per amalgamare gli ingredienti . Quindi prendete il salmone norvegese fresco, eliminate le spine più evidenti con l'aiuto di una pinzetta  quindi ponetele su una leccarda rivestita con carta da forno e spennellate ciascuna fetta con l'emulsione di olio e limone . Potete anche lasciare un po' di emulsione da parte per aggiungerla a fine cottura.Quando avrete terminato di cospargere le fette con l'emulsione , infornatele a ° per circa - minuti: il salmone infatti non dovrà cuocere molto per mantenere la sua carne tenera e gustosa. A metà cottura girate le fette dall'altro lato , quindi sfornatele, poi impiattate aggiungendo il letto di carciofi e ancora dell'emulsione .
+
+## Descrizione
+Il risultato finale della ricetta "Salmone alla limoncina" sarà un piatto gustoso e profumato, in cui il salmone si sposa perfettamente con il fresco aroma della limoncina e il sapore delicato dei carciofi. I tranci di salmone saranno cotti alla perfezione, con una leggera crosticina dorata all'esterno e una consistenza morbida e succulenta all'interno.
+
+Occasioni adatte: Questa ricetta è adatta per una cena speciale o per un pranzo rustico ma raffinato. Può essere servita come piatto principale in un pranzo in famiglia o in una cena tra amici.
+
+Diete adatte: Il salmone alla limoncina è adatto a una dieta Mediterranea e può essere inserito in un regime alimentare sano ed equilibrato. È ricco di proteine, acidi grassi omega-3 e vitamine, ed è ideale per chi segue una dieta bilanciata.
+
+Intolleranze: Le persone con intolleranza al lattosio possono consumare questa ricetta senza problemi, in quanto non contiene latticini. Tuttavia, coloro che soffrono di intolleranza al pesce dovrebbero evitare questo piatto. Si consiglia inoltre di verificare la presenza di allergie al prezzemolo, agli agrumi e agli ortaggi.

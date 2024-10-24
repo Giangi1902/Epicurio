@@ -1,0 +1,32 @@
+# Torta al caramello salato
+Categoria: None
+
+## Ingredienti
+- Farina di mandorle: 150 g
+- Farina 00: 150 g
+- Burro: freddo 150 g
+- Zucchero: 150 g
+- Uova: 1
+- Scorza d'arancia: 10 g
+- Sale fino: 3 g
+- Arachidi salate tostate: 90 g
+- Panna fresca liquida: 80 g
+- Zucchero: (75 g + 65 g) 140 g
+- Marzapane: 75 g
+- Scorza d'arancia: 5 g
+- Uova: 1
+- Zucchero: 20 g
+- Sale fino: 5 g
+- Oro alimentare: foglie q.b.
+
+## Preparazione
+Per realizzare la torta al caramello salato per prima cosa preparate la frolla: in una ciotola versate il burro  e lo zucchero , poi lavorate velocemente per amalgamarli .Dopo aver incorporato lo zucchero, aggiungete la scorza grattugiata di arancia , il sale  e l’uovo .Impastate bene il tutto , poi unite la farina   e la farina di mandorle .Lavorate ancora con le mani per incorporare le polveri , poi trasferite il composto sul piano di lavoro e continuate a impastare fino ad ottenere una consistenza liscia e omogenea . Formate un panetto, avvolgetelo nella pellicola e lasciate riposare in frigorifero per  ore .Nel frattempo occupatevi della farcitura: versate  g di zucchero in un pentolino e mettetelo sul fuoco medio-alto, senza toccarlo. Quando lo zucchero inizierà a sciogliersi sui bordi potete abbassare la fiamma e mescolare con un cucchiaio di legno fino a scioglierlo completamente . Intanto fate scaldare la panna in un altro pentolino e portatela a sfiorare il bollore. Quando lo zucchero si sarà sciolto quasi del tutto unite la panna bollente  e mescolate per amalgamare. Dopodiché aggiungete il marzapane a pezzetti .Mescolate fino a sciogliere completamente il marzapane nel caramello bollente , poi spegnete il fuoco e unite le arachidi salate  e la scorza grattugiata di arancia .Versate anche i restanti  g di zucchero  e mescolate bene per amalgamare il tutto . Trasferite il ripieno in un contenitore basso e largo e lasciate raffreddare a temperatura ambiente .Trascorso il tempo di riposo della frolla stendetela sul piano leggermente infarinato fino a uno spessore di  mm . Adagiate sulla frolla uno stampo del diametro di  cm e utilizzatelo per ritagliare  dischi, uno per la base (dovrà coprire anche i bordi) e uno per la copertura . Foderate lo stampo con il primo disco di frolla e rimuovete l’eccesso con un coltellino .Aggiungete il ripieno all’interno del guscio di frolla  e stendetelo uniformemente con il dorso di un cucchiaio. Sbattete un uovo in una ciotola e spennellate il bordo della torta . Riprendete il secondo disco di frolla e praticate un piccolo foro al centro : in questo modo uscirà l’aria in cottura.Ricoprite la crostata con il disco di frolla forato  e premete sui bordi per farlo aderire bene. Ora aggiungete lo zucchero e il sale all’uovo sbattuto  e mescolate .Spennellate la superficie della torta con il composto ottenuto , poi cuocete in forno statico preriscaldato a ° per circa  minuti. Quando la superficie sarà bella dorata sfornate e lasciate raffreddare nello stampo , poi sformate e guarnite con le foglie d’oro: la vostra torta al caramello salato è pronta per essere servita !
+
+## Descrizione
+Risultato finale: La torta al caramello salato è un dolce dal sapore equilibrato tra dolce e salato. Ha una base di pasta frolla croccante arricchita con farina di mandorle, un ripieno di caramello salato fatto con arachidi tostate e un tocco di arancia. La superficie è decorata con marzapane e foglie d'oro alimentare.
+
+Occasioni adatte: Questa torta è perfetta per occasioni speciali come compleanni, feste e cene eleganti. Può essere servita come dolce finale o come dessert accompagnato da gelato o panna montata.
+
+Diete o regime alimentare adatte: La torta al caramello salato non è indicata per diete particolarmente restrittive o regimi alimentari specifici. Tuttavia, può essere adatta a una dieta bilanciata se consumata con moderazione.
+
+Intolleranze: Le persone con intolleranza al glutine possono mangiare questa torta se viene preparata con una farina senza glutine al posto della farina 00. Tuttavia, va tenuto presente che gli ingredienti come arachidi, burro e panna possono provocare reazioni allergiche in persone con specifiche intolleranze o allergie a questi alimenti. È consigliabile verificare attentamente gli ingredienti utilizzati e consultare un medico in caso di dubbi o preoccupazioni.

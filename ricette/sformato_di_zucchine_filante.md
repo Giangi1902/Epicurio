@@ -1,0 +1,27 @@
+# Sformato di zucchine filante
+Categoria: Antipasti
+
+## Ingredienti
+- Zucchine: 900 g
+- Aglio: 1 spicchio
+- Formaggio fresco spalmabile: 350 g
+- Uova: (2 piccole) 100 g
+- Grana Padano DOP: 180 g
+- Pangrattato: 100 g
+- Scamorza affumicata: 200 g
+- Olio extravergine d'oliva: q.b.
+- Timo: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Come prima cosa lavate bene le zucchine ed eliminate la parte finale. Ora usando una mandolina tagliatele fino ad ottenere uno spessore di circa  mm . Proseguite in questo modo, tagliandole tutte a rondelle . Versate un filo d’olio in padella, aggiungete lo spicchio d’aglio schiacciato  e lasciate rosolare per un paio di minuti a fuoco vivace.Unite ora le zucchine affettate, salate, pepate  e lasciate cuocere per circa  min . Spegnete il fuoco e lasciate intiepidire. Nel frattempo versate il formaggio cremoso in una ciotola capiente e lavoratelo con una frusta . Aggiungete le uova . Lavorate gli ingredienti con una frusta ottenendo una crema omogenea e fluida . Aggiungete un pizzico di sale .Unite anche le foglioline di timo . Aggiungete al composto le zucchine tiepide  e mescolate per incorporarle . Unite anche  g di Grana grattugiato  ed il pangrattato . Mescolare bene il tutto  e tenete da parte.Prendete la scamorza e tagliatela a fette . Ungete e bene una pirofila da x cm e spolverare la base con poco Grana grattugiato . Versate nella pirofila metà del composto di zucchine e livellate con un cucchiaio . Posizionate sopra le fette di scamorza  e aggiungete il composto alle zucchine rimasto. Livellate nuovamente con il dorso di un cucchiaio  e spolverizzate la superfidice con il restante Grana grattugiato .Aggiungete un filo di olio , una grattata di pepe  e decorate con le foglioline di timo. Cuocete in forno statico a ° per  min, poi azionate la modalità ventilata e cuocete per altri  minuti, mantenendo la stessa temperatura. Quando sarà ben dorato sfornate lo sformato di zucchine filanti , aspettate pochi minuti e servitelo ancora caldo.
+
+## Descrizione
+Il risultato finale sarà uno sformato di zucchine filante e saporito, con una consistenza morbida e cremosa all'interno e una crosta croccante e dorata sulla superficie.
+
+Occasioni: Questo sformato di zucchine è perfetto come antipasto in un pranzo o una cena estiva, ma può anche essere servito come contorno o piatto unico leggero.
+
+Diete adatte: Questa ricetta è adatta a una dieta vegetariana, ma può essere adattata per essere senza glutine utilizzando del pangrattato senza glutine. 
+
+Intolleranze: Le persone intolleranti al lattosio potrebbero avere problemi a digerire il formaggio fresco spalmabile e la scamorza affumicata presenti nella ricetta. Inoltre, chi soffre di intolleranza al glutine dovrebbe evitare il pangrattato o utilizzarne una versione senza glutine.

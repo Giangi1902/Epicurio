@@ -1,0 +1,28 @@
+# Schiaffoni (o paccheri) ai frutti di mare
+Categoria: Primi piatti
+
+## Ingredienti
+- Paccheri: 500 g
+- Olio extravergine d'oliva: 50 g
+- Aglio: 3 spicchi
+- Calamari: 500 g
+- Cozze: 1 kg
+- Vongole: 1 kg
+- Gamberi: 300 g
+- Prezzemolo: da tritare 2 cucchiai
+- Pomodorini ciliegino: 100 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Vino bianco: 100 g
+
+## Preparazione
+Per preparare gli schiaffoni (paccheri) ai frutti di mare incominciate con la pulizia del pesce, partendo dai gamberi: eliminate la testa  e la coda, poi con le dita togliete il carapace ; incidete il dorso ed estraete l'intestino interno (il filamento nero) tirandolo delicatamente con le pinze da cucina  (in alternativa potete utilizzare uno stuzzicadente).Tenete da parte i gamberi e passate alle cozze e alle vongole. Sciacquate le cozze sotto acqua corrente ; con il dorso della lama di un coltello eliminate tutte le incrostazioni e i cirripedi (parassiti che si formano sul guscio) e con un movimento energico staccate manualmente la barbetta (o bisso) che fuoriesce dalle valve  (per facilitare l'operazione è possibile impugnare il bisso con un canovaccio). Sempre sotto l’acqua fresca corrente e utilizzando una paglietta d'acciaio (oppure una spazzola rigida), sfregate energicamente le cozze per eliminare ogni impurità . Una volta pulite, mettete da parte.Controllate che le vongole non contengano sabbia: picchiettatele una ad una su un tagliere dalla parte dell'apertura : se uscirà della sabbia scura significa che la vongola sarà piena di sabbia e sarà quindi da buttare. Eliminate anche quelle che presentano il guscio rotto. Poi ponete le vongole in un colapasta poggiato su una ciotola e sciacquatele più volte sotto acqua corrente : terminate quando nella ciotola non si vedrà più sabbia. Prendete i calamari, staccate la testa ed eliminate la cartilagine interna ;sciacquateli sotto acqua corrente  ed eliminate la pelle e le pinne . Tagliate ad anelli i calamari  e tenete da parte.Fate rosolare  spicchi d’aglio con un filo di olio in una padella antiaderente . Quando l’aglio sarà ben dorato, toglietelo, poi versate le cozze e le vongole , aggiungendo  g di vino bianco  e regolando di sale e pepe a piacere.Cuocete a fuoco vivace coprendo con un coperchio , lasciando che i molluschi si aprano spontaneamente : ci vorranno circa  minuti. Trascorso questo tempo, controllate tutte le cozze e le vongole: quelle che non si saranno aperte andranno buttate. Spegnete il fuoco e scolatele conservando il liquido di cottura, quindi separate le valve vuote delle cozze  e delle vongole da quelle piene, conservandone qualcuna intera per la presentazione finale del piatto.In una ciotola filtrate il fondo di cottura dei molluschi, ponendo della carta da cucina su un colino a maglie strette , poi mettete da parte il liquido che avete ottenuto  . In una pentola antiaderente fate scaldare l’olio con uno spicchio d’aglio, poi aggiungete i calamari tagliati ad anelli ;sfumate con il vino bianco restante  e fate cuocere per  minuti, mescolando il tutto con una spatola . Tagliate a metà i pomodorini  eaggiungeteli ai calamari, regolando di sale  e pepe e aggiungendo di tanto in tanto  g di liquido di cottura dei molluschi che avete filtrato in precedenza . Continuate la cottura per altri  minuti a fuoco basso coprendo con un coperchio, fino a quando i calamari saranno ben teneri .Successivamente unite anche i gamberi . Mettete una pentola sul fuoco con abbondate acqua salata che vi servirà per la pasta; quando l’acqua avrà sfiorato il bollore, fate cuocere gli schiaffoni (o paccheri) per  minuti . Aggiungete al condimento anche le cozze e le vongole e fate cuocere per altri  minuti Quando la pasta sarà pronta, scolatela e aggiungetela al sugo a base di pesce e pomodorini che avete preparato . Fate saltare il tutto per  minuti, aggiungendo altri  g del liquido di cottura in modo che la pasta si insaporisca, infine cospargete con il prezzemolo tritato ; spegnete il fuoco. I vostri schiaffoni (o paccheri) ai frutti di mare sono pronti per essere serviti . Se volete, potete decorare il piatto con i molluschi interi (vongole e cozze) che avete tenuto da parte.
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi schiaffoni (o paccheri) conditi con frutti di mare, calamari, cozze, vongole e gamberi, arricchiti da un sugo di pomodorini ciliegino, aglio, prezzemolo e vino bianco. Il piatto risulterà saporito e ricco di sapori di mare, perfettamente bilanciato dall'aroma fresco del prezzemolo e dal tocco acidulo dei pomodorini.
+
+Occasioni adatte: Questo piatto è perfetto per una cena speciale o per un pranzo estivo in compagnia di amici e familiari.
+
+Dieta/Regime alimentare: Questo piatto è adatto a una dieta equilibrata e variata. Può essere consumato come parte di un regime alimentare mediterraneo.
+
+Intolleranze: Le persone con intolleranze al glutine possono preparare questa ricetta sostituendo i paccheri con pasta senza glutine. Le persone con intolleranze ai frutti di mare devono evitare questo piatto o sostituire i frutti di mare con altri ingredienti.

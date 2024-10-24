@@ -1,0 +1,30 @@
+# Wonton soup
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 150 g
+- Acqua: 70 g
+- Sale fino: 1 pizzico
+- Carne di suino: macinata 180 g
+- Cipollotto fresco: la parte verde 1
+- Vino di riso: q.b.
+- Sale fino: q.b.
+- Pepe bianco: q.b.
+- Olio di sesamo: 4 cucchiai
+- Salsa di soia: 4 cucchiai
+- Lattuga romana: q.b.
+- Cipollotto fresco: la parte verde q.b.
+- Sale fino: q.b.
+- Pepe bianco: q.b.
+
+## Preparazione
+Per realizzare la wonton soup iniziate dall’impasto dei ravioli: versate la farina in una ciotola, poi aggiungete il sale  e l’acqua . Impastate il tutto con le mani, prima nella ciotola e poi sul piano di lavoro .Dovrete ottenere un composto non solo liscio e omogeneo, ma anche piuttosto duro e compatto . Trasferite l’impasto nella ciotola, coprite con pellicola e lasciate riposare a temperatura ambiente per circa  minuti . Nel frattempo tritate la parte verde di un cipollotto  e dedicatevi al ripieno.Mettete la carne macinata in una ciotola e aggiungete il vino di riso , il cipollotto , sale e pepe. Mescolate con le bacchette o con un cucchiaio per amalgamare bene il ripieno .Riprendete l’impasto e dividetelo a metà, poi stendetelo con un mattarello sul piano infarinato . Utilizzate la macchina sfogliatrice per ottenere delle sfoglie molto sottili, avendo cura di infarinarle man mano . Poi ritagliate dei quadrati di - cm per lato .Siete pronti per formare i ravioli: mettete un quadrato di pasta sul palmo della mano e spalmate un cucchiaino di ripieno al centro , poi ripiegate il quadrato per formare un triangolo . Piegate ulteriormente la base del triangolo per sigillare il ripieno all'interno avendo cura di lasciare i bordi liberi .Rigirate le  estremità e sovrapponetele, aiutandovi con un po’ di acqua per farle attaccare bene . Il primo raviolo è pronto : procedete in questo modo per formare tutti gli altri. In alternativa potete chiuderli come se fossero dei sacchettini. A questo punto portate a bollore una pentola di acqua e cuocete i ravioli per - minuti .Nel frattempo preparate il brodo direttamente nei piatti da portata: mettete in ogni ciotola un pizzico di sale , un pizzico di pepe  e  mestoli di acqua bollente .Aggiungete un po’ di lattuga, che avrete precedentemente tagliato a striscioline . Scolate i ravioli nel piatto  e unite del cipollotto tritato .Infine insaporite con l’olio di sesamo  e, se desiderate, la salsa di soia . La vostra wonton soup è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale della ricetta "Wonton soup" sarà una zuppa calda e avvolgente, arricchita da gustosi wonton ripieni di carne di suino e condita con salsa di soia e olio di sesamo. I wonton sono dei ravioli cinesi ripieni che rendono il piatto particolarmente ricco e saporito.
+
+Questa ricetta è adatta per occasioni informali o per una cena invernale confortante e nutriente.
+
+La ricetta "Wonton soup" è adatta alle persone che seguono una dieta onnivora. Tuttavia, è possibile adattarla a una dieta vegetariana sostituendo la carne di suino con un ripieno di verdure o tofu. Per quanto riguarda le diete ipocaloriche, è consigliabile consumare questa zuppa con moderazione a causa del contenuto calorico degli ingredienti come l'olio di sesamo.
+
+Le persone con intolleranze alimentari possono consumare questa ricetta facendo attenzione a sostituire gli ingredienti in base alle loro esigenze. Ad esempio, chi è intollerante al glutine dovrà utilizzare una farina senza glutine per preparare i wonton. Chi è intollerante al lattosio dovrà evitare l'aggiunta di lattuga romana alla zuppa.Chi è intollerante al sesamo dovrà eliminare l'olio di sesamo dalla ricetta.

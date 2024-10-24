@@ -1,0 +1,26 @@
+# Torta di grano saraceno e confettura di ribes
+Categoria: Dolci
+
+## Ingredienti
+- Burro: (a temperatura ambiente) 250 g
+- Farina di grano saraceno: 250 g
+- Zucchero: 250 g
+- Lievito in polvere per dolci: 16 g
+- Uova: (medie, a temperatura ambiente) 5
+- Baccello di vaniglia: 1
+- Latte intero: (a temperatura ambiente) 250 ml
+- Confettura di ribes: 400 g
+- Mandorle in scaglie: 20 g
+- Ribes: 1 grappolo
+- Zucchero a velo: 20 g
+- Panna fresca liquida: 200 ml
+
+## Preparazione
+Per preparare la torta di grano saraceno e confettura di ribes abbiate cura di togliere dal frigorifero il burro, le uova e il latte almeno due ora prima di realizzare la torta. Nella planetaria lavorate con le fruste il burro ammorbidito tagliato a cubetti e metà dello zucchero semolato ; prendete le uova a temperatura ambiente, dividete i tuorli dagli albumi (conservateli poiché vi serviranno successivamente) e aggiungete i tuorli  e il latte a filo .Incidente la bacca di vaniglia nel senso della lunghezza e prelevate i semi con un coltellino, unendoli al composto ; continuate con le fruste fino ad ottenere un composto chiaro e spumoso . In una ciotola a parte iniziate a montare gli albumi (dovrete montarli a lucido gli albumi, quindi dovranno essere cremosi) e, quando saranno bianchi, unite poco alla volta anche l'altra metà dello zucchero che avete avanzato .A questo punto incorporate gli albumi montati a lucido al composto, mescolando delicatamente con una spatola dall'alto verso il basso per evitare che si smontino . Aggiungete poco alla volta nell'impasto la farina di grano saraceno , poi setacciate il lievito e mescolate con la spatola per evitare la formazione di grumi .Imburrate e foderate con carta da forno una tortiera del diametro di  cm e versatevi l'impasto , livellandoloo bene con la spatola . Cuocete in forno statico preriscaldato a ° per  minuti (o in forno ventilato a ° per  minuti): se dopo - minuti la superficie della torta dovesse scurirsi troppo, copritela con un foglio di alluminio e continuate la cottura. Verificate la cottura inserendo nel centro uno stuzzicadente che, una volta estratto, dovrà risultare asciutto e pulito; in caso contrario fate cuocere ancora per qualche minuto. Una volta pronta , sfornate la torta e sformatela, lasciandola raffreddare completamente su una gratella.Quando la torta di grano saraceno sarà completamente fredda, tagliatela orizzontalmente in  parti con un coltello a lama liscia (-); con un cucchiaio cospargete delicatamente con la confettura di ribes la superficie del primo disco fino ai bordi (conservate un cucchiaio dalla dose necessaria) .Ricoprite con il secondo disco  e farcite nuovamente, quindi terminate la torta collocando l'ultimo disco finale . A questo punto potete procedere con le decorazioni: spennellate i bordi della torta con la confettura che avete avanzato e fatevi aderire sulla circonferenza della torta le mandorle a lamelle . Potete decidere di decoare la torta con della panna montata: lavorate con uno sbattitore elettrico la panna fresca insieme allo zucchero a velo (-).Con una sa-à-poche dalla bocchetta a stella realizzate dei ciuffi di panna montata, lungo il perimetro  e al centro. Da ultimo, collocate su ogni ciuffo un ribes rosso per dare un ulteriore tocco di colore  e infine servite la torta di grano saraceno e confettura di ribes .
+
+## Descrizione
+Il risultato finale sarà una deliziosa torta di grano saraceno con uno strato di confettura di ribes al suo interno, decorata con mandorle in scaglie, ribes freschi e zucchero a velo. La consistenza sarà morbida e soffice, con un gradevole contrasto tra la dolcezza della torta e l'acidità della confettura di ribes.
+
+Questa torta è adatta per occasioni speciali come feste di compleanno, colazioni o merende in famiglia, o semplicemente per coccolarsi con un dolce fatto in casa.
+
+La ricetta è adatta sia a persone che seguono una dieta onnivora, sia a vegetariani. Tuttavia, non è adatta per persone intolleranti al lattosio, alle uova o alle mandorle. Per rendere la torta adatta anche a persone con queste intolleranze, è possibile sostituire il latte intero con latte vegetale, le uova con un sostituto vegano (come ad esempio la farina di semi di lino) e le mandorle con altra frutta secca a piacere.

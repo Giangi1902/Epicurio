@@ -1,0 +1,32 @@
+# Torta golosa al cacao
+Categoria: Dolci
+
+## Ingredienti
+- Burro: 250 g
+- Zucchero a velo: 300 g
+- Uova: medie 8
+- Farina 00: 300 g
+- Gocce di cioccolato fondente: 80 g
+- Lievito in polvere per dolci: 12 g
+- Cacao amaro in polvere: 80 g
+- Baccello di vaniglia: 1
+- Zucchero: 165 g
+- Panna fresca liquida: 125 g
+- Acqua: 150 g
+- Sciroppo di glucosio: 40 g
+- Gelatina in fogli: 7 g
+- Cacao amaro in polvere: 75 g
+- Panna fresca liquida: 150 g
+- Cioccolato fondente: 300 g
+
+## Preparazione
+Per preparare la torta golosa al cacao, iniziate dall'impasto: dividete i tuorli dagli albumi ; in una planetaria (potete utilizzare anche uno sbattitore elettrico) versate il burro a pezzetti e unite metà dose di zucchero a velo . Lavorate il composto e una volta che sarà omogeneo e spumoso, versate i tuorli poco alla volta , facendo andare la planetaria fino a quando non saranno completamente amalgamati. Prelevate i semini da una bacca di vaniglia, incidendola per il senso della lunghezza e raschiando l'interno con la lama di un coltellino ; setacciate il cacao amaro e unitelo al composto di burro e uova , aggiungete anche i semini della bacca di vaniglia .A parte montate gli albumi con lo zucchero con la restante metà di zucchero a velo (-), poi uniteli al resto del composto mescolando delicatamente dall'alto verso il basso . Aggiungete anche la farina setacciata insieme al lievito, poco alla volta aiutandovi con un cucchiaio , mescolate accuratamente e infine aggiungete le gocce di cioccolato . Spennellate con il burro una tortiera di  cm di diametro  e infarinatela.Quindi versate l'impasto  e livellatelo con una spatola senza battere la tortiera per evitare di smontare il composto. Infornate in forno statico preriscaldato a ° per circa  minuti (° per circa  minuti se forno ventilato). Quando il dolce sarà cotto, sfornatelo  e fate intiepidire, quindi sformatelo, capovolgendolo e lasciatelo raffreddare completamente su una gratella .Intanto preparate la glassa al cacao: ponete in ammollo la gelatina in una terrina con acqua fredda, per almeno  minuti. Poi in un tegame capiente versate la panna, unite la dose di acqua , il glucosio  e lo zucchero : mescolate e portate a bollore a fuoco dolce.Quindi spegnete il fuoco e aggiungete il cacao in polvere , mescolate e rimettete su fuoco dolce per portare il composto nuovamente a leggero bollore. Lasciate intiepidire qualche minuto, poi strizzate accuratamente i fogli di gelatina ammollati in precedenza e uniteli alla glassa , mescolate fino al completo scioglimento della gelatina. Versate la glassa in un contenitore alto e frullatela . Potete riporre la glassa a raffreddare in frigorifero per almeno  ora. Passato il tempo necessario potrete versare la glassa sulla torta  (mantenendo la torta sulla gratella e posizionando un vassoio sotto riuscirete a coprirla uniformemente e non sporcare il piano di lavoro). Stendete la glassa sulla superficie e ai lati aiutandovi con una spatola . Mettete poi la torta in frigorifero per alcuni minuti per far solidificare la glassa.Intanto prepararte la ganache per decorare: in un tegame versate la panna e aggiungete il cioccolato fondente , accendete il fuoco basso e mescolate facendo sciogliere completamente il cioccolato . Una volta pronta, spegnete il fuoco e fate raffreddare completamente la ganache, versandola in una ciotola fredda immersa in una ciotola più grande con del ghiaccio (questo farà in modo di freddare la ganache senza alterarne la consistenza), poi ponetela in frigorifero coperta con pellicola a contatto; una volta fredda, montate la ganache con una planetaria o uno sbattitore elettrico e poi versatela in una sac-à-poche con bocchetta a stella, per decorare tutto intorno il bordo della torta golosa al cacao, prima di servire !
+
+## Descrizione
+Il risultato finale della torta golosa al cacao sarà un dolce soffice e ricco di cioccolato, con uno strato cremoso e goloso di ganache al cioccolato fondente sulla superficie. Sarà un dessert irresistibile per gli amanti del cacao e del cioccolato.
+
+Occasioni adatte: La torta golosa al cacao è perfetta per occasioni speciali come compleanni, feste e cene eleganti. Può essere servita come dessert dopo un pranzo o una cena importante.
+
+Dieta/Regime alimentare adatto: La torta golosa al cacao è adatta per chi segue una dieta bilanciata e non è adatta per chi è a dieta ipocalorica. È consigliata per chi ama concedersi un dolce goloso di tanto in tanto.
+
+Intolleranze: Le persone con intolleranza al lattosio non dovrebbero consumare la torta golosa al cacao a causa della presenza di burro e panna fresca. Inoltre, le persone con intolleranza al glutine dovrebbero evitare di consumare questa torta poiché contiene farina di frumento. Sono presenti inoltre ingredienti come uova, cioccolato fondente e cacao che potrebbero causare allergie a chi è sensibile a tali alimenti. Si consiglia di fare attenzione e verificare sempre gli ingredienti utilizzati prima di consumare la torta.

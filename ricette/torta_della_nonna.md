@@ -1,0 +1,29 @@
+# Torta della nonna
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 450 g
+- Burro: freddo di frigo 200 g
+- Zucchero: 160 g
+- Uova: medie 2
+- Scorza di limone: non trattato 1
+- Latte intero: 500 g
+- Zucchero: 100 g
+- Farina 00: 50 g
+- Tuorli: 4
+- Scorza di limone: non trattato 1
+- Pinoli: 25 g
+- Albumi: q.b.
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per realizzare la torta della nonna, per prima cosa preparate la crema pasticcera: in un pentolino versate i tuorli e lo zucchero , mescolate con la spatola e poi unite la farina . Mescolate ancora fino ad ottenere un composto liscio e denso .Versate il latte in un altro pentolino, aromatizzate con la scorza di limone grattugiata  mettetelo sul fuoco. Quando avrà raggiunto il bollore, versate prima una piccola quantità di latte sul composto di uova per stemperarlo, mescolando con una spatola , poi aggiungetelo tutto e mescolate ancora. Trasferite il pentolino sul fuoco e fate addensare la crema a fuoco moderato girando continuamente , fino a quando non sarà densa e cremosa.Trasferite la crema in una ciotola  e posizionatela sopra una ciotola più grande che avrete precedentemente riempito con dei cubetti di ghiaccio : in questo modo si raffredderà rapidamente senza perdere in colore e consistenza. Se non la utilizzate subito per la preparazione, coprite con pellicola a contatto e trasferite in frigorifero .Nel frattempo preparate la frolla: in un mixer mettete la farina e il burro freddo di frigo tagliato a pezzi , poi azionate le lame per pochi istanti per ottenere la sabbiatura. Se non avete il mixer potete "pizzicare" il burro con la punta delle dita per amalgamarlo bene alla farina. Trasferite il composto sabbioso su una spianatoia e formate una conca al centro, poi versate lo zucchero  e le uova .Grattugiate la scorza di un limone  e lavorate brevemente gli ingredienti, giusto il tempo di compattarli , e date alla frolla la forma di un panetto. Appiattite leggermente il panetto e avvolgetelo nella pellicola trasparente , poi riponete in frigorifero a rassodare per almeno  minuti.Trascorso il tempo di raffreddamento della frolla, stendete l’impasto sul piano di lavoro leggermente infarinato fino a uno spessore di - mm ; potete mettere l’impasto fra due fogli di carta forno per stenderlo più facilmente. Imburrate e infarinate uno stampo da crostata del diametro di  cm , poi arrotolate la frolla sul mattarello e adagiatela delicatamente all’interno dello stampo .Premete con le dita per far aderire bene l’impasto sulla base e sui bordi, poi eliminate l’eccesso . Bucherellate la base con i rebbi di una forchetta  e farcite con la crema pasticcera ormai fredda .Impastate nuovamente gli avanzi di frolla e stendete l’impasto sempre a uno spessore di - mm, poi arrotolate il disco di frolla sul mattarello e srotolatelo sullo stampo per coprire la crema . Premete i bordi con le dita per sigillare  e passate sopra il mattarello per eliminare l’eccesso .Spennellate la superficie con poco albume  e bucherellatela con i rebbi di una forchetta , poi cospargete con i pinoli .Siete pronti per infornare la torta della nonna : cuocete in forno statico preriscaldato a ° per  minuti sul ripiano in basso, poi alzate la temperatura a ° e cuocete per altri  minuti. Se la superficie dovesse scurirsi troppo durante la cottura potete coprirla con un foglio di alluminio. Una volta cotta, sfornate e lasciate raffreddare completamente . Spolverizzate con zucchero a velo e servite la vostra deliziosa torta della nonna !
+
+## Descrizione
+Il risultato finale della Torta della Nonna sarà un dolce soffice e cremoso, con un delicato sapore di limone e una consistenza ricca grazie alla crema pasticcera. La superficie sarà decorata con pinoli croccanti e una spolverata di zucchero a velo, che conferirà un tocco elegante al dolce.
+
+Questa ricetta è adatta per occasioni speciali come compleanni, feste di famiglia o per sorprendere gli ospiti durante una cena. Si presta bene sia come dessert dopo un pasto che per una merenda pomeridiana.
+
+La Torta della Nonna è adatta per una dieta equilibrata se consumata con moderazione, in quanto è un dolce ricco di zuccheri e grassi. Tuttavia, è possibile adattare la ricetta utilizzando ingredienti light o riducendo le quantità di zucchero e burro per renderla più leggera.
+
+Le persone con intolleranze al lattosio possono consumare questa ricetta sostituendo il latte intero con un latte senza lattosio o una bevanda vegetale. Le persone con intolleranze al glutine possono utilizzare farina senza glutine per preparare l'impasto della torta. Tutti gli altri ingredienti sono generalmente adatti anche a chi ha altre intolleranze alimentari, ma è sempre consigliabile verificare l'eventuale presenza di allergeni nei singoli prodotti utilizzati.

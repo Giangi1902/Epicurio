@@ -1,0 +1,27 @@
+# Sandwich di brownies al cioccolato
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato fondente: 200 g
+- Nocciole: 60 g
+- Farina 00: 100 g
+- Burro: 175 g
+- Uova: 2
+- Zucchero: 200 g
+- Lievito in polvere per dolci: 5 g
+- Latte intero: 500 g
+- Zucchero: 40 g
+- Frumina: 20 g
+- Baccello di vaniglia: 1
+
+## Preparazione
+Per realizzare i sandwich di brownies iniziate dall’impasto dei brownies: tritate grossolanamente il cioccolato , ponetelo in un pentolino con bagnomaria , aggiungete il burro a pezzetti  e sciogliete completamente il cioccolato a fuoco dolce.Setacciate la farina con il lievito , nella ciotola di una planetaria munita di frusta ponete le uova intere, lo zucchero , e montate fino ad ottenere un composto chiaro e spumoso ,versate qui il cioccolato  montando con le fruste e poi aggiungete le polveri setacciate un cucchiaio alla volta , senza fermare la planetaria. Tritale grossolanamente le nocciole unitele all’impasto , trasferite il composto in una teglia rettangolare x  cm imburrata e rivestita con carta da forno (in alternativa potete utilizzare uno stampo tondo da  cm. Stendete il composto uniformemente cuocete in forno statico preriscaldato a ° per  minuti, a cottura ultimata sfornate la base e lasciatela raffreddare , poi sformatela e riponetela in frigorifero, una volta fredda si taglierà più facilmente senza sbriciolarsi. Intanto occupatevi della preparazione della crema al latte: in una casseruola mettete a scaldare  gr di latte , aggiungete lo zucchero .Incidete la bacca di vaniglia nel senso della lunghezza ed estraete i semi, raschiandola con un coltellino ;aggiungetela al latte  , intanto stemperate la frumina in  ml di latte freddo poi versatela nel pentolino , fate addensare la crema mescolando continuamente con una frusta , dovrà avere la consistenza di una crema inglese che deve “velare” il cucchiaio, trasferitela in una ciotola , ricoprite con la pellicola a contatto  e poi riponetela in frigorifero per almeno  ora.Trascorso questo tempo riprendete la crema che si sarà ben addensata , riponetela in una sac-à-poche e conservatela in frigo. Togliete dal frigo la base dei brownies, eliminate la carta da forno , ritagliate i bordi del brownie e dividetelo in  rettangoli da x cm .Farcite un rettangolo spremendo la crema al latte , richiudetelo con un altro rettangolo in modo da creare un sandwich , proseguite fino a terminare i brownies . Conservateli in frigorifero fino al momento di servirli.
+
+## Descrizione
+Il risultato finale di questa ricetta è un delizioso sandwich di brownies al cioccolato, composto da due strati di brownies super morbidi e golosi, farciti con una crema al cioccolato fondente.
+
+Questo sandwich di brownies al cioccolato è perfetto per occasioni speciali come feste di compleanno, brunch, o semplicemente come spuntino goloso da gustare in compagnia.
+
+Questa ricetta non è adatta per diete ipocaloriche o per persone che seguono regimi alimentari particolarmente restrittivi. L'alto contenuto di burro, zucchero e cioccolato la rende una preparazione calorica e ricca di grassi e zuccheri.
+
+Le persone con intolleranze al lattosio e alle nocciole dovrebbero evitare questa ricetta, a meno che non utilizzino alternative senza lattosio o senza nocciole. Le persone con intolleranza al glutine possono provare a sostituire la farina con una farina senza glutine per rendere la ricetta adatta alle loro esigenze.

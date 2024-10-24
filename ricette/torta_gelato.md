@@ -1,0 +1,34 @@
+# Torta gelato
+Categoria: Dolci
+
+## Ingredienti
+- Biscotti Digestive: 100 g
+- Burro: 50 g
+- Cioccolato fondente: 40 g
+- Latte intero: 500 ml
+- Panna fresca liquida: 150 g
+- Zucchero: 160 g
+- Tuorli: 6
+- Sciroppo di glucosio: 15 g
+- Cacao amaro in polvere: 50 g
+- Farina di semi di carrube: 5 g
+- Latte intero: 600 ml
+- Panna fresca liquida: 250 ml
+- Baccello di vaniglia: 1
+- Zucchero: 250 g
+- Farina di semi di carrube: 5 g
+- Cioccolato fondente: 150 g
+- Panna fresca liquida: 150 ml
+- Cioccolato fondente: q.b.
+
+## Preparazione
+Preparate il gelato al cioccolato: ponete in un pentolino il latte, la panna e il glucosio  e scaldate il tutto. Mischiate in una ciotola lo zucchero con la farina di carrube  , unite quindi i tuorli e sbattete con una frusta . Unite il cacao setacciato  e mescolate con una frusta fino a che tutti gli ingredienti non si saranno ben amalgamati .Versate il latte e la panna caldi a filo nel composto , mescolando e riportate quindi il composto nel pentolino e cuocete, sempre mescolando, fino a raggiungere la temperatura di °C  (verificate la temperatura con un termometro), non portate a bollore, altrimenti i tuorli formeranno dei grumi. Togliete dal fuoco trasferite il gelato in una ciotola, coprite con pellicola e lasciatelo raffreddare , ponete quindi in frigorifero per almeno  ore.Intanto preparate il Gelato alla vaniglia : Versate il latte e la panna in un pentolino e unite lo zucchero, la farina di carrube,  i semi e la bacca di vaniglia . Fate andare il composto a fuoco basso e mescolate con una frusta: dovete portate la base per il gelato alla panna non oltre gli ° (il composto deve sfiorare il bollore ma non bollire). Arrivati a temperatura  eliminate la bacca di vaniglia Una volta freddo, mettete il gelato in frigorifero per almeno un paio di ore coperto con la pellicola .Ora preparate le lastre di cioccolato: sciogliete il cioccolato fondente a bagnomaria o nel microonde  e stendetelo con una spatola sulla carta da forno creando  sfoglie sottili rettangolare che misurino circa , x  cm  e lasciate raffreddare in congelatore. Riprendete il gelato al cioccolato versatelo nel mantecatore (gelatiera) per circa  minuti o il tempo indicato sul manuale della vostra gelatiera.Quando sarà pronto  versatelo nello stampo da plumcake apribile, imburrato e rivestito con carta da forno , delle dimensioni ,xx livellate la superficie con una spatola , ponete in congelatore.Riprendete il gelato alla panna versatelo nel mantecatore  e avviatelo per almeno  minuti finchè non sarà cremoso . Quando le lastre di cioccolato saranno fredde, prendetene una e adagiatela nello stampo sopra il gelato al cioccolato ,poi aggiungete metà del gelato alla vaniglia e un’altra lastra di cioccolato . Continuate col gelato alla vaniglia  e l’ultima lastra di cioccolato . Mettete in congelatore e occupatevi della base.Ponete i biscotti in un mixer , frullateli finemente  e trasferiteli in una ciotola, aggiungete il burro fuso e il cioccolato fuso a bagnomaria o nel microonde . Mescolate tutto e poi spalmatelo sul gelato livellando bene la superficie con la spatola  . Ponete la torta gelato in congelatore per almeno ore . Sformate delicatamente la torta gelato .Montate la panna e trasferitela in una sac-à-poche con punta a stella e decorate la superficie , terminate riducendo in scaglie un cubotto di cioccolato fondente o una tavoletta e distribuendo le scagliette sulla sommità del dolce . La torta gelato è pronta , conservatela in congelatore e lasciate a temperatura ambiente  minuti prima di servire.
+
+## Descrizione
+Il risultato finale della Torta gelato sarà un dessert cremoso e goloso, composto da uno strato di biscotti sbriciolati con burro e cioccolato fondente come base, seguito da uno strato di gelato al cioccolato e un altro strato di gelato alla vaniglia. La torta sarà decorata con cioccolato fondente fuso e pezzetti di cioccolato.
+
+Questa torta è adatta per occasioni speciali come compleanni, feste e cene importanti.
+
+La Torta gelato è adatta per persone che seguono una dieta normale o golosa, ma non per persone che seguono diete dimagranti o restrittive. È importante consumarla con moderazione a causa del suo contenuto calorico e di grassi. 
+
+Le persone con intolleranze al lattosio possono mangiare questa ricetta sostituendo il latte e la panna con versioni senza lattosio. Le persone con intolleranza al glutine possono sostituire i biscotti digestive con biscotti senza glutine e la farina di semi di carrube con farina di riso o di mais. Le persone con intolleranza al cacao devono evitare questa ricetta o sostituire il cacao con carob.

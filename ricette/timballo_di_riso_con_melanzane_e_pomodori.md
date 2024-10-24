@@ -1,0 +1,31 @@
+# Timballo di riso con melanzane e pomodori
+Categoria: Piatti Unici
+
+## Ingredienti
+- Riso: per insalata 350 g
+- Melanzane: 600 g
+- Scalogno: 1
+- Passata di pomodoro: 300 g
+- Brodo vegetale: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Grana Padano DOP: 60 g
+- Primosale: 250 g
+- Timo: 5 rametti
+- Pomodorini ciliegino: 300 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Aglio: 1 spicchio
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare il timballo di riso con melanzane e pomodori per prima cosa lavate le melanzana e tagliatele a fette di circa - mm di spessore . Grigliate su una piastra rovente le melanzane  e tenetele da parte . Tritate finemente lo scalogno . Versate l'olio e lo scalogno in un tegame largo  e stufate a fuoco dolce per circa - minuti . Versate il riso  e tostatelo per qualche minuto. Aggiungete la passata di pomodoro e mescolate . Iniziate a cuocere il riso con del brodo vegetale caldo, aggiungendone - mestoli al bisogno . Salate, sfogliate il timo e portate a cottura il riso . A fine cottura togliete dal fuoco e mantecate con il grana  e l’olio. Ora prendete uno stampo svasato del diametro di  cm allla base,  cm nella parte alta e con un bordo alto  cm. Oliate lo stampo e adagiate le melanzane grigliate a raggiera . Dovete coprire tutti gli spazi vuoti . Versate al centro il riso  e distribuitelo in modo omogeneo. Tagliate a cubetti il primosale . Farcite con il formaggio a cubetti ; poi disponete altre fette di melanzane per coprire tutto il ripieno , ripiegate le melanzane per avvolegre completamente il riso e ottenere una torta , pressate con le mani o con un piatto.Oliate  e salate le melanzane . Cuocete in forno statico preriscaldato a ° per  minuti. Lasciate raffreddare a temperatura ambiente. Nel frattempo preparate i pomodorini. Come prima cosa lavateli e tagliateli in quarti .In una padella scaldate un filo di olio con aglio e timo . Versate i pomodori , salate e cuocete per circa - minuti a fuoco medio .Una volta freddo il timballo capovolgetelo su un piatto da portata e sfilate la teglia  . Una volta tagliato a fette, servitelo con i pomodorini .
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un timballo di riso aromatico e ricco di sapori, con strati succulenti di melanzane e pomodori. La superficie sarà gratinata e croccante grazie alla presenza del Grana Padano.
+
+Per quanto riguarda le occasioni, questo piatto è perfetto per un pranzo o una cena speciale, adatto per essere servito in un'occasione formale o informale.
+
+In termini di diete o regimi alimentari, il timballo di riso con melanzane e pomodori può essere adattato per vegetariani e seguaci di una dieta senza carne. L'uso di brodo vegetale e di ingredienti a base di piante rende questa ricetta adatta anche per chi segue una dieta vegana, se si omette il formaggio Grana Padano.
+
+Per quanto riguarda le intolleranze alimentari, le persone con intolleranza al lattosio dovranno evitare l'uso del formaggio Grana Padano. Inoltre, coloro che sono allergici alle melanzane o ai pomodori dovranno evitare questo piatto o sostituire gli ingredienti con altri che non causino reazioni allergiche.

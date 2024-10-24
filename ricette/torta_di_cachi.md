@@ -1,0 +1,26 @@
+# Torta di cachi
+Categoria: Dolci
+
+## Ingredienti
+- Cachi: vaniglia maturi 550 g
+- Farina 00: 210 g
+- Zucchero di canna: 150 g
+- Cacao crudo in polvere: 10 g
+- Fior di sale: 5 g
+- Cardamomo: 1 pizzico
+- Burro: freddo 150 g
+- Burro: q.b.
+- Zucchero di canna: 20 g
+- Cacao crudo in polvere: q.b.
+
+## Preparazione
+Per preparare la torta di cachi lavate i frutti, ritagliate il picciolo  ed eliminate la buccia , affettateli grossolanamente  e teneteli da parte.Occupatevi ora dell’impasto: versate la farina setacciata in una ciotola ampia, aggiungete lo zucchero di canna , il fior di sale  e il cardamomo in polvere .Unite anche il cacao crudo  e mescolate per amalgamare le polveri . Tagliate a cubetti il burro freddo .Unite anche il burro nella ciotola , lavorate l’impasto con la punta delle dita velocemente  per ottenere delle briciole .Imburrate una tortiera del diametro di  cm e cospargete il fondo e il bordo con lo zucchero di canna. Versate metà dell’impasto e livellatelo sul fondo con una forchetta . Versate ora i cachi  e distribuiteli con la forchetta o un cucchiaio per creare uno strato di farcitura uniforme .Versate ora l’altra metà dell’impasto  in modo da ricoprire completamente la farcitura . Cuocete il dolce in forno statico preriscaldato a ° per  minuti. A cottura ultimata, sfornate la torta di cachi, lasciatela intiepidire prima di servirla spolverizzando la superficie con il cacao crudo .
+
+## Descrizione
+Il risultato finale della Torta di cachi sarà un dolce morbido e dal sapore dolce e speziato, grazie alla presenza dei cachi, del cardamomo e del cacao. La consistenza sarà soffice e leggermente umida, perfetta per accompagnare una tazza di tè o caffè durante la merenda o come dessert dopo un pasto.
+
+Questa torta è adatta per occasioni speciali come compleanni o cene eleganti, ma anche per un semplice momento di coccole e relax. È un dolce ricco di aromi e sapori, che conquisterà sicuramente i palati golosi.
+
+La Torta di cachi è adatta a qualsiasi tipo di dieta, tranne per chi segue un regime alimentare vegano o senza lattosio, in quanto contiene burro. Tuttavia, è possibile sostituire il burro con margarina o olio di cocco per renderla adatta anche a queste esigenze. Si tratta di un dolce che soddisferà sia chi ama i dolci tradizionali che chi preferisce delle alternative più salutari.
+
+Le persone con intolleranze alimentari al lattosio possono consumare la torta di cachi sostituendo il burro con una versione priva di lattosio. Le persone con intolleranze al glutine possono preparare la torta utilizzando farina senza glutine al posto della farina 00. Chi soffre di allergia al cacao può omettere questo ingrediente o sostituirlo con della farina di mandorle per ottenere comunque un dolce gustoso.

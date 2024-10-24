@@ -1,0 +1,31 @@
+# Salmone croccante con panko
+Categoria: Secondi piatti
+
+## Ingredienti
+- Filetto di salmone: 300 g
+- Salsa di soia: 50 g
+- Zenzero fresco: 10 g
+- Cipollotto fresco: (la parte verde) 10 g
+- Miele di acacia: 1 cucchiaino
+- Panko : q.b.
+- Acqua gassata: fredda 190 g
+- Farina: 100 g
+- Avocado: 1
+- Pomodorini ciliegino: 20 g
+- Cipolle rosse: 10 g
+- Succo di lime: 1
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio di semi di arachide: q.b.
+- Insalata: acetosa rossa q.b.
+- Fiori eduli: q.b.
+- Salsa teriyaki: q.b.
+
+## Preparazione
+Per realizzare il salmone croccante con panko per prima cosa preparate la marinatura del salmone: sbucciate lo zenzero  e tritatelo finemente , poi tagliate la parte verde del cipollotto a rondelle sottili .Prendete il filetto di salmone, che avrete già privato della pelle e di eventuali lische, e adagiatelo in una pirofila . Ricoprite il salmone con il cipollotto  e lo zenzero .Aggiungete anche il miele  e la salsa di soia , poi lasciate marinare in frigorifero per  minuti , coperto con pellicola.Nel frattempo dedicatevi alla salsa di avocado: tritate finemente i pomodorini  e la cipolla rossa , poi estraete la polpa dell’avocado e riducetela a pezzetti .Trasferite l’avocado in un mortaio, salate  e pepate, poi unite i pomodorini  e la cipolla .Versate anche il succo del lime  e l’olio . Pestate con il pestello per ottenere una consistenza cremosa .Tenete la salsa da parte e preparate la pastella: versate la farina e l’acqua frizzante fredda in una ciotola  e mescolate con la frusta per amalgamare il composto . A questo punto prelevate il salmone dalla marinatura e scola l'eccesso .Ricoprite il filetto prima con la pastella  e poi con il panko, che avrete messo in una pirofila a parte . Scaldate l’olio di semi fino alla temperatura di °, poi immergete il salmone  e friggete per pochi minuti.Quando la panatura sarà croccante e dorata, scolate  e trasferite su carta per fritti . Tagliate il filetto di salmone a cubotti .Impiattate e guarnite la parte superiore dei cubotti con la salsa di avocado , poi completate con delle foglioline di insalata e fiori eduli . Servite il vostro salmone croccante con panko accompagnato con salsa teriyaki !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un gustoso e croccante filetto di salmone marinato con salsa di soia, zenzero, cipollotto e miele di acacia, impanato con panko e cotto con olio di semi di arachide fino a renderlo croccante all'esterno e morbido all'interno. Il salmone verrà servito con un contorno di avocado, pomodorini ciliegino, cipolle rosse, condito con succo di lime e olio extravergine d'oliva, accompagnato da insalata acetosa rossa e fiori eduli. Il piatto sarà completato da una salsa teriyaki per un tocco extra di sapore.
+
+Questo piatto è adatto per occasioni speciali o cene eleganti, in quanto la presentazione è curata e il sapore è ricco e equilibrato. È perfetto per chi segue una dieta ricca di proteine e grassi buoni, come una dieta mediterranea o una dieta pescetariana. Le persone con intolleranze al glutine possono mangiare questo piatto purché sostituiscano il panko con pane grattugiato senza glutine. Le persone con intolleranze al lattosio possono eliminare la salsa teriyaki o cercarne una senza lattosio. Le persone con intolleranze al pesce dovranno ovviamente evitare questo piatto.

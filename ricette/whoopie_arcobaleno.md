@@ -1,0 +1,33 @@
+# Whoopie arcobaleno
+Categoria: Dolci
+
+## Ingredienti
+- Burro: a temperatura ambiente 180 g
+- Farina 00: 270 g
+- Latte intero: 60 ml
+- Panna fresca liquida: 60 ml
+- Lievito in polvere per dolci: 8 g
+- Sale fino: 1 pizzico
+- Estratto di vaniglia: 5 g
+- Zucchero: 120 g
+- Uova: 1
+- Coloranti alimentari: q.b.
+- Fecola di patate: 100 g
+- Latte intero: 500 ml
+- Tuorli: 6
+- Fecola di patate: 50 g
+- Baccello di vaniglia: 1
+- Zucchero: 150 g
+- Codette colorate: q.b.
+
+## Preparazione
+Per preparare i whoopie arcobaleno, iniziate preparando l'impasto dei dolcetti: mescolate insieme la panna e l’estratto di vaniglia . In una ciotola di una planetaria, oppure con le fruste di uno sbattitore, montate il burro con lo zucchero, fino ad ottenere un composto liscio . Aggiungete l’uovo, il sale  ela panna mescolata alla vaniglia  quindi mescolate ancora per amalgamare gli ingrdienti . In questa fase, è importante che tutti gli ingredienti abbiano la stessa temperatura, altrimenti il burro diventerà immediatamente grumoso. Se dovesse accadere niente paura: aggiungendo la farina, che è uno stabilizzante, tutto diventerà omogeneo. Setacciate insieme, in una ciotola, la farina, la fecola e il lievito .Aggiungete le polveri al composto, alternandole al latte  e continuate a mescolare: otterrete un composto molto corposo, morbido e compatto . Dividete l'impasto in  parti uguali : una parte resterà bianca, le altre tre invece verranno colorate.Aggiungete qualche goccia di colorante alimentare, nelle tre parti di impasto da colorare : potete scegliere il colore che preferite, noi abbiamo usato giallo, rosso e blu. Iniziate ad aggiungere poco colorante, poi mescolate energicamente  e se la colorazione non vi soddisfa, aggiungete dell'altro colorante, fino a che non avrete ottenuto la tonalità desiderata.  Trasferite il composto in un sac-à-poche, con bocchetta liscia e, su di una leccarda ricoperta di carta forno, spremete l'impasto per  formare dei dischi piuttosto alti, del diametro di  cm .Cuocete i whoopie in forno statico già caldo a ° per - minuti (se ventilato ° per - minuti) . Nel frattempo, preparate la crema pasticcera secondo le indicazioni che trovate qui: riscaldate il latte in un pentolino con la metà di una bacca di vaniglia e i suoi semi; sbattete in una ciotola, con la frusta, il tuorlo e lo zucchero quindi aggiungete la farina. Con una pinza, eliminate la bacca e versate il latte riscaldato sul composto a filo , amalgamando con la frusta. Riportate il composto sul fuoco e mescolate continuamente fino a che la crema non si sarà addensata . Trasferite la crema pasticcera in una ciotola e fatela raffreddare conservandola con un foglio di pellicola a contatto. Sfornate i whoopie lasciateli raffreddare su una gratella.Quando saranno freddi, trasferite la crema in una sac-à-poche, conservandone un paio di cucchiai. Componete quindi i whoopie arcobaleno: prendete un disco colorato e farcitelo con un ciuffo di crema; prendete un altro disco, dello stesso colore o di un altro, spennellate la superficie con la crema tenuta da parte  e ponetelo sul disco farcito, premendo leggermente. Cospargete la superficie spennellata con la crema con le codette colorate, che aderiranno bene . Farcite in questo modo tutti gli altri whoopie fino a terminarli: ecco pronti i vostri whoopie arcobaleno!Potete farcire i whoopie arcobaleno con la crema che preferite: crema pasticcera al cioccolato bianco; crema al burro; crema chantilly; crema pasticcera al cioccolato.
+
+## Descrizione
+Il risultato finale della ricetta "Whoopie arcobaleno" sarà un dolce colorato e goloso, composto da due dischi di biscotto soffice e leggero, farciti con una crema al latte e vaniglia e decorate con codette colorate.
+
+Questo dolce è adatto per occasioni speciali come compleanni o feste, grazie alla sua vivace e colorata presentazione.
+
+La ricetta "Whoopie arcobaleno" è adatta a tutte le persone che non seguono un regime alimentare particolare, ma è importante fare attenzione alle quantità consumate per non eccedere nelle calorie.
+
+Le persone con intolleranze al lattosio possono adattare la ricetta sostituendo il latte e la panna con alternative senza lattosio. Le persone con intolleranza al glutine possono utilizzare farina senza glutine e controllare che gli altri ingredienti siano privi di glutine.

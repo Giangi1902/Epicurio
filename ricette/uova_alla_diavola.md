@@ -1,0 +1,22 @@
+# Uova alla diavola
+Categoria: Antipasti
+
+## Ingredienti
+- Uova: 6
+- Tonno sott'olio: 90 g
+- Acciughe (alici): sott'olio 25 g
+- Olive nere: denocciolate 25 g
+- Capperi sott'aceto: sgocciolati 2 g
+- Peperoncino fresco: 1
+- Paprika dolce: 1 pizzico
+- Prezzemolo: 3 g
+
+## Preparazione
+Per preparare le uova alla diavola iniziate dalla preparazione delle uova sode. Prendete un tegame e versatevi abbondante acqua. Disponete le uova all'interno e portate a bollore cuocendole a fuoco medio per circa  minuti. Quando le uova saranno cotte, spegnete il fuoco e estraetele dal tegame aiutandovi con una schiumarola. Ponetele in una ciotola e quindi mettete la ciotola con le uova a raffreddare sotto un getto di acqua fredda . Mentre le uova si raffreddano procedete con la preparazione del ripieno piccante delle vostre uova. Prendete un mixer e versatevi le alici ed il tonno .Aggiungete quindi anche le olive nere , i capperi e una parte del prezzemolo (tenetene un po' da parte per spolverizzare la superficie delle uova)  ed il peperoncino tagliato a listarelle .Unite infine nel mixer anche la paprika . Azionate il mixer e continuate a tritare gli ingredienti fino a che non avrete ottenuto un composto cremoso . Aggiungete poi l’olio che renderà l’impasto ancora più cremoso e consentirà di amalgamare meglio gli ingredienti .A questo punto le uova si saranno raffreddate. Procedete a sgusciarle, tagliatele a metà e con un cucchiaino estraete delicatamente i tuorli sodi avendo cura di non rompere le bianche dell’uovo che vi serviranno successivamente. Prendete i tuorli estratti e versateli nel composto . Azionate nuovamente il mixer e amalgamate anche uovo e olio per creare un composto omogeneo e privo di grumi . Trasferiti quindi il composto così ottenuto in una sac-à-poche  che vi servirà per farcire internamente le bianche dell’uovo.Riempite l’incavo della bianca dell’uovo (da cui avete estratto il tuorlo) con la sac-à-poche . Ripetete l’operazione per tutte le uova. Spolverate per finire con della paprika  e il prezzemolo avanzato che avrete tritato. Le uova alla diavola sono quindi pronte per essere servite a tavola !
+
+## Descrizione
+Il risultato finale delle uova alla diavola sarà un antipasto gustoso e piccante, dal sapore deciso grazie alla combinazione di tonno, acciughe, olive nere, capperi e peperoncino. Le uova vengono farcite con questa miscela e poi cotte in forno fino a che non risultino ben dorati e croccanti. Il piatto sarà perfetto da servire come antipasto in occasioni informali o durante un aperitivo con amici.
+
+Le uova alla diavola sono adatte a una dieta ricca in proteine grazie alla presenza delle uova e del tonno. Tuttavia, essendo un piatto molto calorico a causa dei grassi presenti nel tonno e nelle acciughe, potrebbe non essere adatto a chi segue una dieta ipocalorica o a basso contenuto di grassi.
+
+Le persone con intolleranze al tonno o alle uova dovrebbero evitare di consumare questo piatto. Inoltre, chi soffre di intolleranza al lattosio dovrebbe prestare attenzione al contenuto di formaggio o latticini aggiunti nella ricetta. Chi è intollerante al glutine può comunque gustare le uova alla diavola, in quanto non sono presenti ingredienti contenenti glutine.

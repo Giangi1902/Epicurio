@@ -1,0 +1,30 @@
+# Torta Susanna
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: freddo 100 g
+- Zucchero: 150 g
+- Uova: 1
+- Tuorli: 1
+- Lievito in polvere per dolci: 8 g
+- Tuorli: 4
+- Ricotta vaccina: 400 g
+- Zucchero: 150 g
+- Burro: 50 g
+- Cioccolato fondente al 50%: 150 g
+- Panna fresca liquida: 150 g
+- Burro: 20 g
+- Miele: 1 cucchiaino
+
+## Preparazione
+Per preparare la torta Susanna iniziate dalla frolla. In una ciotola versate la farina, il lievito , il burro a cubetti  e lo zucchero .Impastate con le mani sino ad ottenere un composto sbricioloso, poi versate anche le uova  e impastate ancora con le mani .Quando il composto inizierà a prender forma trasferitelo su un piano e lavoratelo rapidamente con le mani  sino ad ottenere un panetto omogeneo . Avvolgetelo nella pellicola  e lasciatelo riposare in frigo per circa  minuti.Nel frattempo preparate la crema. Versate in una ciotola i tuorli e lo zucchero  e montateli con uno sbattitore elettrico . Quando saranno chiari e spumosi aggiungete la ricotta ben scolata .Lavorate ancora con le fruste per incorporare la ricotta. Scaldate il burro  secondi in microonde e unitelo al composto . Mescolate ancora sino ad incorporarlo alla crema , poi riponete in frigorifero. Riprendete la frolla e stendetela con un mattarello su un piano leggermente infarinato .Dovrete ottenere uno spessore uniforme di circa  mm . Trasferite quindi la frolla all'interno di uno stampo da  cm e fatela aderire per bene. Poi tagliate l'eccesso di pasta, in modo da lasciare un bordo da -, cm  . Riponete in frigorifero per  minuti. Questo passaggio servirà a far mantenere la forma durante la cottura.A questo punto trasferite la crema all'interno  e livellatela con una spatola  . Cuocete in forno statico preriscaldato a ° per  minuti.Trascorsi i  minuti sfornate la torta  e lasciatela raffreddare. Intanto preparate la copertura: tritate finemente il cioccolato fondente . Versate la panna in un pentolino .Aggiungete il burro , il miele  e scaldatela. Non appena sfiorerà il bollore spegnete il fuoco e versatela all'interno del cioccolato .Mescolate con una spatola  sino ad ottenere un composto lucido ed omogeneo . Lasciate intiepidire, mescolando di tanto in tanto e versatela al centro della torta .Inclinando leggermente la torta  farete in modo che la ganache la ricopra interamente . Riponete in frigo per un paio d'ore prima di servirla .
+
+## Descrizione
+Il risultato finale della Torta Susanna sarà una torta cremosa e morbida, con uno strato superiore croccante di cioccolato fondente. 
+
+Occasioni adatte: La Torta Susanna è perfetta da servire come dessert per una cena o come dolce per una festa.
+
+Dieta: La Torta Susanna è adatta per una dieta normale. 
+
+Intolleranze: Le persone con intolleranza al lattosio potrebbero trovare difficoltà a digerire la ricotta vaccina e la panna fresca liquida presenti nella ricetta. Le persone con intolleranza al glutine possono sostituire la farina 00 con una farina senza glutine.

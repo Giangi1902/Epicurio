@@ -1,0 +1,34 @@
+# Torta a cuore di San Valentino
+Categoria: Dolci
+
+## Ingredienti
+- Farina 00: 200 g
+- Cioccolato fondente al 55%: 100 g
+- Zucchero: 200 g
+- Burro: a temperatura ambiente 200 g
+- Uova: (circa 5 medie) 275 g
+- Cacao amaro in polvere: 30 g
+- Lievito in polvere per dolci: 8 g
+- Sale fino: 1 pizzico
+- Cioccolato fondente al 55%: 200 g
+- Panna fresca liquida: 500 g
+- Nocciole intere spellate: 100 g
+- Zucchero: 100 g
+- Cioccolato fondente al 55%: 170 g
+- Acqua: 120 g
+- Zucchero: 80 g
+- Miele di acacia: 1 cucchiaino
+- Zucchero a velo: 100 g
+- Acqua: q.b.
+
+## Preparazione
+Per realizzare la torta a cuore di San Valentino, per prima cosa tritate il cioccolato fondente che vi servirà per le varie preparazioni . Prelevate i  g che serviranno per la preparazione dell’impasto e fondetelo al microonde o a bagnomaria, poi lasciate intiepidire mescolando di tanto in tanto. Nella ciotola di una planetaria versate lo zucchero e il burro a temperatura ambiente , lavorate con la frusta fino ad ottenere un composto cremoso. Aggiungete le uova una per volta , assicurandovi che ogni uovo sia stato ben assorbito prima di aggiungere il successivo.Quando avrete ottenuto una crema spumosa e omogenea incorporate il cioccolato fuso intiepidito  e mescolate ancora per amalgamarlo al composto. A questo punto unite il sale  e le polveri, ovvero lievito e farina, setacciandole direttamente dentro la ciotola .Setacciate anche il cacao amaro  e mescolate con una frusta a mano per amalgamare il tutto . Versate l’impasto ottenuto in uno stampo a cuore della misura di x cm e livellate la superficie con il dorso di un cucchiaio . Cuocete in forno statico preriscaldato a ° per circa - minuti. Dopodiché verificate la cottura con uno stecchino, sfornate e lasciate intiepidire la torta all’interno dello stampo prima di sformarla e lasciarla raffreddare completamente.Nel frattempo potete occuparvi della ganache: mettete  g di cioccolato tritato in una ciotola e portate a bollore  g di panna fresca . Versate la panna sul cioccolato in  volte , mescolando bene con una marisa . Coprite con pellicola a contatto e lasciate raffreddare in frigorifero per almeno un’ora.Trascorso questo tempo versate i restanti  g di panna in una ciotola e montatela con le fruste elettriche . Aggiungete la panna montata alla ganache fredda  e mescolate delicatamente dal basso verso l’alto per incorporarla. Dividete il composto ottenuto in  ciotole: una da  g con cui preparerete la farcia, e l’altra da  g che servirà per la copertura . Trasferite entrambe le ciotole in frigorifero. Passate alle nocciole caramellate: versate le nocciole e lo zucchero in un pentolino  e cuocete a fuoco medio fino a quando lo zucchero si sarà sciolto e avrà assunto un colore ambrato . Trasferite le nocciole caramellate su un foglio di carta forno e lasciate intiepidire, dopodiché tritatele finemente con un mixer .Ora aggiungete le nocciole tritate ai  g di ganache per la farcia  e mescolate per ottenere un composto omogeneo . Trasferite la farcia in un sac-à-poche con bocchetta liscia da  cm .Riprendete la torta che si sarà completamente raffreddata e pareggiate la superficie utilizzando un coltello a sega , poi tagliate orizzontalmente la parte restante in  strati dello spessore di circa  cm  .Posizionate il primo strato su un piatto e farcite con la ganache alle nocciole . Stendete uniformemente la crema con una spatola , ricoprite con il secondo strato e farcitelo allo stesso modo. Infine ricoprite con l’ultimo strato di torta  e mettete in frigorifero a rassodare per circa - minuti.Trascorso questo tempo riprendete la torta farcita e ricoprite sia i lati che la superficie con i  g di ganache che avete tenuto da parte per la copertura, aiutandovi con una spatola per renderla liscia e uniforme . Riponete nuovamente la torta in frigorifero per circa - minuti. Nel frattempo realizzate la glassa al cioccolato: versate l’acqua e lo zucchero in un pentolino , lasciate raggiungere il bollore e cuocete per  minuti .Trasferite  g di cioccolato fondente tritato in una ciotola, poi versate lo sciroppo direttamente sul cioccolato  e mescolate energicamente con una frusta. Aggiungete il miele  e mescolate nuovamente per ottenere un composto omogeneo .Riprendete la torta dal frigorifero e trasferitela su una gratella che avrete posizionato su un vassoio, poi versate sopra la glassa  in modo da ricoprire il dolce in modo uniforme . Riponete la torta glassata in frigorifero per circa  minuti. Intanto preparate la glassa all’acqua per la decorazione mescolando lo zucchero a velo con l’acqua in una ciotola .Quando avrete ottenuto una consistenza liscia e uniforme , versate la glassa in un conetto di carta e decorate la torta con una scritta a piacere . Guarnite con fiori eduli e servite la vostra romantica torta a cuore di San Valentino !
+
+## Descrizione
+Il risultato finale della Torta a cuore di San Valentino sarà un dolce a forma di cuore, composto da un soffice impasto al cioccolato, farcito con una crema al cioccolato e nocciole e decorato con un glassa al cioccolato. 
+
+Occasioni: Questo dolce è perfetto per celebrare il giorno di San Valentino o per qualsiasi festa romantica. 
+
+Diete o regime alimentare: La Torta a cuore di San Valentino è adatta a tutte le persone che non seguono regimi alimentari particolari e che vogliono concedersi un dolce momento di dolcezza.
+
+Intolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questo dolce in quanto contiene burro e panna fresca. Potrebbero anche avere problemi le persone con intolleranza al glutine, a meno che non si utilizzi una farina senza glutine. Chi è intollerante alle nocciole dovrebbe evitare la crema al cioccolato e nocciole.

@@ -1,0 +1,26 @@
+# Sfoglie con crema di lenticchie e cotechino 
+Categoria: Antipasti
+
+## Ingredienti
+- La Bottega di Olivia&Marino: 12 sfoglie classiche
+- Lenticchie: di Castelluccio di Norcia, lessate al naturale, 60 gr
+- Sale: q.b.
+- Pepe: q.b.
+- Cotechino: precotto in busta, 100 gr
+- Rosmarino: 2-3 rametti
+- Cipolle: 1/2 rossa
+- Carote: 1/2 carota
+- Sedano: 1 gamba
+- Olio di oliva: extravergine q.b.
+
+## Preparazione
+Per preparare le sfoglie con crema di lenticchie e cotechino iniziate mettendo a cuocere il cotechino per venti minuti in acqua bollente. Nel frattempo preparate il soffritto: lavate, mondate e tritate finemente la cipolla, la carota e il sedano , poi fateli soffriggere in un pentolino con  cucchiai di olio extravergine di oliva, mescolando di tanto in tanto  (per ulteriori dettagli sulla preparazione del soffritto puoi visionare la scheda della scuola di cucina cliccando qui). Prendete le lenticchie, scolatele bene aiutandovi con un colino ,quindi aggiungetele al soffritto : dovranno rosolare per circa  minuti. Quando il cotechino è pronto, estraetelo dalla busta, (scolando completamente il liquido gelatinoso che si forma all’interno)  e lasciatelo raffreddare. A questo punto spellate il cotechino con l’aiuto di un coltello, tagliatelo grossolanamente e mettetelo in un mixer .Quando saranno pronte anche le lenticchie aggiungetele nel mixer , tenendone da parte un cucchiaio per la guarnizione finale, e frullate il tutto fino ad ottenere un composto cremoso. Trasferite il composto in una sac-à-poche munita di bocchetta a stella e spremetene un ciuffo su ogni sfoglia , infine guarnite ogni sfoglia con qualche lenticchia, aiutandovi con un cucchiaino . Le sfoglie con crema di lenticchie e cotechino sono pronte, servitele e gustatele al momento.
+
+## Descrizione
+Il risultato finale della ricetta "Sfoglie con crema di lenticchie e cotechino" sarà un antipasto gustoso e ricco di sapori contrastanti. Le sfoglie croccanti si sposano perfettamente con la crema di lenticchie dal sapore intenso e il cotechino morbido e saporito.
+
+Questa ricetta è adatta per occasioni speciali come pranzi o cene festive, in cui si desidera servire un antipasto originale e gustoso.
+
+Le sfoglie con crema di lenticchie e cotechino sono adatte per una dieta equilibrata e ricca di proteine vegetali, grazie alle lenticchie, e sostanze nutritive presenti nei vari ingredienti. Tuttavia, è consigliabile consumarle con moderazione a causa del contenuto calorico del cotechino e delle sfoglie.
+
+Le persone con intolleranza al glutine devono fare attenzione all'uso delle sfoglie, che potrebbero contenere glutine. Le persone con intolleranza al lattosio devono verificare che la crema di lenticchie non contenga lattosio, mentre le persone con intolleranza al nichel dovrebbero evitare il consumo di lenticchie.

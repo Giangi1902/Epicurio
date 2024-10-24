@@ -1,0 +1,37 @@
+# Tarte Tropézienne
+Categoria: Lievitati
+
+## Ingredienti
+- Farina 00: 50 g
+- Latte intero: 40 ml
+- Lievito di birra secco: 4 g
+- Farina Manitoba: 180 g
+- Farina 00: 100 g
+- Latte intero: 150 ml
+- Burro: morbido 60 g
+- Zucchero: 40 g
+- Uova: medio 1
+- Sale fino: 4 g
+- Latte intero: 750 ml
+- Panna fresca liquida: 350 ml
+- Zucchero: 225 g
+- Farina 00: 75 g
+- Zucchero a velo: 20 g
+- Gelatina in fogli: 10 g
+- Tuorli: 9
+- Baccello di vaniglia: 1
+- Sale fino: q.b.
+- Albumi: 1
+- Granella di zucchero: q.b.
+
+## Preparazione
+Per realizzare laTarte Tropeziénne iniziate dal lievitino: in una ciotola ponete la farina setacciata (in alternativa potete utilizzare la farina ), il lievito di birra disidratato (oppure  g di lievito di birra fresco) e il latte , impastate a mano gli ingredienti  fino ad ottenere un composto morbido. Ponete il lievitino in una ciotola, coprite con pellicola trasparente  e lasciate lievitare per un'ora in un luogo tiepido come il forno spento con la luce accesa.Trascorso il tempo di lievitazione ponete il lievitino nella planetaria munita di foglia, aggiungete l’uovo intero  e azionate la macchina, poi versate il latte a temperatura ambiente , le farine setacciate poco alla volta (in alternativa alla manitoba potete usare la farina ) ,il sale e lo zucchero . Una volta che tutti gli ingredienti si saranno assorbiti, sostituite la foglia con il gancio, aggiungete il burro ammorbidito, un pezzetto alla volta  aspettando che si sia assorbito prima di aggiungere un altro pezzo, continuate ad impastare fino a quando tutti gli ingredienti non si saranno raccolti intorno al gancio .Trasferite l’impasto su di una spianatoia infarinata, dategli una forma sferica, ponetelo in una ciotola, copritelo con pellicola  e lasciatelo lievitare per  ore a temperatura ambiente poi ponetelo in frigorifero a lievitare per  ore. Intanto occupatevi della crema: estraete i semi dalla bacca di vaniglia e mettete in infusione nel latte caldo sia i semi che la bacca per circa mezz'ora  e lasciate raffreddare il latte. Ammorbidite i fogli di gelatina mettendoli in acqua fredda per  minuti .Intanto con una frusta montate lo zucchero e i tuorli  e poi incorporate la farina setacciata . Estraete con una pinza da cucina la bacca di vaniglia lasciata in infusione nel latte ormai raffreddato .Versate il latte nel composto di tuorli e farina , trasferitelo in un pentolino e portatelo sul fuoco. Fate addensare la crema a fuoco dolce mescolando con una frusta ; quando la crema sarà densa, incorporate la gelatina ammorbidita e ben strizzata , mescolate per farla sciogliere nella crema. Spegnete il fuoco e trasferite la crema in una ciotola, copritela con la pellicola a contatto e lasciatela intiepidire a temperatura ambiente e poi ponetela in frigorifero coperta con pellicola a contatto.Intanto montate la panna e quando sarà semimontata aggiungete lo zucchero a velo, e continuate a montare per  minuto circa . Unite la panna montata alla crema, mescolando con una spatola delicatamente . Trasferite tutto in una ciotola, coprite con la pellicola  e conservate la crema in frigorifero.Riprendete l’impasto lievitato , fatelo rinvenire a temperatura ambiente per un paio di ore prima di lavorarlo. Ponete l’impasto su una spianatoia infarinata, lavoratelo per dargli una forma sferica , poi prendete una foglio di carta forno e disegnate la sagoma di un disco di  cm di diametro, stendete l’impasto sulla sagoma e appiattitelo leggermente, dovrà avere uno spessore di - cm. Trasferite il disco su una leccarda , avvolgetelo con la pellicola trasparente e fate lievitare ancora per un'ora.Passato il tempo necessario, riprendete il disco di pan brioche, spennellate la superficie con l’albume e ricopritela con lo zucchero in granella . Cuocete la tarte tropezienne in forno statico preriscaldato a ° per  minuti (in forno ventilato a ° per  minuti), se dovesse diventare troppo scura in cottura, copritela con un foglio di carta di alluminio. A cottura ultimata sfornatela, e lasciatela raffreddare completamente su una gratella . Una volta raffreddata, tagliatela a metà e farcitela con la crema. La Tarte Tropeziénne è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale della Tarte Tropézienne sarà un delizioso dolce composto da due strati di lievitato soffice e leggero, farcito con una crema pasticcera aromatizzata alla vaniglia e panna montata. Il dolce sarà finemente decorato con granella di zucchero e zucchero a velo, creando un contrasto di consistenze e un'esplosione di sapori.
+
+Questo dolce è adatto per occasioni speciali come feste di compleanno, brunch o merende in compagnia. Può essere servito come dessert dopo un pasto leggero o come dolce da gustare durante una pausa di relax.
+
+La Tarte Tropézienne non è adatta per diete ipocaloriche o per chi segue regimi alimentari particolarmente restrittivi, dato il suo alto contenuto calorico e di zuccheri. È consigliato consumare questo dolce con moderazione e come occasione speciale.
+
+Le persone con intolleranze al lattosio possono sostituire il latte intero con latte senza lattosio e la panna fresca con panna senza lattosio. Chi soffre di intolleranza al glutine può provare a utilizzare farina senza glutine per adattare la ricetta alle proprie esigenze.

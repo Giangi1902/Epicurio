@@ -1,0 +1,24 @@
+# Salsiccia e patate alla birra
+Categoria: Secondi piatti
+
+## Ingredienti
+- Patate novelle: 1 kg
+- Salsiccia: 700 g
+- Birra ambrata: 250 g
+- Rosmarino: q.b.
+- Olio extravergine d'oliva: 40 g
+- Origano: 4 rametti
+- Pepe nero: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare salsiccia e patate lla birra, private la salsiccia del budello  e tagliatela a pezzetti di  cm. Fate rosolare la salsiccia in padella a fuoco medio con  g di olio .Doratela da tutti i lati .Pelate e tagliate a spicchi le patate. Una volta rosolata, dopo  minuti, sfumate la salsiccia con  g di birra  e alzate il fuoco. Proseguite la cottura per altri  minuti in padella e, appena la birra si sarà ristretta, togliete la salsiccia dalla padella .Tenete in caldo la carne  e nella stessa padella aggiungete le patate . Salate, pepate  e cuocete a fuoco medio per circa  minuti, saltando ogni tanto le patate per farle colorare da tutti i lati.Insaporite con origano  e rosmarino  e altri  g di olio. Quando le patate avranno quel bel colore dorato, sfumate con la restante birra  e fatela ristringere. Unite in padella la salsiccia  proseguite la cottura per altri  minuti.  A fuoco spento aggiungete altro rosmarino e origano . Servite subito salsiccia e patate alla birra .
+
+## Descrizione
+Il risultato finale sarà un piatto ricco e saporito, con le patate che si saranno impregnate del sapore della salsiccia e della birra, arricchite dal profumo del rosmarino e dell'origano. La salsiccia sarà tenere e succulenta, perfettamente abbinata alle patate morbide e gustose.
+
+Questa ricetta è adatta per occasioni informali e conviviali, come cene in compagnia di amici o familiari. È ideale da servire in autunno e inverno, magari accompagnata da un buon bicchiere di birra ambrata.
+
+La ricetta è adatta a una dieta equilibrata, ricca di proteine e carboidrati, ma va consumata con moderazione a causa del suo alto contenuto calorico. È indicata per chi segue una dieta onnivora.
+
+Le persone con intolleranze al glutine dovranno verificare che la birra utilizzata sia gluten-free. Chi è intollerante al lattosio potrà sostituire l'olio extravergine d'oliva con olio di cocco o ghee, eliminando l'origano. Le persone con allergie alla carne suina potranno optare per salsicce di pollo o tacchino.

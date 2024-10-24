@@ -1,0 +1,18 @@
+# Zucchine con friggitrice ad aria
+Categoria: None
+
+## Ingredienti
+- Zucchine: (circa 3) 550 g
+- Pangrattato: 35 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare le zucchine con friggitrice ad aria come prima cosa lavate le zucchine e spuntatele . Poi tagliatele a metà  e ricavate delle fettine spesse  cm .Realizzate dei bastoncini  e ripetete questa operazione per tutte le zucchine . Tamponatele con carta assorbente .Asciugatele bene  e trasferitele in una ciotola. Condite con l'olio , preferibilmente usando uno spruzzino. Girate bene le zucchine, aggiungete il pangrattato e mescolate ancora . Passate alla cottura. Noi abbiamo usato una friggitrice ad aria da  litri, se la vostra dovesse essere più piccola cuocete le zucchine in due o tre volte.Preriscaldate la friggitrice a ° per  minuti, posizionate le zucchine nel cestello o sulla griglia della friggitrice e cuocete per  minuti, girando gli stick dopo  minuti. Quando saranno ben dorati sfornateli , salateli in superficie  e serviteli .
+
+## Descrizione
+Il risultato finale della ricetta "Zucchine con friggitrice ad aria" sarà delle zucchine croccanti e gustose, con un cuore morbido e saporito grazie al pangrattato e all'olio extravergine d'oliva utilizzati per la preparazione. Le zucchine risulteranno leggere e poco caloriche grazie alla cottura con la friggitrice ad aria, che permette di ottenere un risultato simile alla frittura tradizionale ma con meno grassi.
+
+Le zucchine con friggitrice ad aria sono adatte come contorno per un pasto leggero e salutare, ma possono anche essere servite come antipasto o piatto unico per chi segue un regime alimentare vegetariano. La ricetta è adatta anche a coloro che seguono una dieta ipocalorica, in quanto le zucchine vengono cotte senza l'aggiunta di grassi in eccesso.
+
+Le persone con intolleranze alimentari al glutine possono consumare questa ricetta sostituendo il pangrattato con una versione senza glutine o con pane grattugiato made in casa senza glutine. Le zucchine con friggitrice ad aria sono adatte anche a chi soffre di intolleranza al lattosio, in quanto non sono presenti ingredienti latticini nella preparazione.

@@ -1,0 +1,24 @@
+# Spaghetti alle acciughe
+Categoria: Primi piatti
+
+## Ingredienti
+- Spaghetti: 400 g
+- Acciughe sott'olio: (peso sgocciolato) 30 g
+- Concentrato di pomodoro: 35 g
+- Pinoli: 30 g
+- Aglio: 1 spicchio
+- Peperoncino fresco: 1
+- Prezzemolo: 1 ciuffo
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare gli spaghetti alle acciughe per prima cosa mettete sul fuoco una pentola con acqua abbondante da salare a bollore, poi disponete su un tagliere il prezzemolo, il peperoncino, lo spicchio di aglio,  g di pinoli e  g di acciughe . Tritateli finemente  per ottenere un mix omogeneo .Scaldate l’olio in una padella capiente , aggiungete le acciughe rimanenti  e fatele sciogliere a fuoco moderato .Quando le acciughe si saranno sciolte, versate il concentrato di pomodoro insieme a poca acqua calda . Poco dopo aggiungete il trito aromatico  e cuocete per  minuti in modo che i sapori si possano amalgamare. Nel frattempo l’acqua sarà arrivata a bollore, quindi cuocete gli spaghetti al dente .Scolate gli spaghetti e trasferiteli nella padella con il condimento . Fate saltare il tutto per un minuto aggiungendo se necessario un po’ dell’acqua di cottura della pasta. Guarnite il piatto con i pinoli rimanenti  e servite subito i vostri spaghetti alle acciughe !
+
+## Descrizione
+Il risultato finale della ricetta sarà un piatto di spaghetti alle acciughe dal sapore intenso e saporito, grazie alla presenza delle acciughe sott'olio, del concentrato di pomodoro e del peperoncino fresco. La presenza dei pinoli aggiunge croccantezza al piatto, mentre il prezzemolo fresco dona un tocco di freschezza e colore.
+
+Questo piatto è adatto per occasioni informali come un pranzo o una cena tra amici o in famiglia. È un piatto ricco di sapori mediterranei e dall'aroma inconfondibile.
+
+Questo piatto è adatto per una dieta mediterranea, poiché contiene ingredienti tipici di questa cucina come olio extravergine d'oliva, acciughe e pomodoro. È un piatto energetico e saziante, grazie alla presenza di carboidrati complessi forniti dagli spaghetti.
+
+Le persone con intolleranze alimentari al glutine devono fare attenzione, in quanto la ricetta prevede l'utilizzo di spaghetti che contengono glutine. Le persone con intolleranze al lattosio possono consumarlo senza problemi, in quanto la ricetta non prevede l'uso di latticini. Le persone con intolleranze alle acciughe o ai frutti di mare devono evitare questo piatto.

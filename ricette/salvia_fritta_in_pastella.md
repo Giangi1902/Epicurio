@@ -1,0 +1,21 @@
+# Salvia fritta in pastella
+Categoria: Antipasti
+
+## Ingredienti
+- Salvia: fresche e sane 40 foglie
+- Farina 00: 100 g
+- Birra: fredda da frigorifero 200 ml
+- Sale fino: q.b.
+- Olio di semi di girasole: 1 l
+
+## Preparazione
+Per preparare la salvia fritta in pastella lavate bene le foglie di salvia sotto abbondante acqua fresca corrennte , poi fatele asciugare su di un vassoio foderato con carta assorbente da cucina . Versate la farina in una ciotola e aggiungete la birra fredda poco alla volta, mescolando con una frusta ;continuate a mescolare fino ad ottenere un pastella omogenea e priva di grumi , poi regolate di sale a vostro piacere . Una volta pronta, intingete le foglie di salvia una per una nella pastella che avete preparato ,girandole da entrambi i lati , fino a quando risulteranno completamente coperte . Mettete sul fuoco a scaldare l'olio di semi, controllando che raggiunga la temperatura di ° con l'aiuto di un termometro da cucina. A questo punto friggete le foglie di salvia pochi pezzi alla volta :quando le foglie saranno dorate, toglietele dall’olio con una schiumarola  e ponetele a scolare su della carta assorbente da cucina . Aggiustate di sale e servite le foglie di salvia fritte in pastella immediatamente .
+
+## Descrizione
+- Risultato finale: La salvia fritta in pastella sarà croccante all'esterno e morbida all'interno, con un delicato sapore di salvia che si sposa perfettamente con la pastella leggera e sfiziosa.
+
+- Occasioni: Questo antipasto è perfetto per arricchire un aperitivo o come contorno originale per un piatto principale. Può essere servito anche come finger food durante una festa o un buffet.
+
+- Diete adatte: Questa ricetta è adatta a una dieta vegetariana, ma è importante controllare che la birra utilizzata sia adatta a una dieta senza glutine se si segue una dieta gluten-free.
+
+- Intolleranze: Le persone con intolleranza al glutine devono fare attenzione a utilizzare una birra senza glutine per la pastella. Inoltre, questa ricetta potrebbe non essere adatta a chi soffre di intolleranza al lattosio, ma è possibile sostituire la birra con acqua o latte vegetale per rendere la ricetta adatta anche a queste persone.

@@ -1,0 +1,28 @@
+# Salmone agli agrumi con riso pilaf
+Categoria: Piatti Unici
+
+## Ingredienti
+- Filetto di salmone: da 200 g l'uno 4
+- Arance: bionde 5
+- Limoni: di Sorrento 2
+- Cipollotto fresco: 3
+- Miele di acacia: 10 g
+- Burro: 50 g
+- Zenzero fresco: q.b.
+- Sale fino: q.b.
+- Riso Basmati: 200 g
+- Acqua: 500 ml
+- Olio extravergine d'oliva: 10 g
+- Sale grosso: 1 pizzico
+
+## Preparazione
+Per preparare il salmone agli agrumi con riso pilaf, iniziate mettendo a marinare il salmone: munitevi di uno spremiagrumi e spremete il succo di  arance bionde e di  limoni di Sorrento non trattati (-). Filtrate i succhi con un colino in una pirofila larga con bordi alti , in modo da eliminare semini e pezzi di polpa.Immergete i tranci di salmone già diliscati nel succo all’interno della pirofila , grattugiate un pizzico di zenzero fresco sbucciato  e aggiungete la scorza di  arance .Grattugiate anche la scorza di un limone , dopodichè coprite la pirofila con la pellicola e lasciate marinare in frigorifero per circa  ore . Nel frattempo preparate il riso pilaf senza spezie aggiuntive, in quanto il salmone e il relativo fondo di cottura saranno già molto saporiti. Mettete a bollire ½ litro d’acqua in una pentola e aggiungete un cucchiaio di sale grosso .In una padella antiaderente mettete un cucchiaio di olio, aggiungete il riso  e fatelo tostare per un paio di minuti mescolando. Quando l'acqua che avete messo a bollire nella pentola avrà raggiunto il bollore, spegnete il fuoco e versate l’acqua bollente nella casseruola dove avete tostato il riso, l'acqua dovrà coprire il riso di almeno due dita . A questo punto coprite la padella con un coperchio  e fate cuocere a fuoco dolce per circa - minuti, quindi spegnete il fuoco e lasciate riposare. Per scoprire come preparare al meglio il riso pilaf, consultate la ricetta completa: riso pilaf.Ora pulite e mondate i cipollotti freschi, affettateli sottilmente  e fate scaldare il burro in una padella antiaderente a fuoco basso . Quando il burro sarà sciolto, trasferite i cipollotti affettati in padella  e lasciate cuocere a fuoco moderato per - minuti.Dopodichè aggiungete anche il miele d’acacia  e, trascorso il tempo di marinatura dei tranci di salmone, traferiteli in padella, avendo cura di tenere da parte il succo della marinatura, e sistemandoli con la parte della pelle sul fondo della padella . Lasciateli cuocere per  minuti a fuoco moderato, quindi rigirateli dalla parte della polpa e cuocete per  minuti .Rigirate nuovamente i tranci di salmone dalla parte della pelle , aumentando l’intensità del fuoco, e sfumate il tutto con un bicchiere del succo utilizzato per la marinatura . Salate a piacere e lasciate cuocere per  minuto, in modo che il succo di agrumi crei una salsa delicata. Quando il salmone sarà pronto, disponetelo su un piatto da portata e accompagnatelo al riso pilaf. Per ottenere un'estetica più gradevole, versate il riso pilaf, che si sarà intiepidito, in uno stampo rotondo o in una ciotolina, che andrete a capovolgere su di un piatto da portata, realizzando così una cupoletta. Formate, poi, un letto di insalata e adagiateci sopra un trancio di salmone, accompagnato dalla salsa agli agrumi : il vostro salmone agli agrumi con riso pilaf è pronto per essere assaporato!
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un piatto colorato e profumato, con un equilibrio di sapori tra il salmone, gli agrumi e il riso pilaf. Il salmone risulterà tenero e succulento, con una delicata nota di dolcezza data dal miele e una fresca nota agrumata.
+
+Questo piatto è adatto per occasioni speciali o per una cena elegante, grazie alla sua presentazione raffinata e al suo mix di sapori sofisticati.
+
+La ricetta è adatta a una dieta equilibrata e ricca di proteine grazie al salmone, alle vitamine presenti negli agrumi e ai carboidrati forniti dal riso. È inoltre senza glutine, adatta quindi a persone celiache, e può essere facilmente adattata a una dieta senza lattosio sostituendo il burro con olio extravergine d'oliva.
+
+Le persone con intolleranze al pesce possono sostituire il salmone con un'alternativa come il merluzzo o la trota, mentre le persone con intolleranze agli agrumi possono omettere il succo di limone e arancia dalla ricetta senza compromettere troppo il risultato finale.

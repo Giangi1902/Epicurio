@@ -1,0 +1,31 @@
+# Sformatini di spinaci
+Categoria: Antipasti
+
+## Ingredienti
+- Spinaci: 500 g
+- Uova: 4
+- Noce moscata: 2 g
+- Sale fino: q.b.
+- Pinoli: 20 g
+- Pangrattato: q.b.
+- Olio di semi: q.b.
+- Parmigiano Reggiano DOP: da grattugiare 100 g
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: q.b.
+- Latte intero: 1 cucchiaio
+- Latte intero: 250 ml
+- Burro: 15 g
+- Parmigiano Reggiano DOP: da grattugiare 25 g
+- Farina 00: 25 g
+
+## Preparazione
+Per preparare gli sformatini di spinaci, lavate gli spinaci  e fateli appassire in padella a fuoco basso, con un filo d’olio extravergine per circa  minuti; poi salateli leggermente . Strizzate bene gli spinaci  etritateli con un coltello . In una ciotola ponete le uova, gli spinaci tritati, il formaggio grattugiato, il sale, il pepe, la noce moscata  e mescolate. Tritate finemente i pinoli e uniteli al composto, insieme ad un cucchiaio di latte per ammorbidire il tutto . Continuate a mescolare fino a rendere il composto omogeneo.Preparate  stampini in alluminio del diametro di  cm e dell’altezza di  cm: spennellate l’interno con olio di semi  e spolverizzate con pangrattato . Questa operazione faciliterà l’estrazione finale degli sformatini. Riempite gli stampini con il composto fino all’orlo , sistemateli in una teglia da forno e versate nella teglia acqua per un terzo della sua altezza, così da avere una cottura a bagnomaria in forno. Cuocete in forno preriscaldato a  gradi per circa / minuti ; trascorso questo tempo effettuate la prova dello stuzzicadenti che dovrà risultare asciutto. Sformateli con l’aiuto di un coltellino una volta raffreddati.Infine preparate la crema al Parmigiano (--) con le dosi indicate nella ricetta, seguendo il procedimento che trovate qui (crema al parmigiano). Riscaldate la crema in un pentolino o per qualche secondo in microonde, ricoprite gli sformatini con un cucchiaio di crema e servite.
+
+## Descrizione
+Il risultato finale sarà dei deliziosi sformatini di spinaci, dal sapore equilibrato e cremoso, arricchiti dai pinoli croccanti e dal parmigiano reggiano. La consistenza sarà morbida e leggera, perfetta come antipasto o contorno.
+
+Questi sformatini sono adatti per occasioni speciali, come cene eleganti o pranzi importanti. Possono essere serviti caldi o freddi, a seconda delle preferenze, e sono sicuramente un piatto che stupirà i tuoi ospiti.
+
+Le persone che seguono una dieta variata e equilibrata possono includere questo piatto nel loro regime alimentare. Tuttavia, chi segue una dieta vegana o senza lattosio dovrebbe fare alcune sostituzioni, come usare latte vegetale al posto del latte intero e omittere il formaggio parmigiano reggiano.
+
+Le persone con intolleranze al lattosio possono mangiare questa ricetta sostituendo il latte intero con latte senza lattosio o con una bevanda vegetale apposita. Chi ha intolleranza al glutine può utilizzare del pangrattato senza glutine e sostituire la farina 00 con farina di riso o di mais. Inoltre, i pinoli possono essere sostituiti con altra frutta secca a piacere.

@@ -1,0 +1,25 @@
+# Saltimbocca alla Romana
+Categoria: Secondi piatti
+
+## Ingredienti
+- Fettine di vitello: (300 g di Noce)
+- Prosciutto crudo: (sottili) 4 fette
+- Salvia: 4 foglie
+- Burro: 50 g
+- Vino bianco: 100 g
+- Pepe nero: q.b.
+- Farina 00: 50 g
+- Olio extravergine d'oliva: 20 g
+- Acqua: 20 g
+
+## Preparazione
+Per preparare i saltimbocca alla romana iniziate tagliando a fette la noce di vitello , poi adagiate ciascuna fetta su un tagliere, eliminate eventuali nervetti e grasso e poi battete con un batticarne  per renderla sottile. A questo punto ponete al centro una fetta sottile di prosciutto crudo ;e una foglia di salvia . Infilzate con uno stuzzicadenti la carne e la farcia in modo da sigillare tutto per bene . Versate in una padella  g di burro e  g di olio e fate sciogliere a temperatura medio alta.Infarinate le fette di carne solo da un lato  e man mano adagiatele nella padella con il condimento ben caldo , aumentate la temperatura così da dorare bene i saltimbocca. Pepate a piacere ma non salate perchè la presenza del prosciutto renderà sapida la pietanza.Quando la carne risulterà ben dorata sotto, sfumate con il vino bianco  e lasciate evaporare. Non appena l'alcol sarà evaporato completamente, coprite con il coperchio e cuocete ancora per  minuto. Trasferite i saltimbocca in un piatto e teneteli in caldo.Ora occupatevi del sughetto di accompagnamento: nella stessa padella con il fondo di cottura della carne aggiungete  g di burro  e l'acqua . Lasciate restringere  fino a creare una cremina leggermente densa.Ora distribuite la cremina sul fondo di un piatto di portata  e adagiate sopra le fettine di carne . I saltimbocca alla romana sono pronti per essere portati in tavola .
+
+## Descrizione
+Il risultato finale sarà un piatto di Saltimbocca alla Romana, composto da fettine di vitello avvolte con prosciutto crudo e salvia, che verranno saltate in padella con burro, vino bianco e pepe nero. Il piatto sarà saporito e gustoso, con l'inconfondibile profumo della salvia che si sposa perfettamente con il sapore delicato della carne di vitello.
+
+Questo piatto è adatto per occasioni speciali e cene eleganti, grazie alla sua presentazione raffinata e al suo sapore ricercato.
+
+Le Saltimbocca alla Romana sono adatte a una dieta bilanciata e equilibrata, in quanto sono ricche di proteine e povere di grassi, se consumate con moderazione. È consigliabile abbinarle con contorni leggeri e verdure di stagione.
+
+Le persone con intolleranze al lattosio dovranno fare attenzione all'uso del burro nella preparazione, mentre coloro che soffrono di celiachia dovranno utilizzare farina senza glutine per panare le fettine di vitello. Le persone con intolleranze al vino bianco potranno sostituirlo con brodo vegetale o acqua.

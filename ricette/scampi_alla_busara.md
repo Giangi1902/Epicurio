@@ -1,0 +1,25 @@
+# Scampi alla busara
+Categoria: Secondi piatti
+
+## Ingredienti
+- Scampi: 1 kg
+- Pomodori pelati: 300 g
+- Vino bianco secco: 50 ml
+- Pangrattato: 20 g
+- Aglio: 1 spicchio
+- Prezzemolo: da tritare 2 cucchiai
+- Peperoncino fresco: 1
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare gli scampi alla busara, per prima cosa lavate bene gli scampi sotto l’acqua corrente fredda . Con un coltello affilato o con le forbici praticate un taglio verticale sul dorso  oppure sulla pancia, in modo da facilitare l'estrazione della polpa una volta cotti. Se preferite, potete anche lasciarli interi. In una padella capiente fate inbiondire in olio d'oliva extravergine uno spicchio d'aglio ;unite anche il peperoncino fresco intero . Potete infilzare sia l'aglio che il peperoncino con uno stuzzicadente, per facilitarne poi l'eliminazione a fine cottura. Quando l'aglio sarà imbiondito, aggiungete il pangrattato , che servirà per addensare la polpa di pomodoro, e mescolate velocemente per non farlo bruciare. Subito dopo, aggiungete gli scampi , meglio non sovrapporli per uniformare la cottura, esfumate con il vino bianco . Lasciate evaporare per un paio di minuti quindi salate e unite i pomodori pelati tagliati a pezzetti , date una mescolata  ecoprite con un coperchio la padella . Lasciate cuocere così per  minuti circa. Intanto tritate finemente il prezzemolo  e, a cottura ultimata, spolverizzatelo sugli scampi .Prima di servire gli scampi alla busara, eliminate il peperoncino e lo spicchio d'aglio (-): ecco pronti i vostri scampi alla busara !
+
+## Descrizione
+Il risultato finale sarà un piatto di scampi succulenti stufati in una salsa rustica e saporita a base di pomodori, vino bianco, aglio, prezzemolo e peperoncino.
+
+Occasioni: Questa ricetta è adatta per occasioni speciali come cene eleganti, pranzi di festa o per stupire gli ospiti durante una cena con amici o familiari.
+
+Dieta: Questo piatto è adatto a una dieta equilibrata e variegata, poiché contiene ingredienti freschi e sani come gli scampi, i pomodori e l'aglio. Tuttavia, è consigliabile moderarne il consumo a causa del contenuto calorico e del condimento con olio extravergine d'oliva.
+
+Intolleranze: Le persone con intolleranze alle proteine del pesce devono evitare di consumare questo piatto. Inoltre, chi soffre di intolleranze al glutine può optare per il pane grattugiato senza glutine oppure eliminare completamente questo ingrediente dalla ricetta.

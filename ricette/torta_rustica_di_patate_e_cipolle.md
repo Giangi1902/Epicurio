@@ -1,0 +1,30 @@
+# Torta rustica di patate e cipolle
+Categoria: Torte salate
+
+## Ingredienti
+- Burro: 100 g
+- Farina 00: 200 g
+- Acqua: ghiacciata 70 ml
+- Sale fino: 1 pizzico
+- Patate: 1 kg
+- Cipolle bianche: medie 2
+- Burro: 100 g
+- Sale fino: q.b.
+- Pepe bianco: q.b.
+- Panna fresca liquida: 250 ml
+- Uova: medie 3
+- Erba cipollina: tritata 2 cucchiai
+- Noce moscata: grattugiata ½ cucchiaino
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare la torta rustica di patate e cipolle, iniziate dalla pasta brisè, se necessario potete consultare il procedimento qui. Versate nel frullatore la farina e aggiungete il burro freddo di frigo a pezzi . Aggiungete quindi il sale  e azionate il frullatore per ottenere un composto sabbioso .Versate il composto su un ripiano freddo e formate la classica fontana nel cui centro inizierete a versare poco alla volta l'acqua, mescolando con una forchetta per raccogliere a mano a mano la farina dai bordi . Quindi impastate il tutto velocemente fino ad ottenere un impasto compatto e abbastanza elastico . Formate un panetto e avvolgetelo nella pellicola trasparente , quindi ponetelo in frigo per almeno  minuti.Mentre l'impasto riposa, passate a preparare il ripieno della torta: lavate bene le patate sotto acqua corrente e pelatele con un pelapatate o un coltellino , poi tagliatele a fette di circa - mm . In un tegame capiente, portate a bollore l'acqua, salatela e immergete le fette di patate .Fate sbollentare le fette di patate per - minuti  quindi scolatele aiutandovi con una schiumarola  e trasferitele su  un vassoio ricoperto di carta da forno per farle asciugare, cercando di non sovrapporre le fette .Ora lavate le cipolle, privatele dell'involucro più esterno e tagliatele a fette di circa - mm . In una padella larga, mettete il burro a pezzetti e fatelo fondere a fuoco basso, poi fate appassire le cipolle sempre a fuoco basso per - minuti, quindi aggiungete il sale e il pepe  e spegnete il fuoco e lasciatele da parte. Preparate una tortiera di  cm di diametro per infornare la torta: per prima cosa, spennellate accuratamente la superficie e i bordi della tortiera con un pò di brurro .Quindi togliete dal frigo il panetto di pasta brisè, con le mani dategli una forma tonda e stendete la pasta con il mattarello realizzando una sfoglia dello spessore di - mm . Foderate quindi la tortiera con la sfoglia di pasta brisè ottenuta . Fate aderire la sfoglia alla tortiera ed eliminate con un coltellino la pasta in eccesso dai bordi, poi bucherellate la sfoglia con i rebbi di una forchetta .Ora potete procedere con la cottura cieca della pasta brisè (per questo procedimento potete consultare la scuola di cucina: come fare la cottura alla cieca) che favorirà la croccantezza della base: rivestite la pasta brisè: rivestite la sfoglia con un foglio di carta da forno e poi copritela con i fagioli secchi (o altri legumi secchi) . Ponete la tortiera in forno statico già caldo a ° per circa  minuti (se forno ventilato a ° per - minuti) . Passato il tempo necessario, estraete la tortiera dal forno, togliete la carta con i legumi e lasciate lievemente intiepidire. Spennellate il fondo della sfoglia con dell’albume  e rimettete in forno per altri  minuti alla stessa temperatura. Estraete quindi la tortiera dal forno.Mentre la base si intepidisce leggermente, preparate la crema per ricoprire la torta rustica: in una ciotola sbattete le uova con un pizzico di sale, poi versate la panna fresca liquida , mescolate il tutto con una frusta , aggiungete la noce moscata grattugiata e l'erba cipollina triturata , amalgamate gli ingredienti e tenete il composto da parte. Questa sarà la crema di copertura per la vostra torta.Iniziate quindi a comporre la vostra torta rustica: mettete uno strato di cipolle sulla sfoglia  poi aggiungete le fette di patate e continuate ad alternare gli strati fino ad esaurire gli ingredienti (-). Concludete con lo strato di patate.Per ultima, versate la crema di panna e uova preparate in precedenza  e infornate la torta per - minuti in forno statico a ° (se forno ventilato ° per - minuti) . Quando la torta rustica sarà ben dorata estraetela dal forno , e lasciatela riposare per  minuti. Potete servire la vostra torta rustica di patate e cipolle calda come secondo piatto o piatto unico!
+
+## Descrizione
+Il risultato finale della torta rustica di patate e cipolle sarà una torta salata croccante e saporita, con un ripieno cremoso di patate, cipolle e panna, arricchito da erba cipollina e noce moscata. 
+
+Si tratta di un piatto adatto come antipasto, piatto unico accompagnato da insalata verde o contorno di verdure, oppure come sfiziosa cena informale con amici e familiari. È perfetta per essere servita durante una cena in allegria o per un brunch domenicale.
+
+La torta rustica di patate e cipolle è adatta per una dieta equilibrata e completa, in quanto contiene proteine dalle uova, carboidrati dalle patate e dalla farina, grassi dal burro e dalla panna, e verdure dalle cipolle. Si consiglia di consumarla con moderazione per chi segue una dieta ipocalorica o bassa in grassi.
+
+Le persone con intolleranze al glutine potrebbero non poter consumare questa ricetta a meno di utilizzare una farina priva di glutine. Le persone con intolleranza al lattosio potrebbero dover sostituire la panna fresca con una versione senza lattosio. Infine, le persone con intolleranza alle uova potrebbero dover evitare questo piatto o trovare un'alternativa alle uova in ricetta.

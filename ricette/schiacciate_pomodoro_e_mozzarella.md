@@ -1,0 +1,23 @@
+# Schiacciate pomodoro e mozzarella
+Categoria: Antipasti
+
+## Ingredienti
+- Schiacciate al forno: 12
+- Mozzarella: 120 g
+- Basilico: 12 foglie
+- Passata di pomodoro: 100 g
+- Olio extravergine d'oliva: 2 cucchiai
+- Origano: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare le schiacciate pomodoro e mozzarella iniziate accendendo il forno a °, poi ponete la passata di pomodoro in una ciotola, unite l’origano, il sale e i due cucchiai di olio di oliva, mescolate bene  e mettetela da parte. Tagliate la mozzarella (o la provola) a piccoli cubetti , prendete la teglia del forno e rivestitela di carta da forno, adagiate sopra le schiacciate, versate un cucchiaio di salsa su ciascuno stuzzichino  e ricoprite con qualche bocconcino di mozzarella. Cuocete per circa  minuti, il tempo necessario per far sciogliere la mozzarella. Al termine della cottura estraete le schiacciate, guarnite con una foglioline di basilico e servitele ancora calde.
+
+## Descrizione
+Il risultato finale della ricetta sarà un antipasto composto da schiacciate croccanti, mozzarella filante, pomodoro fresco e profumato basilico. Il tutto sarà arricchito da una passata di pomodoro, olio extravergine d'oliva e aromatizzato con origano e sale fino.
+
+Questo antipasto è adatto per occasioni informali come aperitivi, buffet, picnic o cene tra amici. 
+
+La ricetta è adatta a persone che seguono una dieta bilanciata, in quanto l'antipasto è leggero ma saziante grazie alla presenza di carboidrati, proteine e grassi. È adatto anche per chi segue una dieta vegetariana.
+
+Le persone con intolleranze o allergie alle proteine del latte non possono consumare la mozzarella. Inoltre, chi è intollerante al glutine dovrebbe controllare che le schiacciate utilizzate siano senza glutine.

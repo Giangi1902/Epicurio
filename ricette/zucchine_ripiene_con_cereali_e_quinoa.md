@@ -1,0 +1,28 @@
+# Zucchine ripiene con cereali e quinoa
+Categoria: Primi piatti
+
+## Ingredienti
+- Mix di cereali e quinoa: con grano saraceno 180 g
+- Zucchine tonde: piccole 4
+- Pomodori pizzutelli: 100 g
+- Olive taggiasche: 20 g
+- Acciughe (alici): 70 g
+- Basilico: q.b.
+- Menta: q.b.
+- Finocchietto selvatico: q.b.
+- Scorza di limone: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare le zuccine ripiene con cereali e quinoa come prima cosa cuocete il mix in acqua bollente, salata a piacere , per il tempo indicato sulla confezione. Poi scolatelo, trasferitelo in una ciotola e aggiungete un filo d'olio . Mescolate  e lasciate raffreddare in frigorifero. A questo punto lavate le zucchine, poi con un coltello tagliate la calotta superiore, come se fosse una sorta di cappello . Scavate le zucchine all'interno , in modo da svuotarle completamente. In ultimo incidetele leggermente anche alla base in modo da raddrizzarle. Disponetele capovolte su una leccarda foderata con carta forno ; condite con sale e olio  e cuocete a ° per circa  minuti. Poi sfornatele e lasciatele raffreddare . Nel frattempo passate alla pulizia delle alici, con le mani eliminate la testa   e divaricandole leggermente estraete anche la lisca centrale . Poi lasciate scaldare una padella e posizionate le alici all'interno . Cuocetele per circa  minuti  poi trasferitele in un piatto e lasciatele raffreddare. Tagliate poi i pomodorini a cubetti piccoli  e tritate finemente tutte le erbe insieme . Tagliate grossolanamente poi anche le alici . Riprendete il mix di cereali ormai freddo, aggiungete i pomodorini, le alici , le olive, il mix di erbe e la scorza di limone .Mescolate il tutto  e utilizzatelo per riempire le zucchine . A questo punto potete servirle a temperatura ambiente  oppure lasciarle in frigorifero fino al momento di gustarle. 
+
+## Descrizione
+Il risultato finale sarà un piatto colorato e gustoso, con zucchine tonde ripiene di un mix di cereali e quinoa arricchito da pomodori, olive taggiasche, acciughe, erbe aromatiche e scorza di limone.
+
+Occasioni adatte: Questa ricetta è adatta per un pranzo o una cena leggera e salutare, perfetta da servire come piatto unico o come contorno.
+
+Dieta/Regime alimentare: Questa ricetta è adatta per una dieta equilibrata e per chi segue un regime alimentare vegetariano o pescetariano. È ricca di fibre e proteine vegetali, ideale per chi cerca un piatto sano e nutriente.
+
+Intolleranze: Le persone con intolleranze al glutine possono consumare questa ricetta, purché si assicurino che i cereali e la quinoa scelti siano privi di glutine. Le persone con intolleranza al lattosio possono gustare questa ricetta in quanto non contiene latticini. Chi soffre di intolleranza al pesce deve evitare l'aggiunta di acciughe, ma può comunque godere delle zucchine ripiene senza questo ingrediente.

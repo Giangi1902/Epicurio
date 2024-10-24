@@ -1,0 +1,24 @@
+# Torta fredda al limone
+Categoria: None
+
+## Ingredienti
+- Biscotti Digestive: 180 g
+- Burro: 100 g
+- Yogurt bianco naturale: 500 g
+- Panna fresca liquida: 400 g
+- Zucchero a velo: 150 g
+- Limoni: non trattato 1
+- Gelatina in fogli: 12 g
+- Cioccolato bianco: 100 g
+
+## Preparazione
+Per preparare la torta fredda al limone, iniziate dalla base: sciogliete il burro a fuoco molto dolce poi fate intiepidire. In un mixer inserite i biscotti secchi , e frullate fino a ridurli in polvere. Trasferite in una ciotola e unite il burro sciolto  e lasciato intiepidire. Mescolate con un cucchiaio .Ponete il composto in una tortiera a cerniera del diametro di  cm rivestita con carta da forno. Con il dorso di un cucchiaio distribuite bene il composto di biscotti secchi su tutta la base . Ponete a rassodare in frigo per almeno  minuti. Intanto passate a preparare la crema: in una pirofila bassa e larga versate acqua fredda e ponete in ammollo i fogli di gelatina  per circa  minuti. In una ciotola versate lo yogurt, grattugiate la scorza di limone non trattato quindi spremetene il succo . Versate anche il succo ottenuto nella ciotola con gli altri ingredienti  e mescolate .Una volta pronta , potete unire alla crema lo zucchero a velo , mescolando accuratamente perchè si sciolga del tutto .In un pentolino scaldate  g di panna presi dalla dose totale, fate arrivare a sfiorare il bollore. Poi prendete la gelatina e strizzatela dolcemente , versatela nella panna scaldata  quindi mescolate per farla sciogliere completamente. Lasciate intiepidire leggermente e versate il tutto in ciotola .Mescolate per far amalgamare bene i due composti . Poi in una ciotola versate i  g di panna fresca liquida rimasti e montate con delle fruste elettriche ; a questo punto versate anche la panna montata nel composto con lo yogurt .Mescolate il tutto delicatamente con una marisa, dall'alto verso il basso in modo che la crema non perda la sua consistenza spumosa . Potete versare la crema ottenuta sulla base della torta fredda, oramai rassodata ; livellate il tutto con la spatola o il dorso di un cucchiaio  e riponete in frigo a rassodare. E' preferibile attendere un giorno intero o almeno una notte perchè la torta si solidifichi completamente.Per decorare la torta fredda di limone, potete sminuzzare grossolanamente il cioccolato bianco ; rimuovete lo stampo a cerniera e la carta da forno, distribuite il cioccolato bianco sulla superficie della torta . La vostra torta fredda al limone è pronta per essere gustata !
+
+## Descrizione
+- Risultato finale: La torta fredda al limone sarà un dolce fresco e cremoso, dal gusto deciso e pieno di profumi agrumati. La base croccante dei biscotti digestive contrasta piacevolmente con la morbidezza della crema al limone, mentre il cioccolato bianco grattugiato sulla superficie della torta aggiunge un tocco di dolcezza.
+
+- Occasioni adatte: La torta fredda al limone è perfetta da servire come dessert in occasioni speciali come compleanni, feste di fine anno e cene eleganti. Grazie al suo gusto fresco e leggero, è ottima da gustare durante le calde giornate estive.
+
+- Diete o regime alimentare adatte: Questa ricetta è adatta a tutti coloro che seguono una dieta onnivora. Tuttavia, è possibile ridurre l'uso dello zucchero a velo per renderla meno calorica, e utilizzare yogurt magro al posto di quello intero per ridurre il contenuto di grassi. È importante moderarne il consumo per coloro che stanno seguendo un regime alimentare ipocalorico.
+
+- Intolleranze: Le persone intolleranti al lattosio possono preparare la torta fredda al limone utilizzando yogurt senza lattosio e panna fresca senza lattosio. Per coloro che sono intolleranti al glutine, è possibile utilizzare biscotti senza glutine al posto dei biscotti digestive tradizionali. È inoltre importante verificare che la gelatina in fogli utilizzata non contenga tracce di glutine.

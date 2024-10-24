@@ -1,0 +1,26 @@
+# Spaghetto rigato al limone e gamberi
+Categoria: Primi piatti
+
+## Ingredienti
+- Spaghetti Rigati: 320 g
+- Gamberi: (da pulire) 600 g
+- Fumetto di crostacei: (preparato con le teste e i carapaci dei gamberi) 700 ml
+- Succo di limone: 40 g
+- Aglio: 2 spicchi
+- Timo: q.b.
+- Olio extravergine d'oliva: 30 g
+- Acqua: calda q.b.
+- Cipolle bianche: 1
+- Burro: 50 g
+
+## Preparazione
+Per preparare lo spaghetto rigato al limone e gamberi, iniziate dalla pulizia di questi ultimi: tirate via la testa dei gamberi , poi procedete a staccare le zampette  e infine sfilate delicatamente il carapace ; tenete tutti gli scarti da parte per preparare il fumetto di crostacei.A questo punto potete incidere i gamberi nel senso della lunghezza per togliere l'intestino, il filamento nero interno, aiutandovi con una pinza da cucina ; poi completate il taglio dividendo i gamberi a metà . Tenete i gamberi da parte. Continuate quindi con la preparazione del fumetto di crostacei: in un tegame versate il burro e fatelo sciogliere, quindi aggiungete uno spicchio d'aglio e la cipolla e fate rosolare a fuoco dolce per  minuto. Poi unite tutti gli altri odori tritati grossolanamente: il sedano, il porro, la carota (facoltativa), il prezzemolo. Lasciate insaporire, dopo di che versate anche i carapaci e le teste dei gamberi .Versate il vino bianco  e fate sfumare, quindi unite anche i pomodorini lavati e tagliati a spicchi (facoltativo) e  litro di acqua . Infine aggiustate di sale (non troppo perchè il fumetto già di per sè è piuttosto saporito)  e pepe. Lasciate sobbollire la bisque con coperchio e a fuoco dolce per circa  minuti. Durante la cottura, schiumate il fumetto con una schiumarola avendo cura ogni volta di risciacquare. Una volta pronto il fumetto si sarà ridotto della metà rispetto al liquido iniziale, potrete versarlo in un mixer per ridurlo ad un composto omogeneo  che andrà poi filtrato con un colino a maglie strette per eliminiare grumi e residui . Versate poi parte della bisque in una padella ampia  e accendete il fuoco basso.Versate gli spaghetti rigati nella padella con la bisque, per cuocerli risottandoli. Mescolate gli spaghetti con una pinza da cucina per rigirarli più facilmente fino a quando non si saranno ammorbiditi leggermente . Continuate a versare poco alla volta il fumetto e, se non dovesse essere sufficiente a cuocere gli spaghetti, potete aggiungere man a mano l'acqua calda (occorreranno circa  g) per proseguire a risottarli . Per la cottura della pasta risottata dovrete considerare almeno - minuti a fuoco lento. Nel frattempo lavate il limone e prelevate la scorza con un pelaverdure, avendo cura di prendere solo la parte gialla e non quella bianca che è più amarognola .Riducete la scorza a listarelle sottili , poi spremete anche il succo del limone  e filtratelo. In una padella ampia versate l'olio e fate soffriggere uno spicchio di aglio, dopodichè unite le scorze di limone  e fatele rosolare a fuoco medio per alcuni minuti, mescolando di tanto in tanto con una spatola.A questo punto versate i gamberi , mescolate e aggiustate di sale e pepe . Dopo alcuni secondi unite anche il succo di limone e il timo tritato , quindi cuocete solo per pochissimi minuti, fino a che la carne dei gamberi non risulterà bianca rimanendo comunque tenera. Infine rimuovete l'aglio e spegnete il fuoco. Nel frattempo anche la pasta sarà pronta, quindi versate nella padella degli spaghetti rigati anche i gamberi , mantecate alcuni istanti a fuoco moderato e impiattate per gustare caldo lo spaghetto rigato al limone e gamberi !
+
+## Descrizione
+Il risultato finale sarà un piatto di spaghetti rigati al limone e gamberi, dal sapore fresco e delicato. I gamberi si combineranno perfettamente con il gusto agrumato del limone, creando un piatto equilibrato e gustoso.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia. La sua presentazione raffinata lo rende perfetto per sorprendere gli ospiti.
+
+Questa ricetta è adatta a una dieta bilanciata e varia, grazie alla presenza di carboidrati, proteine e grassi. È consigliato consumarlo con moderazione all'interno di una dieta equilibrata.
+
+Le persone con intolleranze al glutine dovranno sostituire la pasta con una versione senza glutine per poter gustare questa ricetta. Le persone con intolleranze ai crostacei dovranno evitare di consumare questo piatto. Se si hanno intolleranze agli agrumi, si potrebbe sostituire il limone con un'altra fonte di acidità, come il lime.

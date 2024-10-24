@@ -1,0 +1,27 @@
+# Zuccotto di melanzane
+Categoria: Contorni
+
+## Ingredienti
+- Melanzane: 1 kg
+- Sale grosso: 60 g
+- Farina 00: 200 g
+- Pomodori pelati: 500 g
+- Aglio: 1 spicchio
+- Basilico: 10 foglie
+- Olio extravergine d'oliva: 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Pecorino: grattugiato 30 g
+- Parmigiano Reggiano DOP: grattugiato 30 g
+- Pangrattato: 60 g
+- Olio extravergine d'oliva: 20 g
+- Basilico: 5 foglie
+- Olio di semi di arachide: 1 l
+
+## Preparazione
+Per realizzare lo zuccotto di melanzane iniziate dalla preparazione delle melanzane. Lavate bene le melanzane , spuntatele, e tagliatele a fette nel senso della lunghezza , quindi riducetele a cubetti piuttosto piccoli, di circa  cm .Disponete i cubetti di melanzane in uno scolapasta a strati , alternando con delle manciate di sale grosso . Quindi posizionatevi sopra un piatto e sopra ancora un peso  per circa  ore, in modo fa far rilasciare alle melanzane l'acqua di vegetazione e perdere il sapore amarognolo.A questo punto iniziate a preparare il condimento. In una padella capiente rosolate lo spicchio d'aglio diviso a metà , quindi aggiungete i pomodori pelati , insaporite con sale e pepe e lasciate cuocere per  minuti, coprendo con un coperchio  e mescolando di tanto in tanto.Una volta che le melanzane avranno perso la loro acqua di vegetazione , sciacquatele sotto l'acqua corrente per eliminare tutto il sale in eccesso  e asciugatele con un canovaccio da cucina .Quindi infarinate i cubetti di melanzane e passateli al setaccio per eliminare la farina in eccesso . Scaldate l'olio fino a portarlo alla temperatura di °, quindi friggete le melanzane infarinate poco per volta, fino a farle diventare dorate . Scolatele con una schiumarola e mettetele su un piatto ricoperto con carta assorbente , in modo da togliere tutto l'olio in eccesso.Continuate in questo modo fino a terminare tutte le melanzane. A parte, in un'altra padella, versate  grammi di olio , aggiungete il pan grattato  e lasciatelo tostare, mescolando continuamente e facendo attenzione a non farlo bruciare .A questo punto eliminate l'aglio dalla salsa e aggiungete il basilico . Versate le melanzane in una ciotola e unite la passata di pomodoro , quindi aggiungete sia il parmigiano, che il pecorino entrambi grattugiati .Versatevi anche il pangrattato , amalgamate il tutto e aggiungete ancora qualche fogliolina di basilico spezzettata con le mani . Foderate uno stampo da zuccotto con della pellicola trasparente e versatevi il composto appena preparato .Pressate leggermente con una spatolina in modo da compattare il composto  e coprite con la pellicola . Lasciate riposare in frigorifero per almeno due ore, quindi sformatelo e servitelo a temperatura ambiente .
+
+## Descrizione
+Il risultato finale della ricetta "Zuccotto di melanzane" sarà un piatto gustoso e saporito, con strati di melanzane, salsa di pomodoro, formaggio e pangrattato croccante. Le melanzane saranno morbide e ben cotte, arricchite dal sapore del pomodoro, del formaggio e dell'olio extravergine d'oliva.
+
+Questo piatto è adatto come contorno per un pranzo o una cena estiva, ma può essere servito anche come piatto unico leggero. È adatto per chi segue una dieta mediterranea o vegetariana, in quanto è ricco di verdure e ingredienti naturali. Le persone con intolleranze al lattosio possono mangiarlo sostituendo il formaggio con una versione senza lattosio o evitandolo completamente. Le persone con intolleranze al glutine possono utilizzare una farina senza glutine per la panatura.

@@ -1,0 +1,31 @@
+# Torta fiocco di neve
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato bianco: 400 g
+- Burro: 160 g
+- Latte intero: 160 g
+- Zucchero: 400 g
+- Uova: 5 intere+1 tuorlo (a temperatura ambiente) 300 g
+- Farina 00: 420 g
+- Lievito in polvere per dolci: 16 g
+- Baccello di vaniglia: 1
+- Cioccolato fondente: 550 g
+- Panna fresca liquida: 550 g
+- Pasta di zucchero: 1,3 kg
+- Zucchero: q.b.
+- Matite alimentari: brillanti, color madreperla q.b.
+- Zuccheri glitterati: blu q.b.
+- Colla alimentare: q.b.
+
+## Preparazione
+Per realizzare la torta fiocco di neve incominciate con la preparazione delle tre basi al cioccolato bianco. Con un coltello tritate finemente il cioccolato bianco , poi fatelo sciogliere a bagnomaria insieme al latte tiepido  e al burro tagliato a tocchetti , facendo attenzione che l’acqua sottostante non tocchi il recipiente.Mescolate con una spatola , quindi versate lo zucchero  facendolo sciogliere completamente; spegnete il fuoco e lasciate intiepidire. Ponete il composto di burro, cioccolato e latte nella tazza di una planetaria munita di frusta  e iniziate a montare.Versate le uova a temperatura ambiente una alla volta, aspettando che la precedente si sia ben amalgamata prima di aggiungere la successiva . Setacciate la farina e il lievito , poi incidete la bacca di vaniglia nel senso della lunghezza ed estraete i semi, raschiandola con un coltellino .Una volta che l’impasto sarà montato, trasferitelo in una ciotola e aggiungete le polveri insieme ai semi della bacca di vaniglia poco alla volta, mescolando con un leccapentola dal basso verso l’alto per amalgamare bene tutti gli ingredienti . A questo punto adagiate  anelli d’acciaio foderati con strisce di carta da forno, uno del diametro di  cm e l’altro di  cm, su una leccarda imburrata e foderata con un foglio di carta da forno. Nei due anelli versate l'impasto fino ad arrivare a / di ciascuno, mentre l’impasto restante versatelo in una tortiera cerchio apribile imburrata e foderata con carta da forno della misura di  cm , livellando bene la superficie . Cuocete prima gli anelli: in forno statico preriscaldato a ° per  minuti per la torta più piccola (o a ° per  minuti se in forno ventilato) e per  minuti quella media ( minuti se in forno ventilato). Una volta cotte, sfornatele e fate cuocere la torta più grande alla stessa temperatura per  minuti ( se in forno ventilato). Se durante la cottura la superficie delle torte dovesse scurirsi troppo, coprite con un foglio di alluminio poiché l’impasto, contenendo molti zuccheri, tende a scurirsi.Quando la torta sarà pronta , fatela raffreddare su di una gratella insieme alle altre più piccole. Nel frattempo preparate la ganache al cioccolato fondente: tritate il cioccolato fondente , dopodichè ponete sul fuoco a scaldare un pentolino con la panna .Quando la panna avrà sfiorato il bollore, versatela sul cioccolato tritato , mescolando con le fruste per farlo sciogliere completamente . Trasferite il composto di cioccolato e panna in una ciotola contenente del ghiaccio  emontate il tutto per - minuti con uno sbattitore elettrico munito di fruste . Quando la torta più grande si sarà raffreddata completamente, dividetela in due metà  e con una spatola farcite il disco di base con una parte della ganache che avete preparato  .Ricomponete la torta posizionando l’altro disco sulla farcitura , poi ricoprite tutta la superficie con una parte della ganache , distribuendola in maniera omogenea su tutti i lati . Fate rassodare la torta in frigorifero per almeno  minuti, intanto procedete nello stesso modo con le altre due più piccole.Prendete la pasta di zucchero già stesa , srotolatela  e ricoprite la torta più grande con l'aiuto di un mattarello . Lisciate la superficie e i lati con uno smoother per far aderire bene la pasta di zucchero ed evitare pieghe ,poi rifinite i bordi con un coltello dalla lama liscia , togliendo la parte in eccesso che conserverete per le decorazioni finali. Una volta pronta , ricoprite allo stesso modo anche le altre  torte più piccole. Impastate i ritagli di pasta di zucchero che avete tenuto da parte e stendete la pasta su un piano di lavoro cosparso con dello zucchero a velo ; con degli stampini appositi di  misure diverse ricavate dei fiocchi di neve . Prendete la matita brillante color madreperla e decorate i fiocchi che avete ottenuto . Prendete gli zuccheri glitterati blu , distribuiteli sui fiocchi , quindi fateli asciugare per  notte. Ora potete comporre la torta: inserite  bastoncini di plastica (della stessa altezza della base) al centro della torta più grande  e sovrapponete un cerchio di cartone del diametro inferiore a  cm.Adagiate la torta media  e poi quella più piccola , impilandole una sull’altra .decorate con il nastrino di raso azzurro la base di ogni piano .Prendete la colla alimentare, spennellate il retro dei fiocchi di neve. Attaccateli delicatamente sulla torta, distribuendoli su ogni piano , premendo con le dita per  minuto in modo che aderiscano bene: la vostra splendida torta fiocco di neve è pronta per essere servita e gustata !
+
+## Descrizione
+Il risultato finale di questa ricetta sarà una torta a forma di fiocco di neve, con un delizioso e ricco gusto di cioccolato fondente e bianco. La torta sarà decorata con pasta di zucchero e zuccheri glitterati blu, dando un effetto brillante e festoso.
+
+Questa torta è adatta per occasioni speciali come compleanni, feste invernali, o come dessert per le festività natalizie.
+
+Questa ricetta non è indicata per diete ipocaloriche o per chi segue un regime alimentare molto controllato, a causa della presenza di burro, cioccolato e zucchero in quantità significative.
+
+Le persone con intolleranze al lattosio possono comunque consumare questa torta, sostituendo il latte intero con latte senza lattosio. Tuttavia, chi soffre di intolleranze al glutine dovrà evitare di consumare questa torta in quanto contiene farina di frumento.

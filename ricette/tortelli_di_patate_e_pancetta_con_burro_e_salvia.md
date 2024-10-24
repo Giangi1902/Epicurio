@@ -1,0 +1,27 @@
+# Tortelli di patate e pancetta con burro e salvia
+Categoria: Primi piatti
+
+## Ingredienti
+- Farina 00: 200 g
+- Uova: 2
+- Patate: 150 g
+- Ricotta vaccina: 50 g
+- Pancetta affumicata: 30 g
+- Parmigiano Reggiano DOP: (da grattuggiare) 50 g
+- Uova: (piccolo) 1
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Burro: 80 g
+- Salvia: 16 foglie
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i tortelli di patate e pancetta con burro e salvia iniziate dalla preparazione della sfoglia per i tortelli: versate la farina su una spianatoia (potete restare un po’ indietro con la dose di farina, e aggiungerne al bisogno mano a mano che lavorate l’impasto) e nel mezzo aggiungete le uova . Sbattetele un po' con la forchetta per amalgamare gli ingredienti  dopodiché compattate con le mani. Nel caso l'impasto dovesse risultare duro o non riuscisse a incorporare tutta la farina, potete aggiungere uno o due cucchiai di acqua tiepida. Se invece l'impasto dovesse sembrarvi troppo liquido, aggiungete al bisogno un pizzico di farina in più. .Continuate a lavorare l'impasto finché non sarà liscio e compatto  poi avvolgete la pasta nella pellicola trasparente  e lasciatela riposare per  minuti in un luogo fresco e asciutto. Nel frattempo occupatevi delle patate: lavatele e mettetele a lessare in acqua bollente intere e con la loro buccia  lasciandole cuocere per circa  minuti, fino a quando saranno tenere. Quando saranno cotte, scolatele e lasciatele intiepidire.Passate ora alla pancetta: tagliatela prima a striscioline  poi a cubetti  e infine tritatela finemente con un coltello, in modo da ottenere pezzetti molto piccoli .Mettete sul fuoco una padella antiaderente e, quando sarà calda, aggiungete la pancetta  lasciandola rosolare per - minuti fino a quando non diventerà croccante . Prendete le patate, che nel frattempo si saranno intiepidite, e schiacciatele nello schiacciapatate, raccogliendo la polpa in una ciotola .Aggiungete alle patate la pancetta croccante , la ricotta  e il Parmigiano grattugiato .Unite anche l'uovo , aggiustate di sale e di pepe e mescolate bene per incorporare gli ingredienti . Il ripieno è pronto: potete coprirlo e metterlo in frigorifero. Riprendete la pasta fresca e dividete il panetto in due parti, riponendo in frigorifero il panetto che non lavorerete subito, sempre lasciandolo coperto da pellicola. Lavorate il primo panetto di pasta e stendetelo nella tirapasta , iniziando dallo spessore più grande fino ad arrivare al penultimo numero: dovete ottenere due sfoglie da circa mezzo millimetro di spessore. Poi procedete anche con l'altro panetto, in modo da ottenere due sfoglie di pari spessore.Appoggiate le sfoglie tirate sul piano di lavoro  e cominciate a distribuire su una delle due sfoglie un cucchiaino di ripieno alla volta, formando dei mucchietti distanziati tra loro  o  centimetri e posizionati in maniera sfalzata (-).Procedete fino a terminare l'impasto  e spennellate leggermente i bordi con poca acqua per far aderire meglio le sfoglie . A questo punto sovrapponete l'altra sfoglia e, aiutandovi con le mani, sigillate la pasta attorno al ripieno , in modo che esca tutta l'aria . Con un coppapasta dal diametro di  cm tagliate i tortelli appoggiandoli di volta in volta su un vassoio spolverizzato con un po' di farina  o su un canovaccio pulito e asciutto. Mettete sul fuoco una pentola con abbondante acqua da salare a bollore, in cui cuocerete i tortelli. Nel frattempo, in una padella capiente fate sciogliere il burro  e aggiungete le foglioline di salvia .Salate e pepate e allungate con un mestolo di acqua calda presa dalla pentola dei tortelli . Quando l'acqua sarà arrivata a bollore versate i tortelli  e lasciateli cuocere per un paio di minuti .Quando saranno cotti scolateli con una schiumarola e aggiungeteli nella padella con il condimento . Fate saltare i tortelli con il burro e la salvia per qualche istante, giandoli molto delicatamente per non rischiare di romperli. Impiattate, spolverizzando con un po' di pepe nero macinato  prima di servire. I vostri tortelli di patate e pancetta con burro e salvia sono pronti per essere gustati !
+
+## Descrizione
+Il risultato finale sarà un piatto di tortelli ripieni di patate, pancetta e ricotta, conditi con burro e salvia. I tortelli avranno una consistenza morbida e cremosa, con il gusto salato della pancetta e il sapore fresco della ricotta. Il tutto sarà arricchito dal burro fuso e dalle foglie di salvia croccanti.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti, pranzi in famiglia o cene romantiche. Può essere servito come primo piatto robusto e saporito.
+
+La ricetta è adatta a chi segue una dieta onnivora. Le persone con intolleranze al lattosio possono sostituire la ricotta vaccina con una ricotta senza lattosio. Le persone con intolleranze al glutine possono sostituire la farina 00 con una farina senza glutine. Le persone con intolleranze alla pancetta possono ometterla o sostituirla con un altro ingrediente a piacere.

@@ -1,0 +1,31 @@
+# Torta zucca di Halloween
+Categoria: Dolci
+
+## Ingredienti
+- Zucca: cruda già pulita 250 g
+- Farina 00: 200 g
+- Succo d'arancia: 85 g
+- Scorza d'arancia: 1
+- Olio di semi: 150 g
+- Lievito in polvere per dolci: 16 g
+- Farina di mandorle: 100 g
+- Zucchero: 200 g
+- Uova: biologiche 3
+- Confettura di albicocche: per farcire 80 g
+- Zucca: polpa cotta 250 g
+- Zucchero a velo: circa 170 g
+- Succo d'arancia: 85 g
+- Marzapane: 150 g
+- Coloranti alimentari: in gel rosso, giallo e blu q.b.
+
+## Preparazione
+Per preparare la torta zucca di Halloween, cominciate dalla glassa. Tagliate la zucca a spicchi  e privateli dei semi e dei filamenti interni . Disponete gli spicchi di zucca su una leccarda foderata di carta da forno, coprite con un foglio di alluminio  e cuocete in forno statico preriscaldato a ° per un’ora abbondante.A cottura ultimata, sfornate e lasciate raffreddare la zucca, quindi staccate la polpa dalla buccia  e passatela attraverso un colino a maglie strette . Spremete adesso l’arancia E unite il succo ottenuto alla polpa di zucca setacciata . Aggiungete quindi, poco per volta, lo zucchero a velo , mescolando accuratamente  fino ad ottenere una glassa della giusta densità. Non dovrà risultare troppo soda, ma neppure eccessivamente fluida. Tenetela da parte.Dedicatevi alla torta: per prima cosa sbucciate la zucca  e tagliatela a spicchi . Eliminate i semi e i filamenti interni Quindi procedete a grattugiare la zucca cruda . Grattugiate anche al scorza dell’arancia, e tenetela da parte . Tagliate quindi l’arancia a metà E spremetela per ricavarne il succo . Unite il succo d’arancia alla zucca grattugiata , mescolate e tenete da parte. Ponete le uova e lo zucchero in una planetaria munita di frusta  e montate a velocità media per almeno  minuti, in modo che il composto risulti molto chiaro e spumoso (se non avete la planetaria, potete montare il composto con le fruste elettriche per almeno  minuti).Continuando a montare unite lentamente l’olio a filo  e aggiungete anche la scorza grattugiata dell’arancia . A parte, setacciate assieme la farina, il lievito E la farina di mandorle . Mescolate bene e continuando a montare unite le farine in planetaria un cucchiaio alla volta, aggiungendo il successivo solo quando il precedente sarà stato perfettamente incorporato . Quando avrete esaurito le farine, staccate la brocca dalla planetaria e aggiungete la zucca grattugiata al composto .Amalgamate delicatamente con movimenti di spatola dall’alto verso il basso , fino ad ottenere un composto omogeneo. Pesatelo e dividetelo in  stampi da ciambella scanalati di  cm di diametro precedentemente imburrati e infarinati . Cuocete le torte in forno statico preriscaldato a ° per  minuti, quindi sfornatele e lasciatele raffreddare.Quando le torte si saranno raffreddate, ponete la prima con il dorso rivolto verso il basso su una gratella posta su un vassoio, e con un coltello largo a lama liscia tagliate via la sommità del dolce per pareggiarlo . Eseguite la stessa operazione anche per l’altro dolce. Spalmate la marmellata sulla parte tagliata del primo dolce  e coprite con il secondo .Facendo colare la glassa alla zucca dalla sommità fino ai lati  andate adesso a ricoprire uniformemente la vostra torta. Utilizzando il manico di un cucchiaino a mo’ di spatola ripassate le scanalature della torta per evidenziarle  e regalare alla zucca un tocco di realismo. Lasciate rassodare il dolce glassato in frigo per almeno un’ora .Nel frattempo dedicatevi alle decorazioni. Infarinate con zucchero a velo un tappetino di silicone e mettetevi dei guanti usa e getta per evitare di macchiarvi le mani, quindi dividete il panetto di marzapane in  parti, una un po’ più grande dell’altra . Aggiungete alla metà più grande - gocce di colorante rosso e - di colorante giallo  e lavorate fino ad ottenere un omogeneo colore aranciato .Date al marzapane la forma di un salsicciotto, tagliate un’estremità e appiattite l’altra sul piano da lavoro per ottenere la forma di un picciolo, che incurverete leggermente per conferirgli maggiore realismo . Con un coltello incidete verticalmente la superficie in modo da rigarlo . Con - gocce di colorante giallo e un paio di gocce di colorante blu colorate di verde il restante marzapane Stendetelo allo spessore di  mm circa  e, utilizzando due stampi da decorazione a forma di foglia di diversa misura, formate una dozzina di foglioline . Impastate nuovamente i ritagli e formate dei cordoncini .Arrotolate ciascun cordoncino creare degli occhielli . Adesso tutte le decorazioni sono pronte . Prendete la torta zucca ormai rassodata e posizionate i cordoncini sulla sommità, facendo in modo che partano dal buco della ciambella superiore Coprite il buco della ciambella con il picciolo, facendolo aderire bene al dolce , quindi decorate i ramoscelli con le foglie . La vostra torta zucca di Halloween è pronta per essere servita!
+
+## Descrizione
+Il risultato finale sarà una deliziosa torta alla zucca dal sapore intenso e avvolgente, perfettamente equilibrata dal profumo e dall'acidità dell'arancia. La consistenza sarà soffice e leggermente umida, grazie alla presenza della zucca sia cruda che cotta.
+
+Questa torta è adatta per festeggiare Halloween, grazie alla sua vivace decorazione a tema. È perfetta da gustare come dessert dopo una cena autunnale, magari accompagnata da una tazza di tè o caffè caldo.
+
+La torta alla zucca di Halloween è adatta per chi segue una dieta vegetariana, in quanto non contiene ingredienti di origine animale. Tuttavia, non è adatta per chi segue una dieta vegana, in quanto prevede l'uso di uova e marzapane.
+
+Le persone con intolleranze al lattosio possono mangiarla senza problemi, poiché non contiene latticini. Tuttavia, è necessario fare attenzione alle decorazioni colorate con coloranti alimentari, che potrebbero contenere allergeni. Le persone con intolleranze al glutine possono mangiarla se utilizzano farina senza glutine al posto della farina 00.

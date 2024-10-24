@@ -1,0 +1,28 @@
+# Tortine di patate con salsa di arachidi
+Categoria: Antipasti
+
+## Ingredienti
+- Patate: farinose 1 kg
+- Cipolle rosse: 1
+- Olio di semi di arachide: 1 cucchiaio
+- Edamer: 100 g
+- Farina di mais: q.b.
+- Cumino: 1/2 cucchiaino
+- Aglio: 1 spicchio
+- Olio di semi di arachide: 4 cucchiai
+- Pomodori ramati: 1
+- Latte intero: 100 ml
+- Burro di arachidi: 1 cucchiaio
+- Scalogno: 2
+
+## Preparazione
+Pelare le patate e tagliarle a tocchetti, metterle in una pentola con acqua fredda e un pizzico di sale e far cuocere fino a che siano tenere, circa  minuti. Preparare la salsa: tritare finemente scalogni e aglio, scaldare olio in padella e far imbiondire , unite il cumino e lasciate sprigionare gli aromi ; unite il pomodoro  tagliato a tocchetti e privato dei semi interni far cuocere un paio di minuti fuoco dolce.   Unite anche il latte  e far sobbollire due minuti; tenere in caldo.Colate le patate  e schiacciatele con lo schiacciapatate ; tenere in caldo.Scaldare nella padella un cucchiaio di olio di arachide e unire la cipolla , farla imbiondire un paio di minuti, colare via l’olioe unite le patate schiacciate  e il formaggio grattugiato , fate cuocere qualche istante e poi trasferite in una terrina prelevate una cucchiaiata di composto alla volta  e formate delle tortine piatte con l’aiuto delle mani , passatele bene nella farina di mais  così che in cottura restino croccanti.Scaldate - cucchiai di olio di arachide in padella e cuocere  tortine  alla volta - minuti per lato girandole una sola volta.Nel frattempo aggiungete un cucchiaio di burro di arachidi alla salsa  e fate scaldare qualche istante a fuoco molto docle.Scolate le tortine di patate su un foglio di carta assorbente e servitele con la salsa ancora tiepida.
+
+## Descrizione
+Il risultato finale sarà delle gustose tortine di patate con una salsa cremosa di arachidi, arricchite dalla presenza del formaggio edamer e del cumino.
+
+Questo antipasto è perfetto per occasioni informali come aperitivi tra amici o cene in famiglia.
+
+Le tortine di patate con salsa di arachidi sono adatte a una dieta vegetariana, ma possono essere facilmente adattate a una dieta vegana sostituendo il formaggio con un'alternativa senza lattosio.
+
+Le persone con intolleranze al lattosio possono consumare questo piatto sostituendo il latte intero con un latte senza lattosio. Le persone con intolleranze alle noci o arachidi devono evitare questo piatto a causa della presenza del burro di arachidi.

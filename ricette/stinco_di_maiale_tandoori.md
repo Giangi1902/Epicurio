@@ -1,0 +1,27 @@
+# Stinco di maiale tandoori
+Categoria: None
+
+## Ingredienti
+- Stinco di maiale: (2 pezzi) 1,5 kg
+- Yogurt greco: 500 g
+- Limoni: 1
+- Aglio: 1 spicchio
+- Zenzero in polvere: 2 cucchiaini
+- Peperoncino secco: 6
+- Cumino in polvere: 1 cucchiaio
+- Garam Masala: 1 cucchiaio
+- Paprika: 2 cucchiai
+- Burro chiarificato: 4 cucchiai
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare lo stinco di maiale tandoori incidete la carne per lungo facendo - tagli su ogni stinco per permettere alla marinata di penetrare bene . Eliminate i residui di pelle ed eventuali cumuli eccessivi di grasso con un coltello . Sbucciate uno spicchio d’aglio e privatelo del cuore . Mettete l’aglio in un mixer , aggiungete lo zenzero  e i peperoncini , poi aggiungete una tazzina d’acqua (circa  ml)  e frullate . Trasferite in una ciotola e aggiungete lo yogurt, il succo di mezzo limone ,la paprika , il garam masala e il cumino . Mischiate bene il tutto ,fino ad ottenere una salsa omogenea . Spennellate la salsa allo yogurt su tutta la superficie della carne , coprite e riponete in frigorifero  per almeno  ore, meglio se una notte intera. Conservate anche la marinatura rimasta.Prima di infornare la carne, spennellatela nuovamente con la marinatura. Cuocete in forno statico a ° nella parte centrale del forno, per almeno tre ore, girando e spennellando la carne con il ghee  e la salsa avanzata di tanto in tanto . Continuando a spennellare sempre con il ghee , la carne risulterà tenerissima. A cottura ultimata, estraete dal forno  e servite .
+
+## Descrizione
+Il risultato finale della ricetta "Stinco di maiale tandoori" sarà un piatto succulento e aromatico, dal sapore speziato e leggermente piccante. Il maiale sarà tenero e aromatico grazie alla marinatura a base di yogurt e spezie.
+
+Questo piatto è adatto per occasioni speciali come cene in famiglia, cene con amici o per feste in stile barbecue. 
+
+La ricetta non è adatta per persone vegetariane o vegane, in quanto si tratta di una pietanza a base di carne di maiale. Tuttavia, è adatta per chi segue una dieta proteica e poco calorica, in quanto il maiale è una fonte di proteine magre.
+
+Le persone con intolleranze alimentari al lattosio dovrebbero evitare questa ricetta in quanto prevede l'utilizzo di yogurt greco. Allo stesso modo, chi è intollerante al glutine dovrebbe prestare attenzione al garam masala, che potrebbe contenere tracce di glutine. Chi è intollerante al piccante dovrebbe ridurre la quantità di peperoncino secco e paprika.

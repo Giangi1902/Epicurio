@@ -1,0 +1,29 @@
+# Rotolo senza glutine al cacao e pesche
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero: 150 g
+- Uova: 5
+- Fecola di patate: 35 g
+- Farina di riso: 30 g
+- Cacao amaro in polvere: 35 g
+- Miele: 5 g
+- Sale: 1 pizzico
+- Baccello di vaniglia: ½
+- Panna fresca senza lattosio: 250 g
+- Zucchero a velo: 15 g
+- Pesche: 200 g
+- Succo di limone: 10 g
+- Zucchero a velo: 25 g
+
+## Preparazione
+Per preparare il rotolo senza glutine al cacao e pesche, cominciate dalla pasta biscotto senza glutine. Dividete i tuorli dagli albumi; montate i primi con  g di zucchero  e aggiungete a questi anche il miele  e i semi di mezza bacca di vaniglia, prelevandoli con la punta di un coltellino .I tuorli dovranno montare, con planetaria con frusta, per almeno  minuti, fino ad ottenere un composto molto spumoso e gonfio . Nel frattempo che i tuorli montano, montate gli albumi insieme ad un pizzico di sale  utilizzando lo sbattitore elettrico; quando iniziano a schiumare, introducete i restanti  g di zucchero .Montate gli albumi fino ad ottenere una consistenza lucida e non troppo ferma . Poi, unite il composto di tuorli a quello di albumi , mescolando dal basso verso l’alto per non smontarli .A questo punto setacciate, all’interno della ciotola, la farina di riso  e la fecola di patate . Mescolate praticando dei movimenti dal basso verso l’alto .Aggiungete ora il cacao setacciato  e mischiate con una spatola per ottenere un composto liscio e omogeneo . Versatelo in una teglia delle misure di x cm foderata con carta forno .Livellate l’impasto con una spatola  e cuocetelo in forno statico preriscaldato a  gradi per  minuti. Trascorso il tempo di cottura, trasferite la pasta biscotto su un ripiano, mantenendo la carta forno sottostante; spolverizzate la superficie della pasta biscotto con dello zucchero semolato e sigillatela, ancora calda, con della pellicola trasparente a contatto  per trattenere tutta l’umidità all’interno e fare in modo che non si rompa in fase di arrotolamento. Lasciatela raffreddare completamente e, nel frattempo, preparate la farcitura del rotolo. Tagliate le pesche a metà, denocciolatele e sbucciatele con l’aiuto di un coltellino .Ricavate dei cubetti non troppo grandi  e trasferiteli in una ciotola; spremete del succo di limone  e versatelo sulle pesche affinché non si ossidino .Versate la panna senza lattosio ben fredda in una platenaria , aggiungete lo zucchero a velo  e montatela. Quando la pasta biscotto sarà completamente raffreddata, eliminate la pellicola e capovolgetela, con la sua carta forno, su un nuovo foglio di carta forno; quindi sollevate con molta delicatezza il foglio di carta forno della cottura .Rimuovetelo con cura  e procedete con la farcitura del rotolo spalmando uno strato di panna montata senza lattosio . Cospargete su di esso i cubetti di pesca precedentemente preparati .Arrotolate la pasta biscotto partendo dal lato corto (-), quindi avvolgetela bene con il foglio di carta forno sottostante e sigillatela con della pellicola trasparente . Lasciate riposare il rotolo in frigorifero per almeno  ore, così si compatterà e sarà più semplice tagliarlo a fette. Ritagliate delle strisce di carta forno larghe circa , cm e lunghe circa  cm . Una volta che il rotolo sarà ben freddo, estraetelo dal frigo, eliminate pellicola e carta forno e sistemate sopra di esso le strisce di carta forno precedentemente tagliate  creando un motivo a strisce oblique.Spolverizzate il rotolo con abbondante zucchero a velo  rimuovete, una ad una, le strisce di carta forno  e tagliate a fette . Il vostro rotolo senza glutine al cacao e pesche è pronto per essere gustato!
+
+## Descrizione
+Il risultato finale di questa ricetta sarà un delizioso rotolo senza glutine al cacao e pesche, morbido e ricco di sapore. Il rotolo sarà farcito con una crema al cacao e panna fresca senza lattosio, arricchita con pezzetti di pesche sciroppate.
+
+Questo dolce è adatto per occasioni speciali come compleanni, feste e buffet, ma anche come dessert da gustare in famiglia. Grazie alla sua presentazione elegante e al suo gusto irresistibile, il rotolo senza glutine al cacao e pesche sarà apprezzato da tutti gli ospiti.
+
+Questa ricetta è adatta per persone che seguono una dieta senza glutine, in quanto non contiene ingredienti che lo contengono. Inoltre, essendo farcito con panna fresca senza lattosio, è adatto anche per chi segue una dieta senza lattosio. Le persone con intolleranza al lattosio possono quindi gustare questo dolce senza problemi.
+
+Tuttavia, è importante fare attenzione alla presenza di zucchero e miele, che potrebbero rendere il dolce non adatto a persone con intolleranza al fruttosio. Si consiglia quindi di consultare un medico o un dietologo prima di consumare questo dolce in caso di intolleranze specifiche.

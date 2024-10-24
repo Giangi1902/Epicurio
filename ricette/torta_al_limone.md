@@ -1,0 +1,23 @@
+# Torta al limone
+Categoria: Dolci
+
+## Ingredienti
+- Amido di mais (maizena): 120 g
+- Farina 00: 120 g
+- Burro: ammorbidito a temperatura ambiente 250 g
+- Zucchero: semolato 250 g
+- Uova: medie 4
+- Lievito in polvere per dolci: 16 g
+- Succo di limone: 75 g
+- Scorza di limone: 2
+- Zucchero a velo: q.b.
+
+## Preparazione
+Per preparare la torta al limone, per prima cosa tagliate il burro ammorbidito a cubetti, poi trasferitelo in una planetaria munita di fruste (se non avete una planetaria, potete usare uno sbattitore elettrico); azionate la planetaria e aggiungete metà dose di zucchero poco alla volta, fino ad ottenere un composto liscio e spumoso . Prendete le uova e separate gli albumi dai tuorli; mentre la planetaria è in funzione, aggiungete un tuorlo alla volta al composto di burro e zucchero , aspettando che venga assorbito prima di aggiungere il successivo. Quando i tuorli saranno ben amalgamati, aggiungete la scorza dei due limoni grattugiata  e mescolate ancora con le fruste.In una ciotola, setacciate insieme la farina, l’amido di mais e il lievito, poi aggiungeteli al composto, una cucchiaiata alla volta, mentre la planetaria è in funzione . Quando le polveri si sono ben amalgamate, spegnete la planetaria e trasferite il composto in una ciotola . Pulite perfettamente la planetaria e utilizzatela nuovamente per montare gli albumi (potete in alternativa usare una ciotola e lo sbattitore elettrico perfettamente puliti): versate gli albumi  e cominciate a sbattere con le fruste,poi unite la restante dose di zucchero  e il succo di limone a filo  e continuate a montare fino ad ottenere una consistenza densa e spumosa .A questo punto potete incorporare gli albumi montati a neve al composto che avevate messo da parte: iniziate ad aggiungere  mestolate  e mescolate energicamente per ammorbidire il composto, poi unite il resto degli albumi montati e mescolate dal basso verso l’alto con una spatola per mantenere l’aria all’interno ed evitare che si smonti . Quando tutti gli ingredienti sono ben amalgamati, versate il composto in una tortiera del diametro di - cm, foderata con carta forno ,livellate la superficie  e cuocete in forno statico preriscaldato a ° per un’ora; se la torta dovesse scurirsi troppo durante la cottura, dopo circa  minuti potete aprire il forno e coprirla con un foglio di alluminio, poi proseguite la cottura. Quando la torta sarà cotta (verificate sempre con uno stecchino), sfornatela e fatela intiepidire nella teglia , poi trasferitela su un piatto da portata e fatela raffreddare completamente, quindi spolverizzate la superficie con zucchero a velo. La vostra torta al limone è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale della Torta al limone sarà un dolce soffice e profumato, dal gusto fresco e leggermente acido grazie al succo e alla scorza di limone. La consistenza sarà morbida e leggermente umida, perfetta per essere gustata sia da sola che accompagnata da una pallina di gelato alla vaniglia o della panna montata.
+
+Questa torta è adatta per occasioni speciali come compleanni, feste e brunch. Può essere servita sia a colazione che a merenda, magari accompagnata da una tazza di tè o caffè. Inoltre, è perfetta da portare come dolce da condividere durante una cena tra amici o familiari.
+
+La Torta al limone è adatta a qualsiasi tipo di dieta o regime alimentare, a meno che non si abbiano particolari intolleranze o allergie agli ingredienti specifici presenti nella ricetta. Le persone intolleranti al glutine possono preparare la torta utilizzando ingredienti senza glutine, mentre le persone intolleranti al lattosio possono sostituire il burro con un'alternativa vegetale e utilizzare un lievito senza lattosio. Chi soffre di allergia al limone dovrà ovviamente evitare questa ricetta.

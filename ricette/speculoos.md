@@ -1,0 +1,23 @@
+# Speculoos
+Categoria: Dolci
+
+## Ingredienti
+- Zucchero di canna: 200 g
+- Bicarbonato: 1 g
+- Burro: freddo a pezzetti 100 g
+- Farina 00: 250 g
+- Acqua: 52 g
+- Noce moscata: 1 pizzico
+- Pepe nero: macinato 1 pizzico
+- Chiodi di garofano: in polvere 2 g
+- Cannella in polvere: 10 g
+
+## Preparazione
+Per preparare i biscotti speculoos, iniziate ponendo in un mixer la farina e il burro freddo tagliato a pezzetti , frullate fino ad ottenere una consistenza sabbiosa . Mettete il composto ottenuto su una spianatoia, aggiungete lo zucchero di canna e mescolate il tutto con le mani, dando alle farine la classica forma a fontana .Unite il pepe nero macinato ( grammi circa) e i chiodi di garofano in polvere , poi la noce moscata grattugiata ed il bicarbonato  e per finire la cannella .Versate sulla fontana l’acqua e impastate con le mani  fino ad ottenere un panetto compatto. Avvolgetelo nella pellicola e lasciate riposare in frigorifero almeno per - ore (oppure anche tutta la notte), in modo che l'impasto si compatti e le spezie possano permeare meglio e rilasciare il loro aroma . Trascorso questo tempo, prendete il panetto, ammorbiditelo un po' con le mani se non riuscite a lavorarlo, e stendetelo su una spianatoia leggermente infarinata aiutandovi con il matterello .Ottenete una sfoglia spessa circa - mm e con una formina per biscotti del diametro di ,cmxcm ricavate gli speculoos . Raccogliete i ritagli di impasto, impastate nuovamente e molto velocemente e tornate a tirare la pasta per ottenere gli altri biscotti: così facendo otterrete circa  pezzi. Man mano disponete i biscotti su una leccarda rivestita con carta forno . Prima di cuocerli è preferibile farli riposare per - minuti in frigorifero in modo che conservino la forma. Dopodiché cuoceteli in forno preriscaldato in modalità statica a ° per circa  minuti. Sfornate i biscotti e lasciateli raffreddare completamente su una gratella. I vostri speculoos sono pronti per essere mangiati !
+
+## Descrizione
+Il risultato finale della ricetta Speculoos sarà un biscotto croccante e speziato, con un sapore dolce e avvolgente dato dalla presenza di cannella, noce moscata, pepe nero e chiodi di garofano. I biscotti avranno una consistenza friabile e uno strato leggermente dorato sulla superficie, che li rende perfetti da gustare con un tè caldo o da sgranocchiare come snack.
+
+Questo dolce è adatto a occasioni come la merenda, la colazione o come dessert da servire dopo cena. Le Speculoos sono perfette anche come regalo fatto in casa da portare a una cena tra amici o parenti.
+
+Le Speculoos possono essere consumate da persone che seguono una dieta vegetariana, ma non sono adatte a persone con intolleranza al lattosio o allergia al burro, in quanto l'ingrediente principale è il burro. Inoltre, chi soffre di celiachia dovrebbe fare attenzione poiché la ricetta prevede l'uso di farina di frumento.  Infine, chi è intollerante o allergico a una o più spezie presenti nella ricetta, come la cannella o i chiodi di garofano, dovrebbe evitare di consumare questi biscotti.

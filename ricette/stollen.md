@@ -1,0 +1,33 @@
+# Stollen
+Categoria: Lievitati
+
+## Ingredienti
+- Farina Manitoba: 700 g
+- Latte intero: 250 ml
+- Lievito di birra secco: (8 gr) 1 bustina
+- Miele: 1 cucchiaino
+- Zucchero: 200 g
+- Burro: 300 g
+- Uova: medie 2
+- Mandorle pelate: 100 g
+- Rum: 100 ml
+- Uva passa: 150 g
+- Arancia candita: 150 g
+- Scorza di limone: 1
+- Zenzero fresco: da grattugiare 15 g
+- Cardamomo: ½ cucchiaino
+- Baccello di vaniglia: 1
+- Sale fino: 12 g
+- Marzapane: 200 g
+- Burro: fuso 50 g
+- Zucchero a velo: 50 g
+
+## Preparazione
+Per preparare lo stollen iniziate a tagliare l'arancia candita in fette e riducetela a cubetti (-). Mettetela in ammollo insieme all'uvetta in una ciotola con dell’acqua tiepida, in modo che sia tutto ricoperto a filo e un  ml di rum presi dalla dose totale .Nel frattempo disponete le mandorle spellate su di una teglia da forno e fatele tostare nel forno, fino a quando non saranno diventate croccanti ma non troppo colorate . Se avete delle mandorle con la buccia, fatele scottare per  minuti in acqua bollente e poi eliminate la buccia che in questo modo verrà via facilmente. Quando le mandorle saranno fredde, tritatele grossolanamente  e mettele da parte Grattugiate la scorza del limone e lo zenzero in una ciotola e tenetele da parte .Sciogliete il lievito (potete utilizzare anche un cubetto di lievito di birra fresco sbriciolato) in poco latte tiepido (preso dalla dose totale della ricetta) e unitevi anche un cucchiaino di miele (-). Disponete la farina in una ciotola e praticate una conca al centro, in cui verserete il lievito .Mescolate con un cucchiaino, incorporando al lievito poca farina, fino ad ottenere un composto simile ad una pastella, che lascerete così al centro senza impastare . Coprite il tutto con la pellicola  e lasciate lievitare per almeno mezz’ora in un luogo tiepido, fino a che il composto non raddoppierà il suo volume iniziale .Nel frattempo che la pastella lievita, tagliate in due una bacca di vaniglia e grattate i suoi semini interni con la lama di un coltellino . Ponete la bacca aperta e i semini in infusione, all’interno di una ciotola, contenente il restante latte che avrete intiepidito . Poi fate fondere il burro e lasciatelo raffreddare; infine scolate l’uvetta e l’arancia candita, tamponatele con della carta da cucina per asciugarle, passatele nella farina  e poi in un setaccio per eliminarne l’eccesso.A questo punto in una ciotola, sbattete le due uova e unite il latte nel quale avevate messo in infusione la vaniglia (eliminando preventivamente la bacca) . Unite il sale e il cardamomo  e infinela scorza del limone e lo zenzero grattugiati  . Versate il composto di lievito e di farina nella tazza di una planetaria (o in una ciotola capiente se impastate a mano) e azionate la macchina munita di foglia (velocità bassa). Versate all’interno della tazza il composto di uova e latte  e poi altri  ml di rum  e lo zucchero.In ultimo unite il burro fuso tiepido poco alla volta . Non appena gli ingredienti si saranno inglobati, togliete la foglia e mettete il gancio, quindi impastate per circa  minuti fino a che l’impasto non sarà omogeneo e attaccato completamente al gancio. Unite le mandorle tritate (fredde) poi l’uvetta e l’arancia candita infarinate  e impastate per un paio di minuti. Mettete l’impasto su di una spianatoia, dategli forma tonda .Quindi ponetelo in una ciotola capiente, coprite con della pellicola trasparente e lasciate lievitare per un’ora in un posto tiepido . Intanto prendete il marzapane e dategli forma cilindrica . Trascorso il tempo della lievitazione, mettete l’impasto su di una spianatoia, dategli forma rettangolare e con il matterello schiacciate nel centro, allungando un po’ l’impasto in modo da ottenere sui lati più lunghi un rigonfiamento più spesso dell’altro .Ripiegate i lati più corti verso l’interno per ripristinare la forma rettangolare dell’impasto . Mettete nella conca ottenuta, verso il rigonfiamento più grande, il bastoncino di marzapane, quindi richiudete il lato più sottile su quello più grosso  epressate con il matterello in centro, per sigillare bene e conferire la classica forma allo stollen . Modellate un po' con le mani in modo da dare allo stollen una forma regolare  e ponetelo su di una leccarda foderata con carta forno. Infornate in forno statico già caldo a ° per circa - minuti, fino a che lo stollen non risulterà ambrato .Una volta estratto dal forno, spennellato immediatamente con il burro fuso  e cospargetelo con abbondante zucchero a velo setacciato , quindi lasciatelo raffreddare su di una gratella. Avvolgetelo quindi nella carta di alluminio e lasciate riposare lo stollen in un luogo fresco (ma non in frigorifero) per un paio di giorni prima di consumarlo, in modo che assorba umidità e raggiunga la consistenza classica. Buono Stollen e buon Natale a tutti!!
+
+## Descrizione
+Il risultato finale sarà un delizioso dolce natalizio tedesco, ricco di sapori e profumi. Il pan di Stollen sarà soffice e ricco, arricchito dalle mandorle, l'uva passa, l'arancia candita e le spezie come zenzero, cardamomo e vaniglia. Il suo cuore sarà composto da uno strato di marzapane, che conferirà una consistenza cremosa e un sapore unico.
+
+Questo dolce è adatto per le festività natalizie, ma può essere gustato anche durante tutto l'anno come dolce da colazione o da merenda. È ottimo da servire con del tè caldo o del vino caldo speziato durante le fredde giornate invernali.
+
+La ricetta non è adatta a persone con intolleranze al glutine, al lattosio, alle uova o alle mandorle. Tuttavia, è possibile apportare delle modifiche per renderla adatta a diversi regimi alimentari, come ad esempio sostituire la farina di frumento con una farina gluten-free, utilizzare latte di mandorle al posto del latte intero e sostituire il burro con un'alternativa vegana.

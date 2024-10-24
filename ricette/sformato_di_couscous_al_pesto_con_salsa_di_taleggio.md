@@ -1,0 +1,33 @@
+# Sformato di couscous al pesto con salsa di taleggio
+Categoria: Primi piatti
+
+## Ingredienti
+- Cous cous: precotto 190 g
+- Brodo vegetale: circa 200 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: 20 g
+- Taleggio: 200 g
+- Latte intero: 200 g
+- Grana Padano DOP: grattugiato 100 g
+- Pepe nero: q.b.
+- Aglio: 2 spicchi
+- Sale grosso: 1 pizzico
+- Olio extravergine d'oliva: 100 g
+- Basilico: 50 g
+- Pecorino: grattugiato 30 g
+- Pinoli: 15 g
+- Parmigiano Reggiano DOP: grattugiato 70 g
+- Basilico: q.b.
+- Pinoli: q.b.
+
+## Preparazione
+Per preparare lo sformato di couscous al pesto con salsa di taleggio potete cominciare proprio dal pesto alla genovese: quindi mettete il basilico nel mortaio  pestatelo per bene con gli altri ingredienti  e infine versate l’olio extravergine d’oliva . Se volete approfondire il procedimento allora leggete la ricetta del pesto alla genovese completa.Preparate il couscous versandolo in un recipiente , copritelo con il brodo vegetale caldo  e aggiungete il sale ,il pepe  e l’olio extravergine d’oliva  e dopo aver mescolato per bene il tutto, coprite con della pellicola trasparente  seguendo attentamente le istruzioni della cottura del couscous riportate sulla confezione; il nostro è pronto in  minuti.Trascorso il tempo sgranate il couscous con una forchetta  e aggiungete il pesto  e continuate a mescolare per far assorbire bene il condimento .Intanto preparate la salsa al taleggio, quindi tagliate a tocchetti il formaggio  e versatelo in un tegame insieme al latte , aggiungete il parmigiano grattugiato ed il pepe nero macinato  e mescolate con una frusta  a temperatura media, facendo molta attenzione che non si formino grumi .Versate la salsa di taleggio a raggiera, cioè a specchio, sul piatto , poi poggiate un coppa pasta e versate il couscous livellandolo col cucchiaio , lasciate qualche istante in modo che si assesti e poi togliete la forma con delicatezza  e servite lo sformato di couscous al pesto con salsa di taleggio. Guarnite a piacere con pinoli e basilico.
+
+## Descrizione
+Il risultato finale di questa ricetta sarà uno sformato di couscous al pesto con salsa di taleggio. Si tratta di un piatto dal sapore delicato e cremoso, arricchito dal gusto deciso del formaggio taleggio e dalla freschezza del pesto.
+
+Questo piatto è adatto per occasioni speciali e può essere servito come primo piatto in una cena elegante o come piatto unico in una cena informale.
+
+Il sformato di couscous al pesto con salsa di taleggio è adatto a persone che seguono una dieta vegetariana, ma non è adatto per chi segue una dieta vegana in quanto contiene formaggi e latte. È consigliato consumare questo piatto con moderazione a causa del suo contenuto calorico elevato.
+
+Le persone con intolleranza al lattosio dovrebbero evitare di consumare questo piatto a causa della presenza di formaggi e latte. Le persone con intolleranza al glutine possono verificare la presenza di glutine nel couscous precotto utilizzato e eventualmente sostituirlo con una varietà senza glutine.

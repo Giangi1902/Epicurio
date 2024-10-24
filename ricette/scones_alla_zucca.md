@@ -1,0 +1,31 @@
+# Scones alla zucca
+Categoria: Antipasti
+
+## Ingredienti
+- Zucca delica: polpa 250 g
+- Farina 00: 250 g
+- Latte intero: 100 ml
+- Lievito in polvere per dolci: 10 g
+- Burro: 50 g
+- Sbrinz: da grattugiare 50 g
+- Timo: da tritare 1 cucchiaio
+- Noce moscata: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: 1 cucchiaino
+- Pepe nero: q.b.
+- Uova: 1
+- Latte intero: 1 cucchiaio
+- Culatello: 24 fette
+- Robiola: 200 g
+
+## Preparazione
+Per realizzare gli scones alla zucca iniziate dalla preparazione della zucca: tagliatela a fette, eliminate i semi e filamenti interni con un cucchiaio , poi rimuovete la buccia . Distribuite le fette di zucca su una leccarda rivestita di carta forno e condite con olio ,sale , pepe e noce moscata grattugiata . Cuocete la zucca in forno statico preriscaldato a ° per  minuti fino a quando non risulterà morbida .A cottura ultimata, sfornate la zucca e lasciatela raffreddare. Una volta fredda, trasferitela in un mixer  e frullate per ridurla in purea. Trasferite la purea di zucca nella ciotola di una planetaria munita di gancio per impastare  e aggiungete il resto degli ingredienti: il latte ,il burro a tocchetti , il formaggio grattugiato , il sale  e,in ultimo, la farina e il lievito setacciati . Azionate la planetaria pochi istanti per amalgamare e incorporare tutti gli ingredienti, poi versate l’impasto sul piano da lavoro e unite il timo tritato . Lavorate l’impasto a mano fino ad ottenere un panetto compatto e omogeneo, poi avvolgetelo nella pellicola trasparente  e ponetelo in frigorifero a rassodare per almeno mezz’ora.Trascorso il tempo di riposo, mettete il panetto sul piano leggermente infarinato e stendetelo con il mattarello fino ad ottenere una sfoglia spessa circa , cm . Ricavate dei cerchi utilizzando un coppapasta del diametro di , cm , poi impastate nuovamente i ritagli avanzati per ricavare altri cerchi: con queste dosi dovreste ottenerne circa . Trasferite i cerchi su una leccarda foderata con carta forno, sbattete l'uovo con un cucchiaio di latte e spennellate la superficie con questa emulsione .Cuocete gli scones in forno statico preriscaldato a ° per - minuti, fino a quando risulteranno leggermente dorati in superficie . Una volta cotti, sfornateli e trasferiteli su una gratella per lasciarli raffreddare. A questo punto potete gustarli da soli oppure tagliarli a metà e farcirli con robiola  e culatello, come abbiamo fatto noi, o con altri salumi e formaggi di vostro gradimento. Gli scones alla zucca sono pronti per essere serviti !
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei deliziosi scones alla zucca, morbidi e fragranti, arricchiti dal sapore dolce della zucca e dal tocco aromatico del timo. La presenza del burro e del formaggio sbrinz li rende particolarmente golosi e irresistibili.
+
+Questi scones alla zucca sono adatti come antipasto per un pranzo autunnale o invernale, oppure possono essere serviti come sfizioso amuse-bouche durante un aperitivo. Sono perfetti da gustare accompagnati da una salsa o una crema a base di formaggio, oppure da un pesto di zucchine.
+
+Questa ricetta è adatta a chi segue una dieta vegetariana, in quanto non prevede l'utilizzo di ingredienti di origine animale eccetto il latte e le uova, che possono essere facilmente sostituiti con alternative vegetali. Tuttavia, non è adatta per chi segue una dieta vegana in quanto contiene burro e formaggio.
+
+Le persone con intolleranze al lattosio possono consumare questi scones alla zucca scegliendo alternative senza lattosio per il latte e il formaggio. Chi soffre di intolleranza al glutine può sostituire la farina 00 con una farina senza glutine, come la farina di riso o la farina di mais. Infine, chi è intollerante al lattosio può sostituire il latte con una bevanda vegetale non contenente lattosio.

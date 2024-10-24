@@ -1,0 +1,46 @@
+# Zelten
+Categoria: Dolci
+
+## Ingredienti
+- Fichi secchi: piuttosto morbidi 500 g
+- Uva sultanina: 250 g
+- Uvetta tipo Malaga: ( acini grandi, chiari e senza semi) 120 g
+- Pinoli: 120 g
+- Mandorle pelate: 120 g
+- Nocciole intere spellate: 120 g
+- Gherigli di noci: 120 g
+- Arancia candita: 60 g
+- Cedro candito: 60 g
+- Scorza d'arancia: non trattata 1
+- Scorza di limone: non trattato 1
+- Rum: 2 bicchierini
+- Miele millefiori: 70 g
+- Vino bianco: 50 ml
+- Cannella in polvere: raso 1 cucchiaino
+- Chiodi di garofano macinati: mezzo cucchiaino
+- Pimento: mezzo cucchiaino
+- Noce moscata: in polvere 1/2 cucchiaino
+- Farina 00: 150 g
+- Farina di segale: 100 g
+- Olio extravergine d'oliva: 1 cucchiaio
+- Acqua: tiepida 150 ml
+- Lievito di birra fresco: 25 g
+- Sale fino: 1 pizzico
+- Anice in polvere: raso 1 cucchiaino
+- Cumino: in polvere 1 cucchiaino
+- Miele: 1 cucchiaino
+- Mix di frutta secca/essiccata: (noci, mandorle, pinoli) q.b.
+- Frutta candita: (arance, limoni, cedro, ciliegie) q.b.
+- Miele: (o sciroppo di zucchero) q.b.
+
+## Preparazione
+La prima cosa da fare per la realizzazione dello zelten è la preparazione delle frutta secca e candita, ingredienti principali di questa ricetta. Prendete la frutta candita e tagliatela a cubetti (-). Poi mettete in piccole ciotole la buccia grattugiata del limone e dell'arancia, la noce moscata e la cannella .Quindi occupatevi della frutta secca . In una ciotola capiente sistemate l'uvetta, l'uva malaga tagliata a metà e i fichi secchi privati del picciolo duro e tagliati a listarelle .  Aggiungete alla frutta secca due bicchierini di rum, mescolate bene e lasciate che la frutta assorba completamente il liquido . Intanto fate intiepidire e sciogliere  gr di miele inseme al vino in una casseruola .Quando i fichi, l'uvetta e l'uva malaga avranno assorbito il rum, unite le noci sminuzzate grossolanamente, le mandorle tagliate a bastoncini, le nocciole tagliate a metà  i canditi , la buccia grattugiata del limone e dell'arancia , i chiodi di garofano in polvere e il vino con il miele. Mescolate bene, facendo amalgamare tutti gli ingredienti. Coprite la ciotola con  la pellicola e fate riposare il composto per almeno un'ora (o anche per tutta la notte, se preferite preparare lo zelten in due giorni) in modo da far assorbire tutti gli aromi.Nel frattempo in una piccola ciotola sbriciolate il cubetto di lievito e aggiungeteci un cucchiaino di miele ,  coprite con l'acqua tiepida , mescolate e attendete che si formi della schiuma in superficie. Preparate intanto la farina di segale e quella di frumento  .Unite in una ciotola i due tipi di farina con il cumino e l'anice , quindi aggiungete anche il composto di lievito   e il cucchiaio di olio  .A questo punto impastate tutto fino a ottenere un composto compatto, mornido ma non appiccicoso  e lasciatelo lievitare  in un recipiente cosparso di farina fino a che non sarà raddoppiato di volume .Prendete la ciotola con la frutta secca e versate il contenuto su una spianatoia , metteteci sopra  la pasta  e lavorate bene il tutto fino a ottenere un impasto omogeneo  che non si sgretoli .Dividete l'impasto in otto panetti dello stesso peso  e modellateli secondo la forma che preferite, (rotondi a cuore, rettangolari, ovali, quadrati) purchè gli zelten abbiano uno spessore di  cm circa. Spennellate gli zelten con uno sciroppo di zucchero o con del miele piuttosto fluido (scioglietelo sul fuoco) .  Fateli riposare  e asciugare per  minuti e poi decorateli a piacimento con frutta secca e candita .   Spennellate di nuovo gli zelten con lo zucchero e infornate a / gradi per  minuti. Sfornate e fate raffreddare i vostri zelten, poi avvolgeteli nella pellicola  trasparente e fateli riposare per - giorni in un luogo asciutto prima di consumarli.
+
+## Descrizione
+Il risultato finale della ricetta Zelten è un dolce tipico del Trentino-Alto Adige, ricco di frutta secca, canditi, spezie e aromi. Ha una consistenza densa e compatta, con un aroma intenso e speziato che si sposa perfettamente con la dolcezza della frutta. La crosta esterna è croccante e dorata, mentre il cuore è morbido e ricco di sapori.
+
+Questo dolce è adatto per occasioni speciali come Natale o per colazioni e merende golose. Può essere gustato da solo o accompagnato da una tazza di tè o caffè.
+
+La ricetta è adatta a persone che seguono una dieta equilibrata e che vogliono concedersi un momento di golosità. È ricco di energia e nutrienti grazie alla presenza della frutta secca e dei canditi.
+
+Le persone con intolleranze al glutine dovrebbero fare attenzione, in quanto la ricetta prevede l'utilizzo di farina di segale e farina 00. Inoltre, chi è intollerante al lattosio dovrebbe controllare la presenza di latte o derivati nei canditi utilizzati.

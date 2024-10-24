@@ -1,0 +1,27 @@
+# Tortini salati con robiola
+Categoria: Antipasti
+
+## Ingredienti
+- Farina 00: 250 g
+- Burro: (freddo di frigo) 125 g
+- Uova: (circa 1 medio) 55 g
+- Robiola: (classica) 200 g
+- Sale grosso: 3 g
+- Pomodorini ciliegino: 300 g
+- Olive taggiasche: (denocciolate) 80 g
+- Olio extravergine d'oliva: q.b.
+- Pepe nero: q.b.
+- Origano: (fresco) q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare i tortini salati con robiola iniziate dalla base, la frolla salata: in un mixer versate la farina poi aggiungete il burro freddo di frigo a pezzetti , il sale grosso  e l’uovo .Chiudete con il coperchio e azionate il mixer fino ad ottenere un composto bricioloso . Trasferite il composto su una spianatoia  e lavoratelo velocemente con le mani per formare un panetto .Avvolgete il panetto nella pellicola trasparente e lasciatelo riposare in frigorifero almeno un’ora . Trascorso questo tempo stendete la pasta frolla salata su un piano leggermente infarinato ad uno spessore di circa ½ cm. Coppate  basi da  cm di diametro , poi ritagliate delle strisce da  cm che utilizzerete come bordo .Adagiate i dischi da  cm su una placca forno, inserite le basi di frolla  e create i bordi con le strisce  . Condite con un filo di olio e sale i pomodorini interi  e mescolate bene . Adagiate i pomodorini all’interno del guscio di frolla sino a riempirlo. Terminare con le olive taggiasche  e cuocete in forno statico a ° per - min sino a doratura della frolla. Sfornate, fate raffreddare leggermente quindi sformate i tortini . Lasciate raffreddare a temperatura ambiente per circa  min. Ultimate con la robiola fresca , qualche foglia di origano fresco e un filo di olio evo a crudo .
+
+## Descrizione
+Il risultato finale di questa ricetta sono dei gustosi tortini salati con robiola. I tortini sono morbidi all'interno e croccanti all'esterno grazie alla combinazione di farina, burro e uova. La robiola aggiunge un sapore delicato e cremoso. I pomodorini ciliegino donano freschezza e dolcezza, mentre le olive taggiasche aggiungono un tocco di salato. Il condimento con olio extravergine d'oliva, pepe nero e origano completa il piatto con un tocco di aromaticità.
+
+Questi tortini salati con robiola sono adatti come antipasto, ideali da servire durante aperitivi, brunch o feste. Possono essere gustati anche come piatto principale leggero, accompagnati da una fresca insalata.
+
+Per quanto riguarda le diete o i regimi alimentari, questa ricetta contiene farina, burro, uova e formaggio robiola, quindi non è adatta a una dieta vegana. Tuttavia, può essere facilmente adattata a una dieta vegetariana sostituendo gli ingredienti animali con alternative vegetali.
+
+Per quanto riguarda le intolleranze, le persone con intolleranza al lattosio dovrebbero evitare di consumare questa ricetta a causa della presenza del formaggio robiola. Inoltre, coloro che sono intolleranti al glutine dovrebbero fare attenzione alla farina utilizzata, optando per una farina senza glutine o una miscela di farine alternative.

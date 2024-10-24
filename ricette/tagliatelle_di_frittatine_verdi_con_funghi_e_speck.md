@@ -1,0 +1,25 @@
+# Tagliatelle di frittatine verdi con funghi e speck
+Categoria: Secondi piatti
+
+## Ingredienti
+- Latte intero: 500 ml
+- Farina 00: 250 g
+- Spinaci: 250 g
+- Burro: 40 g
+- Uova: 3
+- Sale fino: 1 pizzico
+- Burro: q.b.
+- Funghi porcini: 300 g
+- Speck: una sola fetta 150 g
+- Prezzemolo: 10 g
+- Aglio: 2 spicchi
+- Olio extravergine d'oliva: q.b.
+- Brodo vegetale: (facoltativo) q.b.
+
+## Preparazione
+Per preparare le tagliatelle di frittatine verdi con funghi e speck, iniziate a lavare gli spinaci accuratamente sotto acqua corrente , per togliere eventuali residui di terra. Scolateli  e spuntate ciascun mazzetto eliminando il picciolo .In una padella capiente, versate un filo d'olio e lo spicchio d'aglio sbucciato . Fatelo rosolare, poi toglietelo e aggiungete gli spinaci . Fateli appassire per qualche minuto e salate . Spegnete il fuoco quando si saranno ammorbiditi e ridotti di volume.Quindi trasferite gli spinaci cotti nel mixer , azionate le fruste e riducete gli spinaci a crema , poi teneteli da parte. Iniziate a preparare l'impasto delle frittatine: in una ciotolina versate le uova intere .Sbattete le uova con una forchetta  e tenetele da parte. Intanto in una ciotola capiente setacciate la farina , aggiungete il sale versate il latte a filo  e poi le uova precedentemente sbattute . In un pentolino fate sciogliere il burro a fuoco bassissimo; fatelo intiepidire e poi aggiungetelo all'impasto delle frittatine .Lavorate il composto con uno sbattitore elettrico  o una frusta a mano, fino a quando non otterrete una crema liscia e omogenea . Quindi versate nell'impasto anche la crema di spinaci .Mescolate con una spatola per amalgamare il composto (-). Scaldate una padella per crepes o una padella antiaderente di  cm di diametro; ungete il fondo con del burro (aiutatevi con un foglio di carta da cucina per ungere uniformemente la padella); quindi versate un mestolo del composto .Fate cuocere la crepe per circa  minuto o fino a quando il lato poggiato sul fondo della padella risulterà leggermente dorato; durante la cottura scuotete la padella di tanto in tanto per far staccare la crepe dal fondo. Quindi giratela dall'altro lato  e fate cuocere per un altro minuto. Procedete così fino a terminare l'impasto. A mano a  mano potete impilare le crepes su un piatto piano e coprirle con pellicola trasparente mentre proseguite nella preparazione. Passate quindi al condimento: su un tagliere ponete lo speck, tagliatelo a fette e poi a listarelle di circa mezzo cm di spessore e tenete da parte . Quindi passate a pulire i funghi porcini, togliendo delicatamente il terriccio raschiando il gambo con un coltellino, passando poi un pennello da cucina e un canovaccio per pulire anche il cappello (per queste operazioni potete consultare la Scuola di cucina: come pulire i funghi porcini). Riducete quindi i funghi a fette di mezzo cm .In una padella larga, versate un filo d'olio tritate uno spicchio d'aglio . Aggiungete anche il prezzemolo precedentemente tritato  e fate soffriggere per qualche istante. Aggiungete poi i funghi mescolate e fate rosolare a fuoco vivace. Poi aggiungete un mestolo di acqua calda o brodo vegetale  e fate cuocere per  minuti. A questo punto versate anche lo speck . Mescolate di tanto in tanto  e cuocete il tutto per altri - minuti.Se i funghi e lo speck tendessero ad asciugarsi troppo, potete aggiungere un mestolo di acqua calda o brodo vegetale . Spegnete quindi il fuoco e tenete il condimento da parte per un momento. Passate a creare le tagliatelle di frittatine: su un tagliere disponete ciascuna frittatina e arrotolatela su se stessa . Quindi ricavatene delle fettucce di circa  cm di spessore .Quando avrete realizzato le tagliatelle di frittatine , potete aggiungerle in padella  e accendere il fuoco medio per far saltare qualche istante le tagliatelle di frittatine verdi con funghi e speck in modo che si insaporiscano. Spegnete e servite il piatto caldo o tiepido !
+
+## Descrizione
+Il risultato finale della ricetta sarà un piatto di tagliatelle di frittatine verdi con funghi e speck, con un sapore ricco e invitante grazie alla combinazione di ingredienti come gli spinaci, i funghi porcini e lo speck. Le frittatine verdi si ottengono mescolando latte, farina, spinaci, uova e sale, che poi verranno tagliate a strisce simili alle tagliatelle tradizionali. I funghi porcini e lo speck vengono saltati in padella con aglio, prezzemolo e olio extravergine d'oliva per aggiungere sapore e consistenza al piatto.
+
+Questo piatto è adatto per occasioni speciali come cene eleganti o pranzi in famiglia, in quanto ha un aspetto raffinato e un gusto delizioso. È perfetto per chi segue una dieta equilibrata e varia, in quanto contiene un mix di proteine, carboidrati e verdure. Le persone intolleranti al lattosio possono sostituire il latte intero con latte senza lattosio, mentre chi è intollerante al glutine può utilizzare farina senza glutine. Chi è intollerante al lattosio può sostituire il burro con olio d'oliva o burro senza lattosio.

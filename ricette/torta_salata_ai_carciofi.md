@@ -1,0 +1,33 @@
+# Torta salata ai carciofi
+Categoria: Torte salate
+
+## Ingredienti
+- Carciofi: (circa 10) 400 g
+- Acciughe (alici): 4
+- Provola affumicata: 100 g
+- Cipolle dorate: medie 2
+- Uova: medie 3
+- Latte intero: 200 ml
+- Grana Padano DOP: da grattugiare 70 g
+- Olio extravergine d'oliva: 4 cucchiai
+- Vino bianco: 200 ml
+- Aglio: 2 spicchi
+- Prezzemolo: 1 rametto
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Farina 00: 200 g
+- Acqua: ghiacciata 70 ml
+- Burro: 100 g
+- Sale fino: 1 pizzico
+
+## Preparazione
+Per preparare la torta salata ai carciofi iniziate dalla pasta brisèe: mettete in un mixer con le lame la farina, il burro a pezzi freddo, un pizzico di sale  e frullate il fino ad ottenere un composto sabbioso e farinoso . A questo punto disponete il composto ottenuto a fontana su una spianatoia, aggiungendo l’acqua fredda  , impastate il tutto velocemente a mano  fino ad ottenere un impasto liscio ed abbastanza elastico.Una volta pronta, formate un panetto  e avvolgetelo in un foglio di pellicola trasparente e lasciatela riposare in frigo per almeno  minuti. Nel frattempo mondate i carciofi seguendo le indicazione che trovate nella scheda come pulire i carciofi quindi tagliateli a metà e affettateli . Tritate il prezzemolo e affettate le cipolle  e teneteli da parte. Sbucciate  spicchi di aglio, tritateli finemente e metteteli a imbiondire in  cucchiai di olio di oliva , poi aggiungete i carciofi  che farete saltare in padella per qualche minuto,quindi salate e pepate e aggiungete mezzo bicchiere di acqua calda  che lascerete evaporare. In un’altra padella, mettete  cucchiai di olio e le alici  che avrete precedentemente dissalato lavandole sotto l’acqua corrente e alle quali avrete tolto la lisca centrale; fate sciogliere le alici nell’olio, poi aggiungete le cipolle.Lasciate appassire le cipolle lentamente senza che prendano colore , poi unitele ai carciofi , fate amalgamare e bagnate gli ingredienti con un bicchiere di vino bianco, che lascerete sfumare. Aggiustate eventualmente di sale, spegnete il fuoco e aggiungete il prezzemolo tritato , quindi amalgamatelo bene.Prendete la pasta brisèe e stendetela con un matterello allo spessore di circa  mm . Ungete di burro uno stampo da quiche del diametro di  cm di diametro e foderatelo con la pasta stesa, per agevolarvi in questa operazione arrotolate la pasta sul mattarello e srotolatela sullo stampo  ,fate aderire allo stampo la sfoglia, ritagliate il bordo in eccesso con un tagliapasta  e quindi punzecchiate il fondo con i rebbi di una forchetta o con uno stuzzicadenti.Tagliate un disco di carta forno e ponetelo sopra la pasta  , copritelo con i pesi per la cottura alla cieca  (o legumi secchi, che con il loro peso serviranno a non fare gonfiare la pasta brisèe) poi infornate a ° per circa  minuti. Trascorsi i  minuti, estraete la quiche dal forno , eliminate la carta con i pesi e rimettete la tortiera in forno per far circa - minuti in modo che il fondo della pasta diventi dorato.Intanto, in una ciotola dai bordi alti, sbattete il latte con le uova  e il Grana Padano grattugiato , quindi salate. Tagliate la provola in piccoli cubetti una volta estratta la base della quiche dal forno, distribuite sul fondo i cubetti di provola , unite il composto di carciofi e cipolle e poi versatevi sopra il composto di latte, uova e formaggio . Con la pasta avanzata create due cordini  della stessa lunghezza della circonferenza della torta circa  cmintrecciateli  e applicateli sul bordo . Infornate per altri - minuti a °, fino a che la superficie della quiche non sarà dorata . Lasciate riposare la torta salata ai carciofi fuori dal forno per almeno  minuti prima di servirla .
+
+## Descrizione
+Il risultato finale della torta salata ai carciofi sarà un piatto appetitoso e saporito, con un ripieno cremoso e dal sapore deciso dato dai carciofi e dalle acciughe, arricchito dalla provola affumicata e dal Grana Padano. La consistenza sarà morbida e leggermente croccante grazie alla pasta frolla e alla doratura in forno.
+
+Questa torta salata ai carciofi è adatta per occasioni informali come buffet, aperitivi o cene in compagnia, ma può essere anche servita come piatto principale accompagnata da una fresca insalata.
+
+Questa ricetta è adatta a una dieta equilibrata, in quanto contiene verdure, latticini, uova e proteine. È perfetta per vegetariani, purché si elimini l'acciuga, e adatta anche a chi segue una dieta senza carne. Invece, non è adatta a persone intolleranti al lattosio, alle uova, al glutine (in questo caso si possono utilizzare farine senza glutine) e al pesce (si può eliminare l'acciuga).
+
+In generale, è importante verificare sempre le intolleranze alimentari delle persone a tavola e apportare le modifiche necessarie alla ricetta per renderla adatta a tutti.

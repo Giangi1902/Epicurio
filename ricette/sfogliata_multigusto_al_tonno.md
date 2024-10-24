@@ -1,0 +1,26 @@
+# Sfogliata multigusto al tonno
+Categoria: Antipasti
+
+## Ingredienti
+- Tonno sott'olio: in olio d'oliva classico (sgocciolato) 160 g
+- Pasta Sfoglia: rettangolare 230 g
+- Polpa di pomodoro: 60 g
+- Olive taggiasche: snocciolate 30 g
+- Caciocavallo: 100 g
+- Erba cipollina: q.b.
+- Rosmarino: q.b.
+- Timo: q.b.
+- Cipolle rosse: ½
+- Funghi champignon: 150 g
+- Sale fino: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per realizzare la sfogliata multigusto mondate e affettate sottilmente le cipolle, poi sfogliate il timo, tritate gli aghi di rosmarino  e l’erba cipollina. Tagliate a fette sottili anche il caciocavallo  e tenete da parte.Ora rivestite con carta forno una leccarda, adagiate sopra la sfoglia rettangolare e punzecchiatela con i rebbi di una forchetta . Ricoprite un terzo della sfoglia con la passata di pomodoro  e insaporite con le olive snocciolate .Ora farcite la striscia centrale con il caciocavallo a fette  e aromatizzate con le foglioline di timo e il rosmarino e l’erba cipollina tritati . Per finire completata l’ultima striscia di pasta con i funghi affettati e le cipolle . Condite con sale  e olio di oliva , quindi cuocete in forno statico a ° per circa  minuti nel ripiano centrale.A cottura ultimata sfornate la sfogliata multigusto , insaporitela con bocconcini di tonno, dopo averlo sgocciolato  e servitela ben calda !
+
+## Descrizione
+Il risultato finale della sfogliata multigusto al tonno sarà una sfogliata croccante e saporita, arricchita dal tonno, caciocavallo, olive taggiasche e funghi champignon. Sarà una portata gustosa e invitante, ideale come antipasto per un pranzo o una cena speciale.
+
+Questa ricetta è adatta per chi segue una dieta mediterranea, in quanto contiene ingredienti tipici di questa cucina. È perfetta anche per chi segue una dieta equilibrata e non eccessivamente calorica.
+
+Le persone con intolleranze al lattosio potrebbero avere delle difficoltà a digerire il caciocavallo presente nella ricetta. Inoltre, chi è intollerante al glutine dovrebbe evitare la pasta sfoglia. Si consiglia quindi di cercare alternative senza glutine e senza lattosio per adattare la ricetta alle esigenze di chi ha queste intolleranze.

@@ -1,0 +1,33 @@
+# Strudel di castagne e funghi
+Categoria: Antipasti
+
+## Ingredienti
+- Farina 00: 150 g
+- Uova: (1 medio) 55 g
+- Acqua: 30 g
+- Olio extravergine d'oliva: 12 g
+- Sale fino: 1 pizzico
+- Burro: fuso q.b.
+- Semi di zucca: q.b.
+- Semi di lino: q.b.
+- Castagne precotte: 300 g
+- Valtellina Casera: 230 g
+- Funghi champignon: 400 g
+- Cipolle rosse: 30 g
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Erba cipollina: 1 mazzetto
+- Rosmarino: q.b.
+
+## Preparazione
+Per realizzare lo strudel di castagne e funghi versate in una ciotola la farina, l'acqua , l'uovo intero , il sale , e l'olio . Mescolate prima con un cucchiaio e poi iniziate  aimpastare a mano  fino a quando non otterrete un panetto compatto, elastico e omogeneo . Avvolgete l’impasto con la pellicola  e lasciate riposare a temperatura ambiente mentre vi occupate del ripieno. Intanto pulite i funghi champignon e tagliate via la base del gambo, quindi affettateli sottilmente , dovrete ottenerne circa  g. Tagliate il casera a strisce irregolari .Tritare l’erba cipollina  e mondate e affettate sottilmente la cipolla rossa . In una ciotola ampia versare gli champignon a fette, il casera in pezzi irregolari, le castagne precotte intere , l’erba cipollina, il rosmarino e la cipolla affettata . Condite con un filo di olio, sale e pepe quanto basta e mescolate bene .  Infarinare leggermente un canovaccio da cucina, adagiate sopra l’impasto dello strudel, infarinate leggermente anche la superficie. Stendete l’impasto con il mattarello . dovete arrivare a uno allo spessore di  mm, poi, utilizzando la mano tendere molto delicatamente l’impasto  sino a renderlo un velo sottile e trasparente .Spennellate tutto il bordo con l'olio .Adagiate la farcia sulla parte sinistra della sfoglia . Cominciate a coprire la farcia con il lembo esterno di pasta , poi, aiutandovi con il canovaccio arrotolare l’impasto facendo pressione con le mani . Spennellate con l'olio l'ultimo lembo, così che aderisca meglio . Richiudete i lati facendo pressione con le dita . Spennellate la superficie con il burro fuso .Guarnite con i semi di lino e di zucca . Cuocete in forno statico preriscaldato a ° per  minuti. Sfornate e lasciate intiepidire prima di tagliare e servire lo strudel di castagne e funghi .
+
+## Descrizione
+Il risultato finale del nostro Strudel di castagne e funghi sarà un delizioso antipasto rustico e saporito, con una crosta dorata e croccante e un ripieno morbido e ricco di sapori autunnali. I funghi champignon e le castagne si fonderanno perfettamente con il formaggio Valtellina Casera, creando un mix di gusti che si sposano alla perfezione. I semi di zucca e di lino doneranno un tocco croccante e nutriente alla preparazione, mentre le erbe aromatiche aggiungeranno freschezza e profumo.
+
+Questo piatto è perfetto da servire come antipasto durante una cena invernale o come parte di un buffet per un'occasione speciale come il Ringraziamento o il Natale. 
+
+Questa ricetta è adatta a una dieta vegetariana, ma può essere adattata per diventare vegana sostituendo il formaggio con un'alternativa vegana e il burro con olio extravergine d'oliva. È inoltre adatta a chi segue una dieta senza glutine, sostituendo la farina 00 con una farina senza glutine.
+
+Le persone con intolleranze al lattosio dovrebbero evitare questa ricetta o sostituire il formaggio Valtellina Casera con un formaggio senza lattosio. Le persone con intolleranza al glutine dovranno assicurarsi di utilizzare una farina senza glutine per evitare problemi digestivi.

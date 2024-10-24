@@ -1,0 +1,19 @@
+# Uovo di Pasqua fatto in casa
+Categoria: Dolci
+
+## Ingredienti
+- Cioccolato fondente: 600 g
+- Cioccolato fondente: q.b.
+- Granella di nocciole: q.b.
+
+## Preparazione
+Per preparare l'uovo di Pasqua fatto in casa come prima cosa tritate tutto il cioccolato fondente . Ora versatene  g in una ciotola e scioglietelo al microonde. E' importante non impostarlo alla massima potenza e mescolarlo di tanto in tanto . Munitevi di un termometro da cucina e scaldate il cioccolato sino a che non avrà raggiungo i °.A questo punto versate altri  g di cioccolato tritato  e mescolate delicatamente sino a che non sarà sciolto . A questo punto dovrete portare il cioccolato ad una temperatura di °, continuando a mescolare per farlo raffreddare.Ora munitevi di uno stampo da uovo di Pasqua da  cm; versate il cioccolato all'interno delle due metà  e rotate lentamente lo stampo in modo da rivestirlo completamente . Capovolgete lo stampo su una gratella e battetelo delicatamente per eliminare il cioccolato in eccesso .Capovolgete lo stampo e utilizzando una spatola in acciaio ripulite bene i bordi intorno all'uovo . Lasciate solidificare per  minuti a temperatura ambiente e nel frattempo temperate il resto del cioccolato come appena fatto. Bisognerà sempre sciogliere prima i  g in microonde e poi aggiungere i  g di cioccolato tritato, e rispettare le temperature indicate nei passaggi precedenti. Versate quindi il cioccolato temperato all'interno dello stampo . Ruotate lo stampo in modo da creare una seconda camicia.Capovolgete nuovamente su una gratella, e sbattete lo stampo per togliere il cioccolato in eccesso. Lasciate solidificare per  minuti in frigo poi eliminate il cioccolato dai bordi dello stampo . Sistemate lo stampo su una gratella e trasferitelo in frigorifero per circa  minuti.. I gusci d'uovo si staccheranno facilmente quando il cioccolato risulterà ben cristallizzato. Eventualmente sbattete delicatamente lo stampo per farli fuoriuscire .Posizionate uno dei gusci su una base con un foglio di carta forno per non graffiarlo. Poi versate poco cioccolato temperato sui bordi  e posizionate il secondo mezzo guscio sopra per richiuderlo . Non preoccupatevi se fuoriesce del cioccolato. Trasferite un minuto in freezer per saldare alla perfezione le due metà. Poi spargete altro cioccolato sulla giuntura e ricoprite con la granella di nocciole . Fate solidificare e ripetete la stessa operazione anche dall'altro lato .Ruotate poi l'uovo e con il cioccolato temperato realizzate una linea al centro del guscio, decorate ancora con la granella di nocciole  e fate la stessa cosa anche dall'altro lato . Lasciate solidificare e l'uovo di cioccolato è pronto da gustare o regalare .
+
+## Descrizione
+Il risultato finale sarà un delizioso uovo di Pasqua fatto in casa, realizzato con cioccolato fondente di alta qualità e decorato con granella di nocciole per un tocco croccante e gustoso.
+
+Occasioni: Questo uovo di Pasqua fatto in casa è perfetto da regalare o da condividere durante le festività pasquali, come dolce da servire a fine pasto o come semplice snack goloso.
+
+Dieta/Regime alimentare: Questa ricetta è adatta per chi segue una dieta moderata in quanto contiene cioccolato fondente e zuccheri. Può essere consumata occasionalmente anche da chi è a dieta, prestando attenzione alle quantità.
+
+Intolleranze: Le persone con intolleranza al lattosio possono optare per cioccolato fondente privo di latte. Chi è intollerante al glutine deve verificare che tutti gli ingredienti utilizzati siano senza glutine.

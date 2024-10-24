@@ -1,0 +1,44 @@
+# Torta a scacchi decorata
+Categoria: Dolci
+
+## Ingredienti
+- Uova: (medie) 3
+- Farina 00: 220 g
+- Cioccolato fondente: (da tritare) 200 g
+- Cacao amaro in polvere: 30 g
+- Zucchero: 250 g
+- Burro: 250 g
+- Latte intero: 100 g
+- Caffè solubile: 1 cucchiaino
+- Lievito in polvere per dolci: 6 g
+- Scorza d'arancia: 1
+- Uova: (medie) 2
+- Zucchero: 180 g
+- Olio di semi di girasole: 90 g
+- Acqua: 95 g
+- Farina 00: 150 g
+- Fecola di patate: 50 g
+- Lievito in polvere per dolci: 6 g
+- Sale fino: q.b.
+- Baccello di vaniglia: 1
+- Burro: (a temperatura ambiente) 175 g
+- Zucchero: 75 g
+- Acqua: 50 g
+- Tuorli: 90 g
+- Baccello di vaniglia: 1
+- Zucchero a velo: 75 g
+- Pasta di zucchero: 300 g
+- Matite alimentari: ciocco caramel q.b.
+- Decorazione alimentare: al cioccolato q.b.
+
+## Preparazione
+Per realizzare la torta a scacchi per prima cosa preparate la base scura: tritate il cioccolato fondente grossolanamente. Fatelo fondere a bagnomaria  e quando sarà sciolto aggiungete il burro a pezzetti  e fatelo sciogliere. Quando il cioccolato e il burro saranno ben amalgamati unite il caffè solubile , quindi trasferite il composto in una planetaria.Lasciate intiepidire il composto e aggiungete lo zucchero  e le uova sbattute con una forchetta : azionate la frusta e mescolate. Aggiungete il latte ,la scorza di arancia grattugiata  e continuate a mescolare. Infine setacciate la farina direttamente nella ciotola insieme al lievito  e il cacao in polvere mescolate con un cucchiaio di legno o una spatola per amalgamare il composto . Poi imburrate e infarinate una tortiera di cm x , cm, versate l’impasto all’interno  e cuocete in forno statico preriscaldato per  minuti a  ° ( se usate il forno ventilato a ° per  minuti). A cottura ultimata sfornate la base  e fatela raffreddare.Intanto preparate la base chiara: in una ciotola versate le uova, lo zucchero  e un pizzico di sale . Montatele per circa  minuti con uno sbattitore elettrico, dopodiché aggiungete l'olio , l'acqua e continuate a lavorare gli ingredienti con le fruste elettriche. Incidete la bacca di una vaniglia  ed estraetene i semini,quindi versateli nell'impasto . In una ciotolina setacciate la farina, la fecola di patate  e il lievito. Incorporateli all'impasto un cucchiaio alla volta  e lavorate ancora con le fruste per amalgamare tutti gli ingredienti.Trasferite l'impasto ottenuto in una tortiera di cm x , cm imburrata e infarinata  e cuocete in forno statico preriscaldato per circa  minuti a ° (oppure a ° per  minuti se avete il forno ventilato). A cottura ultimata sfornate la torta e fatela raffreddare . Intanto occupatevi della crema al burro iniziate versando in un pentolino dal fondo spesso lo zucchero semolato con l’acqua, ponetelo a fuoco dolce mescolando di tanto in tanto con un cucchiaio di acciaio. Quando lo zucchero si sarà sciolto mettete un termometro da zucchero nel pentolino e non mescolando più portate lo sciroppo a °C .Nel frattempo mettete i tuorli in una planetaria e iniziate a farli montare , aggiungetevi lo sciroppo di zucchero a filo  e montate fino a completo raffreddamento.Mentre i tuorli montati si stanno raffreddando, lavorate a crema il burro a temperatura ambiente aiutandovi con una spatola. Incorporate quindi i semi di una bacca di vaniglia nella planetaria , setacciate lo zucchero a velo e unite anch'esso,per ultimo aggiungete il burro un pezzetto alla volta  facendo montare ancora fino a che il composto sarà cremoso . Ritagliate la base chiara in  rettangoli spessi  cm  e fate lo stesso con quella scura . Iniziate a comporre la torta: spennellate un lato del rettangolo  e appoggiatelo su un piatto da portata con la parte spennellata rivolta verso il basso  per farlo aderire meglio.Proseguite alternando i colori create un primo strato con  rettangoli, spennellate con la crema al burro la superficie  proseguite  con altri  strati. Spennellate tutta la superficie e i bordi della torta con la crema al burro e ponetela in frigorifero per un paio di ore. Prendete la pasta di zucchero già pronta, stendetela su una spianatoia poi avvolgetela sul mattarello e srotolatela sopra la torta  per ricoprirla interamente , fate aderire la pasta su tutti i lati e ritagliate quella in eccesso.Terminate le decorazioni al cioccolato ;con l’aiuto di un cucchiaino distribuite su ciascun quadrato scuro  le scagliette di cioccolato fondente  e su quelli chiari le scagliette di cioccolato bianco . La vostra torta a scacchi decorata è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale sarà una torta a scacchi decorata, composta da due basi di pan di spagna bianco e nero, alternate e tagliate a scacchi per creare un effetto visivo molto particolare. La torta sarà ricoperta da una glassa al cioccolato e decorata con pasta di zucchero e disegni con matite alimentari e decorazioni al cioccolato.
+
+Questa torta è adatta per occasioni speciali come compleanni, anniversari o feste, grazie al suo aspetto elegante e raffinato.
+
+La torta non è adatta per diete restrittive, data la presenza di zuccheri, burro e cioccolato. Tuttavia, può essere consumata occasionalmente come dessert in una dieta equilibrata.
+
+Le persone con intolleranze possono trovarsi a dover fare attenzione agli ingredienti come il burro, il cacao, il latte e il glutine presente nella farina. Si consiglia di sostituire o eliminare gli ingredienti che causano problemi, come il burro con una versione senza lattosio e la farina con una senza glutine. La decorazione con pasta di zucchero e matite alimentari può essere adatta anche per persone con intolleranze al latte e uova.

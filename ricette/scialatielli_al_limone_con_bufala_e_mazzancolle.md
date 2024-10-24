@@ -1,0 +1,28 @@
+# Scialatielli al limone con bufala e mazzancolle
+Categoria: Primi piatti
+
+## Ingredienti
+- Semola di grano duro rimacinata: 400 g
+- Uova: medio da 55 g 1
+- Latte intero: 175 g
+- Pecorino romano: 30 g
+- Olio extravergine d'oliva: 10 g
+- Basilico: q.b.
+- Mazzancolle: freschissime (2 a persona) 300
+- Stracciatella: di Bufala 200 g
+- Limoni: da cui ottenere scorza e 65 g di succo 220 g
+- Burro: 100 g
+- Origano: fresco q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: q.b.
+
+## Preparazione
+Per preparare gli scialatielli al limone con bufala e mazzancolle cominciamo dall'impasto di base. Sminuzzate finemente al coltello le foglie di basilico . Poi in una ciotola versate la semola e l'uovo , mescolate e unite il pecorino e il basilico .Continuate a mescolare mentre aggiungete prima il latte  e poi l'olio . Non appena l'impasto avrà preso consistenza trasferitelo sul piano di lavoro e lisciatelo .Quindi avvolgete l'impasto nella pellicola e fatelo riposare a temperatura ambiente . Intanto dedicatevi alla pulizia delle mazzancolle. Staccate il dorso dal resto del corpo cercando di staccare anche l’intestino . Eliminate il carapace e le zampette, infine tagliate a pezzetti di circa , cm .Radunate i pezzi in una ciotola e condite con olio e pepe . Mescolate e tenete in disparte (di tanto in tanto rimestate) . Grattugiate la scorza dei limoni e spremetene il succo . Adesso che tutto è pronto mettete a bollire l’acqua per cucinare la pasta e occupatevi proprio di questa. Tiratela sottilmente su una spianatoia leggermente infarinata con la semola, ottenete uno spessore di , cm e poi ripiegate i lembi laterali verso il centro spolverizzando ancora .Tagliate nettamente e ottenete dei fili lunghi circa  cm . L'acqua a questo punto dovrebbe essere a bollore, tuffate gli scialatielli e lasciateli cuocere . Intanto scaldate una casseruola a fuoco dolce e versate il burro .Aggiungete il sale, il pepe  e il succo di limone  e agitate leggermente la padella per emulsionare .Non appena gli scialatielli saranno cotti scolateli in padella ; regolate la consistenza con un po’ d’acqua della pasta se servisse . Procedete con l’impiattamento: versate la pasta, guarnite con qualche strisciolina di stracciatella di bufala le mazzancolle, un po’ di scorza di limone , qualche fogliolina di origano fresco e un pizzico di pepe . Ecco pronti gli scialatielli al limone con bufala e mazzancolle: buon appetito !
+
+## Descrizione
+Il risultato finale della ricetta sarà un piatto di scialatielli al limone con bufala e mazzancolle, caratterizzato da un mix di sapori freschi, cremosi e delicati. La pasta sarà al dente, arricchita dalla cremosità della stracciatella di bufala e dalla dolcezza delle mazzancolle, il tutto esaltato dal profumo e dalla freschezza del limone.
+
+Questo piatto è adatto per occasioni speciali o per una cena gourmet, grazie alla sua presentazione raffinata e ai suoi sapori equilibrati.
+
+La ricetta è adatta alla dieta mediterranea e può essere consumata anche all'interno di una dieta equilibrata e variata. Le persone intolleranti al lattosio possono sostituire il latte intero con latte senza lattosio. Le persone celiache possono sostituire la semola con una versione senza glutine, mentre le persone intolleranti al pesce possono eliminare le mazzancolle dalla ricetta.

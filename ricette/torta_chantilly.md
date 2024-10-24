@@ -1,0 +1,36 @@
+# Torta chantilly
+Categoria: Dolci
+
+## Ingredienti
+- Uova: (circa 5) 270 g
+- Fecola di patate: 75 g
+- Farina 00: 75 g
+- Zucchero: 150 g
+- Sale fino: 1 pizzico
+- Baccello di vaniglia: ½
+- Latte intero: 400 g
+- Panna fresca liquida: 100 g
+- Tuorli: (circa 4) 70 g
+- Zucchero: 150 g
+- Amido di mais (maizena): 45 g
+- Baccello di vaniglia: ½
+- Panna fresca liquida: 500 g
+- Baccello di vaniglia: solo i semi 1
+- Zucchero a velo: 60 g
+- Panna fresca liquida: 700 g
+- Zucchero a velo: 70 g
+- Acqua: 100 g
+- Zucchero: 100 g
+- Maraschino: 20 g
+
+## Preparazione
+Per preparare la torta chantilly come prima cosa realizzate il pan di Spagna. Versate nella ciotola di una planetaria le uova, aggiungete un pizzico di sale e i semi di mezzo baccello di vaniglia . Tenete da parte il baccello, servirà per la crema. Iniziate a montare le uova con la frusta, aggiungendo lo zucchero  e continuate a lavorarle fino a che non avrete ottenuto un composto gonfio e spumoso . Ci vorranno circa - minuti. A questo punto ponete un setaccio a maglia fine sulla ciotola della planetaria e versate sia la farina che la fecola . Setacciate le polveri e amalgamate il tutto con una frusta a mano o con una spatola facendo dei movimenti dal basso verso l'alto . Fate questo passaggio con molta delicatezza in modo da non smontare il composto. Non appena le polveri saranno completamente amalgamate versate il tutto in uno stampo imburrato e infarinato da , cm . Livellate la superficie con la spatola e cuocete in forno statico preriscaldato a ° per circa - minuti. Fate la prova dello stecchino e sfornate il dolce . Lasciatelo intiepidire, eliminate lo stampo  e lasciate raffreddare completamente il pan di Spagna su una gratella. Nel frattempo che il pan di Spagna è in forno potete preparare la crema pasticcera. Versate in un tegame il latte e la panna, unite il baccello di vaniglia che avete tenuto da parte privato dei semi restanti  e trasferiteli all'interno di una ciotola dove avrete già sistemato i tuorli . Portate latte e panna a sfiorare il bollore, mescolando di tanto in tanto. Nel frattempo unite lo zucchero ai tuorli e sbattete rapidamente  Aggiungete l'amido di mais setacciato  e mescolate fino a completo assorbimento . Quando latte e panna inizieranno a bollire, prelevatene un mestolo e trasferitelo nel composto di tuorli per stemperarlo . Versate nuovamente il tutto nel pentolino , eliminate il baccello di vaniglia e, mescolando di continuo, lasciate addensare la crema sul fuoco per pochi minuti . Trasferite in una ciotola e coprite con pellicola a contatto . Lasciate raffreddare la crema prima a temperatura ambiente e poi in frigorifero per almeno  ora . A questo punto realizzate la crema per la farcitura. Nella ciotola di una planetaria versate  g di panna fresca liquida, aggiungete lo zucchero a velo  e i semi del baccello di vaniglia ; potrete utilizzare il baccello per altre preparazioni. Montate la panna con le fruste elettriche fino ad ottenere una consistenza piuttosto soda . Trasferite all'interno di un sac-à-poche dotato di bocchetta liscia da  mm  e trasferite in frigorifero. Preparate quindi la crema per la decorazione. Versate i  g di panna nella ciotola della planetaria, aggiungete lo zucchero a velo  e montate con la frusta come fatto in precedenza. Trasferite in un sac-à-poche dotato di bocchetta rigata da  cm e trasferite in frigorifero. A questo punto preparate la bagna. In un pentolino versate l'acqua, il maraschino  e lo zucchero . Scaldate fino a che lo zucchero sarà completamente sciolto, poi lasciate raffreddare . Quando il pan di Spagna e la crema saranno freddi potrete comporre la torta. Utilizzando un coltello lungo a sega livellate il pan di Spagna nella parte superiore . Poi ricavate  dischi dello stesso spessore . Posizionate l'ultimo disco su un piatto da portata e inzuppatelo con la bagna . Farcite con metà della crema chantilly  e posizionate sopra il secondo disco. Inzuppate con la bagna  e farcite con la restante crema . Adagiate sopra il terzo strato di pan di Spagna  e lisciate i bordi laterali con una spatola, per livellare l'eventuale fuoriuscita della crema. Ricoprite l'intera superficie della torta (anche i bordi) con la panna montata e lisciatela con una spatola . Trasferite la crema pasticcera in un sac-à-poche con bocchetta liscia da  cm e create delle strisce di ciuffi di crema, distanziandole fra di loro .Riempite gli spazi con dei ciuffi di panna montata . Decorate anche il bordo della torta, su tutto il perimetro  e, in ultimo, realizzate dei ciuffi su tutta la circonferenza della torta . Trasferite in frigorifero fino al momento di servire la vostra torta chantilly .  
+
+## Descrizione
+Il risultato finale della torta chantilly sarà una torta soffice e leggera, con un delicato sapore di vaniglia. 
+
+Occasioni adatte: Questa torta è adatta per varie occasioni come feste di compleanno, anniversari o semplicemente come dolce da servire durante un ricevimento. 
+
+Diete o regimi alimentari adatti: La torta chantilly non è indicata per diete particolari o regimi alimentari specifici, in quanto contiene zucchero, latte e panna fresca.
+
+Intolleranze alimentari: Le persone con intolleranza all'uovo non potranno mangiare questa torta, in quanto l'impasto contiene uova. Inoltre, le persone intolleranti al lattosio dovranno fare attenzione, poiché sono presenti latte e panna fresca nella ricetta.

@@ -1,0 +1,29 @@
+# Vellutata di castagne con porcini e guanciale croccante
+Categoria: Primi piatti
+
+## Ingredienti
+- Castagne: 1 kg
+- Brodo vegetale: 1 l
+- Scalogno: 100 g
+- Rosmarino: 3 rametti
+- Olio extravergine d'oliva: 40 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Funghi porcini: 250 g
+- Guanciale: 150 g
+- Sale fino: 1 pizzico
+- Pepe nero: q.b.
+- Olio extravergine d'oliva: 20 g
+- Aglio: 1 spicchio
+
+## Preparazione
+Per preparare la vellutata di castagne con porcini e guanciale croccante incominciate col porre sul fuoco una pentola con l'acqua per preparare il brodo vegetale. Procedete quindi alla pulizia delle castagne: intaccate le castagne con un coltellino  e poi fatele lessare in una pentola a pressione con abbondante acqua per  minuti  (in alternativa potete utilizzare una normale pentola facendo cuocere per circa  minuti). Prendete lo scalogno, eliminate la buccia e tagliatelo a rondelle .Tritate finemente il rosmarino  e tenete da parte. Quando le castagne saranno pronte , munitevi di guanti in lattice e con un coltellino sbucciatele ancora calde, togliendole una alla volta dal loro liquido di cottura man mano che le pulite . Terminato questo procedimento, fate soffriggere a fuoco medio lo scalogno in una padella antiaderente con l’olio mescolando bene con una spatola . Ponete sul fuoco le castagne precedentemente pulite, aggiungendo sale e pepe a vostro piacimento  insieme al rosmarino tritato .Fate rosolare per  minuti e poi versate il brodo vegetale che avete preparato coprendo bene le castagne : conservatene una parte e aggiungetela qualora il brodo dovvesse asciugarsi. Fate cuocere a fuoco vivo per - minuti e nel frattempo occupatevi della pulizia dei funghi porcini: con un coltellino affilato dalla lama liscia togliete la parte terrosa sul gambo, raschiandolo con delicatezza fino ad eliminare qualsiasi traccia di terra . Se i funghi sono abbastanza puliti, eliminate i pochi residui di terra con un pennello oppure con un panno di cotone , se invece sono ancora molto sporchi, passateli velocemente sotto un getto di acqua corrente fredda.Terminata la pulizia, tagliate i funghi interi nel senso della lunghezza . Fate soffriggere uno spicchio d’aglio in camicia in una padella anitaderente con l’olio , dopodiché fate rosolare i funghi per  minuti, regolando di sale e pepe .Quando i funghi saranno pronti, spegnete e tenete da parte . Tagliate il guanciale a fette e poi a listarelle , quindi fatelo cuocere per pochi minuti sul fuoco per eliminare il grasso e per renderlo croccante .Una volta che il guanciale sarà ben dorato , adagiatelo su una teglia foderata con carta da forno in modo che rilasci il grasso creatosi in cottura . Trascorso il tempo necessario, le castagne si saranno ben ammorbidite: spegnete il fuoco e frullatele con un frullatore ad immersione finché non otterrete una crema densa . A questo punto passate la vellutata in un colino a maglie strette fino ad ottenere una crema liscia ed omogenea ; trasferitela in un piatto di portata, guarnendola con i funghi e il guanciale croccante che avete preparato. La vostra gustosa vellutata di castagne con porcini e guanciale croccante è pronta: gustatela subito !
+
+## Descrizione
+Il risultato finale sarà una vellutata cremosa e avvolgente, arricchita dal sapore intenso delle castagne, dei porcini e del guanciale croccante. La consistenza sarà liscia e vellutata, con pezzetti di funghi e croccante guanciale che aggiungono contrasto e texture al piatto.
+
+Occasioni: Questa vellutata di castagne con porcini e guanciale croccante è perfetta per occasioni speciali e festive, come il pranzo di Natale o per sorprendere gli ospiti durante una cena invernale.
+ 
+Dieta o regime alimentare: Questa ricetta è adatta per una dieta equilibrata e gustosa, in particolare per vegetariani e amanti della cucina regionale e tradizionale.
+
+Intolleranze: Le persone con intolleranze al lattosio possono consumare questa vellutata evitando l'aggiunta di formaggio o panna in fase di preparazione. Per le persone celiache, è necessario assicurarsi che gli ingredienti utilizzati siano privi di glutine e eventualmente sostituire la farina con un altro addensante senza glutine. Le persone con intolleranze al glutine possono sostituire il guanciale con un'altra fonte di proteine equivalente.

@@ -1,0 +1,29 @@
+# Torta 5 minuti alla ricotta
+Categoria: Dolci
+
+## Ingredienti
+- Ricotta vaccina: 200 g
+- Farina 00: 200 g
+- Zucchero: 200 g
+- Burro: 200 g
+- Uova: 3
+- Lievito in polvere per dolci: 10 g
+- Sale fino: 1 pizzico
+- Scorza d'arancia: 1
+- Rum: 30 g
+- Pistacchi: sgusciati 100 g
+- Mandorle pelate: 100 g
+- Panna fresca liquida: 200 g
+- Cioccolato fondente: 140 g
+- Burro: 20 g
+- Granella di pistacchi: q.b.
+
+## Preparazione
+Per realizzare la torta  minuti di ricotta versate tutti gli ingredienti dell’impasto in un mixer: iniziate con la farina e lo zucchero , poi proseguite con il lievito  e il sale .Aggiungete quindi le mandorle pelate  e i pistacchi sgusciati . Incorporate il burro a pezzetti e le uova intere , poi aromatizzate con il rum  e la scorza d’arancia grattugiata . Frullate gli ingredienti fino ad amalgamarli completamente.Ora per finire unite la ricotta ben scolata , date ancora un giro di lame per ottenere un impasto omogeno . Imburrate e infarinate uno stampo da  cm, versate qui l’impasto E livellate la superficie con una spatola . Cuocete in forno statico preriscaldato a ° per  minuti. A cottura terminata sfornate la torta  e lasciatela intiepidire. Intanto occupatevi della ricopertura: versate la panna in un pentolino  e scaldatela fino a sfiorare il bollore.A questo punto versate la panna calda sul cioccolato fondente: noi abbiamo usato cioccolato in pepite, se avete una tavoletta di cioccolato fondente potete prima tritarlo . Mescolate con una frusta così da fonderlo e ottenere una crema. Incorporate il burro a pezzetti  e mescolate ancora finché non otterrete una salsa fluida .Rovesciate il dolce su una gratella e ricopritelo interamente con la salsa al cioccolato . Per finire distribuite sulla superficie la granella di pistacchi . La torta  minuti alla ricotta è pronta per essere gustata .
+
+## Descrizione
+Il risultato finale della Torta 5 minuti alla ricotta sarà un dolce soffice e cremoso, arricchito dalla presenza di pistacchi, mandorle e cioccolato fondente. Sarà profumato dalla scorza d'arancia e dal rum, creando un perfetto equilibrio di sapori.
+
+Questa torta è adatta per occasioni come merende, colazioni o dessert da servire durante una cena in famiglia o con gli amici. Può essere gustata da tutti, ma in particolare è adatta per chi segue una dieta equilibrata e moderata, in quanto contiene ingredienti come ricotta, frutta secca e cioccolato fondente che apportano nutrienti importanti.
+
+Le persone con intolleranza al lattosio possono provare a sostituire la ricotta con una variante senza lattosio o con altri tipi di formaggio fresco a basso contenuto di lattosio. È inoltre possibile sostituire il burro con olio di cocco per renderla adatta anche a chi ha intolleranza al lattosio.È importante verificare la tollerabilità degli altri ingredienti presenti nella ricetta.

@@ -1,0 +1,27 @@
+# Uova alla messicana
+Categoria: None
+
+## Ingredienti
+- Uova: 4
+- Peperoni rossi: 500 g
+- Cipolle rosse: 1
+- Peperoncino fresco: 1
+- Aglio: 1 spicchio
+- Origano: secco q.b.
+- Olio extravergine d'oliva: 3 cucchiai
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Passata di pomodoro: 500 g
+- Prezzemolo: q.b.
+
+## Preparazione
+Per realizzare le uova alla messicana per prima cosa mondate e affettate la cipolla . Tagliate la calotta superiore dei peperoni, eliminate il picciolo verde ed eliminate anche i semi. Dividete a metà i peperoni e con un coltellino togliete le nervature bianche . Quindi affettateli per lungo a listarelle sottili .Mettete lo spicchio di aglio sul tagliere e schiacciatelo con un coltello senza sbucciarlo , in questo modo sprigionerà meglio il suo aroma. Tagliate a pezzettini il peperoncino piccante . In un tegame capiente versate i  cucchiai di olio di oliva, unite l’aglio, il peperoncino e la cipolla , fate rosolare il tutto a fuoco medio mescolando spesso . Quando saranno appassiti ,aggiungete i peperoni a listarelle , aggiustate di sale e pepe e unite un pizzico di origano secco . Fate cuocere a fuoco medio per circa  minuti mescolando di tanto in tanto. Quando peperoni saranno morbidi potete versare la passata di pomodoro  e continuare la cottura a fuoco basso per circa  minuti, mescolando.Infine eliminate lo spicchio di aglio . Il sughetto è pronto , distribuitelo in  cocotte da forno alte  cm con diametro  cm .Con un cucchiaio formate al centro di ognuno una cavità . Sgusciate le uova una per volta in una ciotolina , trasferitele nella cavità dei peperoni  e regolate di sale e pepe.Le cocotte sono pronte per essere infornate : cuocetele in forno già caldo a °C statico nel ripiano medio per circa / minuti. Gli albumi dovranno risultare cotti e i tuorli morbidi. Dopo la cottura guarnite con il prezzemolo fresco  e servite subito le uova alla messicana .
+
+## Descrizione
+Il risultato finale sarà un piatto colorato e saporito, con le uova preparate in una salsa a base di peperoni rossi, cipolle, peperoncino fresco, aglio, passata di pomodoro e aromatizzata con origano e prezzemolo.
+
+Occasioni: Le uova alla messicana sono adatte come piatto principale per un pranzo o una cena informale, perfette da servire in una serata in compagnia degli amici.
+
+Dieta: Questa ricetta è adatta a una dieta equilibrata e salutare, poiché contiene ingredienti freschi e nutrienti. È adatta per una dieta onnivora.
+
+Intolleranze: Le persone con intolleranze alimentari al lattosio o al glutine possono gustare questo piatto, in quanto non contiene ingredienti lattosio o glutine. Tuttavia, chi soffre di intolleranza al peperoncino dovrebbe evitare di consumarlo o modificarne la ricetta togliendo tale ingrediente.

@@ -1,0 +1,30 @@
+# Torta salata alla cipolla di Tropea e Silano
+Categoria: Torte salate
+
+## Ingredienti
+- Caciocavallo silano: (a fette) 350 g
+- Cipolle rosse di Tropea: 300 g
+- Vino rosso: 20 g
+- Zucchero: 1 cucchiaino
+- Acqua: (ghiacciata) 70 g
+- Burro: 100 g
+- Farina 00: 200 g
+- Latte intero: 500 g
+- Cipolle rosse di Tropea: 80 g
+- Farina 00: 50 g
+- Olio extravergine d'oliva: 50 g
+- Noce moscata: (da grattugiare) q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare la Torta salata alla cipolla di Tropea e Silano incominciate a preparare la pasta brisè. Prendete un mixer ed aggiungetevi la farina ed il burro tagliato grossolanamente in pezzi a freddo di frigo, aggiustate di sale  ed amalgamate gli ingredienti fino ad ottenere un impasto sabbioso e farinoso. Versate il composto su un una spianatoia dando la forma di fontana aggiungendovi poco per volta l’acqua ghiacciata . Quando gli ingredienti risulteranno uniformemente amalgamati riponete il composto amalgamato a forma di palla in pellicola  da cucina e lasciate riposare in frigo per almeno  minuti.Mentre la pasta brisè riposa in frigo passate a preparare il ripieno, partendo dalla cipolla di Tropea. Sfogliatela dello strato più esterno, quindi tagliatela a fette non troppo sottili. Prendete una padella antiaderente, cospargetevi un filo di olio evo e ponete a cuocere vostra cipolla di Tropea tagliata a fette , facendo cuocere a fuoco moderato. Sfumatela  con il vino rosso  ed a cottura quasi ultimata aggiungete un pizzico di zucchero per farla caramellare . Mescolate aiutandovi con un cucchiaio la cipolla in modo tale da risultare uniformemente cotta. Quando la cipolla di Tropea risulterà cotta riponetela in una ciotola e lasciatela intiepidire.Passate ora alla preparazione della besciamella. Ponete su una padella un filo di olio e rosolatevi la cipolla finemente tagliata . Aggiungete la farina  e stemperata con la cipolla amalgamando bene per non creare grumi .Ponete nel frattempo a scaldare il latte in un pentolino. Quando avrete ben stemperato aggiungete il latte scaldato , aromatizzato con noce moscata . Aggiustate di sale ,e pepe . Continuate a cuocere e mescolare  fino ad ottenere un composto cremoso . Quindi spegnete il fuoco e tenete da parte coprendo con un coperchio o con pellicola a contatto. Nel frattempo tagliate a tocchetti  g di silano prima in strisce orizzontali e successivamente a dadini  e  g di silano a fette sottili. A questo punto avete tutti i preparati necessari per comporre la vostra torta salata alla cipolla di Tropea e Silano. Aiutandovi con un mattarello stendete l’impasto della brisè . Prendete ora una pirofila tonda dal diametro di  cm e ricopritela con carta da forno. A questo punto arrotolate il disco di pasta sul mattarello srotolatelo sullo stampo , facendola aderire bene.Con una forchetta bucherellate la pasta brisè stesa . Aggiungete quindi la besciamella precedentemente preparata e stendetela uniformemente sulla pasta . Aggiungete sopra alla besciamella il silano tagliato a tocchetti Aggiungete ora anche il silano tagliato a fette . Adagiate sopra a questi ingredienti stesi sulla pasta brisè anche la cipolla saltata precedentemente . Infornate ora la vostra torta salata alla cipolla di Tropea e Silano in forno statico pre riscaldato a ° C per  minuti (o a forno ventilato a °  per minuti). Servite e gustate !
+
+## Descrizione
+Il risultato finale sarà una torta salata dal sapore intenso e ricco, grazie alle cipolle rosse di Tropea e al caciocavallo silano. La combinazione di ingredienti creerà un piatto ricco di sapori e consistenze, con la dolcezza delle cipolle contrastata dal gusto deciso del formaggio.
+
+Questa torta salata è adatta per occasioni informali, come un picnic o un brunch con amici. Può essere servita sia calda che fredda ed è ottima come antipasto o piatto unico, accompagnata da una fresca insalata mista.
+
+Questa ricetta è adatta per persone che seguono una dieta latto-ovo-vegetariana, in quanto non contiene carne né pesce. Tuttavia, è importante verificare che il formaggio utilizzato sia vegetariano.
+
+Le persone con intolleranze al lattosio potrebbero trovare questa ricetta problematica a causa del latte intero e del formaggio. Inoltre, chi soffre di intolleranza al glutine dovrebbe fare attenzione alla farina utilizzata e potrebbe dover optare per alternative senza glutine. Le persone con intolleranze alle cipolle dovrebbero evitare questa ricetta o sostituire le cipolle con un altro tipo di verdura.

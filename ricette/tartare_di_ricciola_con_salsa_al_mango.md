@@ -1,0 +1,31 @@
+# Tartare di ricciola con salsa al mango
+Categoria: Secondi piatti
+
+## Ingredienti
+- Ricciola: filetti già abbattuti 400 g
+- Olio extravergine d'oliva: 10 g
+- Sale fino: 1 cucchiaino
+- Pepe nero: 1 cucchiaino
+- Scorza di limone: 1
+- Pane: 70 g
+- Mango: polpa 150 g
+- Succo d'arancia: 1
+- Succo di limone: 1
+- Sale fino: 1 cucchiaino
+- Pepe nero: 1 cucchiaino
+- Zucchero di canna: 1 cucchiaino
+- Curcuma in polvere: 1 cucchiaino
+- Peperoncino in polvere: ½ cucchiaino
+- Zenzero fresco: 5 g
+
+## Preparazione
+Per preparare la tartare di ricciola con salsa al mango cominciate dal pane. Tagliatelo in obliquo ottenendo delle fettine di circa ½ cm , appiattitele con il matterello  e sistematele su una leccarda. Arrotondatele e fissatele con uno spiedino .Quindi fatele tostare in forno per circa ’ a °; tenete da parte . Nel frattempo passate alla salsa al mango. Con un pelapatate sbucciate quest’ultimo, noi ne abbiamo scelto uno non troppo maturo , e poi tagliatelo prima a striscioline e successivamente a cubetti di circa  cm .Mondate lo zenzero e affettatelo , poi spremete il succo di lime  e di arancia .Spostatevi ai fornelli. In un pentolino versate il succo degli agrumi , poi i cubetti di mango e le fette di zenzero . Insaporite con un pizzico di sale, lo zucchero di canna ,il peperoncino in polvere  e la curcuma in polvere . Accendete il fornello e lasciate insaporire per una decina di minuti a fuoco dolce mescolando di tanto in tanto; potete aggiungere qualche goccia d’acqua se doveste notare che la parte liquida si sta asciugando troppo in fretta. A fine cottura eliminate lo zenzero ,e frullate  fino ad ottenere una purea liscia . Infine occupatevi dei filetti di ricciola. Sminuzzateli ,fino ad ottenere un battuto finissimo . Raccogliete in una ciotola e insaporite con la scorza di limone grattugiata , sale, pepe, olio .Mescolate  e passate all’impiattamento. Sul fondo di un piatto versate una cucchiaiata di salsa al mango , mettete un coppapasta da  cm di diametro al centro e all’interno versate la tartare .Infine decorate con dell’erba cipollina tagliata con le forbici , grattugiate ancora un po’ di scorza di limone  ed ecco pronta la vostra tartare di ricciola con salsa al mango, accompagnate con il pane .
+
+## Descrizione
+Il risultato finale sarà una deliziosa tartare di ricciola fresca condita con una salsa al mango dal sapore agrodolce e speziato. La ricciola, dal sapore delicato e morbido, si combinerà perfettamente con la freschezza e il gusto esotico della salsa al mango.
+
+Questa ricetta è adatta per occasioni speciali e cene eleganti, grazie alla presentazione raffinata e ai sapori sofisticati. È perfetta per chi desidera gustare un piatto di pesce leggero ma pieno di sapore.
+
+La tartare di ricciola con salsa al mango è adatta a una dieta sana e equilibrata, ricca di proteine magre e vitamine. È quindi indicata per chi segue un regime alimentare a base di pesce e frutta, e per chi cerca un piatto leggero ma gustoso.
+
+Le persone con intolleranze alimentari possono mangiare questo piatto, fatta eccezione per chi è allergico al pesce e al mango, e per chi soffre di intolleranza al glutine (nel qual caso è necessario utilizzare pane senza glutine). Grazie alla presenza di spezie, è consigliabile fare attenzione per chi ha problemi di stomaco sensibili.

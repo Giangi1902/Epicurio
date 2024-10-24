@@ -1,0 +1,23 @@
+# Tortini di finocchi mediterranei
+Categoria: None
+
+## Ingredienti
+- Finocchi: 250 g
+- Pomodorini datterini: 200 g
+- Edamer: 80 g
+- Capperi sotto sale: 15 g
+- Olive nere: denocciolate 8
+- Pangrattato: 20 g
+- Burro: q.b.
+
+## Preparazione
+Per realizzare i tortini di finocchi alla mediterranea per prima cosa affettate sottilmente i finocchi utilizzando una mandolina (-). Lavate i pomodorini e tagliateli a fette sottili .Tagliate il formaggio prima a strisce  e poi riducete quest’ultime a cubetti . Prendete ora dei pirottini di alluminio da  cm di diametro e con un bordo alto  cm. Fondete il burro e imburrate il fondo e il bordo  aiutandovi con un pennello da cucina.Ora spolverizzate tutta la superficie interna con il pangrattato . A questo punto potete riempire i vostri pirottini: adagiate sul fondo uno strato di finocchi , poi uno di pomodorini e insaporite con i capperi (precedentemente dissalati) ,qualche cubetto di formaggio e le olive tagliate a rondelle . Ora ricoprite con un altro strato di finocchi . Distribuite sulla superficie del pangrattato e un pezzetto di burro . Ponete i vostri pirottini su una teglia da forno  e cuocete in forno statico preriscaldato a ° per  minuti, di cui gli ultimi  minuti con la funzione grill. A cottura ultimata i tortini di finocchi alla mediterranea saranno ben gratinati, serviteli caldi !
+
+## Descrizione
+- Risultato finale: I tortini di finocchi mediterranei sono piccoli tortini a base di finocchi, pomodorini datterini, formaggio Edamer, capperi, olive nere e pangrattato. Saranno croccanti all'esterno e morbidi all'interno, con un mix di sapori mediterranei che si fondono perfettamente insieme.
+
+- Occasioni adatte: Questa ricetta è perfetta da servire come antipasto o secondo piatto in una cena informale tra amici o in un brunch rustico. 
+
+- Diete o regime alimentare adatte: I tortini di finocchi mediterranei sono adatti a una dieta vegetariana, ma non sono adatti a una dieta vegana in quanto contengono formaggio. Possono essere consumati come parte di una dieta bilanciata e moderata.
+
+- Intolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questa ricetta o sostituire il formaggio Edamer con una alternativa senza lattosio. Le persone con intolleranze ai capperi o alle olive nere dovrebbero evitare l'aggiunta di questi ingredienti nella ricetta.

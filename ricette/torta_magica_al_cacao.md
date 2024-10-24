@@ -1,0 +1,28 @@
+# Torta magica al cacao
+Categoria: Dolci
+
+## Ingredienti
+- Latte intero: tiepido (circa 40°) 500 g
+- Uova: (circa 4 medie) a temperatura ambiente 220 g
+- Zucchero: 150 g
+- Burro: fuso, intiepidito 125 g
+- Farina 00: 65 g
+- Cacao amaro in polvere: 50 g
+- Acqua: fredda 10 g
+- Estratto di vaniglia: 10 g
+- Succo di limone: 5 g
+- Sale fino: 1 pizzico
+- Zucchero a velo: q.b.
+- Burro: q.b.
+
+## Preparazione
+Per realizzare la torta magica al cacao, assicuratevi che gli ingredienti siano tutti alle temperature indicate: tirate fuori le uova dal frigorifero e separate i tuorli dagli albumi, poi sciogliete il burro in un pentolino e lasciatelo intiepidire. Riscaldate anche il latte che al momento dell’utilizzo dovrà avere una temperatura di circa °. Setacciate la farina e il cacao amaro in una ciotola , mescolate bene  e tenete da parte. Infine imburrate e foderate con carta forno una teglia quadrata da  cm. Ora siete pronti per preparare l’impasto: versate i tuorli a temperatura ambiente nella tazza di una planetaria con gancio a frusta e azionatela a velocità medio-alta, aggiungendo lo zucchero poco alla volta .Dopo circa - minuti il composto sarà diventato chiaro e spumoso, quindi aggiungete a filo l’acqua fredda , l’estratto di vaniglia  e il sale .A questo punto versate anche il burro fuso tiepido  e mescolate ancora per qualche istante, poi abbassate la velocità al minimo e aggiungete il mix di polveri (farina e cacao), un cucchiaio per volta . Dopo aver incorporato le polveri, unite il latte tiepido a filo .Ora prendete gli albumi e iniziate a montarli con le fruste elettriche in una ciotola a parte, aggiungendo il succo di limone : gli albumi dovranno risultare semi-montati, quindi spumosi ma ancora morbidi . Versate gli albumi nella ciotola col composto al cacao .Incorporate gli albumi in modo omogeneo mescolando delicatamente con una frusta : il composto finale risulterà molto fluido, quasi liquido. Versate l’impasto ottenuto all’interno dello stampo foderato in precedenza  e cuocete in forno statico preriscaldato a ° per circa  minuti .Una volta cotta , la torta deve risultare soda in superficie e cremosa all’interno quindi verificate la consistenza con uno stecchino per assicurarvi che non sia ancora liquida. Lasciatela raffreddare completamente nello stampo, poi copritela con pellicola e mettetela in frigorifero a rassodare per almeno  ore . Trascorso questo tempo, sformate la torta e pareggiate i bordi utilizzando un coltello inumidito o un filo di nylon, poi dividetela in cubotti e spolverizzate a piacere con zucchero a velo: la torta magica al cacao è pronta per essere servita !
+
+## Descrizione
+Il risultato finale della torta magica al cacao sarà una torta soffice, umida e dal gusto intenso di cacao. La consistenza sarà unica, con tre strati differenziati: una base compatta, un centro cremoso e un'incantevole superficie croccante.
+
+La torta magica al cacao è adatta per occasioni speciali come compleanni, feste e cene eleganti. Può essere servita come dolce principale o accompagnata da gelato o panna montata.
+
+Questa ricetta non è adatta per diete ipocaloriche o a basso contenuto di grassi, dato che gli ingredienti principali sono latte, uova, zucchero e burro. Tuttavia, può essere consumata occasionalmente all'interno di una dieta bilanciata.
+
+Le persone con intolleranze al lattosio e al glutine dovrebbero evitare questa ricetta o adattarla utilizzando ingredienti alternativi, come il latte senza lattosio e la farina senza glutine. È importante verificare sempre l'etichetta degli ingredienti per assicurarsi che siano adatti alle proprie esigenze dietetiche.

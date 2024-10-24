@@ -1,0 +1,28 @@
+# Tris di tartine
+Categoria: Antipasti
+
+## Ingredienti
+- Pancarrè: 10 fette
+- Ricotta vaccina: 140 g
+- Stracchino: 60 g
+- Scorza di limone: (da grattugiare) 1
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Salmone affumicato: 70 g
+- Erba cipollina: q.b.
+- Pepe rosa: q.b.
+- Mortadella: a fette 50 g
+- Granella di pistacchi: 10 g
+- Pomodori secchi sott'olio: 2
+- Mandorle in scaglie: 10 g
+- Timo: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per realizzare il tris di tartine per prima cosa eliminate la crosta dalle fette di pancarré  e dividete ciascuna in  quadrati . Tenete da parte  e passate alla preparazione della crema base.Versate la ricotta in un mixer insieme allo stracchino , poi aggiungete la scorza di limone grattugiata , sale  e pepe.Condite con un filo d’olio  e frullate per amalgamare il tutto . Se non avete il mixer potete usare una frusta a mano per amalgamare. Dividete la crema ottenuta in  ciotoline .Tritate l’erba cipollina . Spalmate un cucchiaio di crema base su un quadratino di pancarré , poi aggiungete una fettina di salmone affumicato .Aromatizzate con un pizzico di erba cipollina  e una macinata di pepe rosa . Procedete in questo modo per tutte le altre tartine al salmone .Versate la granella di pistacchi in una delle ciotoline con la crema base , tenendone poca da parte per la decorazione. Frullate per amalgamare . Se non avete il mixer potete semplicemente miscelare i due ingredienti. Spalmate un cucchiaio di crema al pistacchio su un quadratino di pancarré .Aggiungete una fettina di mortadella , poi guarnite con della granella di pistacchi . Procedete in questo modo per tutte le altre tartine alla mortadella .Versate il timo in una delle ciotoline con la crema base , poi unite anche le mandorle a lamelle . Tenete una piccola parte di timo e di mandorle per la decorazione. Frullate per tritare e amalgamare il tutto . Se non avete il mixer potete tritare le lamelle di mandorle al coltello e poi mescolate con una frusta.Scolate e tritate finemente i pomodori secchi . Spalmate un cucchiaio di crema alle mandorle su un quadratino di pancarré , poi aromatizzate con qualche fogliolina di timo .Aggiungete delle mandorle a lamelle , qualche pezzettino di pomodoro secco  e una macinata di pepe nero. Il vostro tris di tartine è pronto !
+
+## Descrizione
+Il risultato finale di questa ricetta sono tre tartine diverse: una con ricotta e scorza di limone, una con salmone affumicato e erba cipollina e una con mortadella e granella di pistacchi. Le tartine saranno colorate, gustose e perfette da servire come antipasto in occasioni speciali.
+
+Queste tartine sono adatte a una dieta equilibrata e possono essere consumate da persone che seguono una dieta mediterranea o che desiderano un antipasto leggero e gustoso. Le persone con intolleranze al lattosio potrebbero dover evitare le tartine con ricotta e stracchino, mentre quelle con intolleranze al glutine possono sostituire il pancarrè con del pane senza glutine. Per ogni specifica intolleranza, è consigliabile verificare l'eventuale presenza di allergeni negli ingredienti utilizzati.

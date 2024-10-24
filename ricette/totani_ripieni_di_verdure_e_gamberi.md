@@ -1,0 +1,44 @@
+# Totani ripieni di verdure e gamberi
+Categoria: Secondi piatti
+
+## Ingredienti
+- Totani: (4 da 200 g l'uno) 800 g
+- Gamberi: 300 g
+- Peperoni rossi: 50 g
+- Peperoni verdi: 50 g
+- Peperoni gialli: 50 g
+- Carote: 50 g
+- Fagiolini: 50 g
+- Vino bianco: 30 ml
+- Olio extravergine d'oliva: 30 ml
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Rosmarino: q.b.
+- Gamberi: (gli scarti: teste e carapaci) q.b.
+- Vino bianco: 30 ml
+- Prezzemolo: q.b.
+- Cipolle bianche: ½
+- Porri: ½
+- Acqua: 500 ml
+- Burro: 25 g
+- Aglio: ½
+- Sale fino: 1 pizzico
+- Pepe nero in grani: q.b.
+- Pisellini: 500 g
+- Acqua: 200 ml
+- Olio extravergine d'oliva: 30 ml
+- Timo: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+
+## Preparazione
+Per preparare i totani ripieni di verdure e gamberi, iniziate a pulire i totani: staccate i tentacoli delicatamente  ed eliminate la penna di cartilagine. Quindi sciacquate bene il mantello  per eliminare le interiora; private la testa degli occhi e del dente centrale i tentacoli, quindi tenete i tentacoli da parte.  Poi pulite i gamberi: staccate la testa private i gamberi del carapace e metteteli da parte : con le teste e i carapaci potete preparare il fumetto: mondate e affettate la cipolla , affettate anche il porro, quindi in un tegame versate l'acqua, la cipolla, il porro, mezzo spicchi d'aglio, le teste e i carapaci dei gamberi, il prezzemolo, il pepe in grani .Ponete tutto sul fuoco medio , fate cuocere e di tanto in tanto eliminate i residui che si formeranno in superficie aiutandovi con una schiumarola. Mentre il fumetto cuoce, dedicatevi alle verdure: sciacquate i peperoni, togliete la calotta, tagliateli a metà ed eliminate i semini interni . Quindi riduceteli a striscioline di mezzo centimetro .procedete allo stesso modo con le carote, precedentemente spuntate e pelate ed eliminate le estreità dai fagiolini. poi unite tre striscioline di colore diverso e tagliatele in modo da pareggiarle . In una larga padella, fate saltare l'aglio con alcuni rametti di rosmarino , unite i peperoni i fagiolini e le carote , fate saltare il tutto per circa - minuti a fuoco dolce. Ponete  listarelle di verdure alternando i colori su un rettangolo di pellicola trasparente , poi adagiate due gamberi e ricoprite nuovamente con altre listarelle di verdure , quindi arrotolate la pellicola per sigillare le verdure, lasciando libere le estremità , dunque inseritele nel mantello del totano : in questo modo sarà più facile creare il ripienosfilate la pellicola delicatamente  e ripetete le stesse operazioni per tutti i totani . Oliate una padella capiente, adagiate i totani e accendete il fuoco basso, quindi sfumate con il vino bianco .girate i totani anche dall'altro lato  quindi filtrate il fumetto  e versatelo sui totani .coprite con il coperchio e cuocete per circa  minuti . In un altro tegame versate un filo d'olio, unite i piselli  e il timo .Versate anche l'acqua  e cuocete i piselli per circa  minuti- Una volta cotti frullateli  per ottenere una crema omogenea. Versatela a specchio sui piatti da portata e adagiate i camalari ripieni con verdure e gamberi  da far gustare ai vostri ospiti!
+
+## Descrizione
+Il risultato finale della ricetta "Totani ripieni di verdure e gamberi" sarà un piatto gustoso e colorato, con i totani ripieni di un mix di verdure e gamberi, arricchiti da un saporito sugo a base di gamberi e piselli. La presentazione sarà invitante e la combinazione di sapori freschi e del mare renderà il piatto molto appetitoso.
+
+Questo piatto è adatto per occasioni speciali o per una cena più elaborata, grazie alla sua presentazione raffinata e alla ricchezza di sapori. È perfetto per chi ama i frutti di mare e desidera offrire ai propri ospiti un piatto gourmet.
+
+La ricetta "Totani ripieni di verdure e gamberi" è adatta per una dieta equilibrata e variegata, ricca di proteine grazie ai gamberi e di vitamine e fibre grazie alle verdure. È indicata per chi segue una dieta mediterranea e vuole godere di un pasto completo e saporito.
+
+Le persone con intolleranze alimentari potrebbero trovare difficoltà a consumare questa ricetta se sono intolleranti al pesce, ai crostacei o alle verdure presenti nella preparazione. Si consiglia di verificare accuratamente gli ingredienti e di eventualmente apportare delle modifiche per adattare la ricetta alle esigenze personali.

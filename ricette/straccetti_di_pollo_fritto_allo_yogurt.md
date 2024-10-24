@@ -1,0 +1,25 @@
+# Straccetti di pollo fritto allo yogurt
+Categoria: Antipasti
+
+## Ingredienti
+- Petto di pollo: 200 g
+- Yogurt greco: 200 g
+- Curry: 1 cucchiaio
+- Pangrattato: q.b.
+- Prezzemolo: q.b.
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Olio di semi di arachide: (per friggere) q.b.
+- Fiocchi di sale: q.b.
+
+## Preparazione
+Per preparare gli straccetti di pollo fritti allo yogurt versate lo yogurt greco in una ciotola capiente , aromatizzate con curry in polvere , un pizzico di sale e pepe a piacere . Mescolate bene il tutto con una lecca pentole o un cucchiaio . Tuffate gli straccetti e assicuratevi che si ricoprano bene .Mettete a scaldare abbondante olio di semi di arachidi in un tegame, portatelo a una temperatura di circa -° da misurare con termometro da cucina. Nel frattempo che l'olio arriva a temperatura, impanate il pollo un pezzo o pochi pezzi alla volta . Poi friggeteli per qualche minuto: dovranno dorarsi. Scolate su carta assorbente . Ecco pronti i vostri straccetti di pollo allo yogurt, cospargeteli con fiocchi di sale e prezzemolo fresco tritato. Accompagnate con qualche fettina di limone .
+
+## Descrizione
+Il risultato finale sarà composto da straccetti di pollo marinati nello yogurt e curry, ricoperti di pangrattato croccante e fritti fino a renderli dorati e croccanti. Saranno arricchiti da una nota fresca di prezzemolo e una leggera speziatura di pepe nero e fiocchi di sale.
+
+Questo piatto è adatto come antipasto per una cena tra amici o per un aperitivo informale. Può essere servito anche come secondo piatto leggero, magari accoppiato con una fresca insalata.
+
+La ricetta è adatta alle diete proteiche e può essere inclusa in regimi alimentari che prediligono l'assunzione di proteine magre.
+
+Le persone con intolleranze al lattosio potrebbero trovarsi a disagio con lo yogurt greco presente nella ricetta. Inoltre, chi soffre di allergie al glutine dovrebbe scegliere un pangrattato senza glutine per la panatura. È opportuno verificare la presenza di specifiche allergie e intolleranze nei commensali prima di preparare e servire il piatto.

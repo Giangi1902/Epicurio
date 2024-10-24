@@ -1,0 +1,31 @@
+# Torta al cacao con crema di zabaione
+Categoria: Dolci
+
+## Ingredienti
+- Uova: (a temperatura ambiente) 4
+- Zucchero: 140 g
+- Cacao zuccherato in polvere: 50 g
+- Farina 00: 120 g
+- Lievito in polvere per dolci: 10 g
+- Marsala: 200 g
+- Tuorli: 6
+- Zucchero: 160 g
+- Farina 00: 30 g
+- Gelatina in fogli: 5 g
+- Panna fresca liquida: 600 g
+- Cioccolato fondente: 20 g
+- Panna fresca liquida: 40 g
+- Cioccolato fondente al 70%: sfoglie 15
+- Tartufi di cioccolato: al latte 11
+
+## Preparazione
+Per preparare la torta al cacao con crema di zabaione ponete la gelatina in fogli in ammollo in un contenitore con acqua fredda per almeno  minuti . In un pentolino portate a ebollizione il marsala, in modo che rilasci la parte alcolica . In una ciotola sbattete le uova insieme allo zucchero con uno sbattitore elettrico o con le fruste ,aggiungete la farina setacciata , mescolando bene per evitare la formazione di grumi; versate il composto che avete ottenuto nel marsala caldo, abbassando il fuoco . Fate addensare il tutto, quindi spegnete; strizzate la gelatina in fogli e aggiungetela alla crema calda e mischiate in modo da farla sciogliere completamente . Trasferite la crema in una ciotola  a ricopritela con pellicola trasparente a contatto , facendola raffreddare a temperatura ambiente e poi in frigorifero.Occupatevi ora del pan di spagna al cacao: prendete le uova e separate i tuorli dagli albumi. Nella ciotola di una planetaria dotata di fruste versate gli albumi a temperatura ambiente ; iniziate a lavorarli, dopodiché aggiungete metà dose di zucchero semolato . Tenete da parte gli albumi montati e lavorate i tuorli con lo zucchero restante con la planetaria o con uno sbattitore elettrico ;Arrestate la planetaria  e aggiungete gli albumi montati poco alla volta al composto a base di tuorli , mescolando il tutto .Unite la farina, il lievito  e il cacao setacciati , quindi mischiate con una spatola  fino ad ottenere un impasto denso ed omogeneo,che andrete a trasferire in una tortiera cerchio apribile del diametro di  cm precedentemente imburrata e foderata con carta da forno ; livellate la superficie con una spatola  e fate cuocere in forno statico preriscaldato a ° per  minuti (o a ° per  minuti se in forno ventilato). Una volta pronta , sfornate la torta e lasciatela raffreddare completamente.Togliete dal frigorifero la crema di zabaione e fatela rinvenire lavorandola con uno sbattitore elettrico, dopodichè montate la panna  e unitela alla crema ormai fredda ; aggiungetela poco alla volta, mescolando delicatamente dal basso verso l’alto perché il composto non si smonti .Una volta terminato , ponetela a raffreddare in frigorifero in una sac-à-poche senza bocchetta a cui potete praticare un foro. Quando la torta sarà fredda, con un coltello dividetela in  parti uguali (-);farcite la base di pan di spagna al cacao con una parte della crema allo zabaione con l'aiuto della sac-à-poche  e ricopritela appoggiando il secondo strato ; farcite anche il secondo disco con dell'altra crema, quindi ricoprite la torta con il terzo ed ultimo strato .Procedete ora alla decorazione della torta. Mettete in una ciotolina la restante crema di zabaione e con una spatola distribuitela sui lati della torta ; ponete la crema che vi avanza in una sac-à-poche con la bocchetta stellata e andate a decorare la superficie, realizzando dei ciuffetti lungo il bordo . Una volta terminato, fate raffreddare la torta in frigorifero per  ora. Successivamente fate aderire le sfoglie di cioccolato tutte intorno posizionandole in obliquo l'una accanto all'altra .Sempre con la crema allo zabaione fate dei ciuffetti decorativi lungo la base , quindi dedicatevi alla ganache: in un pentolino portate a ebollizione la panna fresca, poi unite il cioccolato fondente tritato . Spegnete il fuoco e mescolate con le fruste  fino a quando il cioccolato si sarà completamente sciolto.Ponete la ganche che avete ottenuto in una ciotola e lasciate intiepidire , dopodiché versatela al centro della torta in modo da coprire la superficie senza decorazione . Livellatela con una spatola ,infine distribuite i tartufi di cioccolato sui ciuffetti di crema, alternandoli  (tenetene uno da parte per la decorazione finale). Con la crema restante realizzate due righe dritte parallele (-),da ultimo ponete sulla ganache il tartufino al latte rimanente , che vi servirà come base per appoggiare la sfoglia di cioccolato . Una volta terminato, ponete la torta in frigoirfero per almeno  ora, dopodiché potrete servire la vostra splendida e gustosa torta al cacao con crema di zabaione !
+
+## Descrizione
+Il risultato finale della torta al cacao con crema di zabaione sarà un delizioso dolce composto da un morbido impasto al cacao, arricchito da una golosa crema di zabaione e guarnito con cioccolato fondente e tartufi di cioccolato al latte.
+
+Questo dolce è perfetto per occasioni speciali come compleanni, feste, o come dessert dopo un pranzo o una cena importante.
+
+La torta al cacao con crema di zabaione non è adatta a persone che seguono una dieta ipocalorica o a basso contenuto di zuccheri, in quanto contiene una discreta quantità di zucchero e ingredienti calorici come uova, panna e cioccolato. Tuttavia, può essere consumata con moderazione all'interno di una dieta equilibrata.
+
+Le persone con intolleranze alla gelatina dovrebbero evitare di consumare questa torta, in quanto la crema di zabaione contiene gelatina in fogli. È importante controllare attentamente l'etichetta degli ingredienti e eventualmente sostituire la gelatina con un agente gelificante alternativo.

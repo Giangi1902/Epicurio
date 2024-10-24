@@ -1,0 +1,53 @@
+# Tris di canapè di pan brioche con gamberi
+Categoria: Antipasti
+
+## Ingredienti
+- Farina Manitoba: 150 g
+- Farina 00: 100 g
+- Lievito di birra secco: 2 g
+- Zucchero: 30 g
+- Acqua: (a temperatura ambiente) 50 g
+- Sale fino: 1 pizzico
+- Uova: (piccole) 2 g
+- Burro: (ammorbidito) 75 g
+- Gamberi: (code) 8
+- Succo di limone: 10 g
+- Erba cipollina: 2 fili
+- Olio extravergine d'oliva: 15 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Zucchine: 50 g
+- Gamberi: (code) 4
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Aceto di mele: 10 g
+- Timo: 2 rametti
+- Salsa di soia: 15 g
+- Miele: 10 g
+- Scorza di lime: 1
+- Succo di lime: 10 g
+- Gamberi: (code) 4
+- Pancetta: (4 fette sottili) 40 g
+- Basilico: 30 g
+- Olio extravergine d'oliva: 15 g
+- Succo di limone: 10 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Tuorli: 2
+- Succo di limone: 25 g
+- Olio di semi: 250 g
+- Aceto di mele: 1 cucchiaino
+- Pepe nero: q.b.
+- Sale fino: q.b.
+- Paprika dolce: 1 pizzico
+- Zenzero in polvere: 1 pizzico
+
+## Preparazione
+Per realizzare il tris di canapè di pan brioche con gamberi iniziate dal pan brioche: versate le farine setacciate nella ciotola di una planetaria munita di foglia , Aggiungete il lievito disidratato (potete usare anche il lievito di birra fresco: in questo caso la dose da usare è  g), lo zucchero  e le uova poco alla volta .Unite anche l'acqua a temperatura ambiente , quindi azionate la foglia a velocità media. Quando gli ingredienti saranno ben raccolti intorno alla foglia, fermate la planetaria, sostituite la foglia con il gancio e azionate nuovamente la macchina; aggiungete il sale e il burro ammorbidito a temperatura ambiente a pezzetti poco alla volta , aspettando che sia assorbito un pezzetto prima di aggiungerne un altro. Fate incordare l’impasto al gancio fino a quando non sarà liscio e omogeneo. Trasferite l’impasto sulla spianatoia e lavoratelo per dargli una forma sferica. Mettetelo in una ciotola capiente, coprite con la pellicola  e lasciate lievitare per almeno  minuti in forno spento con la luce accesa.Spennellate uno stampo rettangolare x, cm con del burro . Quindi riprendete l'impasto e maneggiatelo brevemente, realizzando delle pieghe  e formate un bauletto delle stesse dimensioni dello stampo. Ponete il pan brioche nello stampo  e fatelo lievitare ancora  minuti coperto con pellicola (potete in alternativa spennellarlo con dell'uovo sbattuto con un cucchiaio di latte).Passato il tempo necessario, chiudete lo stampo con l'apposito coperchio in modo da ottenere una forma più rettangolare (altrimenti lasciatelo scoperto e il pan brioche avrà più spinta in cottura, verrà più alto) . Cuocete in forno statico preriscaldato a ° per  minuti (se forno ventilato a ° per  minuti). Una volta cotto, sfornatelo e lasciate intiepidire, quindi sformatelo e lasciatelo raffreddare completamente su una gratella. Una volta freddo, affettatelo in fette di , cm di spessore , tagliate via una strisciolina laterale per formare un rettangolo da dividere poi in due : ve ne serviranno  in totale (con il pan brioche avanzato potrete realizzare delle fette biscottate oppure degli sfiziosi crostini da servire con una zuppa ad esempio!). Disponeteli su una leccarda foderata con carta da forno  e tostatele sotto il grill a ° per tre minuti (fate attenzione che i rettangoli di pan brioche si dorino senza bruciarsi, potete girarli a metà cottura) . Una volta pronti sfornateli e lasciateli raffreddare.Per le salse di accompagnamento, iniziate dalla riduzione al basilico: ponete le foglie di basilico, unire sale, olio  e succo di limone ; quindi frullate il tutto con un frullatore ad immersione .Per la maionese: versate i tuorli, sale e pepe in una ciotola capiente. Iniziate a lavorare i tuorli con uno sbattitore elettrico, quindi versate a filo l'olio, poi unite il succo di limone  e continuate a montare . Se la maionese dovesse "impazzire", tenete da parte la maionese impazzita e in un altro recipiente mettete un altro tuorlo d’uovo; frullate aggiungendo un filo d’olio e poi, sempre nel recipiente, aggiungete un cucchiaino alla volta la maionese impazzita. Dovrete mescolare sempre nello stesso senso fino ad ottenere una salsa densa. Considerate che a volte, per vari motivi, non si riesce a calcolare l’esatta quantità di olio da adoperare per ottenere la maionese, quindi tenetene sempre un po’ in più di scorta; un’altra variabile può essere la scelta dell’olio stesso, che dipende dai gusti e dall’utilizzazione della maionese.Dividete la dose di maionese ottenuta in due ciotoline  e aromatizzatene una con la paprika  e l'altra con lo zenzero in polvere .Per le  canapè con tartare di gamberi: pulite i gamberi, sgusciandoli (-), poi incidete il dorso e prelevate l'intestino, il filetto nero, magari aiutandovi con uno stuzzicadenti : questa operazione ripetetela per la dose di gamberi di tutta la ricetta.Spremete il succo del limone e versatelo in una ciotolina (-); unite anche l'olio a filo emulsionando con una frusta a mano . Unite anche sale e pepe a piacere.Tritate quindi  gamberi di quelli puliti  e versateli in un'altra ciotolina; tritate l'era cipollina  e unite l'emulsione di olio e limone ai gamberi tritati . Tenete da parte in frigorifero coperto con pellicola fino al momento dell'utilizzo. Per le  canapè con tartare di gamberi: potete decidere di suddividere ulteriormente il pan brioche realizzando dei quadratini, quindi cospargete la superficie tostata con la riduzione al basilico , aggiungete la tartare  e decorate con un pezzetto di erba cipollina .Per le  canapè con zucchine e gamberi: lavate e spuntate la zucchina, quindi affettatela con una mandolina per ottenere  fette piuttosto sottili ; ponetele in una pirofila dal fondo alto e marinatele con olio, aceto di mele , sale e pepe. Passati - minuti, potete scolare bene le zucchine e tenerle da parte. Nel frattempo preparate anche i gamberi: ponete  code di gambero in una ciotolina, aggiungete la salsa di soia poi versate anche il miele , la scorza e il succo di lime , le foglioline di timo. Potete far caramellare in padella i gamberi con la marinatura per pochissimi minuti . Quindi spegnete il fuoco e tenete i gamberi da parte.Per le  canapè con zucchine e gamberi: cospargete il pan brioche con della maionese allo zenzero , create una rosellina di zucchine, arrotolando la fetta in verticale  e adagiatevi il gambero caramellato . Oppure avvolgete semplicemente la coda di gambero con la fettina di zucchina.Per le  canapè con gamberi e pancetta: dopo aver sgusciato i gamberi , avvolgeteli nelle fettine di pancetta  e scottateli per  minuto per lato in una padella antiaderente  in modo che il bacon risulti croccante all'esterno.Per le  canapè con gamberi e pancetta: cospargete la superficie del pan brioche con la maionese alla paprika , potete dividere i gamberi se preferite  e adagiarli sul pan brioche .
+
+## Descrizione
+Il tris di canapè di pan brioche con gamberi è un antipasto raffinato e gustoso, composto da tre diverse varianti di canapè. Il primo canapè è arricchito da gamberi marinate con succo di limone e erba cipollina. Il secondo canapè è preparato con zucchine grigliate e gamberi conditi con aceto di mele e timo. Il terzo canapè presenta gamberi avvolti in pancetta croccante e basilico fresco.
+
+Questo antipasto è perfetto per occasioni speciali o aperitivi eleganti, in cui si desidera offrire qualcosa di sofisticato e allo stesso tempo leggero. Le tre diverse varianti di canapè permettono di soddisfare i gusti di diversi commensali.
+
+La ricetta è adatta alle diete onnivore e può essere consumata da persone senza particolari restrizioni alimentari. Tuttavia, è importante assicurarsi che i gamberi siano freschi e di alta qualità per evitare eventuali problemi a persone allergiche ai crostacei. Si consiglia comunque di consultare un medico in caso di intolleranze alimentari specifiche.

@@ -1,0 +1,30 @@
+# Tagliatelle con melanzane, pesto e pomodorini
+Categoria: Primi piatti
+
+## Ingredienti
+- Tagliatelle all'uovo: 300 g
+- Pomodorini ciliegino: multicolore 200 g
+- Melanzane: 180 g
+- Basilico: q.b.
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Acqua: 120 g
+- Basilico: 50 g
+- Pinoli: 30 g
+- Pecorino: 15 g
+- Parmigiano Reggiano DOP: 15 g
+- Olio extravergine d'oliva: 150 g
+- Sale fino: q.b.
+
+## Preparazione
+Per realizzare le tagliatelle con melanzane, pesto e pomodorini per prima cosa realizzate il pesto senza aglio seguendo le indicazioni che trovate nella nostra scheda. Lavate e asciugate le melanzane, quindi spuntatele  e tagliatele prima a fette e poi a cubetti . Occupatevi dei pomodorini: dopo averli lavati e asciugati divideteli a metà .In un tegame scaldate un filo di olio d’oliva , versate le melanzane e rosolatele a fuoco medio per  minuti. Aggiungete anche i pomodorini , salate, pepate  e mescolate.Profumate il condimento con le foglie di basilico lavate asciugate .Versate circa  g di acqua . Cuocete per circa / minuti, o comunque fin quando l’acqua non si sarà asciugata e le melanzane risulteranno cotte, e spegnete .Nel frattempo ponete sul fuoco una pentola colma di acqua salata che servirà per la cottura della pasta.Cuocete le tagliatelle al dente . Scolate la pasta direttamente nel condimento , allungate con un mestolo di acqua di cottura .A questo punto incorporate anche il pesto  e saltate la pasta per amalgamare e insaporire  basteranno pochi minuti. Servite le tagliatelle con melanzane, pesto e pomodorini ben calde .
+
+## Descrizione
+Il risultato finale di questa ricetta sono delle tagliatelle condite con melanzane, pesto e pomodorini che presentano un mix di sapori freschi e deliziosi. Le tagliatelle saranno ricoperte da una salsa cremosa di pesto, arricchite dalle melanzane grigliate e dai pomodorini freschi.
+
+Questo piatto è adatto per una cena speciale o per un pranzo leggero in estate. È perfetto per chi ama i sapori mediterranei e desidera un piatto gustoso ma leggero.
+
+Le tagliatelle con melanzane, pesto e pomodorini sono adatte a chi segue una dieta equilibrata e salutare, in quanto presentano un mix di carboidrati, proteine e verdure. Sono adatte anche a chi segue una dieta vegetariana, in quanto non contengono carne o pesce.
+
+Le persone con intolleranze al glutine possono optare per tagliatelle senza glutine, mentre chi è intollerante al lattosio può sostituire il formaggio con alternative senza lattosio. Chi è intollerante al nichel dovrebbe evitare il basilico e i pomodorini, mentre chi è intollerante ai lieviti dovrebbe fare attenzione al tipo di pasta utilizzato.

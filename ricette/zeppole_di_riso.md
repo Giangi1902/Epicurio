@@ -1,0 +1,22 @@
+# Zeppole di riso
+Categoria: Dolci
+
+## Ingredienti
+- Riso: semi fino 250 g
+- Farina 00: 125 g
+- Miele: 200 g
+- Cannella in polvere: 1 pizzico
+- Latte intero: 150 ml
+- Lievito di birra secco: (o fresco 7 g) 2
+- Succo d'arancia: 65 ml
+- Scorza d'arancia: non trattata 1
+- Sale fino: 5 g
+- Olio di semi di arachide: q.b.
+
+## Preparazione
+Per realizzare le zeppole di riso per prima ponete sul fuoco una pentola dal bordo alto con abbondante acqua, salate l’acqua  versate il riso  e cuocetelo per circa  minuti. Quando il riso sarà cotto scolatelo e lasciatelo raffreddare .A parte sciogliete il lievito disidratato nel latte , intanto setacciate la farina nella ciotola con il riso ormai freddo , versate il latte nel quale avete sciolto il lievito  e mescolate con una forchetta per amalgamare il composto,aromatizzate con la scorza di arancia grattugiata , mescolate bene con un cucchiaio. Lasciate riposare l’impasto per circa mezz’ora , poi spianatelo su un piano leggermente infarinato e formate dei bastoncini ben affusolati della lunghezza di  cm circa .Intanto occupatevi della salsa di accompagnamento: spremete il succo di due arance (circa  ml) . Passate il succo attraverso un colino  e unitelo al miele aromatizzate la salsa con la cannella in polvere , mescolate il composto (-) e passatelo attraverso un colino a maglie strette per eliminare eventuali grumi e tenete da parte la salsa.Occupatevi ora della frittura: scaldate l’olio di semi in una padella e quando sarà ben caldo (circa ° ) tuffate le zeppole di riso  Una volta che le zeppole si saranno ben dorate su tutti i lati, toglietele dalla padella e fate scolare l'olio in eccesso su un foglio di carta assorbente . Le vostre zeppole di riso sono pronte per essere gustate accompagnate dalla golosa salsa al miele e arancia .
+
+## Descrizione
+Le zeppole di riso sono dolci fritti tipici della tradizione italiana, croccanti fuori e morbide dentro. Il riso conferisce loro una consistenza unica, mentre il miele e la cannella donano un aroma delicato e avvolgente. Il succo e la scorza d'arancia aggiungono una nota agrumata che bilancia perfettamente il dolce. Le zeppole di riso sono deliziose da gustare appena fritte e ancora calde, ma si mantengono ottime anche a temperatura ambiente.
+
+Queste zeppole di riso sono perfette per essere servite come dessert dopo un pasto a base di pietanze italiane tradizionali, oppure possono essere offerte come dolce durante feste e occasioni speciali. Grazie alla presenza del riso e alla ricetta senza uova, le zeppole di riso sono adatte anche a chi segue una dieta vegetariana. Tuttavia, non sono adatte a persone celiache in quanto contengono farina di frumento. Le zeppole di riso possono essere consumate da persone intolleranti al lattosio, sostituendo il latte intero con latte senza lattosio o una bevanda vegetale senza lattosio. Per le persone intolleranti al lievito, è possibile utilizzare un lievito alternativo come il bicarbonato di sodio.

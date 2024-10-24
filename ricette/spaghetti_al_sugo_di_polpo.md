@@ -1,0 +1,28 @@
+# Spaghetti al sugo di polpo
+Categoria: Primi piatti
+
+## Ingredienti
+- Spaghetti: 400 g
+- Polpo: (già pulito) 1 kg
+- Passata di pomodoro: 500 g
+- Concentrato di pomodoro: 20 g
+- Cipolle dorate: 100 g
+- Carote: 80 g
+- Sedano: 40 g
+- Pane: mollica 30 g
+- Peperoncino fresco: 1
+- Prezzemolo: 1 ciuffo
+- Olio extravergine d'oliva: q.b.
+- Sale fino: q.b.
+
+## Preparazione
+Per preparare gli spaghetti al sugo di polpo, per prima cosa tagliate il polpo a tocchetti di circa  cm , poi tritate il peperoncino . Mondate e tritate anche la cipolla, la carota e il sedano .Scaldate un giro d’olio in una padella capiente , aggiungete il trito  e soffriggete per - minuti a fuoco medio-basso, poi unite il polpo  e fatelo rosolare.Quando l’acqua rilasciata dal polpo sarà evaporata, versate la passata di pomodoro  e il concentrato , mescolate bene e coprite con il coperchio . Cuocete per un’ora abbondante a fuoco dolce, aggiungendo al bisogno un po’ di acqua calda.Nel frattempo tostate la mollica sbriciolata in una padella con poco olio  . Verso la fine del tempo di cottura del sugo, portate a bollore una pentola di acqua salata e cuocete gli spaghetti .Scolate la pasta molto al dente e terminate la cottura nella padella col condimento . In ultimo aromatizzate con il prezzemolo tritato  e amalgamate bene il tutto. Servite gli spaghetti al sugo di polpo aggiungendo la mollica croccante direttamente nel piatto !
+
+## Descrizione
+Risultato finale: Gli spaghetti al sugo di polpo sono un piatto ricco e saporito, con una consistenza morbida e cremosa grazie al sugo di polpo. Il gusto intenso del polpo si amalgama perfettamente con la passata di pomodoro e gli aromi delle verdure, creando un piatto che sazia e appaga il palato.
+
+Occasioni adatte: Questa ricetta è perfetta per un pranzo o una cena speciale, da servire agli ospiti o da preparare per una serata gourmet in famiglia. Gli spaghetti al sugo di polpo sono un piatto ricercato e raffinato, ideale per occasioni speciali.
+
+Dieta e regime alimentare: Questa ricetta è adatta alle persone che seguono una dieta mediterranea o che cercano un piatto gustoso ma nutriente. Gli spaghetti al sugo di polpo sono ricchi di proteine, fibre e vitamine, rendendoli un piatto completo e bilanciato.
+
+Intolleranze alimentari: Le persone con intolleranze al glutine possono sostituire gli spaghetti con una versione senza glutine, mentre chi soffre di intolleranza al lattosio può omettere il pane grattugiato dalla ricetta. Chi è allergico al pesce dovrebbe evitare questo piatto.

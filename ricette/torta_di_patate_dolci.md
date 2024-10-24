@@ -1,0 +1,30 @@
+# Torta di patate dolci
+Categoria: Dolci
+
+## Ingredienti
+- Burro: 125 g
+- Farina 00: 250 g
+- Zucchero a velo: 100 g
+- Tuorli: 2
+- Scorza di limone: 1
+- Patate dolci (o americane): 700 g
+- Uova: medie 2
+- Panna fresca liquida: 200 ml
+- Zucchero di canna: 50 g
+- Cannella in stecche: ½ cucchiaino
+- Noce moscata: q.b.
+- Arance: la scorza e il succo 1
+- Chiodi di garofano: la punta di 1 cucchiaino
+- Cacao amaro in polvere: 10 g
+
+## Preparazione
+Per realizzare la torta di patate dolci iniziate dalla preparazione della pasta frolla: mettete nel mixer la farina, un pizzico di sale ed il burro appena tolto dal frigo a tocchetti . Frullate il tutto fino ad ottenere un composto dall'aspetto sabbioso , aggiungete lo zucchero, la scorza di limone per aromatizzare l'impasto. Quindi versate i tuorli  e amalgamate velocemente il tutto  fino ad ottenere un impasto compatto ed abbastanza elastico.. Formate con l'impasto ottenuto una palla, avvolgetela con della pellicola trasparente  e mettete il tutto a riposare il frigo per almeno mezz'ora. Occupatevi della farcitura: sbucciate le patate , tagliatele a cubetti cuocete in una pentola colma di acqua  per - minuti circa, fino a quando non saranno morbide, fate la prova punzecchiandole con la forchetta. Scolatele  e riducetele in una purea con lo schiacciapatate , raccogliete la purea in una ciotola,aromatizzate con la noce moscata grattugiata , la scorza di arancia grattugiata , la polvere di chiodi di garofano e la cannella .Unite anche il cacao ,lo zucchero di canna e le uova intere e la panna fresca , mescolate con una spatola per amalgamare gli ingredienti , spremete il succo dell’arancia ,filtratelo traverso un colino per trattenere i semi  e poi incorporate anche il succo all’impasto . Imburrate e infarinate una teglia del diametro di  cm Tirate fuori dal frigorifero la pasta frolla, stendetela con il mattarello su una spianatoia leggermente infarinata , dovrete ottenere una sfoglia tonda spessa  cm che sia più larga della teglia in modo che copra i bordi dello stampo. A questo punto arrotolate la frolla sul mattarello e srotolatela sullo stampo , in questo modo eviterete che si spezzi la pasta. Fate aderire la frolla alla base e ai bordi aiutandovi con un pezzetto di impasto avvolto nella pellicola .Versate il ripieno nella base , e livellate la superficie con una spatola . Cuocete la torta in forno statico preriscaldato a ° per  ora (o in forno ventilato a ° per  minuti). La vostra torta di patate dolci è pronta per essere gustata !
+
+## Descrizione
+Il risultato finale sarà una deliziosa torta di patate dolci dal sapore unico e avvolgente, con una consistenza morbida e leggermente umida. La combinazione di patate dolci, spezie e agrumi darà alla torta un aroma invitante e particolare.
+
+Questa torta è perfetta per occasioni speciali come compleanni, feste o semplicemente per coccolarsi con un dolce unico e saporito. Può essere servita come dessert a fine pasto o come merenda golosa da gustare in compagnia.
+
+Questa ricetta è adatta per chi segue una dieta vegetariana, ma può essere facilmente resa vegana sostituendo il burro con un'alternativa vegetale e la panna con una crema vegetale. Le patate dolci, ricche di fibre e vitamine, rendono questa torta un'opzione più salutare rispetto ad altre ricette dolci tradizionali.
+
+Le persone con intolleranze alimentari possono mangiare questa torta, a meno che non siano intolleranti a specifici ingredienti presenti nella ricetta. Ad esempio, chi è intollerante al lattosio può evitare l'uso del burro e scegliere un'alternativa senza lattosio, mentre chi è intollerante al glutine può optare per una farina senza glutine. Chi è intollerante agli agrumi può evitare l'uso di arance o limone. In ogni caso, è sempre consigliabile controllare attentamente gli ingredienti e adattare la ricetta alle proprie esigenze e restrizioni alimentari.

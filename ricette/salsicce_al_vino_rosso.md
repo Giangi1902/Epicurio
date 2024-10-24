@@ -1,0 +1,23 @@
+# Salsicce al vino rosso
+Categoria: None
+
+## Ingredienti
+- Salsiccia: (circa 8) 600 g
+- Vino rosso: 500 g
+- Olio extravergine d'oliva: q.b.
+- Amido di mais (maizena): 30 g
+- Rosmarino: 1 rametto
+- Salvia: q.b.
+- Pane: (8 fette tostate) 200 g
+
+## Preparazione
+Per preparare le salsicce al vino rosso come prima cosa tritate insieme salvia e rosmarino . Prendete poi le salsicce e utilizzando uno stecchino realizzate dei fori ogni  cm circa, avendo cura di realizzarli su tutti i lati e per tutta la lunghezza . In questo modo il grasso della salsiccia potrà fuoriuscire e il vino riuscirà a penetrare meglio nella carne. Versate un filo d'olio in padella e lasciatelo scaldare. Aggiungete poi le salsicce e rosolatele bene su tutti i lati , ci vorranno circa  minuti. A questo punto spegnete il fuoco, aspettate alcuni secondi, quindi versate il vino  e accendete nuovamente la fiamma. Lasciate cuocere per altri  minuti.Aiutandovi con una pinza da cucina spostate le salsicce in un piatto da portata  e tenetele al caldo. Lasciate cuocere la salsa per altri  minuti. Poi aggiungete il trito di erbe aromatiche  e l'amido di mais .Mescolate fino a che non avrete ottenuto una cremina , poi filtratela e sistematela all'interno di un piatto dove avrete già posizionato i crostini , adagiate sopra le salsicce  e servite.
+
+## Descrizione
+Il risultato finale della ricetta "Salsicce al vino rosso" sarà un piatto saporito e succulento, grazie alla combinazione delle salsicce con il sapore intenso del vino rosso. Le salsicce saranno cotte lentamente nel vino rosso insieme a erbe aromatiche come rosmarino e salvia, che conferiranno ulteriore profondità di gusto al piatto. Le fette di pane tostate serviranno da base croccante e perfetta per accompagnare le salsicce e il sugo al vino.
+
+Le salsicce al vino rosso sono adatte per occasioni informali tra amici o in famiglia, ma possono essere elevate anche per un pranzo o una cena più raffinata se servite con contorni ricercati.
+
+Le salsicce al vino rosso sono adatte a una dieta onnivora. Tuttavia, è importante moderare il consumo di questo piatto per chi segue diete ipocaloriche o controllate, data la presenza di salsiccia e vino rosso che possono essere alimenti ricchi di grassi e calorie.
+
+Le persone con intolleranze al glutine potrebbero non poter consumare le fette di pane tostate se non sono preparate con pane senza glutine. Le salsicce potrebbero contenere derivati del glutine nella loro preparazione, quindi è sempre consigliabile verificare l'etichetta degli ingredienti. Le persone con intolleranze al lattosio dovrebbero prestare attenzione all'eventuale utilizzo di latticini o derivati del latte nella preparazione del piatto.

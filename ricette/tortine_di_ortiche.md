@@ -1,0 +1,29 @@
+# Tortine di ortiche
+Categoria: Antipasti
+
+## Ingredienti
+- Grana Padano DOP: 50 g
+- Pecorino: da grattugiare 50 g
+- Farina 00: 130 g
+- Burro: freddo di frigo 100 g
+- Latte intero: freddo 30 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Ricotta vaccina: 200 g
+- Uova: (circa 2) 110 g
+- Sale fino: q.b.
+- Pepe nero: q.b.
+- Noce moscata: q.b.
+- Ortiche: 400 g
+- Acqua: 150 g
+- Olio extravergine d'oliva: 30 g
+
+## Preparazione
+Per preparare le tortine di ortiche iniziate dalla pasta frolla al formaggio: versate la farina nella brocca di una planetaria munita di gancio a foglia . Unite anche i due tipi di formaggio grattugiato , il burro freddo tagliato a cubetti  e un pizzico di sale e pepe.Azionate la planetaria a velocità media e iniziate ad amalgamare gli ingredienti, aggiungete il latte freddo a filo , e fate lavorare fino a quando non si forma una massa piuttosto compatta  (se non avete una planetaria, potete realizzare questo impasto a mano). Trasferite l’impasto sul piano da lavoro (possibilmente freddo) e lavoratelo a mano quanto basta per dargli la forma di un panetto appiattito ,avvolgetelo con la pellicola trasparente , e lasciatelo riposare in frigo per  minuti. Nel frattempo preparate il ripieno. Per preparare il ripieno dovete per prima cosa pulire le ortiche, si consiglia di usare dei guanti in lattice per proteggere le mani da possibili tracce di sostanza urticante che potrebbero essere presenti sullo stelo e sulle foglie. Quindi sfogliate l’ortica, tenendo da parte le foglie ed eliminando gli steli: otterrete così  g di ortiche pulite . Mettete a bagno le foglie di ortica nell' acqua fredda, lavatele con cura e scolatele bene con un colapasta posto nel lavello . Poi sempre indossando i guanti tagliate le foglie di ortica con un coltello . In una pentola scaldate l’olio di oliva e versate l’ortica tagliata , coprite con l’acqua  e cuocete con il coperchio a fuoco medio per circa - minuti . A cottura ultimata salate, pepate, spegnete il fuoco, scolate le ortiche in modo che perdano il liquido in eccesso e lasciate raffreddare completamente . In una ciotola versate la ricotta e con una spatola da cucina ammorbiditela, poi aggiungete anche le uova  e mescolate o con una frusta o anche una forchetta. Insaporite con la noce moscata grattugiata , salate, pepate , per finire unite le ortiche raffreddate , mescolate per amalgamare il composto . Trascorso il tempo di riposo della frolla, riprendete il panetto, stendetelo su una spianatoia infarinata fino allo spessore di  mm .Utilizzando un coppapasta del diametro  cm, ricavate  dischi di pasta  (con la pasta in avanzo potete realizzare deliziosi biscottini salati al formaggio!). Poi prendete degli stampi per crostatine del diametro di  cm imburrateli e infarinateli, poi adagiate sopra i dischi di frolla  e fate aderire bene al fondo e al bordo, bucherellate il fondo con i rebbi di una forchetta .Farcite le tortine con il ripieno di ricotta e ortiche, avendo cura di riempire fino al bordo pareggiando la superficie con il dorso di un cucchiaio: per ciascuno stampino riuscirete ad inserire circa  g di ripieno . Posizionate le tortine su una leccarda  e cuocete in forno già caldo per  minuti a  c°. Terminata la cottura sfornate le vostre tortine di ortiche  e lasciatele intiepidire prima di servirle!
+
+## Descrizione
+Il risultato finale delle tortine di ortiche sarà delle sfiziose tortine salate, croccanti fuori e morbide dentro, con un cuore cremoso di ricotta e un sapore deciso dato dalle ortiche.
+
+Le tortine di ortiche sono adatte per un antipasto rustico e saporito, perfette da servire durante una cena con amici o in un buffet. Si possono gustare sia calde che fredde.
+
+Queste tortine sono adatte a persone che seguono una dieta lacto-ovo vegetariana, in quanto contengono formaggi e uova. Sono adatte anche a chi segue una dieta senza glutine, utilizzando farina senza glutine al posto della farina 00. Le persone con intolleranze al lattosio possono sostituire il latte con una versione senza lattosio e utilizzare formaggi senza lattosio. Le persone con intolleranze alle uova possono provare a sostituire le uova con una combinazione di acqua, olio e lievito.

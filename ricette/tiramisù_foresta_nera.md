@@ -1,0 +1,24 @@
+# Tiramisù foresta nera
+Categoria: Dolci
+
+## Ingredienti
+- Savoiardi: (circa 28) 300 g
+- Ciliegie: tipo duroni 250 g
+- Zucchero: 50 g
+- Kirsch: 75 g
+- Acqua: 300 g
+- Mascarpone: 500 g
+- Panna fresca liquida: 200 g
+- Zucchero: 25 g
+- Ciliegie: tipo duroni 6
+- Cioccolato fondente: 50 g
+
+## Preparazione
+Per preparare il tiramisù foresta nera cominciate dalla crema. In una bacinella versate la panna fredda di frigorifero, unite lo zucchero  e azionate le fruste prima a velocità media e poi un po’ più alta. In questo modo monterà perfettamente a neve ferma . Dopodiché lavorate il mascarpone con una spatola per qualche istante, così lo ammorbidirete .Unite la panna montata un po’ alla volta . Così con la prima cucchiaiata potrete stemperare il mascarpone ed il resto invece potrete inglobarlo con maggiore delicatezza . Una volta amalgamato il tutto versate in una sac-à-poche con bocchetta a fiore e lasciate riposare in frigorifero per almeno  minuti .Intanto occupatevi delle ciliegie. Sciacquatele brevemente e asciugatele , dopodiché tagliatele in  parti eliminando il picciolo ed il seme . Versate in una padella antiaderente insieme allo zucchero, accendete il fornello a temperatura media e lasciate scaldare qualche minuto .Non appena noterete il succo che fuoriesce dalle ciliegie aggiungete il liquore: fate moltissima attenzione all’eventuale fiammata di ritorno . Quando l’alcol è evaporato unite l’acqua  e portate a bollore dopodiché spegnete .In un colino versate le ciliegie e raccogliete il succo caldo lasciandolo intiepidire qualche istante . Nel frattempo assicuratevi che i savoiardi stiano perfettamente nella cornice estendibile da xcm e adagiata su un piatto (in alternativa andrà bene anche uno stampo rettangolare), quindi modellate una parte dei biscotti affinché non abbiano difficoltà ad entrare . Cominciate a bagnare i savoiardi uno alla volta, facendo attenzione a non inzupparli troppo e distribuiteli per tutto il perimetro .Sulla base andate a formare uno strato di crema  e cospargete con i duroni spadellati . Infine tornate a fare uno strato di savoiardi inzuppandoli nel restante liquido tiepido, stavolta però disponendoli in senso opposto a quello iniziale .Fate una leggera pressione con i palmi delle mani così da compattare bene  e per finire rivestite la superficie con ancora un po’ di crema . Livellate con la spatola per creare una superficie liscia e lasciate riposare in frigorifero per almeno  ore; tenete anche la restante crema in frigo .Sfilate la cornice  e passate alla decorazione. Riprendete la crema dal frigo e spremete  ciuffi distanziandoli tra loro, per aiutarvi immaginate di dividere il dolce in  porzioni . Grattugiate con un pelapatate il cioccolato e cospargete la parte senza ciuffi con i riccioli . Infine decorate i ciuffi con le ciliegie fresche . Ed ecco pronto il vostro buonissimo e scenografico tiramisù foresta nera !
+
+## Descrizione
+Il risultato finale di questa ricetta del Tiramisù foresta nera sarà un dolce cremoso e ricco di sapori, con l'accoppiata irresistibile del mascarpone e delle ciliegie, arricchito dal sapore deciso del cioccolato fondente. I savoiardi inzuppati nel kirsch e nella crema conferiranno al dolce una consistenza morbida e un gusto avvolgente.
+
+Questo Tiramisù foresta nera è perfetto per occasioni speciali come feste di compleanno, anniversari o cene eleganti. Può essere servito come dessert dopo un pranzo importante o come fine pasto in una cena romantica.
+
+Questa ricetta non è adatta a persone con intolleranze al lattosio, poiché contiene mascarpone e panna. Inoltre, non è adatta a persone intolleranti al glutine, poiché i savoiardi contengono farina di frumento. Tuttavia, è possibile adattare la ricetta utilizzando ingredienti senza glutine e lattosio per renderla adatta a persone con queste intolleranze.
