@@ -659,7 +659,6 @@ const logMessage = async () => {
     const daysOfWeek = ['domenica', 'lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato'];
     const dayOfWeek = daysOfWeek[nowItaly.weekday - 1];
     
-    console.log(nowItaly, currentTime)
     for (const user of users) {
         const [lunchHour, lunchMinute] = user.orario_pranzo.split(':').map(Number);
         const [dinnerHour, dinnerMinute] = user.orario_cena.split(':').map(Number);

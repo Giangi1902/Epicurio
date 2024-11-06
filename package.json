@@ -21,7 +21,6 @@
     "axios": "^1.7.7",
     "cors": "^2.8.5",
     "expo": "~51.0.28",
-    "expo-blur": "^13.0.2",
     "expo-device": "^6.0.2",
     "expo-image-manipulator": "^12.0.5",
     "expo-image-picker": "^15.0.7",

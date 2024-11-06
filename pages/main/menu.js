@@ -97,7 +97,6 @@ function Home() {
     };
 
 
-    //TODO: sistemare bottom tab bar
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={'#FFF7E8'} barStyle={"dark-content"} />
