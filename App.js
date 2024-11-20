@@ -15,7 +15,6 @@ import { usePushNotifications } from './pages/main/usePushNotifications.js';
 import { AppRegistry } from 'react-native';
 import Constants from 'expo-constants';
 import { StatusBar } from 'react-native';
-import { BlurView } from 'expo-blur';
 
 AppRegistry.registerComponent('main', () => App);
 
@@ -27,6 +26,7 @@ import Checklist from './pages/main/checklist.js';
 import Profile from './pages/main/profile.js';
 import Category from './pages/main/category.js';
 import GeoLocation from './pages/main/geolocation.js';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -52,13 +52,13 @@ function AuthStack({ navigation }) {
   }, []);
 
   return (
-    <TopTab.Navigator 
-      initialRouteName={"Signup"} 
-      screenOptions={{ 
-        tabBarStyle: { backgroundColor: "#9B0800" }, 
-        tabBarActiveTintColor: "white", 
-        tabBarInactiveTintColor: "#27241F", 
-        tabBarIndicatorStyle: { backgroundColor: "white" } 
+    <TopTab.Navigator
+      initialRouteName={"Signup"}
+      screenOptions={{
+        tabBarStyle: { backgroundColor: "#9B0800" },
+        tabBarActiveTintColor: "white",
+        tabBarInactiveTintColor: "#27241F",
+        tabBarIndicatorStyle: { backgroundColor: "white" }
       }}>
       <TopTab.Screen name="Login" component={Login} />
       <TopTab.Screen name="Signup" component={Signup} />
@@ -79,21 +79,23 @@ function MainTabs() {
   return (
     <BottomTab.Navigator
       screenOptions={{
-        tabBarActiveTintColor: "#27241F",
-        tabBarInactiveTintColor: "white",
+        tabBarActiveTintColor: "#0B7308",
+        tabBarInactiveTintColor: "#f7f7f7",
         tabBarStyle: {
-          backgroundColor: "rgba(75, 114, 175, 0.35)",
+          backgroundColor: "#ADC8AD",
           borderTopWidth: 0,
-          borderRadius: 25,
-          width: "85%",
+          borderTopRightRadius: 45,
+          borderTopLeftRadius: 45,
+          height: "7%",
           alignSelf: "center",
+          justifyContent: "center",
           position: "absolute",
-          left: 30,
-          height: 60,
-          elevation: 0,
-          shadowOpacity: 0,
-          bottom: 10
+          paddingVertical: 10,
         },
+        tabBarIconStyle: {
+          alignSelf: "center",
+          justifyContent: "center"
+        }
       }}
     >
       <BottomTab.Screen
@@ -103,7 +105,7 @@ function MainTabs() {
           headerShown: false,
           tabBarLabel: () => null,
           tabBarIcon: ({ color }) => (
-            <Ionicons name="home" color={color} size={30} />
+            <Ionicons name="home" color={color} size={25} />
           ),
         }}
       />
@@ -114,7 +116,7 @@ function MainTabs() {
           headerShown: false,
           tabBarLabel: () => null,
           tabBarIcon: ({ color }) => (
-            <Ionicons name="restaurant" color={color} size={30} />
+            <Ionicons name="restaurant" color={color} size={25} />
           ),
         }}
       />
@@ -125,7 +127,7 @@ function MainTabs() {
           headerShown: false,
           tabBarLabel: () => null,
           tabBarIcon: ({ color }) => (
-            <Ionicons name="map" color={color} size={30} />
+            <Ionicons name="map" color={color} size={25} />
           ),
         }}
       />
@@ -136,7 +138,7 @@ function MainTabs() {
           headerShown: false,
           tabBarLabel: () => null,
           tabBarIcon: ({ color }) => (
-            <Ionicons name="cart" color={color} size={30} />
+            <Ionicons name="cart" color={color} size={25} />
           ),
         }}
       />
@@ -147,7 +149,7 @@ function MainTabs() {
           headerShown: false,
           tabBarLabel: () => null,
           tabBarIcon: ({ color }) => (
-            <Ionicons name="person" color={color} size={30} />
+            <Ionicons name="person" color={color} size={25} />
           ),
         }}
       />
@@ -166,9 +168,7 @@ function App() {
 
   useEffect(() => {
     if (!fontsloaded) {
-      console.log("not loaded");
     } else {
-      console.log("loaded");
       SplashScreen.hideAsync();
     }
   }, [fontsloaded]);
@@ -177,15 +177,17 @@ function App() {
 
   return (
     <ApplicationProvider {...eva} theme={{ ...eva.dark, ...theme }}>
-      <SafeAreaView style={{ flex: 1, marginTop: Constants.statusBarHeight, backgroundColor: "#FFF7E8" }}>
-        <StatusBar translucent={true} backgroundColor={'black'} barStyle={"dark-content"} />
-        <NavigationContainer>
-          <Stack.Navigator initialRouteName="Auth">
-            <Stack.Screen name="Auth" component={AuthStack} options={{ headerShown: false }} />
-            <Stack.Screen name="Main" component={MainTabs} options={{ headerShown: false }} />
-          </Stack.Navigator>
-        </NavigationContainer>
-      </SafeAreaView>
+      <StatusBar translucent={true} backgroundColor={'black'} barStyle={"dark-content"} />
+      <SafeAreaProvider>
+        <SafeAreaView style={{ flex: 1, marginTop: Constants.statusBarHeight, backgroundColor: "#ADC8AD" }}>
+          <NavigationContainer>
+            <Stack.Navigator initialRouteName="Auth">
+              <Stack.Screen name="Auth" component={AuthStack} options={{ headerShown: false }} />
+              <Stack.Screen name="Main" component={MainTabs} options={{ headerShown: false }} />
+            </Stack.Navigator>
+          </NavigationContainer>
+        </SafeAreaView>
+      </SafeAreaProvider>
     </ApplicationProvider>
   );
 }

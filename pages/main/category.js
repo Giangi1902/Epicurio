@@ -36,9 +36,6 @@ function Category() {
                 if (response.data != "no") {
                     setDispensa(response.data)
                 }
-                else {
-                    console.log("problema nella richiesta degli ingredienti")
-                }
             }
             catch (e) {
                 console.log(e)

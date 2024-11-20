@@ -243,17 +243,19 @@ function Home() {
         // </Layout>
 
         <Layout style={styles.container}>
-            <StatusBar translucent={true} backgroundColor={'#FFF7E8'} barStyle={"dark-content"} />
+            <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
 
-            <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
-                <Text style={{ color: "black", fontSize: 40, fontFamily: "MyriadPro-Italic" }}>picurio</Text>
+            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
+                    {/* <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} /> */}
+                    <Text style={{ color: "#0B7308", fontSize: 40, fontFamily: "MyriadPro-Italic" }}>Epicurio</Text>
+                </View>
             </View>
 
             <ScrollView style={styles.scrollView}>
-                <LinearGradient colors={['#C8E8FF', '#05121B']} start={{ x: 0.4, y: 0.4 }} end={{ x: 0.4, y: 0.8 }} style={{ flex: 1, paddingVertical: 10, width: "90%", alignSelf: "center", borderRadius: 50 }}>
+                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", }}>
                     <View style={{ marginVertical: 10 }}>
-                        <Text style={{ alignSelf: "center", textAlign: "center", fontFamily: "MyriadPro-Regular", color: "black" }}>
+                        <Text style={{ alignSelf: "center", textAlign: "center", fontFamily: "MyriadPro-Regular", color: "#0B7308" }}>
                             OGGI, 6 NOVEMBRE
                         </Text>
                     </View>
@@ -261,30 +263,30 @@ function Home() {
                     <ScrollView style={{ flex: 1, marginBottom: 75 }} >
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "black", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Colazione</Text>
+                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Colazione</Text>
                                 <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
                             </View>
                         </View>
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "black", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Pranzo</Text>
+                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Pranzo</Text>
                                 <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
                             </View>
                         </View>
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "black", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Spuntino</Text>
+                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Spuntino</Text>
                                 <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
                             </View>
                         </View>
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "black", fontFamily: "MyriadPro-Regular" }}>Cena</Text>
+                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular" }}>Cena</Text>
                                 <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
                             </View>
                         </View>
                     </ScrollView>
-                </LinearGradient>
+                </View>
             </ScrollView>
         </Layout>
 
@@ -294,7 +296,7 @@ function Home() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#FFF7E8",
+        backgroundColor: "#F3F4F6",
     },
     imageContainer: {
         width: "80%",
@@ -437,12 +439,13 @@ const styles = StyleSheet.create({
         marginVertical: 10
     },
     scrollView: {
-        shadowColor: '#000', 
-        shadowOffset: { width: 0, height: 4 }, 
+        shadowColor: '#000',
+        shadowOffset: { width: 0, height: 4 },
         shadowOpacity: 0.3,
         shadowRadius: 5,
-        elevation: 5, 
-      },
+        elevation: 5,
+        marginTop: 15
+    },
 });
 
 

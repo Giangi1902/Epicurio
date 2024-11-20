@@ -19,7 +19,6 @@ function Login() {
   const handleLogin = async () => {
     try {
       const response = await axios.get(`https://my-expense-five.vercel.app/login/${username}/${password}`);
-      console.log(response)
       if (response.data.status === "ok") {
         await AsyncStorage.setItem("username", username)
         navigation.navigate("Main");
@@ -42,7 +41,6 @@ function Login() {
 
     const now = new Date();
     const secondsUntilNotification = (targetTime - now) / 1000;
-    console.log(secondsUntilNotification)
     return secondsUntilNotification > 0 ? secondsUntilNotification : 0;
   };
 
