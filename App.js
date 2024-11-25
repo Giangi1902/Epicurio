@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { StyleSheet, SafeAreaView, View } from 'react-native';
+import { StyleSheet, SafeAreaView, View, StatusBar, AppRegistry, Platform } from 'react-native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 import { createStackNavigator } from '@react-navigation/stack';
@@ -10,11 +10,28 @@ import { ApplicationProvider } from "@ui-kitten/components";
 import { default as theme } from "./theme.json";
 import * as SplashScreen from "expo-splash-screen";
 import { createMaterialTopTabNavigator } from '@react-navigation/material-top-tabs';
-import { useFonts } from "expo-font";
+import {
+  useFonts,
+  Poppins_100Thin,
+  Poppins_100Thin_Italic,
+  Poppins_200ExtraLight,
+  Poppins_200ExtraLight_Italic,
+  Poppins_300Light,
+  Poppins_300Light_Italic,
+  Poppins_400Regular,
+  Poppins_400Regular_Italic,
+  Poppins_500Medium,
+  Poppins_500Medium_Italic,
+  Poppins_600SemiBold,
+  Poppins_600SemiBold_Italic,
+  Poppins_700Bold,
+  Poppins_700Bold_Italic,
+  Poppins_800ExtraBold,
+  Poppins_800ExtraBold_Italic,
+  Poppins_900Black,
+  Poppins_900Black_Italic,
+} from '@expo-google-fonts/poppins';
 import { usePushNotifications } from './pages/main/usePushNotifications.js';
-import { AppRegistry } from 'react-native';
-import Constants from 'expo-constants';
-import { StatusBar } from 'react-native';
 
 AppRegistry.registerComponent('main', () => App);
 
@@ -32,7 +49,7 @@ const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
 const Stack = createStackNavigator();
 const HomeStack = createStackNavigator();
-SplashScreen.preventAutoHideAsync();
+// SplashScreen.preventAutoHideAsync();
 
 function AuthStack({ navigation }) {
   useEffect(() => {
@@ -86,15 +103,11 @@ function MainTabs() {
           borderTopWidth: 0,
           borderTopRightRadius: 45,
           borderTopLeftRadius: 45,
-          height: "7%",
-          alignSelf: "center",
-          justifyContent: "center",
-          position: "absolute",
-          paddingVertical: 10,
+          height: 50
         },
+        animation: "shift",
         tabBarIconStyle: {
-          alignSelf: "center",
-          justifyContent: "center"
+          marginTop: 15
         }
       }}
     >
@@ -159,11 +172,24 @@ function MainTabs() {
 
 function App() {
   const [fontsloaded] = useFonts({
-    'MyriadPro-Light': require('./assets/MyriadPro-Light.otf'),
-    'MyriadPro-Regular': require('./assets/MyriadPro-Regular.otf'),
-    'MyriadPro-Bold': require('./assets/MyriadPro-Bold.otf'),
-    'MyriadPro-SemiBold': require('./assets/MyriadPro-SemiBold.otf'),
-    'MyriadPro-Italic': require('./assets/MyriadPro-Italic.otf'),
+    Poppins_100Thin,
+    Poppins_100Thin_Italic,
+    Poppins_200ExtraLight,
+    Poppins_200ExtraLight_Italic,
+    Poppins_300Light,
+    Poppins_300Light_Italic,
+    Poppins_400Regular,
+    Poppins_400Regular_Italic,
+    Poppins_500Medium,
+    Poppins_500Medium_Italic,
+    Poppins_600SemiBold,
+    Poppins_600SemiBold_Italic,
+    Poppins_700Bold,
+    Poppins_700Bold_Italic,
+    Poppins_800ExtraBold,
+    Poppins_800ExtraBold_Italic,
+    Poppins_900Black,
+    Poppins_900Black_Italic,
   });
 
   useEffect(() => {
@@ -173,13 +199,12 @@ function App() {
     }
   }, [fontsloaded]);
 
-  usePushNotifications();
+  // usePushNotifications();
 
   return (
     <ApplicationProvider {...eva} theme={{ ...eva.dark, ...theme }}>
-      <StatusBar translucent={true} backgroundColor={'black'} barStyle={"dark-content"} />
       <SafeAreaProvider>
-        <SafeAreaView style={{ flex: 1, marginTop: Constants.statusBarHeight, backgroundColor: "#ADC8AD" }}>
+        <SafeAreaView style={styles.AndroidSafeArea}>
           <NavigationContainer>
             <Stack.Navigator initialRouteName="Auth">
               <Stack.Screen name="Auth" component={AuthStack} options={{ headerShown: false }} />
@@ -192,4 +217,13 @@ function App() {
   );
 }
 
+const styles = StyleSheet.create({ 
+  AndroidSafeArea: {
+    flex: 1,
+    backgroundColor: "#ADC8AD",
+    paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0
+  }
+});
+
 export default App;
+

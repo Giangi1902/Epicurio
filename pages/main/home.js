@@ -1,7 +1,7 @@
 import { Button, Input, Layout, Text } from "@ui-kitten/components";
 import axios from "axios";
 import React, { useCallback, useEffect, useState } from "react";
-import { View, Image, StyleSheet, TouchableOpacity, ImageBackground, Dimensions, Modal, ScrollView, StatusBar, SafeAreaView, Animated } from "react-native";
+import { View, Image, StyleSheet, TouchableOpacity, ImageBackground, Dimensions, Modal, ScrollView, StatusBar, SafeAreaView, Animated, PixelRatio, Platform } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
@@ -11,6 +11,18 @@ const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
 const CARD_HEIGHT = CARD_WIDTH * 0.7;
 
+const {
+    width: SCREEN_WIDTH,
+} = Dimensions.get('window');
+
+// based on iphone 5s's scale
+const scale = SCREEN_WIDTH / 320;
+
+export function normalize(size) {
+    const newSize = size * scale
+    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
+}
+
 function Home() {
     const [username, setUsername] = useState("");
     const navigation = useNavigation();
@@ -18,7 +30,6 @@ function Home() {
     const [data, setData] = useState([])
     const [mealListModalVisible, setMealListModalVisible] = useState(false);
     const [meals, setMeals] = useState([]);
-    const [mealtype, setMealType] = useState("")
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -33,10 +44,6 @@ function Home() {
         };
         fetchUsername();
     }, []);
-
-    const handleCategory = async (category) => {
-        navigation.navigate("Category", { categoria: category });
-    }
 
     const getCurrentDay = () => {
         const now = new Date();
@@ -79,214 +86,135 @@ function Home() {
         setMealListModalVisible(false);
     };
 
-    const handleEdit = async (item) => {
-        try {
-            const response = await axios.post(`https://my-expense-five.vercel.app/changeMeal`, {
-                id: item._id,
-                username: username,
-                orario: mealtype,
-                day: currentDay
-            })
-            handleNextMeal()
-            setMealListModalVisible(false)
-        }
-        catch (e) {
-            console.log(e)
-        }
+    const [glasses, setGlasses] = useState([{ id: 1, type: "whitewater" }]);
+
+    const handlePress = (id) => {
+        setGlasses((prevGlasses) => {
+            // Trova l'indice del bicchiere cliccato
+            const clickedIndex = prevGlasses.findIndex((glass) => glass.id === id);
+
+            // Se il bicchiere è whitewater, cambia il tipo in water e aggiungi un nuovo whitewater
+            if (prevGlasses[clickedIndex].type === "whitewater") {
+                // Cambia il tipo di whitewater in water e aggiungi un nuovo bicchiere whitewater
+                return [
+                    ...prevGlasses.slice(0, clickedIndex),
+                    { ...prevGlasses[clickedIndex], type: "water" }, // Cambia il bicchiere cliccato in "water"
+                    ...prevGlasses.slice(clickedIndex + 1), // Mantieni i bicchieri successivi
+                    { id: prevGlasses.length + 1, type: "whitewater" }, // Aggiungi un nuovo bicchiere whitewater
+                ];
+            }
+
+            // Se il bicchiere è water, cambialo in whitewater e elimina tutti i bicchieri successivi
+            if (prevGlasses[clickedIndex].type === "water") {
+                return prevGlasses
+                    .slice(0, clickedIndex + 1) // Mantieni solo i bicchieri fino a quello cliccato
+                    .map((glass, index) =>
+                        index === clickedIndex
+                            ? { ...glass, type: "whitewater" } // Cambia il tipo del bicchiere cliccato
+                            : glass
+                    );
+            }
+
+            return prevGlasses;
+        });
     };
 
+
     return (
-        // <Layout style={styles.container}>
-        //     <StatusBar translucent={true} backgroundColor={'#FFF7E8'} barStyle={"dark-content"} />
-        //     <Modal visible={mealListModalVisible} transparent animationType="fade" onRequestClose={closeMealListModal}>
-        //         <View style={styles.mealListModalBackground}>
-        //             <View style={styles.mealListModalContainer}>
-        //                 <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
-        //                     <Text style={styles.modalTitle}>Scegli un Piatto</Text>
-        //                     <TouchableOpacity onPress={closeMealListModal}>
-        //                         <Image source={require('../../images/close.png')} style={styles.closeButton} />
-        //                     </TouchableOpacity>
-        //                 </View>
-        //                 <ScrollView style={styles.mealList}>
-        //                     {meals.map((meal, index) => (
-        //                         <TouchableOpacity key={index} style={styles.mealItem} onPress={() => handleEdit(meal)}>
-        //                             <Text style={styles.mealItemText}>{meal.nome}</Text>
-        //                             <Text style={styles.mealItemSubText}>Ingredienti: {meal.ingredients.join(', ')}</Text>
-        //                             <Text style={styles.mealItemSubText}>Difficoltà: {meal.difficulty}</Text>
-        //                             <Text style={styles.mealItemSubText}>Tempo: {meal.timing} min</Text>
-        //                             <Text style={styles.mealItemSubText}>Rating: {meal.rating.toFixed(1)}</Text>
-        //                         </TouchableOpacity>
-        //                     ))}
-        //                 </ScrollView>
-        //             </View>
-        //         </View>
-        //     </Modal>
-
-        //     <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 15 }}>
-        //         <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
-        //         <Text style={{ color: "black", fontSize: 40, fontFamily: "MyriadPro-Italic" }}>picurio</Text>
-        //     </View>
-        //     {(data.pranzo || data.cena) ? (
-        //         <View style={styles.daysListContainer}>
-        //             <View style={styles.daysList}>
-        //                 <Text style={{ color: "black", fontSize: 22, fontFamily: "MyriadPro-Regular", textAlign: "center", marginVertical: 15 }}>I tuoi pasti di oggi:</Text>
-
-        //                 {data.pranzo ? (
-        //                     <TouchableOpacity style={[styles.dayButton, styles.commonButtonStyle]}>
-        //                         <View style={styles.dayHeader}>
-        //                             <Image source={require("../../images/sun.png")} style={styles.toggleIcon} />
-        //                             <Text style={[styles.dayText, { color: "black", flex: 1, textAlign: 'right' }]}>
-        //                                 {data.pranzo.nome}
-        //                             </Text>
-        //                         </View>
-        //                         <View style={styles.dayHeader}>
-        //                             <Image source={require("../../images/stopwatch.png")} style={styles.toggleIcon} />
-        //                             <Text style={[styles.dayText, { color: "black", flex: 1, textAlign: 'right' }]}>
-        //                                 {data.pranzo.timing} min
-        //                             </Text>
-        //                         </View>
-        //                     </TouchableOpacity>
-        //                 ) : (
-        //                     <TouchableOpacity style={[styles.addButton, styles.commonButtonStyle]} onPress={() => { openMealListModal(); setMealType("pranzo") }}>
-        //                         <Text style={styles.addButtonText}>Aggiungi pranzo</Text>
-        //                     </TouchableOpacity>
-        //                 )}
-        //                 <View style={[styles.separator, { alignSelf: "center", marginVertical: 15 }]} />
-        //                 {data.cena ? (
-        //                     <TouchableOpacity style={[styles.dayButton, styles.commonButtonStyle]}>
-        //                         <View style={styles.dayHeader}>
-        //                             <Image source={require("../../images/sun.png")} style={styles.toggleIcon} />
-        //                             <Text style={[styles.dayText, { color: "black", flex: 1, textAlign: 'right' }]}>
-        //                                 {data.cena.nome}
-        //                             </Text>
-        //                         </View>
-        //                         <View style={styles.dayHeader}>
-        //                             <Image source={require("../../images/stopwatch.png")} style={styles.toggleIcon} />
-        //                             <Text style={[styles.dayText, { color: "black", flex: 1, textAlign: 'right' }]}>
-        //                                 {data.cena.timing} min
-        //                             </Text>
-        //                         </View>
-        //                     </TouchableOpacity>
-        //                 ) : (
-        //                     <TouchableOpacity style={[styles.addButton, styles.commonButtonStyle]} onPress={() => { openMealListModal(); setMealType("cena") }}>
-        //                         <Text style={styles.addButtonText}>Aggiungi cena</Text>
-        //                     </TouchableOpacity>
-        //                 )}
-        //             </View>
-        //         </View>
-        //     ) : (
-        //         <View style={[styles.daysListContainer]}>
-        //             <View style={styles.daysList}>
-        //                 <Text style={{ color: "black", fontSize: 22, fontFamily: "MyriadPro-Regular", textAlign: "center", marginVertical: 20 }}>Programma i pasti di oggi</Text>
-        //                 <TouchableOpacity style={[styles.addButton, styles.commonButtonStyle]} onPress={() => { openMealListModal(); setMealType("pranzo") }}>
-        //                     <Text style={styles.addButtonText}>Aggiungi pranzo</Text>
-        //                 </TouchableOpacity>
-
-        //                 <View style={[styles.separator, { alignSelf: "center", marginVertical: 15 }]} />
-        //                 <TouchableOpacity style={[styles.addButton, styles.commonButtonStyle]} onPress={() => { openMealListModal(); setMealType("cena") }}>
-        //                     <Text style={styles.addButtonText}>Aggiungi cena</Text>
-        //                 </TouchableOpacity>
-        //             </View>
-        //         </View>
-        //     )}
-
-        //     <View style={{ alignItems: "center", flex: 1, marginTop: 15 }}>
-        //         <View style={styles.imageContainer}>
-        //             <ImageBackground source={require("../../emptyshelf.jpg")} style={styles.image}>
-        //                 <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-        //                     <TouchableOpacity onPress={() => handleCategory("riso")}>
-        //                         <Image source={require('../../images/rice.png')} style={[styles.icon]} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("pasta")}>
-        //                         <Image source={require('../../images/spaghetti.png')} style={[styles.icon]} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("panificio")}>
-        //                         <Image source={require('../../images/bread.png')} style={[styles.icon]} />
-        //                     </TouchableOpacity>
-        //                 </View>
-        //                 <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-        //                     <TouchableOpacity onPress={() => handleCategory("carne")}>
-        //                         <Image source={require('../../images/meat.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("pesce")}>
-        //                         <Image source={require('../../images/fish.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("latte e formaggi")}>
-        //                         <Image source={require('../../images/cheese.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                 </View>
-        //                 <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-        //                     <TouchableOpacity onPress={() => handleCategory("frutta e verdura")}>
-        //                         <Image source={require('../../images/healthy-food.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("surgelati")}>
-        //                         <Image source={require('../../images/frozen-food.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("biscotti")}>
-        //                         <Image source={require('../../images/cookie.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                 </View>
-        //                 <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-        //                     <TouchableOpacity onPress={() => handleCategory("bevande")}>
-        //                         <Image source={require('../../images/plastic.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("condimenti")}>
-        //                         <Image source={require('../../images/olive-oil.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                     <TouchableOpacity onPress={() => handleCategory("altro")}>
-        //                         <Image source={require('../../images/surprise-box.png')} style={styles.icon} />
-        //                     </TouchableOpacity>
-        //                 </View>
-        //             </ImageBackground>
-        //         </View>
-        //     </View>
-        // </Layout>
-
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
 
             <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    {/* <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} /> */}
-                    <Text style={{ color: "#0B7308", fontSize: 40, fontFamily: "MyriadPro-Italic" }}>Epicurio</Text>
+                    <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
+                    <Text style={{ color: "#0B7308", fontSize: normalize(38), fontFamily: "Poppins_600SemiBold_Italic" }}>picurio</Text>
                 </View>
             </View>
 
             <ScrollView style={styles.scrollView}>
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", }}>
                     <View style={{ marginVertical: 10 }}>
-                        <Text style={{ alignSelf: "center", textAlign: "center", fontFamily: "MyriadPro-Regular", color: "#0B7308" }}>
+                        <Text style={{ alignSelf: "center", textAlign: "center", fontFamily: "Poppins_600SemiBold", color: "#0B7308", fontSize: normalize(14) }}>
                             OGGI, 6 NOVEMBRE
                         </Text>
                     </View>
 
                     <ScrollView style={{ flex: 1, marginBottom: 75 }} >
                         <View style={styles.cardPasto}>
+                            <TouchableOpacity style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
+                                <Text style={styles.dayText}>COLAZIONE</Text>
+                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
+                            </TouchableOpacity>
+                        </View>
+                        <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Colazione</Text>
-                                <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
+                                <Text style={styles.dayText}>PRANZO</Text>
+                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
                             </View>
                         </View>
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Pranzo</Text>
-                                <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
+                                <Text style={styles.dayText}>SPUNTINO</Text>
+                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
                             </View>
                         </View>
                         <View style={styles.cardPasto}>
                             <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Spuntino</Text>
-                                <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
-                            </View>
-                        </View>
-                        <View style={styles.cardPasto}>
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={{ color: "#0B7308", fontFamily: "MyriadPro-Regular" }}>Cena</Text>
-                                <Image source={require("../../images/plusblack.png")} style={{ height: 20, width: 20, }}></Image>
+                                <Text style={styles.dayText}>CENA</Text>
+                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
                             </View>
                         </View>
                     </ScrollView>
                 </View>
+                <View
+                    style={{
+                        backgroundColor: "white",
+                        width: "95%",
+                        alignSelf: "center",
+                        borderRadius: 15,
+                        borderWidth: 1,
+                        borderColor: "#E2E8F0",
+                        marginTop: 15,
+                        padding: 10,
+                        alignItems: "center",
+                        flexWrap: "wrap",
+                    }}
+                >
+                    <Text
+                        style={[
+                            styles.dayText,
+                            {
+                                textAlign: "center", // Assicura che il testo sia centrato
+                                marginBottom: 10,
+                            },
+                        ]}
+                    >
+                        Aggiungi bicchieri d'acqua bevuti
+                    </Text>
+                    <View
+                        style={{
+                            flexDirection: "row",
+                            flexWrap: "wrap",
+                            justifyContent: "flex-start", // Allinea immagini a sinistra
+                            alignItems: "flex-start", // Non centra verticalmente
+                            width: "100%", // Assicura che occupi tutto lo spazio disponibile
+                        }}
+                    >
+                        {glasses.map((glass) => (
+                            <TouchableOpacity key={glass.id} onPress={() => handlePress(glass.id)}>
+                                <Image
+                                    source={
+                                        glass.type === "whitewater"
+                                            ? require("../../images/whitewater.png")
+                                            : require("../../images/water.png")
+                                    }
+                                    style={styles.iconBottle}
+                                />
+                            </TouchableOpacity>
+                        ))}
+                    </View>
+                </View>
+
             </ScrollView>
         </Layout>
 
@@ -297,6 +225,22 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "#F3F4F6",
+    },
+    dayText: {
+        color: "#0B7308",
+        fontFamily: "Poppins_500Medium",
+        alignSelf: "center",
+        fontSize: normalize(14)
+    },
+    iconContainer: {
+        height: 15,
+        width: 15,
+        alignSelf: "center"
+    },
+    iconBottle: {
+        height: 35,
+        width: 35,
+        marginBottom: 20
     },
     imageContainer: {
         width: "80%",
@@ -309,9 +253,6 @@ const styles = StyleSheet.create({
         width: '100%',
         height: '100%',
         resizeMode: 'contain',
-    },
-    iconContainer: {
-        height: "25%",
     },
     icon: {
         width: screenWidth * 0.1,
@@ -346,11 +287,6 @@ const styles = StyleSheet.create({
     dayHeader: {
         flexDirection: 'row',
         alignItems: 'center',
-    },
-    dayText: {
-        fontSize: 16,
-        fontFamily: "MyriadPro-Regular",
-        marginVertical: 1
     },
     toggleIcon: {
         width: 30,
@@ -425,7 +361,7 @@ const styles = StyleSheet.create({
     cardPasto: {
         width: "80%",
         alignSelf: "center",
-        backgroundColor: '#f7f7f7',
+        backgroundColor: 'white',
         borderRadius: 10,
         shadowColor: '#000',
         shadowOpacity: 0.2,
@@ -436,12 +372,15 @@ const styles = StyleSheet.create({
         shadowRadius: 2,
         elevation: 3,
         paddingVertical: 15,
-        marginVertical: 10
+        marginVertical: 10,
+        borderColor: "#097373",
+        borderWidth: 1
     },
     scrollView: {
+        paddingTop: 5,
         shadowColor: '#000',
-        shadowOffset: { width: 0, height: 4 },
-        shadowOpacity: 0.3,
+        shadowOffset: { width: 1, height: 2 },
+        shadowOpacity: 0.1,
         shadowRadius: 5,
         elevation: 5,
         marginTop: 15
