@@ -49,7 +49,7 @@ const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
 const Stack = createStackNavigator();
 const HomeStack = createStackNavigator();
-// SplashScreen.preventAutoHideAsync();
+SplashScreen.preventAutoHideAsync();
 
 function AuthStack({ navigation }) {
   useEffect(() => {
@@ -199,7 +199,7 @@ function App() {
     }
   }, [fontsloaded]);
 
-  // usePushNotifications();
+  usePushNotifications();
 
   return (
     <ApplicationProvider {...eva} theme={{ ...eva.dark, ...theme }}>

@@ -1,9 +1,19 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Layout, Text, CheckBox, Input } from "@ui-kitten/components";
-import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator } from "react-native";
+import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, PixelRatio, Dimensions } from "react-native";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
+
+const { width: SCREEN_WIDTH } = Dimensions.get('window');
+
+// based on iphone 5s's scale
+const scale = SCREEN_WIDTH / 320;
+
+export function normalize(size) {
+    const newSize = size * scale
+    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
+}
 
 function Checklist() {
     const [username, setUsername] = useState('');
@@ -282,19 +292,25 @@ function Checklist() {
 
     //TODO: aggiornare vercel post icone
     return (
-        <Layout style={{ flex: 1, backgroundColor: "#FFF7E8" }}>
+        <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
-                <View style={styles.titleContainer}>
-                    <View style={{ justifyContent: "center" }}>
-                        {isPageVisible ? <Text style={{ color: "black", fontFamily: 'MyriadPro-Bold', fontSize: 30 }}>Aggiungi ingrediente</Text> : <Text style={[styles.text, { color: "black", fontFamily: 'MyriadPro-Bold', fontSize: 36 }]}>Lista della spesa</Text>}
-                    </View>
-                    {isLoading && (
-                        <View style={[styles.loadingContainer, { position: 'absolute', top: 20, right: 20 }]}>
-                            <ActivityIndicator size="large" color="#000000" />
-                        </View>
 
-                    )}
-                    <View style={styles.separator} />
+                <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                    <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
+                        {isPageVisible ? (
+                            <Text style={{ color: "#0B7308", fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(30) }}>Aggiungi ingrediente</Text>
+                        ) : (
+                            <Text style={{ color: "#0B7308", fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(36) }}>Lista della spesa</Text>
+                        )}
+                    </View>
+                </View>
+                {isLoading && (
+                    <View style={[styles.loadingContainer, { position: 'absolute', top: 20, right: 20 }]}>
+                        <ActivityIndicator size="large" color="#000000" />
+                    </View>
+
+                )}
+                <View style={styles.titleContainer}>
                     <View>
                         {isPageVisible === false ? (
                             <View style={{ flexDirection: "row" }}>
@@ -306,6 +322,8 @@ function Checklist() {
                             null
                         )}
                     </View>
+                    <View style={styles.separator} />
+
                 </View>
                 {isPageVisible ? (
                     <View style={styles.listContainer}>
@@ -375,10 +393,10 @@ function Checklist() {
                                                     </View>
                                                     <View>
                                                         <View style={styles.buttonContainerAddMinus}>
-                                                            <TouchableOpacity style={[styles.buttonMinus, usingAsyncStorage ? {pointerEvents: "none"} : {pointerEvents: "auto"}]} onPress={() => handleRemoveChecklist(item.id)}>
+                                                            <TouchableOpacity style={[styles.buttonMinus, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={() => handleRemoveChecklist(item.id)}>
                                                                 <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                             </TouchableOpacity>
-                                                            <TouchableOpacity style={[styles.buttonAdd, usingAsyncStorage ? {pointerEvents: "none"} : {pointerEvents: "auto"}]} onPress={() => handleAddChecklist(item.id)}>
+                                                            <TouchableOpacity style={[styles.buttonAdd, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={() => handleAddChecklist(item.id)}>
                                                                 <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                                 {ingredients.find(qtyItem => qtyItem.id === item.id)?.quantity > 0 && (
                                                                     <View style={styles.quantityNotification}>
@@ -404,14 +422,14 @@ function Checklist() {
                     <View>
                         {isPageVisible === false ? (
                             <View>
-                                <TouchableOpacity style={[styles.bottomContainer, styles.checkContainer, usingAsyncStorage ? {pointerEvents: "none"} : {pointerEvents: "auto"}]} onPress={handleDispensa}>
+                                <TouchableOpacity style={[styles.bottomContainer, styles.checkContainer, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={handleDispensa}>
                                     <Image source={require('../../images/check.png')} style={styles.icon} />
                                 </TouchableOpacity>
                             </View>
                         ) : null}
                     </View>
                     <Animated.View style={{ justifyContent: "center" }}>
-                        <TouchableOpacity onPress={handleMainButtonAnimation} style={[styles.mainButton, usingAsyncStorage ? {pointerEvents: "none"} : {pointerEvents: "auto"}]}>
+                        <TouchableOpacity onPress={handleMainButtonAnimation} style={[styles.mainButton, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]}>
                             <Animated.View style={[styles.buttonContainer, { transform: [{ rotateZ: rotation.interpolate({ inputRange: [0, 1], outputRange: ['0deg', '180deg'] }) }] }]}>
                                 <Image source={isPageVisible ? require('../../images/times.png') : require('../../images/plus.png')} style={styles.iconBottom} />
                             </Animated.View>
@@ -538,7 +556,7 @@ const styles = StyleSheet.create({
         paddingTop: 20,
     },
     separator: {
-        width: '80%',
+        width: '95%',
         height: 1,
         backgroundColor: 'black',
         marginVertical: 10,

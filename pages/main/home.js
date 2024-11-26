@@ -5,15 +5,12 @@ import { View, Image, StyleSheet, TouchableOpacity, ImageBackground, Dimensions,
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
-import { LinearGradient } from 'expo-linear-gradient';
 
 const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
 const CARD_HEIGHT = CARD_WIDTH * 0.7;
 
-const {
-    width: SCREEN_WIDTH,
-} = Dimensions.get('window');
+const { width: SCREEN_WIDTH } = Dimensions.get('window');
 
 // based on iphone 5s's scale
 const scale = SCREEN_WIDTH / 320;
@@ -127,7 +124,7 @@ function Home() {
             <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
                     <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
-                    <Text style={{ color: "#0B7308", fontSize: normalize(38), fontFamily: "Poppins_600SemiBold_Italic" }}>picurio</Text>
+                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text>
                 </View>
             </View>
 
@@ -139,7 +136,7 @@ function Home() {
                         </Text>
                     </View>
 
-                    <ScrollView style={{ flex: 1, marginBottom: 75 }} >
+                    <ScrollView style={{ flex: 1, marginBottom: "10%"}} >
                         <View style={styles.cardPasto}>
                             <TouchableOpacity style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
                                 <Text style={styles.dayText}>COLAZIONE</Text>
@@ -166,55 +163,16 @@ function Home() {
                         </View>
                     </ScrollView>
                 </View>
-                <View
-                    style={{
-                        backgroundColor: "white",
-                        width: "95%",
-                        alignSelf: "center",
-                        borderRadius: 15,
-                        borderWidth: 1,
-                        borderColor: "#E2E8F0",
-                        marginTop: 15,
-                        padding: 10,
-                        alignItems: "center",
-                        flexWrap: "wrap",
-                    }}
-                >
-                    <Text
-                        style={[
-                            styles.dayText,
-                            {
-                                textAlign: "center", // Assicura che il testo sia centrato
-                                marginBottom: 10,
-                            },
-                        ]}
-                    >
-                        Aggiungi bicchieri d'acqua bevuti
-                    </Text>
-                    <View
-                        style={{
-                            flexDirection: "row",
-                            flexWrap: "wrap",
-                            justifyContent: "flex-start", // Allinea immagini a sinistra
-                            alignItems: "flex-start", // Non centra verticalmente
-                            width: "100%", // Assicura che occupi tutto lo spazio disponibile
-                        }}
-                    >
+                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginTop: 15, padding: 10, alignItems: "center", flexWrap: "wrap" }}>
+                    <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi bicchieri d'acqua bevuti </Text>
+                    <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "flex-start", alignItems: "flex-start", width: "100%" }}>
                         {glasses.map((glass) => (
                             <TouchableOpacity key={glass.id} onPress={() => handlePress(glass.id)}>
-                                <Image
-                                    source={
-                                        glass.type === "whitewater"
-                                            ? require("../../images/whitewater.png")
-                                            : require("../../images/water.png")
-                                    }
-                                    style={styles.iconBottle}
-                                />
+                                <Image source={glass.type === "whitewater" ? require("../../images/whitewater.png") : require("../../images/water.png")} style={styles.iconBottle} />
                             </TouchableOpacity>
                         ))}
                     </View>
                 </View>
-
             </ScrollView>
         </Layout>
 

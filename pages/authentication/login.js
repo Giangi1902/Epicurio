@@ -79,7 +79,7 @@ function Login() {
 
   return (
     <Layout style={styles.container}>
-      <StatusBar translucent={true} backgroundColor={'#FFF7E8'} barStyle={"dark-content"} />
+      <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
       <ImageBackground source={backgroundimg} style={styles.backgroundImage} resizeMode='repeat'>
         <View style={styles.imageContainer}>
           <View style={styles.backgroundWrapper} />
@@ -180,7 +180,7 @@ const styles = StyleSheet.create({
   },
   backgroundWrapper: {
     ...StyleSheet.absoluteFillObject, // Fills the parent element
-    backgroundColor: '#FFF7E8',
+    backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
     borderWidth: 1

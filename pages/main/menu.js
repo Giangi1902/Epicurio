@@ -1,16 +1,25 @@
-import { Button, Input, Layout, Text } from "@ui-kitten/components";
+import { Layout, Text } from "@ui-kitten/components";
 import axios from "axios";
-import React, { useCallback, useEffect, useState } from "react";
-import { View, Image, StyleSheet, TouchableOpacity, ImageBackground, Dimensions, Modal, ScrollView, StatusBar, SafeAreaView, Animated } from "react-native";
+import React, { useEffect, useState } from "react";
+import { View, Image, StyleSheet, TouchableOpacity, Dimensions, ScrollView, StatusBar, PixelRatio, TextInput } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
-import { LinearGradient } from 'expo-linear-gradient';
 
 
 const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
 const CARD_HEIGHT = CARD_WIDTH * 0.7;
+
+const { width: SCREEN_WIDTH } = Dimensions.get('window');
+
+// based on iphone 5s's scale
+const scale = SCREEN_WIDTH / 320;
+
+export function normalize(size) {
+    const newSize = size * scale
+    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
+}
 
 function Home() {
     const [username, setUsername] = useState("");
@@ -99,61 +108,100 @@ function Home() {
 
     return (
         <Layout style={styles.container}>
-            <StatusBar translucent={true} backgroundColor={'#FFF7E8'} barStyle={"dark-content"} />
-            <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 15 }}>
-                <Text style={{ color: "black", fontSize: 40, fontFamily: "MyriadPro-Bold" }}>Dispensa</Text>
-            </View>
-            <View style={{ alignItems: "center", flex: 1, marginTop: 15 }}>
-                <View style={styles.imageContainer}>
-                    <ImageBackground source={require("../../emptyshelf.jpg")} style={styles.image}>
-                        <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-                            <TouchableOpacity onPress={() => handleCategory("riso")}>
-                                <Image source={require('../../images/rice.png')} style={[styles.icon]} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("pasta")}>
-                                <Image source={require('../../images/spaghetti.png')} style={[styles.icon]} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("panificio")}>
-                                <Image source={require('../../images/bread.png')} style={[styles.icon]} />
-                            </TouchableOpacity>
-                        </View>
-                        <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-                            <TouchableOpacity onPress={() => handleCategory("carne")}>
-                                <Image source={require('../../images/meat.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("pesce")}>
-                                <Image source={require('../../images/fish.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("latte e formaggi")}>
-                                <Image source={require('../../images/cheese.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                        </View>
-                        <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-                            <TouchableOpacity onPress={() => handleCategory("frutta e verdura")}>
-                                <Image source={require('../../images/healthy-food.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("surgelati")}>
-                                <Image source={require('../../images/frozen-food.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("biscotti")}>
-                                <Image source={require('../../images/cookie.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                        </View>
-                        <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
-                            <TouchableOpacity onPress={() => handleCategory("bevande")}>
-                                <Image source={require('../../images/plastic.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("condimenti")}>
-                                <Image source={require('../../images/olive-oil.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={() => handleCategory("altro")}>
-                                <Image source={require('../../images/surprise-box.png')} style={styles.icon} />
-                            </TouchableOpacity>
-                        </View>
-                    </ImageBackground>
+            <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
+            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
+                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}>Dispensa</Text>
                 </View>
             </View>
+            <View style={{ alignItems: "center", marginTop: 15 }}>
+                <TextInput style={{ width: "95%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: normalize(12), fontFamily: "Poppins_500Medium" }}
+                    placeholder="Cerca nella dispensa..."
+                    placeholderTextColor="#A0A0A0"
+                />
+            </View>
+            <ScrollView style={styles.scrollView}>
+                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginBottom: 15 }}>
+                    <ScrollView style={{ flex: 1 }}>
+                        <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "space-evenly", marginHorizontal: 10 }}>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/rice.png')} style={[styles.icon]} />
+                                    <Text style={styles.categoryText}>RISO</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/spaghetti.png')} style={[styles.icon]} />
+                                    <Text style={styles.categoryText}>PASTA</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/bread.png')} style={[styles.icon]} />
+                                    <Text style={styles.categoryText}>PANE</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/meat.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>CARNE</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/fish.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>PESCE</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/cheese.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>LATTE E FORMAGGI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/healthy-food.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>FRUTTA E VERDURA</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/frozen-food.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>SURGELATI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/cookie.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>BISCOTTI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/plastic.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>BEVANDE</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/olive-oil.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>CONDIMENTI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={styles.cardPasto}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                                    <Image source={require('../../images/surprise-box.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>ALTRO</Text>
+                                </TouchableOpacity>
+                            </View>
+                        </View>
+                    </ScrollView>
+                </View>
+            </ScrollView>
         </Layout>
+
 
     );
 }
@@ -161,7 +209,7 @@ function Home() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: "#FFF7E8",
+        backgroundColor: "#F3F4F6",
     },
     imageContainer: {
         width: "80%",
@@ -176,121 +224,38 @@ const styles = StyleSheet.create({
         resizeMode: 'contain',
     },
     iconContainer: {
-        height: "25%",
+        height: 15,
+        width: 15,
+        alignSelf: "center"
+    },
+    scrollView: {
+        paddingTop: 5,
+        shadowColor: '#000',
+        shadowOffset: { width: 1, height: 2 },
+        shadowOpacity: 0.1,
+        shadowRadius: 5,
+        elevation: 5,
+        marginTop: 15
     },
     icon: {
         width: screenWidth * 0.1,
         height: screenWidth * 0.1,
         resizeMode: 'contain',
-        marginTop: "100%",
-    },
-    daysListContainer: {
-        width: CARD_WIDTH,
-        height: CARD_HEIGHT,
-        marginHorizontal: (screenWidth - CARD_WIDTH) / 2,
-        backgroundColor: '#fff',
-        borderRadius: 10,
-        shadowColor: '#000',
-        shadowOpacity: 0.2,
-        shadowOffset: {
-            width: 0,
-            height: 2,
-        },
-        shadowRadius: 2,
-        elevation: 3,
-        paddingVertical: 15,
     },
     daysList: {
         justifyContent: "space-around",
     },
-    dayButton: {
-        padding: 10,
-        borderRadius: 5,
-        margin: 10,
-    },
-    dayHeader: {
-        flexDirection: 'row',
-        alignItems: 'center',
-    },
-    dayText: {
-        fontSize: 16,
-        fontFamily: "MyriadPro-Regular",
-        marginVertical: 1
-    },
-    toggleIcon: {
-        width: 30,
-        height: 30,
-        resizeMode: 'contain',
-        marginVertical: 5,
-    },
-    separator: {
-        height: 1,
-        width: '90%',
-        backgroundColor: '#ccc',
-        marginVertical: 10,
-    },
-    mealListModalBackground: {
-        flex: 1,
-        backgroundColor: 'rgba(0, 0, 0, 0.5)',
-        justifyContent: 'center',
-        alignItems: 'center',
-    },
-    mealListModalContainer: {
-        width: '80%',
-        backgroundColor: 'white',
-        borderRadius: 10,
-        padding: 20,
-        height: CARD_HEIGHT * 1.5
-    },
-    modalTitle: {
-        fontSize: 22,
-        color: "black",
-        fontFamily: "MyriadPro-Bold"
-    },
-    mealList: {
-        marginTop: 20,
-    },
-    mealItem: {
-        padding: 10,
-        borderBottomWidth: 1,
-        borderBottomColor: '#ccc',
-    },
-    mealItemText: {
-        fontSize: 18,
-        fontFamily: "MyriadPro-SemiBold",
-        color: "black"
-    },
-    mealItemSubText: {
-        fontSize: 16,
-        color: "black",
-        fontFamily: "MyriadPro-Light"
-    },
-    closeButton: {
-        width: 25,
-        height: 25,
-        resizeMode: 'contain',
-        marginHorizontal: 15,
-    },
-    addButton: {
-        justifyContent: "center",
-        alignItems: "center",
-        padding: 10,
-        borderRadius: 5,
-        margin: 10,
-    },
-    addButtonText: {
-        fontSize: 20,
-        fontFamily: "MyriadPro-Regular",
-        color: "black",
-    },
-    commonButtonStyle: {
-        height: CARD_HEIGHT / 2,
-        justifyContent: 'center',
+    categoryText: {
+        color: "#0B7308",
+        fontFamily: "Poppins_500Medium",
+        alignSelf: "center",
+        fontSize: normalize(12),
+        marginTop: 15
     },
     cardPasto: {
-        width: "80%",
+        width: "40%",
         alignSelf: "center",
-        backgroundColor: '#f7f7f7',
+        backgroundColor: 'white',
         borderRadius: 10,
         shadowColor: '#000',
         shadowOpacity: 0.2,
@@ -301,8 +266,10 @@ const styles = StyleSheet.create({
         shadowRadius: 2,
         elevation: 3,
         paddingVertical: 15,
-        marginVertical: 10
-    }
+        marginVertical: 10,
+        borderColor: "#097373",
+        borderWidth: 1
+    },
 });
 
 

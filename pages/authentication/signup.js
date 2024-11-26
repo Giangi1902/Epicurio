@@ -214,7 +214,7 @@ const styles = StyleSheet.create({
   },
   backgroundWrapper: {
     ...StyleSheet.absoluteFillObject, // Fills the parent element
-    backgroundColor: '#FFF7E8',
+    backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
     borderWidth: 1

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity } from "react-native";
+import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, PixelRatio } from "react-native";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
@@ -7,6 +7,17 @@ import { Layout, Text, Button } from "@ui-kitten/components";
 
 const { width: screenWidth } = Dimensions.get('window');
 const circleSize = screenWidth * 0.55;
+
+const { width: SCREEN_WIDTH } = Dimensions.get('window');
+
+// based on iphone 5s's scale
+const scale = SCREEN_WIDTH / 320;
+
+export function normalize(size) {
+    const newSize = size * scale
+    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
+}
+
 
 function Profile() {
     const [orariopranzo, setOrarioPranzo] = useState("");
@@ -77,8 +88,10 @@ function Profile() {
 
     return (
         <Layout style={styles.container}>
-            <View>
-                <Text style={[styles.text, { color: "black", fontFamily: 'MyriadPro-Bold', fontSize: 36, alignSelf: "center", marginTop: 20 }]}> Profilo </Text>
+            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
+                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}>Profilo</Text>
+                </View>
             </View>
             {loading ? (
                 <View style={styles.profileContainer}>
@@ -122,8 +135,7 @@ function Profile() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        paddingHorizontal: 20,
-        backgroundColor: "#FFF7E8"
+        backgroundColor: "#F3F4F6"
     },
     profileContainer: {
         alignItems: 'center',
