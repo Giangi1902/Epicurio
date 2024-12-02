@@ -4,16 +4,7 @@ import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, Scr
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
-
-const { width: SCREEN_WIDTH } = Dimensions.get('window');
-
-// based on iphone 5s's scale
-const scale = SCREEN_WIDTH / 320;
-
-export function normalize(size) {
-    const newSize = size * scale
-    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
-}
+import { normalize } from "../main/home";
 
 function Checklist() {
     const [username, setUsername] = useState('');
@@ -305,7 +296,7 @@ function Checklist() {
                     </View>
                 </View>
                 {isLoading && (
-                    <View style={[styles.loadingContainer, { position: 'absolute', top: 20, right: 20 }]}>
+                    <View style={[styles.loadingContainer, { position: 'absolute', top: 10, right: 10 }]}>
                         <ActivityIndicator size="large" color="#000000" />
                     </View>
 
@@ -315,7 +306,7 @@ function Checklist() {
                         {isPageVisible === false ? (
                             <View style={{ flexDirection: "row" }}>
                                 <View>
-                                    <Text style={{ color: "black", fontSize: 22, fontFamily: 'MyriadPro-Regular' }}>Totale: {totalPrice}€</Text>
+                                    <Text style={{ color: "black", fontSize: 22, fontFamily: 'Poppins_600SemiBold' }}>Totale: {totalPrice}€</Text>
                                 </View>
                             </View>
                         ) : (
@@ -365,7 +356,7 @@ function Checklist() {
                         <View style={styles.listContainer}>
                             <ScrollView style={{ marginBottom: -50 }} showsVerticalScrollIndicator={false}>
                                 {ingredients.length === 0 ? (
-                                    <Text style={{ color: "black", fontFamily: 'MyriadPro-Regular', textAlign: 'center' }}>Non sono presenti ingredienti nella lista della spesa</Text>
+                                    <Text style={{ color: "black", fontFamily: 'Poppins_400Regular', textAlign: 'center' }}>Non sono presenti ingredienti nella lista della spesa</Text>
                                 ) : (
                                     ingredients.map((item, index) => (
                                         item.quantity > 0 ?
@@ -373,7 +364,7 @@ function Checklist() {
                                                 {index === 0 || item.category !== ingredients[index - 1]?.category ? (
                                                     <View style={{ alignItems: 'center' }}>
 
-                                                        <Text style={{ fontSize: 20, textAlign: "center", color: "gray", fontFamily: 'MyriadPro-Light' }}>{item.category}</Text>
+                                                        <Text style={{ fontSize: normalize(16), textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.category}</Text>
                                                         <View style={[styles.separateCategory, { width: '60%' }]} />
 
                                                     </View>
@@ -382,11 +373,11 @@ function Checklist() {
                                                 <View key={item.id} style={[styles.itemContainer, (index === ingredients.length - 1) && styles.lastItemContainer]}>
                                                     <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)} />
                                                     <View style={styles.itemTextContainer}>
-                                                        <Text style={[styles.itemText, { fontFamily: 'MyriadPro-Regular', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                        <Text style={[styles.itemText, { fontFamily: 'Poppins_400Regular', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
                                                             {item.nome}
                                                         </Text>
                                                         {prices.find(price => price.id === item.id) && (
-                                                            <Text style={[styles.itemPrice, { fontFamily: 'MyriadPro-Light', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                            <Text style={[styles.itemPrice, { fontFamily: 'Poppins_300Light', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
                                                                 {((ingredients.find(qty => qty.id === item.id)?.quantity) * prices.find(price => price.id === item.id).cost.toFixed(2)).toFixed(2)}€
                                                             </Text>
                                                         )}
@@ -468,11 +459,10 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     itemText: {
-        fontSize: 20
+        fontSize: normalize(16)
     },
     itemPrice: {
-        fontSize: 18,
-        color: 'white',
+        fontSize: normalize(14)
     },
     checkedText: {
         textDecorationLine: 'line-through',

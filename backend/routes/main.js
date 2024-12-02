@@ -643,7 +643,6 @@ const sendPushNotification = async (message) => {
 
         // Send the push notification
         const response = await expo.sendPushNotificationsAsync([message]);
-        console.log(response);
     } catch (error) {
         console.error('Error sending push notification:', error);
     }

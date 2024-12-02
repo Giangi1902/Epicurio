@@ -1,10 +1,11 @@
-import { Button, Input, Layout, Text } from "@ui-kitten/components";
+import { Layout, Text } from "@ui-kitten/components";
 import axios from "axios";
-import React, { useCallback, useEffect, useState } from "react";
-import { View, Image, StyleSheet, TouchableOpacity, ImageBackground, Dimensions, Modal, ScrollView, StatusBar, SafeAreaView, Animated, PixelRatio, Platform } from "react-native";
+import React, { useEffect, useState } from "react";
+import { View, Image, StyleSheet, TouchableOpacity, Dimensions, ScrollView, StatusBar, PixelRatio } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
+import CardPasto from "../components/cardPasto";
 
 const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
@@ -137,34 +138,14 @@ function Home() {
                     </View>
 
                     <ScrollView style={{ flex: 1, marginBottom: "10%"}} >
-                        <View style={styles.cardPasto}>
-                            <TouchableOpacity style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={styles.dayText}>COLAZIONE</Text>
-                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
-                            </TouchableOpacity>
-                        </View>
-                        <View style={styles.cardPasto}>
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={styles.dayText}>PRANZO</Text>
-                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
-                            </View>
-                        </View>
-                        <View style={styles.cardPasto}>
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={styles.dayText}>SPUNTINO</Text>
-                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
-                            </View>
-                        </View>
-                        <View style={styles.cardPasto}>
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
-                                <Text style={styles.dayText}>CENA</Text>
-                                <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
-                            </View>
-                        </View>
+                        <CardPasto text="COLAZIONE"></CardPasto>
+                        <CardPasto text="PRANZO"></CardPasto>
+                        <CardPasto text="SPUNTINO"></CardPasto>
+                        <CardPasto text="CENA"></CardPasto>
                     </ScrollView>
                 </View>
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginTop: 15, padding: 10, alignItems: "center", flexWrap: "wrap" }}>
-                    <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi bicchieri d'acqua bevuti </Text>
+                    <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi litri d'acqua bevuti </Text>
                     <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "flex-start", alignItems: "flex-start", width: "100%" }}>
                         {glasses.map((glass) => (
                             <TouchableOpacity key={glass.id} onPress={() => handlePress(glass.id)}>
@@ -196,8 +177,8 @@ const styles = StyleSheet.create({
         alignSelf: "center"
     },
     iconBottle: {
-        height: 35,
-        width: 35,
+        height: 50,
+        width: 50,
         marginBottom: 20
     },
     imageContainer: {

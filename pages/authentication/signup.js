@@ -19,7 +19,8 @@ export default function Signup() {
   const navigation = useNavigation();
   const [showPranzoPicker, setShowPranzoPicker] = useState(false);
   const [showCenaPicker, setShowCenaPicker] = useState(false);
-  const { expoPushToken, notification } = usePushNotifications()
+  const { expoPushToken, notification } = useState("")
+  // usePushNotifications()
   const [selectedPranzoTime, setSelectedPranzoTime] = useState(null);
   const [selectedCenaTime, setSelectedCenaTime] = useState(null);
 

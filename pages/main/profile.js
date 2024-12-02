@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, PixelRatio } from "react-native";
+import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, PixelRatio, ScrollView } from "react-native";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
@@ -93,41 +93,41 @@ function Profile() {
                     <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}>Profilo</Text>
                 </View>
             </View>
-            {loading ? (
-                <View style={styles.profileContainer}>
-                    <ActivityIndicator size="large" color="#000000" />
-                    <View style={styles.separator} />
-                </View>
-            ) : username === "" ? (
-                <Text>Username non esistente</Text>
-            ) : (
-                <View style={styles.profileContainer}>
-                    <View style={styles.circleContainer}>
-                        <Image source={require('../../images/profile.png')} style={styles.circleImage} />
+            <ScrollView style={{width: "90%", alignSelf: "center"}} showsVerticalScrollIndicator={false}>
+                {loading ? (
+                    <View style={styles.profileContainer}>
+                        <ActivityIndicator size="large" color="#000000" />
+                        <View style={styles.separator} />
                     </View>
-                    <Text style={styles.usernameText}>{username}</Text>
-                    <View style={styles.separator} />
-                    <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
-                        <Text style={styles.infoText}>Orario di pranzo:</Text>
-                        <Text style={styles.descriptionText}>{orariopranzo}</Text>
-                    </View>
-                    <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
-                        <Text style={styles.infoText}>Orario di cena:</Text>
-                        <Text style={styles.descriptionText}>{orariocena}</Text>
-                    </View>
-                    <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
-                        <Text style={styles.infoText}>Il tuo supermercato preferito:</Text>
-                        <Text style={styles.descriptionText}>{market}</Text>
-                    </View>
-                </View>
-            )}
-            <View style={styles.separator} />
-            <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
-                <Text style={{ color: "white", fontSize: 20, fontFamily: "MyriadPro-SemiBold", alignSelf: "center", justifyContent: "center" }}>Logout</Text>
-            </TouchableOpacity>
-            <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
-                <Text style={{ color: "white", fontSize: 20, fontFamily: "MyriadPro-SemiBold", alignSelf: "center", justifyContent: "center" }}>Elimina account</Text>
-            </TouchableOpacity>
+                ) : username === "" ? (
+                    <Text>Username non esistente</Text>
+                ) : (
+                    <ScrollView>
+                        <View style={styles.profileContainer}>
+                            <View style={styles.circleContainer}>
+                                <Image source={require('../../images/profile.png')} style={styles.circleImage} />
+                            </View>
+                            <Text style={styles.usernameText}>{username}</Text>
+                            <View style={styles.separator} />
+                            <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
+                                <Text style={styles.infoText}>Orario di pranzo:</Text>
+                                <Text style={styles.descriptionText}>{orariopranzo}</Text>
+                            </View>
+                            <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
+                                <Text style={styles.infoText}>Orario di cena:</Text>
+                                <Text style={styles.descriptionText}>{orariocena}</Text>
+                            </View>
+                        </View>
+                    </ScrollView>
+                )}
+                <View style={styles.separator} />
+                <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
+                    <Text style={{ color: "white", fontSize: 20, fontFamily: "Poppins_500Medium", alignSelf: "center", justifyContent: "center" }}>Logout</Text>
+                </TouchableOpacity>
+                <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
+                    <Text style={{ color: "white", fontSize: 20, fontFamily: "Poppins_500Medium", alignSelf: "center", justifyContent: "center" }}>Elimina account</Text>
+                </TouchableOpacity>
+            </ScrollView>
         </Layout>
     );
 }
@@ -155,19 +155,19 @@ const styles = StyleSheet.create({
     },
     usernameText: {
         color: "black",
-        fontFamily: "MyriadPro-Bold",
+        fontFamily: "Poppins_600SemiBold",
         fontSize: 28,
         marginBottom: 10,
     },
     infoText: {
         color: "black",
-        fontFamily: "MyriadPro-Regular",
+        fontFamily: "Poppins_400Regular",
         marginVertical: 5,
         fontSize: 18,
     },
     descriptionText: {
         color: "black",
-        fontFamily: "MyriadPro-SemiBold",
+        fontFamily: "Poppins_600SemiBold",
         marginVertical: 5,
         fontSize: 18,
         textAlign: 'right',

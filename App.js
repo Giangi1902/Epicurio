@@ -32,6 +32,7 @@ import {
   Poppins_900Black_Italic,
 } from '@expo-google-fonts/poppins';
 import { usePushNotifications } from './pages/main/usePushNotifications.js';
+import { normalize } from './pages/main/home.js';
 
 AppRegistry.registerComponent('main', () => App);
 
@@ -44,6 +45,7 @@ import Profile from './pages/main/profile.js';
 import Category from './pages/main/category.js';
 import GeoLocation from './pages/main/geolocation.js';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import Diet from './pages/main/diet.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -103,11 +105,15 @@ function MainTabs() {
           borderTopWidth: 0,
           borderTopRightRadius: 45,
           borderTopLeftRadius: 45,
-          height: 50
+          height: 60
         },
         animation: "shift",
         tabBarIconStyle: {
-          marginTop: 15
+          marginTop: 5
+        },
+        tabBarLabelStyle: {
+          fontSize: normalize(10),
+          fontFamily: "Poppins_300Light", 
         }
       }}
     >
@@ -116,7 +122,7 @@ function MainTabs() {
         component={HomeStackScreen}
         options={{
           headerShown: false,
-          tabBarLabel: () => null,
+          tabBarLabel: "Home",
           tabBarIcon: ({ color }) => (
             <Ionicons name="home" color={color} size={25} />
           ),
@@ -127,18 +133,18 @@ function MainTabs() {
         component={Menu}
         options={{
           headerShown: false,
-          tabBarLabel: () => null,
+          tabBarLabel: "Dispensa",
           tabBarIcon: ({ color }) => (
             <Ionicons name="restaurant" color={color} size={25} />
           ),
         }}
       />
       <BottomTab.Screen
-        name="Geolocation"
-        component={GeoLocation}
+        name="Diet"
+        component={Diet}
         options={{
           headerShown: false,
-          tabBarLabel: () => null,
+          tabBarLabel: "Diete",
           tabBarIcon: ({ color }) => (
             <Ionicons name="map" color={color} size={25} />
           ),
@@ -149,7 +155,7 @@ function MainTabs() {
         component={Checklist}
         options={{
           headerShown: false,
-          tabBarLabel: () => null,
+          tabBarLabel: "Carrello",
           tabBarIcon: ({ color }) => (
             <Ionicons name="cart" color={color} size={25} />
           ),
@@ -160,7 +166,7 @@ function MainTabs() {
         component={Profile}
         options={{
           headerShown: false,
-          tabBarLabel: () => null,
+          tabBarLabel: "Profilo",
           tabBarIcon: ({ color }) => (
             <Ionicons name="person" color={color} size={25} />
           ),
@@ -199,7 +205,7 @@ function App() {
     }
   }, [fontsloaded]);
 
-  usePushNotifications();
+  // usePushNotifications();
 
   return (
     <ApplicationProvider {...eva} theme={{ ...eva.dark, ...theme }}>
