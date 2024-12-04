@@ -17,7 +17,7 @@ function CardPasto({text}) {
 
 const styles = StyleSheet.create({
     dayText: {
-        color: "#0B7308",
+        color: "black",
         fontFamily: "Poppins_500Medium",
         alignSelf: "center",
         fontSize: normalize(14)
@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         elevation: 3,
         paddingVertical: 15,
         marginVertical: 10,
-        borderColor: "#097373",
+        borderColor: "#0B7308",
         borderWidth: 1
     },
 });

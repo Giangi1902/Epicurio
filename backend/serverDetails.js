@@ -27,54 +27,35 @@ const userSchema = new mongoose.Schema({
   orario_cena: {
     type: String
   },
-  market: {
-    type: String
-  },
   imageprofile: {
     type: String,
     default: ""
   },
-  ingredienti: {
-    type: Array,
-    default: []
-  },
-  dispensa: {
-    type: Array,
-    default: []
-  },
-  lunedì: {
-    type: Array,
-    default: []
-  },
-  martedì: {
-    type: Array,
-    default: []
-  },
-  mercoledì: {
-    type: Array,
-    default: []
-  },
-  giovedì: {
-    type: Array,
-    default: []
-  },
-  venerdì: {
-    type: Array,
-    default: []
-  },
-  sabato: {
-    type: Array,
-    default: []
-  },
-  domenica: {
+  checklist: {
     type: Array,
     default: []
   },
   token: {
     type: String,
     default: ""
-  }
+  },
+  //come salvare le ricette giornaliere?
 });
+
+const pantrySchema = new mongoose.Schema({
+  idUtente: {
+    type: String,
+    required: true
+  },
+  idIngredienti: {
+    type: Array,
+    default: []
+  },
+  available: {
+    type: Boolean,
+    default: true
+  }
+})
 
 const ingredientSchema = new mongoose.Schema({
   nome: {
@@ -86,12 +67,6 @@ const ingredientSchema = new mongoose.Schema({
     default: ""
   },
   apporto_calorico: {
-    type: Number,
-    default: ""
-  },
-
-  //mantenere solo se non si riesce a scaricare tutto il catalogo dei prodotti per supermercato, senno altri db con catalogo prodotti
-  conad: {
     type: Number,
     default: ""
   }
@@ -144,12 +119,12 @@ const mealSchema = new mongoose.Schema({
   }
 })
 
-
 //Creo il modello collection, associato allo schema creato precedentemente
 const User = mongoose.model("User", userSchema);
 const Ingredient = mongoose.model("Ingredient", ingredientSchema)
 const Meal = mongoose.model("Meal", mealSchema)
+const Pantry = mongoose.model("Pantry", pantrySchema)
 
 
 //Esporto il modulo collection così da poterlo utilizzare in altri file
-module.exports = { User, Ingredient, Meal };
+module.exports = { User, Ingredient, Meal, Pantry };

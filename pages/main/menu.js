@@ -123,6 +123,7 @@ function Home() {
             <ScrollView style={styles.scrollView}>
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginBottom: 15 }}>
                     <ScrollView style={{ flex: 1 }}>
+                        <Text style={{color: "black", alignSelf: "center", fontFamily: "Poppins_600SemiBold", fontSize: normalize(20), marginTop: 15}}>Categorie</Text>
                         <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "space-evenly", marginHorizontal: 10 }}>
                             <View style={styles.cardPasto}>
                                 <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
@@ -246,7 +247,7 @@ const styles = StyleSheet.create({
         justifyContent: "space-around",
     },
     categoryText: {
-        color: "#0B7308",
+        color: "black",
         fontFamily: "Poppins_500Medium",
         alignSelf: "center",
         fontSize: normalize(12),
@@ -267,7 +268,7 @@ const styles = StyleSheet.create({
         elevation: 3,
         paddingVertical: 15,
         marginVertical: 10,
-        borderColor: "#097373",
+        borderColor: "#0B7308",
         borderWidth: 1
     },
 });
