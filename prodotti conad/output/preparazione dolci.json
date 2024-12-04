@@ -1,0 +1,926 @@
+[
+  {
+    "nome": "Milk Pro High Protein Pancakes Freschi 4 x 40 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Roberto happy Pinsa 2 x 115 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasta Brisée 230 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Buitoni Frolla Sottile fresca rotonda rotolo 230g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasta Sfoglia Rettangolare 230 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasta Sfoglia Rotonda 230 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Sfoglia Stuffer rotolo light 230 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Amido di Mais 250 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cacao in polvere amaro g. 250 Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cacao in Polvere Zuccherato 75 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cedro Candito 70 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ciliegie Rosse Candite 70 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Gelatina in fogli 12 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Gocce di Cioccolato Extra Fondente 200 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Granella di Nocciole 50 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Granella di Pistacchi 15 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasta Sfoglia 300 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "SAPORI & IDEE CONAD Sciroppo d'Acero Puro 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Zucchero a Velo 125 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fecola di patate 250 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Lievito di birra lievito naturale secco attivo 3 x 10 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pan di Spagna 400 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Polvere lievitante vaniglinata 3 x 16 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "9 torte Cameo 373 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bertolini Lievito Vaniglinato 4 x 16 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "BiancoForno Vol au Vent di pasta sfoglia 150 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo Fruttapec 3:1 Gusto Intenso 2 x 25 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo le Irresistibili Torta allo Yogurt 270 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo Preparato per Crema Catalana 2 buste 90 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cannoli siciliani Sapori & Piaceri pronti da farcire 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pancakes Brioche Pasquier  280 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Panono al latte con gocce di cioccolato   280 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Treccia Selezione Forno alla crema 150 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "9 torte Cameo 373 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bertolini Lievito Vaniglinato 4 x 16 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "BiancoForno Vol au Vent di pasta sfoglia 150 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo Fruttapec 3:1 Gusto Intenso 2 x 25 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo le Irresistibili Torta allo Yogurt 270 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cameo Preparato per Crema Catalana 2 buste 90 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cannoli siciliani Sapori & Piaceri pronti da farcire 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cannoli vuoti gecchele  150 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Coni in Cialda Sapori & Piaceri  50 g conf. da 15 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fabbri Top al Caramello 225 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fabbri Top gusto Cioccolato 225 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Lindt Budino Preparato per dolci Cioccolato fondente 95 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Mariarosa Bignè 100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Molino Rossetto Lievito Madre Essiccato 100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Noberasco € 0,99 Mandorle Affettate 40 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Noberasco € 0,99 Nocciole Granella 30 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Noberasco € 0,99 Pistacchi Tostati in Granella 15 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pancake   Protein Prozis Pancake di avena con proteina 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pancakes proteici Foodspring  400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Paneangeli 1 Vaniglia in bacca",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Paneangeli aroma per dolci e creme Arancia 2 fialette 4 ml",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Paneangeli aroma per dolci e creme Limone 2 fialette 4 ml",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Paneangeli aroma per dolci e creme Vaniglia 2 fialette 4 ml",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Paneangeli Crema Pasticcera 2 x 75 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "PANEANGELI decora con Codette arcobaleno 50 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "PANEANGELI decora con Colori per Dolci Blu 10 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "PANEANGELI decora con Colori per Dolci Rosso 10 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Preparato per Crème Caramel con caramellato 200 g Cameo",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Preparato per Panna Cotta con guarnizione ai frutti di bosco Cameo 107 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Suzi Wan Crema di cocco 200 ml",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta Margherita Cameo 428 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Waffel artigianale   220 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cornetti Selezione Forno all'albicocca 125 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cornetti Selezione Forno classici 120 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cornetti Selezione Forno integrali 150 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Golosini Savini al burro 200 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Golosini Savini all'albicocca 200 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Muffin Selezione Forno con pepite di cioccolato 300 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pan gelato conf   50 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pancakes Brioche Pasquier  280 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Panono al latte con gocce di cioccolato   280 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Treccia Selezione Forno alla crema 150 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasta per Pizza 385 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Focaccia all'olio   al kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Focaccia alle olive   al kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Alimentum Senza Glutine Preparato per dolci 500 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cocco Grattugiato 250 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Ceci 500 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Farro Biologica 1 kg Verso Natura Bio Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Grano Saraceno Integrale Biologica 500 g Verso Natura Bio Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Mandorle 250 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Riso 500 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina Integrale di Avena 500 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina Kamut Biologica 1 kg Verso Natura Bio Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Preparato per pane e pizza Senza Glutine 500 g Alimentum Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina avena integrale Sarchio senza glutine biologico 350 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di mais bio Sarchio finissima 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Náttúra 49 Protein Sport 100% Peanut Butter Powder 180 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Noberasco Bio Farina Di Cocco 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Schär Mix It Universale 1 Kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Semola di grano duro Rimacinata 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di grano tenero tipo ''0'' Kg.  1 Verso Natura Bio Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Grano Tenero Macinata a Pietra Tipo 1 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di Grano Tenero Macinata a Pietra Tipo 2 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di grano tenero Tipo 0 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di grano tenero Tipo 00 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina Integrale 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina Manitoba Tipo 0 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di ceci Sarchio bio senza glutine 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di grano tenero Caputo pizzeria tipo \"00\" 1 kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di grano tenero tipo \"0\" Caputo nuvola 1 kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina senza Glutine Caputo per pane e pizza 1 kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Mix per pane Nutrifree senza glutine con farina integrale 1 kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Molino Spadoni Gran Mugnaio Farina di Grano Tenero Tipo \"00\" Anti-Grumi 1000 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Polenta ai Formaggi 200 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Polenta ai Funghi Porcini 200 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di mais Bramata a grana grossa 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Farina di mais Fioretto a grana fine 1Kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Polenta Valsugana la Classica 375 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Molino Spadoni 1 kg di preparato per Pane Nero ai 7 cereali 1000 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Molino Spadoni Farina che Lievita Farina \"00\"   Polvere Lievitante 1000 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Miscela di Farine per Fritture 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Lievito Fresco 2 x 25 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Alimentum Senza Glutine Mini Cookies 130 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Alimentum Senza Glutine Pasticcini con biscotto e cioccolato al latte 100 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Amaretti 200 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Baci di Dama alla nocciola 150 g Sapori & Dintorni Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Canestrellini 125 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cookies mini 150 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasticcini Senza Glutine con farcitura all'albicocca 80 g Alimentum Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Sfogliatine 175 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Waferini con crema alla nocciola ricoperti con cioccolato g 100 Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Biscotti I Nostri Ori morbidi all'arancia 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cantucci alle mandorle   400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ciambella Selezione Forno classica 450 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Crostatine Selezione Forno albicocca 180 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Occhini di bue  al pistacchio al kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Petit fleur rosso Selezione Forno  160 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Petiti fleur verde Selezione Forno  160 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ventagli   130 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Amaretti Alai  190 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Amaretti Alai Con Fecola di patate 100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bahlsen Hermann Bahlsen Collection 161 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bahlsen Messino Cioccolato Fondente Ripieno all'Arancia 125 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bahlsen Perpetum Fondente 97 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bahlsen Waferí 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bahlsen Waffeletten Dark Chocolate 100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "BiancoForno Occhi di Bue di pasta frolla con il 30% di confettura di albicocca 300 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "BiancoForno Palmine di pasta sfoglia 220 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "BiancoForno Sfogliatine di pasta sfoglia 230 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Céréal Senza Glutine Madeleine - 200 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Céréal Senza Glutine Madeleine Noire, Merendine Senza lattosio, Senza olio di Palma, monodose - 200g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Mikado Cioccolato al Latte 75 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Mikado Cioccolato Fondente 75 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Milka Cookies XL, maxi cookie con cioccolato al latte Milka - 184g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Misura Fibrextra Morbido Ripieno Cioccolato Fondente 260 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Oro Ciok Mini Cookies, mini biscotti con gocce di cioccolato - 160g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Papadopoulos Caprice 115 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pasticcini Fior di Cocco Sapori & Piaceri senza glutine 220 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pavesi Togo Classic Latte 120g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Prodotto dolciario da forno Le Raviole Tattini mostarda bolognese 220 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Schär Ciocko Sticks 150 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Schär Luxury 200 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Schär Mini Sorrisi 100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Walkers Pure Butter Shortbread 150 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Biscotti I Nostri Ori morbidi all'arancia 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Cantucci alle mandorle   400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ciambella Selezione Forno classica 450 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Crostatine Selezione Forno albicocca 180 g conf. da 2 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Occhini di bue  al pistacchio al kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Petit fleur rosso Selezione Forno  160 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Petiti fleur verde Selezione Forno  160 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ventagli   130 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "CONAD Risolatte al gusto Vaniglia 175 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Coppa Cacao con panna montata 2 x 110 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tiramisù -  Crema al mascarpone con pan di Spagna affogato al caffè 2x 90g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Kinder Choco fresh 5 x 20,5 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Kinder fetta al latte 5 x 28 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Kinder Paradiso 4 x 29 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Kinder Pinguì cioccolato conf. 30 g x 4 pezzi",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Kinder Pinguì coco 4 x 30 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Müller Dessert al Riso Proteico 180 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Zappalá Sfiziotta Specialità di Ricotta al Limone 180 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Nestlé Fruttolo Pesca e Albicocca, Mela e Pera, Fragola e Banana 6 x 50 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Crostata di Albicocche con confettura di albicocche 370 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Crostata di ciliegie 370g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Sbrisolona 350 g Sapori & Dintorni Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Dessert Crema Catalana Senza Peccato  110 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Dessert doppio cioccolato   110 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Dessert proteico  tiramisù   100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Dessert proteico cioccolato e cocco   100 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Dessert Tiramisù Senza Peccato  110 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Salame al cioccolato classico   250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tazzina crema caffè   40 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tazzina dessert limoncello   40 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta con crema alla mandorla Senza Peccato  300 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta Foresta Nera Senza Peccato  400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta nonna DolceForno  400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta pere e crema al cacao DolceForno  400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Torta Tiramisù Senza Peccato senza glutine 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Bensone Tattini alla prugna 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ciambella Gecchele Bicolore 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Ciambella Gecchele Yogurt 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Gran Torta Mautino limone 400 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Le Pinze Tattini alla mostarda bolognese 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Mulino Bianco Torta Limone con Farina Sostenibile 640g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pan di Stelle Torta 445g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Roll - Torta Pan di Spagna Gecchele Gusto Nocciola 200 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Schär Marble Cake 250 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Le Naturelle 12 Uova Fresche di Quaglia",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "6 Uova fresche Biologiche Verso Natura Bio Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "CONAD Percorso Qualità 6 Uova Fresche da Galline Allevate all'Aperto",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "CONAD Percorso Qualità 6 Uova Fresche Grandissime da Galline Allevate a Terra",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "6 Uova Fresche da Galline Allevate a Terra Grandi Percorso Qualità Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "6 Uova Fresche da Galline Allevate a Terra Medie Percorso Qualità Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Uova medie x 10 da allevamento a terra Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Almaverde bio 4 uova fresche 230 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fileni 4 Uova Biologiche Fresche Italiane 220 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fileni 6 Uova Biologiche Fresche Italiane 320 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Le Naturelle Albume d'Uovo Pastorizzato 1000 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Le Naturelle Albume d'Uovo Pastorizzato 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Le Naturelle Albume d'Uovo Pastorizzato 500 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Pro Up 100g 100% Albume d'Uovo 1000 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tedaldi Giallo Pasta Speciali per Pasta e Dolci 6 Uova 330 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tedaldi Giallo Pasta Speciali per Pasta e Dolci 6 Uova Fresche Grandissime",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Tedaldi Gran Uovo Italiano da Galline Allevate Senza Antibiotici* 6 Uova 330 g",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Fruttosio Puro 500 g Piacersi Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Piacersi Dolcificante 200 compresse 200 x 0,05 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Piacersi Dolcificante 200 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Piacersi Dolcificante 40 bustine 40 x 1 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Piacersi Dolcificante 50 ml Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Piacersi Stevia Dolcificante di Origine Naturale 150 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "CONAD Zucchero 100% Italiano Extrafine 1 kg",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Esotico Zucchero di Canna 500 g Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Zucchero 100% Italiano Bustine 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Zucchero di Canna Integrale Atado Dulce Biologico 500 g Verso Natura Equo Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Zucchero 100% Italiano 1 kg Conad",
+    "categoria": "preparazione dolci"
+  },
+  {
+    "nome": "Eridania Classico Zollette 1 kg",
+    "categoria": "preparazione dolci"
+  }
+]

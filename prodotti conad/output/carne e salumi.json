@@ -1,0 +1,870 @@
+[
+  {
+    "nome": "Hamburger a base di prosciutto cotto 2 x 75 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Hamburger a base di prosciutto cotto e mozzarella 2 x 75 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & IDEE CONAD Percorso Qualità Tartare di Scottona benessere 2 x 105 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Arturo Vogliazzi Ghiotta Vitel Tonnè 500 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Giravolte Crocca&Fila Prosciutto cotto Mozzarella filante 2 x 85 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Polpa Scelta per Bolliti",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Ossobuco di bovino adulto CONAD Percorso Quaità  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Percorso Qualità Tagliata di Piemontese 200 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Battuta di Scottona I Nostri Ori  150 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Hamburger di Scottona I NOSTRI ORI  150 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Tartare di bovino adulto Indal senape conf. 30 g x 6 pezzi",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & IDEE CONAD Percorso Qualità Scottona Tagliata Bovino Adulto benessere",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Hamburger di Vitello 2 x 80 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Macinato Misto di Suino e Bovino 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Hamburger di Bovino 2 x 80 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Macinato di Vitello 0,300 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Percorso Qualità Hamburger di Scottona 2 x 80 g Sapori & Idee Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Percorso Qualità Macinato Scelto di Scottona 300 g Sapori & Idee Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Chianina Gusto Ricco 180 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Chianina Gusto Ricco 2 x 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Romagnola Gusto Delicato 180 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Battuta di Scottona I Nostri Ori  150 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Hamburger di Scottona I NOSTRI ORI  150 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Tartare di bovino adulto Indal senape conf. 30 g x 6 pezzi",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Masina I Tagli Pronti Hamburger di Equino Classico 0,200 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Carne di Bovino in gelatina 3 x 140 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Carne di Bovino in gelatina 3 x 90 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Montana Jambonet 200 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Simmenthal 3 x 70 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Hamburger di Vitello 2 x 80 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Macinato Misto di Suino e Bovino 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Hamburger di Bovino 2 x 80 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Macinato di Vitello 0,300 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Percorso Qualità Hamburger di Scottona 2 x 80 g Sapori & Idee Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Percorso Qualità Macinato Scelto di Scottona 300 g Sapori & Idee Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Chianina Gusto Ricco 180 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Chianina Gusto Ricco 2 x 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Hamburger di Romagnola Gusto Delicato 180 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Polpettine di Suino benessere 220 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Gran pesto di salsiccia I NOSTRI ORI suino nato e allevato in Emilia Romagna 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pulled Pork Tulip Spalla di suino già cotta da sfilacciare 550 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia di suino I NOSTRI ORI suino nato e allevato in Emilia Romagna 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia luganega di suino I NOSTRI ORI suino nato e allevato in Emilia Romagna 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia passita del contadino Salumificio Capelli  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Spareribs BBQ Tulip Costine di suino cotte a bassa temperatura 550 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Casa Modena il Cotechino Modena IGP 500 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Casa Modena lo Zampone Modena IGP 900 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cotechino precotto Villani  500 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fini il Cotechino 100% Italiano 500 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fini il Mini Cotechino 100% Italiano 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Gran stinco di prosciutto arrosto Negroni 100% italiano 800 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Rovagnati Stinco di gran biscotto Ricetta Classica 1 Kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Stinco Alpino alle erbe Gourmet Hax Recla  750 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Mini Würstel Pollo 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Mini Würstel Puro Suino 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Würstel Pollo e Tacchino 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Würstel Pollo e Tacchino 250 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Würstel Puro Suino 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Würstel Puro Suino 250 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Meraner 3 pezzi 220 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Servelade 2 pezzi 200 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Wiener 2 pezzi 180 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Aia Wudy Classico 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Masina I Tagli Freschi Fettine Sceltissime Equino 0,280 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Masina I Tagli Pronti Hamburger di Equino Classico 0,200 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Ali di Pollo 0,550 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Bocconcini di Petto di Pollo 0,400 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato senza uso di antibiotici Cappone Quarto",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato Senza Uso di Antibiotici Petto di Pollo a Fette 0,250 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato Senza Uso di Antibiotici Tagliata di Petto di Pollo 0,400 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato Senza Uso di Antibiotici* Bistecchine di Pollo 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Filetti di Petto di Pollo 0,400 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fusi di Pollo 0,450 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Percorso Qualità Petto Di Pollo Giallo Confezione da 500g Circa CONAD",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Petto di Pollo a Fette 0,400 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Petto di Pollo a Fette Sottili 0,250 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Sovracosce di Pollo Senza Pelle 0,450 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Amadori Il Campese Tagliata di Petto di Pollo Campese 0,300 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Amadori Il Campese Tenerissime 0,250 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Alette di pollo arrosto Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Bocconcini Panati di Pollo 300 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato Senza Uso di Antibiotici Hamburger di Pollo 2 x 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato senza uso di antibiotici Hamburger di Tacchino 200 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Allevato Senza Uso di Antibiotici Macinato di Pollo 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD VERSO NATURA Allevato Senza l'Uso di Antibiotici Hamburger di Pollo Biologico 0,200 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cordon Bleu con Pollo 245 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cotolette con Pollo e Spinaci 220 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cotolette di Pollo Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Kebab di Pollo 350 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Polpettine con Tacchino Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Spiedini Rustici di Pollo Rifiniti a Mano 400 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Tagliata di Petti di Pollo 350 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Amadori Polpette le Caserecce 0,270 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fesa di Tacchino a Fette 0,400 kg Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Bacon Fette Pancetta Affumicata 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Bresaola della Valtellina I.G.P. 100 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Coppa 110 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Mortadella con Pistacchio 100 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Mortadella di Pollo 100 g Piacersi Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Petto di Pollo al Forno 100 g Piacersi Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Petto di Pollo Arrosto 100 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Petto di Tacchino Arrosto 100 g Percorso Qualità Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "PIACERSI CONAD Bresaola di Tacchino 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Piacersi Prosciutto Cotto Alta Qualità 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto di Parma DOP stagionatura minima 18 mesi 100g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto di San Daniele DOP stagionatura minima 16 mesi 100 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Culatello 0,090 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Culatta Emilia Stagionatura Minima 14 Mesi 0,090 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Finocchiona IGP 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Lardo Toscano 0.080 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Mortadella 0,120 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Mortadella con Pistacchio 0,120 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Pancetta 0,110 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Porchetta Arrosto 0,100 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto Arrosto 0,120 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto Cotto di Alta Qualità Nazionale 0,120 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto di Carpegna DOP 18 Mesi 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto di Modena DOP 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto di Norcia IGP 0,100 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto di Parma DOP Stagionatura Minima 24 Mesi 0,100 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Prosciutto Toscano DOP 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Salame Felino IGP 0,090 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Salame Toscano 0,110 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Spianata Piccante 0,090 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Tagliere Salame Toscano, Lardo Toscano, Prosciutto Crudo Stagionato 0,120 kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Speck Alto Adige IGP 100 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Tagliere Emiliano Prosciutto crudo - Coppa - Salame Felino IGP 0.120 kg Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Freschi & Convenienti Prosciutto Crudo Nazionale 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Freschi & Convenienti Salame Milano 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Freschi & Convenienti Salame Ungherese 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Freschi & Convenienti Speck Alto Adige IGP 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Coppa 100 g Freschi & Convenienti Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Antipasto di Salumi 120 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Bresaola della Valtellina I.G.P. 90 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Mortadella Bologna IGP g 100 Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Prosciutto Cotto di Alta Qualità 120 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Prosciutto Cotto Praga 120 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Convenienti Salame Golfetta 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Soffici Bresaola della Valtellina I.G.P. 60 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Soffici Prosciutto Cotto di Alta Qualità 80 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi & Soffici Prosciutto Crudo Stagionato 60 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi e Convenienti Carpaccio di Bresaola 90 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Freschi e Convenienti Prosciutto Crudo Stagionato 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta Arrotolata 100 g Freschi & Convenienti Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto Cotto 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salame Milano 60 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Ventricina Piccante 100 g Freschi & Convenienti Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Citterio Citterino Riassunto 60 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Citterio la Merenda Prosciutto Cotto di Alta Qualità 40 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Citterio la Merenda Prosciutto Crudo 30 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Citterio la Merenda Salame di Milano 30 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Guanciale stagionato  senza glutine 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Bresaola Italiana Superiore 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Culatello Classico 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani il Prelibato Prosciutto Cotto Alta Qualità 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani la Dotta Mortadella Tradizionale 130 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Pancetta Pepe Nero 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Pancetta Tradizionale 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Prosciutto Cotto Alta Qualità Fiordaliso 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Prosciutto Crudo Pastorello Stagionatura 12 Mesi 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Prosciutto di San Daniele D.O.P. 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Salame Montanaro 110 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Tacchino Arrosto 120 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Villani Tartufò Prosciutto Crudo al Tartufo 100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Greppole al forno Salumificio Vecchi Carlo  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Coppa di testa   90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Ciccioli montanari Salumificio Franceschini  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Guanciale 100 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta Affumicata 100 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cotto cubetti 2 x 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta affumicata cubetti 200 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta Dolce cubetti 2 x 100 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Speck stick 2 x 50 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Cubetti di salsiccia Negroni  conf. 60 g x 2 pezzi",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fratelli Beretta Protein 19g Stick di Bovino 2 x 26 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fratelli Beretta Protein 23g Stick di Tacchino 2 x 24 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Stick Guanciale Negroni  100 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Mortadella favola Salumificio Mec Palmieri in cotenna senza pistacchio al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta affumicata cruda bacon Gasser  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pancetta coppata Salumificio Aurora  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto cotto Elle Ferrarini  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto cotto Premium Gardani  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto crudo al pepe rosa Lui Renzini  70 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fuet Iberico Industrie Tello tagliere e coltello 155 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto crudo Don Camillo Gardani nazionale senza osso al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto di Parma DOP Cavalier Umberto Boschi stagionato 30 mesi take away 90 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salame Amarcord Clai  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salame I NOSTRI ORI senza conservanti 175 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salame Napoli Clai  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salame Zia Ferrarese Salumificio Zironi  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Spianata piccante Sila&Sila Fratelli Falcone  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Cacciatore Italiano DOP",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia Curva Piccante 300 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Speck Alto Adige IGP 500 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Mortadella Bologna IGP 500 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Prosciutto Cotto 400 g Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "SAPORI & DINTORNI CONAD Salsiccia Passita",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Strolghino 200 g Sapori & Dintorni Conad",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Citterio gli Irresistibili Salame Bastoncini 2 x 30 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Distinti salumi confezione regalo La Fattoria di Parma  510 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fratelli Beretta SalaMini Affumicato 2 x 42,5 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fratelli Beretta SalaMini Classico 2 x 42,5 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Fratelli Beretta SalaMini Tartufo 2 x 42,5 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Negronetto snack Negroni salame a fette con croccanti taralli",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Tyrolini Handl Tyrol dolci 40 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Voglietta  senza glutine 190 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "N'duja Sila & Sila take away 200 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Braciole di costa di suino I NOSTRI ORI suino nato e allevato in Emilia Romagna al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Costine di suino I NOSTRI ORI Da suini nati ed allevati in Emilia Romagna",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Lonza a fette di suino I NOSTRI ORI Da suini nati ed allevati in Emilia Romagna",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "CONAD Percorso Qualità Polpettine di Suino benessere 220 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Gran pesto di salsiccia I NOSTRI ORI suino nato e allevato in Emilia Romagna 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Pulled Pork Tulip Spalla di suino già cotta da sfilacciare 550 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia di suino I NOSTRI ORI suino nato e allevato in Emilia Romagna 350 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia luganega di suino I NOSTRI ORI suino nato e allevato in Emilia Romagna 300 g",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Salsiccia passita del contadino Salumificio Capelli  al kg",
+    "categoria": "carne e salumi"
+  },
+  {
+    "nome": "Spareribs BBQ Tulip Costine di suino cotte a bassa temperatura 550 g",
+    "categoria": "carne e salumi"
+  }
+]
