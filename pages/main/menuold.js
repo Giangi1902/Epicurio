@@ -28,7 +28,7 @@ function Menu() {
   const handleMeals = useCallback(async () => {
     if (username !== "") { // Controlla se i dati sono già stati caricati
       try {
-        const response = await axios.get(`https://my-expense-five.vercel.app/getMeals/${username}`);
+        const response = await axios.get(`http://192.168.1.123:8080/getMeals/${username}`);
         if (response.data.success) {
           const processedData = processMealsData(response.data.data);
           setData(processedData);

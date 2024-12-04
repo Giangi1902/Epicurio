@@ -65,10 +65,6 @@ const ingredientSchema = new mongoose.Schema({
   categoria: {
     type: String,
     default: ""
-  },
-  apporto_calorico: {
-    type: Number,
-    default: ""
   }
 })
 
@@ -98,10 +94,6 @@ const mealSchema = new mongoose.Schema({
     default: 0
   },
   images: {
-    type: Array,
-    default: []
-  },
-  banned: {
     type: Array,
     default: []
   },

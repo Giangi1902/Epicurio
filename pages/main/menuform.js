@@ -37,7 +37,7 @@ function MenuForm({ username, updateData }) {
                     cena: day.cena,
                 }));
 
-            const response = await axios.post(`https://my-expense-five.vercel.app/newMenu`, {
+            const response = await axios.post(`http://192.168.1.123:8080/newMenu`, {
                 selectedMeals: selectedMeals,
                 budget: budget,
                 username: username

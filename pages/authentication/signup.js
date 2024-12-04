@@ -31,7 +31,7 @@ export default function Signup() {
       try {
         const orariocenaFormatted = orariocena.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
         const orariopranzoFormatted = orariopranzo.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
-        const response = await axios.post("https://my-expense-five.vercel.app/signup", {
+        const response = await axios.post("http://192.168.1.123:8080/signup", {
           username, password, expoPushToken, orariopranzo: orariopranzoFormatted, orariocena: orariocenaFormatted
         })
         if (response.data == "ok") {

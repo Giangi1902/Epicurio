@@ -2,32 +2,33 @@
 const express = require('express');
 const router = express.Router();
 //Importo User e Post da userDetails, i quali rappresentano i dettagli degli utenti e dei post
-const { User, Ingredient } = require('../serverDetails');
+const { User, Ingredient, Pantry } = require('../serverDetails');
 
 
 router.post("/signup", async (req, res) => {
-    const { username, password, expoPushToken, orariopranzo, orariocena } = req.body
+    const { username, password, expoPushToken, orariopranzo, orariocena } = req.body;
     try {
-        const exist = await User.findOne({ username: username })
+        const exist = await User.findOne({ username: username });
         if (exist) {
-            res.json("esiste")
-        }
-        else {
-            const ingredients = await Ingredient.find();
+            res.json("esiste");
+        } else {
+            const newUser = await User.create({
+                username: username,
+                password: password,
+                token: expoPushToken,
+                orario_pranzo: orariopranzo,
+                orario_cena: orariocena
+            });
 
-            const pantry = ingredients.map(ingredient => ({
-                id: ingredient._id.toString(),
-                quantity: 0
-            }));
-
-            await User.create({ username: username, password: password, token: expoPushToken, dispensa: pantry, orario_pranzo: orariopranzo, orario_cena: orariocena, market: "Conad" })
-            res.json("ok")
+            await Pantry.create({ idUtente: newUser._id });
+            res.json("ok");
         }
+    } catch (e) {
+        console.log(e);
+        res.status(500).json("Errore del server");
     }
-    catch (e) {
-        console.log(e)
-    }
-})
+});
+
 
 router.get("/login/:username/:password", async (req, res) => {
     const { username, password } = req.params;

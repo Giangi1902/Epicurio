@@ -22,7 +22,6 @@ export function normalize(size) {
 function Profile() {
     const [orariopranzo, setOrarioPranzo] = useState("");
     const [orariocena, setOrarioCena] = useState("");
-    const [market, setMarket] = useState("");
     const [username, setUsername] = useState("");
     const [loading, setLoading] = useState(false); // State per il loader
     const navigation = useNavigation();
@@ -31,13 +30,12 @@ function Profile() {
         if (username !== "") {
             try {
                 setLoading(true); // Attiva il loader durante il fetch
-                const response = await axios.get(`https://my-expense-five.vercel.app/getInfo/${username}`);
+                const response = await axios.get(`http://192.168.1.123:8080/getInfo/${username}`);
                 if (response.data === "nonesiste") {
                     // Gestione caso in cui l'utente non esiste
                 } else {
                     setOrarioPranzo(response.data.orario_pranzo);
                     setOrarioCena(response.data.orario_cena);
-                    setMarket(response.data.market);
                 }
             } catch (error) {
                 console.log(error);
@@ -74,7 +72,7 @@ function Profile() {
 
     const handleDelete = async () => {
         try {
-            const response = await axios.delete(`https://my-expense-five.vercel.app/deleteAccount/${username}`);
+            const response = await axios.delete(`http://192.168.1.123:8080/deleteAccount/${username}`);
             if (response.data === "ok") {
                 await AsyncStorage.removeItem("username");
                 navigation.navigate("Auth");

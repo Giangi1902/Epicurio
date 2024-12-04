@@ -61,7 +61,7 @@ function Checklist() {
             calculateTotalPrice();
             await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
             try {
-                const response = await axios.post(`https://my-expense-five.vercel.app/updateCheckbox/${username}/${ingredientId}`);
+                const response = await axios.post(`http://192.168.1.123:8080/updateCheckbox/${username}/${ingredientId}`);
                 if (response.data === "no") {
                     console.log("Problema aggiornamento della checkbox");
                 }
@@ -80,7 +80,7 @@ function Checklist() {
         if (username !== "") {
             setIsLoading(true);
             try {
-                const response = await axios.get(`https://my-expense-five.vercel.app/getIngredients/${username}`);
+                const response = await axios.get(`http://192.168.1.123:8080/getIngredients/${username}`);
                 if (response.data !== "no") {
                     setIngredients(response.data);
                     handlePrices(response.data);
@@ -106,7 +106,7 @@ function Checklist() {
         setIsLoading(true);
         if (username !== "") {
             try {
-                const response = await axios.get(`https://my-expense-five.vercel.app/getAllIngredients/${username}`);
+                const response = await axios.get(`http://192.168.1.123:8080/getAllIngredients/${username}`);
                 setAllIngredients(response.data);
                 await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
                 setUsingAsyncStorage(false)
@@ -128,7 +128,7 @@ function Checklist() {
         setIsLoading(true);
         if (ingredients.length > 0) {
             try {
-                const response = await axios.get(`https://my-expense-five.vercel.app/getCosts/${username}`);
+                const response = await axios.get(`http://192.168.1.123:8080/getCosts/${username}`);
                 setPrices(response.data);
                 await AsyncStorage.setItem("prices", JSON.stringify(response.data));
                 setUsingAsyncStorage(false)
@@ -188,7 +188,7 @@ function Checklist() {
         setIsLoading(true)
         try {
             const newQuantities = quantities.map(item => ({ id: item.id, quantity: 0 }));
-            const response = await axios.post(`https://my-expense-five.vercel.app/addIngredients`, {
+            const response = await axios.post(`http://192.168.1.123:8080/addIngredients`, {
                 username, quantities
             })
             if (response.data == "ok") {
@@ -217,7 +217,7 @@ function Checklist() {
             calculateTotalPrice();
             await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
             try {
-                const response = await axios.post(`https://my-expense-five.vercel.app/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+                const response = await axios.post(`http://192.168.1.123:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
                 if (response.data == "no") {
                     console.log("Problema nell'aggiunta dell'ingrediente in db");
                 }
@@ -243,7 +243,7 @@ function Checklist() {
             await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
         }
         try {
-            const response = await axios.post(`https://my-expense-five.vercel.app/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+            const response = await axios.post(`http://192.168.1.123:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
             if (response.data === "no") {
                 console.log("problema nella rimozione dell'elemento");
             }
@@ -257,7 +257,7 @@ function Checklist() {
     const handleDispensa = async () => {
         setIsLoading(true);
         try {
-            const response = await axios.post(`https://my-expense-five.vercel.app/addIngredientDispensa/${username}`, {
+            const response = await axios.post(`http://192.168.1.123:8080/addIngredientDispensa/${username}`, {
                 ingredients
             });
             if (response.data != "no") {

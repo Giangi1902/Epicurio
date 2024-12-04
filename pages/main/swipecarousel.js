@@ -103,7 +103,7 @@ const Carousel = ({ data, username, updateData }) => {
 
   const handleEdit = async (item) => {
     try {
-      await axios.post(`https://my-expense-five.vercel.app/changeMeal`, {
+      await axios.post(`http://192.168.1.123:8080/changeMeal`, {
         id: item._id,
         username: username,
         orario: popoverType,
@@ -124,7 +124,7 @@ const Carousel = ({ data, username, updateData }) => {
 
   const handleDelete = async () => {
     try {
-      await axios.delete(`https://my-expense-five.vercel.app/deleteMeal/${username}`, {
+      await axios.delete(`http://192.168.1.123:8080/deleteMeal/${username}`, {
         data: { mealId: popoverItem, orario: popoverType }
       });
       await updateData()
@@ -225,7 +225,7 @@ const Carousel = ({ data, username, updateData }) => {
 
   const handleReviewSubmit = async () => {
     try {
-      await axios.post(`https://my-expense-five.vercel.app/sendReview/${rating}`, { photo: photo, dish: dish })
+      await axios.post(`http://192.168.1.123:8080/sendReview/${rating}`, { photo: photo, dish: dish })
     }
     catch (e) {
       console.log(e)
@@ -289,7 +289,7 @@ const Carousel = ({ data, username, updateData }) => {
 
   const handleImage = async (item) => {
     try {
-      const response = await axios.get(`https://my-expense-five.vercel.app/getPhotos/${item}`)
+      const response = await axios.get(`http://192.168.1.123:8080/getPhotos/${item}`)
       openImageModal(response.data)
     }
     catch (e) {
@@ -300,7 +300,7 @@ const Carousel = ({ data, username, updateData }) => {
   const openMealListModal = async () => {
     try {
       closePopover();
-      const response = await axios.get(`https://my-expense-five.vercel.app/getAllMeals/${username}`);
+      const response = await axios.get(`http://192.168.1.123:8080/getAllMeals/${username}`);
       setMeals(response.data);
       setMealListModalVisible(true);
     } catch (e) {
