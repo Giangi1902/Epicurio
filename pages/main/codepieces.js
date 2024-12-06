@@ -1,6 +1,6 @@
 <View style={{ alignItems: "center", flex: 1, marginTop: 15 }}>
 <View style={styles.imageContainer}>
-    <ImageBackground source={require("../../emptyshelf.jpg")} style={styles.image}>
+    <ImageBackground source={require("../../images/emptyshelf.jpg")} style={styles.image}>
         <View style={[styles.iconContainer, { flexDirection: "row", justifyContent: "space-around", width: "100%" }]}>
             <TouchableOpacity onPress={() => handleCategory("riso")}>
                 <Image source={require('../../images/rice.png')} style={[styles.icon]} />

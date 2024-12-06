@@ -78,9 +78,9 @@ function AuthStack({ navigation }) {
         tabBarActiveTintColor: "white",
         tabBarInactiveTintColor: "#27241F",
         tabBarIndicatorStyle: { backgroundColor: "white" }
-      }}>
-      <TopTab.Screen name="Login" component={Login} />
+      }}>      
       <TopTab.Screen name="Signup" component={Signup} />
+      <TopTab.Screen name="Login" component={Login} />
     </TopTab.Navigator>
   );
 }

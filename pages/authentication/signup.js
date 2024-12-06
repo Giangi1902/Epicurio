@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { ImageBackground, StyleSheet, View, Animated, Alert, TouchableOpacity, Image, ActivityIndicator } from 'react-native';
+import { ImageBackground, StyleSheet, View, Alert, TouchableOpacity, Image, ActivityIndicator, ScrollView, Platform } from 'react-native';
 import React, { useState } from 'react';
 import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -8,7 +8,7 @@ import { Layout, Text, Input } from '@ui-kitten/components';
 import { usePushNotifications } from '../main/usePushNotifications';
 import DateTimePicker from '@react-native-community/datetimepicker';
 
-const backgroundimg = require('../../food.png');
+const backgroundimg = require('../../images/food.png');
 
 export default function Signup() {
   const [orariopranzo, setOrarioPranzo] = useState(new Date());
@@ -21,10 +21,7 @@ export default function Signup() {
   const [showCenaPicker, setShowCenaPicker] = useState(false);
   const { expoPushToken, notification } = useState("")
   // usePushNotifications()
-  const [selectedPranzoTime, setSelectedPranzoTime] = useState(null);
-  const [selectedCenaTime, setSelectedCenaTime] = useState(null);
 
-  const spinValue = useState(new Animated.Value(0))[0]; // Valore iniziale per l'animazione
 
   const handleCreate = async () => {
     if (username && password && orariopranzo && orariocena) {
@@ -56,24 +53,10 @@ export default function Signup() {
       setIsLoading(false)
     }
   }
-
-  const startSpin = () => {
-    Animated.loop(
-      Animated.timing(spinValue, {
-        toValue: 1,
-        duration: 2000,
-        useNativeDriver: true
-      })
-    ).start();
-  };
-
   const handleOrarioPranzoChange = (event, selectedDate) => {
     setShowPranzoPicker(false);
     if (selectedDate) {
       setOrarioPranzo(selectedDate);
-      setSelectedPranzoTime(
-        selectedDate.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' })
-      );
     }
   };
 
@@ -81,9 +64,6 @@ export default function Signup() {
     setShowCenaPicker(false);
     if (selectedDate) {
       setOrarioCena(selectedDate);
-      setSelectedCenaTime(
-        selectedDate.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' })
-      );
     }
   };
 
@@ -95,36 +75,69 @@ export default function Signup() {
     setShowCenaPicker(true);
   };
 
-
   return (
     <Layout style={styles.container}>
       <ImageBackground source={backgroundimg} style={styles.backgroundImage} resizeMode='repeat'>
+
         <View style={styles.imageContainer}>
           <View style={styles.backgroundWrapper} />
           <Image source={require('../../images/image.png')} style={styles.image} />
         </View>
-        <Input placeholder='Inserisci username' style={styles.input} textStyle={{ color: "black", fontFamily: "MyriadPro-Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
-        <Input placeholder='Inserisci password' style={styles.input} textStyle={{ color: "black", fontFamily: "MyriadPro-Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
-        <View style={styles.buttonContainerOrario}>
-          <TouchableOpacity onPress={handlePranzoPicker} style={styles.buttonOrario} textStyle={{ color: "black" }}>
-            {selectedPranzoTime ? <Text style={{ color: "black", fontFamily: "MyriadPro-Regular" }}>Orario del pranzo: {selectedPranzoTime}</Text> : <Text style={{ color: "black", fontFamily: "MyriadPro-Regular" }}>Seleziona orario pranzo</Text>}
-          </TouchableOpacity>
-        </View>
-        <View style={styles.buttonContainerOrario}>
-          <TouchableOpacity onPress={handleCenaPicker} style={styles.buttonOrario}>
-            {selectedCenaTime ? <Text style={{ color: "black", fontFamily: "MyriadPro-Regular" }}>Orario della cena: {selectedCenaTime}</Text> : <Text style={{ color: "black", fontFamily: "MyriadPro-Regular" }}>Seleziona orario cena</Text>}
-          </TouchableOpacity>
-        </View>
-        {showPranzoPicker && (
-          <DateTimePicker value={orariopranzo} mode="time" is24Hour={true} display="default" onChange={handleOrarioPranzoChange} />
-        )}
-        {showCenaPicker && (
-          <DateTimePicker value={orariocena} mode="time" is24Hour={true} display="default" onChange={handleOrarioCenaChange} />
-        )}
+
+        <ScrollView style={{ flex: 1 }}>
+
+          <Input placeholder='Inserisci username' style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
+          <Input placeholder='Inserisci password' style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
+
+          {Platform.OS === 'ios' ?
+            <View style={styles.buttonContainerOrario}>
+              <View style={styles.buttonOrario}>
+                <View style={styles.inputContainer}>
+                  <Text style={styles.inputTextStyle}>Orario del pranzo: </Text>
+                  <DateTimePicker value={orariopranzo} mode="time" is24Hour={true} display="default" onChange={handleOrarioPranzoChange} />
+                </View>
+              </View>
+            </View>
+            :
+            <View style={styles.buttonContainerOrario}>
+              <TouchableOpacity style={styles.buttonOrario} onPress={handlePranzoPicker}>
+                <View style={styles.inputContainer}>
+                  <Text style={styles.inputTextStyle}>Orario del pranzo:</Text>
+                  <Text style={styles.dateTimePickerAndroid}>{orariopranzo.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</Text>
+                </View>
+              </TouchableOpacity>
+              {showPranzoPicker && (<DateTimePicker value={orariopranzo} mode="time" is24Hour={true} display="default" onChange={handleOrarioPranzoChange} />)}
+            </View>
+          }
+
+          {Platform.OS === 'ios' ?
+            <View style={styles.buttonContainerOrario}>
+              <View style={styles.buttonOrario}>
+                <View style={styles.inputContainer}>
+                  <Text style={styles.inputTextStyle}>Orario della cena:</Text>
+                  <DateTimePicker value={orariocena} mode="time" is24Hour={true} display="default" onChange={handleOrarioCenaChange} />
+                </View>
+              </View>
+            </View>
+            :
+            <View style={styles.buttonContainerOrario}>
+              <TouchableOpacity style={styles.buttonOrario} onPress={handleCenaPicker}>
+                <View style={styles.inputContainer}>
+                  <Text style={styles.inputTextStyle}>Orario della cena: </Text>
+                  <Text style={styles.dateTimePickerAndroid}>{orariocena.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</Text>
+                </View>
+              </TouchableOpacity>
+              {showCenaPicker && (<DateTimePicker value={orariocena} mode="time" is24Hour={true} display="default" onChange={handleOrarioCenaChange} />)}
+            </View>
+          }
+
+
+        </ScrollView>
+
         {isLoading === false ?
           <View style={styles.buttonContainer}>
             <TouchableOpacity onPress={() => { handleCreate() }} style={styles.button}>
-              <Text style={{ alignSelf: "center", fontFamily: "MyriadPro-Regular" }}>Signup</Text>
+              <Text style={styles.textButton}>Signup</Text>
             </TouchableOpacity>
           </View>
           :
@@ -134,6 +147,7 @@ export default function Signup() {
             </View>
           </View>
         }
+
         <StatusBar style="auto" />
       </ImageBackground>
     </Layout>
@@ -154,12 +168,6 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     borderRadius: 15,
   },
-  messageContainer: {
-    marginHorizontal: 30,
-    textAlign: 'center',
-    padding: 10,
-    borderRadius: 15
-  },
   backgroundImage: {
     flex: 1,
   },
@@ -167,6 +175,10 @@ const styles = StyleSheet.create({
     backgroundColor: "#9B0800",
     borderRadius: 15,
     padding: 15
+  },
+  textButton: {
+    alignSelf: "center",
+    fontFamily: "Poppins_400Regular"
   },
   buttonOrario: {
     backgroundColor: "white",
@@ -196,12 +208,6 @@ const styles = StyleSheet.create({
     borderRadius: 15,
     padding: 10
   },
-  iconContainer: {
-    padding: 10
-  },
-  icon: {
-    color: 'white'
-  },
   imageContainer: {
     width: 200,
     height: 200,
@@ -214,7 +220,7 @@ const styles = StyleSheet.create({
     position: 'relative'
   },
   backgroundWrapper: {
-    ...StyleSheet.absoluteFillObject, // Fills the parent element
+    ...StyleSheet.absoluteFillObject,
     backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
@@ -225,4 +231,21 @@ const styles = StyleSheet.create({
     height: 150,
     resizeMode: 'contain',
   },
+  inputContainer: {
+    flexDirection: "row",
+    alignItems: "center"
+  },
+  inputTextStyle: {
+    color: "black",
+    fontFamily: "Poppins_400Regular"
+  },
+  dateTimePickerAndroid: {
+    color: "black",
+    fontFamily: "Poppins_400Regular",
+    backgroundColor: "#d1d1d1",
+    paddingTop: 5,
+    paddingHorizontal: 10,
+    borderRadius: 5,
+    marginLeft: 10
+  }
 });

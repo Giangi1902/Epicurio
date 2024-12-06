@@ -37,7 +37,7 @@ function Home() {
                     setUsername(storedUsername);
                 }
             } catch (error) {
-                console.log(error);
+                console.log("error");
             }
         };
         fetchUsername();

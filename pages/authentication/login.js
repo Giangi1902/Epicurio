@@ -6,7 +6,7 @@ import { useNavigation } from '@react-navigation/native';
 import axios from "axios";
 import * as Notifications from 'expo-notifications';
 
-const backgroundimg = require('../../food.png')
+const backgroundimg = require('../../images/food.png')
 
 function Login() {
   const [username, setUsername] = useState("");
@@ -81,16 +81,19 @@ function Login() {
     <Layout style={styles.container}>
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
       <ImageBackground source={backgroundimg} style={styles.backgroundImage} resizeMode='repeat'>
+
         <View style={styles.imageContainer}>
           <View style={styles.backgroundWrapper} />
           <Image source={require('../../images/image.png')} style={styles.image} />
         </View>
-        <Input placeholder="Inserisci username" style={styles.input} textStyle={{ color: "black", fontFamily: "MyriadPro-Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
-        <Input placeholder="Inserisci password" style={styles.input} textStyle={{ color: "black", fontFamily: "MyriadPro-Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
+
+        <Input placeholder="Inserisci username" style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
+        <Input placeholder="Inserisci password" style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
+        
         {isLoading === false ?
           <View style={styles.buttonContainer}>
             <TouchableOpacity onPress={() => { setIsLoading(!isLoading); startSpin(); handleLogin() }} style={styles.button}>
-              <Text style={{ alignSelf: "center", fontFamily: "MyriadPro-Regular", color: "white" }}>Login</Text>
+              <Text style={{ alignSelf: "center", fontFamily: "Poppins_400Regular", color: "white" }}>Login</Text>
             </TouchableOpacity>
           </View>
           :
@@ -100,6 +103,7 @@ function Login() {
             </View>
           </View>
         }
+
       </ImageBackground>
     </Layout>
   );
@@ -119,12 +123,6 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
     borderRadius: 15,
   },
-  messageContainer: {
-    marginHorizontal: 30,
-    textAlign: 'center',
-    padding: 10,
-    borderRadius: 15
-  },
   backgroundImage: {
     flex: 1,
   },
@@ -133,39 +131,13 @@ const styles = StyleSheet.create({
     borderRadius: 15,
     padding: 15
   },
-  buttonOrario: {
-    backgroundColor: "white",
-    borderRadius: 15,
-    padding: 10,
-  },
   buttonContainer: {
     paddingHorizontal: 100,
     marginVertical: 10
   },
-  buttonContainerOrario: {
-    borderColor: 'black',
-    borderWidth: 2,
-    backgroundColor: "white",
-    borderRadius: 15,
-    alignSelf: "center",
-    alignItems: "center",
-    width: '90%',
-    marginVertical: 10,
-  },
   loadingContainer: {
     alignItems: 'center',
     justifyContent: 'center'
-  },
-  blackBackground: {
-    backgroundColor: '#9B0800',
-    borderRadius: 15,
-    padding: 10
-  },
-  iconContainer: {
-    padding: 10
-  },
-  icon: {
-    color: 'white'
   },
   imageContainer: {
     width: 200,
@@ -179,7 +151,7 @@ const styles = StyleSheet.create({
     position: 'relative'
   },
   backgroundWrapper: {
-    ...StyleSheet.absoluteFillObject, // Fills the parent element
+    ...StyleSheet.absoluteFillObject,
     backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
