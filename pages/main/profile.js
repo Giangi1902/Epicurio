@@ -1,47 +1,34 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, PixelRatio, ScrollView } from "react-native";
+import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, ScrollView } from "react-native";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
-import { Layout, Text, Button } from "@ui-kitten/components";
+import { Layout, Text } from "@ui-kitten/components";
+import { normalize } from "./home";
 
 const { width: screenWidth } = Dimensions.get('window');
 const circleSize = screenWidth * 0.55;
-
-const { width: SCREEN_WIDTH } = Dimensions.get('window');
-
-// based on iphone 5s's scale
-const scale = SCREEN_WIDTH / 320;
-
-export function normalize(size) {
-    const newSize = size * scale
-    return Math.round(PixelRatio.roundToNearestPixel(newSize)) - 2
-}
-
 
 function Profile() {
     const [orariopranzo, setOrarioPranzo] = useState("");
     const [orariocena, setOrarioCena] = useState("");
     const [username, setUsername] = useState("");
-    const [loading, setLoading] = useState(false); // State per il loader
+    const [loading, setLoading] = useState(false);
     const navigation = useNavigation();
 
     const handleInfo = async () => {
         if (username !== "") {
             try {
-                setLoading(true); // Attiva il loader durante il fetch
+                setLoading(true);
                 const response = await axios.get(`http://192.168.1.123:8080/getInfo/${username}`);
-                if (response.data === "nonesiste") {
-                    // Gestione caso in cui l'utente non esiste
-                } else {
+                if (response.data !== "nonesiste") {
                     setOrarioPranzo(response.data.orario_pranzo);
                     setOrarioCena(response.data.orario_cena);
                 }
             } catch (error) {
                 console.log(error);
-                // Gestione dell'errore
             } finally {
-                setLoading(false); // Disattiva il loader dopo il fetch
+                setLoading(false);
             }
         }
     };
@@ -86,12 +73,12 @@ function Profile() {
 
     return (
         <Layout style={styles.container}>
-            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
-                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}>Profilo</Text>
+            <View style={styles.containerTitle}>
+                <View style={styles.containerTitleText}>
+                    <Text style={styles.textTitle}>Profilo</Text>
                 </View>
             </View>
-            <ScrollView style={{width: "90%", alignSelf: "center"}} showsVerticalScrollIndicator={false}>
+            <ScrollView style={styles.scrollViewContainer} showsVerticalScrollIndicator={false}>
                 {loading ? (
                     <View style={styles.profileContainer}>
                         <ActivityIndicator size="large" color="#000000" />
@@ -107,11 +94,11 @@ function Profile() {
                             </View>
                             <Text style={styles.usernameText}>{username}</Text>
                             <View style={styles.separator} />
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
+                            <View style={styles.containerDescription}>
                                 <Text style={styles.infoText}>Orario di pranzo:</Text>
                                 <Text style={styles.descriptionText}>{orariopranzo}</Text>
                             </View>
-                            <View style={{ flexDirection: "row", justifyContent: "space-between", width: '100%', marginVertical: 10 }}>
+                            <View style={styles.containerDescription}>
                                 <Text style={styles.infoText}>Orario di cena:</Text>
                                 <Text style={styles.descriptionText}>{orariocena}</Text>
                             </View>
@@ -120,10 +107,10 @@ function Profile() {
                 )}
                 <View style={styles.separator} />
                 <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
-                    <Text style={{ color: "white", fontSize: 20, fontFamily: "Poppins_500Medium", alignSelf: "center", justifyContent: "center" }}>Logout</Text>
+                    <Text style={styles.titleButton}>Logout</Text>
                 </TouchableOpacity>
                 <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
-                    <Text style={{ color: "white", fontSize: 20, fontFamily: "Poppins_500Medium", alignSelf: "center", justifyContent: "center" }}>Elimina account</Text>
+                    <Text style={styles.titleButton}>Elimina account</Text>
                 </TouchableOpacity>
             </ScrollView>
         </Layout>
@@ -190,10 +177,43 @@ const styles = StyleSheet.create({
     },
     separator: {
         width: '100%',
-        height: 1, // Increased height for better visibility
-        backgroundColor: 'black', // Changed color for testing
+        height: 1,
+        backgroundColor: 'black',
         marginVertical: 10,
     },
+    titleButton: {
+        color: "white",
+        fontSize: 20,
+        fontFamily: "Poppins_500Medium",
+        alignSelf: "center",
+        justifyContent: "center"
+    },
+    containerDescription: {
+        flexDirection: "row",
+        justifyContent: "space-between",
+        width: '100%',
+        marginVertical: 10
+    },
+    containerTitleText: {
+        alignItems: "center",
+        flexDirection: "row",
+        alignSelf: "center",
+        marginVertical: 10
+    },
+    containerTitle: {
+        backgroundColor: "#ADC8AD",
+        borderBottomRightRadius: 45,
+        borderBottomLeftRadius: 45
+    },
+    textTitle: {
+        color: "#0B7308",
+        fontSize: normalize(36),
+        fontFamily: "Poppins_600SemiBold_Italic"
+    },
+    scrollViewContainer: {
+        width: "90%",
+        alignSelf: "center"
+    }
 });
 
 export default Profile;

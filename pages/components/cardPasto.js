@@ -6,12 +6,12 @@ import { normalize } from "../main/home";
 function CardPasto({text}) {
 
     return (
-        <View style={styles.cardPasto}>
-            <TouchableOpacity style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
+        <TouchableOpacity style={styles.cardPasto}>
+            <View style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 15 }}>
                 <Text style={styles.dayText}>{text}</Text>
                 <Image source={require("../../images/plusblack.png")} style={styles.iconContainer}></Image>
-            </TouchableOpacity>
-        </View>
+            </View>
+        </TouchableOpacity>
     )
 }
 
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
         paddingVertical: 15,
         marginVertical: 10,
         borderColor: "#0B7308",
-        borderWidth: 1
+        borderWidth: 1,
     },
 });
 

@@ -6,6 +6,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
 import CardPasto from "../components/cardPasto";
+import Calendario from "./calendar";
 
 const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
@@ -26,8 +27,6 @@ function Home() {
     const navigation = useNavigation();
     const [currentDay, setCurrentDay] = useState("")
     const [data, setData] = useState([])
-    const [mealListModalVisible, setMealListModalVisible] = useState(false);
-    const [meals, setMeals] = useState([]);
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -68,20 +67,6 @@ function Home() {
                 console.log(e);
             }
         }
-    };
-
-    const openMealListModal = async () => {
-        try {
-            const response = await axios.get(`http://192.168.1.123:8080/getAllMeals/${username}`);
-            setMeals(response.data);
-            setMealListModalVisible(true);
-        } catch (e) {
-            console.log(e);
-        }
-    };
-
-    const closeMealListModal = () => {
-        setMealListModalVisible(false);
     };
 
     const [glasses, setGlasses] = useState([{ id: 1, type: "whitewater" }]);
@@ -130,20 +115,11 @@ function Home() {
             </View>
 
             <ScrollView style={styles.scrollView}>
-                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", }}>
-                    <View style={{ marginVertical: 10 }}>
-                        <Text style={{ alignSelf: "center", textAlign: "center", fontFamily: "Poppins_600SemiBold", color: "#0B7308", fontSize: normalize(14) }}>
-                            OGGI, 6 NOVEMBRE
-                        </Text>
-                    </View>
-
-                    <ScrollView style={{ flex: 1, marginBottom: "10%"}} >
-                        <CardPasto text="COLAZIONE"></CardPasto>
-                        <CardPasto text="PRANZO"></CardPasto>
-                        <CardPasto text="SPUNTINO"></CardPasto>
-                        <CardPasto text="CENA"></CardPasto>
-                    </ScrollView>
+                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", height: 400 }} >
+                    <Calendario />
                 </View>
+
+
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginTop: 15, padding: 10, alignItems: "center", flexWrap: "wrap" }}>
                     <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi litri d'acqua bevuti </Text>
                     <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "flex-start", alignItems: "flex-start", width: "100%" }}>
@@ -156,7 +132,6 @@ function Home() {
                 </View>
             </ScrollView>
         </Layout>
-
     );
 }
 
@@ -316,13 +291,12 @@ const styles = StyleSheet.create({
         borderWidth: 1
     },
     scrollView: {
-        paddingTop: 5,
         shadowColor: '#000',
-        shadowOffset: { width: 1, height: 2 },
+        shadowOffset: { width: 1, height: 1 },
         shadowOpacity: 0.1,
         shadowRadius: 5,
         elevation: 5,
-        marginTop: 15
+        marginVertical: 15,
     },
 });
 

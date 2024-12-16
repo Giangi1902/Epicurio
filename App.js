@@ -46,6 +46,7 @@ import Category from './pages/main/category.js';
 import GeoLocation from './pages/main/geolocation.js';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import Diet from './pages/main/diet.js';
+import Calendario from './pages/main/calendar.js'
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -77,9 +78,12 @@ function AuthStack({ navigation }) {
         tabBarStyle: { backgroundColor: "#9B0800" },
         tabBarActiveTintColor: "white",
         tabBarInactiveTintColor: "#27241F",
-        tabBarIndicatorStyle: { backgroundColor: "white" }
+        tabBarIndicatorStyle: { backgroundColor: "white" },
+        tabBarLabelStyle: {
+          fontFamily: "Poppins_400Regular"
+        }
       }}>      
-      <TopTab.Screen name="Signup" component={Signup} />
+      <TopTab.Screen name="Signup" component={Signup} style={{fontFamily: "Poppins_400Regular"}} />
       <TopTab.Screen name="Login" component={Login} />
     </TopTab.Navigator>
   );
@@ -141,7 +145,7 @@ function MainTabs() {
       />
       <BottomTab.Screen
         name="Diet"
-        component={Diet}
+        component={Calendario}
         options={{
           headerShown: false,
           tabBarLabel: "Diete",
