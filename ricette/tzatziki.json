@@ -1,1 +1,37 @@
-{"title": "Tzatziki", "category": "Salse e Sughi", "description": "Per preparare la salsa tzatziki, per prima cosa lavate ed eliminate i semi dal cetriolo, se presenti. Poi grattugiate il cetriolo con una grattugia a maglie larghe, senza togliere la buccia . Trasferite il cetriolo grattugiato in un colino posto sopra a una ciotola  e lasciatelo riposare per almeno un'ora, in modo che perda l'acqua di vegetazione .Trascorso questo tempo, sbucciate gli spicchi d'aglio ed eliminate l'anima con un coltello , poi tritateli finemente  schiacciandoli con la lama del coltello fino a ottenere una sorta di crema . In alternativa potete usare un mortaio con il pestello.Versate lo yogurt in una ciotola, aggiustate di sale  e aggiungete l'olio  e l'aceto , alternandoli fra di loro, poi mescolate bene.Ora strizzate il cetriolo premendo con il dorso di un cucchiaio  per eliminare tutta l'acqua di vegetazione  e unitelo allo yogurt .Infine aggiungete la crema di aglio  e mescolate ancora . Lasciate riposare la vostra salsa tzatziki in frigorifero per - ore per permettere ai sapori di amalgamarsi al meglio !", "ingredients": [["Yogurt greco", "400 g"], ["Cetrioli", "(175 g circa) 1"], ["Aglio", "2 spicchi"], ["Olio extravergine d'oliva", "20 g"], ["Aceto di vino bianco", "10 g"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale sar\u00e0 una salsa fresca e cremosa dal gusto leggermente acido e aromatico, grazie all'aglio e al cetriolo.\n\nQuesto piatto \u00e8 adatto per accompagnare piatti della cucina greca e mediterranea, come souvlaki, gyros e insalate, ma pu\u00f2 essere utilizzato anche come condimento per panini e focacce.\n\nIl Tzatziki \u00e8 adatto a persone che seguono una dieta vegetariana, in quanto non contiene ingredienti di origine animale. Pu\u00f2 essere consumato anche in una dieta dimagrante, poich\u00e9 ha un basso contenuto calorico, ma ricco di proteine grazie allo yogurt greco.\n\nLe persone intolleranti al lattosio dovrebbero evitare questa ricetta, a meno che non utilizzino un sostituto del lattosio per lo yogurt. Inoltre, chi soffre di intolleranza all'aglio dovrebbe evitare di consumare questo piatto."}
+{
+    "title": "Tzatziki",
+    "category": "Ricette",
+    "description": "Per preparare la salsa tzatziki, per prima cosa lavate ed eliminate i semi dal cetriolo, se presenti. Poi grattugiate il cetriolo con una grattugia a maglie larghe, senza togliere la buccia. Trasferite il cetriolo grattugiato in un colino posto sopra a una ciotolae lasciatelo riposare per almeno un’ora, in modo che perda l’acqua di vegetazione. Trascorso questo tempo, sbucciate gli spicchi d’aglio ed eliminate l’anima con un coltello, poi tritateli finementeschiacciandoli con la lama del coltello fino a ottenere una sorta di crema. In alternativa potete usare un mortaio con il pestello. Versate lo yogurt in una ciotola, aggiustate di salee aggiungete l’olioe l’aceto, alternandoli fra di loro, poi mescolate bene. Ora strizzate il cetriolo premendo con il dorso di un cucchiaioper eliminare tutta l’acqua di vegetazionee unitelo allo yogurt. Infine aggiungete la crema di aglioe mescolate ancora. Lasciate riposare la vostra salsa tzatziki in frigorifero per 2-3 ore per permettere ai sapori di amalgamarsi al meglio!",
+    "ingredients": [
+        [
+            "Yogurt greco",
+            "400 g"
+        ],
+        [
+            "Cetrioli",
+            "(175 g circa) 1"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "20 g"
+        ],
+        [
+            "Aceto di vino bianco",
+            "10 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

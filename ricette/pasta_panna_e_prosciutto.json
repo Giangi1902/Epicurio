@@ -1,1 +1,54 @@
-{"title": "Pasta panna e prosciutto", "category": null, "description": "Per realizzare la pasta panna e prosciutto, per prima cosa ponete sul fuoco una pentola colma di acqua, salate al bollore: servir\u00e0 per cuocere la pasta. Ora prendete le fettine di prosciutto cotto  e, con un coltello, tagliatele a piccoli pezzettini . Cuocete la pasta al dente  e occupatevi del condimento.Versate l'olio extra vergine di oliva all'interno di una padella e fate imbiondire uno spicchio di aglio . Aggiungete il prosciutto cotto  e fatelo rosolare per un minuto appena, dopodich\u00e9, eliminate l'aglio .\u00a0Aggiungete la panna fresca , il Grana Padano DOP grattugiato , il pepe nero e la noce moscata . Date una bella mescolata . Nel frattempo la pasta sar\u00e0 giunta a cottura, scolatela al dente e mettetela nella padella con il condimento .Fate amalgamare per bene tutti gli ingredienti e aggiungete poca acqua di cottura della pasta , quanto basta per rendere il piatto cremoso . Servite la pasta panna e prosciutto ben calda .", "ingredients": [["Penne Rigate", "320 g"], ["Panna fresca liquida", "200 g"], ["Prosciutto cotto", "100 g"], ["Olio extravergine d'oliva", "3 cucchiai"], ["Aglio", "1 spicchio"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Noce moscata", "q.b."], ["Grana Padano DOP", "(da grattugiare) 75 g"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 una pasta cremosa e saporita, grazie alla combinazione di panna fresca, prosciutto cotto e formaggio grattugiato. La pasta sar\u00e0 condita con una salsa cremosa arricchita dal sapore del prosciutto e del formaggio.\n\nQuesta ricetta \u00e8 adatta per una cena veloce ma gustosa, oppure per un pranzo conviviale in famiglia. Pu\u00f2 essere servita come piatto unico o come primo piatto in un men\u00f9 pi\u00f9 completo.\n\nQuesta ricetta non \u00e8 adatta per persone che seguono una dieta vegana o vegetariana, ma \u00e8 adatta per quelle che seguono una dieta onnivora. Le persone con intolleranze al lattosio potrebbero dover fare attenzione alla presenza di panna fresca e formaggio grattugiato. Coloro che soffrono di celiachia dovranno sostituire la pasta con una versione senza glutine."}
+{
+    "title": "Pasta panna e prosciutto",
+    "category": "Ricette",
+    "description": "Per preparare la pasta panna e prosciutto per prima cosa mettete sul fuoco una pentola di acqua salata per cuocere la pasta. Intanto tagliate il prosciutto cotto a listarelle. In una padella capiente fate insaporire un filo d’olio con uno spicchio d’aglio, poi aggiungete il prosciuttoe rosolatelo per circa 4 minuti, dovrà diventare leggermente dorato. Quando l’acqua sarà arrivata a bollore versate le penne e cuocetele al dente. Nel frattempo unite la panna al prosciutto nella padella, aromatizzate con noce moscatae proseguite la cottura a fuoco dolce per altri 2 minuti. Ricordatevi di eliminare l’aglio. Scolate la pasta e trasferitela nella padella, tenendo da parte un po’ della sua acqua di cottura. Mescolate per amalgamare la pasta al condimento, poi spegnete il fuoco e aggiungete il prezzemolo tritatoe il Parmigiano Reggiano DOP grattugiato. Mescolate ancora, aggiustando la cremosità con poca acqua di cottura se necessario, e completate con una macinata di pepe. La vostra pasta e prosciutto è pronta per essere servita ancora calda!",
+    "ingredients": [
+        [
+            "Penne Rigate",
+            "320 g"
+        ],
+        [
+            "Prosciutto cotto",
+            "200 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "250 g"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "(da grattugiare) 50 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Prezzemolo",
+            "q.b."
+        ],
+        [
+            "Noce moscata",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

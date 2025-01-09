@@ -1,1 +1,42 @@
-{"title": "Porridge mirtilli e pistacchi", "category": "Dolci", "description": "Per preparare il porridge mirtilli e pistacchi versate il latte in un tegame, aggiungete poi anche l'acqua  e un pizzico di sale . Versate i fiocchi d'avena e mescolate con una spatola .Accendete il fuoco e continuando a mescolare di tanto in tanto cuocete a fuoco medio per - minuti circa, fino ad ottenere la consistenza che preferite : dovr\u00e0 risultare cremosa e molto densa. Nel frattempo tritate grossolanamente i pistacchi  e teneteli da parte. Trascorso il tempo indicato spegnete il fuoco e versate all'interno della zuppa di avena circa  g di sciroppo d'agave  e mescolate; il resto dello sciroppo servir\u00e0 per la guarnizione finale.Aggiungete poi anche met\u00e0 dei pistacchi  e mescolate sempre con una spatola . Trasferite il porridge in due ciotoline e guarnite la superficie con i restanti pistacchi tritati ,con lo sciroppo d'agave tenuto da parte  e con i mirtilli freschi . Il vostro porridge mirtilli \u00e8 pistacchi \u00e8 ora pronto da gustare .", "ingredients": [["Fiocchi di avena", "140 g"], ["Latte intero", "200 g"], ["Acqua", "220 g"], ["Sale fino", "1 pizzico"], ["Sciroppo di agave", "70 g"], ["Mirtilli", "30 g"], ["Pistacchi", "20 g"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un cremoso porridge arricchito con mirtilli dolci e pistacchi croccanti. La dolcezza del porridge sar\u00e0 bilanciata dal sapore leggermente acidulo dei mirtilli e dalla nota salata dei pistacchi.\n\nOccasioni adatte: Questo porridge \u00e8 perfetto per la colazione, ma pu\u00f2 essere gustato anche come spuntino o dessert leggero.\n\nDieta: Questa ricetta \u00e8 adatta a persone che seguono una dieta sana ed equilibrata, in quanto \u00e8 ricca di fibre, proteine e sostanze antiossidanti. \u00c8 particolarmente indicata per chi segue uno stile di vita attivo e ha bisogno di energia a lungo termine.\n\nIntolleranze: Le persone con intolleranze al lattosio possono sostituire il latte intero con una bevanda vegetale senza lattosio. Inoltre, chi \u00e8 intollerante al glutine pu\u00f2 utilizzare fiocchi di avena certificati senza glutine. I pistacchi possono essere sostituiti con altra frutta se si \u00e8 allergici a essi."}
+{
+    "title": "Porridge mirtilli e pistacchi",
+    "category": "Ricette",
+    "description": "Per preparare il porridge mirtilli e pistacchi versate il latte in un tegame, aggiungete poi anche l'acquae un pizzico di sale. Versate i fiocchi d'avena e mescolate con una spatola. Accendete il fuoco e continuando a mescolare di tanto in tanto cuocete a fuoco medio per 4-6 minuti circa, fino ad ottenere la consistenza che preferite: dovrà risultare cremosa e molto densa. Nel frattempo tritate grossolanamente i pistacchie teneteli da parte. Trascorso il tempo indicato spegnete il fuoco e versate all'interno della zuppa di avena circa 50 g di sciroppo d'agavee mescolate; il resto dello sciroppo servirà per la guarnizione finale. Aggiungete poi anche metà dei pistacchie mescolate sempre con una spatola. Trasferite il porridge in due ciotoline e guarnite la superficie con i restanti pistacchi tritati, con lo sciroppo d'agave tenuto da partee con i mirtilli freschi. Il vostro porridge mirtilli è pistacchi è ora pronto da gustare.",
+    "ingredients": [
+        [
+            "Fiocchi di avena",
+            "140 g"
+        ],
+        [
+            "Latte intero",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "220 g"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ],
+        [
+            "Sciroppo di agave",
+            "70 g"
+        ],
+        [
+            "Mirtilli",
+            "30 g"
+        ],
+        [
+            "Pistacchi",
+            "20 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "4 min",
+        "Cottura": "4 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

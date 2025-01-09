@@ -1,1 +1,73 @@
-{"title": "Plumcake all'inglese", "category": "Dolci", "description": "Pulite l'uvetta sultanina e immergetela in un contenitore con dell'acqua  calda e quando si sar\u00e0 ammorbidita tamponatela con uno straccio ed asciugatela . Montate le uova con  gr di zucchero utilizzando un mixer o una planetaria; in una ciotola, montate il burro con il rimanente zucchero .Unite le uova montate al composto di burro e zucchero continuando a mescolare fino ad ottenere una crema liscia ed omogenea . Aggiungete quindi il rum , la scorza grattugiata di un limone .Quindi aggiungete il lievito e la farina setacciati . Unite i semi della bacca di vaniglia, i canditi e / dell'uvetta all'impasto e mescolate finch\u00e8 gli ingredienti non si saranno completamente amalgamati ; imburrate e infarinate un stampo da plum cake\u00a0 e versateci il composto  facendo attenzione che l'impasto non superi i / della forma del plum cake . Livellate con una spatola, aggiungete l'uvetta rimanente sulla superficie e cuocete in forno gi\u00e0 caldo a \u00b0 per circa un'ora (prima di estrarre il plumcake, punzecchiatelo con uno stecchino che una volta estratto, dovr\u00e0 risultare asciutto).Nel frattempo preparate la glassa per il plum cake mescolando l'acqua bollente con lo zucchero a velo  fino a che gli ingredienti non avranno raggiunto la giusta consistenza , quindi una volta sformato il plumcake ponetela sulla superficie del dolce .", "ingredients": [["Farina 00", "250 g"], ["Zucchero", "250 g"], ["Uova", "medie 6"], ["Uvetta", "sultanina 150 g"], ["Uvetta", "di Corinto 100 g"], ["Rum", "1 cucchiaio"], ["Arancia candita", "50 g"], ["Cedro candito", "50 g"], ["Baccello di vaniglia", "1"], ["Sale fino", "1 pizzico"], ["Scorza di limone", "1"], ["Lievito in polvere per dolci", "1 bustina"], ["Burro", "250 g"], ["Zucchero a velo", "4 cucchiai"], ["Acqua", "bollente q.b."]], "contesto": "Il risultato finale sar\u00e0 un delizioso plumcake dall'aroma avvolgente e dalla consistenza soffice e morbida. Grazie all'uvetta, all'arancia e al cedro canditi, avr\u00e0 un sapore dolce e leggermente fruttato che si sposa perfettamente con il profumo di rum e vaniglia.\n\nIl plumcake all'inglese \u00e8 adatto per occasioni di merenda, colazione o come dolce fine pasto. Si presta bene anche come dessert da servire durante le feste o per accompagnare una tazza di t\u00e8 caldo.\n\nQuesta ricetta non \u00e8 indicata per persone con intolleranze al glutine, al lattosio o agli agrumi, a causa della presenza di farina, burro e ingredienti canditi. Tuttavia, \u00e8 possibile apportare delle modifiche sostituendo la farina con una versione senza glutine, utilizzando burro senza lattosio e optando per ingredienti canditi senza agrumi."}
+{
+    "title": "Plumcake all'inglese",
+    "category": "Ricette",
+    "description": "Pulite l’uvetta sultanina e immergetela in un contenitore con dell’acquacalda e quando si sarà ammorbidita tamponatela con uno straccio ed asciugatela. Montate le uova con 125 gr di zucchero utilizzando un mixer o una planetaria; in una ciotola, montate il burro con il rimanente zucchero. Unite le uova montate al composto di burro e zucchero continuando a mescolare fino ad ottenere una crema liscia ed omogenea. Aggiungete quindi il rum, la scorza grattugiata di un limone. Quindi aggiungete il lievito e la farina setacciati. Unite i semi della bacca di vaniglia, i canditi e 2/3 dell’uvetta all’impasto e mescolate finchè gli ingredienti non si saranno completamente amalgamati; imburrate e infarinate un stampo da plum cake  e versateci il compostofacendo attenzione che l’impasto non superi i 2/3 della forma del plum cake . Livellate con una spatola, aggiungete l’uvetta rimanente sulla superficie e cuocete in forno già caldo a 180° per circa un’ora (prima di estrarre il plumcake, punzecchiatelo con uno stecchino che una volta estratto, dovrà risultare asciutto). Nel frattempo preparate la glassa per il plum cake mescolando l’acqua bollente con lo zucchero a velofino a che gli ingredienti non avranno raggiunto la giusta consistenza, quindi una volta sformato il plumcake ponetela sulla superficie del dolce.",
+    "ingredients": [
+        [
+            "Farina 00",
+            "250 g"
+        ],
+        [
+            "Zucchero",
+            "250 g"
+        ],
+        [
+            "Uova",
+            "medie 6"
+        ],
+        [
+            "Uvetta",
+            "sultanina 150 g"
+        ],
+        [
+            "Uvetta",
+            "di Corinto 100 g"
+        ],
+        [
+            "Rum",
+            "1 cucchiaio"
+        ],
+        [
+            "Arancia candita",
+            "50 g"
+        ],
+        [
+            "Cedro candito",
+            "50 g"
+        ],
+        [
+            "Baccello di vaniglia",
+            "1"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ],
+        [
+            "Scorza di limone",
+            "1"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "1 bustina"
+        ],
+        [
+            "Burro",
+            "250 g"
+        ],
+        [
+            "Zucchero a velo",
+            "4 cucchiai"
+        ],
+        [
+            "Acqua",
+            "bollente q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "60 min",
+        "Costo": "Medio"
+    }
+}

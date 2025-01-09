@@ -1,1 +1,21 @@
-{"title": "Mascarpone fatto in casa", "category": "Dolci", "description": "Per preparare il mascarpone fatto in casa come prima cosa spremete il limone e tenete il succo da parte. Ora versate la panna in una pentola e accendete il fuoco, a fiamma bassa. Mescolate accuratamente con un mestolo di legno  e scaldate la panna fino a raggiungere una temperatura di \u00b0 (utilizzate un termometro da cucina per misurare la giusta temperatura) .\u00a0A questo punto spegnete la fiamma e aggiungete il succo di limone  e mescolate . Lasciate intiepidire per  minuti. Preparate una ciotola\u00a0e inserite all'interno un setaccio .Inserite ora all'interno del setaccio un canovaccio pulito . Versate all'interno la panna  e\u00a0coprite con pellicola . Il composto dovr\u00e0 riposare in frigorifero per  ore in modo che il canovaccio filtrer\u00e0 i liquidi, che coleranno nella ciotola.Trascorse le  ore riprendete la ciotola dal frigo . Il vostro mascarpone fatto in casa \u00e8 pronto. Con l'aiuto di un cucchiaio prelevatelo  e conservatelo in una ciotola pulita , o in un barattolo.", "ingredients": [["Panna fresca liquida", "600 g"], ["Succo di limone", "15 g"]], "contesto": "Il risultato finale sar\u00e0 un cremoso e delizioso mascarpone fatto in casa, dal sapore delicato e avvolgente, perfetto da gustare da solo o utilizzato come ingrediente in dolci e dessert.\n\nOccasioni adatte: Il mascarpone fatto in casa \u00e8 perfetto per arricchire dolci e dessert, come tiramis\u00f9, cheesecake, mousse e creme. \u00c8 ottimo da servire durante feste, cene speciali o semplicemente per coccolarsi con un dolce fatto in casa.\n\nDieta o regime alimentare: Il mascarpone fatto in casa \u00e8 adatto a tutti coloro che seguono una dieta lattiero-casearia e non sono intolleranti al lattosio. \u00c8 un alimento ricco di grassi e calorie, quindi va consumato con moderazione all'interno di una dieta bilanciata.\n\nIntolleranze: Le persone con intolleranza al lattosio dovrebbero prestare attenzione al consumo di mascarpone, in quanto contiene lattosio. Tuttavia, \u00e8 possibile utilizzare enzimi lattasici specifici per ridurre il contenuto di lattosio nella panna fresca e rendere il mascarpone pi\u00f9 digeribile per chi ha problemi di intolleranza."}
+{
+    "title": "Mascarpone fatto in casa",
+    "category": "Ricette",
+    "description": "Per preparare il mascarpone fatto in casa come prima cosa spremete il limone e tenete il succo da parte. Ora versate la panna in una pentola e accendete il fuoco, a fiamma bassa. Mescolate accuratamente con un mestolo di legnoe scaldate la panna fino a raggiungere una temperatura di 82° (utilizzate un termometro da cucina per misurare la giusta temperatura). A questo punto spegnete la fiamma e aggiungete il succo di limonee mescolate. Lasciate intiepidire per 10 minuti. Preparate una ciotola e inserite all'interno un setaccio. Inserite ora all'interno del setaccio un canovaccio pulito. Versate all'interno la pannae coprite con pellicola. Il composto dovrà riposare in frigorifero per 24 ore in modo che il canovaccio filtrerà i liquidi, che coleranno nella ciotola. Trascorse le 24 ore riprendete la ciotola dal frigo. Il vostro mascarpone fatto in casa è pronto. Con l’aiuto di un cucchiaio prelevateloe conservatelo in una ciotola pulita, o in un barattolo.",
+    "ingredients": [
+        [
+            "Panna fresca liquida",
+            "600 g"
+        ],
+        [
+            "Succo di limone",
+            "15 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Costo": "Basso"
+    }
+}

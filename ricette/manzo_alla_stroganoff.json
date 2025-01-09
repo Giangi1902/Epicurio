@@ -1,1 +1,66 @@
-{"title": "Manzo alla Stroganoff", "category": "Secondi piatti", "description": "Per preparare il manzo alla Stroganoff, incominciate ad affettare molto finemente la cipolla ; poi pulite bene i funghi e tagliateli a fette ; infine tagliate a listarelle, lunghe circa  cm, la polpa di manzo .In una casseruola antiaderente e capiente fate appassire per  minuti la cipolla con  gr di burro, preso dalla dose totale: la cipolla deve diventare trasparente e se si secca molto aggiungete qualche cucchiaio di acqua. Aggiunge in padella anche i funghi  insieme a un paio di cucchiai di prezzemolo  e portate a termine la cottura per altri  minuti , quindi salate e pepate.Intanto infarinate le listarelle di carne  e fatele cuocere con un filo d'olio e i restanti  gr di burro in un'altra padella  a fuoco vivace; non appena inizieranno a rosolarsi sfumate con la vodka  e continuate a cuocere. Aggiustate la carne di sale e pepe.Unite i funghi e le cipolle alla carne  e infine la panna acida  e la passata di pomodoro. Fate cuocere ancora per qualche minuto, mescolando con un cucchiaio tra di loro gli ingredienti, fino a quando la panna non si sara' ben amalgamata . Il manzo alla Stroganoff \u00e8 pronto per essere portato in tavola!", "ingredients": [["Cipolle bianche", "500 g"], ["Funghi champignon", "500 g"], ["Burro", "50 g"], ["Panna acida", "80 g"], ["Olio extravergine d'oliva", "q.b."], ["Prezzemolo", "da tritare 2 ciuffi"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Vodka", "45 ml"], ["Passata di pomodoro", "50 g"], ["Acqua", "q.b."], ["Farina", "q.b."], ["Manzo", "polpa 1 kg"]], "contesto": "Il risultato finale sar\u00e0 un delizioso e cremoso piatto di manzo alla Stroganoff, con fragranti funghi champignon e cipolle bianche in una salsa ricca di panna acida e vodka. Il tutto servito su un letto di riso o pasta.\n\nQuesto piatto \u00e8 adatto per occasioni speciali o cene eleganti, ma pu\u00f2 essere preparato anche come secondo piatto pi\u00f9 sostanzioso per un pranzo in famiglia.\n\nLa ricetta del Manzo alla Stroganoff \u00e8 adatta a persone che seguono una dieta proteica e ricca di calorie. Pu\u00f2 essere consumato anche da persone che seguono una dieta senza glutine, purch\u00e9 la farina utilizzata per la panatura sia senza glutine. Tuttavia, non \u00e8 adatto a persone intolleranti al lattosio, in quanto contiene panna acida, o a persone intolleranti al glutine, a meno di utilizzare appositi ingredienti privi di glutine."}
+{
+    "title": "Manzo alla Stroganoff",
+    "category": "Ricette",
+    "description": "Per preparare il manzo alla Stroganoff, incominciate ad affettare molto finemente la cipolla; poi pulite bene i funghi e tagliateli a fette; infine tagliate a listarelle, lunghe circa 5 cm, la polpa di manzo. In una casseruola antiaderente e capiente fate appassire per 10 minuti la cipolla con 25 gr di burro, preso dalla dose totale: la cipolla deve diventare trasparente e se si secca molto aggiungete qualche cucchiaio di acqua. Aggiunge in padella anche i funghiinsieme a un paio di cucchiai di prezzemoloe portate a termine la cottura per altri 10 minuti, quindi salate e pepate. Intanto infarinate le listarelle di carnee fatele cuocere con un filo d'olio e i restanti 25 gr di burro in un'altra padellaa fuoco vivace; non appena inizieranno a rosolarsi sfumate con la vodkae continuate a cuocere. Aggiustate la carne di sale e pepe. Unite i funghi e le cipolle alla carnee infine la panna acidae la passata di pomodoro. Fate cuocere ancora per qualche minuto, mescolando con un cucchiaio tra di loro gli ingredienti, fino a quando la panna non si sara’ ben amalgamata. Il manzo alla Stroganoff è pronto per essere portato in tavola!",
+    "ingredients": [
+        [
+            "Cipolle bianche",
+            "500 g"
+        ],
+        [
+            "Funghi champignon",
+            "500 g"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Panna acida",
+            "80 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Prezzemolo",
+            "da tritare 2 ciuffi"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Vodka",
+            "45 ml"
+        ],
+        [
+            "Passata di pomodoro",
+            "50 g"
+        ],
+        [
+            "Acqua",
+            "q.b."
+        ],
+        [
+            "Farina",
+            "q.b."
+        ],
+        [
+            "Manzo",
+            "polpa 1 kg"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "35 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

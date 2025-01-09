@@ -1,1 +1,42 @@
-{"title": "Pesto alla trapanese", "category": "Salse e Sughi", "description": "Per preparare il pesto alla trapanese, potete versare la mandorle pelate nel mixer  in modo da frullarle finemente . Quindi unite i pomodori tagliati a pezzi grossolani, basilico e un pizzico di sale , uno spicchi di aglio intero privato della camicia e procedete a frullare ancora qualche istante.Lasciate pure la consistenza piuttosto grossolana. Una volta che sar\u00e0 diventato un composto omogeneo , trasferite in una ciotola, unite il Pecorino grattugiato  e l'olio .Mescolate , in modo da creare un composto omogeneo . Il vostro pesto trapanese \u00e8 pronto per essere utilizzato per condire la pasta .", "ingredients": [["Pomodori pizzutelli", "maturi 250 g"], ["Mandorle", "70 g"], ["Basilico", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Aglio rosso", "1 spicchio"], ["Pecorino", "(siciliano, da grattugiare) 1 cucchiaio"]], "contesto": "Il risultato finale del Pesto alla trapanese sar\u00e0 una salsa di consistenza cremosa e dal sapore intenso e fresco, grazie all'abbinamento di pomodori maturi, mandorle, basilico e aglio, il tutto arricchito dall'olio extravergine d'oliva e dal pecorino siciliano grattugiato.\n\nQuesta ricetta \u00e8 adatta per condire pasta corta come spaghetti o trofie, oppure per farcire bruschette e panini. \u00c8 perfetta per un pranzo o una cena estiva, da gustare all'aperto in compagnia di amici e familiari.\n\nIl Pesto alla trapanese \u00e8 adatto a una dieta mediterranea, in quanto ricco di ingredienti freschi e genuini. \u00c8 adatto anche a vegetariani e vegani, escludendo il pecorino grattugiato. Per chi segue una dieta senza glutine, basta utilizzare ingredienti privi di glutine e controllare la presenza di contaminazioni nel pecorino.\n\nLe persone con intolleranze al lattosio o alle mandorle dovrebbero evitare il pecorino grattugiato e le mandorle, rispettivamente. Chi soffre di intolleranza al glutine pu\u00f2 optare per ingredienti senza glutine e controllare la presenza di contaminazioni nel pecorino."}
+{
+    "title": "Pesto alla trapanese",
+    "category": "Ricette",
+    "description": "Per preparare il pesto alla trapanese, potete versare la mandorle pelate nel mixerin modo da frullarle finemente. Quindi unite i pomodori tagliati a pezzi grossolani, basilico e un pizzico di sale, uno spicchi di aglio intero privato della camicia e procedete a frullare ancora qualche istante. Lasciate pure la consistenza piuttosto grossolana. Una volta che sarà diventato un composto omogeneo, trasferite in una ciotola, unite il Pecorino grattugiatoe l'olio. Mescolate, in modo da creare un composto omogeneo. Il vostro pesto trapanese è pronto per essere utilizzato per condire la pasta.",
+    "ingredients": [
+        [
+            "Pomodori pizzutelli",
+            "maturi 250 g"
+        ],
+        [
+            "Mandorle",
+            "70 g"
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Aglio rosso",
+            "1 spicchio"
+        ],
+        [
+            "Pecorino",
+            "(siciliano, da grattugiare) 1 cucchiaio"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

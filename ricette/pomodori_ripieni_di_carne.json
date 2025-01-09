@@ -1,1 +1,50 @@
-{"title": "Pomodori ripieni di carne", "category": "Secondi piatti", "description": "Per preparare i pomodori ripieni di carne, per prima cosa lavate i pomodori, tagliate la calotta superiore a uno spessore di circa  cm  e tenetele da parte. Svuotate l'interno dei pomodori con l'aiuto di un cucchiaino  e tritate finemente la polpa estratta .Pelate le carote e tagliatele prima a striscioline  e poi a cubetti molto piccoli . Infine eliminate le estremit\u00e0 del porro e tagliatelo a rondelle sottili .Ora prendete una padella antiaderente, versate circa  g di olio presi dalla dose totale e aggiungete il porro e le carote . Soffriggete a fuoco medio-alto per circa - minuti, poi unite la carne macinata  e fatela rosolare per circa  minuti. A questo punto sfumate con il vino bianco  e lasciatelo evaporare completamente,poi versate la polpa di pomodoro tritata , abbassate la fiamma e lasciate cuocere per - minuti. In ultimo aromatizzate con l'origano , salate, pepate e spegnete il fuoco .Sistemate i pomodori svuotati in una pirofila, salate l'interno  e conditelo con un filo d'olio . Riempite i pomodori con il ripieno di carne fino all'orlo ,copriteli con le calotte che avevate tenuto da parte , aggiungete un altro filo d'olio in superficie  e cuocete in forno statico preriscaldato a \u00b0 per  minuti, posizionando la pirofila sul ripiano in basso. Una volta cotti, i vostri pomodori ripieni di carne sono pronti per essere serviti ben caldi !", "ingredients": [["Pomodori cuore di bue", "6"], ["Vitello", "macinato 200 g"], ["Carote", "100 g"], ["Porri", "80 g"], ["Vino bianco", "50 g"], ["Olio extravergine d'oliva", "50 g"], ["Origano", "secco q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto colorato e gustoso, con i pomodori cuore di bue ripieni di una deliziosa mistura di carne di vitello macinata, carote e porri, condita con vino bianco, olio extravergine d'oliva, origano, sale e pepe nero.\n\nOccasioni adatte: Questa ricetta \u00e8 perfetta per un pranzo o una cena in famiglia o con gli amici, oppure come piatto principale per una cena raffinata.\n\nDieta/Regime alimentare: Questa ricetta \u00e8 adatta per chi segue una dieta bilanciata e che include carne magra e verdure. \u00c8 ideale per una dieta proteica e pu\u00f2 essere adattata per una dieta chetogenica eliminando le carote e riducendo la quantit\u00e0 di cipolle.\n\nIntolleranze: Le persone con intolleranze alimentari possono mangiare questa ricetta, ad eccezione di coloro che soffrono di allergia al pomodoro o al vitello. \u00c8 importante controllare che gli ingredienti siano di alta qualit\u00e0 e freschi per evitare eventuali problemi di intolleranza alimentare."}
+{
+    "title": "Pomodori ripieni di carne",
+    "category": "Ricette",
+    "description": "Per preparare i pomodori ripieni di carne, per prima cosa lavate i pomodori, tagliate la calotta superiore a uno spessore di circa 2 cme tenetele da parte. Svuotate l’interno dei pomodori con l’aiuto di un cucchiainoe tritate finemente la polpa estratta. Pelate le carote e tagliatele prima a strisciolinee poi a cubetti molto piccoli. Infine eliminate le estremità del porro e tagliatelo a rondelle sottili. Ora prendete una padella antiaderente, versate circa 30 g di olio presi dalla dose totale e aggiungete il porro e le carote. Soffriggete a fuoco medio-alto per circa 4-5 minuti, poi unite la carne macinatae fatela rosolare per circa 3 minuti. A questo punto sfumate con il vino biancoe lasciatelo evaporare completamente, poi versate la polpa di pomodoro tritata, abbassate la fiamma e lasciate cuocere per 5-6 minuti. In ultimo aromatizzate con l’origano, salate, pepate e spegnete il fuoco. Sistemate i pomodori svuotati in una pirofila, salate l’internoe conditelo con un filo d’olio. Riempite i pomodori con il ripieno di carne fino all’orlo, copriteli con le calotte che avevate tenuto da parte, aggiungete un altro filo d’olio in superficiee cuocete in forno statico preriscaldato a 200° per 30 minuti, posizionando la pirofila sul ripiano in basso. Una volta cotti, i vostri pomodori ripieni di carne sono pronti per essere serviti ben caldi!",
+    "ingredients": [
+        [
+            "Pomodori cuore di bue",
+            "6"
+        ],
+        [
+            "Vitello",
+            "macinato 200 g"
+        ],
+        [
+            "Carote",
+            "100 g"
+        ],
+        [
+            "Porri",
+            "80 g"
+        ],
+        [
+            "Vino bianco",
+            "50 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "50 g"
+        ],
+        [
+            "Origano",
+            "secco q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "45 min",
+        "Dosi per": "6 pezzi",
+        "Costo": "Basso"
+    }
+}

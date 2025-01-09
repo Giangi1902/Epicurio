@@ -1,1 +1,46 @@
-{"title": "Crostoni al formaggio", "category": null, "description": "Per preparare i crostoni al formaggio, per prima cosa tagliate il pane a fette dello spessore di , cm . Trasferite le fette di pane su una leccarda foderata con carta forno e spalmatele di burro , poi tostatele in forno statico preriscaldato a \u00b0 per circa  minuti. Nel frattempo tagliate a cubetti sia l'Edam che l'Emmental .Versate il formaggio in un mixer , poi aggiungete il Grana Padano DOP grattugiato  e il pepe .Unite anche la panna  e frullate per ottenere un composto omogeneo . Tritate al coltello gli aghi di rosmarino .Riprendete le fette di pane tostato e spalmatele con la crema di formaggio , poi guarnite col rosmarino tritato . Infornate nuovamente nel forno caldo, abbassate la temperatura a \u00b0 e cuocete per circa  minuti. I vostri crostoni al formaggio sono pronti per essere gustati !", "ingredients": [["Pane casereccio", "8 fette"], ["Emmentaler", "50 g"], ["Edamer", "50 g"], ["Panna fresca liquida", "30 g"], ["Grana Padano DOP", "da grattugiare 10 g"], ["Rosmarino", "1 rametto"], ["Pepe nero", "2 pizzichi"], ["Burro", "q.b."]], "contesto": "Il risultato finale sar\u00e0 croccanti crostoni di pane casereccio ricoperti da una deliziosa crema di formaggi e aromatizzati con rosmarino e pepe nero. I crostoni saranno arricchiti dal sapore intenso dell'Emmentaler e dell'Edamer, insieme alla cremosit\u00e0 data dalla panna fresca e al tocco di grana Padano grattugiato. \n\nQuesta ricetta \u00e8 adatta per aperitivi e buffet, ma pu\u00f2 essere anche servita come antipasto o come piatto principale leggero. \u00c8 perfetta da gustare in occasioni informali con amici o familiari.\n\nI crostoni al formaggio sono adatti per una dieta equilibrata, ma vanno consumati con moderazione a causa dell'alto contenuto di grassi derivati dai formaggi e dalla panna. Tuttavia, possono essere facilmente adattati alle esigenze di una dieta vegetariana.\n\nLe persone con intolleranza al lattosio dovrebbero evitare questa ricetta o cercare alternative con formaggi a basso contenuto di lattosio. Le persone con intolleranza al glutine possono utilizzare pane senza glutine per la preparazione dei crostoni."}
+{
+    "title": "Crostoni al formaggio",
+    "category": "Ricette",
+    "description": "Per preparare i crostoni al formaggio, per prima cosa tagliate il pane a fette dello spessore di 1,5 cm. Trasferite le fette di pane su una leccarda foderata con carta forno e spalmatele di burro, poi tostatele in forno statico preriscaldato a 200° per circa 4 minuti. Nel frattempo tagliate a cubetti sia l’Edam che l’Emmental. Versate il formaggio in un mixer, poi aggiungete il Grana Padano DOP grattugiatoe il pepe. Unite anche la pannae frullate per ottenere un composto omogeneo. Tritate al coltello gli aghi di rosmarino. Riprendete le fette di pane tostato e spalmatele con la crema di formaggio, poi guarnite col rosmarino tritato. Infornate nuovamente nel forno caldo, abbassate la temperatura a 180° e cuocete per circa 10 minuti. I vostri crostoni al formaggio sono pronti per essere gustati!",
+    "ingredients": [
+        [
+            "Pane casereccio",
+            "8 fette"
+        ],
+        [
+            "Emmentaler",
+            "50 g"
+        ],
+        [
+            "Edamer",
+            "50 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "30 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "da grattugiare 10 g"
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Pepe nero",
+            "2 pizzichi"
+        ],
+        [
+            "Burro",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Dosi per": "8 pezzi",
+        "Costo": "Basso"
+    }
+}

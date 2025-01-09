@@ -1,1 +1,78 @@
-{"title": "Pasta c'anciova", "category": "Primi piatti", "description": "Per preparare la pasta c'anciova iniziate versando le acciughe in una padella con un l'olio  mescolate spesso affinch\u00e9 non si sciolgano completamente. Successivamente unite prima l'aglio tritato finemente  e poi le i pinoli e l'uva passolina , fate insaporire per un paio di minuti.\u00a0Nel frattempo mettete sul fuoco la pentola con l'acqua per la pasta e occupatevi anche\u00a0della \u201cmuddica atturrata\u201d (cio\u00e8 del\u00a0pangrattato abbrustolito). Mettete le mandorle in un sacchetto e trituratele grossolanamente con un batticarne o un pesetto . Versate il pangrattato in una padella antiaderente  e unite le mandorle sbriciolate .Aggiungete l'olio\u00a0e un pizzico di sale e poi lasciate\u00a0 tostare a fuoco medio per circa  minuti\u00a0mescolando spesso per evitare che si bruci : dovr\u00e0 diventare di un bel colore abbrustolito. A questo punto cuocete salate l'acqua bollente e cuocete la pasta . Quando sar\u00e0 al dente scolatela in pentola per aggiustarla con il condimento, mescolate  e servite la vostra pasta c'anciova con una spolverata di muddica atturrata e prezzemolo tritato a piacere.", "ingredients": [["Reginette", "350"], ["Concentrato di pomodoro", "200 g"], ["Acqua", "tiepida 2 bicchieri"], ["Aglio", "2 spicchi"], ["Acciughe sott'olio", "10"], ["Uva passa", "passolina 30 g"], ["Pinoli", "30 g"], ["Olio extravergine d'oliva", "40 g"], ["Zucchero", "1 pizzico"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Prezzemolo", "q.b."], ["Pangrattato", "70 g"], ["Mandorle pelate", "15"], ["Olio extravergine d'oliva", "1 cucchiaio"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta \"Pasta c'anciova\" sar\u00e0 un primo piatto di reginette condite con una salsa a base di acciughe, pomodoro, uva passa, pinoli e prezzemolo, arricchito da una croccante granella di pangrattato e mandorle.\n\nOccasioni: Questa ricetta \u00e8 adatta per una cena speciale, un pranzo in famiglia o una cena tra amici.\n\nDieta/Regime alimentare: La ricetta \u00e8 adatta per una dieta mediterranea o per chi segue una dieta equilibrata. Pu\u00f2 essere consumata anche in una dieta vegetariana, sostituendo le acciughe con un'alternativa vegetale.\n\nIntolleranze: Le persone con intolleranza al glutine dovranno utilizzare reginette senza glutine e verificare che il pangrattato e gli altri ingredienti siano privi di glutine. Le persone con intolleranza al lattosio dovranno controllare che il concentrato di pomodoro non contenga lattosio. Le persone con allergie alle acciughe, alle mandorle o ai pinoli dovranno evitare di consumare questa ricetta."}
+{
+    "title": "Pasta c'anciova",
+    "category": "Ricette",
+    "description": "Per preparare la pasta c'anciova iniziate versando le acciughe in una padella con un l'oliomescolate spesso affinché non si sciolgano completamente. Successivamente unite prima l'aglio tritato finementee poi le i pinoli e l'uva passolina, fate insaporire per un paio di minuti.  Nel frattempo mettete sul fuoco la pentola con l'acqua per la pasta e occupatevi anche della “muddica atturrata” (cioè del pangrattato abbrustolito). Mettete le mandorle in un sacchetto e trituratele grossolanamente con un batticarne o un pesetto. Versate il pangrattato in una padella antiaderentee unite le mandorle sbriciolate. Aggiungete l'olio e un pizzico di sale e poi lasciate  tostare a fuoco medio per circa 5 minuti mescolando spesso per evitare che si bruci: dovrà diventare di un bel colore abbrustolito. A questo punto cuocete salate l'acqua bollente e cuocete la pasta. Quando sarà al dente scolatela in pentola per aggiustarla con il condimento, mescolatee servite la vostra pasta c'anciova con una spolverata di muddica atturrata e prezzemolo tritato a piacere.",
+    "ingredients": [
+        [
+            "Reginette",
+            "350"
+        ],
+        [
+            "Concentrato di pomodoro",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "tiepida 2 bicchieri"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Acciughe sott'olio",
+            "10"
+        ],
+        [
+            "Uva passa",
+            "passolina 30 g"
+        ],
+        [
+            "Pinoli",
+            "30 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Zucchero",
+            "1 pizzico"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Prezzemolo",
+            "q.b."
+        ],
+        [
+            "Pangrattato",
+            "70 g"
+        ],
+        [
+            "Mandorle pelate",
+            "15"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "1 cucchiaio"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Calamari gratinati al forno",
+    "category": "Ricette",
+    "description": "Per preparare i calamari gratinati al forno, come prima cosa dedicatevi allapulizia dei calamari, poi tagliateli ad anelli di 2,5 cm di spessore. Dal pane ricavate la mollica e tagliatela grossolanamente. Mettetela in un mixer e aggiungete olio, salee pepe. Unite il prezzemolo, il basilicoe il timo. Continuate con la scorzae il succo di limone. Frullate fino ad ottenere una panure omogenea. Passate gli anelli nella panuree adagiateli su una teglia ricoperta di carta forno. Cuocete in forno statico a 180°C per 20 minuti, passate poi alla funzione ventilata e continuate a cuocere per altri 5 minuti. I vostri calamari gratinati al forno sono pronti per essere gustati.",
+    "ingredients": [
+        [
+            "Calamari",
+            "da pulire 1 kg"
+        ],
+        [
+            "Pane",
+            "mollica 150 g"
+        ],
+        [
+            "Scorza di limone",
+            "1"
+        ],
+        [
+            "Succo di limone",
+            "1"
+        ],
+        [
+            "Prezzemolo",
+            "1 mazzetto"
+        ],
+        [
+            "Basilico",
+            "1 mazzetto"
+        ],
+        [
+            "Timo",
+            "1 rametto"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "50 g"
+        ],
+        [
+            "Sale",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

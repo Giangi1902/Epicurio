@@ -1,1 +1,54 @@
-{"title": "Banana split", "category": "Dolci", "description": "Per preparare la banana split iniziate a preparare i due topping: per quello al cioccolato tritate il cioccolato fondente con un coltello , fatelo sciogliere a bagnomaria e aggiungete circa  ml di panna scaldata in un pentolino mescolando di continuo . Passate con un colino  cucchiai di confettura di fragole  per eliminare i semini ed ottenere cos\u00ec una purea. Montate la rimanente panna fresca.Tagliate a met\u00e0 una banana per il lungo  e disponetela su di un piatto ovale o a \u201cbarchetta\u201d, disponetevi quindi una pallina di gelato alla fragola, una di gelato alla vaniglia e una di gelato al cioccolato . Poi decorate con i topping di fragola e cioccolato a piacere e con la panna montata . Guarnite infine il banana split con della granella di nocciole, scagliette di cioccolato e ciliegie candite.", "ingredients": [["Banane", "1"], ["Gelato alla fragola", "pallina 1"], ["Cioccolato fondente", "80 g"], ["Panna fresca liquida", "150 ml"], ["Granella di nocciole", "q.b."], ["Cioccolato fondente", "in scagliette q.b."], ["Ciliegie candite", "3"], ["Confettura di fragole", "2 cucchiai"], ["Gelato al cioccolato", "pallina 1"], ["Gelato alla panna", "pallina 1"]], "contesto": "Il risultato finale della ricetta del Banana split sar\u00e0 un dessert delizioso e colorato, composto da una banana tagliata a met\u00e0 e farcita con tre palline di gelato (fragola, cioccolato e panna), decorata con salsa di cioccolato fondente, panna montata, granella di nocciole, scagliette di cioccolato, ciliegie candite e confettura di fragole.\n\nL'occasione ideale per gustare il Banana split \u00e8 come dessert dopo un pasto o come spuntino goloso da condividere con amici o familiari. \u00c8 adatto per occasioni informali e estive.\n\nPer quanto riguarda le diete o i regimi alimentari, il Banana split non \u00e8 indicato per diete ipocaloriche o restrittive a causa del suo alto contenuto di zuccheri e grassi. Tuttavia, pu\u00f2 essere consumato occasionalmente come treat per chi non segue una dieta specifica.\n\nLe persone con intolleranze al lattosio o allergie alle nocciole o al cioccolato fondente dovrebbero fare attenzione o evitare di consumare questa ricetta. \u00c8 possibile sostituire il gelato alla fragola, al cioccolato e alla panna con alternative senza lattosio o vegane. Inoltre, \u00e8 importante verificare la presenza di tracce di allergeni nella granella di nocciole e nelle ciliegie candite e optare per alternative sicure per chi ha intolleranze specifiche."}
+{
+    "title": "Banana split",
+    "category": "Ricette",
+    "description": "Per preparare la banana split iniziate a preparare i due topping: per quello al cioccolato tritate il cioccolato fondente con un coltello, fatelo sciogliere a bagnomaria e aggiungete circa 30 ml di panna scaldata in un pentolino mescolando di continuo. Passate con un colino 2 cucchiai di confettura di fragoleper eliminare i semini ed ottenere così una purea. Montate la rimanente panna fresca. Tagliate a metà una banana per il lungoe disponetela su di un piatto ovale o a “barchetta”, disponetevi quindi una pallina di gelato alla fragola, una di gelato alla vaniglia e una di gelato al cioccolato. Poi decorate con i topping di fragola e cioccolato a piacere e con la panna montata. Guarnite infine il banana split con della granella di nocciole, scagliette di cioccolato e ciliegie candite.",
+    "ingredients": [
+        [
+            "Banane",
+            "1"
+        ],
+        [
+            "Gelato alla fragola",
+            "pallina 1"
+        ],
+        [
+            "Cioccolato fondente",
+            "80 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "150 ml"
+        ],
+        [
+            "Granella di nocciole",
+            "q.b."
+        ],
+        [
+            "Cioccolato fondente",
+            "in scagliette q.b."
+        ],
+        [
+            "Ciliegie candite",
+            "3"
+        ],
+        [
+            "Confettura di fragole",
+            "2 cucchiai"
+        ],
+        [
+            "Gelato al cioccolato",
+            "pallina 1"
+        ],
+        [
+            "Gelato alla panna",
+            "pallina 1"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "5 min",
+        "Dosi per": "1 pezzi",
+        "Costo": "Basso"
+    }
+}

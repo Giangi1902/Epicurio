@@ -1,1 +1,38 @@
-{"title": "Abbacchio a scottadito", "category": "Secondi piatti", "description": "Per preparare l'abbacchio a scottadito per prima cosa preparate le costolette eliminando le parti in eccesso  e\u00a0 battendo il nodino di carne delle costolette con l'aiuto di un batticarne . Disponete le costolette in una pirofila, salate e pepate a piacere da ambo i lati, ungetele con l'olio\u00a0  ,\u00a0 profumate con l'aglio tritatoe il rosmarino fresco  . Lasciate le costolette cos\u00ec condite a marinare in frigo per circa  minuti. Trascorso il tempo della marinatura saranno pronte per la cottura. Scaldate una piastra di ghisa e cuocete le costolette a fuoco vivace per circa  minuti per lato , quando le costolette saranno cotte servitele il vostro abbacchio a scottadito caldissimo  accompagnandolo con qualche fetta di limone.", "ingredients": [["Abbacchio", "450 g"], ["Olio extravergine d'oliva", "3 cucchiai"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Rosmarino", "1 rametto"], ["Limoni", "1"]], "contesto": "Il risultato finale sar\u00e0 un piatto succulento e profumato, con l'abbacchio cotto alla perfezione e dal sapore deciso e aromatico grazie al rosmarino e al limone.\n\nOccasioni: Questo piatto \u00e8 perfetto per una cena in famiglia o per un pranzo speciale, adatto sia per occasioni informali che formali.\n\nDiete o regime alimentare: Questa ricetta \u00e8 adatta per chi segue una dieta mediterranea o vuole gustare un piatto ricco di sapori tipici della cucina italiana.\n\nIntolleranze alimentari: Le persone con intolleranze al glutine o allattosio possono mangiare questo piatto senza problemi. Tuttavia, chi soffre di intolleranza al lattosio dovrebbe evitare di condire l'abbacchio con burro o formaggio."}
+{
+    "title": "Abbacchio a scottadito",
+    "category": "Ricette",
+    "description": "Per preparare l’abbacchio a scottadito per prima cosa preparate le costolette eliminando le parti in eccessoe  battendo il nodino di carne delle costolette con l’aiuto di un batticarne. Disponete le costolette in una pirofila, salate e pepate a piacere da ambo i lati, ungetele con l’olio,  profumate con l’aglio tritato e il rosmarino fresco. Lasciate le costolette così condite a marinare in frigo per circa 30 minuti. Trascorso il tempo della marinatura saranno pronte per la cottura. Scaldate una piastra di ghisa e cuocete le costolette a fuoco vivace per circa 4 minuti per lato, quando le costolette saranno cotte servitele il vostro abbacchio a scottadito caldissimoaccompagnandolo con qualche fetta di limone.",
+    "ingredients": [
+        [
+            "Abbacchio",
+            "450 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "3 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Limoni",
+            "1"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,42 @@
-{"title": "Salsiccia in padella", "category": "Secondi piatti", "description": "Per preparare la salsiccia in padella cominciate dividendo le salsicce una ad una se fossero legate dallo spago . Schiacciate uno spicchio d'aglio pulito sotto al dorso di una lama  e spostatevi ai fornelli. In una padella versate pochissimo olio ,adagiate le salsicce  e unite anche l'aglio insieme al rametto di rosmarino e la foglia di alloro . Lasciate sfrigolare a fiamma vivace per circa  minuti mescolando non appena i vari lati si sono un po' abbrustoliti .Rimuovete gli odori, abbassate la fiamma e coprite con il coperchio  quindi lasciate cucinare ancora per una decina di minuti agitando di tanto in tanto la padella .\u00a0Ecco pronta la vostra salsiccia in padella da gustare caldissima, guarnite con le erbe aromatiche fresche e buon appetito .", "ingredients": [["Salsiccia", "500 g"], ["Olio extravergine d'oliva", "q.b."], ["Rosmarino", "1 rametto"], ["Alloro", "1 foglia"], ["Aglio", "1 spicchio"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "- Risultato finale: La salsiccia in padella sar\u00e0 croccante fuori e morbida all'interno, profumata con il rosmarino e l'alloro, e condita con pepe nero per un tocco di piccantezza. Sar\u00e0 un piatto saporito e ricco di sapori.\n\n- Occasioni: La salsiccia in padella \u00e8 perfetta per una cena informale con amici o in famiglia, da accompagnare magari con contorni di verdure o patate. Pu\u00f2 essere anche un'ottima idea per un barbecue o una grigliata all'aperto.\n\n- Diete/regimi alimentari: La salsiccia in padella \u00e8 adatta per una dieta bilanciata e varia, ma pu\u00f2 essere consumata con moderazione se si segue una dieta ipocalorica o ipocalorica iperproteica. \u00c8 adatta anche per chi segue una dieta chetogenica o low carb, purch\u00e9 si tenga conto delle quantit\u00e0 di grassi presenti nella salsiccia.\n\n- Intolleranze: Le persone con intolleranze al lattosio possono consumare la salsiccia in padella, purch\u00e9 si verifichi che non siano presenti derivati del latte tra gli ingredienti. Le persone con intolleranze al glutine devono assicurarsi che la salsiccia utilizzata sia priva di glutine. Infine, le persone con intolleranze al nichel devono prestare attenzione alla presenza di condimenti contenenti nichel tra gli ingredienti."}
+{
+    "title": "Salsiccia in padella",
+    "category": "Ricette",
+    "description": "Per preparare la salsiccia in padella cominciate dividendo le salsicce una ad una se fossero legate dallo spago. Schiacciate uno spicchio d'aglio pulito sotto al dorso di una lamae spostatevi ai fornelli. In una padella versate pochissimo olio, adagiate le salsiccee unite anche l'aglio insieme al rametto di rosmarino e la foglia di alloro. Lasciate sfrigolare a fiamma vivace per circa 10 minuti mescolando non appena i vari lati si sono un po' abbrustoliti. Rimuovete gli odori, abbassate la fiamma e coprite con il coperchioquindi lasciate cucinare ancora per una decina di minuti agitando di tanto in tanto la padella. Ecco pronta la vostra salsiccia in padella da gustare caldissima, guarnite con le erbe aromatiche fresche e buon appetito.",
+    "ingredients": [
+        [
+            "Salsiccia",
+            "500 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Alloro",
+            "1 foglia"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

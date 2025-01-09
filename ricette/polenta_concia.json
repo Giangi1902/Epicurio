@@ -1,1 +1,46 @@
-{"title": "Polenta concia", "category": "Piatti Unici", "description": "Per realizzare la polenta concia iniziate tagliando a cubetti la fontina  e la toma . Quindi ponete sul fuoco un tegame d'acciaio dal fondo spesso, versate l'acqua e scaldatela, quando inizier\u00e0 a sfiorare il bollore aggiungete\u00a0il sale ,\u00a0versate la farina a pioggia mescolando con un cucchiaio di legno  mantenete la cottura ad alta temperatura mescolando velocemente . Aggiungete anche l'olio di oliva che servir\u00e0 per evitare la formazione di grumi , proseguite con la cottura per  minuti a fuoco dolce senza smettere di mescolare, avendo cura di non far attaccare al fondo la polenta.\u00a0Cinque minuti prima del termine della cottura  salate e aggiungete i formaggi a pezzetti  e mescolate cos\u00ec da farli sciogliere .Intanto ponete il burro in un tegame  e scioglietelo a fuoco dolce . Quando la polenta sar\u00e0 pronta e i formaggi al suo interno ben sciolti, versatela all'interno di tegamini di terracotta  che permetteranno di mantenere la pietanza calda.Con il dorso di un cucchiaio realizzate una conca al centro della polenta e versate qui il burro fuso . Insaporite con pepe a piacere  e servite la vostra polenta concia ben calda .", "ingredients": [["Farina di mais bramata", "500 g"], ["Toma", "200 g"], ["Fontina", "200 g"], ["Burro", "200 g"], ["Acqua", "2 l"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 una polenta cremosa e saporita, arricchita dalla presenza della toma e della fontina e dal burro fuso che conferir\u00e0 un gusto ricco e avvolgente.\n\nOccasioni adatte: la polenta concia \u00e8 perfetta per una cena invernale in famiglia o tra amici, ma pu\u00f2 essere anche servita come piatto unico durante un pranzo rustico.\n\nDiete adatte: la polenta concia \u00e8 adatta alla dieta vegetariana ma non alla dieta vegana a causa della presenza di formaggi. Pu\u00f2 essere consumata anche da chi segue una dieta senza glutine, a patto di utilizzare una farina di mais certificata senza glutine.\n\nIntolleranze: le persone con intolleranza al lattosio potrebbero trovare difficolt\u00e0 a digerire la presenza di formaggi nella ricetta. Per chi \u00e8 intollerante al lattosio si consiglia di sostituire i formaggi con alternative senza lattosio o limitare il consumo della polenta concia."}
+{
+    "title": "Polenta concia",
+    "category": "Ricette",
+    "description": "Per realizzare la polenta concia iniziate tagliando a cubetti la fontinae la toma. Quindi ponete sul fuoco un tegame d’acciaio dal fondo spesso, versate l'acqua e scaldatela, quando inizierà a sfiorare il bollore aggiungete il sale, versate la farina a pioggia mescolando con un cucchiaio di legnomantenete la cottura ad alta temperatura mescolando velocemente. Aggiungete anche l’olio di oliva che servirà per evitare la formazione di grumi, proseguite con la cottura per 50 minuti a fuoco dolce senza smettere di mescolare, avendo cura di non far attaccare al fondo la polenta. Cinque minuti prima del termine della cotturasalate e aggiungete i formaggi a pezzettie mescolate così da farli sciogliere. Intanto ponete il burro in un tegamee scioglietelo a fuoco dolce. Quando la polenta sarà pronta e i formaggi al suo interno ben sciolti, versatela all’interno di tegamini di terracottache permetteranno di mantenere la pietanza calda. Con il dorso di un cucchiaio realizzate una conca al centro della polenta e versate qui il burro fuso. Insaporite con pepe a piaceree servite la vostra polenta concia ben calda.",
+    "ingredients": [
+        [
+            "Farina di mais bramata",
+            "500 g"
+        ],
+        [
+            "Toma",
+            "200 g"
+        ],
+        [
+            "Fontina",
+            "200 g"
+        ],
+        [
+            "Burro",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "2 l"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "50 min",
+        "Dosi per": "6 persone",
+        "Costo": "Basso"
+    }
+}

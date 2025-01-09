@@ -1,1 +1,46 @@
-{"title": "Spaghetti all'arancia con acciughe", "category": "Primi piatti", "description": "Preparare gli spaghetti all'arancia con acciughe richiede pochissimo tempo, quindi basta organizzare i tempi: cominciate subito mettendo l'acqua per la pasta sul fuoco, intanto tagliate le due estremit\u00e0 dell'arancia  e poi sbucciatela interamente ; quando la polpa sar\u00e0 completamente separata dalla buccia, cominciate a pelarla a vivo separando gli spicchi del frutto con la lama del coltello .tagliate in pezzettini l'arancia , sminuzzate anche i filetti d'acciughe (alici) . In una padella lasciate profumare l'olio insieme allo spicchio d'aglio ,poi poco dopo toglietelo  e versate i filetti d'acciughe  e lasciateli cuocere qualche istante dopodich\u00e9 aggiungete i pezzetti d'arancia  e lasciate insaporire , poi sfumate al cointreau  facendo molta attenzione alla possibile fiammata (nel caso in cui succedesse non preoccupatevi, si estinguer\u00e0 in brevissimo tempo).In una padella antiaderente versate il pangrattato  e lasciate dorare per qualche minuto . A questo punto l'acqua per la pasta sar\u00e0 ormai in ebollizione, quindi versateci gli spaghetti  e aggiustate di sale.Quando saranno cotti scolateli e versateli nella padella con il condimento , aggiungete il pangrattato abbrustolito  e completate con le foglioline di menta . Rimestate e servite subito gli spaghetti all'arancia.", "ingredients": [["Spaghetti", "360 g"], ["Arance", "600 g"], ["Acciughe sott'olio", "40 g"], ["Pangrattato", "30 g"], ["Menta", "5 foglie"], ["Olio extravergine d'oliva", "40 g"], ["Cointreau", "40 g"], ["Aglio", "1 spicchio"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un piatto di spaghetti fresco e aromatico, arricchito dal sapore agrumato delle arance e dalla nota salina delle acciughe. Il pangrattato croccante e la freschezza della menta completeranno il piatto, creando un equilibrio perfetto di sapori.\n\nQuesto piatto \u00e8 adatto per occasioni speciali e cene eleganti, ma pu\u00f2 essere preparato anche come un piatto semplice da gustare in famiglia.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta equilibrata e gustosa, in quanto contiene ingredienti freschi e leggeri. \u00c8 anche adatta a persone che seguono una dieta mediterranea.\n\nLe persone con intolleranze al glutine possono consumare questa ricetta se utilizzano spaghetti senza glutine. Le persone con intolleranze al lattosio possono consumarla se evitano di aggiungere formaggio alla fine. Le persone con intolleranze al pesce dovranno evitare di aggiungere le acciughe."}
+{
+    "title": "Spaghetti all'arancia con acciughe",
+    "category": "Ricette",
+    "description": "Preparare gli spaghetti all’arancia con acciughe richiede pochissimo tempo, quindi basta organizzare i tempi: cominciate subito mettendo l’acqua per la pasta sul fuoco, intanto tagliate le due estremità dell’aranciae poi sbucciatela interamente; quando la polpa sarà completamente separata dalla buccia, cominciate a pelarla a vivo separando gli spicchi del frutto con la lama del coltello. tagliate in pezzettini l’arancia, sminuzzate anche i filetti d’acciughe (alici). In una padella lasciate profumare l’olio insieme allo spicchio d’aglio, poi poco dopo toglieteloe versate i filetti d’acciughee lasciateli cuocere qualche istante dopodiché aggiungete i pezzetti d’aranciae lasciate insaporire, poi sfumate al cointreaufacendo molta attenzione alla possibile fiammata (nel caso in cui succedesse non preoccupatevi, si estinguerà in brevissimo tempo). In una padella antiaderente versate il pangrattatoe lasciate dorare per qualche minuto. A questo punto l’acqua per la pasta sarà ormai in ebollizione, quindi versateci gli spaghettie aggiustate di sale. Quando saranno cotti scolateli e versateli nella padella con il condimento, aggiungete il pangrattato abbrustolitoe completate con le foglioline di menta. Rimestate e servite subito gli spaghetti all’arancia.",
+    "ingredients": [
+        [
+            "Spaghetti",
+            "360 g"
+        ],
+        [
+            "Arance",
+            "600 g"
+        ],
+        [
+            "Acciughe sott'olio",
+            "40 g"
+        ],
+        [
+            "Pangrattato",
+            "30 g"
+        ],
+        [
+            "Menta",
+            "5 foglie"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Cointreau",
+            "40 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,38 @@
-{"title": "Crema al pistacchio", "category": null, "description": "Per preparare la crema al pistacchio in una pentola versate lo zucchero, la maizena , il sale (facoltativo)  e i tuorli .\u00a0Proseguite versando la pasta di pistacchi  e un po' del latte a temperatura ambiente. Mescolate energicamente con una frusta, fino ad ottenere un composto liscio . Aggiungete quindi il latte rimastoe trasferite il composto sul fuoco . Mescolate di continuo per alcuni minuti fino a che la crema non si sar\u00e0 addensata . A questo punto trasferite la crema in una ciotola, coprite con la pellicola a contatto  e lasciate raffreddare.\u00a0", "ingredients": [["Latte intero", "(a temperatura ambiente) 750 ml"], ["Tuorli", "(circa 4, a temperatura ambiente) 72 g"], ["Zucchero", "270 g"], ["Amido di mais (maizena)", "100 g"], ["Sale fino", "(facoltativo) q.b."], ["Pasta di pistacchi", "100 g"]], "contesto": "Il risultato finale della crema al pistacchio sar\u00e0 una crema densa e vellutata dal sapore intenso e profumato di pistacchio, con una leggera nota di dolcezza. La crema avr\u00e0 un colore verde brillante grazie alla pasta di pistacchi utilizzata.\n\nQuesta crema al pistacchio \u00e8 adatta per essere gustata come dessert, magari accompagnata da biscotti secchi o frutta fresca. \u00c8 perfetta per occasioni speciali come cene eleganti o feste, ma pu\u00f2 essere gustata anche come dolce dopo un pasto quotidiano.\n\nQuesta ricetta non \u00e8 adatta per persone con intolleranze al latte o alle uova, in quanto contiene latte intero e tuorli. Tuttavia, \u00e8 adatta per persone che seguono una dieta vegetariana. Se si utilizza pasta di pistacchi senza glutine, la crema pu\u00f2 essere adatta anche per persone celiache. Sconsigliata per persone con intolleranze ai pistacchi."}
+{
+    "title": "Crema al pistacchio",
+    "category": "Ricette",
+    "description": "Per preparare la crema al pistacchio in una pentola versate lo zucchero, la maizena, il sale (facoltativo)e i tuorli. Proseguite versando la pasta di pistacchie un po' del latte a temperatura ambiente. Mescolate energicamente con una frusta, fino ad ottenere un composto liscio. Aggiungete quindi il latte rimasto e trasferite il composto sul fuoco. Mescolate di continuo per alcuni minuti fino a che la crema non si sarà addensata. A questo punto trasferite la crema in una ciotola, coprite con la pellicola a contattoe lasciate raffreddare.",
+    "ingredients": [
+        [
+            "Latte intero",
+            "(a temperatura ambiente) 750 ml"
+        ],
+        [
+            "Tuorli",
+            "(circa 4, a temperatura ambiente) 72 g"
+        ],
+        [
+            "Zucchero",
+            "270 g"
+        ],
+        [
+            "Amido di mais (maizena)",
+            "100 g"
+        ],
+        [
+            "Sale fino",
+            "(facoltativo) q.b."
+        ],
+        [
+            "Pasta di pistacchi",
+            "100 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "6 persone",
+        "Costo": "Medio"
+    }
+}

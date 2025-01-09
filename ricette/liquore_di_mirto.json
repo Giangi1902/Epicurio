@@ -1,1 +1,28 @@
-{"title": "Liquore di mirto", "category": "Bevande", "description": "Mettete le bacche di mirto in un recipiente a chiusura ermetica abbastanza grande da contenere sia le bacche che l'alcool.Coprite le bacche di mirto con l'alcool e lasciate riposare il tutto in un posto buio e fresco per almeno  giorni, agitando di tanto in tanto il recipiente.Trascorso questo tempo filtrate l'alcool dalle bacche di mirto e dai residui e strizzate delicatamente le bacche con un canovaccio o con della stamina per ricavarne tutti i succhi e le essenze che hanno assorbito.Nel frattempo preparate uno sciroppo facendo bollire l'acqua, e sciogliendovi lo zucchero; una volta ottenuto lo sciroppo, fatelo raffreddare e poi miscelatelo con l'alcool aromatizzato. Filtrate di nuovo il tutto, imbottigliate e lasciate riposare il liquore cos\u00ec ottenuto per almeno un mese, meglio se due, in un luogo fresco.", "ingredients": [["Bacche di mirto", "600 g"], ["Acqua", "1 l"], ["Zucchero", "600 g"], ["Alcol puro", "a 90\u00b0 1 l"]], "contesto": "Il liquore di mirto sar\u00e0 un liquore dolce e aromatico, con un colore rosso intenso grazie alle bacche di mirto. Avr\u00e0 un aroma intenso e un sapore ricco, perfetto da gustare come digestivo dopo i pasti.\n\nIl liquore di mirto \u00e8 adatto per essere servito in occasioni speciali come feste e cerimonie, ma anche come accompagnamento per dessert e dolci.\n\nIl liquore di mirto \u00e8 adatto per chi segue una dieta non troppo restrittiva, poich\u00e9 \u00e8 ricco di zuccheri e calorie. \u00c8 importante consumarlo con moderazione per non eccedere nell'apporto calorico.\n\nLe persone con intolleranze al glutine possono consumare il liquore di mirto, mentre chi \u00e8 intollerante al lattosio deve fare attenzione se vengono utilizzati ingredienti derivati dal latte durante la produzione del liquore."}
+{
+    "title": "Liquore di mirto",
+    "category": "Ricette",
+    "description": "Mettete le bacche di mirto in un recipiente a chiusura ermetica abbastanza grande da contenere sia le bacche che l’alcool.Coprite le bacche di mirto con l’alcool e lasciate riposare il tutto in un posto buio e fresco per almeno 40 giorni, agitando di tanto in tanto il recipiente.Trascorso questo tempo filtrate l’alcool dalle bacche di mirto e dai residui e strizzate delicatamente le bacche con un canovaccio o con della stamina per ricavarne tutti i succhi e le essenze che hanno assorbito.Nel frattempo preparate uno sciroppo facendo bollire l’acqua, e sciogliendovi lo zucchero; una volta ottenuto lo sciroppo, fatelo raffreddare e poi miscelatelo con l’alcool aromatizzato. Filtrate di nuovo il tutto, imbottigliate e lasciate riposare il liquore così ottenuto per almeno un mese, meglio se due, in un luogo fresco.",
+    "ingredients": [
+        [
+            "Bacche di mirto",
+            "600 g"
+        ],
+        [
+            "Acqua",
+            "1 l"
+        ],
+        [
+            "Zucchero",
+            "600 g"
+        ],
+        [
+            "Alcol puro",
+            "a 90° 1 l"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Dosi per": "10 persone"
+    }
+}

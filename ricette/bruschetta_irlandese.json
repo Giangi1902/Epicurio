@@ -1,1 +1,41 @@
-{"title": "Bruschetta irlandese", "category": "Antipasti", "description": "Per preparare le bruschette irlandesi prendete la pagnotta di pane nero ai cereali e tagliatela a fette dello spessore di circa  cm; disponetele sul tagliere, tagliatele a met\u00e0  e su di esse spalmate uno strato di burro (circa  gr) con l'ausilio di un coltello . Ripetete l'operazione per tutte le fettine di pane .Dopo di che prendete il salmone e tagliatelo a fettine: ogni fettina dovr\u00e0 pesare pi\u00f9 o meno  gr e dovr\u00e0 avere la stessa dimensione della fetta di pane . Quindi adagiate ogni fettina di salmone ottenuta sul pane  e su ogni bruschetta aggiungete qualche foglia di rucola (pi\u00f9 o meno  gr per ciascuna fetta) .Su ogni fetta aggiungete un cucchiaino di capperi (circa  gr) , infine insaporite con un pizzico di sale grosso  e una spruzzata di limone . Ecco, le vostre bruschette irlandesi sono pronte per essere gustate!", "ingredients": [["Salmone affumicato", "360 g"], ["Rucola", "50 g"], ["Capperi sotto sale", "dissalati 50 g"], ["Sale grosso", "q.b."], ["Limoni", "1"], ["Pane nero ai cereali", "400 g"], ["Burro", "60 g"]], "contesto": "Il risultato finale della Bruschetta irlandese sar\u00e0 un antipasto fresco e saporito, con l'aroma affumicato del salmone che si unisce alla freschezza della rucola e all'acidit\u00e0 dei capperi e del limone. Il pane nero ai cereali conferir\u00e0 un tocco croccante e rustico alla preparazione, mentre il burro aggiunger\u00e0 una nota di morbidezza al tutto.\n\nQuesta ricetta \u00e8 adatta per occasioni informali come aperitivi con amici o picnic all'aperto. Pu\u00f2 essere servita anche come antipasto in occasioni speciali come cene eleganti.\n\nLa Bruschetta irlandese \u00e8 adatta a una dieta equilibrata e sana, in quanto fornisce una buona quota di proteine dal salmone e di fibre dai cereali del pane. Tuttavia, va consumata con moderazione a causa del contenuto di grassi presenti nel salmone affumicato e nel burro.\n\nLe persone con intolleranza al glutine possono optare per una versione senza glutine del pane, mentre coloro che soffrono di intolleranza al lattosio possono sostituire il burro con una margarina senza lattosio. \u00c8 importante prestare attenzione alla presenza di eventuali tracce di glutine nel salmone affumicato e nei capperi, per evitare reazioni allergiche."}
+{
+    "title": "Bruschetta irlandese",
+    "category": "Ricette",
+    "description": "Per preparare le bruschette irlandesi prendete la pagnotta di pane nero ai cereali e tagliatela a fette dello spessore di circa 1 cm; disponetele sul tagliere, tagliatele a metàe su di esse spalmate uno strato di burro (circa 5 gr) con l’ausilio di un coltello. Ripetete l'operazione per tutte le fettine di pane. Dopo di che prendete il salmone e tagliatelo a fettine: ogni fettina dovrà pesare più o meno 30 gr e dovrà avere la stessa dimensione della fetta di pane. Quindi adagiate ogni fettina di salmone ottenuta sul panee su ogni bruschetta aggiungete qualche foglia di rucola (più o meno 4 gr per ciascuna fetta). Su ogni fetta aggiungete un cucchiaino di capperi (circa 4 gr), infine insaporite con un pizzico di sale grossoe una spruzzata di limone. Ecco, le vostre bruschette irlandesi sono pronte per essere gustate!",
+    "ingredients": [
+        [
+            "Salmone affumicato",
+            "360 g"
+        ],
+        [
+            "Rucola",
+            "50 g"
+        ],
+        [
+            "Capperi sotto sale",
+            "dissalati 50 g"
+        ],
+        [
+            "Sale grosso",
+            "q.b."
+        ],
+        [
+            "Limoni",
+            "1"
+        ],
+        [
+            "Pane nero ai cereali",
+            "400 g"
+        ],
+        [
+            "Burro",
+            "60 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

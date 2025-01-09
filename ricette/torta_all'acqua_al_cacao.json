@@ -1,1 +1,50 @@
-{"title": "Torta all'acqua al cacao", "category": "Dolci", "description": "Per preparare la torta all'acqua al cacao, per prima cosa, in una ciotola, lavorate con una frusta a mano o le fruste elettriche le uova con lo zucchero .Una volta ottenuto un composto omogeneo e cremoso, unite l'acqua , l'olio di semi di girasole  e il sale.\u00a0Mescolate e aggiungete il cacao amaro setacciandolo . Incorporate poi il lievito sempre setacciandolo . Infine versate la farina poco alla volta .Mescolate bene fino a ottenere un composto liscio e omogeneo . Versate in uno stampo leggermente unto e infarinato da  cm di diametro e livellate bene, scuotendo lo stampo delicatamente . Infornate in forno statico a \u00b0 per  minuti nella parte media del forno. Fate la prova stecchino per verificarne la cottura. Se uscir\u00e0 asciutto la torta \u00e8 pronta e potrete sfornarla. Fate raffreddarla bene prima di toglierla dallo stampo e guarnite con zucchero a velo a piacere .", "ingredients": [["Farina 00", "250 g"], ["Zucchero", "150 g"], ["Acqua", "a temperatura ambiente 180 g"], ["Cacao amaro in polvere", "40 g"], ["Olio di semi di girasole", "80 g"], ["Uova", "2"], ["Sale fino", "1 pizzico"], ["Lievito in polvere per dolci", "16 g"], ["Zucchero a velo", "q.b."]], "contesto": "Il risultato finale della torta all'acqua al cacao sar\u00e0 un dolce soffice e leggero, dal sapore intenso di cacao e con una consistenza umida grazie all'utilizzo dell'acqua e dell'olio di semi di girasole. La presenza delle uova conferir\u00e0 un colore dorato alla torta e render\u00e0 la consistenza ancora pi\u00f9 morbida. La superficie potr\u00e0 essere decorata con zucchero a velo per una presentazione pi\u00f9 accattivante.\n\nQuesta torta \u00e8 adatta per diverse occasioni, come colazioni, merende o dessert da servire durante feste e compleanni. Grazie al suo sapore intenso e alla semplicit\u00e0 della preparazione, pu\u00f2 essere apprezzata da grandi e piccini.\n\nLa torta all'acqua al cacao \u00e8 adatta a persone che seguono diete o regimi alimentari vegetariani. Essendo priva di burro e latte, \u00e8 adatta anche a persone intolleranti al lattosio o al glutine, purch\u00e9 si utilizzi del lievito senza glutine. Tuttavia, chi \u00e8 intollerante agli allergeni presenti negli ingredienti (uova, semi di girasole) dovrebbe evitare di consumarla."}
+{
+    "title": "Torta all'acqua al cacao",
+    "category": "Ricette",
+    "description": "Per preparare la torta all'acqua al cacao, per prima cosa, in una ciotola, lavorate con una frusta a mano o le fruste elettriche le uova con lo zucchero.Una volta ottenuto un composto omogeneo e cremoso, unite l'acqua, l'olio di semi di girasolee il sale. Mescolate e aggiungete il cacao amaro setacciandolo. Incorporate poi il lievito sempre setacciandolo. Infine versate la farina poco alla volta. Mescolate bene fino a ottenere un composto liscio e omogeneo. Versate in uno stampo leggermente unto e infarinato da 24 cm di diametro e livellate bene, scuotendo lo stampo delicatamente. Infornate in forno statico a 180° per 40 minuti nella parte media del forno. Fate la prova stecchino per verificarne la cottura. Se uscirà asciutto la torta è pronta e potrete sfornarla. Fate raffreddarla bene prima di toglierla dallo stampo e guarnite con zucchero a velo a piacere.",
+    "ingredients": [
+        [
+            "Farina 00",
+            "250 g"
+        ],
+        [
+            "Zucchero",
+            "150 g"
+        ],
+        [
+            "Acqua",
+            "a temperatura ambiente 180 g"
+        ],
+        [
+            "Cacao amaro in polvere",
+            "40 g"
+        ],
+        [
+            "Olio di semi di girasole",
+            "80 g"
+        ],
+        [
+            "Uova",
+            "2"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "16 g"
+        ],
+        [
+            "Zucchero a velo",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "40 min",
+        "Dosi per": "8 persone",
+        "Costo": "Basso"
+    }
+}

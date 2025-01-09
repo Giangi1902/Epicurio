@@ -124,16 +124,16 @@ const styles = StyleSheet.create({
     padding: 5
   },
   todayTextGreen: {
-    color: 'green',
+    color: '#0B7308',
     fontWeight: 'Poppins_400Regular',
   },
   todayDaySelected: {
-    backgroundColor: 'green',
+    backgroundColor: '#0B7308',
     borderRadius: 10,
     padding: 5
   },
   selectedDay: {
-    backgroundColor: 'green',
+    backgroundColor: '#0B7308',
     borderRadius: '40%',
     padding: 5,
   },

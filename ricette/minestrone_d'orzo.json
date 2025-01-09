@@ -1,1 +1,70 @@
-{"title": "Minestrone d'orzo", "category": "Primi piatti", "description": "Per preparare il minestrone d'orzo iniziate mondando le verdure (cipolla, carota, sedano, patata) e tagliatele a piccoli quadratini . Ponete il burro in un tegame e quando sar\u00e0 fuso aggiungete la cipolla e fatela appassire ; buttate nella pentola anche la carota e il sedano e fate soffriggere per  minuti .Aggiungete anche la pancetta affumicata a dadini  e l'orzo, che avrete lavato sotto l'acqua corrente e scolato .\u00a0 Aggiungete  o  mestoli di brodo di carne all'orzo .Aggiungete quindi le foglie di alloro  e lasciate cuocere a fuoco basso il minestrone fino all'avvenuta cottura dell'orzo, avendo cura di aggiungere quando serve del brodo caldo;  minuti prima della fine della cottura aggiungete le patate a dadini.A cottura avvenuta spegnete il fuoco, pepate, aggiungete l'erba cipollina tritata , l'olio extravergine di oliva  e aggiustate di sale.Servite immediatamente portando in tavola anche del Grana Padano grattugiato!", "ingredients": [["Orzo perlato", "150 g"], ["Carote", "1"], ["Sedano", "1 costa"], ["Cipolle", "1"], ["Patate", "1"], ["Alloro", "2 foglie"], ["Erba cipollina", "da tritare 4 fili"], ["Pepe nero", "q.b."], ["Sale fino", "q.b."], ["Burro", "40 g"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Pancetta affumicata", "100 g"], ["Brodo di carne", "1 l"], ["Grana Padano DOP", "da grattugiare q.b."]], "contesto": "Il risultato finale sar\u00e0 un minestrone d'orzo dal sapore rustico e avvolgente, arricchito dalla presenza dell'orzo perlato e aromatizzato dalle verdure e dall'alloro. Il piatto sar\u00e0 ricco e sostanzioso, perfetto per scaldarsi durante le fredde giornate invernali.\n\nIl minestrone d'orzo \u00e8 adatto per occasioni informali come pranzi in famiglia o cene con amici. Si presta bene come piatto unico per un pasto completo e nutriente.\n\nQuesta ricetta \u00e8 adatta per una dieta equilibrata e nutriente. L'orzo perlato apporta fibre e sostanze nutrienti, le verdure forniscono vitamine e sali minerali, mentre la pancetta affumicata aggiunge sapore al piatto.\n\nLe persone con intolleranze al lattosio possono mangiare il minestrone d'orzo senza grattugiare il Grana Padano DOP. Per le persone celiache, \u00e8 importante assicurarsi che l'orzo perlato utilizzato sia certificato senza glutine."}
+{
+    "title": "Minestrone d'orzo",
+    "category": "Ricette",
+    "description": "Per preparare il minestrone d'orzo iniziate mondando le verdure (cipolla, carota, sedano, patata) e tagliatele a piccoli quadratini.Ponete il burro in un tegame e quando sarà fuso aggiungete la cipolla e fatela appassire; buttate nella pentola anche la carota e il sedano e fate soffriggere per 5 minuti. Aggiungete anche la pancetta affumicata a dadinie l'orzo, che avrete lavato sotto l'acqua corrente e scolato.  Aggiungete 3 o 4 mestoli di brodo di carne all'orzo. Aggiungete quindi le foglie di alloroe lasciate cuocere a fuoco basso il minestrone fino all’avvenuta cottura dell’orzo, avendo cura di aggiungere quando serve del brodo caldo; 10 minuti prima della fine della cottura aggiungete le patate a dadini.A cottura avvenuta spegnete il fuoco, pepate, aggiungete l’erba cipollina tritata, l’olio extravergine di olivae aggiustate di sale.Servite immediatamente portando in tavola anche del Grana Padano grattugiato!",
+    "ingredients": [
+        [
+            "Orzo perlato",
+            "150 g"
+        ],
+        [
+            "Carote",
+            "1"
+        ],
+        [
+            "Sedano",
+            "1 costa"
+        ],
+        [
+            "Cipolle",
+            "1"
+        ],
+        [
+            "Patate",
+            "1"
+        ],
+        [
+            "Alloro",
+            "2 foglie"
+        ],
+        [
+            "Erba cipollina",
+            "da tritare 4 fili"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Burro",
+            "40 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Pancetta affumicata",
+            "100 g"
+        ],
+        [
+            "Brodo di carne",
+            "1 l"
+        ],
+        [
+            "Grana Padano DOP",
+            "da grattugiare q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "45 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

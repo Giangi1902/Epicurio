@@ -1,1 +1,38 @@
-{"title": "Filoscio ricco", "category": null, "description": "Per preparare il filoscio ricco, per prima cosa tagliate la mozzarella a fette di - mm di spessore , poi tamponatela con carta assorbente . Versate le uova in un piatto, condite con un pizzico di sale e pepe e sbattete velocemente con una forchetta .Scaldate l'olio di semi in una padella antiaderente, poi versate il composto di uova all'interno  e lasciate cuocere a fuoco dolce per circa  minuti . Trascorso questo tempo, adagiate le fettine di mozzarella sopra al composto di uova e aggiungete il prosciutto a fette . Ripiegate i due lembi verso il centro con l'aiuto di una paletta , poi sollevate delicatamente il filoscio e trasferitelo su un foglio di carta assorbente . Il vostro filoscio ricco \u00e8 pronto per essere tagliato a fette e gustato!", "ingredients": [["Uova", "4"], ["Mozzarella", "200 g"], ["Prosciutto cotto", "a fette 100 g"], ["Olio di semi di girasole", "1 cucchiaio"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 un filoscio ricco e saporito, con un ripieno cremoso di mozzarella e prosciutto cotto.\n\nPer quali occasioni \u00e8 adatto: Il filoscio ricco \u00e8 perfetto come antipasto o secondo piatto in una cena gourmet o come sfizioso finger food per un aperitivo. Pu\u00f2 essere servito anche come piatto unico leggero e gustoso.\n\nPer quali diete o regime alimentare sono adatte: Il filoscio ricco \u00e8 adatto a una dieta equilibrata e variata. Pu\u00f2 essere consumato nelle diete ipocaloriche in porzioni moderate. \u00c8 adatto anche a una dieta senza glutine se utilizzate ingredienti privi di glutine.\n\nIntolleranze alimentari: Le persone con intolleranza al lattosio possono sostituire la mozzarella con una versione senza lattosio. Le persone con intolleranza al glutine devono assicurarsi che i prodotti utilizzati siano senza glutine.\tIl prosciutto cotto deve essere controllato per eventuali aggiunte di allergeni o sostanze non tollerate."}
+{
+    "title": "Filoscio ricco",
+    "category": "Ricette",
+    "description": "Per preparare il filoscio ricco, per prima cosa tagliate la mozzarella a fette di 3-4 mm di spessore, poi tamponatela con carta assorbente. Versate le uova in un piatto, condite con un pizzico di sale e pepe e sbattete velocemente con una forchetta. Scaldate l’olio di semi in una padella antiaderente, poi versate il composto di uova all’internoe lasciate cuocere a fuoco dolce per circa 7 minuti. Trascorso questo tempo, adagiate le fettine di mozzarella sopra al composto di uova e aggiungete il prosciutto a fette. Ripiegate i due lembi verso il centro con l’aiuto di una paletta, poi sollevate delicatamente il filoscio e trasferitelo su un foglio di carta assorbente. Il vostro filoscio ricco è pronto per essere tagliato a fette e gustato!",
+    "ingredients": [
+        [
+            "Uova",
+            "4"
+        ],
+        [
+            "Mozzarella",
+            "200 g"
+        ],
+        [
+            "Prosciutto cotto",
+            "a fette 100 g"
+        ],
+        [
+            "Olio di semi di girasole",
+            "1 cucchiaio"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Cottura": "7 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

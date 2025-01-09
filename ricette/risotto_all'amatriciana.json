@@ -1,1 +1,46 @@
-{"title": "Risotto all'amatriciana", "category": "Primi piatti", "description": "Per realizzare il risotto all'amatriciana, preparate  litri di brodo vegetale da tenere in caldo. Poi rimuovete la cotenna del guanciale , tagliatelo a fette e poi a listarelle di mezzo centrimetro . Fate rosolare il guanciale in una casseruola gi\u00e0 calda senza aggiunta di grassi , mescolando di tanto in tanto.Non appena il guanciale sar\u00e0 diventato croccante sfumate con il vino bianco  e fate evaporare la parte alcolica . Prendete i pomodori pelati (con tutto il loro succo) e sminuzzateli o schiacciateli con una forchetta prima di unirli al guanciale .Cuocete il sugo a fiamma medio-bassa con il coperchio per circa  minuti , quindi aggiustate di sale e pepe a piacere. Verso la fine del tempo indicato, potete tostare il riso in una padella a parte, per qualche minuto  mescolando spesso. Aggiungetelo al condimento .Rimestate per amalgamarlo al sugo  e iniziate a bagnarlo con il brodo vegetale caldo . Continuate ad aggiungere un mestolo di brodo per volta fino a fine cottura, ci vorranno circa  minuti: dovrete ottenere una consistenza finale piuttosto cremosa , il risotto dovr\u00e0 fare il classico effetto \"onda\" se andrete a smuovere la padella per saltarlo.Spegnete il fuoco prima di aggiungere il Pecorino grattugiato , mescolate e lasciate riposare qualche istante prima di servire il vostro risotto all'amatriciana ben caldo, aggiungete una grattugiata di pepe nero  e altro Pecorino grattugiato a piacere in superficie .", "ingredients": [["Riso Carnaroli", "280 g"], ["Guanciale", "150 g"], ["Pomodori pelati", "(non sgocciolati) 400 g"], ["Pecorino romano", "da grattugiare 75 g"], ["Vino bianco secco", "50 g"], ["Brodo vegetale", "2 l"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il Risotto all'Amatriciana \u00e8 un piatto cremoso e ricco di sapore, grazie alla combinazione del guanciale croccante, dei pomodori pelati e del pecorino romano grattugiato. Il riso Carnaroli si amalgama perfettamente con gli ingredienti principali, creando un piatto dal gusto equilibrato e irresistibile.\n\nQuesto piatto \u00e8 perfetto per occasioni speciali o cene pi\u00f9 sofisticate, ma pu\u00f2 essere goduto anche come comfort food in qualsiasi momento. \u00c8 adatto a chi segue una dieta mediterranea o vuole gustare un piatto tradizionale italiano.\n\nIl Risotto all'Amatriciana \u00e8 adatto a persone intolleranti al glutine, purch\u00e9 si utilizzi del riso gluten-free, e alle persone intolleranti al lattosio, sostituendo il pecorino romano con un formaggio senza lattosio o evitandolo completamente."}
+{
+    "title": "Risotto all'amatriciana",
+    "category": "Ricette",
+    "description": "Per realizzare il risotto all'amatriciana, preparate 2 litri dibrodo vegetaleda tenere in caldo. Poi rimuovete la cotenna del guanciale, tagliatelo a fette e poi a listarelle di mezzo centrimetro. Fate rosolare il guanciale in una casseruola già calda senza aggiunta di grassi, mescolando di tanto in tanto. Non appena il guanciale sarà diventato croccante sfumate con il vino biancoe fate evaporare la parte alcolica. Prendete i pomodori pelati (con tutto il loro succo) e sminuzzateli o schiacciateli con una forchetta prima di unirli al guanciale. Cuocete il sugo a fiamma medio-bassa con il coperchio per circa 15 minuti, quindi aggiustate di sale e pepe a piacere. Verso la fine del tempo indicato, potete tostare il riso in una padella a parte, per qualche minutomescolando spesso. Aggiungetelo al condimento. Rimestate per amalgamarlo al sugoe iniziate a bagnarlo con il brodo vegetale caldo. Continuate ad aggiungere un mestolo di brodo per volta fino a fine cottura, ci vorranno circa 20 minuti: dovrete ottenere una consistenza finale piuttosto cremosa, il risotto dovrà fare il classico effetto \"onda\" se andrete a smuovere la padella per saltarlo. Spegnete il fuoco prima di aggiungere il Pecorino grattugiato, mescolate e lasciate riposare qualche istante prima di servire il vostro risotto all'amatriciana ben caldo, aggiungete una grattugiata di pepe neroe altro Pecorino grattugiato a piacere in superficie.",
+    "ingredients": [
+        [
+            "Riso Carnaroli",
+            "280 g"
+        ],
+        [
+            "Guanciale",
+            "150 g"
+        ],
+        [
+            "Pomodori pelati",
+            "(non sgocciolati) 400 g"
+        ],
+        [
+            "Pecorino Romano DOP",
+            "da grattugiare 75 g"
+        ],
+        [
+            "Vino bianco secco",
+            "50 g"
+        ],
+        [
+            "Brodo vegetale",
+            "2 l"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "40 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

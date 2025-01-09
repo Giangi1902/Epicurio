@@ -1,1 +1,57 @@
-{"title": "Insalata di riso invernale", "category": "Piatti Unici", "description": "Per preparare l'insalata di riso invernale portate a bollore l'acqua in una pentola, poi salatee cuocete il riso per il tempo indicato sulla confezione . Mentre il riso cuoce lavate e\u00a0preparate le verdure: tagliate a julienne il cavolo cappuccio  e riducete a piccoli pezzi le cime del cavolfiore .\u00a0\u00a0Ora con un pelapatate sbucciate le carote  e tagliatele\u00a0a julienne . In una padella scaldate olio e timo .\u00a0Pepate  e tostate le noci per qualche minuto . Tenete da parte le noci tostate e preparate la citronette: spremete il succo del limone .Filtrate il succo  e versatelo in una ciotola , poi salate, pepate e mescolate . Trasferite la citronette in un biberon da cucina.In una ciotola ampia versate le carote e il cavolo cappuccio  e il cavolfiore, poi condite con la citronette . Scolate il riso che a questo punto sar\u00e0 giunto a cottura .\u00a0Condite il riso con l'olio  e mescolate. Ora\u00a0unite il riso alle verdure . Servite l'insalata di riso invernale tiepida\u00a0guarnita con le noci tostate !", "ingredients": [["Riso", "Ribe 320 g"], ["Cavolo cappuccio", "rosso 80 g"], ["Cavolfiore", "80 g"], ["Carote", "80 g"], ["Gherigli di noci", "50 g"], ["Timo", "3 rametti"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Succo di limone", "40 g"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un'insalata di riso invernale colorata e saporita, arricchita da croccanti gherigli di noci e profumata dal timo. La combinazione di riso, verdure e condimenti crea un piatto equilibrato e nutriente, perfetto da gustare sia tiepido che freddo.\n\nOccasioni adatte:\n- Pranzo in ufficio\n- Pic-nic\n- Cena leggera\n- Buffet di finger food\n- Pranzo al sacco\n\nDieta adatte:\n- Dieta vegetariana\n- Dieta vegana\n- Dieta senza glutine (utilizzare riso privo di glutine)\n- Dieta senza lattosio\n\nIntolleranze:\n- Persone con intolleranza al glutine possono mangiarlo scegliendo un riso senza glutine\n- Persone con intolleranza al lattosio possono consumarlo evitando l'aggiunta di latticini\n- Persone con allergie alle noci dovranno escludere i gherigli di noci dalla ricetta"}
+{
+    "title": "Insalata di riso invernale",
+    "category": "Ricette",
+    "description": "Per preparare l'insalata di riso invernale portate a bollore l'acqua in una pentola, poi salatee cuocete il riso per il tempo indicato sulla confezione. Mentre il riso cuoce lavate e preparate le verdure: tagliate a julienne il cavolo cappuccioe riducete a piccoli pezzi le cime del cavolfiore. Ora con un pelapatate sbucciate le carotee tagliatele a julienne. In una padella scaldate olio e timo. Pepatee tostate le noci per qualche minuto. Tenete da parte le noci tostate e preparate la citronette: spremete il succo del limone. Filtrate il succoe versatelo in una ciotola, poi salate, pepate e mescolate. Trasferite la citronette in un biberon da cucina. In una ciotola ampia versate le carote e il cavolo cappuccioe il cavolfiore, poi condite con la citronette. Scolate il riso che a questo punto sarà giunto a cottura. Condite il riso con l'olioe mescolate. Ora unite il riso alle verdure. Servite l’insalata di riso invernale tiepida guarnita con le noci tostate!",
+    "ingredients": [
+        [
+            "Riso",
+            "Ribe 320 g"
+        ],
+        [
+            "Cavolo cappuccio",
+            "rosso 80 g"
+        ],
+        [
+            "Cavolfiore",
+            "80 g"
+        ],
+        [
+            "Carote",
+            "80 g"
+        ],
+        [
+            "Gherigli di noci",
+            "50 g"
+        ],
+        [
+            "Timo",
+            "3 rametti"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Succo di limone",
+            "40 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "20 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone"
+    }
+}

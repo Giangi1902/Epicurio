@@ -1,1 +1,70 @@
-{"title": "Trippa alla milanese (busecca)", "category": "Piatti Unici", "description": "Tritate finemente la cipolla, la carota, e il sedano e teneteli da parte. Fate soffriggere la pancetta con il burro  e poi aggiungete il soffritto di verdure , le foglie di salvia , le bacce di ginepro e i chiodi di garofano.Quando il soffritto sar\u00e0 pronto aggiungete la trippa tagliata a pezzettini non molto grossi , fatela asciugare e poi unite qualche cucchiaio di passata di pomodoro , pepate e aggiungete un po' di acqua calda per consentire la cottura prolungata. Fate cuocere per almeno un'ora a fuoco moderato, sempre controllando che non si asciughi troppo, dopodich\u00e9 aggiungete i fagioli bianchi di Spagna precotti (o fagioli Borlotti), scolati  e rimescolate per un quarto d'ora, e comunque fino a quando la busecca avr\u00e0 raggiunto una consistenza densa.Servite la trippa alla milanese in ciotole di cotto, accompagnandola con crostini di pane e un ampia spolverata di formaggio grattugiato.", "ingredients": [["Carote", "1"], ["Cipolle", "1"], ["Sedano", "1 costa"], ["Passata di pomodoro", "4 cucchiai"], ["Acqua", "q.b."], ["Chiodi di garofano", "3"], ["Ginepro", "3 bacche"], ["Pancetta (tesa)", "100 g"], ["Burro", "30 g"], ["Salvia", "4 foglie"], ["Pepe nero", "q.b."], ["Trippa", "lavata e precotta 700 g"], ["Fagioli bianchi precotti", "di spagna 200 g"], ["Grana Padano DOP", "(da grattugiare) q.b."]], "contesto": "Il risultato finale della Trippa alla Milanese sar\u00e0 un piatto dal sapore ricco e corposo, grazie alla combinazione di trippa, passata di pomodoro, pancetta e spezie. La consistenza sar\u00e0 morbida e avvolgente, grazie all'aggiunta di fagioli bianchi precotti e alla lunga cottura degli ingredienti.\n\nQuesta ricetta \u00e8 adatta per occasioni speciali come pranzi o cene in famiglia o con gli amici, o per occasioni pi\u00f9 formali come un pranzo domenicale. \u00c8 un piatto che si presta bene ad essere servito in una tavola imbandita e gustato con del buon pane per fare la scarpetta.\n\nLa Trippa alla Milanese \u00e8 adatta a una dieta ricca di proteine e sostanze nutritive, in quanto contiene carne di trippa e fagioli bianchi. \u00c8 un piatto che pu\u00f2 essere consumato con moderazione anche in regimi alimentari equilibrati, dando un tocco di sapore e tradizione alla tavola.\n\nLe persone con intolleranze al lattosio dovrebbero evitare o limitare l'aggiunta di formaggio Grana Padano DOP da grattugiare nella ricetta. Per le persone con intolleranze al glutine \u00e8 importante controllare che tutti gli ingredienti siano privi di glutine, in particolare la passata di pomodoro e eventuali additivi presenti nella pancetta. Le persone con intolleranze ai legumi dovrebbero evitare o limitare i fagioli bianchi precotti di Spagna."}
+{
+    "title": "Trippa alla milanese (busecca)",
+    "category": "Ricette",
+    "description": "Tritate finemente la cipolla, la carota, e il sedano e teneteli da parte. Fate soffriggere la pancetta con il burroe poi aggiungete il soffritto di verdure, le foglie di salvia, le bacce di ginepro e i chiodi di garofano. Quando il soffritto sarà pronto aggiungete la trippa tagliata a pezzettini non molto grossi, fatela asciugare e poi unite qualche cucchiaio di passata di pomodoro, pepate e aggiungete un po’ di acqua calda per consentire la cottura prolungata. Fate cuocere per almeno un’ora a fuoco moderato, sempre controllando che non si asciughi troppo, dopodiché aggiungete i fagioli bianchi di Spagna precotti (o fagioli Borlotti), scolatie rimescolate per un quarto d’ora, e comunque fino a quando la busecca avrà raggiunto una consistenza densa.Servite la trippa alla milanese in ciotole di cotto, accompagnandola con crostini di pane e un ampia spolverata di formaggio grattugiato.",
+    "ingredients": [
+        [
+            "Carote",
+            "1"
+        ],
+        [
+            "Cipolle",
+            "1"
+        ],
+        [
+            "Sedano",
+            "1 costa"
+        ],
+        [
+            "Passata di pomodoro",
+            "4 cucchiai"
+        ],
+        [
+            "Acqua",
+            "q.b."
+        ],
+        [
+            "Chiodi di garofano",
+            "3"
+        ],
+        [
+            "Ginepro",
+            "3 bacche"
+        ],
+        [
+            "Pancetta (tesa)",
+            "100 g"
+        ],
+        [
+            "Burro",
+            "30 g"
+        ],
+        [
+            "Salvia",
+            "4 foglie"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Trippa",
+            "lavata e precotta 700 g"
+        ],
+        [
+            "Fagioli bianchi precotti",
+            "di spagna 200 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "(da grattugiare) q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "15 min",
+        "Cottura": "1 h 25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

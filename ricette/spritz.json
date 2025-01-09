@@ -1,1 +1,32 @@
-{"title": "Spritz", "category": "Bevande", "description": "Per preparare lo Spritz cominciate versando il ghiaccio in un calice da vino, riempiendolo fino all'orlo . Poi versate il prosecco  seguiti da Aperol .Infine una spruzzata di soda o di acqua molto frizzante . Aggiungete ancora poco ghiaccio e mescolate delicatamente con lo stirrer . Guarnite con mezza fetta di arancia e il vostro Spritz \u00e8 pronto .", "ingredients": [["Aperol", "60 ml"], ["Prosecco", "90 ml"], ["Soda", "(una spruzzata) q.b."], ["Arance", "\u00bd fetta"], ["Ghiaccio", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 un cocktail fresco e frizzante, caratterizzato dal caratteristico colore arancione dell'Aperol e dalla leggera effervescenza del Prosecco. Il tocco di soda aggiunge ulteriore freschezza al drink, mentre la fetta di arancia aggiunge un tocco decorativo e un sapore leggermente agrumato. Il ghiaccio garantisce che il cocktail sia ben rinfrescante e piacevole da bere.\n\nQuesto cocktail \u00e8 adatto per occasioni informali e festose, come aperitivi o serate con amici. \u00c8 particolarmente popolare durante l'estate, ma pu\u00f2 essere apprezzato tutto l'anno.\n\nLa ricetta per lo Spritz \u00e8 adatta a persone che seguono una dieta tradizionale e non hanno particolari restrizioni alimentari. Tuttavia, persone con intolleranze alcoliche o gastrointestinali dovrebbero evitare di consumare questo cocktail. Inoltre, chi soffre di intolleranza al glutine deve assicurarsi che l'Aperol e il Prosecco utilizzati siano privi di glutine."}
+{
+    "title": "Spritz",
+    "category": "Ricette",
+    "description": "Per preparare lo Spritz cominciate versando il ghiaccio in un calice da vino, riempiendolo fino all'orlo. Poi versate il proseccoseguiti da Aperol. Infine una spruzzata di soda o di acqua molto frizzante. Aggiungete ancora poco ghiaccio e mescolate delicatamente con lo stirrer. Guarnite con mezza fetta di arancia e il vostro Spritz è pronto.",
+    "ingredients": [
+        [
+            "Aperol",
+            "60 ml"
+        ],
+        [
+            "Prosecco",
+            "90 ml"
+        ],
+        [
+            "Soda",
+            "(una spruzzata) q.b."
+        ],
+        [
+            "Arance",
+            "½ fetta"
+        ],
+        [
+            "Ghiaccio",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Dosi per": "1 persone"
+    }
+}

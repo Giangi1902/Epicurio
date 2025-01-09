@@ -1,1 +1,21 @@
-{"title": "Pate' di olive nere", "category": "Salse e Sughi", "description": "Per preparare il pat\u00e8 di olive, iniziate denocciolando le olive una ad una , ponetele nel frullatore  e frullatele fino ad ottenere un composto omogeneo . Aggiungete l'olio a goccia l'olio extravergine a filo  fino a quando non otterrete una crema morbida e sufficientemente compatta . Il vostro pat\u00e8 \u00e8 pronto per essere servito. Potete gustarlo su croccanti crostini: per prepararli sar\u00e0 sufficiente affettare il pane, disporlo su una leccarda foderata con carta da forno, irrorarlo con un filo d'olio e farlo tostare su forno in modalit\u00e0 grill per  minuti, girandolo a met\u00e0 cottura per farlo tostare in maniera uniforme. Potete spalmare il pat\u00e8 di olive nere su del pane caldo con un filo di olio cotto nel forno finch\u00e9 non assume una colorazione dorata .", "ingredients": [["Olive nere", "200 g"], ["Olio extravergine d'oliva", "45 g"]], "contesto": "Il risultato finale sar\u00e0 una crema densa e dal sapore intenso di olive nere, arricchita dalla dolcezza dell'olio extravergine d'oliva. La consistenza sar\u00e0 cremosa e facilmente spalmabile.\n\nOccasioni adatte: La pate' di olive nere \u00e8 ottima come antipasto su crostini o bruschette, oppure come condimento per primi piatti di pasta o riso. \u00c8 perfetta da servire durante aperitivi o buffet.\n\nDieta/Regime alimentare: Questa ricetta \u00e8 adatta per una dieta vegetariana e pu\u00f2 essere consumata anche in una dieta vegana. \u00c8 un condimento salutare e gustoso, da gustare con moderazione per chi segue una dieta ipocalorica.\n\nIntolleranze: Le persone con intolleranza al glutine possono consumare la pate' di olive nere se \u00e8 preparata con ingredienti senza glutine. Le persone con intolleranza al lattosio possono consumarla senza problemi poich\u00e9 non contiene latticini. Tuttavia, \u00e8 sempre consigliabile verificare l'assenza di allergeni nei prodotti utilizzati, in caso di allergie specifiche."}
+{
+    "title": "Pate' di olive nere",
+    "category": "Ricette",
+    "description": "Per preparare il patè di olive, iniziate denocciolando le olive una ad una, ponetele nel frullatoree frullatele fino ad ottenere un composto omogeneo. Aggiungete l’olio a goccia l'olio extravergine a filofino a quando non otterrete una crema morbida e sufficientemente compatta. Il vostro patè è pronto per essere servito. Potete gustarlo su croccanti crostini: per prepararli sarà sufficiente affettare il pane, disporlo su una leccarda foderata con carta da forno, irrorarlo con un filo d'olio e farlo tostare su forno in modalità grill per 2 minuti, girandolo a metà cottura per farlo tostare in maniera uniforme. Potete spalmare il patè di olive nere su del pane caldo con un filo di olio cotto nel forno finché non assume una colorazione dorata.",
+    "ingredients": [
+        [
+            "Olive nere",
+            "200 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "45 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Dosi per": "6 persone",
+        "Costo": "Basso"
+    }
+}

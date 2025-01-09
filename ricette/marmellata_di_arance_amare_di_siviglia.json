@@ -1,1 +1,29 @@
-{"title": "Marmellata di arance amare di Siviglia", "category": "Marmellate e Conserve", "description": "Per prima cosa, lavate per bene le arance e tagliatele a met\u00e0, quindi spremetele con uno spremiagrumi e raccogliete il succo in una casseruola. Tenete i semi da parte raccogliendoli in un sacchetto di tela. Svuotate per bene le arance con un cucchiaino raccogliendo la polpa ed i semi. A questo punto, tagliate le bucce delle arance a striscioline e mettetele insieme al succo in una pentola antiaderente; quindi, mettete dentro anche il sacchetto con i semi, coprite il tutto con l'acqua e lasciate cuocere per  ore.", "ingredients": [["Arance", "amare (di Siviglia) 2 kg"], ["Acqua", "3 l"], ["Succo di limone", "2"], ["Zucchero", "3 kg"]], "contesto": "Il risultato finale della Marmellata di arance amare di Siviglia sar\u00e0 una marmellata dal gusto intenso e leggermente amaro, perfetta per accompagnare pane, biscotti o formaggi freschi.\n\n\u00c8 adatto per occasioni come la colazione, la merenda o come dolce fine pasto.\n\nQuesta ricetta \u00e8 adatta per chi segue una dieta vegetariana o vegana, in quanto non contiene ingredienti di origine animale.\n\nLe persone con intolleranze possono mangiarla a meno che non siano intolleranti agli agrumi o allo zucchero. In tal caso, \u00e8 importante consultare un medico per valutare la compatibilit\u00e0 della ricetta con le proprie esigenze dietetiche."}
+{
+    "title": "Marmellata di arance amare di Siviglia",
+    "category": "Ricette",
+    "description": "Per prima cosa, lavate per bene le arance e tagliatele a metà, quindi spremetele con uno spremiagrumi e raccogliete il succo in una casseruola.Tenete i semi da parte raccogliendoli in un sacchetto di tela.Svuotate per bene le arance con un cucchiaino raccogliendo la polpa ed i semi.A questo punto, tagliate le bucce delle arance a striscioline e mettetele insieme al succo in una pentola antiaderente; quindi, mettete dentro anche il sacchetto con i semi, coprite il tutto con l'acqua e lasciate cuocere per 2 ore.",
+    "ingredients": [
+        [
+            "Arance",
+            "amare (di Siviglia) 2 kg"
+        ],
+        [
+            "Acqua",
+            "3 l"
+        ],
+        [
+            "Succo di limone",
+            "2"
+        ],
+        [
+            "Zucchero",
+            "3 kg"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "2 h 20 min",
+        "Dosi per": "4 persone"
+    }
+}

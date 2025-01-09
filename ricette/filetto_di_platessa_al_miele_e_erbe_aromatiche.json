@@ -1,1 +1,62 @@
-{"title": "Filetto di platessa al miele e erbe aromatiche", "category": "Secondi piatti", "description": "Per preparare i filetti di platessa al miele ed erbe aromatiche iniziate dividendo a met\u00e0 l'aglio e tritando finemente salvia, mirto e rosmarino .\u00a0 Mettete in una padella antiaderente il burro e l'olio, poi quando saranno caldi aggiungete l'aglio diviso in due e le erbe aromatiche  e lasciate che insaporiscano l'olio per un minuto. Togliete poi l'aglio e aggiungete in padella i filetti di platessa, fateli dorare da entrambe le parti .Poi unite i due cucchiai di miele\u00a0  e lasciate caramellare per un minuto e aggiungete le erbe aromatiche . Se la platessa dovesse risultare asciutta aggiungete un mestolo di brodo vegetale. Spegnete il fuoco, aggiustate di sale, spolverizzate con pepe macinato al momento, distribuite sui filetti il prezzemolo tritato e servite immediatamente .", "ingredients": [["Platessa", "filetti 4"], ["Aglio", "1 spicchio"], ["Miele", "2 cucchiai"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Rosmarino", "1 rametto"], ["Salvia", "3 foglie"], ["Mirto", "1 foglia"], ["Prezzemolo", "da tritare 2 cucchiai"], ["Burro", "20 g"], ["Olio extravergine d'oliva", "3 cucchiai"], ["Brodo vegetale", "q.b."]], "contesto": "Il risultato finale \u00e8 un gustoso filetto di platessa dal sapore delicato, arricchito dal contrasto tra il dolce del miele e l'aroma delle erbe aromatiche. La pesciolata sar\u00e0 morbida, profumata e leggermente caramellata.\n\n\u00c8 un piatto adatto a occasioni speciali o cene eleganti, grazie alla presentazione raffinata e ai sapori ricercati. \n\nLa ricetta \u00e8 adatta a una dieta povera di grassi, poich\u00e9 in cottura viene utilizzato poco burro e olio extravergine d'oliva. \u00c8 inoltre ideale per chi segue una dieta mediterranea, grazie alla presenza di erbe aromatiche fresche e dell'olio d'oliva.\n\nLe persone con intolleranze alimentari al lattosio possono sostituire il burro con olio extravergine d'oliva, mentre chi \u00e8 intollerante al glutine pu\u00f2 utilizzare solo ingredienti naturalmente privi di glutine come la platessa, il miele, le erbe aromatiche e le spezie."}
+{
+    "title": "Filetto di platessa al miele e erbe aromatiche",
+    "category": "Ricette",
+    "description": "Per preparare i filetti di platessa al miele ed erbe aromatiche iniziate dividendo a metà l'aglio e tritando finemente salvia, mirto e rosmarino.  Mettete in una padella antiaderente il burro e l’olio, poi quando saranno caldi aggiungete l’aglio diviso in due e le erbe aromatichee lasciate che insaporiscano l’olio per un minuto. Togliete poi l’aglio e aggiungete in padella i filetti di platessa, fateli dorare da entrambe le parti. Poi unite i due cucchiai di mielee lasciate caramellare per un minuto e aggiungete le erbe aromatiche. Se la platessa dovesse risultare asciutta aggiungete un mestolo di brodo vegetale.Spegnete il fuoco, aggiustate di sale, spolverizzate con pepe macinato al momento, distribuite sui filetti il prezzemolo tritato e servite immediatamente.",
+    "ingredients": [
+        [
+            "Platessa",
+            "filetti 4"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Miele",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Salvia",
+            "3 foglie"
+        ],
+        [
+            "Mirto",
+            "1 foglia"
+        ],
+        [
+            "Prezzemolo",
+            "da tritare 2 cucchiai"
+        ],
+        [
+            "Burro",
+            "20 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "3 cucchiai"
+        ],
+        [
+            "Brodo vegetale",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Cottura": "7 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

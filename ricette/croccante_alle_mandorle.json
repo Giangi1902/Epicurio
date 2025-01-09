@@ -1,1 +1,30 @@
-{"title": "Croccante alle mandorle", "category": "Dolci", "description": "Per realizzare il croccante alle mandorle versate le mandorle pelate su una teglia  e ponetele a tostare nel forno statico preriscaldato a \u00b0. Basteranno pochi minuti, stando attenti che non si brucino. Nel frattempo occupatevi del caramello: prendete un tegame di acciaio non smaltato e versate qui il miele , lo zucchero e qualche goccia di succo di limone .Mescolate per uniformare gli ingredienti  e fate sciogliere a fuoco medio, munendovi di un termometro da cucina per monitorare la temperatura del caramello . Una volta raggiunti i \u00b0 recuperate la teglia con le mandorle tostate e versatele ancora calde nel tegame .Mescolate  e aspettate che la temperatura raggiunga i \u00b0. Poi togliete dal fuoco e versate il composto in una teglia foderata con carta forno, distribuendolo con un cucchiaio di legno . Lasciate raffreddare a temperatura ambiente .Quando il croccante alle mandorle si sar\u00e0 raffreddato, rovesciatelo su un tagliere   e tagliatelo a barrette  prima di servirlo.", "ingredients": [["Mandorle pelate", "500 g"], ["Zucchero", "350 g"], ["Miele di acacia", "125 g"], ["Succo di limone", "qualche goccia"]], "contesto": "Il risultato finale della ricetta sar\u00e0 un croccante alle mandorle dal sapore dolce e aromatico, con una consistenza croccante e fragrante grazie alle mandorle tostate e al miele. \n\n\u00c8 adatto per occasioni speciali come feste e incontri con amici o famigliari, ma pu\u00f2 essere gustato anche come dolce fine pasto o spuntino. \n\nLa ricetta \u00e8 adatta per persone che seguono una dieta vegetariana, ma non \u00e8 adatta per chi \u00e8 allergico alle mandorle o intollerante al glutine, in quanto pu\u00f2 contenere tracce di glutine a seconda della provenienza degli ingredienti. Inoltre, le persone con intolleranza al lattosio devono fare attenzione al miele di acacia se presente, in quanto potrebbe contenere tracce di lattosio."}
+{
+    "title": "Croccante alle mandorle",
+    "category": "Ricette",
+    "description": "Per realizzare il croccante alle mandorle versate le mandorle pelate su una tegliae ponetele a tostare nel forno statico preriscaldato a 190°. Basteranno pochi minuti, stando attenti che non si brucino. Nel frattempo occupatevi del caramello: prendete un tegame di acciaio non smaltato e versate qui il miele, lo zucchero e qualche goccia di succo di limone. Mescolate per uniformare gli ingredientie fate sciogliere a fuoco medio, munendovi di un termometro da cucina per monitorare la temperatura del caramello. Una volta raggiunti i 140° recuperate la teglia con le mandorle tostate e versatele ancora calde nel tegame. Mescolatee aspettate che la temperatura raggiunga i 170°. Poi togliete dal fuoco e versate il composto in una teglia foderata con carta forno, distribuendolo con un cucchiaio di legno. Lasciate raffreddare a temperatura ambiente. Quando il croccante alle mandorle si sarà raffreddato, rovesciatelo su un taglieree tagliatelo a barretteprima di servirlo.",
+    "ingredients": [
+        [
+            "Mandorle pelate",
+            "500 g"
+        ],
+        [
+            "Zucchero",
+            "350 g"
+        ],
+        [
+            "Miele di acacia",
+            "125 g"
+        ],
+        [
+            "Succo di limone",
+            "qualche goccia"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Cottura": "15 min",
+        "Dosi per": "6 persone",
+        "Costo": "Basso"
+    }
+}

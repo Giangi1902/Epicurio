@@ -1,1 +1,46 @@
-{"title": "Nidi di agretti", "category": "Secondi piatti", "description": "Per preparare i nidi di agretti, per prima cosa pulite la verdura: eliminate le radici alla base , sciacquate gli steli  e scolateli. In una padella fate sciogliere il burro insieme a uno spicchio d'aglio, poi aggiungete gli agretti  e fateli insaporire per pochi istanti a fuoco vivace.Regolate di sale , versate l'acqua nella padella , coprite con il coperchio  e cuocete per  minuti a fiamma media . Una volta che gli agretti saranno cotti, rimuovete l'aglio e lasciate intiepidire.A questo punto modellate gli agretti per formare  anelli su una leccarda foderata con carta forno . Grattugiate il provolone con una grattugia a maglie larghe e distribuitelo all'interno dei nidi , tenendone un po' da parte per la guarnizione finale. Infine aggiungete un uovo intero ciascuno versandolo delicatamente nel centro . Cuocete in forno statico preriscaldato a \u00b0 per circa  minuti.A fine cottura , aggiungete il formaggio rimasto in superficie  e aggiustate di sale e di pepe: i vostri nidi di agretti sono pronti per essere serviti ancora caldi !", "ingredients": [["Barba di frate (agretti)", "(da pulire) 600 g"], ["Uova", "4"], ["Provolone piccante", "60 g"], ["Burro", "50 g"], ["Acqua", "100 g"], ["Aglio", "1 spicchio"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale di questa ricetta sono dei deliziosi nidi di agretti, dove la barba di frate viene cotta insieme all'uovo e al formaggio piccante, creando un piatto ricco di sapori e texture. Il burro e l'aglio aggiungono ulteriore profondit\u00e0 al piatto, mentre il sale e il pepe nero donano il giusto equilibrio di sapidit\u00e0 e speziatura.\n\nQuesto piatto \u00e8 adatto per occasioni speciali e pranzi o cene eleganti, grazie alla sua presentazione raffinata e al gusto sofisticato.\n\nQuesto piatto \u00e8 adatto per una dieta equilibrata, in quanto \u00e8 ricco di proteine \u200b\u200be verdure, e pu\u00f2 essere consumato anche in una dieta vegetariana.\n\nLe persone con intolleranze al lattosio dovrebbero evitare questo piatto o sostituire il formaggio piccante con una versione senza lattosio. Le persone con intolleranze all'aglio possono omettere questo ingrediente dalla ricetta."}
+{
+    "title": "Nidi di agretti",
+    "category": "Ricette",
+    "description": "Per preparare i nidi di agretti, per prima cosa pulite la verdura: eliminate le radici alla base, sciacquate gli stelie scolateli. In una padella fate sciogliere il burro insieme a uno spicchio d’aglio, poi aggiungete gli agrettie fateli insaporire per pochi istanti a fuoco vivace. Regolate di sale, versate l’acqua nella padella, coprite con il coperchioe cuocete per 10 minuti a fiamma media . Una volta che gli agretti saranno cotti, rimuovete l’aglio e lasciate intiepidire. A questo punto modellate gli agretti per formare 4 anelli su una leccarda foderata con carta forno. Grattugiate il provolone con una grattugia a maglie larghe e distribuitelo all’interno dei nidi, tenendone un po’ da parte per la guarnizione finale. Infine aggiungete un uovo intero ciascuno versandolo delicatamente nel centro. Cuocete in forno statico preriscaldato a 190° per circa 10 minuti. A fine cottura, aggiungete il formaggio rimasto in superficiee aggiustate di sale e di pepe: i vostri nidi di agretti sono pronti per essere serviti ancora caldi!",
+    "ingredients": [
+        [
+            "Barba di frate (agretti)",
+            "(da pulire) 600 g"
+        ],
+        [
+            "Uova",
+            "4"
+        ],
+        [
+            "Provolone piccante",
+            "60 g"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Acqua",
+            "100 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,46 @@
-{"title": "Risotto al tartufo", "category": "Primi piatti", "description": "Per realizzare il risotto al tartufo per prima cosa preparate la nostra ricetta del brodo di carne. Poi, in un tegame versate l'olio di oliva , scaldatelo, quindi aggiungete il riso  che tosterete a fiamma media per un paio di minuti .Dopo, bagnate con il brodo di carne caldo, un mestolo alla volta man mano che si asciuga il liquido , salate  e portate a cottura il risotto: ci vorranno circa - minuti. Quando il risotto sar\u00e0 pronto, spegnete il fuoco, mantecate il risotto con il burro a fiamma spenta e aggiungete il Parmigiano reggiano grattugiato , aromatizzate con il pepe , mescolate e lasciate riposare nel tegame. Intanto prendete il tartufo bianco e con l'apposito taglia tartufo, realizzate delle scagliette .Ora che avete realizzato delle scagliette sottili di tartufo bianco , versate il risotto in ciascun piatto di portata , guarnite con delle scagliette di tartufo, aggiustate di pepe a piacere e servite ben caldo il risotto al tartufo bianco .", "ingredients": [["Riso Carnaroli", "320 g"], ["Tartufo bianco", "10 g"], ["Brodo di carne", "750 g"], ["Parmigiano Reggiano DOP", "da grattugiare 50 g"], ["Burro", "50 g"], ["Olio extravergine d'oliva", "q.b."], ["Pepe nero", "q.b."], ["Sale fino", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un cremoso e profumato risotto al tartufo, con un delicato sapore di formaggio Parmigiano Reggiano e un tocco di olio extravergine d'oliva. La presenza del tartufo bianco conferir\u00e0 al piatto un aroma intenso e prelibato.\n\nQuesto piatto \u00e8 adatto per occasioni speciali e festivit\u00e0, come cene eleganti o cene romantiche.\n\nIl risotto al tartufo \u00e8 adatto a persone che seguono una dieta bilanciata e controllata, in quanto contiene un buon equilibrio tra carboidrati, proteine e grassi. Tuttavia, va consumato con moderazione data la presenza di burro e formaggio.\n\nLe persone con intolleranze possono mangiarlo solo se non sono intolleranti al lattosio, dato che contiene formaggio Parmigiano Reggiano. Inoltre, coloro che soffrono di allergia al tartufo bianco devono evitare questo piatto."}
+{
+    "title": "Risotto al tartufo",
+    "category": "Ricette",
+    "description": "Per realizzare il risotto al tartufo per prima cosa preparate la nostra ricetta delbrodo di carne. Poi, in un tegame versate l’olio di oliva, scaldatelo, quindi aggiungete il risoche tosterete a fiamma media per un paio di minuti. Dopo, bagnate con il brodo di carne caldo, un mestolo alla volta man mano che si asciuga il liquido, salatee portate a cottura il risotto: ci vorranno circa 18-20 minuti. Quando il risotto sarà pronto, spegnete il fuoco, mantecate il risotto con il burro a fiamma spenta e aggiungete il Parmigiano reggiano grattugiato, aromatizzate con il pepe, mescolate e lasciate riposare nel tegame. Intanto prendete il tartufo bianco e con l’apposito taglia tartufo, realizzate delle scagliette. Ora che avete realizzato delle scagliette sottili di tartufo bianco, versate il risotto in ciascun piatto di portata, guarnite con delle scagliette di tartufo, aggiustate di pepe a piacere e servite ben caldo il risotto al tartufo bianco.",
+    "ingredients": [
+        [
+            "Riso Carnaroli",
+            "320 g"
+        ],
+        [
+            "Tartufo bianco",
+            "10 g"
+        ],
+        [
+            "Brodo di carne",
+            "750 g"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "da grattugiare 50 g"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "18 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto elevata"
+    }
+}

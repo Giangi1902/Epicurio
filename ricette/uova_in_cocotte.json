@@ -1,1 +1,30 @@
-{"title": "Uova in cocotte", "category": "Antipasti", "description": "Per preparare le uova in cocotte iniziate imburando una cocotte del diametro di  cm . Salate  e versare le uova a temperatura ambiente, una per volta, precendetemente rotte in una ciotola o un piattino .Mettete la cocotte\u00a0in una pentola con acqua quasi a bollore e che arrivi alla met\u00e0 dello stampino\u00a0, cuocete a bagnomaria lasciando bollire l'acqua per\u00a0circa  minuti . Ecco\u00a0come si cucinano le uova in cocotte, servitele a piacere con un pizzico di pepe nero .", "ingredients": [["Uova", "freschissime a temperatura ambiente 4"], ["Burro", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale delle uova in cocotte sar\u00e0 un antipasto cremoso e delicato, con il tuorlo ancora morbido e la consistenza ben cottura delle uova, il tutto arricchito dal burro e dai condimenti.\n\nQuesto piatto \u00e8 adatto ad essere servito come antipasto in occasioni speciali o durante un brunch elegante.\n\nLe uova in cocotte sono adatte a una dieta equilibrata, purch\u00e9 consumate con moderazione. Possono essere adatte a diete proteiche o chetogeniche, in quanto sono ricche di proteine e grassi.\n\nLe persone con intolleranze al lattosio devono fare attenzione all'uso del burro, mentre le persone con intolleranze all'uovo non possono consumare questa ricetta."}
+{
+    "title": "Uova in cocotte",
+    "category": "Ricette",
+    "description": "Per preparare le uova in cocotte iniziate imburando una cocotte del diametro di 9 cm. Salatee versare le uova a temperatura ambiente, una per volta, precendetemente rotte in una ciotola o un piattino. Mettete la cocotte in una pentola con acqua quasi a bollore e che arrivi alla metà dello stampino, cuocete a bagnomaria lasciando bollire l'acqua per circa 10 minuti. Ecco come si cucinano le uova in cocotte, servitele a piacere con un pizzico di pepe nero.",
+    "ingredients": [
+        [
+            "Uova",
+            "freschissime a temperatura ambiente 4"
+        ],
+        [
+            "Burro",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 pezzi",
+        "Costo": "Basso"
+    }
+}

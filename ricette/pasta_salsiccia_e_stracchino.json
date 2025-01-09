@@ -1,1 +1,50 @@
-{"title": "Pasta salsiccia e stracchino", "category": null, "description": "Per realizzare la pasta salsiccia e stracchino per prima cosa ponete sul fuoco una pentola colma di acqua e salate a bollore, servir\u00e0 per la cottura della pasta. Versate la salsiccia sbriciolata e privata del budello in padella , rosolatela per - minuti e poi aggiungete l'aglio sbucciato  e l'olio di oliva .Proseguite la cottura per altri due minuti. Eliminate l'aglio e tenete in caldo . Cuocete la pasta per il tempo riportato sulla confezione. Prima di scolare la pasta, aggiungete lo stracchino nella padella con la salsiccia . Versate anche la pasta nel tegame , aggiungete poca acqua di cottura  e mescolate per amalgamare e sciogliere il formaggio. Aggiustate di pepe\u00a0 a piacere .Insaporite con le erbe aromatiche tritate (timo, rosmarino e salvia) , mescolate un'ultima volta  e servite la pasta salsiccia e stracchino ben calda .", "ingredients": [["Casarecce", "320 g"], ["Salsiccia", "250 g"], ["Stracchino", "200 g"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Aglio", "1 spicchio"], ["Pepe nero", "q.b."], ["Rosmarino", "da tritare q.b."], ["Timo", "q.b."], ["Salvia", "da tritare q.b."]], "contesto": "Il risultato finale sar\u00e0 una pasta cremosa e saporita, arricchita dal gusto della salsiccia e dello stracchino, con un mix di profumi di aglio, pepe nero, rosmarino, timo e salvia.\n\nOccasioni adatte:\nQuesto piatto \u00e8 perfetto per una cena informale con amici o familiari, ma pu\u00f2 essere adatto anche per un pranzo veloce durante la settimana.\n\nDiete adatte:\nQuesta ricetta \u00e8 adatta per una dieta bilanciata e varia, ma potrebbe non essere adatta per chi segue una dieta ipocalorica o chetogenica a causa del contenuto di grassi.\n\nIntolleranze:\nLe persone intolleranti al lattosio potrebbero avere difficolt\u00e0 a digerire lo stracchino presente nella ricetta. Inoltre, chi soffre di intolleranza al glutine dovrebbe sostituire la pasta con una versione senza glutine."}
+{
+    "title": "Pasta salsiccia e stracchino",
+    "category": "Ricette",
+    "description": "Per realizzare la pasta salsiccia e stracchino per prima cosa ponete sul fuoco una pentola colma di acqua e salate a bollore, servirà per la cottura della pasta. Versate la salsiccia sbriciolata e privata del budello in padella, rosolatela per 2-3 minuti e poi aggiungete l’aglio sbucciatoe l'olio di oliva. Proseguite la cottura per altri due minuti. Eliminate l’aglio e tenete in caldo. Cuocete la pasta per il tempo riportato sulla confezione. Prima di scolare la pasta, aggiungete lo stracchino nella padella con la salsiccia. Versate anche la pasta nel tegame, aggiungete poca acqua di cotturae mescolate per amalgamare e sciogliere il formaggio. Aggiustate di pepe  a piacere. Insaporite con le erbe aromatiche tritate (timo, rosmarino e salvia), mescolate un'ultima voltae servite la pasta salsiccia e stracchino ben calda.",
+    "ingredients": [
+        [
+            "Casarecce",
+            "320 g"
+        ],
+        [
+            "Salsiccia",
+            "250 g"
+        ],
+        [
+            "Stracchino",
+            "200 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "da tritare q.b."
+        ],
+        [
+            "Timo",
+            "q.b."
+        ],
+        [
+            "Salvia",
+            "da tritare q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

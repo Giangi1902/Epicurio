@@ -1,1 +1,42 @@
-{"title": "Cipolle di Tropea al forno", "category": "Contorni", "description": "Per preparare le cipolle di Tropea al forno come prima cosa eliminate la parte con le radici  e sbucciatele . Poi tagliatele nel senso verticale \u00a0in modo da ricavare  met\u00e0 . Disponete le cipolle in un tegame (adatto anche per la cottura in forno), cospargetele con un filo d'olio e fatele rosolare a fuoco vivace circa  minuti , facendo attenzione a muoverle di tanto in tanto, lasciandole con la parte tagliata rivolta verso l'alto, per non bruciarle. Nel frattempo prendete le erbe aromatiche \u00a0e tritatele finemente . Poi non appena le cipolle saranno leggermente soffritte spostatele dal fuoco e cospargetele con le erbe appena tritate. Salate con il sale grosso , aggiungete un filo d'olio \u00a0e il pepe . A questo punto  cuocete in forno statico preriscaldato a \u00b0 per circa - minuti, nel ripiano centrale. Sfornate e servite le vostre cipolle di Tropea al forno  con i secondi piatti che pi\u00f9 preferite!", "ingredients": [["Cipolle rosse di Tropea", "4"], ["Rosmarino", "q.b."], ["Salvia", "q.b."], ["Timo", "q.b."], ["Sale grosso", "5 g"], ["Pepe nero", "q.b."], ["Olio extravergine d'oliva", "q.b."]], "contesto": "- Il risultato finale delle cipolle di Tropea al forno sar\u00e0 delle cipolle morbide e dolci, arricchite dal sapore aromatico del rosmarino, della salvia e del timo, condite con sale grosso, pepe nero e olio extravergine d'oliva.\n\n- Questa ricetta \u00e8 adatta per accompagnare piatti di carne alla griglia, arrosti o pietanze a base di pesce. Pu\u00f2 essere servita come contorno in un pranzo o una cena.\n\n- Le cipolle di Tropea al forno sono adatte per una dieta vegetariana e vegana, in quanto non contengono ingredienti di origine animale.\n\n- Le persone con intolleranze alimentari, come l'intolleranza al lattosio o al glutine, possono tranquillamente consumare questo contorno, in quanto non contiene ingredienti problematici per tali condizioni. Tuttavia, \u00e8 importante verificare che gli ingredienti utilizzati siano privi di contaminazioni accidentali nel caso di intolleranze gravi."}
+{
+    "title": "Cipolle di Tropea al forno",
+    "category": "Ricette",
+    "description": "Per preparare le cipolle di Tropea al forno come prima cosa eliminate la parte con le radicie sbucciatele. Poi tagliatele nel senso verticale in modo da ricavare 2 metà. Disponete le cipolle in un tegame (adatto anche per la cottura in forno), cospargetele con un filo d'olio e fatele rosolare a fuoco vivace circa 5 minuti, facendo attenzione a muoverle di tanto in tanto, lasciandole con la parte tagliata rivolta verso l'alto, per non bruciarle. Nel frattempo prendete le erbe aromatiche e tritatele finemente. Poi non appena le cipolle saranno leggermente soffritte spostatele dal fuoco e cospargetele con le erbe appena tritate. Salate con il sale grosso, aggiungete un filo d'olio e il pepe. A questo puntocuocete in forno statico preriscaldato a 190° per circa 30-35 minuti, nel ripiano centrale. Sfornate e servite le vostre cipolle di Tropea al fornocon i secondi piatti che più preferite!",
+    "ingredients": [
+        [
+            "Cipolle rosse di Tropea",
+            "4"
+        ],
+        [
+            "Rosmarino",
+            "q.b."
+        ],
+        [
+            "Salvia",
+            "q.b."
+        ],
+        [
+            "Timo",
+            "q.b."
+        ],
+        [
+            "Sale grosso",
+            "5 g"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "40 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

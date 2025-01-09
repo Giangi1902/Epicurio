@@ -1,1 +1,42 @@
-{"title": "Cavolfiore al forno", "category": null, "description": "Per preparare il cavolfiore al forno per prima cosa pulite il cavolfiore eliminando le foglie esterne e il gambo, poi separate le cimette  e sciacquatele. Tagliate le cimette a fettine dello spessore di  cm circa  e adagiatele in una teglia foderata con carta da forno .Versate l'olio e l'acqua in una ciotolina , poi aggiungete la paprika  e l'aglio schiacciato o tritato finemente .Emulsionate bene con una forchetta . Salate leggermente le fettine di cavolfiore  e conditele con l'emulsione .Aromatizzate con le foglioline di timo  e procedete con la cottura : cuocete in forno statico preriscaldato a \u00b0 per  minuti, dopodich\u00e9 accendete il grill per circa  minuti fino a doratura. Il vostro cavolfiore al forno \u00e8 pronto per essere gustato !", "ingredients": [["Cavolfiore", "700 g"], ["Paprika affumicata", "1 cucchiaino"], ["Aglio", "1 spicchio"], ["Timo", "2 rametti"], ["Olio extravergine d'oliva", "40 g"], ["Acqua", "2 cucchiai"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto aromatico e saporito, con il cavolfiore cotto al forno che si mantiene tenero e ricco di gusto grazie alla paprika affumicata, all'aglio e al timo. La superficie sar\u00e0 leggermente dorata e croccante, mentre gli aromi si diffonderanno in modo invitante.\n\nQuesto piatto \u00e8 adatto come contorno in un pasto principale, ma pu\u00f2 essere consumato anche da solo come piatto leggero e gustoso. \u00c8 perfetto per un pranzo o una cena in famiglia, ma si presta anche ad essere servito durante occasioni pi\u00f9 formali.\n\nQuesta ricetta \u00e8 adatta a una dieta vegetariana e vegana, in quanto non prevede l'utilizzo di ingredienti di origine animale. Inoltre, per chi segue una dieta senza glutine, questa ricetta \u00e8 adatta poich\u00e9 non contiene glutine, a meno che non venga aggiunto del pangrattato per gratinare il cavolfiore.\n\nLe persone con intolleranze al lattosio possono consumare questo piatto senza problemi, in quanto non contiene latticini. Tuttavia, le persone con intolleranze all'aglio dovrebbero evitare di consumare questa ricetta o eventualmente eliminarlo dagli ingredienti."}
+{
+    "title": "Cavolfiore al forno",
+    "category": "Ricette",
+    "description": "Per preparare il cavolfiore al forno per prima cosa pulite il cavolfiore eliminando le foglie esterne e il gambo, poi separate le cimettee sciacquatele. Tagliate le cimette a fettine dello spessore di 1 cm circae adagiatele in una teglia foderata con carta da forno. Versate l’olio e l’acqua in una ciotolina, poi aggiungete la paprikae l’aglio schiacciato o tritato finemente. Emulsionate bene con una forchetta. Salate leggermente le fettine di cavolfioree conditele con l’emulsione. Aromatizzate con le foglioline di timoe procedete con la cottura: cuocete in forno statico preriscaldato a 190° per 30 minuti, dopodiché accendete il grill per circa 5 minuti fino a doratura. Il vostro cavolfiore al forno è pronto per essere gustato!",
+    "ingredients": [
+        [
+            "Cavolfiore",
+            "700 g"
+        ],
+        [
+            "Paprika affumicata",
+            "1 cucchiaino"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Timo",
+            "2 rametti"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Acqua",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "20 min",
+        "Cottura": "35 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

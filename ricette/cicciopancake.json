@@ -1,1 +1,50 @@
-{"title": "Cicciopancake", "category": null, "description": "Per preparare i cicciopancake, separate\u00a0i tuorli dagli albumi e versate questi ultimi in una ciotola . Montate gli albumi con una frusta a mano , dovranno risultare spumosi. Aggiungete lo yogurt  e sbattete ancora con la frusta.Incorporate anche la farina d'avena , lo sciroppo d'agave\u00a0  e il lievito . Mescolate il tempo di rendere il composto omogeneo . Ungete con olio di semi (o di cocco) un tegamino di circa  cm di diametro, dai bordi alti  e fate scaldare sul fuoco. Versate il composto .Coprite con un coperchio  e fate cuocere per circa  minuti a fiamma bassa, poi girate delicatamente con una spatola o forchetta e fare terminare la cottura dall'altro lato  per altri  minuti.\u00a0 Rovesciate il cicciopancake su un piatto di portata .Guarnite con i frutti di bosco , lo sciroppo d'agave e la granella di pistacchi . Servite subito .", "ingredients": [["Farina d'avena", "25 g"], ["Albumi", "(a temperatura ambiente) 70 g"], ["Yogurt greco", "30 g"], ["Lievito in polvere per dolci", "4 g"], ["Sciroppo di agave", "15 g"], ["Olio di semi di girasole", "q.b."], ["Sciroppo di agave", "q.b."], ["Frutti di bosco", "q.b."], ["Granella di pistacchi", "q.b."]], "contesto": "Il risultato finale dei Cicciopancake \u00e8 un piatto soffice e leggero, grazie alla presenza degli albumi montati a neve. I pancake saranno dolci, grazie allo sciroppo di agave, e arricchiti dalla presenza dei frutti di bosco e della granella di pistacchi, che conferiranno una nota croccante.\n\nGli Cicciopancake sono adatti per la colazione o la merenda, ma possono essere anche una golosa idea per una cena leggera.\n\nQuesta ricetta \u00e8 adatta a tutte le diete che includono alimenti di origine vegetale, come la dieta vegetariana e la dieta vegana (escludendo per\u00f2 lo yogurt greco). \u00c8 inoltre adatta a chi segue una dieta senza glutine, scegliendo una farina d'avena certificata. \n\nLe persone con intolleranze al glutine devono fare attenzione alla scelta della farina d'avena certificata senza glutine. Le persone con intolleranze al lattosio possono sostituire lo yogurt greco con uno yogurt senza lattosio o con una bevanda vegetale."}
+{
+    "title": "Cicciopancake",
+    "category": "Ricette",
+    "description": "Per preparare i cicciopancake, separate i tuorli dagli albumi e versate questi ultimi in una ciotola. Montate gli albumi con una frusta a mano, dovranno risultare spumosi. Aggiungete lo yogurte sbattete ancora con la frusta. Incorporate anche la farina d'avena, lo sciroppo d’agavee il lievito. Mescolate il tempo di rendere il composto omogeneo. Ungete con olio di semi (o di cocco) un tegamino di circa 12 cm di diametro, dai bordi altie fate scaldare sul fuoco. Versate il composto. Coprite con un coperchioe fate cuocere per circa 10 minuti a fiamma bassa, poi girate delicatamente con una spatola o forchetta e fare terminare la cottura dall'altro latoper altri 10 minuti.  Rovesciate il cicciopancake su un piatto di portata. Guarnite con i frutti di bosco, lo sciroppo d'agave e la granella di pistacchi. Servite subito.",
+    "ingredients": [
+        [
+            "Farina d'avena",
+            "25 g"
+        ],
+        [
+            "Albumi",
+            "(a temperatura ambiente) 70 g"
+        ],
+        [
+            "Yogurt greco",
+            "30 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "4 g"
+        ],
+        [
+            "Sciroppo di agave",
+            "15 g"
+        ],
+        [
+            "Olio di semi di girasole",
+            "q.b."
+        ],
+        [
+            "Sciroppo di agave",
+            "q.b."
+        ],
+        [
+            "Frutti di bosco",
+            "q.b."
+        ],
+        [
+            "Granella di pistacchi",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "20 min",
+        "Dosi per": "1 pezzi",
+        "Costo": "Basso"
+    }
+}

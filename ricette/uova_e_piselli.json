@@ -1,1 +1,38 @@
-{"title": "Uova e piselli", "category": "Secondi piatti", "description": "Per preparare uova e piselli per prima cosa mondate e tritate finemente la cipolla . Versate un filo d'olio in una casseruola  e aggiungete la cipolla .Fate appassire la cipolla a fuoco dolce per qualche minuto  mescolando di tanto in tanto, poi unite i piselli  e regolate di\u00a0sale e pepe . Cuocete per circa  minuti sempre a fuoco dolce, mescolando di tanto in tanto.A questo punto rompete delicatamente le uova nella padella con i piselli, avendo cura di farle rimanere integre . Cuocete fino a raggiungere il grado di cottura desiderato: se preferite il tuorlo liquido basteranno  minuti, senza coperchio, fino a quando l'albume diventer\u00e0 bianco. Se preferite che il tuorlo diventi sodo, allora cuocete per circa  minuti con il coperchio. Infine condite con un altro\u00a0pizzico di sale  e pepe a piacere: servite le vostre uova e piselli ben calde !", "ingredients": [["Uova", "4"], ["Pisellini", "750 g"], ["Cipolle bianche", "60 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Risultato finale: Un piatto gustoso e ricco di proteine grazie alle uova, arricchito dalla dolcezza dei pisellini e dalla delicatezza delle cipolle bianche. Il tutto condito con olio extravergine d'oliva, sale e pepe nero per un sapore equilibrato.\n\nOccasioni adatte: Questa ricetta \u00e8 perfetta come secondo piatto per un pranzo o una cena in famiglia o con gli amici. Pu\u00f2 essere servita sia calda che fredda, quindi \u00e8 ottima anche per i picnic o i pranzi al sacco.\n\nDiete adatte: Questa ricetta \u00e8 adatta per una dieta bilanciata e salutare, grazie alla presenza di proteine, verdure e grassi sani. \u00c8 ideale per chi segue una dieta mediterranea o vuole mantenere un'alimentazione equilibrata.\n\nIntolleranze: Le persone con intolleranza al lattosio possono consumare questa ricetta in quanto non contiene latticini. Tuttavia, chi soffre di allergia alle uova dovrebbe evitare questo piatto o cercare alternative senza uova. Chi \u00e8 intollerante al glutine pu\u00f2 consumare questa ricetta purch\u00e9 gli ingredienti siano privi di glutine, controllando anche che non ci siano contaminazioni durante la preparazione."}
+{
+    "title": "Uova e piselli",
+    "category": "Ricette",
+    "description": "Per preparare uova e piselli per prima cosa mondate e tritate finemente la cipolla. Versate un filo d’olio in una casseruolae aggiungete la cipolla. Fate appassire la cipolla a fuoco dolce per qualche minutomescolando di tanto in tanto, poi unite i pisellie regolate di sale e pepe. Cuocete per circa 10 minuti sempre a fuoco dolce, mescolando di tanto in tanto. A questo punto rompete delicatamente le uova nella padella con i piselli, avendo cura di farle rimanere integre. Cuocete fino a raggiungere il grado di cottura desiderato: se preferite il tuorlo liquido basteranno 5 minuti, senza coperchio, fino a quando l'albume diventerà bianco. Se preferite che il tuorlo diventi sodo, allora cuocete per circa 10 minuti con il coperchio. Infine condite con un altro pizzico di salee pepe a piacere: servite le vostre uova e piselli ben calde!",
+    "ingredients": [
+        [
+            "Uova",
+            "4"
+        ],
+        [
+            "Pisellini",
+            "750 g"
+        ],
+        [
+            "Cipolle bianche",
+            "60 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

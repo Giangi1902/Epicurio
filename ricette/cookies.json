@@ -1,1 +1,50 @@
-{"title": "Cookies", "category": "Dolci", "description": "Per preparare i cookies, assicuratevi che il burro sia morbido. Quindi versate in una ciotola lo zucchero di canna e quello semolato . Unite un pizzico di sale  e il burro .Lavorate con le fruste elettriche fino ad amalgamare gli ingredienti , aggiungete l'uovo  e lavorate ancora con le fruste elettriche .\u00a0Quando sar\u00e0 ben assorbito unite la farina  e il bicarbonato . Lavorate con le fruste elettriche  sino ad ottenere un composto omogeneo.\u00a0Aggiungete le gocce di cioccolato  e mescolate con una spatola . Adesso utilizzando uno spallinatore da  cm di diametro prelevate una porzione di impasto (circa - g) . Quindi adagiate su una leccarda rivestita con carta forno le palline, ben distanziate tra loro , in cottura infatti tenderanno ad allargarsi molto. Cuocete in forno statico preriscaldato a \u00b0 per - minuti sino a che non saranno ben dorati. Sfornate , lasciate raffreddare e servite i vostri cookies !", "ingredients": [["Farina 00", "195 g"], ["Burro", "(morbido) 100 g"], ["Bicarbonato", "1 pizzico"], ["Uova", "(circa 1 medio, a temperatura ambiente) 55 g"], ["Zucchero di canna", "100 g"], ["Zucchero", "100 g"], ["Gocce di cioccolato fondente", "200 g"], ["Sale fino", "1 pizzico"]], "contesto": "Il risultato finale sar\u00e0 una serie di biscotti croccanti con gocce di cioccolato fondente, perfetti per una merenda golosa o da gustare con una tazza di latte o t\u00e8. I cookies saranno dal sapore dolce ma equilibrato grazie al mix di zucchero di canna e zucchero, con una consistenza morbida all'interno e croccante all'esterno.\n\nQuesti cookies sono adatti per occasioni informali come merende o colazioni golose, ma possono essere anche un'ottima idea regalo se confezionati in un pacchetto carino. Sono particolarmente indicati per chi ama i dolci con il cioccolato e per i momenti di relax da condividere con amici e familiari.\n\nQuesti cookies non sono adatti per diete ipocaloriche o per chi segue un'alimentazione povera di grassi, data la presenza di burro e zuccheri nella ricetta. Tuttavia, possono essere adatti per chi segue una dieta equilibrata e non troppo restrittiva, in quanto possono essere consumati con moderazione come dolcetto occasionale.\n\nLe persone con intolleranze al lattosio dovrebbero fare attenzione all'uso del burro nella ricetta. Inoltre, chi soffre di intolleranza al glutine dovrebbe optare per una farina senza glutine per preparare i cookies. Per gli allergici al cioccolato fondente, \u00e8 possibile sostituire le gocce di cioccolato con frutta secca o canditi."}
+{
+    "title": "Cookies",
+    "category": "Ricette",
+    "description": "Per preparare i cookies versate in una ciotola lo zucchero semolato e lo zucchero di canna, poi unite i semi del baccello di vanigliae il burro morbido. Mescolate energicamente con una frusta per amalgamare il tutto. Una volta amalgamato il composto, aggiungete l'uovo interoe mescolate sempre con la frusta. Dovrete ottenere un composto omogeneo e senza grumi. A parte mescolate la farina con il lievito per dolci. Versate le polveri nel composto. Mescolate con una spatolae, una volta ottenuto un impasto omogeneo, aggiungete un pizzico di salee le gocce di cioccolato fondente. Mescolate un'ultima volta per incorporarle in modo uniforme, poi coprite con pellicolae lasciate rassodare in frigorifero per 30 minuti. Riprendete il composto e formate delle sfere del peso di circa 50 g ciascuna, senza lavorarle e compattarle troppo. Se preferite potete utilizzare un porzionatore per il gelato. Adagiate le palline su una teglia rivestita con carta forno, distanziandole bene fra di loro. Cuocete i biscotti in forno statico a 165° per 25-30 minuti nel ripiano medio del forno. Una volta pronti, sfornate e lasciate intiepidire i cookiesprima di gustarli!",
+    "ingredients": [
+        [
+            "Farina 00",
+            "250 g"
+        ],
+        [
+            "Burro",
+            "morbido 150 g"
+        ],
+        [
+            "Gocce di cioccolato fondente",
+            "200 g"
+        ],
+        [
+            "Uova",
+            "(circa 1 medio) a temperatura ambiente 55 g"
+        ],
+        [
+            "Zucchero di canna",
+            "90 g"
+        ],
+        [
+            "Zucchero",
+            "90 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "5 g"
+        ],
+        [
+            "Baccello di vaniglia",
+            "(i semi) 1"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "30 min",
+        "Dosi per": "16 pezzi",
+        "Costo": "Basso"
+    }
+}

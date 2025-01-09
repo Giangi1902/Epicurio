@@ -1,1 +1,29 @@
-{"title": "Punch all'arancia", "category": "Bevande", "description": "Per preparare il punch lavate e asciugate bene le arance, sbucciatele aiutandovi con un pelapatate, quindi tenetene da parte le scorze . Tagliatele a met\u00e0 e spremetele utilizzando uno spremiagrumi , poi filtrate il succo con un colino e mettetelo in una ciotola capiente .Preparate ora lo sciroppo: in un pentolino scaldate lo zucchero con l'acqua (-), e fate cuocere il tutto a fuoco basso, finch\u00e9 lo zucchero non si sar\u00e0 completamente sciolto. Nel frattempo aggiungete l'Aperol al succo d'arancia  e,quando sar\u00e0 pronto, anche lo sciroppo di zucchero . Unite in ultimo le scorze d'arancia (che avevate precedentemente tenuto da parte)  e lasciate in infusione il tutto per qualche minuto . Servite il punch ancora caldo.", "ingredients": [["Acqua", "1 l"], ["Zucchero", "700 g"], ["Aperol", "700 ml"], ["Arance", "non trattate 3"]], "contesto": "Risultato finale: Il punch all'arancia \u00e8 una bevanda dolce e rinfrescante con una nota leggermente amara. Ha un sapore intenso di arancia grazie all'utilizzo delle arance non trattate e l'aperol dona un tocco amarognolo e un colore rosato.\n\nOccasioni adatte: Il punch all'arancia \u00e8 perfetto per feste, aperitivi o eventi informali. \u00c8 una bevanda adatta per l'estate o per rallegrare le serate invernali.\n\nDieta o regime alimentare: Il punch all'arancia \u00e8 vegetariano e pu\u00f2 essere consumato dagli adulti. \u00c8 una bevanda ricca di zucchero, quindi va consumata con moderazione e pu\u00f2 non essere adatta per diete a basso contenuto di zuccheri.\n\nIntolleranze: Le persone con intolleranza al fruttosio devono prestare attenzione al consumo di questa bevanda, in quanto contiene una quantit\u00e0 significativa di zucchero proveniente dall'arancia. Inoltre, le persone con intolleranza al glutine devono verificare che gli ingredienti utilizzati siano privi di contaminazioni."}
+{
+    "title": "Punch all'arancia",
+    "category": "Ricette",
+    "description": "Per preparare il punch lavate e asciugate bene le arance, sbucciatele aiutandovi con un pelapatate, quindi tenetene da parte le scorze. Tagliatele a metà e spremetele utilizzando uno spremiagrumi, poi filtrate il succo con un colino e mettetelo in una ciotola capiente. Preparate ora lo sciroppo: in un pentolino scaldate lo zucchero con l’acqua (4-5), e fate cuocere il tutto a fuoco basso, finché lo zucchero non si sarà completamente sciolto. Nel frattempo aggiungete l’Aperol al succo d’aranciae, quando sarà pronto, anche lo sciroppo di zucchero. Unite in ultimo le scorze d’arancia (che avevate precedentemente tenuto da parte)e lasciate in infusione il tutto per qualche minuto. Servite il punch ancora caldo.",
+    "ingredients": [
+        [
+            "Acqua",
+            "1 l"
+        ],
+        [
+            "Zucchero",
+            "700 g"
+        ],
+        [
+            "Aperol",
+            "700 ml"
+        ],
+        [
+            "Arance",
+            "non trattate 3"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "10 min",
+        "Costo": "Medio"
+    }
+}

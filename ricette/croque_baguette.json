@@ -1,1 +1,46 @@
-{"title": "Croque baguette", "category": "Antipasti", "description": "Per preparare la croque baguette iniziate dalla realizzazione della besciamella. Ponete il latte a scaldare, senza portarlo a bollore. Versate in un tegame il burro  e lasciatelo fondere, quindi aggiungete la farina  e mescolate rapidamente, per un paio di minuti .Quando il roux avr\u00e0 raggiunto un color dorato aggiungete il latte caldo  e mescolate a fuoco medio, aggiungete il sale  e la noce moscata .Continuate a mescolare  fino a che la vostra besciamella non si sar\u00e0 addensata, quindi ponetela in una ciotola . Prendete la pancetta e tagliatela in piccole listarelle .Grattugiate a julienne il Groviera  e tenete tutto da parte. Prendete le baguette, tagliatele a met\u00e0 nel senso della lunghezza , come se doveste farcirle, ed eliminate la mollica interna .Ripetete questa operazioni per entrambe le met\u00e0 delle baguette , e riempite l'incavo creato con la besciamella  .Ricoprite con abbondante Groviera ,e aggiungete anche le listarelle di pancetta . Gratinate le vostre croque baguette in forno statico preriscaldato a \u00b0 per circa  minuti  (se utilizzate il forno ventilato gratinate a \u00b0 per - minuti), fino a quando il Groviera non si sar\u00e0 sciolto e la pancetta sar\u00e0 diventata croccante. Servite le croque baguette ancora calde .", "ingredients": [["Baguette", "(2 da 80 g ) 160 g"], ["Groviera", "250 g"], ["Pancetta affumicata", "80 g"], ["Latte intero", "400 g"], ["Burro", "40 g"], ["Farina", "30 g"], ["Noce moscata", "(da grattugiare) 1 pizzico"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta \"Croque baguette\" sar\u00e0 un delizioso antipasto composto da baguette croccante farcita con formaggio groviera fuso, pancetta affumicata e una morbida besciamella aromatizzata alla noce moscata.\n\nIl Croque baguette \u00e8 adatto per occasioni informali come aperitivi, brunch o una cena tra amici.\n\nLa ricetta non \u00e8 adatta per diete ipocaloriche o per chi segue un'alimentazione vegana o vegetariana. Tuttavia, pu\u00f2 essere adattata facilmente per diete senza glutine sostituendo la farina con una farina senza glutine. Le persone con intolleranze al lattosio dovrebbero evitare questa ricetta in quanto contiene latte intero e formaggio groviera. Per le persone con intolleranze al glutine, \u00e8 consigliabile utilizzare una baguette senza glutine."}
+{
+    "title": "Croque baguette",
+    "category": "Ricette",
+    "description": "Per preparare la croque baguette iniziate dalla realizzazione della besciamella. Ponete il latte a scaldare, senza portarlo a bollore. Versate in un tegame il burroe lasciatelo fondere, quindi aggiungete la farinae mescolate rapidamente, per un paio di minuti. Quando il roux avrà raggiunto un color dorato aggiungete il latte caldoe mescolate a fuoco medio, aggiungete il salee la noce moscata. Continuate a mescolarefino a che la vostra besciamella non si sarà addensata, quindi ponetela in una ciotola. Prendete la pancetta e tagliatela in piccole listarelle. Grattugiate a julienne il Grovierae tenete tutto da parte. Prendete le baguette, tagliatele a metà nel senso della lunghezza, come se doveste farcirle, ed eliminate la mollica interna. Ripetete questa operazioni per entrambe le metà delle baguette, e riempite l’incavo creato con la besciamella.Ricoprite con abbondante Groviera, e aggiungete anche le listarelle di pancetta. Gratinate le vostre croque baguette in forno statico preriscaldato a 250° per circa 4 minuti(se utilizzate il forno ventilato gratinate a 230° per 2-3 minuti), fino a quando il Groviera non si sarà sciolto e la pancetta sarà diventata croccante. Servite le croque baguette ancora calde.",
+    "ingredients": [
+        [
+            "Baguette",
+            "(2 da 80 g ) 160 g"
+        ],
+        [
+            "Groviera",
+            "250 g"
+        ],
+        [
+            "Pancetta affumicata",
+            "80 g"
+        ],
+        [
+            "Latte intero",
+            "400 g"
+        ],
+        [
+            "Burro",
+            "40 g"
+        ],
+        [
+            "Farina",
+            "30 g"
+        ],
+        [
+            "Noce moscata",
+            "(da grattugiare) 1 pizzico"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "4 min",
+        "Dosi per": "4 pezzi",
+        "Costo": "Medio"
+    }
+}

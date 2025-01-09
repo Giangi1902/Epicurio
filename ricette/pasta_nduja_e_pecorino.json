@@ -1,1 +1,42 @@
-{"title": "Pasta nduja e pecorino", "category": "Primi piatti", "description": "Per preparare la pasta nduja e pecorino iniziate dalle cipolle: mondatele e affettatele sottilmente . Spostatevi ai fornelli e mettete a bollire l'acqua per la pasta. Intanto versate in\u00a0una padella antiaderente  e lasciate stufare a fuoco basso per circa  minuti ;\u00a0se il fondo dovesse asciugarsi troppo in fretta aggiungete un po' d'acqua.\u00a0Quando la cipolla sar\u00e0 morbida aggiungete la 'nduja  e lasciatela sciogliere con una mestolata di acqua calda  e lasciate insaporire qualche istante .\u00a0Nel frattempo lessate la pasta in acqua bollente salata a piacere  e quando macheranno un paio di minuti al termine della cottura, scolatela direttamente nel condimento . Alzate la fiamma e aggiungete ancora un pochino d'acqua .Spegnete il fuoco e aggiungete il pecorino grattugiato , al bisogno versate pochissima acqua e mescolate velocemente . Servite la vostra pasta 'nduja e pecorino con un po' di basilico e un filo d'olio a crudo: buon appetito .", "ingredients": [["Mezze Maniche Rigate", "320 g"], ["Nduja", "80 g"], ["Pecorino romano", "(da grattugiare) 100 g"], ["Cipolle rosse", "(media) 1"], ["Basilico", "q.b."], ["Sale fino", "q.b."], ["Olio extravergine d'oliva", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 una pasta cremosa e piccante, grazie alla presenza della nduja, arricchita dal sapore deciso del pecorino romano. Le mezze maniche rigate saranno avvolte in una salsa saporita e aromatica, arricchita dalla presenza delle cipolle rosse e del basilico.\n\nQuesta ricetta \u00e8 adatta per un pranzo o una cena speciale, da condividere con amici o familiari. \u00c8 perfetta per chi ama i sapori intensi e piccanti, ideale per chi cerca un piatto che sappia stupire.\n\nLa ricetta non \u00e8 adatta a persone con intolleranze al lattosio, data la presenza del pecorino romano. Tuttavia, \u00e8 adatta a persone con intolleranze al glutine se si utilizzano mezze maniche rigate senza glutine."}
+{
+    "title": "Pasta nduja e pecorino",
+    "category": "Ricette",
+    "description": "Per preparare la pasta nduja e pecorino iniziate dalle cipolle: mondatele e affettatele sottilmente. Spostatevi ai fornelli e mettete a bollire l'acqua per la pasta. Intanto versate in una padella antiaderentee lasciate stufare a fuoco basso per circa 15 minuti; se il fondo dovesse asciugarsi troppo in fretta aggiungete un po' d'acqua. Quando la cipolla sarà morbida aggiungete la 'ndujae lasciatela sciogliere con una mestolata di acqua caldae lasciate insaporire qualche istante. Nel frattempo lessate la pasta in acqua bollente salata a piaceree quando macheranno un paio di minuti al termine della cottura, scolatela direttamente nel condimento. Alzate la fiamma e aggiungete ancora un pochino d'acqua. Spegnete il fuoco e aggiungete il pecorino grattugiato, al bisogno versate pochissima acqua e mescolate velocemente. Servite la vostra pasta 'nduja e pecorino con un po' di basilico e un filo d'olio a crudo: buon appetito.",
+    "ingredients": [
+        [
+            "Mezze Maniche Rigate",
+            "320 g"
+        ],
+        [
+            "Nduja",
+            "80 g"
+        ],
+        [
+            "Pecorino Romano DOP",
+            "(da grattugiare) 100 g"
+        ],
+        [
+            "Cipolle rosse",
+            "(media) 1"
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

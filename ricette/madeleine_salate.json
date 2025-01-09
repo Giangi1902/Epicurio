@@ -1,1 +1,41 @@
-{"title": "Madeleine salate", "category": "Antipasti", "description": "Per preparare le madeleine salate cominciamo dall'impasto. Fate sciogliere il burro a fuoco dolcissimo, quindi lasciate intiepidire. In una ciotola rompete le uova e versate il Grana Padagno DOP grattugiato , il sale  e mescolate con una frusta .Aggiungete la farina  e il lievito istantaneo , mescolate. Otterrete un composto pi\u00f9 compatto. Diluite con il burro fuso e mescolate ancora . A questo punto tagliate gli acini d'uva in quattro parti  e tuffate nel composto incorporando delicatamente .Versare un cucchiaio di impasto negli stampi per madeleine  e quando avrete riempito tutti gli spazi cuocete in forno statico, gi\u00e0 caldo a \u00b0 per  minuti . Controllate perch\u00e8 i tempi possono variare con da forno a forno. Ecco pronte le vostre madeleine salate .", "ingredients": [["Grana Padano DOP", "da grattugiare 75 g"], ["Farina 00", "120 g"], ["Uova", "(circa 2 medie) 110 g"], ["Burro", "100 g"], ["Sale fino", "\u00bd cucchiaino"], ["Lievito istantaneo per preparazioni salate", "5 g"], ["Uva bianca", "acini 6"]], "contesto": "- Risultato finale: Le madeleine salate sono piccole e soffici fatta con grana padano, farina, uova, burro, sale, lievito e uva bianca; risultano croccanti all'esterno e morbide all'interno, con un delicato sapore di formaggio e un tocco di dolcezza dato dall'uva.\n\n- Occasioni adatte: Le madeleine salate sono perfette come antipasto o stuzzichino da servire prima di un pasto principale, ideali per accompagnare un aperitivo o un buffet.\n\n- Diete o regime alimentare adatte: Questa ricetta \u00e8 adatta a una dieta onnivora, ma pu\u00f2 essere facilmente adattata a una dieta vegetariana sostituendo il burro con margarina vegetale. Non \u00e8 adatta per diete vegane in quanto contiene uova e formaggio.\n\n- Intolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questa ricetta o sostituire il formaggio grana padano con un formaggio senza lattosio. Le persone con intolleranza al glutine possono utilizzare una farina senza glutine per preparare le madeleine."}
+{
+    "title": "Madeleine salate",
+    "category": "Ricette",
+    "description": "Per preparare le madeleine salate cominciamo dall'impasto. Fate sciogliere il burro a fuoco dolcissimo, quindi lasciate intiepidire. In una ciotola rompete le uova e versate il Grana Padagno DOP grattugiato, il salee mescolate con una frusta. Aggiungete la farinae il lievito istantaneo, mescolate. Otterrete un composto più compatto. Diluite con il burro fuso e mescolate ancora. A questo punto tagliate gli acini d'uva in quattro partie tuffate nel composto incorporando delicatamente. Versare un cucchiaio di impasto negli stampi per madeleinee quando avrete riempito tutti gli spazi cuocete in forno statico, già caldo a 180° per 20 minuti. Controllate perchè i tempi possono variare con da forno a forno. Ecco pronte le vostre madeleine salate.",
+    "ingredients": [
+        [
+            "Grana Padano DOP",
+            "da grattugiare 75 g"
+        ],
+        [
+            "Farina 00",
+            "120 g"
+        ],
+        [
+            "Uova",
+            "(circa 2 medie) 110 g"
+        ],
+        [
+            "Burro",
+            "100 g"
+        ],
+        [
+            "Sale fino",
+            "½ cucchiaino"
+        ],
+        [
+            "Lievito istantaneo per preparazioni salate",
+            "5 g"
+        ],
+        [
+            "Uva bianca",
+            "acini 6"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "20 min",
+        "Dosi per": "12 pezzi"
+    }
+}

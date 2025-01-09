@@ -1,1 +1,33 @@
-{"title": "Crema al caff\u00e8 all'acqua", "category": "Dolci", "description": "Per preparare la crema al caff\u00e8 all'acqua come prima cosa versate in una ciotola molto capiente lo zucchero , il caff\u00e8 solubile  e l'acqua . Considerate che una volta montata la crema sar\u00e0 molto voluminosa.Iniziate a lavorare con le fruste elettriche, inizialmente a velocit\u00e0 bassa per evitare gli schizzi . Aumentate poi la velocit\u00e0 e in pochi minuti la crema inizier\u00e0 a gonfiarsi . Non appena risulter\u00e0 chiara e molto spumosa potrete spegnere lo sbattitore , ci vorranno circa  minuti.La crema deve risultare molto spumosa, prelevandone una quantit\u00e0 con un cucchiaio  e capovolgendolo non deve scivolare via. Trasferite la crema ottenuta nei bicchierini , decorate con caff\u00e8 in polvere e con i chicchi di caff\u00e8 prima di servirla .", "ingredients": [["Caff\u00e8 solubile", "10 g"], ["Zucchero", "90 g"], ["Acqua", "fredda 180 g"], ["Caff\u00e8 solubile", "q.b."], ["Chicchi di caff\u00e8", "q.b."]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 una crema al caff\u00e8 leggera e fresca, con un intenso sapore di caff\u00e8 e una consistenza vellutata.\n\nQuesta crema al caff\u00e8 all'acqua \u00e8 adatta per occasioni in cui si desidera un dolce leggero e rinfrescante, perfetto per concludere un pasto estivo o come dessert dopo un pranzo abbondante.\n\nQuesta ricetta \u00e8 adatta per le persone che seguono una dieta vegetariana o vegana, in quanto non contiene ingredienti di origine animale. \u00c8 inoltre adatta per le persone che seguono una dieta senza glutine o senza lattosio, in quanto non contiene n\u00e9 glutine n\u00e9 lattosio.\n\nLe persone con intolleranze al caff\u00e8 non dovrebbero consumare questa crema al caff\u00e8, in quanto l'ingrediente principale \u00e8 il caff\u00e8 solubile. Inoltre, le persone con intolleranze allo zucchero dovrebbero fare attenzione alla quantit\u00e0 di zucchero utilizzata nella ricetta."}
+{
+    "title": "Crema al caffè all'acqua",
+    "category": "Ricette",
+    "description": "Per preparare la crema al caffè all'acqua come prima cosa versate in una ciotola molto capiente lo zucchero, il caffè solubilee l'acqua. Considerate che una volta montata la crema sarà molto voluminosa. Iniziate a lavorare con le fruste elettriche, inizialmente a velocità bassa per evitare gli schizzi. Aumentate poi la velocità e in pochi minuti la crema inizierà a gonfiarsi. Non appena risulterà chiara e molto spumosa potrete spegnere lo sbattitore, ci vorranno circa 10 minuti. La crema deve risultare molto spumosa, prelevandone una quantità con un cucchiaioe capovolgendolo non deve scivolare via. Trasferite la crema ottenuta nei bicchierini, decorate con caffè in polvere e con i chicchi di caffè prima di servirla.",
+    "ingredients": [
+        [
+            "Caffè solubile",
+            "10 g"
+        ],
+        [
+            "Zucchero",
+            "90 g"
+        ],
+        [
+            "Acqua",
+            "fredda 180 g"
+        ],
+        [
+            "Caffè solubile",
+            "q.b."
+        ],
+        [
+            "Chicchi di caffè",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Dosi per": "8 pezzi",
+        "Costo": "Basso"
+    }
+}

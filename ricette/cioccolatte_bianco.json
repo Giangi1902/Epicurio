@@ -1,1 +1,45 @@
-{"title": "Cioccolatte bianco", "category": "Bevande", "description": "Per realizzare il cioccolatte bianco scaldate l'acqua in un pentolino sino a raggiungere la temperatura di \u00b0 . Raggiunta la temperatura versate il cappuccino solubile nell'acqua  e mescolate bene. Aspettate circa  secondi e mescolare nuovamente e lasciate intiepidire .\u00a0Versate nel bicchiere del frullatore il ghiaccio a cubetti , il cappuccino tiepido  ed il cioccolato fuso , sciolto a bagnomaria. Azionate il frullatore e frullate il composto per circa  secondi.\u00a0Tenete da parte  e nel frattempo montare la panna con le fruste elettriche  finch\u00e8 non sar\u00e0 spumosa .Trasferite la panna montata in un sac-\u00e0-poche con bocchetta a stella. Componente il vostro cioccolatte: in un bicchiere versate  cubetti di ghiaccio, il composto frullato  e guarnire con la panna .Spolverate con\u00a0la polvere di caff\u00e8  e decorate con le scaglie di cioccolato bianco . Il cioccolate \u00e8 pronto per essere gustato .", "ingredients": [["Cappuccino solubile", "8 cucchiaini"], ["Acqua", "200 g"], ["Ghiaccio", "200 g"], ["Cioccolato bianco", "fuso 80 g"], ["Cioccolato bianco", "in scaglie q.b."], ["Ghiaccio", "cubetti 24"], ["Caff\u00e8 in polvere", "q.b."], ["Panna fresca liquida", "100 g"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un delizioso e rinfrescante frapp\u00e8 al cioccolato bianco, perfetto per una dolce pausa durante la giornata estiva.\n\n\u00c8 adatto per occasioni informali con amici o per coccolarsi da soli in un momento di relax.\n\nQuesta bevanda \u00e8 adatta a tutti tranne che per chi segue una dieta vegana, in quanto contiene latte e panna. \u00c8 perfetta per chi ama il cioccolato e cerca una bevanda golosa da gustare ogni tanto.\n\nLe persone con intolleranza al lattosio possono provare a sostituire il latte e la panna con alternative vegetali. Le persone con allergia al lattosio possono evitare il cioccolato bianco e utilizzare una versione senza lattosio. Le persone con intolleranza al glutine devono fare attenzione ai prodotti utilizzati, in particolare al cappuccino solubile e ai cioccolati bianchi che potrebbero contenere tracce di glutine."}
+{
+    "title": "Cioccolatte bianco",
+    "category": "Ricette",
+    "description": "Per realizzare il cioccolatte bianco scaldate l’acqua in un pentolino sino a raggiungere la temperatura di 85°. Raggiunta la temperatura versate il cappuccino solubile nell’acquae mescolate bene. Aspettate circa 20 secondi e mescolare nuovamente e lasciate intiepidire. Versate nel bicchiere del frullatore il ghiaccio a cubetti, il cappuccino tiepidoed il cioccolato fuso, sciolto a bagnomaria. Azionate il frullatore e frullate il composto per circa 60 secondi. Tenete da partee nel frattempo montare la panna con le fruste elettrichefinchè non sarà spumosa. Trasferite la panna montata in un sac-à-poche con bocchetta a stella. Componente il vostro cioccolatte: in un bicchiere versate 5 cubetti di ghiaccio, il composto frullatoe guarnire con la panna. Spolverate con la polvere di caffèe decorate con le scaglie di cioccolato bianco. Il cioccolate è pronto per essere gustato.",
+    "ingredients": [
+        [
+            "Cappuccino solubile",
+            "8 cucchiaini"
+        ],
+        [
+            "Acqua",
+            "200 g"
+        ],
+        [
+            "Ghiaccio",
+            "200 g"
+        ],
+        [
+            "Cioccolato bianco",
+            "fuso 80 g"
+        ],
+        [
+            "Cioccolato bianco",
+            "in scaglie q.b."
+        ],
+        [
+            "Ghiaccio",
+            "cubetti 24"
+        ],
+        [
+            "Caffè in polvere",
+            "q.b."
+        ],
+        [
+            "Panna fresca liquida",
+            "100 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "2 min",
+        "Dosi per": "4 persone"
+    }
+}

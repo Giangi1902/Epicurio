@@ -1,1 +1,50 @@
-{"title": "Minestra di pomodoro", "category": "Primi piatti", "description": "Per preparare la minestra di pomodoro come prima cosa lavate i pomodori. Poi tagliateli prima in   e poi a cubetti piuttosto piccoli . Tenete da parte e passate al cipollotto di Tropea; eliminate le foglie pi\u00f9 esterne e tagliatelo a fette . Scaldate un filo d'olio in un tegame, aggiungete il cipollotto  e  g\u00a0d'acqua . Lasciate stufare le cipolle a fiamma moderata per una decina di minuti,\u00a0poi unite anche i pomodori , le foglioline di origano fresco , quelle di basilico  e regolate di sale e pepe.\u00a0Aggiungete \u00a0g di acqua  e cuocete per circa  minuti. Poi versate altri  g di acqua e portate al bollore, quindi aggiungete\u00a0la pasta direttamente all'interno della minestra di pomodoro  e ultimate la cottura della pasta. Se scegliete un formato come il nostro basteranno solo  minuti di cottura. Profumate con qualche fogliolina di origano fresco ,\u00a0qualche fogliolina di basilico , regolate di sale e mescolate il tutto . La minestra di pomodoro \u00e8 pronta da servire . \u00a0", "ingredients": [["Filini", "250 g"], ["Pomodori pizzutelli", "300 g"], ["Cipollotti rossi", "di Tropea 80 g"], ["Origano", "fresco q.b."], ["Basilico", "q.b."], ["Olio extravergine d'oliva", "2 cucchiai"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Acqua", "750 g"]], "contesto": "Il risultato finale sar\u00e0 una minestra di pomodoro delicata e gustosa, arricchita dal profumo dell'origano e del basilico.\n\nOccasioni: \u00e8 adatta per un pranzo leggero o una cena veloce.\n\nDieta: \u00c8 adatta per una dieta vegetariana e vegana. Pu\u00f2 essere consumata anche in una dieta senza glutine scegliendo filini senza glutine.\n\nIntolleranze: Le persone con intolleranza al glutine dovranno assicurarsi di utilizzare filini senza glutine. Le persone con intolleranza al lattosio possono consumare la minestra, in quanto non contiene latticini."}
+{
+    "title": "Minestra di pomodoro",
+    "category": "Ricette",
+    "description": "Per preparare la minestra di pomodoro come prima cosa lavate i pomodori. Poi tagliateli prima in 4e poi a cubetti piuttosto piccoli. Tenete da parte e passate al cipollotto di Tropea; eliminate le foglie più esterne e tagliatelo a fette. Scaldate un filo d'olio in un tegame, aggiungete il cipollottoe 50 g d'acqua. Lasciate stufare le cipolle a fiamma moderata per una decina di minuti, poi unite anche i pomodori, le foglioline di origano fresco, quelle di basilicoe regolate di sale e pepe. Aggiungete 200 g di acquae cuocete per circa 15 minuti. Poi versate altri 500 g di acqua e portate al bollore, quindi aggiungete la pasta direttamente all'interno della minestra di pomodoroe ultimate la cottura della pasta. Se scegliete un formato come il nostro basteranno solo 2 minuti di cottura. Profumate con qualche fogliolina di origano fresco, qualche fogliolina di basilico, regolate di sale e mescolate il tutto. La minestra di pomodoro è pronta da servire.",
+    "ingredients": [
+        [
+            "Filini",
+            "250 g"
+        ],
+        [
+            "Pomodori pizzutelli",
+            "300 g"
+        ],
+        [
+            "Cipollotti rossi",
+            "di Tropea 80 g"
+        ],
+        [
+            "Origano",
+            "fresco q.b."
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Acqua",
+            "750 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

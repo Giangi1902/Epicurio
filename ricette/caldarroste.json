@@ -1,1 +1,18 @@
-{"title": "Caldarroste", "category": "Dolci", "description": "Per preparare le caldarroste in padella procuratevi delle castagne pi\u00f9 o meno della stessa dimensione (o dei marroni) e controllatele una per volta per accertarvi che siano integre, senza alcuna macchia o buco. Intaccatele praticando un taglio lungo circa  cm (servir\u00e0 a non farle scoppiare in cottura) , poi trasferite le castagne in una ciotola pi\u00f9 ampia  e versate l'acqua : lasciatele in ammollo per almeno  ore.\u00a0Scolatele bene, asciugatele quindi versate le castagne nell'apposita padella forata e cuocete a fiamma moderata , per circa  minuti , girandole spesso. Per non bruciare troppo la parte esterna delle castagne e rischiare di avere un prodotto non cotto all'interno \u00e8 consigliabile porre sotto alla padella uno spargifiamma. Se non possedete questo attrezzo non preoccupatevi sar\u00e0 sufficiente tenere la padella leggermente sollevata e mescolare le castagne molto spesso. Una volta ottenuta una cottura omogenea toglietele dalla padella e ponetele in un contenitore, meglio se traspirante. Potete servire le caldarroste in un conetto di cartapaglia .", "ingredients": [["Castagne", "1 kg"]], "contesto": "Il risultato finale della ricetta delle caldarroste sar\u00e0 un delizioso dolce autunnale composto da castagne arrostite croccanti e profumate.\n\nOccasioni adatte:\nLe caldarroste sono perfette da gustare in autunno durante le serate fresche, magari accompagnate da un bicchiere di vino o da una tazza di t\u00e8 caldo. Sono ideali da preparare per feste all'aperto, come ad esempio un picnic in montagna o una festa in giardino.\n\nDiete o regimi alimentari adatti:\nLe caldarroste sono adatte per una dieta vegetariana e possono essere inserite anche in una dieta vegana. Tuttavia, \u00e8 importante assicurarsi che le castagne siano cotte senza grassi animali o prodotti di derivazione animale.\n\nIntolleranze:\nLe caldarroste possono essere consumate da persone con intolleranza al lattosio, poich\u00e9 non contengono latticini. Tuttavia, \u00e8 importante fare attenzione a eventuali allergie alle noci, in quanto le castagne sono considerate frutti a guscio."}
+{
+    "title": "Caldarroste",
+    "category": "Ricette",
+    "description": "Per preparare le caldarroste in padella procuratevi delle castagne più o meno della stessa dimensione (o dei marroni) e controllatele una per volta per accertarvi che siano integre, senza alcuna macchia o buco. Intaccatele praticando un taglio lungo circa 3 cm (servirà a non farle scoppiare in cottura), poi trasferite le castagne in una ciotola più ampiae versate l'acqua: lasciatele in ammollo per almeno 2 ore. Scolatele bene, asciugatele quindi versate le castagne nell'apposita padella forata e cuocete a fiamma moderata, per circa 30 minuti, girandole spesso. Per non bruciare troppo la parte esterna delle castagne e rischiare di avere un prodotto non cotto all’interno è consigliabile porre sotto alla padella uno spargifiamma. Se non possedete questo attrezzo non preoccupatevi sarà sufficiente tenere la padella leggermente sollevata e mescolare le castagne molto spesso. Una volta ottenuta una cottura omogenea toglietele dalla padella e ponetele in un contenitore, meglio se traspirante. Potete servire le caldarroste in un conetto di cartapaglia.",
+    "ingredients": [
+        [
+            "Castagne",
+            "1 kg"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

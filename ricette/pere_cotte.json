@@ -1,1 +1,34 @@
-{"title": "Pere cotte", "category": "Dolci", "description": "Per preparare le pere cotte iniziate pelandole intere con un pelapatate , avendo cura di lasciare il picciolo attaccato . Ora preparate lo sciroppo: versate in una pentola l'acqua e lo zucchero .Aggiungete l'anice, la cannella  e portate a bollore. Non appena avr\u00e0 raggiunto il bollore abbassate la fiamma e tenetela media. Inserite le pere  e lasciatele cuocere per / min avendo cura di girarle di tanto in tanto in modo da cuocerle uniformemente .\u00a0Quando saranno pronte toglietele dallo sciroppo  e tenetele da parte. Filtrate lo sciroppo con un colino a maglia fine , in modo da separare gli aromi .\u00a0Ora impiattate: Sistemate una pera in una ciotolina , versate sopra un mestolino di sciroppo \u00a0e servitele . Se preferite potete aggiungere un pizzico di cannella in polvere.", "ingredients": [["Pere Williams", "(380 g) 2"], ["Anice stellato", "5"], ["Cannella in stecche", "2"], ["Acqua", "500 g"], ["Zucchero", "300 g"]], "contesto": "Il risultato finale della ricetta \"Pere cotte\" sono pere dolci e morbide, lentamente cotte in uno sciroppo aromatizzato con anice stellato e cannella. Le pere assorbiranno i sapori del condimento e si trasformeranno in un dessert delizioso e profumato.\n\nQuesto dolce \u00e8 adatto per occasioni speciali come cene eleganti o feste in famiglia. Pu\u00f2 essere servito da solo o come accompagnamento a gelato o dolci al cucchiaio.\n\nLe pere cotte sono adatte per una dieta moderata, in quanto contengono zucchero. Tuttavia, possono essere consumate con moderazione anche in una dieta equilibrata. \n\nLe persone con intolleranze alimentari dovrebbero fare attenzione agli ingredienti utilizzati nella ricetta. Le pere cotte contengono zucchero, quindi sono sconsigliate per persone con diabete o intolleranza al fruttosio. Inoltre, chi \u00e8 intollerante all'anice stellato o alla cannella dovrebbe evitare questo dolce."}
+{
+    "title": "Pere cotte",
+    "category": "Ricette",
+    "description": "Per preparare le pere cotte iniziate pelandole intere con un pelapatate, avendo cura di lasciare il picciolo attaccato. Ora preparate lo sciroppo: versate in una pentola l’acqua e lo zucchero. Aggiungete l'anice, la cannellae portate a bollore. Non appena avrà raggiunto il bollore abbassate la fiamma e tenetela media. Inserite le peree lasciatele cuocere per 10/15 min avendo cura di girarle di tanto in tanto in modo da cuocerle uniformemente. Quando saranno pronte toglietele dallo sciroppoe tenetele da parte. Filtrate lo sciroppo con un colino a maglia fine, in modo da separare gli aromi. Ora impiattate: Sistemate una pera in una ciotolina, versate sopra un mestolino di sciroppoe servitele. Se preferite potete aggiungere un pizzico di cannella in polvere.",
+    "ingredients": [
+        [
+            "Pere Williams",
+            "(380 g) 2"
+        ],
+        [
+            "Anice stellato",
+            "5"
+        ],
+        [
+            "Cannella in stecche",
+            "2"
+        ],
+        [
+            "Acqua",
+            "500 g"
+        ],
+        [
+            "Zucchero",
+            "300 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

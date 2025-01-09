@@ -1,1 +1,42 @@
-{"title": "Omelette caprese", "category": "Piatti Unici", "description": "Per realizzare l'omelette caprese per prima cosa tagliate la mozzarella a cubetti  e fate perdere l'acqua in eccesso tenendola tra due pezzi di carta assorbente fino all'utilizzo . Lavate poi affettate i pomodori  per ottenere circa dieci fette.Scaldate una padella, adagiate le fette di pomodoro , salate  e arrostitele per  minuto circa .Preparate l'impasto per la prima omelette: in una ciotola versate le due uova intere, salate, pepate  e sbattetele con una frusta . Ungete d'olio una padella  e fatela scaldare.Versate le uova sbattute  e coprite con il coperchio . Non appena la parte in superficie inizier\u00e0 a rapprendersi e a fare le bollicine, su di un lato posizionate tre fette di pomodoro .Aggiungete anche met\u00e0 della mozzarella ben scolata , altre due fette di pomodoro e il basilico fresco . Richiudete l'omelette su se stessa a mezzaluna .Piegate bene a met\u00e0  e proseguite la cottura a fiamma bassa coprendo con il coperchio fino a quando non si sar\u00e0 sciolta la mozzarella . La prima omelette \u00e8 pronta, proseguite nello stesso modo con la seconda. Servite le vostre omelette caprese ben calde .", "ingredients": [["Uova", "4"], ["Pomodori ramati", "2"], ["Mozzarella", "200 g"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Basilico", "q.b."], ["Olio extravergine d'oliva", "q.b."]], "contesto": "Il risultato finale della ricetta \"Omelette Caprese\" \u00e8 un piatto unico leggero e saporito, perfetto per una colazione, pranzo o cena veloce e salutare. L'omelette sar\u00e0 morbida e cremosa, arricchita dai pomodori freschi, dalla mozzarella filante e dal profumo del basilico.\n\nQuesta ricetta \u00e8 adatta a chi segue una dieta equilibrata e salutare, in quanto \u00e8 ricca di proteine e nutrienti essenziali. \u00c8 ideale anche per chi \u00e8 alla ricerca di un pasto leggero ma nutriente.\n\nLe persone con intolleranze possono mangiare l'Omelette Caprese se non sono allergiche agli ingredienti principali come uova e latticini. \u00c8 importante fare attenzione alle intolleranze al lattosio, alla caseina e all'uovo, in modo da adattare la ricetta alle esigenze di ciascuno. In caso di intolleranze, \u00e8 possibile sostituire la mozzarella con una alternativa senza latticini e utilizzare uova sostitutive."}
+{
+    "title": "Omelette caprese",
+    "category": "Ricette",
+    "description": "Per realizzare l’omelette caprese per prima cosa tagliate la mozzarella a cubettie fate perdere l’acqua in eccesso tenendola tra due pezzi di carta assorbente fino all’utilizzo. Lavate poi affettate i pomodoriper ottenere circa dieci fette. Scaldate una padella, adagiate le fette di pomodoro, salatee arrostitele per 1 minuto circa. Preparate l’impasto per la prima omelette: in una ciotola versate le due uova intere, salate, pepatee sbattetele con una frusta. Ungete d’olio una padellae fatela scaldare. Versate le uova sbattutee coprite con il coperchio. Non appena la parte in superficie inizierà a rapprendersi e a fare le bollicine, su di un lato posizionate tre fette di pomodoro. Aggiungete anche metà della mozzarella ben scolata, altre due fette di pomodoro e il basilico fresco. Richiudete l’omelette su se stessa a mezzaluna. Piegate bene a metàe proseguite la cottura a fiamma bassa coprendo con il coperchio fino a quando non si sarà sciolta la mozzarella. La prima omelette è pronta, proseguite nello stesso modo con la seconda. Servite le vostre omelette caprese ben calde.",
+    "ingredients": [
+        [
+            "Uova",
+            "4"
+        ],
+        [
+            "Pomodori ramati",
+            "2"
+        ],
+        [
+            "Mozzarella",
+            "200 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "2 pezzi",
+        "Costo": "Basso"
+    }
+}

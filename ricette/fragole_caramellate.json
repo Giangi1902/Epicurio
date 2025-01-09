@@ -1,1 +1,30 @@
-{"title": "Fragole caramellate", "category": "Dolci", "description": "Per preparare le fragole caramellate lavate la frutta quindi inserite ogni pezzo in uno spiedino di legno . In una padella versate l'acqua .\u00a0Unite anche lo zucchero , mescolate  e\u00a0trasferite sul fuoco. Fate sciogliere lo zucchero a fiamma bassa. Intanto in una ciotola versate a cqua e ghiaccio .\u00a0Quando lo sciroppo di acqua e zucchero sar\u00e0 diventato denso e formaer\u00e0 le bollicine,\u00a0\u00a0immergete gli spiedini\u00a0 e fateli ruotare in modo che si ricoprano di uno strato uniforme e sottile di glassa. Infine immergete subito gli spiedini nell'acqua con il ghiaccio in modo che la glassatura si solidifichi .\u00a0La fragole caramellate sono pronte per essere gustate .", "ingredients": [["Fragole", "q.b."], ["Zucchero", "100 g"], ["Acqua", "50 ml"], ["Ghiaccio", "q.b."]], "contesto": "Il risultato finale della ricetta \"Fragole caramellate\" sar\u00e0 un dessert dolce e succulento, con fragole ricoperte da uno strato di zucchero caramellato croccante. Le fragole saranno leggermente caramellate all'esterno e morbide all'interno, creando un contrasto di consistenze e sapori.\n\nOccasioni adatte: Le fragole caramellate sono perfette da servire come dessert estivo durante una cena in giardino, come dolce dopo un pranzo leggero o anche come fine pasto speciale in occasioni festose.\n\nDiete o regime alimentare adatte: Le fragole caramellate sono adatte a una dieta vegetariana e possono essere incluse occasionalmente in una dieta bilanciata e varia per soddisfare la golosit\u00e0 senza esagerare con le quantit\u00e0.\n\nIntolleranze: Le fragole caramellate potrebbero non essere adatte a chi soffre di intolleranza al fruttosio, in quanto le fragole contengono una quantit\u00e0 significativa di questo zucchero naturale. Inoltre, potrebbero non essere adatte a chi ha intolleranza al lattosio se servite con panna montata o gelato. Se si desidera rendere questa ricetta adatta a persone con intolleranze, si potrebbe sostituire lo zucchero con un dolcificante senza fruttosio e accompagnare le fragole con una salsa di cioccolato fondente senza lattosio."}
+{
+    "title": "Fragole caramellate",
+    "category": "Ricette",
+    "description": "Per preparare le fragole caramellate lavate la frutta quindi inserite ogni pezzo in uno spiedino di legno. In una padella versate l'acqua. Unite anche lo zucchero, mescolatee trasferite sul fuoco. Fate sciogliere lo zucchero a fiamma bassa. Intanto in una ciotola versate a cqua e ghiaccio. Quando lo sciroppo di acqua e zucchero sarà diventato denso e formaerà le bollicine,  immergete gli spiedinie fateli ruotare in modo che si ricoprano di uno strato uniforme e sottile di glassa. Infine immergete subito gli spiedini nell’acqua con il ghiaccio in modo che la glassatura si solidifichi. La fragole caramellate sono pronte per essere gustate.",
+    "ingredients": [
+        [
+            "Fragole",
+            "q.b."
+        ],
+        [
+            "Zucchero",
+            "100 g"
+        ],
+        [
+            "Acqua",
+            "50 ml"
+        ],
+        [
+            "Ghiaccio",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

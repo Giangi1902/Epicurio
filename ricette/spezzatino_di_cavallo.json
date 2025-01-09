@@ -1,1 +1,50 @@
-{"title": "Spezzatino di cavallo", "category": "Secondi piatti", "description": "Per preparare lo spezzatino di cavallo sbucciate la cipolla e tagliatela a rondelle . Prendete il peperoncino, eliminate con un coltello i semini interni , poi tagliatelo anch'esso a rondelle molto fini .Mettete sul fuoco un tegame in ghisa, versate l'olio d'oliva e fate rosolare la cipolla per - minuti . Aggiungete la carne tagliata a pezzetti piuttosto grossi  e fatele rosolare bene da entrambi i lati, girandola con un cucchiaio di legno .Unite il peperoncino , sfumate con il vino bianco  e aggiungete il pepe nero in grani .Mettete la polpa di pomodoro in un recipiente e schiacciatela leggermente con una forchetta ; unitela alla carne , poi versate l'acqua (potete passarla eventualmente nel fondo di polpa restante)  e regolate di sale.Fate quindi cuocere la carne per  ore a fuoco molto lento, coprendo con un coperchio e mescolando di tanto in tanto per una cottura uniforme . Trascorso il tempo necessario, spegnete il fuoco  e servite il vostro spezzatino di cavallo .", "ingredients": [["Cavallo", "(carne da spezzatino) 1,2 kg"], ["Polpa di pomodoro", "800 g"], ["Cipolle bianche", "1"], ["Peperoncino fresco", "1"], ["Olio extravergine d'oliva", "70 g"], ["Vino bianco", "100 g"], ["Pepe nero in grani", "q.b."], ["Sale fino", "q.b."], ["Acqua", "100 g"]], "contesto": "Il risultato finale sar\u00e0 un gustoso spezzatino di cavallo dal sapore ricco e corposo, arricchito dalla polpa di pomodoro e dal peperoncino fresco che conferisce un tocco di piccantezza. La carne sar\u00e0 tenera e succulenta, perfettamente cotta con la giusta consistenza.\n\nQuesta ricetta \u00e8 adatta per occasioni speciali come pranzi in famiglia o cene con amici, grazie alla sua bont\u00e0 e originalit\u00e0.\n\nLa ricetta \u00e8 adatta per una dieta proteica e senza glutine, poich\u00e9 non contiene carboidrati.\n\nLe persone con intolleranze al lattosio possono mangiarlo senza problemi, in quanto la ricetta non contiene latticini. Tuttavia, le persone con allergie al cavallo dovrebbero evitare di consumare questo piatto."}
+{
+    "title": "Spezzatino di cavallo",
+    "category": "Ricette",
+    "description": "Per preparare lo spezzatino di cavallo sbucciate la cipolla e tagliatela a rondelle. Prendete il peperoncino, eliminate con un coltello i semini interni, poi tagliatelo anch'esso a rondelle molto fini. Mettete sul fuoco un tegame in ghisa, versate l'olio d'oliva e fate rosolare la cipolla per 5-6 minuti. Aggiungete la carne tagliata a pezzetti piuttosto grossie fatele rosolare bene da entrambi i lati, girandola con un cucchiaio di legno. Unite il peperoncino, sfumate con il vino biancoe aggiungete il pepe nero in grani. Mettete la polpa di pomodoro in un recipiente e schiacciatela leggermente con una forchetta; unitela alla carne, poi versate l'acqua (potete passarla eventualmente nel fondo di polpa restante)e regolate di sale. Fate quindi cuocere la carne per 3 ore a fuoco molto lento, coprendo con un coperchio e mescolando di tanto in tanto per una cottura uniforme. Trascorso il tempo necessario, spegnete il fuocoe servite il vostro spezzatino di cavallo.",
+    "ingredients": [
+        [
+            "Cavallo",
+            "(carne da spezzatino) 1,2 kg"
+        ],
+        [
+            "Polpa di pomodoro",
+            "800 g"
+        ],
+        [
+            "Cipolle bianche",
+            "1"
+        ],
+        [
+            "Peperoncino fresco",
+            "1"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "70 g"
+        ],
+        [
+            "Vino bianco",
+            "100 g"
+        ],
+        [
+            "Pepe nero in grani",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Acqua",
+            "100 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "3 h",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

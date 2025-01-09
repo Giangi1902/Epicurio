@@ -1,1 +1,54 @@
-{"title": "Picchiap\u00f2", "category": "Secondi piatti", "description": "Per preparare il picchiap\u00f2 serviranno  g di carne lessata, quella della preparazione del brodo di carne, e il brodo stesso (da tenere in caldo) a partire da , kg di polpa di manzo cruda. Per il condimento alla picchiap\u00f2 mondate la cipolla rossa e tagliatela prima a met\u00e0 e poi a fettine . In un tegame capiente versate l'olio, aggiungete la cipolla e lasciate insaporire per qualche minuto , aggiungete un mestolo di brodo caldo  e cuocete per circa - minuti.\u00a0Nel frattempo trasferite i pomodori pelati in una ciotola e schiacciateli con una forchetta. Quando le cipolle saranno morbide aggiungeteli nel tegame  e unite anche le foglie di alloro .Salate , pepate, mescolate bene  e coprite con un coperchio. Lasciate cuocere il sugo per circa  minuti a fuoco dolce. Nel frattempo sfilacciate la carne lessa aiutandovi con una forchetta .\u00a0Trascorsi i  minuti versate la carne nel sugo , mescolate bene  e aggiungete - mestoli di brodo caldo .\u00a0Mescolate bene e coprite con un coperchio . Lasciate cuocere ancora per circa  minuti, poi togliete il coperchio e proseguite la cottura per altri  minuti, fino a che il brodo non si sar\u00e0 asciugato. Servite il picchiap\u00f2 ben caldo .\u00a0", "ingredients": [["Manzo", "(gi\u00e0 lesso) 800 g"], ["Cipolle rosse", "grande 1"], ["Pomodori pelati", "600 g"], ["Alloro", "3 foglie"], ["Olio extravergine d'oliva", "q.b."], ["Brodo di carne", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il Picchiap\u00f2 \u00e8 un piatto tradizionale della cucina romana. Il risultato finale sar\u00e0 una gustosa zuppa di manzo con pomodoro e cipolla, dal sapore ricco e avvolgente.\n\n\u00c8 adatto per occasioni informali e invernali, perfetto da gustare in famiglia o con amici.\n\nIl Picchiap\u00f2 \u00e8 adatto a tutti, in particolare a chi segue una dieta proteica. \u00c8 possibile adattare la ricetta anche per chi segue una dieta senza glutine, eliminando l'alloro e verificando che gli altri ingredienti siano privi di glutine.\n\nLe persone con intolleranza al lattosio possono mangiare il Picchiap\u00f2, in quanto non contiene latticini. Tuttavia, chi soffre di intolleranza al pomodoro dovrebbe evitare questo piatto."}
+{
+    "title": "Picchiapò",
+    "category": "Ricette",
+    "description": "Per preparare il picchiapò versate in una pentola colma di acqua fredda le verdure mondate: la carota, la costa di sedano, i pomodori e la patata. Sbucciate la cipolla e aggiungetene metà, quindi unite anche la carne di manzo. Insaporite con sale grosso, accendete il fuoco e lasciate bollire per 2 ore. Nel frattempo mondate e tritate 3 cipolle bianche. In una padella scaldate l'olio di oliva, quindi versate il trito di cipolle, salate, aggiungete un mestolo del brodo di carne in cotturae fate appassire le cipolle a fuoco basso. Nel frattempo lavate e tritate il prezzemolo fresco. Trascorso il tempo di bollitura, scolate il lesso. Tagliate la carneper ottenere delle fette sottili, ma non troppo. Una volta che la cipolla sarà ben stufata, adagiate sopra le fette di bollito. Aggiungete un mestolo di brodo della carnee la passata di pomodoro, mescolate e cuocete per circa 10 minuti, o il tempo che serve perché il sugo si restringa. Il lesso alla picchiapò è pronto, servitelo con abbondante prezzemolo fresco tritatoe un filo d'olio di oliva a crudo.",
+    "ingredients": [
+        [
+            "Cappello del prete",
+            "1 kg"
+        ],
+        [
+            "Passata di pomodoro",
+            "500 g"
+        ],
+        [
+            "Cipolle bianche",
+            "4"
+        ],
+        [
+            "Patate",
+            "1"
+        ],
+        [
+            "Sedano",
+            "1 costa"
+        ],
+        [
+            "Carote",
+            "1"
+        ],
+        [
+            "Pomodorini datterini",
+            "2"
+        ],
+        [
+            "Prezzemolo",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "50 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "2 h 10 min",
+        "Dosi per": "6 persone",
+        "Costo": "Basso"
+    }
+}

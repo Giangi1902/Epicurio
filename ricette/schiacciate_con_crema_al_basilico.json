@@ -1,1 +1,61 @@
-{"title": "Schiacciate con crema al basilico", "category": "Antipasti", "description": "La ricetta delle schiacciate con la crema al basilico inizia con la preparazione dei pomodorini confit: tagliate a met\u00e0 i pomodorini, disponeteli con la parte tagliata rivolta verso l'alto su una teglia coperta di carta da forno. Salate, pepate  e cospargete i pomodorini con zucchero, timo, aglio tritato, origano , infine irrorate i pomodorini con l'olio extravergine di oliva  e infornate a \u00b0C (forno ventilato) per circa un'ora e mezza.Intanto preparate la crema ponendo nel mixer il basilico, la robiola e un cucchiaino di latte , quando il composto risulter\u00e0 ben amalgamato  salate, pepate e, aiutandovi con una sac \u00e0 poche, versate la crema su ciascuna schiacciata , decorate per ultimo con i pomodorini confit e servite.", "ingredients": [["Schiacciate al forno", "12"], ["Robiola", "200 g"], ["Basilico", "30 g"], ["Latte", "1 cucchiaino"], ["Pomodori", "ciliegino 12"], ["Olio di oliva", "q.b."], ["Timo", "2 rametti"], ["Origano", "q.b."], ["Pepe", "nero q.b."], ["Aglio", "1/2 spicchio"], ["Zucchero", "1 cucchiaio"], ["Sale", "q.b."]], "contesto": "Il risultato finale sar\u00e0 delle schiacciate croccanti farcite con una delicata crema al basilico, arricchite da pomodorini ciliegino e aromi mediterranei.\n\nQuesto piatto \u00e8 perfetto per un antipasto sfizioso e leggero da servire durante aperitivi o cene informali tra amici.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta vegetariana, in quanto non contiene carne n\u00e9 pesce. Tuttavia, \u00e8 importante verificare che tutti gli ingredienti utilizzati siano conformi al regime alimentare seguito.\n\nLe schiacciate con crema al basilico sono adatte anche a persone intolleranti al lattosio, sostituendo la Robiola con una crema di formaggio senza lattosio. Inoltre, chi soffre di intolleranza al glutine pu\u00f2 utilizzare schiacciate senza glutine e verificare che gli altri ingredienti siano privi di glutine. Per le persone con intolleranza all'aglio o al basilico, \u00e8 possibile eliminare o sostituire gli ingredienti in base alle proprie esigenze."}
+{
+    "title": "Schiacciate con crema al basilico",
+    "category": "Ricette",
+    "description": "La ricetta delle schiacciate con la crema al basilico inizia con la preparazione dei pomodorini confit: tagliate a metà i pomodorini, disponeteli con la parte tagliata rivolta verso l’alto su una teglia coperta di carta da forno. Salate, pepatee cospargete i pomodorini con zucchero, timo, aglio tritato, origano, infine irrorate i pomodorini con l’olio extravergine di olivae infornate a 140°C (forno ventilato) per circa un’ora e mezza. Intanto preparate la crema ponendo nel mixer il basilico, la robiola e un cucchiaino di latte, quando il composto risulterà ben amalgamatosalate, pepate e, aiutandovi con una sac à poche, versate la crema su ciascuna schiacciata, decorate per ultimo con i pomodorini confit e servite.",
+    "ingredients": [
+        [
+            "Schiacciate al forno",
+            "12"
+        ],
+        [
+            "Robiola",
+            "200 g"
+        ],
+        [
+            "Basilico",
+            "30 g"
+        ],
+        [
+            "Latte",
+            "1 cucchiaino"
+        ],
+        [
+            "Pomodori",
+            "ciliegino 12"
+        ],
+        [
+            "Olio di oliva",
+            "q.b."
+        ],
+        [
+            "Timo",
+            "2 rametti"
+        ],
+        [
+            "Origano",
+            "q.b."
+        ],
+        [
+            "Pepe",
+            "nero q.b."
+        ],
+        [
+            "Aglio",
+            "1/2 spicchio"
+        ],
+        [
+            "Zucchero",
+            "1 cucchiaio"
+        ],
+        [
+            "Sale",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

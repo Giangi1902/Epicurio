@@ -1,1 +1,29 @@
-{"title": "Salsa mou", "category": "Dolci", "description": "Per preparare la salsa mou versate l'acqua in un pentolino, aggiungete lo zucchero  e mescolate per amalgamare bene i due ingredienti , poi accendete il fuoco e lasciate che arrivi a bollore a fiamma media senza mescolare pi\u00f9 .Quando il composto avr\u00e0 assunto un colore ambrato non troppo scuro , rimuovete il pentolino dal fuocoe versate la panna fresca liquida poco per volta , mescolando nel frattempo con un cucchiaio di legno ; abbiate cura di aggiungere la panna gradualmente come indicato facendo molta attenzione al vapore e alle bolle che si formeranno.In ultimo, aggiungete il pezzetto di burro  e continuate a mescolare per amalgamarlo al composto . La vostra salsa mou \u00e8 pronta .", "ingredients": [["Zucchero", "100 g"], ["Acqua", "25 g"], ["Panna fresca liquida", "a temperatura ambiente 50 g"], ["Burro", "a temperatura ambiente 10 g"]], "contesto": "Il risultato finale della salsa mou sar\u00e0 una salsa dolce e cremosa, dal sapore delicato e vellutato. Sar\u00e0 perfetta da abbinare a dolci come crepes, pancake, waffle, gelato o frutta fresca.\n\nOccasioni: La salsa mou \u00e8 ideale per arricchire e decorare dessert per occasioni speciali come compleanni, anniversari o feste.\n\nDieta: La salsa mou \u00e8 adatta a una dieta normocalorica, ma va consumata con moderazione a causa del suo contenuto di zucchero e panna. Non \u00e8 consigliata per persone in dieta dimagrante o per chi soffre di diabete.\n\nIntolleranze: Le persone con intolleranza al lattosio, dovuta alla presenza della panna fresca liquida, dovrebbero evitare di consumare la salsa mou. Inoltre, chi \u00e8 allergico al burro dovrebbe cercare alternative per sostituirlo nella ricetta."}
+{
+    "title": "Salsa mou",
+    "category": "Ricette",
+    "description": "Per preparare la salsa mou versate l’acqua in un pentolino, aggiungete lo zuccheroe mescolate per amalgamare bene i due ingredienti, poi accendete il fuoco e lasciate che arrivi a bollore a fiamma media senza mescolare più. Quando il composto avrà assunto un colore ambrato non troppo scuro, rimuovete il pentolino dal fuocoe versate la panna fresca liquida poco per volta, mescolando nel frattempo con un cucchiaio di legno; abbiate cura di aggiungere la panna gradualmente come indicato facendo molta attenzione al vapore e alle bolle che si formeranno. In ultimo, aggiungete il pezzetto di burroe continuate a mescolare per amalgamarlo al composto. La vostra salsa mou è pronta.",
+    "ingredients": [
+        [
+            "Zucchero",
+            "100 g"
+        ],
+        [
+            "Acqua",
+            "25 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "a temperatura ambiente 50 g"
+        ],
+        [
+            "Burro",
+            "a temperatura ambiente 10 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "10 min",
+        "Costo": "Molto basso"
+    }
+}

@@ -1,1 +1,50 @@
-{"title": "Sfouf", "category": "Dolci", "description": "Per realizzare lo sfouf versate in una ciotola capiente la farina, il semolino , lo zucchero  e il lievito .Unite la curcuma  e amalgamate le polveri con una frusta a mano. Mentre continuate a mescolare aggiungete anche il latte  e l'olio di semi .Dovrete ottenere un composto liscio e omogeneo . Ora prendete una teglia rettangolare dai bordi alti della misura di x cm e spennellate il fondo e i bordi con la tahina . Versate il composto all'interno e cospargete la superficie con i pinoli .Cuocete in forno statico preriscaldato a \u00b0 per circa  minuti . Una volta cotto, sfornate il dolce e lasciate intiepidire . Servite lo sfouf tagliato a quadrotti o losanghe della misura di circa  cm !", "ingredients": [["Farina 00", "250 g"], ["Semolino", "50 g"], ["Latte intero", "250 g"], ["Zucchero", "200 g"], ["Olio di semi di girasole", "120 g"], ["Lievito in polvere per dolci", "16 g"], ["Curcuma in polvere", "8 g"], ["Tahina", "q.b."], ["Pinoli", "q.b."]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un dolce tipico del Medio Oriente chiamato Sfouf. Si tratta di un dolce dal sapore unico grazie alla presenza della curcuma e della tahina, che donano al dolce un colore giallo intenso e un sapore particolare. I pinoli sulla superficie aggiungono una croccantezza e un tocco di sapore in pi\u00f9. Il dolce avr\u00e0 una consistenza morbida e leggermente umida, che lo rende perfetto da gustare in qualsiasi momento della giornata.\n\nIl Sfouf \u00e8 adatto per occasioni speciali come feste o compleanni, ma pu\u00f2 essere gustato anche come dessert dopo un pasto. Grazie alla presenza di ingredienti naturali e nutrienti come il latte e i pinoli, il Sfouf pu\u00f2 essere inserito in una dieta equilibrata. Tuttavia, \u00e8 consigliabile consumarlo con moderazione a causa del suo contenuto calorico dovuto allo zucchero e all'olio presente nella ricetta.\n\nLe persone con intolleranze al lattosio possono sostituire il latte intero con latte senza lattosio o con una bevanda vegetale, mentre coloro che hanno intolleranze ai semi oleosi possono omettere i pinoli dalla ricetta senza compromettere il risultato finale. Le persone con intolleranze al glutine dovranno sostituire la farina con una farina senza glutine per rendere il dolce adatto alle loro esigenze alimentari."}
+{
+    "title": "Sfouf",
+    "category": "Ricette",
+    "description": "Per realizzare lo sfouf versate in una ciotola capiente la farina, il semolino, lo zuccheroe il lievito. Unite la curcumae amalgamate le polveri con una frusta a mano. Mentre continuate a mescolare aggiungete anche il lattee l’olio di semi. Dovrete ottenere un composto liscio e omogeneo. Ora prendete una teglia rettangolare dai bordi alti della misura di 38x25 cm e spennellate il fondo e i bordi con la tahina. Versate il composto all’interno e cospargete la superficie con i pinoli. Cuocete in forno statico preriscaldato a 180° per circa 35 minuti. Una volta cotto, sfornate il dolce e lasciate intiepidire. Servite lo sfouf tagliato a quadrotti o losanghe della misura di circa 4 cm!",
+    "ingredients": [
+        [
+            "Farina 00",
+            "250 g"
+        ],
+        [
+            "Semolino",
+            "50 g"
+        ],
+        [
+            "Latte intero",
+            "250 g"
+        ],
+        [
+            "Zucchero",
+            "200 g"
+        ],
+        [
+            "Olio di semi di girasole",
+            "120 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "16 g"
+        ],
+        [
+            "Curcuma in polvere",
+            "8 g"
+        ],
+        [
+            "Tahina",
+            "q.b."
+        ],
+        [
+            "Pinoli",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "40 min",
+        "Cottura": "35 min",
+        "Dosi per": "50 pezzi",
+        "Costo": "Medio"
+    }
+}

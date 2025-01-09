@@ -1,1 +1,34 @@
-{"title": "Nutellotti", "category": "Dolci", "description": "Per preparare i Nutellotti ponete  g di Nutella nella tazza di una planetaria dotata di fruste  insieme ad un uovo intero . Azionate le fruste per  minuti in modo da amalgamare bene tutti gli ingredienti , poi arrestate la planetaria e aggiungete la farina setacciandola . Mescolate il tutto con una spatola fino ad ottenere un impasto liscio ed omogeneo ; create un panetto, che andrete a mettere in frigorifero a riposare per almeno - minuti coperto con la pellicola trasparente . Trascorso il tempo necessario, togliete il panetto dal frigorifero e con le mani formate delle palline del peso di  g ciascuna , che andrete a porre su una leccarda foderata con un foglio di carta da forno : con le nostre dosi dovrete ottenere  palline. Con le dita appiattite il centro di ciascun pezzo, in modo da creare una cavit\u00e0 ;terminata questa operazione , mettete la Nutella in una sac-\u00e0-poche dalla bocchetta stellata e farcite i nutellotti, facendo un piccolo ciuffetto al centro di ciscuno . Una volta farciti tutti i biscotti ,terminate distribuendo la granella di nocciole . Cuocete in forno statico preriscaldato a \u00b0 per circa  minuti. Quando saranno pronti (i biscotti risulteranno piuttosto morbidi) , metteteli a raffreddare su di una gratella; infine potete servire e gustare i vostri Nutellotti !", "ingredients": [["Nutella", "180 g"], ["Farina 00", "135 g"], ["Uova", "(medio) 1"], ["Nutella", "125 g"], ["Granella di nocciole", "30 g"]], "contesto": "Risultato finale: I nutellotti sono dei dolci morbidi e golosi, con un cuore cremoso di Nutella e una crosticina croccante di granella di nocciole. Hanno una consistenza simile ai biscotti ma sono pi\u00f9 friabili e si sciolgono in bocca.\n\nOccasioni adatte: I nutellotti sono perfetti per una merenda golosa, da gustare insieme a un t\u00e8 o caff\u00e8. Possono essere serviti anche come dessert ad una cena informale o ad una festa.\n\nDiete o regime alimentare adatti: Questa ricetta \u00e8 adatta per una dieta flessibile, dove \u00e8 possibile concedersi dolci occasionalmente. Non \u00e8 adatta per diete restrittive o ipocaloriche.\n\nIntolleranze: I nutellotti contengono glutine, quindi non sono adatti per persone celiache o con sensibilit\u00e0 al glutine. Contengono anche nocciole, quindi non sono adatti per persone allergiche alle nocciole."}
+{
+    "title": "Nutellotti",
+    "category": "Ricette",
+    "description": "Per preparare i Nutellotti ponete 180 g di Nutella nella tazza di una planetaria dotata di frusteinsieme ad un uovo intero. Azionate le fruste per 2 minuti in modo da amalgamare bene tutti gli ingredienti, poi arrestate la planetaria e aggiungete la farina setacciandola. Mescolate il tutto con una spatola fino ad ottenere un impasto liscio ed omogeneo; create un panetto, che andrete a mettere in frigorifero a riposare per almeno 15-20 minuti coperto con la pellicola trasparente. Trascorso il tempo necessario, togliete il panetto dal frigorifero e con le mani formate delle palline del peso di 15 g ciascuna, che andrete a porre su una leccarda foderata con un foglio di carta da forno: con le nostre dosi dovrete ottenere 25 palline. Con le dita appiattite il centro di ciascun pezzo, in modo da creare una cavità; terminata questa operazione, mettete la Nutella in una sac-à-poche dalla bocchetta stellata e farcite i nutellotti, facendo un piccolo ciuffetto al centro di ciscuno. Una volta farciti tutti i biscotti, terminate distribuendo la granella di nocciole. Cuocete in forno statico preriscaldato a 170° per circa 10 minuti. Quando saranno pronti (i biscotti risulteranno piuttosto morbidi), metteteli a raffreddare su di una gratella; infine potete servire e gustare i vostri Nutellotti!",
+    "ingredients": [
+        [
+            "Nutella",
+            "180 g"
+        ],
+        [
+            "Farina 00",
+            "135 g"
+        ],
+        [
+            "Uova",
+            "(medio) 1"
+        ],
+        [
+            "Nutella",
+            "125 g"
+        ],
+        [
+            "Granella di nocciole",
+            "30 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "40 min",
+        "Cottura": "10 min",
+        "Dosi per": "25 pezzi",
+        "Costo": "Basso"
+    }
+}

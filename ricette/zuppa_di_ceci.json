@@ -1,1 +1,62 @@
-{"title": "Zuppa di ceci", "category": "Primi piatti", "description": "Per preparare la zuppa di ceci cominciate mettendo questi ultimi in ammollo. Versateli in una ciotola capiente, coprite d'acqua  e lasciate reidratare per almeno  ore . Trascorso il tempo mettete sul fuoco una pentola con il brodo vegetale per scaldarlo. Intanto scolate  e sciacquate i ceci. Prima di passare alla cottura pulite il porro: eliminate le due estremit\u00e0 poi incidete verticalmente  ed eliminate le prime due foglie, quindi tagliate a rondelle sottili .\u00a0 Spuntate anche il sedano e con il pelapatate eliminate la parte pi\u00f9 esterna e fibrosa .Poi tritatelo finemente . Proseguite mondando e tritando anche cipolla  e carota .Spostatevi ai fornelli e versate l'olio in una casseruola, lasciatelo scaldare e poi aggiungete il trito di sedano, carota e cipolla e il porro . Per aiutare le verdure a stufarsi meglio, aggiungete un mestolino di brodo caldo  e continuate la cottura per una decina di minuti. A questo punto versate i ceci  lasciandoli rosolare per qualche minuto.Poi unite alloro e rosmarino legati con lo spago da cucina . Coprite i ceci con il brodo vegetale caldo  e infine unite la passata di pomodoro .Mescolate e coprite con il coperchio . Lasciate cuocere a fuoco dolce per circa  ore o  ore e mezza aggiungendo brodo al bisogno. A fine cottura eliminate il mazzetto odoroso  e regolate di sale e di pepe prima di servire. Ecco pronta la vostra zuppa di ceci, accompagnate con dei crostini, se preferite, e buon appetito .", "ingredients": [["Ceci secchi", "300 g"], ["Carote", "1"], ["Sedano", "1 costa"], ["Cipolle bianche", "\u00bd"], ["Porri", "1"], ["Olio extravergine d'oliva", "3 cucchiai"], ["Rosmarino", "2 rametti"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Alloro", "2 foglie"], ["Brodo vegetale", "1,5 l"], ["Passata di pomodoro", "60 g"]], "contesto": "Il risultato finale della zuppa di ceci sar\u00e0 un piatto caldo e nutriente, dal sapore rustico e ricco. I ceci, dopo essere stati cotti lentamente nel brodo vegetale insieme alle verdure e alle erbe aromatiche, si presenteranno morbidi e cremosi, arricchiti dal sapore dolce delle carote e della cipolla, e dalla freschezza del sedano e dei porri. Il tutto sar\u00e0 bilanciato dal tocco di pomodoro e dall'aroma del rosmarino e dell'alloro.\n\nLa zuppa di ceci \u00e8 adatta per occasioni in cui si desidera gustare un piatto confortante e dal sapore intenso, perfetto per le giornate pi\u00f9 fresche dell'autunno e dell'inverno.\n\nQuesta ricetta \u00e8 adatta per chi segue una dieta vegetariana o vegana, in quanto non contiene ingredienti di origine animale. Inoltre, \u00e8 una buona fonte di proteine vegetali grazie ai ceci e alle verdure presenti.\n\nLe persone con intolleranze alimentari possono mangiare la zuppa di ceci tenendo conto delle seguenti intoleranze: \n- Intolleranza al glutine: il piatto \u00e8 naturalmente senza glutine, ma \u00e8 importante verificare che tutti gli ingredienti utilizzati siano privi di contaminazione da glutine.\n- Intolleranza al lattosio: la zuppa non contiene latticini, quindi \u00e8 adatta anche per le persone intolleranti al lattosio.\n- Intolleranza al sedano: in questo caso, \u00e8 possibile evitare l'aggiunta di sedano alla ricetta o sostituirlo con un'altra verdura a piacere."}
+{
+    "title": "Zuppa di ceci",
+    "category": "Ricette",
+    "description": "Per preparare la zuppa di ceci per prima cosa mettete in ammollo i ceci in acqua per circa 8 ore o per tutta la notte. Trascorso questo tempo scolate e sciacquate i ceci. Mondate il porro eliminando la base e le foglie più esterne. Ora affettatelo a rondelle sottili. Pelate e tritate la carota, poi eliminate la base del sedano e tritatelo. Mondate e tritate anche la cipolla. In una casseruola con poco olio versate il trito di verdure, aggiungete un mestolo di acqua e lasciate stufare per 10 minuti a fuoco dolce. Unite i cecie il rosmarino e l'alloro legati insieme con uno spago da cucina, poi coprite con acqua. Versate anche la passata di pomodoro, coprite con il coperchioe cuocete per 2 ore e mezzo. A fine cottura salate. Eliminate il mazzetto odoroso, poi regolate di sale e di pepe. Prelevate un mestolo di ceci con un po' della loro acqua e frullate con il mixer a immersioneper ottenere una crema. Versate la crema nel tegamee mescolate per amalgamare. Servite la zuppa di ceci con un giro d'olio evo, una macinata di pepe e foglioline di timo.",
+    "ingredients": [
+        [
+            "Ceci secchi",
+            "300 g"
+        ],
+        [
+            "Porri",
+            "1"
+        ],
+        [
+            "Cipolle bianche",
+            "1"
+        ],
+        [
+            "Carote",
+            "1"
+        ],
+        [
+            "Sedano",
+            "1 costa"
+        ],
+        [
+            "Passata di pomodoro",
+            "60 g"
+        ],
+        [
+            "Rosmarino",
+            "2 rametti"
+        ],
+        [
+            "Alloro",
+            "2 foglie"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "3 cucchiai"
+        ],
+        [
+            "Acqua",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "2 h 40 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

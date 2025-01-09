@@ -1,1 +1,21 @@
-{"title": "Granita alla mandorla", "category": "Dolci", "description": "Per preparare la granita alla mandorla iniziate tagliando la pasta di mandorle in piccoli cubetti di uguali dimensioni . Versateli in un recipiente dai bordi alti  ed aggiungetevi l'acqua .Frullate gli ingredienti aiutandovi con un frullatore ad immersione  fino ad ottenere una crema . Versatela il composto nella gelatiera (seguite le istruzioni della vostra gelatiera: per quella da noi utilizzata non \u00e8 necessario il raffreddamento del cestello in frigorifero) .Lasciate andare la gelatiera per almeno  minuti . Trascorso questo tempo otterrete un composto dalla consistenza cremosa e compatta. Quindi trasferite la granita nei bicchieri possibilmente ghiacciati in modo che non si sciolga velocemente  e servite la granita alla mandorla per una fresca merenda !", "ingredients": [["Acqua", "550 g"], ["Pasta di mandorle", "in panetto 230 g"]], "contesto": "Il risultato finale della granita alla mandorla sar\u00e0 una bevanda rinfrescante e dolce, con un intenso sapore di mandorla. Sar\u00e0 cremosa e dal colore bianco opaco, perfetta da gustare durante le calde giornate estive.\n\nQuesta ricetta \u00e8 adatta per occasioni informali, come cene estive con amici o come dolce dopo un pranzo leggero. Pu\u00f2 essere servita come dessert o come spuntino fresco durante la giornata.\n\nLa granita alla mandorla \u00e8 adatta per le diete vegetariane e vegane, in quanto non contiene ingredienti di origine animale. \u00c8 inoltre senza glutine, quindi adatta per celiaci. Tuttavia, \u00e8 da evitare per chi \u00e8 allergico alle mandorle o ad altri frutti a guscio.\n\nLe persone con intolleranze alimentari dovrebbero prestare attenzione agli ingredienti utilizzati in questa ricetta, in particolare se sono intolleranti alle mandorle o a altri frutti a guscio. Sempre importante consultare un medico o un nutrizionista prima di consumare alimenti che possono causare reazioni allergiche."}
+{
+    "title": "Granita alla mandorla",
+    "category": "Ricette",
+    "description": "Per preparare la granita alla mandorla iniziate tagliando la pasta di mandorle in piccoli cubetti di uguali dimensioni. Versateli in un recipiente dai bordi altied aggiungetevi l’acqua. Frullate gli ingredienti aiutandovi con un frullatore ad immersionefino ad ottenere una crema. Versatela il composto nella gelatiera (seguite le istruzioni della vostra gelatiera: per quella da noi utilizzata non è necessario il raffreddamento del cestello in frigorifero). Lasciate andare la gelatiera per almeno 30 minuti. Trascorso questo tempo otterrete un composto dalla consistenza cremosa e compatta. Quindi trasferite la granita nei bicchieri possibilmente ghiacciati in modo che non si sciolga velocementee servite la granita alla mandorla per una fresca merenda!",
+    "ingredients": [
+        [
+            "Acqua",
+            "550 g"
+        ],
+        [
+            "Pasta di mandorle",
+            "in panetto 230 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

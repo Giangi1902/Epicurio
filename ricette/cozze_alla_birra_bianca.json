@@ -1,1 +1,42 @@
-{"title": "Cozze alla birra bianca", "category": "Secondi piatti", "description": "Strappate da ogni cozza la barbetta (bisso) sporgente dal guscio, scartate quelle rotte  e pulite bene il guscio delle restanti spazzolandolo (oppure grattatelo con una paglietta di acciaio nuova), quindi lavatele sotto l'acqua corrente e poi scolatele.Lavate, eliminate i filamenti e affettate il sedano , conferendogli uno spessore di \u00bd cm; lavate il lime (o un limone), asciugatelo e, per mezzo di un pelapatate, asportate la scorza  evitando di prelevare anche la parte bianca (che pu\u00f2 risultare amarognola); tagliate a listerelle sottili  le parti di scorza asportate.Spremete il lime  e tenete il succo da parte. Sbucciate e tagliate la cipolla a met\u00e0, quindi tagliate le  parti in fette dello spessore di - mm . In una pentola capiente fate sciogliere il burro e poi aggiungete il sedano,  le scorze di lime  e la cipolla ;lasciate appassire le verdure poi unite il succo di lime  e la birra .Fate cuocere gli ingredienti per una manciata di minuti e quindi aggiungete il pepe macinato  e le cozze.  Amalgamate bene gli ingredienti e fate cuocere il tutto a fuoco vivo fino al completo dischiudimento dei molluschi, quindi spegnete il fuoco e servite immediatamente, accompagnando la pietanza con delle patatine fritte tagliate a bastoncino.", "ingredients": [["Cozze", "2 kg"], ["Sedano", "2 coste"], ["Cipolle bianche", "grande 1"], ["Lime", "1"], ["Birra", "bianca belga 330 ml 330 ml"], ["Burro", "50 g"], ["Pepe nero", "q.b."]], "contesto": "- Il risultato finale sar\u00e0 un piatto di cozze deliziosamente aromatiche e saporite, grazie all'uso della birra bianca belga e del burro.\n- Questa ricetta \u00e8 adatta per occasioni informali come aperitivi, ma pu\u00f2 anche essere servita come secondo piatto principale.\n- Non \u00e8 adatta a diete vegetariane o vegane a causa della presenza di cozze e burro.\n- Le persone con intolleranza al lattosio o alle cozze dovrebbero evitare di consumare questo piatto."}
+{
+    "title": "Cozze alla birra bianca",
+    "category": "Ricette",
+    "description": "Strappate da ogni cozza la barbetta (bisso)sporgente dal guscio, scartate quelle rottee pulite bene il guscio delle restanti spazzolandolo (oppure grattatelo con una paglietta di acciaio nuova), quindi lavatele sotto l’acqua corrente e poi scolatele. Lavate, eliminate i filamenti e affettate il sedano, conferendogli uno spessore di ½ cm; lavate il lime (o un limone), asciugatelo e, per mezzo di un pelapatate, asportate la scorzaevitando di prelevare anche la parte bianca (che può risultare amarognola); tagliate a listerelle sottilile parti di scorza asportate. Spremete il limee tenete il succo da parte. Sbucciate e tagliate la cipolla a metà, quindi tagliate le 2 parti in fette dello spessore di 2-3 mm. In una pentola capiente fate sciogliere il burro e poi aggiungete il sedano,le scorze di limee la cipolla; lasciate appassire le verdure poi unite il succo di limee la birra. Fate cuocere gli ingredienti per una manciata di minuti e quindi aggiungete il pepe macinatoe le cozze.Amalgamate bene gli ingredienti e fate cuocere il tutto a fuoco vivo fino al completo dischiudimento dei molluschi, quindi spegnete il fuoco e servite immediatamente, accompagnando la pietanza con delle patatine fritte tagliate a bastoncino.",
+    "ingredients": [
+        [
+            "Cozze",
+            "2 kg"
+        ],
+        [
+            "Sedano",
+            "2 coste"
+        ],
+        [
+            "Cipolle bianche",
+            "grande 1"
+        ],
+        [
+            "Lime",
+            "1"
+        ],
+        [
+            "Birra",
+            "bianca belga 330 ml 330 ml"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

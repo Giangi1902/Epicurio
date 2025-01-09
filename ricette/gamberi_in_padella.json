@@ -1,1 +1,42 @@
-{"title": "Gamberi in padella", "category": "Secondi piatti", "description": "Per realizzare i gamberi in padella per prima cosa eliminate l'intestino dei crostacei tagliando il carapace sul dorso  ed estraendolo delicatamente con l'aiuto di uno stuzzicadenti . Non \u00e8 necessario rimuovere il carapace, la testa e le zampe. Scaldate l'olio in una padella e rosolate i gamberi per - minuti .Quando saranno ben rosolati sfumate con il vino bianco  e lasciate evaporare completamente la parte alcolica , poi regolate di sale . Abbassate la fiamma e cuocete per\u00a0circa  minuti, mescolando di tanto in tanto.Nel frattempo preparate la gremolada: tritate finemente gli spicchi di aglio , poi uniteli al prezzemolo tritato  insieme alla scorza grattugiata del limone . Mescolate bene.Aggiungete la gremolada ai gamberi  e rosolate ancora per un paio di minuti, per amalgamarli al condimento . Spegnete il fuoco e servite subito i vostri gamberi in padella !", "ingredients": [["Gamberi", "(da pulire) 700 g"], ["Aglio", "2 spicchi"], ["Prezzemolo", "1 ciuffo"], ["Scorza di limone", "q.b."], ["Vino bianco secco", "100 g"], ["Olio extravergine d'oliva", "25 g"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta \"Gamberi in padella\" sar\u00e0 un piatto aromatico e saporito, con gamberi cotti al vino bianco, aglio, prezzemolo e scorza di limone. I gamberi saranno teneri e profumati, perfettamente equilibrati tra il sapore di mare e le note fresche degli aromi aggiunti.\n\nQuesto piatto \u00e8 adatto per occasioni speciali come cene eleganti o pranzi in famiglia. Si pu\u00f2 servire come secondo piatto accompagnato da contorni a base di verdure fresche o insalata.\n\nLa ricetta dei Gamberi in padella \u00e8 adatta a persone che seguono una dieta pesco-vegetariana, in quanto non contiene carne ma solo gamberi come ingrediente principale. \u00c8 anche adatto a chi segue una dieta mediterranea, ricca di pesce, frutta, verdura, legumi e cereali integrali.\n\nLe persone con intolleranze alimentari possono consumare questo piatto se non sono allergiche ai crostacei, in quanto gli ingredienti principali sono i gamberi. Le persone con intolleranze all'aglio possono ometterlo dalla ricetta o sostituirlo con altre spezie o erbe aromatiche."}
+{
+    "title": "Gamberi in padella",
+    "category": "Ricette",
+    "description": "Per realizzare i gamberi in padella per prima cosa eliminate l’intestino dei crostacei tagliando il carapace sul dorsoed estraendolo delicatamente con l’aiuto di uno stuzzicadenti. Non è necessario rimuovere il carapace, la testa e le zampe. Scaldate l’olio in una padella e rosolate i gamberi per 2-3 minuti. Quando saranno ben rosolati sfumate con il vino biancoe lasciate evaporare completamente la parte alcolica, poi regolate di sale. Abbassate la fiamma e cuocete per circa 5 minuti, mescolando di tanto in tanto. Nel frattempo preparate la gremolada: tritate finemente gli spicchi di aglio, poi uniteli al prezzemolo tritatoinsieme alla scorza grattugiata del limone. Mescolate bene. Aggiungete la gremolada ai gamberie rosolate ancora per un paio di minuti, per amalgamarli al condimento. Spegnete il fuoco e servite subito i vostri gamberi in padella!",
+    "ingredients": [
+        [
+            "Gamberi",
+            "(da pulire) 700 g"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Prezzemolo",
+            "1 ciuffo"
+        ],
+        [
+            "Scorza di limone",
+            "q.b."
+        ],
+        [
+            "Vino bianco secco",
+            "100 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "25 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

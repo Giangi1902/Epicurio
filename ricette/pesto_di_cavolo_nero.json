@@ -1,1 +1,37 @@
-{"title": "Pesto di cavolo nero", "category": "Salse e Sughi", "description": "Per realizzare il pesto di cavolo nero per prima cosa pulite il cavolo nero separando le foglie dal gambo centrale . Portate a bollore una pentola di acqua e sbollentate le foglie per - minuti . Trasferite il cavolo nero sbollentato in un mixer .Unite il formaggio grattugiato , le noci , il sale e il peperoncino .Aggiungete  g di olio  e iniziate a frullare. Mentre il mixer \u00e8 in funzione versate i restanti  g di olio a filo . Quando avrete ottenuto una consistenza cremosa e omogenea il vostro pesto di cavolo nero \u00e8 pronto !", "ingredients": [["Cavolo nero", "(da pulire) 200 g"], ["Parmigiano Reggiano DOP", "da grattugiare 60 g"], ["Gherigli di noci", "50 g"], ["Olio extravergine d'oliva", "70 g"], ["Peperoncino secco", "q.b."], ["Sale fino", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un pesto di cavolo nero dal colore verde intenso, dal sapore unico e deciso grazie alla combinazione di cavolo nero, parmigiano, noci e peperoncino. La consistenza sar\u00e0 cremosa e liscia grazie all'aggiunta dell'olio extravergine d'oliva.\n\nQuesto pesto di cavolo nero \u00e8 ideale per condire la pasta, da spalmare su bruschette o come salsa per accompagnare carne o pesce. \u00c8 ottimo per un pranzo o una cena speciale, ma anche per un pasto veloce e saporito.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta vegetariana, ma pu\u00f2 essere facilmente adattata per vegani sostituendo il formaggio con del lievito alimentare in scaglie. \u00c8 anche adatta a persone che seguono una dieta senza glutine, purch\u00e9 si utilizzi un parmigiano senza glutine.\n\nLe persone con intolleranze al lattosio dovranno fare attenzione all'uso del formaggio, mentre chi \u00e8 intollerante alle noci pu\u00f2 semplicemente omettere questo ingrediente senza compromettere troppo il sapore del pesto."}
+{
+    "title": "Pesto di cavolo nero",
+    "category": "Ricette",
+    "description": "Per realizzare il pesto di cavolo nero per prima cosa pulite il cavolo nero separando le foglie dal gambo centrale. Portate a bollore una pentola di acqua e sbollentate le foglie per 3-5 minuti. Trasferite il cavolo nero sbollentato in un mixer. Unite il formaggio grattugiato, le noci, il sale e il peperoncino. Aggiungete 40 g di olioe iniziate a frullare. Mentre il mixer è in funzione versate i restanti 30 g di olio a filo. Quando avrete ottenuto una consistenza cremosa e omogenea il vostro pesto di cavolo nero è pronto!",
+    "ingredients": [
+        [
+            "Cavolo nero",
+            "(da pulire) 200 g"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "da grattugiare 60 g"
+        ],
+        [
+            "Gherigli di noci",
+            "50 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "70 g"
+        ],
+        [
+            "Peperoncino secco",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "20 min",
+        "Cottura": "5 min",
+        "Costo": "Basso"
+    }
+}

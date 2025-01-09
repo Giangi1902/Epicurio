@@ -1,1 +1,46 @@
-{"title": "Pasta con il cavolo nero", "category": "Primi piatti", "description": "Per preparare la pasta con il cavolo nero prima cosa ponete sul fuoco un tegame colmo di acqua salata e portatela al bollore. Sfogliate il cavolo e lavate sotto l'acqua corrente le foglie , eliminate la parte finale del gambo e tagliate le foglie a tocchetti .\u00a0Versate le foglie del cavolo nel tegame con l'acqua bollente  e lasciate lessare per  minuti.Grattugiate il Pecorino con una grattugia a maglie larghe\u00a0poich\u00e9 il formaggio \u00e8 piuttosto morbido . Trascorsi i  minuti di cottura del cavolo, versate la pasta nella stessa acqua di cottura del cavolo nero  e proseguite la cottura insieme. Nel frattempo occupatevi del soffritto, affettate sottilmente uno spicchio di aglio sbucciato  (se preferite potete lasciare intero l'aglio e toglierlo dopo aver insaporito l'olio).Scaldate l'olio in una padella, aggiungete l'aglio affettato e il peperoncino secco intero , lasciate insaporire qualche minuto (se preferite poi potete rimuovere il peperoncino secco intero). Quando la pasta sar\u00e0 al dente, scolatela insieme al cavolo e trasferitela direttamente nella padella con il soffritto . Regolate di sale se necessario e aromatizzate con il peperoncino in polvere ; fate saltare la pasta in padella, quindi spegnete il fuoco, insaporite con il Pecorino toscano , mescolate e servite la vostra pasta con il cavolo nero ben calda .", "ingredients": [["Fusilli Bucati Corti", "320 g"], ["Cavolo nero", "250 g"], ["Olio extravergine d'oliva", "40 g"], ["Sale fino", "q.b."], ["Aglio", "1 spicchio"], ["Peperoncino secco", "1"], ["Peperoncino in polvere", "q.b."], ["Pecorino toscano", "poco stagionato 100 g"]], "contesto": "Il risultato finale sar\u00e0 un piatto di pasta dal sapore rustico e deciso, grazie alla presenza del cavolo nero e del pecorino toscano. La pasta sar\u00e0 condita con un mix di aglio, peperoncino e olio extravergine d'oliva, che regaleranno al piatto una nota di piccantezza e profumo.\n\nOccasioni: Questa ricetta \u00e8 perfetta per un pranzo o una cena invernale, da gustare in famiglia o con gli amici. Pu\u00f2 essere un piatto principale oppure un contorno saporito.\n\nDieta/Regime alimentare: Questa ricetta \u00e8 adatta a una dieta equilibrata, in quanto \u00e8 un primo piatto completo e ricco di fibre grazie al cavolo nero. \u00c8 consigliato moderare l'uso di formaggio per regolare l'apporto calorico del piatto.\n\nIntolleranze: Le persone con intolleranza al lattosio possono eliminare o sostituire il pecorino toscano dal piatto. Per chi ha intolleranza al glutine, \u00e8 possibile utilizzare pasta senza glutine per rendere il piatto adatto. Chi soffre di allergia al cavolo o agli agrumi dovr\u00e0 evitare questo piatto."}
+{
+    "title": "Pasta con il cavolo nero",
+    "category": "Ricette",
+    "description": "Per preparare la pasta con il cavolo nero prima cosa ponete sul fuoco un tegame colmo di acqua salata e portatela al bollore. Sfogliate il cavolo e lavate sotto l’acqua corrente le foglie, eliminate la parte finale del gambo e tagliate le foglie a tocchetti. Versate le foglie del cavolo nel tegame con l’acqua bollentee lasciate lessare per 10 minuti. Grattugiate il Pecorino con una grattugia a maglie larghe poiché il formaggio è piuttosto morbido. Trascorsi i 10 minuti di cottura del cavolo, versate la pasta nella stessa acqua di cottura del cavolo neroe proseguite la cottura insieme. Nel frattempo occupatevi del soffritto, affettate sottilmente uno spicchio di aglio sbucciato(se preferite potete lasciare intero l'aglio e toglierlo dopo aver insaporito l'olio). Scaldate l’olio in una padella, aggiungete l’aglio affettato e il peperoncino secco intero, lasciate insaporire qualche minuto (se preferite poi potete rimuovere il peperoncino secco intero). Quando la pasta sarà al dente, scolatela insieme al cavolo e trasferitela direttamente nella padella con il soffritto. Regolate di sale se necessario e aromatizzate con il peperoncino in polvere; fate saltare la pasta in padella, quindi spegnete il fuoco, insaporite con il Pecorino toscano, mescolate e servite la vostra pasta con il cavolo nero ben calda.",
+    "ingredients": [
+        [
+            "Fusilli Bucati Corti",
+            "320 g"
+        ],
+        [
+            "Cavolo nero",
+            "250 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Peperoncino secco",
+            "1"
+        ],
+        [
+            "Peperoncino in polvere",
+            "q.b."
+        ],
+        [
+            "Pecorino toscano",
+            "poco stagionato 100 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

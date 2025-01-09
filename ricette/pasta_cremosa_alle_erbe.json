@@ -1,1 +1,54 @@
-{"title": "Pasta cremosa alle erbe", "category": null, "description": "Per realizzare la pasta cremosa per prima cosa ponete sul fuoco una pentola colma di acqua salata e quando raggiunger\u00e0 il bollore buttate la pasta, cuocete per il tempo riportato sulla confezione. Nel frattempo occupatevi del condimento: tritate finemente le erbe aromatiche: il timo, la maggiorana, il rosmarino e la salvia . In una ciotola versate il formaggio fresco spalmabile  e insaporitelo con il trito di erbe e il parmigiano reggiano grattugiato . Stemperate con il latte  e mescolate il tutto con una cucchiaio o una spatola per amalgamare gli ingredienti e gli aromi .Versate la crema ottenuta in un tegame ampio e ammorbiditela con un mestolo di acqua di cottura della pasta . Mescolate  e quando la pasta sar\u00e0 cotta, scolatela direttamente nel tegame .Mescolate ancora un'ultima volta per insaporire le linguine . Servite subito la pasta cremosa alle erbe, insaporendola con pepe macinato a piacere  e guarnendola con foglioline di maggiorana .", "ingredients": [["Formaggio fresco spalmabile", "250 g"], ["Linguine", "360 g"], ["Parmigiano Reggiano DOP", "50 g"], ["Latte intero", "50 g"], ["Salvia", "6 foglie"], ["Rosmarino", "1 rametto"], ["Maggiorana", "5 rametti"], ["Timo", "5 rametti"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta Pasta cremosa alle erbe sar\u00e0 un piatto di linguine cremose e aromatiche, arricchite dalla presenza di formaggio fresco spalmabile e erbe aromatiche come salvia, rosmarino, maggiorana e timo. Il tutto sar\u00e0 completato da una spolverata di parmigiano Reggiano DOP per un tocco di sapore aggiuntivo.\n\nQuesta ricetta \u00e8 adatta per occasioni speciali come cene eleganti o pranzi in famiglia. Pu\u00f2 essere servita come piatto principale o come contorno.\n\nLa Pasta cremosa alle erbe \u00e8 adatta per persone che seguono una dieta lacto-vegetariana, ma non \u00e8 adatta per persone con intolleranze al lattosio, al glutine o ai latticini, a meno che non vengano effettuate delle modifiche agli ingredienti."}
+{
+    "title": "Pasta cremosa alle erbe",
+    "category": "Ricette",
+    "description": "Per realizzare la pasta cremosa per prima cosa ponete sul fuoco una pentola colma di acqua salata e quando raggiungerà il bollore buttate la pasta, cuocete per il tempo riportato sulla confezione. Nel frattempo occupatevi del condimento: tritate finemente le erbe aromatiche: il timo, la maggiorana, il rosmarino e la salvia. In una ciotola versate il formaggio fresco spalmabilee insaporitelo con il trito di erbe e il parmigiano reggiano grattugiato. Stemperate con il lattee mescolate il tutto con una cucchiaio o una spatola per amalgamare gli ingredienti e gli aromi. Versate la crema ottenuta in un tegame ampio e ammorbiditela con un mestolo di acqua di cottura della pasta. Mescolatee quando la pasta sarà cotta, scolatela direttamente nel tegame. Mescolate ancora un’ultima volta per insaporire le linguine. Servite subito la pasta cremosa alle erbe, insaporendola con pepe macinato a piaceree guarnendola con foglioline di maggiorana.",
+    "ingredients": [
+        [
+            "Formaggio fresco spalmabile",
+            "250 g"
+        ],
+        [
+            "Linguine",
+            "360 g"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "50 g"
+        ],
+        [
+            "Latte intero",
+            "50 g"
+        ],
+        [
+            "Salvia",
+            "6 foglie"
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Maggiorana",
+            "5 rametti"
+        ],
+        [
+            "Timo",
+            "5 rametti"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

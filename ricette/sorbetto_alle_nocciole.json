@@ -1,1 +1,34 @@
-{"title": "Sorbetto alle nocciole", "category": "Dolci", "description": "Per realizzare il sorbetto alle nocciole, per prima cosa verificate se il cestello della gelatiera necessita di essere refrigerato, in tal caso dovr\u00e0 essere riposto in freezer almeno\u00a0per una notte.\u00a0A questo punto preparate lo sciroppo: versate in un pentolino  g di acqua e\u00a0i  g di zucchero  e portateli a bollore in modo che lo zucchero si sciolga completamente , poi spegnete la fiamma e lasciate raffreddare. Distribuite le nocciole su una leccarda e fatele tostare nel forno statico preriscaldato a \u00b0 per circa - minuti ; in alternativa, potete tostarle in padella per  minuti. In entrambi i casi fate molta attenzione a non farle bruciare.Una volta tostate lasciate intiepidirle; trasferite le nocciole in un mixer  e tritatele grossolanamente. Poi versate all'interno del mixer gli altri  g di acqua  e continuate a frullare fino ad ottenere una crema omogenea .Trasferite la crema di nocciole ottenuta in un contenitore alto e stretto, unite lo sciroppo che avevate lasciato raffreddare  e frullate con un\u00a0mixer ad immersione per amalgamare bene il tutto . A questo punto coprite il contenitore con la pellicola trasparente e mettete il composto in freezer a raffreddare per circa  minuti .Trascorso questo tempo, versate il composto ben freddo nella gelatiera  e azionatela fino a raggiungere la consistenza desiderata ; ci vorr\u00e0 circa un'ora ma il tempo pu\u00f2 variare a seconda del modello di gelatiera utilizzato. Trasferite il sorbetto in un bicchiere da dessert e guarnite con granella di nocciole, dopodich\u00e9 il vostro delizioso sorbetto alle nocciole \u00e8 pronto per essere servito !", "ingredients": [["Nocciole intere spellate", "150 g"], ["Acqua", "200 g"], ["Zucchero", "200 g"], ["Acqua", "150 g"], ["Granella di nocciole", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un delizioso sorbetto cremoso e dal sapore intenso di nocciole, arricchito dalla granella di nocciole che doner\u00e0 una piacevole croccantezza.\n\nOccasioni adatte: Il sorbetto alle nocciole \u00e8 perfetto da servire come dessert in una cena speciale, come fine pasto o durante una merenda estiva.\n\nDieta: Il sorbetto alle nocciole \u00e8 adatto a una dieta vegetariana e pu\u00f2 essere incluso in una dieta equilibrata se consumato con moderazione.\n\nIntolleranze: Le persone con intolleranza al lattosio possono tranquillamente gustare questo sorbetto poich\u00e9 non contiene latticini. Tuttavia, le persone con allergie alle nocciole dovrebbero evitare questa ricetta."}
+{
+    "title": "Sorbetto alle nocciole",
+    "category": "Ricette",
+    "description": "Per realizzare il sorbetto alle nocciole, per prima cosa verificate se il cestello della gelatiera necessita di essere refrigerato, in tal caso dovrà essere riposto in freezer almeno per una notte. A questo punto preparate lo sciroppo: versate in un pentolino 150 g di acqua e i 200 g di zuccheroe portateli a bollore in modo che lo zucchero si sciolga completamente, poi spegnete la fiamma e lasciate raffreddare. Distribuite le nocciole su una leccarda e fatele tostare nel forno statico preriscaldato a 170° per circa 7-8 minuti; in alternativa, potete tostarle in padella per 5 minuti. In entrambi i casi fate molta attenzione a non farle bruciare. Una volta tostate lasciate intiepidirle; trasferite le nocciole in un mixere tritatele grossolanamente. Poi versate all’interno del mixer gli altri 200 g di acquae continuate a frullare fino ad ottenere una crema omogenea. Trasferite la crema di nocciole ottenuta in un contenitore alto e stretto, unite lo sciroppo che avevate lasciato raffreddaree frullate con un mixer ad immersione per amalgamare bene il tutto. A questo punto coprite il contenitore con la pellicola trasparente e mettete il composto in freezer a raffreddare per circa 30 minuti. Trascorso questo tempo, versate il composto ben freddo nella gelatierae azionatela fino a raggiungere la consistenza desiderata; ci vorrà circa un’ora ma il tempo può variare a seconda del modello di gelatiera utilizzato. Trasferite il sorbetto in un bicchiere da dessert e guarnite con granella di nocciole, dopodiché il vostro delizioso sorbetto alle nocciole è pronto per essere servito!",
+    "ingredients": [
+        [
+            "Nocciole intere spellate",
+            "150 g"
+        ],
+        [
+            "Acqua",
+            "200 g"
+        ],
+        [
+            "Zucchero",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "150 g"
+        ],
+        [
+            "Granella di nocciole",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Elevato"
+    }
+}

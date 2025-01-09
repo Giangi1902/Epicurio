@@ -1,1 +1,38 @@
-{"title": "Torta madeira", "category": "Dolci", "description": "Per preparare la torta madeira cominciate versando in una bacinella il burro a temperatura ambiente insieme allo zucchero . Poi azionate le fruste, in alternativa potrete utilizzare la planetaria o delle fruste a mano, e montate per  minuti  finch\u00e9 il composto non sar\u00e0 diventato chiaro e spumoso .Poi aggiungete le uova a temperatura ambiente, una alla volta cos\u00ec da inglobarle senza problemi . Non appena la massa risulter\u00e0 spumosa e compatta spegnete le fruste e unite i semi prelevati da una bacca di vaniglia . In una ciotola miscelate il lievito per dolci e la farina e aggiungetele mentre le setacciate con un colino . Azionate nuovamente le fruste a bassa velocit\u00e0, il tempo necessario per amalgamare il tutto . Ecco pronto l'impasto .Trasferitelo in uno stampo del dimaetro di  cm gi\u00e0 imburrato e infarinato , livellate accuratamente la superficie  e cuocete sul ripiano pi\u00f9 basso del forno, preriscaldato in modalit\u00e0 statica a \u00b0, per circa  minuti. Cotta la torta madeira non vi rester\u00e0 che sformarla e gustarla !", "ingredients": [["Farina 00", "400 g"], ["Zucchero", "250 g"], ["Burro", "a temperatura ambiente 250 g"], ["Uova", "medie, a temperatura ambiente 4"], ["Baccello di vaniglia", "1"], ["Lievito in polvere per dolci", "10 g"]], "contesto": "Il risultato finale sar\u00e0 una torta soffice e molto profumata, grazie alla presenza del burro e della vaniglia. La consistenza sar\u00e0 morbida e leggermente umida, perfetta da gustare cos\u00ec com'\u00e8 oppure accompagnata da una pallina di gelato alla vaniglia o da una crema pasticcera.\n\nQuesta torta \u00e8 adatta per occasioni speciali come compleanni, feste, eventi e incontri informali. \u00c8 perfetta da servire come dessert dopo un pranzo o una cena oppure come spuntino accompagnato da una tazza di t\u00e8 o caff\u00e8.\n\nLa torta madeira \u00e8 adatta a persone che seguono una dieta bilanciata, purch\u00e9 consumata con moderazione. \u00c8 consigliata per chi segue una dieta onnivora, in quanto contiene ingredienti di origine animale come le uova e il burro.\n\nLe persone con intolleranze alimentari possono mangiarla solo se non sono intolleranti al glutine, al lattosio, alle uova o al burro. In caso di intolleranze specifiche, \u00e8 possibile cercare alternative agli ingredienti originali per adattare la ricetta alle esigenze alimentari."}
+{
+    "title": "Torta madeira",
+    "category": "Ricette",
+    "description": "Per preparare la torta madeira cominciate versando in una bacinella il burro a temperatura ambiente insieme allo zucchero. Poi azionate le fruste, in alternativa potrete utilizzare la planetaria o delle fruste a mano, e montate per 5 minutifinché il composto non sarà diventato chiaro e spumoso. Poi aggiungete le uova a temperatura ambiente, una alla volta così da inglobarle senza problemi. Non appena la massa risulterà spumosa e compatta spegnete le fruste e unite i semi prelevati da una bacca di vaniglia. In una ciotola miscelate il lievito per dolci e la farina e aggiungetele mentre le setacciate con un colino. Azionate nuovamente le fruste a bassa velocità, il tempo necessario per amalgamare il tutto. Ecco pronto l’impasto. Trasferitelo in uno stampo del dimaetro di 20 cm già imburrato e infarinato, livellate accuratamente la superficiee cuocete sul ripiano più basso del forno, preriscaldato in modalità statica a 160°, per circa 70 minuti. Cotta la torta madeira non vi resterà che sformarla e gustarla!",
+    "ingredients": [
+        [
+            "Farina 00",
+            "400 g"
+        ],
+        [
+            "Zucchero",
+            "250 g"
+        ],
+        [
+            "Burro",
+            "a temperatura ambiente 250 g"
+        ],
+        [
+            "Uova",
+            "medie, a temperatura ambiente 4"
+        ],
+        [
+            "Baccello di vaniglia",
+            "1"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "10 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "1 h 10 min",
+        "Dosi per": "8 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,50 @@
-{"title": "Pere al forno", "category": "Antipasti", "description": "Per realizzare le pere al forno con gorgonzola e miele per prima cosa lavate e asciugate i frutti. Tagliate a met\u00e0 le pere per la parte lunga  ed eliminate il torsolo  e una piccola parte della polpa per poter ottenere l'effetto \u201cbarchetta\u201d. Eliminate una piccola parte dal lato della buccia per poterle adagiare pi\u00f9 comodamente sulla teglia . Adagiatele dunque su di una placchetta rivestita con carta forno e conditele con un filo d'olio , sale e pepe .Cuocete in forno statico preriscaldato a \u00b0 per  minuti o fino a quando non risulteranno sufficientemente morbide. Una volta terminata la cottura sfornate e lasciate intiepidire .Preparate il ripieno: in una ciotola versate il gorgonzola, la panna , il sale e il pepe , frullate con un mixer a immersione  fino ad ottenere una crema omogenea.Aggiungete l'erba cipollina tritata , il miele  e mescolate con un cucchiaio per emulsionare .Farcite le pere cotte con la crema . Aggiungete in superficie le noci spezzettate grossolanamente con le mani  e servite subito le vostre pere al forno con gorgonzola e miele.", "ingredients": [["Pere abate", "(circa 470 g ) 2"], ["Gorgonzola", "dolce 170 g"], ["Miele millefiori", "40 g"], ["Panna fresca liquida", "80 g"], ["Gherigli di noci", "50 g"], ["Erba cipollina", "tritata q.b."], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "- Il risultato finale delle pere al forno sar\u00e0 un antipasto dal sapore equilibrato tra la dolcezza delle pere, la cremosit\u00e0 del gorgonzola e la croccantezza delle noci. Il tutto verr\u00e0 arricchito dalla dolcezza del miele e dalla freschezza dell'erba cipollina.\n\n- Le pere al forno sono adatte per occasioni speciali come cene eleganti e brunch domenicali. Possono essere servite come antipasto o come contorno per carni arrosto.\n\n- Le pere al forno sono adatte a una dieta equilibrata, in quanto contengono ingredienti nutrienti come frutta, formaggio e noci. Possono essere incluse in un regime alimentare vegetariano.\n\n- Le persone con intolleranze al lattosio possono sostituire il gorgonzola con un formaggio senza lattosio o con una variante vegan. Per quanto riguarda le intolleranze alle noci, \u00e8 possibile omettere completamente questo ingrediente o sostituirlo con semi di girasole o altre frutta secca."}
+{
+    "title": "Pere al forno",
+    "category": "Ricette",
+    "description": "Per realizzare le pere al forno con gorgonzola e miele per prima cosa lavate e asciugate i frutti. Tagliate a metà le pere per la parte lungaed eliminate il torsoloe una piccola parte della polpa per poter ottenere l’effetto “barchetta”. Eliminate una piccola parte dal lato della buccia per poterle adagiare più comodamente sulla teglia. Adagiatele dunque su di una placchetta rivestita con carta forno e conditele con un filo d’olio, sale e pepe.Cuocete in forno statico preriscaldato a 180° per 10 minuti o fino a quando non risulteranno sufficientemente morbide. Una volta terminata la cottura sfornate e lasciate intiepidire. Preparate il ripieno: in una ciotola versate il gorgonzola, la panna, il sale e il pepe, frullate con un mixer a immersionefino ad ottenere una crema omogenea. Aggiungete l’erba cipollina tritata, il mielee mescolate con un cucchiaio per emulsionare. Farcite le pere cotte con la crema. Aggiungete in superficie le noci spezzettate grossolanamente con le manie servite subito le vostre pere al forno con gorgonzola e miele.",
+    "ingredients": [
+        [
+            "Pere abate",
+            "(circa 470 g ) 2"
+        ],
+        [
+            "Gorgonzola",
+            "dolce 170 g"
+        ],
+        [
+            "Miele millefiori",
+            "40 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "80 g"
+        ],
+        [
+            "Gherigli di noci",
+            "50 g"
+        ],
+        [
+            "Erba cipollina",
+            "tritata q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

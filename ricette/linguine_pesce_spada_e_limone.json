@@ -1,1 +1,50 @@
-{"title": "Linguine pesce spada e limone", "category": null, "description": "Per preparare le linguine pesce spada e limone come prima cosa ponete sul fuoco una pentola colma d'acqua, salata a piacere, che servir\u00e0 per la cottura della pasta. Tritate poi il prezzemolo , grattugiate la scorza del limone  e spremetene il succo .\u00a0Tenete tutto da parte e occupatevi del pesce spada. Eliminate la pelle esterna e tagliatelo a cubetti . Passate poi i cubetti nella farina (-).In una padella capiente versate burro e olio , scaldate fino a far fondere il burro e non appena sar\u00e0 sciolto unite i cubetti di spada . Lasciate cuocere a fiamma bassa per circa  minuti , girandolo bene in modo da avere una cottura uniforme.\u00a0A questo punto verdate il succo di limone filtrato  e lasciate addensare per un paio di minuti . Cuocete le linguine \u00a0e scolatele al dente direttamente nel condimento a base di spada . Aggiungete il prezzemolo, la scorza del limone , mescolate il tutto  e servite subito!\u00a0", "ingredients": [["Linguine", "360 g"], ["Pesce spada", "300 g"], ["Limoni", "2"], ["Burro", "60 g"], ["Olio extravergine d'oliva", "2 cucchiaini"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Prezzemolo", "q.b."], ["Farina 00", "q.b."]], "contesto": "- Il risultato finale di questa ricetta sar\u00e0 un piatto di linguine condite con pezzetti di pesce spada, succo di limone, burro e prezzemolo, il tutto arricchito da un tocco di pepe nero e olio extravergine d'oliva.\n\n- Questo piatto \u00e8 adatto per occasioni speciali come cene eleganti, pranzi in famiglia o per sorprendere gli ospiti con una ricetta raffinata.\n\n- Le linguine pesce spada e limone sono adatte a chi segue una dieta mediterranea e cerca un piatto leggero e saporito, ricco di pesce e con una nota fresca data dal limone.\n\n- Le persone con intolleranze al pesce non possono consumare questa ricetta. Se si soffre di intolleranza al glutine, \u00e8 possibile sostituire le linguine con una versione senza glutine. In caso di intolleranza al lattosio, si pu\u00f2 optare per il burro senza lattosio o sostituirlo con olio d'oliva."}
+{
+    "title": "Linguine pesce spada e limone",
+    "category": "Ricette",
+    "description": "Per preparare le linguine pesce spada e limone come prima cosa ponete sul fuoco una pentola colma d'acqua, salata a piacere, che servirà per la cottura della pasta. Tritate poi il prezzemolo, grattugiate la scorza del limonee spremetene il succo. Tenete tutto da parte e occupatevi del pesce spada. Eliminate la pelle esterna e tagliatelo a cubetti. Passate poi i cubetti nella farina (5-6). In una padella capiente versate burro e olio, scaldate fino a far fondere il burro e non appena sarà sciolto unite i cubetti di spada. Lasciate cuocere a fiamma bassa per circa 8 minuti, girandolo bene in modo da avere una cottura uniforme. A questo punto verdate il succo di limone filtratoe lasciate addensare per un paio di minuti. Cuocete le linguine e scolatele al dente direttamente nel condimento a base di spada. Aggiungete il prezzemolo, la scorza del limone, mescolate il tuttoe servite subito!",
+    "ingredients": [
+        [
+            "Linguine",
+            "360 g"
+        ],
+        [
+            "Pesce spada",
+            "300 g"
+        ],
+        [
+            "Limoni",
+            "2"
+        ],
+        [
+            "Burro",
+            "60 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiaini"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Prezzemolo",
+            "q.b."
+        ],
+        [
+            "Farina 00",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

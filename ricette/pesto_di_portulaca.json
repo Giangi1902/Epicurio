@@ -1,1 +1,37 @@
-{"title": "Pesto di portulaca", "category": "Salse e Sughi", "description": "Per preparare il pesto di portulaca per prima cosa eliminate la parte della radice pi\u00f9 dura, lasciando intatti i gambi pi\u00f9 teneri . Immergete la portulaca in una ciotola piena d'acqua per eliminare la terra , dopodich\u00e9 sciacquatela accuratamente sotto l'acqua corrente e asciugatela con un canovaccio pulito .Sbucciate lo spicchio d'aglio, dividetelo a met\u00e0 e privatelo del germoglio interno . Mettete l'aglio in un mortaio insieme al sale grosso  e ai pinoli .Cominciate a pestare col pestello , poi aggiungete la portulaca poco per volta, cos\u00ec sar\u00e0 pi\u00f9 facile da pestare (-).Quando avrete ottenuto una consistenza piuttosto liscia e cremosa aggiungete l'olio  e il Grana Padano DOP grattugiato  e amalgamate col pestello fino ad ottenere una crema omogenea. Il vostro pesto di portulaca \u00e8 pronto per essere utilizzato !", "ingredients": [["Portulaca", "(da pulire) 300 g"], ["Grana Padano DOP", "(da grattugiare) 50 g"], ["Pinoli", "40 g"], ["Olio extravergine d'oliva", "40 g"], ["Sale grosso", "5 g"], ["Aglio", "1 spicchio"]], "contesto": "- Risultato finale: Il pesto di portulaca \u00e8 una salsa verde dal sapore fresco e aromatico, grazie alla presenza di portulaca e aglio. La consistenza cremosa si ottiene dalla combinazione di formaggio grattugiato e olio extravergine d'oliva.\n\n- Occasioni adatte: Il pesto di portulaca \u00e8 perfetto da utilizzare come condimento per la pasta, per insaporire insalate, bruschette o come base per altre ricette. \u00c8 ideale per arricchire piatti estivi e leggeri.\n\n- Diete o regimi alimentari adatti: Il pesto di portulaca \u00e8 adatto a una dieta vegetariana, in quanto non contiene ingredienti di origine animale. \u00c8 anche adatto a chi segue una dieta senza glutine, a patto di utilizzare formaggio grattugiato senza glutine. \n\n- Intolleranze: Le persone con intolleranza al lattosio possono sostituire il formaggio grattugiato con una versione senza lattosio o evitare di utilizzarlo del tutto. Le persone con intolleranza all'aglio possono ometterlo dalla ricetta o ridurne la quantit\u00e0."}
+{
+    "title": "Pesto di portulaca",
+    "category": "Ricette",
+    "description": "Per preparare il pesto di portulaca per prima cosa eliminate la parte della radice più dura, lasciando intatti i gambi più teneri. Immergete la portulaca in una ciotola piena d’acqua per eliminare la terra, dopodiché sciacquatela accuratamente sotto l’acqua corrente e asciugatela con un canovaccio pulito. Sbucciate lo spicchio d’aglio, dividetelo a metà e privatelo del germoglio interno. Mettete l’aglio in un mortaio insieme al sale grossoe ai pinoli. Cominciate a pestare col pestello, poi aggiungete la portulaca poco per volta, così sarà più facile da pestare (8-9). Quando avrete ottenuto una consistenza piuttosto liscia e cremosa aggiungete l’olioe il Grana Padano DOP grattugiatoe amalgamate col pestello fino ad ottenere una crema omogenea. Il vostro pesto di portulaca è pronto per essere utilizzato!",
+    "ingredients": [
+        [
+            "Portulaca",
+            "(da pulire) 300 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "(da grattugiare) 50 g"
+        ],
+        [
+            "Pinoli",
+            "40 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Sale grosso",
+            "5 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

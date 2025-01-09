@@ -1,1 +1,30 @@
-{"title": "Bombardino", "category": "Bevande", "description": "Per realizzare il bombardino, per prima cosa montate la panna montata: versate la panna fredda in una ciotola  e iniziate a montare con le fruste elettriche mentre aggiungete gradualmente lo zucchero  fino ad ottenere una consistenza ferma e soda . Trasferite la panna montata in un sac-\u00e0-poche con bocchetta a stella.Ora versate il Vov in un pentolino  e scaldatelo a fuoco dolce per  minuti, poi unite il brandy  e spegnete il fuoco, roteando leggermente la padella per mescolare .Riempite i bicchieri con il liquore\u00a0per circa due terzi , poi aggiungete la panna montata . Il vostro bombardino \u00e8 pronto per essere gustato !", "ingredients": [["Vov", "240 g"], ["Brandy", "80 g"], ["Panna fresca liquida", "fredda 200 g"], ["Zucchero", "20 g"]], "contesto": "Il risultato finale della ricetta \"Bombardino\" \u00e8 una deliziosa bevanda alcolica calda e cremosa con un sapore dolce e avvolgente.\n\nOccasioni adatte: La bevanda \u00e8 perfetta per le fredde serate invernali, ideale da gustare prima o dopo i pasti come aperitivo o digestivo.\n\nDiete o regime alimentare adatto: Il Bombardino contiene ingredienti latticini e alcol. Pertanto, non \u00e8 adatto a diete vegane o a quelle senza lattosio.\n\nIntolleranze: Le persone con intolleranze al lattosio dovrebbero evitare questa ricetta poich\u00e9 contiene panna fresca liquida. Chi soffre di intolleranza all'alcol dovrebbe anche fare attenzione, poich\u00e9 l'alcol \u00e8 un ingrediente chiave. \n\nIn conclusione, il Bombardino \u00e8 una bevanda calda e cremosa, ideale da gustare nelle fredde serate invernali, adatto a chi non ha intolleranze al lattosio o all'alcol."}
+{
+    "title": "Bombardino",
+    "category": "Ricette",
+    "description": "Per realizzare il bombardino, per prima cosa montate la panna montata: versate la panna fredda in una ciotolae iniziate a montare con le fruste elettriche mentre aggiungete gradualmente lo zuccherofino ad ottenere una consistenza ferma e soda. Trasferite la panna montata in un sac-à-poche con bocchetta a stella. Ora versate il Vov in un pentolinoe scaldatelo a fuoco dolce per 5 minuti, poi unite il brandye spegnete il fuoco, roteando leggermente la padella per mescolare. Riempite i bicchieri con il liquore per circa due terzi, poi aggiungete la panna montata. Il vostro bombardino è pronto per essere gustato!",
+    "ingredients": [
+        [
+            "Vov",
+            "240 g"
+        ],
+        [
+            "Brandy",
+            "80 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "fredda 200 g"
+        ],
+        [
+            "Zucchero",
+            "20 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

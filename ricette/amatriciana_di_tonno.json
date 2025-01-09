@@ -1,1 +1,42 @@
-{"title": "Amatriciana di tonno", "category": null, "description": "Per preparare l'amatriciana di tonno, come prima cosa prendete il tonno fresco e tagliatelo a cubetti . In una padella scaldate l'olio, versate il tonno  e lasciatelo rosolare bene su tutti i lati , per pochissimi minuti. Dovr\u00e0 restare molto rosa al centro. Quindi trasferitelo in una ciotolina e tenetelo da parte.\u00a0Nella stessa padella, senza aggiungere altro grasso, mettete a rosolare il guanciale , sino a che non sar\u00e0 ben dorato ; ci vorranno circa per  minuti. Trasferite anche questo in un'altra ciotolina , cercando di scolarlo dal grasso che dovr\u00e0 restare all'interno della padella.\u00a0Nella stessa padella con il grasso del guanciale versate i pomodori pelati  e schiacciateli . Salate leggermente e lasciate cuocere il sugo per circa  minuti. Aggiungete poi il guanciale .\u00a0Unite anche i cubetti di tonno  e mescolate . Spegnete il fuoco e\u00a0buttate i bucatini in abbondante acqua salata leggermente .\u00a0Cuoceteli sino a che non saranno al dente  poi scolateli, tenendo da parte un po' di acqua di cottura e trasferiteli in padella con il condimento . Saltate per qualche minuto, aggiungendo un mestolino di acqua se necessario . Servite l'amatriciana di tonno con una spolverata di prezzemolo.", "ingredients": [["Bucatini", "320 g"], ["Tonno", "250 g"], ["Pomodori pelati", "200 g"], ["Guanciale", "60 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Prezzemolo", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto gustoso e saporito, con la morbidezza del tonno che si sposa perfettamente con il sapore deciso del guanciale e dei pomodori pelati. La pasta bucatini sar\u00e0 ricoperta da una salsa cremosa e ben condita, arricchita dal prezzemolo fresco per un tocco di freschezza.\n\nQuesto piatto \u00e8 adatto per pranzi o cene speciali, da servire agli ospiti o per occasioni in cui si desidera preparare qualcosa di diverso e gustoso.\n\nLa ricetta \u00e8 adatta per persone che seguono una dieta mediterranea, in quanto \u00e8 ricca di proteine magre, fibre e grassi sani. \u00c8 adatta anche per coloro che seguono una dieta povera di grassi, purch\u00e9 si scelga un guanciale magro.\n\nLe persone con intolleranza al lattosio possono consumare questa ricetta senza problemi, ma \u00e8 importante verificare che i pomodori pelati non contengano eventuali allergeni o tracce di lattosio. Le persone con intolleranza al glutine possono fare la ricetta sostituendo i bucatini con pasta senza glutine."}
+{
+    "title": "Amatriciana di tonno",
+    "category": "Ricette",
+    "description": "Per preparare l'amatriciana di tonno, come prima cosa prendete il tonno fresco e tagliatelo a cubetti. In una padella scaldate l'olio, versate il tonnoe lasciatelo rosolare bene su tutti i lati, per pochissimi minuti. Dovrà restare molto rosa al centro. Quindi trasferitelo in una ciotolina e tenetelo da parte. Nella stessa padella, senza aggiungere altro grasso, mettete a rosolare il guanciale, sino a che non sarà ben dorato; ci vorranno circa per 5 minuti. Trasferite anche questo in un'altra ciotolina, cercando di scolarlo dal grasso che dovrà restare all'interno della padella. Nella stessa padella con il grasso del guanciale versate i pomodori pelatie schiacciateli. Salate leggermente e lasciate cuocere il sugo per circa 5 minuti. Aggiungete poi il guanciale. Unite anche i cubetti di tonnoe mescolate. Spegnete il fuoco e buttate i bucatini in abbondante acqua salata leggermente. Cuoceteli sino a che non saranno al dentepoi scolateli, tenendo da parte un po' di acqua di cottura e trasferiteli in padella con il condimento. Saltate per qualche minuto, aggiungendo un mestolino di acqua se necessario. Servite l'amatriciana di tonno con una spolverata di prezzemolo.",
+    "ingredients": [
+        [
+            "Bucatini",
+            "320 g"
+        ],
+        [
+            "Tonno",
+            "250 g"
+        ],
+        [
+            "Pomodori pelati",
+            "200 g"
+        ],
+        [
+            "Guanciale",
+            "60 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Prezzemolo",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

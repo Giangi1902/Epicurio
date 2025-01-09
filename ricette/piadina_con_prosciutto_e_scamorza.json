@@ -1,1 +1,30 @@
-{"title": "Piadina con prosciutto e scamorza", "category": "Piatti Unici", "description": "Per preparare la piadina con prosciutto e scamorza come prima cosa tagliate quest'ultima a fette spesse mezzo cm . Ponete la piadina in una padella e scaldatela per\u00a0 secondi , poi giratela e posizionate solo su un lato met\u00e0 delle fette di scamorza .\u00a0Coprite con un coperchio  e aspettate\u00a0altri  secondi, fino a che il formaggio non si sar\u00e0 sciolto . Trasferite quindi la piadina su un tagliere ,\u00a0posizionate met\u00e0 delle fette di prosciutto , aggiungete un po' di senape antica  e richiudete la piadina . Preparate la seconda piadina allo stesso modo e servitele.\u00a0", "ingredients": [["Piadine", "Sfogliatissime 2"], ["Prosciutto cotto", "(arrosto) 150 g"], ["Scamorza (provola)", "230 g"], ["Senape", "antica q.b."]], "contesto": "Il risultato finale sar\u00e0 una piadina croccante e sfiziosa, con il sapore intenso del prosciutto arrosto e la cremosit\u00e0 della scamorza fusa. La senape antica aggiunge un tocco piccante e aromatico alla preparazione.\n\nQuesta ricetta \u00e8 adatta per un pranzo veloce o una cena informale in compagnia di amici o familiari.\n\nLa piadina con prosciutto e scamorza \u00e8 adatta a qualsiasi regime alimentare, anche se \u00e8 consigliata con moderazione per le diete ipocaloriche, data la presenza di formaggio e prosciutto. \u00c8 perfetta per chi segue una dieta onnivora.\n\nPersone con intolleranze alimentari potrebbero dover fare attenzione a questo piatto, in particolare coloro che soffrono di intolleranza al lattosio o al glutine. \u00c8 possibile adattare la ricetta utilizzando piadine senza glutine e formaggi privi di lattosio."}
+{
+    "title": "Piadina con prosciutto e scamorza",
+    "category": "Ricette",
+    "description": "Per preparare la piadina con prosciutto e scamorza come prima cosa tagliate quest'ultima a fette spesse mezzo cm. Ponete la piadina in una padella e scaldatela per 30 secondi, poi giratela e posizionate solo su un lato metà delle fette di scamorza. Coprite con un coperchioe aspettate altri 30 secondi, fino a che il formaggio non si sarà sciolto. Trasferite quindi la piadina su un tagliere, posizionate metà delle fette di prosciutto, aggiungete un po' di senape anticae richiudete la piadina. Preparate la seconda piadina allo stesso modo e servitele.",
+    "ingredients": [
+        [
+            "Piadine",
+            "Sfogliatissime 2"
+        ],
+        [
+            "Prosciutto cotto",
+            "(arrosto) 150 g"
+        ],
+        [
+            "Scamorza (provola)",
+            "230 g"
+        ],
+        [
+            "Senape",
+            "antica q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "2 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

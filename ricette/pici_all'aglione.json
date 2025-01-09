@@ -1,1 +1,54 @@
-{"title": "Pici all'aglione", "category": "Primi piatti", "description": "Per preparare i pici all'aglione iniziate sbollentando i pomodori in acqua bollente per  minuto. Pelateli e privateli dei semi, poi tagliateli a piccoli cubetti (-). Schiacciate gli bene , se non disponete di questo attrezzo potete tagliare l'aglio a fettine e poi schiacciatelo con la lama di un coltello\u00a0 molto spessa .Ponete l'aglio schiacciato in un tegame con l'olio e il peperoncino privato dei semi e tritato finemente (-), fatelo rosolare a fiamma molto bassa: il soffritto dovr\u00e0 cuocere lentamente e l'aglio non dovr\u00e0 scurirsi ma solo sciogliersi. Lasciate sul fuoco per una decina di minuti fino a che l'aglio avr\u00e0 cominciato a sciogliersi. A questo punto incorporate anche i pomodori a pezzetti aggiungete l'aceto  e aggiustate di sale. Fate cuocere il sugo a fuoco basso fino a quando i pomodori si saranno disfatti , ottenendo una salsa cremosa (ci vorranno almeno  minuti). Nel frattempo mettete a bollire l'acqua salata per la pasta. Se il sugo dovesse asciugarsi eccessivamente potete aggiungere / mestoli di acqua di cottura della pasta .Quando l'acqua bolle, immergete i pici  e, terminato il tempo di cottura che in genere richiede circa  minuti, scolateli al dente e fateli saltare nel sugo per insaporirli (-). Servite i pici all'aglione ben caldi!", "ingredients": [["Pici", "360 g"], ["Aglio", "6 spicchi"], ["Peperoncino fresco", "1"], ["Pomodori ramati", "700 g"], ["Olio extravergine d'oliva", "5 cucchiai"], ["Aceto di vino bianco", "1 cucchiaio"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto di pici all'aglione, un piatto tipico della tradizione toscana caratterizzato da una salsa aglio, pomodori freschi e peperoncino.\n\nPer quali occasioni \u00e8 adatto: Questo piatto \u00e8 perfetto per un pranzo o una cena informale con amici e famiglia, ma pu\u00f2 essere anche servito in occasioni pi\u00f9 formali.\n\nPer quali diete o regime alimentare sono adatte: Le pici all'aglione sono adatte a una dieta vegetariana e vegana. Possono essere consumate anche da chi segue una dieta senza glutine, utilizzando degli appositi pici senza glutine.\n\nIntolleranze: Le persone con intolleranze al lattosio possono consumare questo piatto senza problemi. Tuttavia, chi soffre di intolleranza al glutine dovr\u00e0 fare attenzione a utilizzare dei pici senza glutine. E' consigliabile anche fare attenzione per le persone con intolleranza ai pomodori."}
+{
+    "title": "Pici all'aglione",
+    "category": "Ricette",
+    "description": "Per preparare i pici all'aglione iniziate proprio dalla pasta fresca. In una ciotola versate la farina e il sale. Mescolando con un mestolo di legno iniziate a versare l'acquae l'olio. Versate poi l'acqua rimastae mescolate ancora fino a che non sarà assorbita. Trasferite ora su un piano e impastate bene spingendo l'impasto in fuori e lavorando bene con il polso, quasi a stracciarlo. Proseguite in questo modo sino ad ottenere un panetto liscio, poi copritelo con una ciotolae lasciatelo riposare per 10 minuti. Continuate a lavorare l'impasto, poi copritelo ancora e lasciatelo riposare per 30 minuti sotto una ciotola. Intanto occupatevi dell'aglione. Prelevate gli spicchiseparandoli delicatamente. Sbucciate gli spicchie a questo punto potete scegliere se tritarli molto finemente o grattugiarli. In una padella capiente versate un filo d'olio e scaldatelo leggermente. Aggiungete poi l'aglio grattugiato. Lasciate insaporire a fiamma bassa per pochi minuti, poi alzate la fiamma e sfumate con il vino bianco. Lasciate evaporare la parte alcolicae versate la passata di pomodoro. Mescolate bene, coprite con un coperchioe lasciate cuocere a fuoco dolce per circa 15 minuti. Intanto riprendete l'impasto dei pici che avrà ormai riposato e con un tarocco tagliatene un pezzetto. Se è troppo grande potete dividerlo ulteriormente a metà. Coprite con la ciotola l'impasto e intanto formate i primi pici. Cominciate ad arrotolarlo sul piano esercitando una leggera pressione verso l'esterno. Man mano la pasta si allungherà, dovrà risultare abbastanza sottileperché crescerà il cottura. Proseguite in questo modo sino a terminare l'impasto e a realizzare tutti i pici. Poi tuffateli in abbondante acqua salata a bollore. Intanto regolate di sale il sugo, aggiungete abbondandi foglie di basilicoe mescolate. Scolate i pici dopo 2-3 minuti e trasferiteli nel sugo. Aggiungete un mestolino d'acquae mescolate bene. Impiattate, aggiungete abbondante sugoe guarnite con le foglioline di basilico. I vostri pici sono pronti da servire.",
+    "ingredients": [
+        [
+            "Farina 1",
+            "525 g"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ],
+        [
+            "Acqua",
+            "leggermente tiepida 270 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "1 cucchiaio"
+        ],
+        [
+            "Aglione",
+            "3 spicchi"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Vino bianco",
+            "30 g"
+        ],
+        [
+            "Passata di pomodoro",
+            "500 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "30 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

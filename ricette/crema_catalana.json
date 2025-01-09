@@ -1,1 +1,42 @@
-{"title": "Crema catalana", "category": "Dolci", "description": "Per preparare la crema catalana come prima cosa versate l'amido di mais in una ciotolina, unite una piccola parte dei  g di latte  e mescolate con una frusta per scioglierlo . Versate la parte restante del latte in una pentola ,\u00a0unite la cannella, la scorza di un limone  e  g di zucchero . Mescolate con una frusta  e scaldate fino a raggiungete il bollore.Nel frattempo in un'altra ciotola versate i tuorli e gli altri  g di zucchero . Sbattete con una frusta , poi unite l'amido di mais disciolto  e mescolate con una frusta .Quando il latte avr\u00e0 raggiunto il bollore , filtratelo direttamente all'interno della ciotola con il composto di uova  e mescolate sempre con una frusta .\u00a0Trasferite nuovamente all'interno della pentola  e cuocete sul fuoco, mescolando di continuo, fino a che non avrete ottenuto una consistenza liscia e cremosa .\u00a0Trasferite la crema ottenuta all'interno delle cocotte (-), coprite con pellicola e lasciate raffreddare in frigorifero per almeno  ore .\u00a0Al momento di servirle riprendete le cocotte, spargete lo zucchero di canna su tutta la superficie  e passate sopra il cannello per permettere allo zucchero di caramellare . Quando si sar\u00e0 creata la tipica crosticina servite la vostra crema catalana .", "ingredients": [["Latte", "500 g"], ["Tuorli", "4"], ["Zucchero", "100 g"], ["Limoni", "1"], ["Cannella in stecche", "1"], ["Amido di mais (maizena)", "25 g"], ["Zucchero di canna", "q.b."]], "contesto": "Il risultato finale della crema catalana sar\u00e0 una crema dolce e vellutata, dal sapore delicato e con una leggera nota di cannella. La superficie sar\u00e0 caramellata e croccante grazie allo zucchero di canna bruciato con un cannello.\n\nQuesto dolce \u00e8 adatto per occasioni speciali come cene eleganti, festivit\u00e0 e compleanni. Pu\u00f2 essere servito sia caldo che freddo e si presta perfettamente come fine pasto.\n\nLa crema catalana \u00e8 adatta a regimi alimentari vegetariani, ma non \u00e8 adatta a persone intolleranti al lattosio in quanto contiene latte. Tuttavia, \u00e8 possibile utilizzare latte senza lattosio per adattare la ricetta. Inoltre, non \u00e8 adatta a persone intolleranti all'uovo, in quanto contiene tuorli."}
+{
+    "title": "Crema catalana",
+    "category": "Ricette",
+    "description": "Per preparare la crema catalana come prima cosa mettete l'amido di mais in una ciotolina, aggiungete una piccola parte dei 500 g di lattee mescolate con una frustaper scioglierlo completamente. Versate la parte restante del latte in un pentolino, aromatizzate con la scorza di un limonee la stecca di cannella. Unite 50 g di zucchero presi dalla dose totale. Mescolate con una frustae scaldate fino a sfiorare il bollore. Nel frattempo in un'altra ciotola mescolate i tuorli con i restanti 50 g di zuccherosbattendo con una frusta. Aggiungete l'amido di mais disciolto nel lattee mescolate ancora con una frusta. Quando il latte avrà raggiunto il bollore, toglietelo dal fuoco e filtratelo attraverso un colino direttamente all'interno della ciotola con il composto di uova. Mescolate sempre con una frusta. Trasferite il composto nuovamente all'interno del pentolinoe cuocete a fuoco dolce mescolando di continuo, fino a quando la crema si sarà addensata. Dovrete ottenere una consistenza liscia e cremosa. Trasferite la crema ottenuta all'interno di 4 cocotte da 11 cm di diametro, alte circa 2 cm, livellatecon cura la superficie con il dorso di un cucchiaio e coprite con pellicola. Lasciate raffreddare in frigorifero per almeno 2 ore. Al momento di servirle riprendete le cocotte, spargete lo zucchero di canna su tutta la superficiee passate sopra il cannello per permettere allo zucchero di caramellare. Quando si sarà creata la tipica crosticina la vostra crema catalana è pronta per essere servita!",
+    "ingredients": [
+        [
+            "Latte",
+            "500 g"
+        ],
+        [
+            "Zucchero",
+            "100 g"
+        ],
+        [
+            "Tuorli",
+            "4"
+        ],
+        [
+            "Amido di mais (maizena)",
+            "25 g"
+        ],
+        [
+            "Cannella in stecche",
+            "1"
+        ],
+        [
+            "Limoni",
+            "1"
+        ],
+        [
+            "Zucchero di canna",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "20 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

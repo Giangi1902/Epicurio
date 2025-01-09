@@ -1,1 +1,49 @@
-{"title": "Chips di bucce di verdure", "category": "Antipasti", "description": "Per preparare le chips di bucce di verdure per prima cosa lavate accuratamente le verdure, asciugatele quindi pelatele con un pelaverdure . Asciugate ancora bene le bucce, trasferitele in una ciotola e condite con paprika  e pepe .Salate , condite con l'olio  e insaporite con il rosmarino . Mescolate molto bene per distribuire i sapori. Disponete le bucce su una teglia  e cuocete in forno statico preriscaldato a \u00b0 per almeno  minuti o fino a quando non risulteranno croccanti . I tempi potrebbero variare da forno a forno. Sfornate e lasciate raffreddare le chips di bucce di verdure prima di servirle .", "ingredients": [["Bucce di patate", "q.b."], ["Bucce di barbabietola", "q.b."], ["Bucce di carota", "q.b."], ["Bucce di patate dolci", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Paprika dolce", "q.b."], ["Rosmarino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un antipasto croccante e saporito, perfetto per accompagnare aperitivi o come spuntino leggero. Le chips di bucce di verdure saranno colorate e aromatiche, grazie al mix di ingredienti e alle spezie utilizzate. \n\nQuesto piatto \u00e8 adatto per occasioni informali, come serate in compagnia o pic-nic all'aperto. Pu\u00f2 essere servito anche come contorno leggero in un pranzo estivo. \n\nLe chips di bucce di verdure sono adatte ad una dieta vegana e vegetariana, in quanto sono privi di ingredienti di origine animale. Possono essere consumate anche in una dieta senza glutine, a patto di assicurarsi che gli ingredienti siano privi di contaminazioni da glutine. \n\nLe persone con intolleranze alimentari al glutine possono mangiare questo piatto se si assicurano di utilizzare ingredienti certificati senza glutine. Possono essere consumate anche da persone con intolleranze al lattosio, al latte, e al caseina, essendo privi di latticini. Tuttavia, bisogna fare attenzione alle spezie utilizzate, per evitare eventuali allergie o intolleranze ad alcuni condimenti."}
+{
+    "title": "Chips di bucce di verdure",
+    "category": "Ricette",
+    "description": "Per preparare le chips di bucce di verdure per prima cosa lavate accuratamente le verdure, asciugatele quindi pelatele con un pelaverdure. Asciugate ancora bene le bucce, trasferitele in una ciotola e condite con paprikae pepe. Salate, condite con l'olioe insaporite con il rosmarino. Mescolate molto bene per distribuire i sapori. Disponete le bucce su una tegliae cuocete in forno statico preriscaldato a 200° per almeno 15 minuti o fino a quando non risulteranno croccanti. I tempi potrebbero variare da forno a forno. Sfornate e lasciate raffreddare le chips di bucce di verdure prima di servirle.",
+    "ingredients": [
+        [
+            "Bucce di patate",
+            "q.b."
+        ],
+        [
+            "Bucce di barbabietola",
+            "q.b."
+        ],
+        [
+            "Bucce di carota",
+            "q.b."
+        ],
+        [
+            "Bucce di patate dolci",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Paprika dolce",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Costo": "Molto basso"
+    }
+}

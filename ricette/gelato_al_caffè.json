@@ -1,1 +1,34 @@
-{"title": "Gelato al caff\u00e8", "category": "Dolci", "description": "Per preparare il gelato al caff\u00e8 come prima cosa preparate il caff\u00e8. A questo punto versate il latte in un pentolino,\u00a0aggiungete lo zucchero , il glucosio  e il caff\u00e8\u00a0appena preparato .\u00a0Scaldate a fiamma bassa sino a che lo zucchero non sar\u00e0 completamente sciolto . Trasferite quindi il composto in una brocca  e aggiungete anche la panna fresca . Mescolate bene\u00a0e trasferite in freezer per  minuti.Quando il composto sar\u00e0 ben freddo trasferitelo all'interno della gelatiera  e azionatela . Aspettate circa - minuti sino a che il gelato non sar\u00e0 cremoso .\u00a0Trasferite il gelato in una pirofila , coprite con pellicola e riponete in freezer per  ore circa; in questo modo risulter\u00e0 pi\u00f9 compatto, ma comunque sempre cremoso. In ogni caso se preferite potete saltare questo passaggio e consumarlo subito. Trascorse le due ore riprendete il gelato dal freezer e con uno spallinatore trasferitelo nelle coppette . Decorate con scagliette di cioccolato e servitelo subito .", "ingredients": [["Caff\u00e8", "100 g"], ["Panna fresca liquida", "125 g"], ["Latte intero", "75 g"], ["Glucosio", "60 g"], ["Zucchero", "45 g"]], "contesto": "Il risultato finale di questa ricetta \u00e8 un delizioso gelato al caff\u00e8, cremoso e con un intenso sapore di caff\u00e8. Ha una consistenza morbida ma compatta, perfetta per essere gustata come dessert fresco e goloso.\n\nQuesto gelato al caff\u00e8 \u00e8 adatto per essere servito in occasioni speciali come feste di compleanno, cene eleganti o semplicemente come dolce dopo un pasto. Pu\u00f2 essere anche un ottimo dessert da offrire agli ospiti durante una cena estiva o come fine pasto in ristoranti.\n\nQuesto gelato al caff\u00e8 \u00e8 adatto per le persone che seguono una dieta bilanciata e che amano concedersi un dolce ogni tanto. \u00c8 consigliato consumarlo con moderazione per non eccedere nelle calorie e nello zucchero.\n\nLe persone intolleranti al lattosio e alla caseina dovrebbero evitare questo gelato al caff\u00e8, in quanto contiene latte e panna fresca. Per le persone intolleranti al glucosio, \u00e8 possibile sostituire il glucosio con altri dolcificanti adatti alla propria dieta."}
+{
+    "title": "Gelato al caffè",
+    "category": "Ricette",
+    "description": "Per preparare il gelato al caffè come prima cosa preparate il caffè. A questo punto versate il latte in un pentolino, aggiungete lo zucchero, il glucosioe il caffè appena preparato. Scaldate a fiamma bassa sino a che lo zucchero non sarà completamente sciolto. Trasferite quindi il composto in una broccae aggiungete anche la panna fresca. Mescolate bene e trasferite in freezer per 30 minuti. Quando il composto sarà ben freddo trasferitelo all'interno della gelatierae azionatela. Aspettate circa 30-40 minuti sino a che il gelato non sarà cremoso. Trasferite il gelato in una pirofila, coprite con pellicola e riponete in freezer per 2 ore circa; in questo modo risulterà più compatto, ma comunque sempre cremoso. In ogni caso se preferite potete saltare questo passaggio e consumarlo subito. Trascorse le due ore riprendete il gelato dal freezer e con uno spallinatore trasferitelo nelle coppette. Decorate con scagliette di cioccolato e servitelo subito.",
+    "ingredients": [
+        [
+            "Caffè",
+            "100 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "125 g"
+        ],
+        [
+            "Latte intero",
+            "75 g"
+        ],
+        [
+            "Glucosio",
+            "60 g"
+        ],
+        [
+            "Zucchero",
+            "45 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

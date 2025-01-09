@@ -1,0 +1,3782 @@
+[
+    {
+        "nome": "Farina 00",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Semola di grano duro rimacinata",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Agnello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Abbacchio",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Acai in polvere",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Cipolle dorate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Friselle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Acqua",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Aglio fresco",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cosciotto d'agnello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Panna fresca liquida",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Aglio",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Carciofi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pandoro",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Mini Tortiglioni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Patate gialle",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Cacao amaro in polvere",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Nutella®",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cioccolato fondente",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pasta Sfoglia",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina Manitoba",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Albicocche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Alette di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fecola di patate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Acciughe (alici)",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Mandorle pelate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mandorle",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Bucatini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Campari",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Uova",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Farina di mais integrale per polenta istantanea",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Ananas",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Anatra",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Petto d'anatra",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Anelli Siciliani",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Calamari",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Cipolle",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cocomero (anguria)",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Riso Carnaroli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Anguilla",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Animelle di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Avocado",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fiori eduli",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Pancarrè",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Burro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Aragosta",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Riso Roma",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Riso vialone nano",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Riso originario",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Zafferano",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Riso nero Venere",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di mais bianco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Arista",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carrè di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pecora",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Vitellone",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carne bovina",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Sottofesa di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Lonza di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Petto di tacchino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fesa di tacchino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Sottofesa di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Noce di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Glutine di frumento",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Filetto di salmone",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Fesa di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Coniglio",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Asparagi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Frutti di bosco",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Birra chiara",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Astice",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Biscotti Digestive",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pane casereccio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pane di segale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Melanzane",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina 0",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Baccalà",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Baccalà dissalato",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Stoccafisso",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Tuorli",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Zucchero",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Nocciole intere",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Funghi champignon",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina di mais fioretto",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Parmigiano Reggiano DOP",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Latte intero",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Bagel",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Savoiardi",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pasta fillo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Banane",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Latte di cocco",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Peperoni verdi",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Farina di frumento",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Albumi",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Barbabietole precotte",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Barba di frate (agretti)",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Tonno sott'olio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Indivia belga",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Patate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Patate novelle",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Farina di riso",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cioccolato al latte",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Cocco rapè",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Avena",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Riso Basmati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Carote",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Merluzzo",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Petto di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Tranci di salmone",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Cioccolato fondente al 60-69%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Gelatina in fogli",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cocco",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ciliegie",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Linguine",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Prosecco",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Olio di semi",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Latte di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Biancostato di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Yogurt greco",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Birra analcolica",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Biscotti secchi",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cioccolato fondente al 50%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Castagne",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pavesini",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Zucchero di canna",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Melone giallo invernale",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ricotta di pecora",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pesche gialle",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Salmone affumicato",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Cioccolato gianduia",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti melighe",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Farina di riso senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Bigoli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mele Golden",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Confettura di frutti rossi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fiocchi di avena",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Scorza d'arancia",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Latte di mandorle",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Farina di quinoa",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Ricotta vaccina",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Farina di mandorle",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele renette",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Gorgonzola",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Yogurt alla frutta",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Farina di pistacchi",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di teff",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Tè verde Matcha",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Farina 2",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Vino bianco",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Bicarbonato",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Crusca di avena",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Zucca",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Noci",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Burro di arachidi",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di grano saraceno",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Nocciole intere spellate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina integrale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di farro integrale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Zucchero a velo",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fragole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Caffè",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Mix di farine senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di mais senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Burro di cocco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Lievito in polvere per dolci",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Gamberi",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Bistecca Fiorentina",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Nesquik",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Farina di ceci",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di grano saraceno senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pere Williams",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodorini datterini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Filetto di merluzzo",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Sardine sott'olio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Filetti di nasello",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Uva nera",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Prugne disidratate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Quinoa",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Coda di rospo",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Salmone",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Uva bianca",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Zucca delica",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Zucchine",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Vov",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Capocollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Farina",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Amaretti",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Braciole di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fettine di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pancetta affumicata",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Sale fino",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Branzino (spigola)",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Controfiletto di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cappello del prete",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Latte condensato",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Broccoli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Olio extravergine d'oliva",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cappone",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Sale grosso",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cioccolato fondente al 55%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Nutella",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pomodorini ciliegino",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pane",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Lardo di Colonnata",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Gambi di broccolo",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Panettone",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Patate dolci (o americane)",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Salsiccia",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Lievito di birra fresco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Succo d'arancia",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Latte senza lattosio",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Cachi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Bulgur",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Skuta",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Panini per hamburger",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cavolo nero",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mix di cereali",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Scorze di fave",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Fagioli rossi precotti",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Barbabietole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Tonno",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Burrata",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Tortillas di farina",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Tortillas",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Arachidi",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Latte di soia",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Busiate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Caccavelle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Scorfano",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Polpo",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Pecorino",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Lattuga romana",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Lattuga",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Arance",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Caffè solubile",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Sciroppo di latte di mandorla",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Cioccolato bianco",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Scorza di limone",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cachaca",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Vodka",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Zucca mantovana",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Confettura di albicocche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Calamarata",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Couscous",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Sponsali",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Spinaci",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pane raffermo",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fegato di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Semolino",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Formaggio fresco spalmabile",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Grana Padano DOP",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Cannelloni all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pistacchi non salati",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina di castagne",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Capesante",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Prezzemolo",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Sfoglie alle olive",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Stracchino",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Pomodori di Pachino",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori ramati",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mozzarella di bufala",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Capretto",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Capriolo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carne di suino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Dischetti di pasta",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghettoni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tortiglioni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Carciofi mammole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cardi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Brodo di pollo",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fettine di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carote baby",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Coregone",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Fichi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Filetto di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pesce spada",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Ricciola",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Pesce spada affumicato",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Filetti di tonno",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Carrè di agnello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fave",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Pasta per la pizza",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Scamorza affumicata",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Casarecce",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Casarecce di ceci",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Gocce di cioccolato fondente",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Verza",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina di castagne senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Catalogna",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cavatelli",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Melanzane tonde",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Zucchine bianche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cavoletti di Bruxelles",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cavolfiore",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ceci secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Ceci precotti",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Broccoli romaneschi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Filetti di cernia",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Mais",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Soia soffiata",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Funghi porcini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pasta kataifi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Melone",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Granella di nocciole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Gamberoni",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Farina per chapati",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Torrone",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti secchi al cioccolato",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti all'avena senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Biscotti integrali",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti secchi senza glutine",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti al cacao",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cialde da cannolo",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Biscotti secchi integrali",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Grissini",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Taralli",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Sfilati al pomodoro al forno",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Nocciole pralinate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Semi di chia",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Patate bianche",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Chicchi di farina di legumi (lenticchie rosse, ceci e piselli)",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Chicchi di farina di legumi (lenticchie rosse e ceci)",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fagioli rossi secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Bucce di patate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Mele Red Delicious",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Carote viola",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Patate rosse",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Filoncini di pane",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele Fuji",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Salamella",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Lievito di birra secco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pancetta",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Farina di nocciole",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Prugne",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Frumina",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fusilli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Riso Arborio",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Robiola",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Mele",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Topping al cioccolato",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Peperoni",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Semola",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina d'avena",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cicoria",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cime di rapa",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cinghiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cappuccino solubile",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cipolle rosse",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cipolle bianche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cipolle rosse di Tropea",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cipolle ramate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cipolle borettane",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cipolline",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Succo di limone",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Latte condensato al cacao Nestlé",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Clementine",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pane bianco in cassetta",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pane senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pane integrale in cassetta",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Gamberetti",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Coda di vitellone",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Rana pescatrice",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Topinambur",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Conchiglioni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Uva fragola",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Lamponi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Melagrana",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Mele Cotogne",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "More",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pere Decana",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pesche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori verdi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Rabarbaro",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ribes rosso",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Susine",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pere",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Riso glutinoso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Bresaola",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Caprino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pomodorini gialli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Gocce di cioccolato",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cookies al cioccolato",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Mascarpone",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Interiora di agnello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Finocchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina istantanea per polenta",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Zucchine tonde",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina di mais",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Wurstel",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cosce d'anatra",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fusi di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cosce di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Costine di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carrè di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Costolette di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Costolette di agnello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cotechino precotto",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pasta brisé",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Cotechino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Burro chiarificato",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Passata di pomodoro",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Funghi orecchioni o ostrica (Pleurotus)",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Tacchino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Ventresca di tonno",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Zucca napoletana",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fagioli dall'occhio secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Cozze",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Farina di farro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di lupini",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Crauti precotti",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Yogurt greco 2% di grassi",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Latte",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Chicchi di caffè",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Cetrioli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fagioli neri secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Lenticchie secche",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Alcol puro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Peperoncino fresco",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Peperoni rossi",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Porri",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Zucchine trombetta",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pistacchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Spinacini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pisellini",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Prosciutto crudo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Brodo di carne",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Baguette",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "La Bottega di Olivia&Marino",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Scampi",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Zucchero integrale di canna",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina 1",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di mais bramata",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Alloro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele Evelina",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Polenta istantanea",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fegatini di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pan brioche",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Luganega",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pane integrale multi-cereali",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Taleggio",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Biscotti di grano saraceno",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Birra rossa",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Grano cotto",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di grano tenero",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Fiori di zucca",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Wafer al cacao",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Lasagne",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Birra scura",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Wurstel di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Peperoncino verde piccante",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Rum bianco",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Datteri",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Risotto allo zafferano",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di cocco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele annurche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Codetta",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Meringhe",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Edamer",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Tortillas di mais",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Lumache",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fagiolini",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Fagioli cannellini secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Fagioli borlotti secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Scarola",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Speck",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fave secche",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Lupini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Faraona",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Farfalle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farfalle Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di mais per polenta istantanea",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farro perlato",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Fasolari",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Feta",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Noce di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fettuccine all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fettuccine 5 cereali e uova",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fichi viola",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fichi secchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Filetti di branzino",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Orata",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Peperoni gialli",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Pezzogna",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Filetti di platessa",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Filetto di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pesce Persico",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Platessa",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Salmone sott'olio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Filetto di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Olio di semi di girasole",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Latte scremato",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Eglefino",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Bettelmatt",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Farina ai 5 cereali",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Zucca butternut",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina di grano duro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di grano arso",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Patate viola",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Lievito madre liquido",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Focaccia senza glutine",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Fontina",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Tofu",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Mirtilli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mango",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fregola",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pancarrè integrale",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Friarielli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pepe nero",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Strutto",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Peperoni friggitelli",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Friggitelli",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Freselle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ravanelli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Asparagi selvatici",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Bruscandoli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ortiche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Spaghettini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lampascioni",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Salame piccante",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Capperi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mele verdi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Zucca violina",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Papaya",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pesce di mare",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Totani",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Crostacei",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Funghi portobello",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Funghi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fusilli ai ceci",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilli Bucati Corti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusillotti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilli 5 cereali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilli Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilli Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilloni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Riso per sushi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Camembert",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Galletto",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Gallinella",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cioccolato al latte 40%",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Cioccolato bianco 35%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Cioccolato ruby",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Garganelli all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Yogurt bianco naturale",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Rose",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Yogurt vegetale alla vaniglia",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Yogurt",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Gelato alla crema",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Menta",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cannella in stecche",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Zite",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Rigatoni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Germogli di soia",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Latte di capra",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Aceto di vino bianco",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Gin",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Confettura di fragole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Radicchio",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Lasagne all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pane lungo per tramezzini",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Semi di sesamo",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Noce moscata",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Gnocchetti Sardi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Granchio",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Vongole",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Gnocchi di patate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Sale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Gnocchi di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lambrusco",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Pesche bianche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Grano",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Songino",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Grissini al pomodoro al forno",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Lievito madre",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Zucchine baby",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Guancia di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Lenticchie rosse decorticate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Sovracosce di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Ceci neri secchi",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Riso nishiki",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Gambi di carciofo",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Caffè al ginseng solubile",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Groviera",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Rucola",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pesche noci",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Insalata",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Orzo perlato",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Orzo",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Aringa affumicata",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Fagioli borlotti",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Cavolo cappuccio",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Fagioli borlotti precotti",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Fagioli",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Farro",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Kiwi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Quartirolo Lombardo",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Melone cantalupo",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cavolo riccio (Kale)",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mezze Penne Rigate Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ditalini Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Quinoa rossa",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Riso Ribe",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Uova di lompo (succedaneo caviale)",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Riso integrale",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Seppie",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Mozzarelline ciliegine",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Polenta",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Sedano rapa",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Valeriana (songino)",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Scottona",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Sogliola",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Sfoglie per involtini",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Carta di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Whisky",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Succo di cranberry",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Pane arabo",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Grani di Kefir",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Cavolo cinese",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Carne ovina",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Kumquat",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pane toscano",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Lampredotto",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Lasagne ricce",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lasagne Sottili all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lasagne Verdi all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Scamorza (provola)",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Limoni",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Uva passa",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Trota salmonata",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Arachidi salate tostate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Lingua salmistrata",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Liquirizia in polvere",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Basilico",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Mandarini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Bacche di mirto",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Panini da hot dog",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Lorighittas",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lumachine di mare",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Lumaconi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Sedano",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Sedanini Rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Maccheroncini al pettine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pasta fresca",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Cellentani",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pane rustico",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Ricotta di bufala",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Succo di lime",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pompelmi rosa",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mazzancolle",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Melanzane ovali nere",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mele stark",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mele Gala",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Acquafaba",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Mezze Maniche Rigate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Mezzi paccheri",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mezzi Rigatoni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Gelato al fiordilatte",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Pane guttiau",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Spumante",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Chicchi di farina di legumi (lenticchie rosse e piselli)",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Tubetti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mini Pipe Rigate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Ditaloni Rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pasta",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Filini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farfalline all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Sedani Rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ditalini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Capellini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Nocciole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cracker",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Mini Penne Rigate",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Granella di pistacchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mini Ruote",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Risotto alla parmigiana",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di riso glutinoso",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Marroni",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Sambuca",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Trippa",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Moscardini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Miele millefiori",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Essenza di senape",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Cioccolato fondente al 70%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Yogurt al caramello salato",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Mortadella",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Prosciutto cotto",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Mozzarella",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Pane per tramezzini",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Amaranto",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Riso parboiled",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di riso venere",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mini Farfalle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di mais giallo",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Nachos",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Nasello",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Spaghetti Quadrati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tagliatelle",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Noodles",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ricotta",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Peperoncini piccanti",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Olive verdi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Olive nere",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Ombrina",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Riso rosso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Orecchiette",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Orecchiette fresche",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Ossibuchi di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Ossibuchi di tacchino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Ostriche",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Ovetti di cioccolato al latte",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Ovetti di cioccolato fondente",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Paccheri",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Paccherotti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tagliatelle di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Riso Bomba",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Paglia e Fieno all'uovo",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Pak choi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Palamita",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Yogurt magro",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Panettoncini",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina per pane senza glutine",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Farina di Kamut®",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Sidro",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Farina di segale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pane integrale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Panini",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Panini di grano duro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pannocchia di mais",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Pane di farro",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Pappardelle all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pappardelle Ricce all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Polpa di pomodoro",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori San Marzano",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pangrattato",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Pennette Rigate",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Trofie",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Penne Rigate",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennette Rigate Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Alga Spirulina",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Penne Rigate Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Reginette",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Sedanini Rigati senza glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ditaloni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tortiglioni Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pipe Rigate",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Conchiglie",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Spaghetti Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tagliatelle all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti 5 cereali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mini Fusilli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tortiglioni Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti Bio",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennette rigate 5 cereali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennoni lisci",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Troccoli freschi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennoni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mezzi Rigatoni Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Penne Rigate Bio",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Strozzapreti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mezze Penne Rigate",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennoni rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Linguine senza glutine",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Torchietti all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Cavatappi",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Ziti",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tagliatelle Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti Rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Fusilli di lenticchie rosse",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Penne di lenticchie rosse",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Glucosio",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Pasta Mista",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Gigli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Vermicelli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Scialatielli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Maccheroncini",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Risoni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Panna acida",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Pecorino Romano DOP",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Penne lisce",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pennotti rigati",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Penne di grano saraceno",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Peperoncini tondi piccanti",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Peperoni dolci",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Pere kaiser",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pere abate",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pere coscia",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pesce San Pietro",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Pesche Percoche",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori pizzutelli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Finocchietto selvatico",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Maggiorana",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori secchi sott'olio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Portulaca",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Piadelle Gustose",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Piadine",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Piadine integrali",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Fagiolini piattoni",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Caciocavallo",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Rum",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Farina per pinsa",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Piselli surgelati",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Tagliolini all'uovo",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cocco disidratato",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Crema di pistacchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Bevanda all'avena",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Edamame",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Farina istantanea per polenta taragna",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Polipetti",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Busto di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Tagliata di petto di pollo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Macinato di vitello",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Macinato di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Pomodorini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Macinato di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Fagioli cannellini precotti",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Miglio",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Stelline Senza Glutine",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Sarde",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Tonno al naturale",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Funghi cardoncelli",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pomodori cuore di bue",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Pompelmi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Primosale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Panini ai cereali",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Spalla di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Quaglia",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Cetriolini sottaceto",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Radiatori",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Lepre",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Seitan",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Cosce di tacchino",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Rape",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Erba cipollina",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Asparagi bianchi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Riso di semola",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Sbrinz DOP",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Rombo",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Cioccolato fondente al 60%",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pomodori perini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Concentrato di pomodoro",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Cren o rafano",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Worcestershire sauce",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Pomodori pelati",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Asiago",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Salsa di soia",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Acciughe sott'olio",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Salvia",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Vino rosso",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Sardine",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Vongole veraci",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Funghi pioppini",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Nespole",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Schiacciate al forno",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Castelmagno",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Emmentaler",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Caramello",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Colomba",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Semi di zucca",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Seppioline",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Sfilati con olive al forno",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Sfoglie croccanti al forno",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Guanciale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Mele Golden Delicious",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Sgombro",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Filetti di sgombro",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Mele Fujion",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Frattaglie di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Amarene sciroppate",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Spaghetti alla Chitarra all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghetti di soia",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Spaghettini Integrali",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Cavallo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Spianatine con pomodorini scarpariello",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Lime",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Salame",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Aperol",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Pan carrè",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Stinco di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Stroncatura",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Tvorog",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Tacos",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Scamone di manzo",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Entrecote",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Tagliatelle Larghe all'uovo",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Farina di enkir",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele chantecler",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Savoiardi senza glutine",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Pan di Spagna",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Tempeh",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Cipollotto fresco",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Mezzi Canneroni",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Biscotti Pan di Stelle®",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Panna di soia",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Zenzero fresco",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Verdure miste",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Tomini",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Tonnarelli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Pepe",
+        "categoria": "Spezie"
+    },
+    {
+        "nome": "Cioccolato fondente al 55% senza glutine",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Olio di cocco",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Amido di mais (maizena)",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Miele di arancio",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Sciroppo di fiori di sambuco",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Farina di mais fumetto",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Mele Royal Gala",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Gherigli di noci",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Riso soffiato",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Mele Stayman",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Burro salato",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Biscotti Oreo®",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Biscotti",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Caciocavallo silano",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Triplo concentrato di pomodoro",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Tortelloni",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Wafer",
+        "categoria": "Dolci"
+    },
+    {
+        "nome": "Canocchie",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Farina di mais e cereali per polenta istantanea",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Lievito istantaneo per preparazioni salate",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Trenette",
+        "categoria": "Bevande"
+    },
+    {
+        "nome": "Triglie",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Troccoli",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Trota",
+        "categoria": "Pesce"
+    },
+    {
+        "nome": "Uova di quaglia",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Vacherin Mont d'Or",
+        "categoria": "Latte e uova"
+    },
+    {
+        "nome": "Lenticchie",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Piadine senza strutto",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Brodo vegetale",
+        "categoria": "Preparazione"
+    },
+    {
+        "nome": "Cavoli rossi",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Vermicelli di riso",
+        "categoria": "Pasta e Riso"
+    },
+    {
+        "nome": "Verzini",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Rollé di coniglio",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Wurstel di maiale",
+        "categoria": "Carni"
+    },
+    {
+        "nome": "Foglie di bambù",
+        "categoria": "Altro"
+    },
+    {
+        "nome": "Zucca rossa",
+        "categoria": "Frutta e verdura"
+    },
+    {
+        "nome": "Mix di cereali e quinoa",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Cicerchie secche",
+        "categoria": "Legumi"
+    },
+    {
+        "nome": "Pannocchie precotte",
+        "categoria": "Bevande"
+    }
+]

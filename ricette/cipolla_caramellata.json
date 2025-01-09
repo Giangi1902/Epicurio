@@ -1,1 +1,34 @@
-{"title": "Cipolla caramellata", "category": "Antipasti", "description": "Per preparare la cipolla caramellata monda le cipolle rosse  e affettale sottilmente . In una padella poni una noce abbondante di burro .Scioglilo a fuoco dolce e poi versa le cipolle  con lo zucchero di canna  e l'aceto balsamico .\u00a0Aggiungi un pizzico di\u00a0sale\u00a0  e cuoci per  minuti a fiamma bassa o per il tempo necessario ad ammorbidire la cipolla . La cipolla caramellata \u00e8 pronta da gustare .", "ingredients": [["Cipolle rosse", "4"], ["Aceto balsamico", "50 g"], ["Zucchero di canna", "1 cucchiaio"], ["Burro", "q.b."], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta di cipolla caramellata sar\u00e0 un contorno dolce e saporito, dalle cipolle morbide e apprezzabili per il loro gusto delicato e leggermente acidulo.\n\nQuesto piatto \u00e8 adatto per un aperitivo o come contorno per piatti di carne o formaggi. \n\nLe cipolle caramellate sono adatte a una dieta vegetariana, mentre possono essere consumate con moderazione anche in una dieta ipocalorica, dato che il loro contenuto calorico dipende dalla quantit\u00e0 di burro e zucchero utilizzati nella preparazione.\n\nLe persone con intolleranza al lattosio dovrebbero fare attenzione alla quantit\u00e0 di burro utilizzato, mentre chi soffre di intolleranza al glutine dovrebbe verificare che l'aceto balsamico utilizzato sia certificato senza glutine."}
+{
+    "title": "Cipolla caramellata",
+    "category": "Ricette",
+    "description": "Per preparare la cipolla caramellata monda le cipolle rossee affettale sottilmente. In una padella poni una noce abbondante di burro. Scioglilo a fuoco dolce e poi versa le cipollecon lo zucchero di cannae l'aceto balsamico. Aggiungi un pizzico di salee cuoci per 20 minuti a fiamma bassa o per il tempo necessario ad ammorbidire la cipolla. La cipolla caramellata è pronta da gustare.",
+    "ingredients": [
+        [
+            "Cipolle rosse",
+            "4"
+        ],
+        [
+            "Aceto balsamico",
+            "50 g"
+        ],
+        [
+            "Zucchero di canna",
+            "1 cucchiaio"
+        ],
+        [
+            "Burro",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "20 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

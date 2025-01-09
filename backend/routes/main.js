@@ -4,30 +4,33 @@ const express = require('express');
 const router = express.Router();
 const cron = require('node-cron');
 //Importo User e Post da userDetails, i quali rappresentano i dettagli degli utenti e dei post
-const { User, Ingredient, Meal } = require('../serverDetails');
+const { User, Ingredient, Meal, Pantry } = require('../serverDetails');
 
+//Funzione per prendere tutti i prodotti all'interno della lista della spesa di un determinato utente
 router.get("/getIngredients/:username", async (req, res) => {
     const { username } = req.params;
     try {
         const user = await User.findOne({ username: username });
+        const idUser = user.id
+        console.log(idUser)
         if (user) {
-            const ingredients = user.ingredienti;
-            let ingredientsInfo = [];
-            for (const ingredient of ingredients) {
-                const id = ingredient.id
-                const quantity = ingredient.quantity
-                const checked = ingredient.checked
-                const name = await Ingredient.findOne({ _id: id })
-                const category = name.categoria
+            const lista = user.checklist
+            let ingredientsInfo = []
+            for (const ingredient of lista) {
+                const idIngredient = ingredient[0]
+                const categoryIngredient = ingredient[1]
+                const checkboxIngredient = ingredient[2]
+                const ingrediente = await Ingredient.findOne({ _id: idIngredient })
+                const nameIngredient = ingrediente.nome
+
                 ingredientsInfo.push({
-                    id: id,
-                    quantity: quantity,
-                    nome: name.nome,
-                    checked: checked,
-                    category: category
+                    id: idIngredient,
+                    category: categoryIngredient,
+                    name: nameIngredient,
+                    checkbox: checkboxIngredient
                 })
+
             }
-            ingredientsInfo.sort((a, b) => (a.category > b.category) ? 1 : ((b.category > a.category) ? -1 : 0));
             res.json(ingredientsInfo);
         }
     }
@@ -36,51 +39,58 @@ router.get("/getIngredients/:username", async (req, res) => {
     }
 });
 
-router.get("/getCosts/:username", async (req, res) => {
-    const { username } = req.params;
+// router.get("/getCosts/:username", async (req, res) => {
+//     const { username } = req.params;
+//     try {
+//         const exist = await User.findOne({ username: username });
+//         if (exist) {
+//             let prices = [];
+//             for (const ingrediente of exist.ingredienti) {
+//                 const market = exist.market.toLowerCase();
+//                 const ingredient = await Ingredient.findById(ingrediente.id);
+//                 const price = ingredient[market];
+//                 prices.push({
+//                     id: ingredient._id,
+//                     cost: price
+//                 });
+//             }
+//             res.json(prices);
+//         }
+//     }
+//     catch (e) {
+//         console.log(e);
+//     }
+// });
+
+router.get("/getAllIngredients/:index", async (req, res) => {
+    const { index } = req.params;
+
     try {
-        const exist = await User.findOne({ username: username });
-        if (exist) {
-            let prices = [];
-            for (const ingrediente of exist.ingredienti) {
-                const market = exist.market.toLowerCase();
-                const ingredient = await Ingredient.findById(ingrediente.id);
-                const price = ingredient[market];
-                prices.push({
-                    id: ingredient._id,
-                    cost: price
-                });
-            }
-            res.json(prices);
-        }
-    }
-    catch (e) {
+        // Trova tutti gli ingredienti
+        const ingredients = await Ingredient.find();
+
+        // Filtra gli ingredienti escludendo le categorie specifiche
+        const filteredIngredients = ingredients.filter(ingredient =>
+            ingredient.categoria !== "prodotti per animali" &&
+            ingredient.categoria !== "articoli per la casa" &&
+            ingredient.categoria !== "cura personale"
+        );
+
+        filteredIngredients.sort((a, b) => a.nome.localeCompare(b.nome));
+
+        // Applica la paginazione
+        const startIndex = parseInt(index) * 25;
+        const endIndex = startIndex + 25;
+        const chunkedArray = filteredIngredients.slice(startIndex, endIndex);
+
+        // Restituisci gli elementi filtrati e paginati
+        res.json(chunkedArray);
+    } catch (e) {
         console.log(e);
+        res.status(500).json({ error: "Internal Server Error" });
     }
 });
 
-router.get("/getAllIngredients/:username", async (req, res) => {
-    const { username } = req.params;
-    try {
-        const user = await User.findOne({ username: username });
-        if (user) {
-            const ingredients = await Ingredient.find();
-            const market = user.market.toLowerCase();
-            let namesAndPrices = [];
-            for (const ingredient of ingredients) {
-                namesAndPrices.push({
-                    name: ingredient.nome,
-                    price: ingredient[market],
-                    id: ingredient.id
-                });
-            }
-            res.json(namesAndPrices);
-        }
-    }
-    catch (e) {
-        console.log(e);
-    }
-});
 
 router.post("/addIngredients", async (req, res) => {
     const { username, quantities } = req.body;
@@ -191,7 +201,27 @@ router.get("/getDispensa/:username", async (req, res) => {
     try {
         const user = await User.findOne({ username: username })
         if (user) {
-            res.json(user.dispensa)
+            const pantryUser = await Pantry.findOne({ _id: idUser });
+            const pantryIngredient = pantryUser.idIngredienti       //problema se non c'è niente in dispensa 
+            let ingredientsInfo = []
+            for (const ingredient of pantryIngredient) {
+                const idIngredient = ingredient[0]
+                const quantityIngredient = ingredient[1]
+                const availableIngredient = ingredient[2]
+                const ingrediente = await Ingredient.findOne({ _id: idIngredient })
+                const nameIngredient = ingrediente.nome
+                const categoryIngredient = ingrediente.categoria
+
+                ingredientsInfo.push({
+                    id: idIngredient,
+                    quantity: quantityIngredient,
+                    nome: nameIngredient,
+                    category: categoryIngredient,
+                    available: availableIngredient
+                })
+            }
+            // ingredientsInfo.sort((a, b) => (a.category > b.category) ? 1 : ((b.category > a.category) ? -1 : 0));
+            res.json(ingredientsInfo);
         }
         else {
             res.json("no")
@@ -375,7 +405,7 @@ router.get("/getNextMeal/:currentDay/:username", async (req, res) => {
 
         res.json(responseMeals);
     } catch (error) {
-        console.log("error");
+        console.log("errore");
         res.status(500).json({ success: false, message: "Errore durante il recupero dei pasti" });
     }
 });
@@ -584,16 +614,16 @@ router.post("/newMenu", async (req, res) => {
     }
 });
 
-router.get('/proviamolo/test/:username', async(req, res) => {
+router.get('/proviamolo/test/:username', async (req, res) => {
     const { username } = req.params
     console.log(username)
-    try{
-        const user = await User.findOne({username: username})
+    try {
+        const user = await User.findOne({ username: username })
         console.log(user)
-        await sendPushNotification({to: user.token, title: "Ciao", body: "prova"})
+        await sendPushNotification({ to: user.token, title: "Ciao", body: "prova" })
         res.json("ok")
     }
-    catch(e){
+    catch (e) {
         console.log(e)
     }
 })
@@ -657,7 +687,7 @@ const logMessage = async () => {
 
     const daysOfWeek = ['domenica', 'lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato'];
     const dayOfWeek = daysOfWeek[nowItaly.weekday - 1];
-    
+
     for (const user of users) {
         const [lunchHour, lunchMinute] = user.orario_pranzo.split(':').map(Number);
         const [dinnerHour, dinnerMinute] = user.orario_cena.split(':').map(Number);
@@ -686,17 +716,17 @@ const logMessage = async () => {
 
         if (currentTime >= lunchTime - timeDifference && currentTime <= lunchTime) {
             if (lunchMealName) {
-                await sendPushNotification({to: user.token, title: "Promemoria pranzo", body: `È quasi ora di pranzo! Inizia a cucinare: ${lunchMealName}`});
+                await sendPushNotification({ to: user.token, title: "Promemoria pranzo", body: `È quasi ora di pranzo! Inizia a cucinare: ${lunchMealName}` });
             } else {
-                await sendPushNotification({to: user.token, title: "Promemoria pranzo", body: `È quasi ora di pranzo! Programma il tuo pranzo`});
+                await sendPushNotification({ to: user.token, title: "Promemoria pranzo", body: `È quasi ora di pranzo! Programma il tuo pranzo` });
             }
         }
 
         if (currentTime >= dinnerTime - timeDifference && currentTime <= dinnerTime) {
             if (dinnerMealName) {
-                await sendPushNotification({to: user.token, title: "Promemoria cena", body: `È quasi ora di cena! Inizia a cucinare: ${dinnerMealName}`});
+                await sendPushNotification({ to: user.token, title: "Promemoria cena", body: `È quasi ora di cena! Inizia a cucinare: ${dinnerMealName}` });
             } else {
-                await sendPushNotification({to: user.token, title: "Promemoria cena", body: `È quasi ora di cena! Programma la tua cena`});
+                await sendPushNotification({ to: user.token, title: "Promemoria cena", body: `È quasi ora di cena! Programma la tua cena` });
             }
         }
     }

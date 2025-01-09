@@ -1,0 +1,26 @@
+{
+    "title": "Patate lesse",
+    "category": "Ricette",
+    "description": "Per preparare le patate lesse in modo perfetto c'è bisogno di un piccolo accorgimento: utilizzate patate delle stesse dimensioni, in questo modo sarà assicurata una cottura uniforme. Lavate con cura le patate dopodiché trasferitele in una pentola, versate acqua fredda fino a ricoprirle completamentee aggiungete sale grosso. Mettete la pentola sul fornello e, una volta che ha raggiunto il bollore, lasciate cuocere per 20 minuti. Per capire se sono cotte fate la prova dello stecchino. Se questo entra nelle patate senza resistenza vuol dire che sono cotte. In caso contrario prolungate il tempo di cottura per il tempo necessario. Togliete le patate dalla pentola aiutandovi con una schiumarola. Eliminate la buccia immediatamente, risulterà più facile farlo. Tagliate le patate a vostro piacimento. Le patate lesse sono pronte, utilizzatele per le vostre ricette o per un contorno sano e leggero.",
+    "ingredients": [
+        [
+            "Patate",
+            "500 g"
+        ],
+        [
+            "Acqua",
+            "fredda q.b."
+        ],
+        [
+            "Sale grosso",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

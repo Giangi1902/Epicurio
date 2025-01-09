@@ -1,1 +1,33 @@
-{"title": "Gelato alla stracciatella", "category": "Dolci", "description": "Per preparare il gelato alla stracciatella iniziate a preparare il gelato alla panna seguendo la nostra videoricetta , clicca qui per visualizzarla. Mentre il gelato \u00e8 nella gelatiera tritate finemente  gr di cioccolato fondente con un coltello  o, se le avete, utilizzate delle scagliette di cioccolato gi\u00e0 pronte; un minuto prima di spegnere il mantecatore aggiungetele al gelato alla panna. Versate quindi il gelato alla stracciatella in una vaschetta  e riponetelo in congelatore almeno  ore prima di gustarlo!", "ingredients": [["Latte intero", "600 ml"], ["Cioccolato fondente", "100 g"], ["Panna fresca liquida", "250 g"], ["Zucchero", "250 g"], ["Baccello di vaniglia", "1"]], "contesto": "Il risultato finale della ricetta di Gelato alla stracciatella sar\u00e0 un cremoso gelato al latte arricchito con pezzetti di cioccolato fondente.\n\nOccasioni adatte: Il gelato alla stracciatella \u00e8 perfetto da servire come dessert durante una calda giornata estiva o come fine pasto in qualsiasi periodo dell'anno.\n\nDieta/Regime alimentare: Adatto a tutti coloro che non seguono una dieta vegana o vegetariana, ma che possono concedersi un dolce goloso. \u00c8 importante tenere conto delle calorie e grassi presenti nelle panna e cioccolato nella preparazione del gelato.\n\nIntolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questo dolce, a meno che non utilizzino alternative senza lattosio. Inoltre, chi \u00e8 intollerante al glutine deve controllare la provenienza degli ingredienti e assicurarsi che siano privi di questa sostanza."}
+{
+    "title": "Gelato alla stracciatella",
+    "category": "Ricette",
+    "description": "Per preparare il gelato alla stracciatella iniziate a preparare il gelato alla panna seguendo la nostra videoricetta,clicca qui per visualizzarla. Mentre il gelato è nella gelatiera tritate finemente 100 gr di cioccolato fondente con un coltelloo, se le avete, utilizzate delle scagliette di cioccolato già pronte; un minuto prima di spegnere il mantecatore aggiungetele al gelato alla panna. Versate quindi il gelato alla stracciatella in una vaschettae riponetelo in congelatore almeno 3 ore prima di gustarlo!",
+    "ingredients": [
+        [
+            "Latte intero",
+            "600 ml"
+        ],
+        [
+            "Cioccolato fondente",
+            "100 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "250 g"
+        ],
+        [
+            "Zucchero",
+            "250 g"
+        ],
+        [
+            "Baccello di vaniglia",
+            "1"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "40 min",
+        "Cottura": "5 min",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,17 @@
-{"title": "Yogurt greco", "category": "Dolci", "description": "Per preparare lo yogurt greco cominciate sistemando un colino in un recipiente e all'interno posizionate una\u00a0garza sterile (o in alternativa un canovaccio pulitissimo) . Versate lo yogurt bianco  e coprite con della pellicola trasparente .Riponete in frigorifero il tutto per almeno  ore (potete tenerlo per almeno - ore se preferite una consistenza maggiormente densa e cremosa). Trascorso il tempo sollevate la garza ,\u00a0noterete che sul fondo della ciotola \u00e8 presente del siero colato dallo yogurt . Riponete quindi lo yogurt greco ottenuto (circa  g)\u00a0in una ciotola . Il vostro yogurt greco fatto in casa \u00e8 pronto!", "ingredients": [["Yogurt", "intero (bianco o alla frutta) 500 g"]], "contesto": "Il risultato finale sar\u00e0 un cremoso e ricco yogurt greco, dal sapore fresco e leggermente acidulo. Pu\u00f2 essere arricchito con frutta fresca, miele, frutta secca o granola per renderlo ancora pi\u00f9 gustoso.\n\n\u00c8 adatto come dessert leggero e salutare, oppure come spuntino energizzante durante la giornata. Pu\u00f2 essere servito in versione dolce o salata, a seconda dei gusti e delle preferenze.\n\nIl yogurt greco \u00e8 adatto a una dieta vegetariana e pu\u00f2 essere consumato anche nella dieta vegana, sostituendo lo yogurt intero con yogurt non lattico. Tuttavia, \u00e8 consigliabile verificare che lo yogurt utilizzato sia privo di gelatina o altri additivi di derivazione animale.\n\nLe persone con intolleranze al lattosio possono consumare lo yogurt greco fatto in casa, lasciandolo fermentare pi\u00f9 a lungo per ridurre il contenuto di lattosio. Tuttavia, \u00e8 importante consultare un medico o un dietologo prima di consumarlo in caso di intolleranze gravi o allergie."}
+{
+    "title": "Yogurt greco",
+    "category": "Ricette",
+    "description": "Per preparare lo yogurt greco cominciate sistemando un colino in un recipiente e all’interno posizionate una garza sterile (o in alternativa un canovaccio pulitissimo). Versate lo yogurt biancoe coprite con della pellicola trasparente. Riponete in frigorifero il tutto per almeno 4 ore (potete tenerlo per almeno 6-8 ore se preferite una consistenza maggiormente densa e cremosa). Trascorso il tempo sollevate la garza, noterete che sul fondo della ciotola è presente del siero colato dallo yogurt. Riponete quindi lo yogurt greco ottenuto (circa 350 g) in una ciotola. Il vostro yogurt greco fatto in casa è pronto!",
+    "ingredients": [
+        [
+            "Yogurt",
+            "intero (bianco o alla frutta) 500 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

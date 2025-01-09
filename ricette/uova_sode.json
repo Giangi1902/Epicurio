@@ -1,1 +1,18 @@
-{"title": "Uova sode", "category": "Antipasti", "description": "Per preparare le uova sode iniziate ponendo le uova in un pentolino con acqua fredda ; l'acqua dovr\u00e0 coprire le uova. Mettete il pentolino sul fuoco e fate arrivare a bollore, poi calcolate  minuti di cottura a fuoco moderato . Trascorso questo tempo, scolate le uova e raffreddatele sotto acqua corrente oppure trasferitele in una ciotola con acqua e ghiaccio .Battete leggermente la punta sul piano di lavoro per rompere il guscio , poi rimuovete delicatamente il guscio . Le uova sode sono pronte per essere consumate come preferite !Per preparare le uova barzotte mettete sul fuoco un pentolino con l'acqua. Quando l'acqua sar\u00e0 a leggero bollore inserite le uova  e cuocete per  minuti, a fuoco moderato . Trascorso questo tempo, scolate le uova e raffreddatele sotto acqua corrente oppure trasferitele in una ciotola con acqua e ghiaccio .Battete leggermente la punta sul piano di lavoro per rompere il guscio , poi rimuovete delicatamente il guscio . Le uova barzotte sono pronte da gustare come preferite, magari con un filo d'olio e una macinata di pepe nero !", "ingredients": [["Uova", "a temperatura ambiente 4"]], "contesto": "Il risultato finale delle uova sode sar\u00e0 delle uova dall'albume ben rappreso e il tuorlo ancora morbido. Saranno perfettamente cotte e pronte da essere consumate come antipasto o snack.\n\nLe uova sode sono adatte per occasioni informali come aperitivi, brunch, picnic o buffet. Possono essere servite anche come guarnizione per insalate o per preparazioni pi\u00f9 elaborate.\n\nLe uova sode sono adatte per una dieta ricca di proteine, come la dieta proteica, la dieta chetogenica o la dieta paleo. Possono essere consumate anche in una dieta bilanciata, come fonte di proteine e grassi buoni.\n\nLe persone con intolleranza al lattosio possono consumare le uova sode, in quanto non contengono lattosio. Tuttavia, le persone con intolleranza alle uova non dovrebbero mangiarle."}
+{
+    "title": "Uova sode",
+    "category": "Ricette",
+    "description": "Per preparare le uova sode iniziate ponendo le uova in un pentolino con acqua fredda; l’acqua dovrà coprire le uova. Mettete il pentolino sul fuoco e fate arrivare a bollore, poi calcolate 9 minuti di cottura a fuoco moderato. Trascorso questo tempo, scolate le uova e raffreddatele sotto acqua corrente oppure trasferitele in una ciotola con acqua e ghiaccio. Battete leggermente la punta sul piano di lavoro per rompere il guscio, poi rimuovete delicatamente il guscio. Le uova sode sono pronte per essere consumate come preferite! Per preparare le uova barzotte mettete sul fuoco un pentolino con l’acqua. Quando l’acqua sarà a leggero bollore inserite le uovae cuocete per 6 minuti, a fuoco moderato. Trascorso questo tempo, scolate le uova e raffreddatele sotto acqua corrente oppure trasferitele in una ciotola con acqua e ghiaccio. Battete leggermente la punta sul piano di lavoro per rompere il guscio, poi rimuovete delicatamente il guscio. Le uova barzotte sono pronte da gustare come preferite, magari con un filo d'olio e una macinata di pepe nero!",
+    "ingredients": [
+        [
+            "Uova",
+            "a temperatura ambiente 4"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "2 min",
+        "Cottura": "9 min",
+        "Dosi per": "4 pezzi",
+        "Costo": "Basso"
+    }
+}

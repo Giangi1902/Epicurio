@@ -1,1 +1,41 @@
-{"title": "Salsa di pomodori messicana", "category": "Salse e Sughi", "description": "Per preparare la salsa di pomodori messicana iniziate mondando e tritando finemente la cipolla bianca , dopodich\u00e9 ponetela in una ciotola capiente assieme al succo e la scorza di lime grattugiata; lavate e tagliate a cubetti i pomodori  e aggiungeteli nella ciotola insieme alla cipolla .Lavate, asciugate e tritate il coriandolo, lavate i peperoncini, togliete loro i semi interni e tagliateli finemente , quindi aggiungete questi ingredienti nella ciotola  assieme allo zucchero ; mescolate dolcemente per far sciogliere lo zucchero, quindi aggiungete il sale, mescolate, coprite con della pellicola trasparente e lasciate insaporire per almeno  ore in frigorifero prima di servire.", "ingredients": [["Pomodori ramati", "medi e sodi 4"], ["Peperoncino fresco", "molto piccanti 4"], ["Limoni", "(o lime) il succo e la scorza di 1"], ["Cipolle bianche", "100 g"], ["Coriandolo", "15 g"], ["Zucchero", "la punta di 1 cucchiaino"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della salsa di pomodori messicana sar\u00e0 una salsa piccante e fresca, con un mix di sapori agrumati e speziati. Sar\u00e0 una salsa di colore rosso intenso, con pezzettini di pomodori e cipolle.\n\nQuesta salsa \u00e8 perfetta per condire piatti di carne alla griglia, tacos, nachos, enchiladas e altri piatti tipici della cucina messicana. \u00c8 ottima anche come salsa per le patatine.\n\nLa salsa di pomodori messicana \u00e8 adatta per diete vegetariane e vegane. Le persone con intolleranza al glutine possono consumarla senza problemi, ma \u00e8 importante verificare che gli ingredienti utilizzati siano privi di contaminazioni da glutine. Le persone con intolleranza al lattosio devono fare attenzione alla presenza di eventuali derivati del latte tra gli ingredienti. Le persone con intolleranza al pomodoro dovrebbero evitare questa salsa."}
+{
+    "title": "Salsa di pomodori messicana",
+    "category": "Ricette",
+    "description": "Per preparare la salsa di pomodori messicana iniziate mondando e tritando finemente la cipolla bianca, dopodiché ponetela in una ciotola capiente assieme al succo e la scorza di lime grattugiata; lavate e tagliate a cubetti i pomodorie aggiungeteli nella ciotola insieme alla cipolla. Lavate, asciugate e tritate il coriandolo, lavate i peperoncini, togliete loro i semi interni e tagliateli finemente, quindi aggiungete questi ingredienti nella ciotolaassieme allo zucchero; mescolate dolcemente per far sciogliere lo zucchero, quindi aggiungete il sale, mescolate, coprite con della pellicola trasparente e lasciate insaporire per almeno 3 ore in frigorifero prima di servire.",
+    "ingredients": [
+        [
+            "Pomodori ramati",
+            "medi e sodi 4"
+        ],
+        [
+            "Peperoncino fresco",
+            "molto piccanti 4"
+        ],
+        [
+            "Limoni",
+            "(o lime) il succo e la scorza di 1"
+        ],
+        [
+            "Cipolle bianche",
+            "100 g"
+        ],
+        [
+            "Coriandolo",
+            "15 g"
+        ],
+        [
+            "Zucchero",
+            "la punta di 1 cucchiaino"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

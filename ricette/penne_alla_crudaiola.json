@@ -1,1 +1,58 @@
-{"title": "Penne alla crudaiola", "category": "Primi piatti", "description": "Per preparare le penne alla crudaiola lavate e tagliate a quarti i pomodorini ciliegino . Spuntate, lavate e tagliate a rondelline sottili le zucchine novelle ; tagliate a rondelle anche le olive nere. Pulite gli champignon eliminando la terra posta alla base dei gambi; spellate le teste dei funghi (senza dividerle dai gambi), quindi tagliateli a fettine sottili nel senso della lunghezza .In una ciotola mettete i pomodorini, i funghi , le zucchine, le olive  e tenetela da parte. Ponete i pinoli a tostare in una padella sul fuoco dolce ,rigirandoli fino a quando saranno ben dorati . Ora condite le verdure con l'aglio tritato, le foglie di basilico spezzettate con le dita ,\u00a0 l'olio , il sale, il pepe e i pinoli tostati. Mischiate bene gli ingredienti e lasciate che le verdure assorbano tutti gli aromi.Nel frattempo lessate al dente le penne rigate , scolatele e versatele nella ciotola dove riposa il condimento precedentemente preparato ; mischiate gli ingredienti per bene con un mestolo e servite le penne alla crudaiola immediatamente, portando in tavola del formaggio grattugiato  tipo Parmigiano, Grana o Pecorino oppure della ricotta stagionata affumicata; lasciate che i commensali si servano a piacere.", "ingredients": [["Penne Rigate", "320 g"], ["Olive nere", "denocciolate 50 g"], ["Zucchine", "novelle 150 g"], ["Funghi champignon", "150 g"], ["Pomodorini ciliegino", "300 g"], ["Pinoli", "40 g"], ["Aglio", "1 spicchio"], ["Basilico", "40 foglie"], ["Olio extravergine d'oliva", "50 ml"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale delle Penne alla crudaiola sar\u00e0 un piatto colorato e fresco, con un mix di sapori intensi e contrastanti. Le penne rigate saranno condite con una salsa crudaiola a base di pomodorini ciliegino, olive nere, zucchine novelle e funghi champignon, arricchita da pinoli, aglio, basilico fresco, olio extravergine d'oliva, sale e pepe nero.\n\nQuesto piatto \u00e8 adatto per occasioni informali come un pranzo estivo in famiglia o con gli amici. \u00c8 perfetto come primo piatto durante una cena leggera e gourmet.\n\nLe Penne alla crudaiola sono adatte a persone che seguono una dieta mediterranea, vegetariana o vegana. Possono essere consumate anche da chi segue una dieta senza glutine, se si utilizzano penne di mais o di riso. Tuttavia, non \u00e8 adatto a persone con intolleranze alle olive o ai pinoli."}
+{
+    "title": "Penne alla crudaiola",
+    "category": "Ricette",
+    "description": "Per preparare le penne alla crudaiola lavate e tagliate a quarti i pomodorini ciliegino. Spuntate, lavate e tagliate a rondelline sottili le zucchine novelle; tagliate a rondelle anche le olive nere. Pulite gli champignon eliminando la terra posta alla base dei gambi; spellate le teste dei funghi (senza dividerle dai gambi), quindi tagliateli a fettine sottili nel senso della lunghezza. In una ciotola mettete i pomodorini, i funghi, le zucchine, le olivee tenetela da parte. Ponete i pinoli a tostare in una padella sul fuoco dolce, rigirandoli fino a quando saranno ben dorati. Ora condite le verdure con l’aglio tritato, le foglie di basilico spezzettate con le dita,  l’olio, il sale, il pepe e i pinoli tostati. Mischiate bene gli ingredienti e lasciate che le verdure assorbano tutti gli aromi. Nel frattempo lessate al dente le penne rigate, scolatele e versatele nella ciotola dove riposa il condimento precedentemente preparato; mischiate gli ingredienti per bene con un mestolo e servite le penne alla crudaiola immediatamente, portando in tavola del formaggio grattugiatotipo Parmigiano, Grana o Pecorino oppure della ricotta stagionata affumicata; lasciate che i commensali si servano a piacere.",
+    "ingredients": [
+        [
+            "Penne Rigate",
+            "320 g"
+        ],
+        [
+            "Olive nere",
+            "denocciolate 50 g"
+        ],
+        [
+            "Zucchine",
+            "novelle 150 g"
+        ],
+        [
+            "Funghi champignon",
+            "150 g"
+        ],
+        [
+            "Pomodorini ciliegino",
+            "300 g"
+        ],
+        [
+            "Pinoli",
+            "40 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Basilico",
+            "40 foglie"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "50 ml"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "20 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

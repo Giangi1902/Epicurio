@@ -1,1 +1,54 @@
-{"title": "Frittata di zucchine con provola", "category": null, "description": "Per preparare la frittata di zucchine con provola come prima cosa lavate le zucchine e spuntatele. Tagliatele a rondelle non troppo sottili  e trasferitele in una ciotola. Tritate finemente anche la cipolla  e aggiungetela alle zucchine .Condite con sale, olio  e pepe , poi mescolate bene .Disponetele su una leccarda rivestita con carta forno  e allargatele bene, in modo che non si sovrappongano troppo . Cuocete in forno statico preriscaldato a \u00b0 per  minuti, poi sfornate e lasciatele intiepidire .Trasferitele in una ciotola e aggiungete le uova ; mescolate per amalgamare e aggiungete il formaggio grattugiato  e il pangrattato . Mescolate bene sino ad ottenere un composto omogeneo.Versate met\u00e0 del composto all'interno di uno stampo da  cm rivestito con carta forno , posizionate sopra le fettine di provola affumicata  e aggiungete il composto rimasto .Livellate la superficie con il dorso di un cucchiaio  e cuocete in forno ventilato preriscaldato a \u00b0 per  minuti. Quando la frittata sar\u00e0 ben dorata sfornatela , trasferitela in un piatto e servitela .", "ingredients": [["Zucchine", "650 g"], ["Cipolle rosse", "100 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Uova", "3"], ["Grana Padano DOP", "30 g"], ["Pangrattato", "15 g"], ["Provola affumicata", "120 g"], ["Basilico", "q.b."]], "contesto": "Il risultato finale sar\u00e0 una gustosa frittata con zucchine, provola affumicata e basilico, dal cuore filante e saporito.\n\nOccasioni adatte: Ideale come piatto unico per una cena leggera o come antipasto in una cena informale.\n\nAdatta per: Adatta per una dieta bilanciata e varia, in quanto contiene verdure, proteine e grassi in quantit\u00e0 equilibrate.\n\nIntolleranze: Le persone con intolleranza al lattosio potrebbero avere problemi a digerire la provola affumicata e il Grana Padano DOP. Le persone celiache devono fare attenzione al pangrattato, che potrebbe contenere glutine."}
+{
+    "title": "Frittata di zucchine con provola",
+    "category": "Ricette",
+    "description": "Per preparare la frittata di zucchine con provola come prima cosa lavate le zucchine e spuntatele. Tagliatele a rondelle non troppo sottilie trasferitele in una ciotola. Tritate finemente anche la cipollae aggiungetela alle zucchine. Condite con sale, olioe pepe, poi mescolate bene. Disponetele su una leccarda rivestita con carta fornoe allargatele bene, in modo che non si sovrappongano troppo. Cuocete in forno statico preriscaldato a 180° per 15 minuti, poi sfornate e lasciatele intiepidire. Trasferitele in una ciotola e aggiungete le uova; mescolate per amalgamare e aggiungete il formaggio grattugiatoe il pangrattato. Mescolate bene sino ad ottenere un composto omogeneo. Versate metà del composto all'interno di uno stampo da 20 cm rivestito con carta forno, posizionate sopra le fettine di provola affumicatae aggiungete il composto rimasto. Livellate la superficie con il dorso di un cucchiaioe cuocete in forno ventilato preriscaldato a 200° per 35 minuti. Quando la frittata sarà ben dorata sfornatela, trasferitela in un piatto e servitela.",
+    "ingredients": [
+        [
+            "Zucchine",
+            "650 g"
+        ],
+        [
+            "Cipolle rosse",
+            "100 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Uova",
+            "3"
+        ],
+        [
+            "Grana Padano DOP",
+            "30 g"
+        ],
+        [
+            "Pangrattato",
+            "15 g"
+        ],
+        [
+            "Provola affumicata",
+            "120 g"
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "50 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

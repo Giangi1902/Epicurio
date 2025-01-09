@@ -1,1 +1,38 @@
-{"title": "Sfoglie con Caciocavallo e tartufo", "category": "Antipasti", "description": "Iniziate a preparare la crema di tartufo: tritate il tartufo con un coltello, avendo cura di conservarne alcune piccole scaglie per la decorazione finale . Ponetelo in un mortaio e aggiungete il mezzo spicchio d'aglio e i  filetti di acciughe , iniziate quindi a pestare gli ingredienti. Aggiungete poi l'olio extravergine di oliva e continuate a pestare gli ingredienti con il mortaio fino ad amalgamarli completamente , ottenendo una salsa. Tagliate il caciocavallo a piccoli pezzetti e poneteli su di un foglio di carta da forno , infornateli quindi a \u00b0C (modalit\u00e0 grill) per pochi secondi, fino a quando il caciocavallo si sar\u00e0 fuso e leggermente dorato. Spalmate ogni Sfoglia classica \u201cLa Bottega di Olivia&Marino\u201d con la crema di tartufo , adagiatevi sopra un pezzettino di caciocavallo al forno e decorate ogni stuzzichino con una scaglietta di tartufo nero!", "ingredients": [["Sfoglie croccanti al forno", "12"], ["Tartufo nero", "15 g"], ["Caciocavallo", "100 g"], ["Olio extravergine d'oliva", "5 cucchiai"], ["Aglio", "1"], ["Acciughe sott'olio", "2"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un antipasto gustoso e raffinato, caratterizzato dalla combinazione di sfoglie croccanti, caciocavallo e tartufo nero. La presenza dell'aglio e delle acciughe conferir\u00e0 alla preparazione un sapore intenso e appagante.\n\nQuesta ricetta \u00e8 adatta per occasioni speciali come cene eleganti, aperitivi sofisticati o feste importanti. Grazie alla sua presentazione curata e al suo gusto ricercato, le sfoglie con caciocavallo e tartufo saranno apprezzate da tutti gli invitati.\n\nLe sfoglie con caciocavallo e tartufo sono adatte per una dieta equilibrata e moderata, in quanto contengono ingredienti ricchi di sapore ma anche nutrienti preziosi come il caciocavallo e il tartufo. Tuttavia, \u00e8 preferibile consumarle con moderazione a causa dell'apporto calorico dei formaggi e dell'olio extravergine d'oliva.\n\nLe persone con intolleranze alimentari al lattosio dovrebbero fare attenzione a consumare il caciocavallo, mentre coloro che soffrono di allergia al glutine dovrebbero verificare che le sfoglie croccanti utilizzate siano senza glutine. Chi \u00e8 intollerante al pesce potrebbe dover eliminare le acciughe dalla ricetta."}
+{
+    "title": "Sfoglie con Caciocavallo e tartufo",
+    "category": "Ricette",
+    "description": "Iniziate a preparare la crema di tartufo: tritate il tartufo con un coltello, avendo cura di conservarne alcune piccole scaglie per la decorazione finale. Ponetelo in un mortaio e aggiungete il mezzo spicchio d’aglio e i 2 filetti di acciughe, iniziate quindi a pestare gli ingredienti. Aggiungete poi l’olio extravergine di oliva e continuate a pestare gli ingredienti con il mortaio fino ad amalgamarli completamente, ottenendo una salsa. Tagliate il caciocavallo a piccoli pezzetti e poneteli su di un foglio di carta da forno, infornateli quindi a 180°C (modalità grill) per pochi secondi, fino a quando il caciocavallo si sarà fuso e leggermente dorato. Spalmate ogni Sfoglia classica “La Bottega di Olivia&Marino” con la crema di tartufo, adagiatevi sopra un pezzettino di caciocavallo al forno e decorate ogni stuzzichino con una scaglietta di tartufo nero!",
+    "ingredients": [
+        [
+            "Sfoglie croccanti al forno",
+            "12"
+        ],
+        [
+            "Tartufo nero",
+            "15 g"
+        ],
+        [
+            "Caciocavallo",
+            "100 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "5 cucchiai"
+        ],
+        [
+            "Aglio",
+            "1"
+        ],
+        [
+            "Acciughe sott'olio",
+            "2"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "1 min",
+        "Dosi per": "4 persone",
+        "Costo": "Elevato"
+    }
+}

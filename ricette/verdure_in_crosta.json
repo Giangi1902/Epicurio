@@ -1,7 +1,7 @@
 {
     "title": "Verdure in crosta",
-    "category": "Secondi piatti",
-    "description": "Per preparare le verdure in crosta cominciate mondando e tagliando a tocchetti grossi - cm le patate , tuffatele in un pentolino con acqua salata e bollente e lessate per  minuti ; una volta pronte scolatele e fatele intiepidire. Intanto pulite i funghi con un canovaccio o un panno di carta leggermente inumidito e poi staccate il gambo dal cappello .Sminuzzate sia i gambi che le teste . Dopo aver tolto le prime foglie di cavolo rosso affettate sottilmente . In una padella scaldate un po' d'olio insieme a uno spicchio d'aglio in camicia, un rametto di rosmarino e qualche foglia di salvia. Poi tuffate i pezzi di funghi .Poi regolate di sale, attendete qualche istante che i succhi si ritirino e mettete da parte . Occupatevi dei formaggi. Togliete la crosta dal taleggio e taglialo a dadini  mentre la fontina potete grattugiarla attraverso una grattugia a fori larghi .Versate il cavolo sul fondo di  cocotte e aggiungete un po' di cubetti di taleggio , un po' di\u00a0funghi  e delle patate .Ultimate la fontina grattugiata e qualche ciuffetto di cavolo , infine una bella grattata di pepe . Srotolate i due rotoli di pasta sfoglia e tagliate a losanghe di circa  cm .Quindi cominciate ad intrecciare le losanghe tra loro  fino a formare una trama simile a quella di un cesto di vimini . Ottenuto un quadrato fitto tagliate  cerchi con un coppapasta da  cm .Sollevate i dischi aiutandovi con una paletta  e sistemate sulle cocotte facendo una leggera pressione per far aderire la pasta . Spennellate la superficie con un mix di uovo sbattuto con un cucchiaio di latte e passate alla cottura . Dopo  minuti a \u00b0 in forno statico  le vostre verdure in crosta saranno pronte per essere gustate .",
+    "category": "Ricette",
+    "description": "Per preparare le verdure in crosta cominciate mondando e tagliando a tocchetti grossi 2-3 cm le patate, tuffatele in un pentolino con acqua salata e bollente e lessate per 15 minuti; una volta pronte scolatele e fatele intiepidire. Intanto pulite i funghi con un canovaccio o un panno di carta leggermente inumidito e poi staccate il gambo dal cappello. Sminuzzate sia i gambi che le teste. Dopo aver tolto le prime foglie di cavolo rosso affettate sottilmente. In una padella scaldate un po' d’olio insieme a uno spicchio d’aglio in camicia, un rametto di rosmarino e qualche foglia di salvia. Poi tuffate i pezzi di funghi. Poi regolate di sale, attendete qualche istante che i succhi si ritirino e mettete da parte. Occupatevi dei formaggi. Togliete la crosta dal taleggio e taglialo a dadinimentre la fontina potete grattugiarla attraverso una grattugia a fori larghi. Versate il cavolo sul fondo di 4 cocotte e aggiungete un po’ di cubetti di taleggio, un po’ di funghie delle patate. Ultimate la fontina grattugiata e qualche ciuffetto di cavolo, infine una bella grattata di pepe. Srotolate i due rotoli di pasta sfoglia e tagliate a losanghe di circa 1 cm. Quindi cominciate ad intrecciare le losanghe tra lorofino a formare una trama simile a quella di un cesto di vimini. Ottenuto un quadrato fitto tagliate 4 cerchi con un coppapasta da 11 cm. Sollevate i dischi aiutandovi con una palettae sistemate sulle cocotte facendo una leggera pressione per far aderire la pasta. Spennellate la superficie con un mix di uovo sbattuto con un cucchiaio di latte e passate alla cottura. Dopo 15 minuti a 195° in forno staticole vostre verdure in crosta saranno pronte per essere gustate.",
     "ingredients": [
         [
             "Pasta Sfoglia",
@@ -16,7 +16,7 @@
             "150 g"
         ],
         [
-            "Cavolo rosso",
+            "Cavolo cappuccio rosso",
             "100 g"
         ],
         [
@@ -60,5 +60,11 @@
             "q.b."
         ]
     ],
-    "contesto": "Il risultato finale della ricetta \"Verdure in crosta\" sar\u00e0 un delizioso secondo piatto composto da una crostata di pasta sfoglia farcita con patate, funghi portobello, cavolo rosso e formaggi come Taleggio e Fontina. Le verdure saranno cotte insieme alle erbe aromatiche come l'aglio, il rosmarino e la salvia, insaporite con olio extravergine d'oliva, sale e pepe. La crosta di pasta sfoglia sar\u00e0 dorata e croccante mentre all'interno le verdure saranno morbide e gustose, con il sapore ricco dei formaggi.\n\nQuesta ricetta \u00e8 adatta per varie occasioni, come un pranzo o una cena in famiglia, ma pu\u00f2 essere anche una scelta interessante per una cena tra amici o per una cena speciale. Pu\u00f2 essere servita anche come piatto unico, ossia una valida alternativa per chi segue una dieta vegetariana o desidera ridurre il consumo di carne. \u00c8 adatto a un regime alimentare normale e pu\u00f2 essere ulteriormente personalizzato a seconda delle preferenze o delle restrizioni dietetiche di ogni individuo.\n\nRispetto alle intolleranze alimentari, le persone con intolleranza al lattosio dovrebbero fare attenzione al formaggio utilizzato nella ricetta. Il Taleggio contiene lattosio, quindi chi ha un'intolleranza potrebbe sostituirlo con un formaggio a basso contenuto di lattosio o optare per una versione senza lattosio. Allo stesso modo, coloro che soffrono di intolleranza al glutine dovrebbero cercare una pasta sfoglia senza glutine per preparare la ricetta. Altre intolleranze specifiche possono essere considerate sulla base degli ingredienti utilizzati nella ricetta."
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "50 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
 }

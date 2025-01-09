@@ -1,1 +1,34 @@
-{"title": "Patate al microonde", "category": "Contorni", "description": "Per preparare le patate al microonde, per prima cosa pelate le patate novelle  e lavatele sotto l'acqua corrente, avendo cura di scegliere patate pi\u00f9 o meno della stessa dimensione. Mettete le patate in una ciotola, aggiungete il rosmarino  e versate l'acqua .Coprite la ciotola con pellicola trasparente  e cuocete in microonde a W per  minuti. Trascorso questo tempo , verificate la cottura e condite con sale e olio. Le vostre patate al microonde sono pronte per essere servite !", "ingredients": [["Patate novelle", "400 g"], ["Acqua", "60 g"], ["Rosmarino", "1 rametto"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."]], "contesto": "- Risultato finale: Le patate al microonde saranno croccanti all'esterno e morbide all'interno, profumate dal rosmarino e condite con olio extravergine d'oliva e sale fino. \n\n- Occasioni adatte: Le patate al microonde sono perfette come contorno per un pranzo o una cena leggera e veloce.\n\n- Diete/Regime alimentare: Le patate al microonde sono adatte per una dieta bilanciata e possono essere consumate anche da chi segue una dieta vegetariana.\n\n- Intolleranze: Le persone con intolleranza al lattosio possono consumare questo piatto in quanto non contiene latticini. Le persone con intolleranza al glutine dovrebbero assicurarsi che gli ingredienti utilizzati siano privi di glutine."}
+{
+    "title": "Patate al microonde",
+    "category": "Ricette",
+    "description": "Per preparare le patate al microonde come prima cosa sbucciate le patatee trasferitele in una ciotola adatta per la cottura al microonde. Aggiungete il rametto di rosmarino, versate l’acquae coprite la ciotola con la pellicola. Cuocete in microonde a 900 W per 7 minuti oppure a 700 W per 10 minuti. Fate la prova dello stecchino per verificare la cottura: se riuscite a infilzare le patate senza resistenza vuol dire che sono cotte. In caso contrario prolungate il tempo di cottura per il tempo necessario. Aggiustate di sale. Condite con olio extravergine d’olivae mescolate. Le patate al microonde sono pronte per accompagnare i vostri secondi di carne, pesce o verdura!",
+    "ingredients": [
+        [
+            "Patate novelle",
+            "400 g"
+        ],
+        [
+            "Acqua",
+            "60 g"
+        ],
+        [
+            "Rosmarino",
+            "1 rametto"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "7 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

@@ -1,1 +1,29 @@
-{"title": "Liquore di ciliegie", "category": "Bevande", "description": "Per preparare il liquore di ciliegie per prima cosa lavate e asciugate le ciliegie, quindi denocciolatele con l'apposito attrezzo . Versate le ciliegie in un barattolo di vetro, aggiungete l'alcol  , richiudete con il coperchio e lasciate macerare a temperatura ambiente per una settimana.Trascorso il tempo di macerazione, riprendete il barattolo , filtrate il composto attraverso un colino  e raccogliete l'infuso in un contenitore. In un pentolino versate lo zucchero .Unite\u00a0l'acqua e scaldate lo sciroppo a fuoco moderato per  minuti . Lasciate leggermente intiepidire lo sciroppo, poi aggiungetelo all'infuso .Mescolate il liquore ottenuto, travasatelo in un barattolo con chiusura ermetica  e lasciatelo riposare  per\u00a0 settimane a temperatura ambiente. Trascorso questo tempo il vostro liquore di ciliegie sar\u00e0 pronto: versatelo in una bottiglia  e conservatelo a temperatura ambiente, se non fa troppo caldo,\u00a0oppure ponetelo in frigorifero.", "ingredients": [["Ciliegie", "denocciolate 400 g"], ["Alcol puro", "95\u00b0 400 g"], ["Acqua", "520 g"], ["Zucchero", "95 g"]], "contesto": "Il risultato finale sar\u00e0 un delizioso liquore di ciliegie dal colore rosso intenso e dal sapore dolce e fruttato, con una gradevole nota alcolica.\n\nOccasioni: Il liquore di ciliegie \u00e8 perfetto da gustare come digestivo dopo i pasti, da sorseggiare in compagnia o da utilizzare nella preparazione di cocktail e dessert.\n\nDieta/Regime alimentare: Il liquore di ciliegie \u00e8 adatto a una dieta moderata se consumato con moderazione, in quanto ha un contenuto calorico non trascurabile dati gli zuccheri aggiunti. \u00c8 adatto per una dieta senza glutine, se utilizzato con ingredienti certificati senza glutine.\n\nIntolleranze: Le persone con intolleranza alcolica non dovrebbero consumare il liquore di ciliegie in quanto contiene una quantit\u00e0 significativa di alcol puro. \u00c8 anche sconsigliato per persone con intolleranza al fruttosio o allergia alle ciliegie. Per le persone con intolleranza al lattosio, \u00e8 importante verificare che lo zucchero utilizzato non contenga lattosio."}
+{
+    "title": "Liquore di ciliegie",
+    "category": "Ricette",
+    "description": "Per preparare il liquore di ciliegie per prima cosa lavate e asciugate le ciliegie, quindi denocciolatele con l’apposito attrezzo. Versate le ciliegie in un barattolo di vetro, aggiungete l’alcol, richiudete con il coperchio e lasciate macerare a temperatura ambiente per una settimana. Trascorso il tempo di macerazione, riprendete il barattolo, filtrate il composto attraverso un colinoe raccogliete l’infuso in un contenitore. In un pentolino versate lo zucchero. Unite l’acqua e scaldate lo sciroppo a fuoco moderato per 15 minuti. Lasciate leggermente intiepidire lo sciroppo, poi aggiungetelo all’infuso. Mescolate il liquore ottenuto, travasatelo in un barattolo con chiusura ermeticae lasciatelo riposareper 3 settimane a temperatura ambiente. Trascorso questo tempo il vostro liquore di ciliegie sarà pronto: versatelo in una bottigliae conservatelo a temperatura ambiente, se non fa troppo caldo, oppure ponetelo in frigorifero.",
+    "ingredients": [
+        [
+            "Ciliegie",
+            "denocciolate 400 g"
+        ],
+        [
+            "Alcol puro",
+            "95° 400 g"
+        ],
+        [
+            "Acqua",
+            "520 g"
+        ],
+        [
+            "Zucchero",
+            "95 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Costo": "Medio"
+    }
+}

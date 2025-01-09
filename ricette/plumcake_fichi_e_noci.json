@@ -1,1 +1,58 @@
-{"title": "Plumcake fichi e noci", "category": "Dolci", "description": "Per preparare il plumcake fichi e noci, per prima cosa fate sciogliere il burro in un pentolino. Lavate i fichi ed eliminate le estremit\u00e0, poi tagliateli grossolanamente a pezzi senza rimuovere la buccia . Versate le uova in una ciotola capiente e montatele con le fruste elettriche aggiungendo gradualmente lo zucchero  fino ad ottenere un composto spumoso e omogeneo .Setacciate la farina  e il lievito  all'interno della ciotola, poi mescolate con una spatola e aggiungete anche il burro fuso .Unite i fichi  e le noci  e mescolate ancora per amalgamare il tutto .A questo punto imburrate e infarinate uno stampo da plumcake di x cm e versate all'interno il composto ottenuto . Livellate la superficie con il dorso di un cucchiaio leggermente inumidito con acqua e adagiate le fettine di fico che avrete precedentemente tagliato .Infine spolverizzate con lo zucchero semolato  e cuocete in forno statico preriscaldato a \u00b0 per circa  minuti. Una volta cotto, sfornate il vostro plumcake fichi e noci  e lasciatelo intiepidire prima di rimuoverlo dallo stampo e servirlo tagliato a fette !", "ingredients": [["Fichi", "250 g"], ["Gherigli di noci", "60 g"], ["Farina 00", "220 g"], ["Burro", "100 g"], ["Zucchero", "80 g"], ["Uova", "(circa 3) 165 g"], ["Lievito in polvere per dolci", "8 g"], ["Burro", "q.b."], ["Farina 00", "q.b."], ["Fichi", "1"], ["Zucchero", "1 cucchiaio"]], "contesto": "Il risultato finale sar\u00e0 un delizioso plumcake arricchito con fichi freschi e gherigli di noci, morbido e profumato.\n\nOccasioni: \u00c8 adatto per colazioni, merende o come dessert da servire a fine pasto.\n\nDieta: \u00c8 adatto a chi segue una dieta onnivora, ma \u00e8 possibile adattarlo anche a una dieta vegetariana o vegana sostituendo il burro con margarina vegetale e le uova con sostituti vegetali.\n\nIntolleranze: Le persone con intolleranza al lattosio possono sostituire il burro con olio di semi di girasole e utilizzare latte senza lattosio. Le persone con intolleranza al glutine possono utilizzare una farina senza glutine per preparare il plumcake. Le persone con intolleranza alle noci possono omettere i gherigli di noci dalla ricetta."}
+{
+    "title": "Plumcake fichi e noci",
+    "category": "Ricette",
+    "description": "Per preparare il plumcake fichi e noci, per prima cosa fate sciogliere il burro in un pentolino. Lavate i fichi ed eliminate le estremità, poi tagliateli grossolanamente a pezzi senza rimuovere la buccia. Versate le uova in una ciotola capiente e montatele con le fruste elettriche aggiungendo gradualmente lo zuccherofino ad ottenere un composto spumoso e omogeneo. Setacciate la farinae il lievitoall’interno della ciotola, poi mescolate con una spatola e aggiungete anche il burro fuso. Unite i fichie le nocie mescolate ancora per amalgamare il tutto. A questo punto imburrate e infarinate uno stampo da plumcake di 20x11 cm e versate all’interno il composto ottenuto. Livellate la superficie con il dorso di un cucchiaio leggermente inumidito con acqua e adagiate le fettine di fico che avrete precedentemente tagliato. Infine spolverizzate con lo zucchero semolatoe cuocete in forno statico preriscaldato a 180° per circa 60 minuti. Una volta cotto, sfornate il vostro plumcake fichi e nocie lasciatelo intiepidire prima di rimuoverlo dallo stampo e servirlo tagliato a fette!",
+    "ingredients": [
+        [
+            "Fichi",
+            "250 g"
+        ],
+        [
+            "Gherigli di noci",
+            "60 g"
+        ],
+        [
+            "Farina 00",
+            "220 g"
+        ],
+        [
+            "Burro",
+            "100 g"
+        ],
+        [
+            "Zucchero",
+            "80 g"
+        ],
+        [
+            "Uova",
+            "(circa 3) 165 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "8 g"
+        ],
+        [
+            "Burro",
+            "q.b."
+        ],
+        [
+            "Farina 00",
+            "q.b."
+        ],
+        [
+            "Fichi",
+            "1"
+        ],
+        [
+            "Zucchero",
+            "1 cucchiaio"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "60 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

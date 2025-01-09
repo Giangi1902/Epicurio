@@ -1,1 +1,46 @@
-{"title": "Polpette di formaggio", "category": "Antipasti", "description": "Per preparare le polpette di formaggio, eliminate la crosta dei formaggi  e grattugiateli con una grattugia a maglie fini  . Tenete da parte i formaggi e occupatevi del pane.\u00a0Togliete la crosta al pane  e tagliate a cubetti la mollica , poi frullate con un\u00a0mixer .Una volta ottenute delle briciole , mescolatele ai formaggi  e aromatizzate con il timo .Salate , pepate e infine versate le uova . Impastate con le mani fino a ottenere un composto piuttosto compatto .\u00a0Formate delle palline del peso di circa  g\u00a0ciascuna . Otterrete con queste dosi  polpette . Ora friggete nell'olio gi\u00e0 caldo a \u00b0 . Friggete poche polpette per volta\u00a0perch\u00e9 in cottura tendono ad attaccarsi, inoltre si abbasserebbe la temperatura.\u00a0Una volta dorate, basteranno pochi minuti, scolatele  e trasferitele su carta\u00a0assorbente . Servite le polpette di formaggio ben calde .", "ingredients": [["Caciocavallo", "280 g"], ["Pecorino toscano", "280 g"], ["Pane", "mollica 100 g"], ["Uova", "2"], ["Timo", "4 rametti"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Olio di semi di arachide", "q.b."]], "contesto": "Il risultato finale delle polpette di formaggio sar\u00e0 un antipasto dal sapore deciso e avvolgente, con una consistenza croccante fuori e morbida dentro. Le polpette saranno ricche di formaggio e aromatizzate con il timo, perfette da servire calde come antipasto o stuzzichino durante un aperitivo.\n\nLe polpette di formaggio sono adatte per occasioni informali tra amici o in famiglia, come aperitivo prima di un pasto principale o per un buffet.\n\nLe polpette di formaggio non sono adatte per diete ipocaloriche o a basso contenuto di grassi, data la presenza di formaggio e olio di semi di arachide. Tuttavia, possono essere consumate all'interno di una dieta equilibrata e moderata.\n\nLe persone con intolleranze al lattosio potrebbero avere difficolt\u00e0 a digerire le polpette di formaggio a causa della presenza di caciocavallo e pecorino. Le persone con intolleranze al glutine dovranno fare attenzione alla presenza della mollica di pane. Si consiglia quindi di fare delle versioni adatte ad queste intolleranze utilizzando formaggi senza lattosio e senza glutine."}
+{
+    "title": "Polpette di formaggio",
+    "category": "Ricette",
+    "description": "Per preparare le polpette di formaggio, eliminate la crosta dei formaggie grattugiateli con una grattugia a maglie fini. Tenete da parte i formaggi e occupatevi del pane. Togliete la crosta al panee tagliate a cubetti la mollica, poi frullate con un mixer. Una volta ottenute delle briciole, mescolatele ai formaggie aromatizzate con il timo. Salate, pepate e infine versate le uova. Impastate con le mani fino a ottenere un composto piuttosto compatto. Formate delle palline del peso di circa 20 g ciascuna. Otterrete con queste dosi 36 polpette. Ora friggete nell'olio già caldo a 170°. Friggete poche polpette per volta perché in cottura tendono ad attaccarsi, inoltre si abbasserebbe la temperatura. Una volta dorate, basteranno pochi minuti, scolatelee trasferitele su carta assorbente. Servite le polpette di formaggio ben calde.",
+    "ingredients": [
+        [
+            "Caciocavallo",
+            "280 g"
+        ],
+        [
+            "Pecorino toscano",
+            "280 g"
+        ],
+        [
+            "Pane",
+            "mollica 100 g"
+        ],
+        [
+            "Uova",
+            "2"
+        ],
+        [
+            "Timo",
+            "4 rametti"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Olio di semi di arachide",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "20 min",
+        "Dosi per": "36 pezzi",
+        "Costo": "Medio"
+    }
+}

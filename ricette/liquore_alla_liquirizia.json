@@ -1,1 +1,29 @@
-{"title": "Liquore alla liquirizia", "category": "Bevande", "description": "Per preparare il liquore alla liquirizia iniziate a realizzare lo sciroppo: versate lo zucchero di canna in un tegame , unite l'acqua  e portate ad ebollizione, a fiamma moderata .Una volta che lo zucchero si sar\u00e0 completamente sciolto, abbassate il fuoco al minimo e aggiungete la polvere di liquirizia , mescolate con una frusta  fino a farla sciogliere: ci vorranno pochi minuti. Quindi spegnete il fuoco e frullate il tutto con un mixer  in modo da amalgamare al meglio i sapori ed eliminare eventuali grumi.Filtrate il composto ottenuto direttamente in una ciotola  e lasciatelo raffreddare completamente. Quando sar\u00e0 freddo unite l'alcol  e incorporatelo mescolando con una frusta. Per ottenere un liquore lucido occorrer\u00e0 schiumare il composto .A questo punto , non vi rester\u00e0 che imbottigliare il vostro liquore alla liquirizia (-), magari per regalarlo ai vostri amici oltre che come riserva per la vostra dispensa!", "ingredients": [["Liquirizia in polvere", "100 g"], ["Zucchero di canna", "500 g"], ["Acqua", "500 g"], ["Alcol puro", "a 95\u00b0 500 g"]], "contesto": "Il liquore alla liquirizia avr\u00e0 un colore scuro intenso e un aroma deciso e dolce, con un sapore caratteristico della liquirizia. Sar\u00e0 un liquore dolce con una gradazione alcolica elevata, ideale da gustare come digestivo o da utilizzare come ingrediente in cocktail.\n\nQuesto liquore \u00e8 adatto per occasioni speciali come feste o cene eleganti, ma pu\u00f2 essere gustato anche in momenti pi\u00f9 informali. \u00c8 perfetto da servire come fine pasto o da regalare a parenti e amici.\n\nDal punto di vista delle diete, questo liquore non \u00e8 adatto a persone in regime dietetico ipocalorico o ipoglicemico, a causa dell'elevato contenuto di zuccheri. \u00c8 inoltre sconsigliato per chi segue un'alimentazione senza alcool.\n\nLe persone con intolleranze alla liquirizia dovrebbero evitare di consumare questo liquore, in quanto potrebbe causare reazioni allergiche o problemi digestivi. \u00c8 importante prestare attenzione anche alle intolleranze al glutine, poich\u00e9 la liquirizia potrebbe contenere tracce di glutine."}
+{
+    "title": "Liquore alla liquirizia",
+    "category": "Ricette",
+    "description": "Per preparare il liquore alla liquirizia iniziate a realizzare lo sciroppo: versate lo zucchero di canna in un tegame, unite l'acquae portate ad ebollizione, a fiamma moderata. Una volta che lo zucchero si sarà completamente sciolto, abbassate il fuoco al minimo e aggiungete la polvere di liquirizia, mescolate con una frustafino a farla sciogliere: ci vorranno pochi minuti. Quindi spegnete il fuoco e frullate il tutto con un mixerin modo da amalgamare al meglio i sapori ed eliminare eventuali grumi. Filtrate il composto ottenuto direttamente in una ciotolae lasciatelo raffreddare completamente. Quando sarà freddo unite l'alcole incorporatelo mescolando con una frusta. Per ottenere un liquore lucido occorrerà schiumare il composto. A questo punto, non vi resterà che imbottigliare il vostro liquore alla liquirizia (11-12), magari per regalarlo ai vostri amici oltre che come riserva per la vostra dispensa!",
+    "ingredients": [
+        [
+            "Liquirizia in polvere",
+            "100 g"
+        ],
+        [
+            "Zucchero di canna",
+            "500 g"
+        ],
+        [
+            "Acqua",
+            "500 g"
+        ],
+        [
+            "Alcol puro",
+            "a 95° 500 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "30 min",
+        "Cottura": "10 min",
+        "Costo": "Basso"
+    }
+}

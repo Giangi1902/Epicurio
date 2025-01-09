@@ -1,1 +1,46 @@
-{"title": "Pizzette di zucchine", "category": "Antipasti", "description": "Per preparare le pizzette di zucchine\u00a0tagliatele a fette di  cm  e man mano disponetele su un foglio di carta forno posto sulla leccarda .\u00a0Condite con un filo d'olio .Aggiustate di sale e pepe . Infornate in forno gi\u00e0 caldo ventilato per  minuti a \u00b0.\u00a0Intanto tagliate la mozzarella e lasciatela scolare . Condite la passata di pomodoro con il sale e olio .Mescolate  e quando le zucchine saranno precotte guarnitele lasciando il bordo scoperto .\u00a0Strappate la mozzarella con le mani e sistemate sopra alle zucchine .Infornate per altri  minuti  giusto il tempo di far sciogliere la mozzarella . Le vostre pizzette di zucchine sono pronte, guarnite con della menta spezzettata a mano prima di gustare .", "ingredients": [["Zucchine tonde", "500 g"], ["Fiordilatte", "125 g"], ["Passata di pomodoro", "120 g"], ["Origano", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Menta", "6 foglie"]], "contesto": "Il risultato finale della ricetta sar\u00e0 un antipasto leggero e gustoso, composto da pizzette di zucchine circolari e croccanti, arricchite con fiordilatte filante e passata di pomodoro, aromatizzate con origano e menta.\n\nOccasioni adatte: Le pizzette di zucchine sono perfette per un aperitivo in compagnia, un buffet o una cena informale con amici e familiari.\n\nDiete adatte: Questa ricetta \u00e8 adatta a una dieta vegetariana, ma pu\u00f2 essere facilmente adattata anche a una dieta vegana sostituendo il fiordilatte con un formaggio vegano. Inoltre, sono perfette per chi segue un regime alimentare a basso contenuto calorico, poich\u00e9 sono leggere e ricche di fibre.\n\nIntolleranze: Le pizzette di zucchine sono adatte alle persone intolleranti al lattosio, sostituendo il fiordilatte con un formaggio senza lattosio. Inoltre, sono adatte anche alle persone celiache se si utilizzano ingredienti privi di glutine."}
+{
+    "title": "Pizzette di zucchine",
+    "category": "Ricette",
+    "description": "Per preparare le pizzette di zucchine tagliatele a fette di 1 cme man mano disponetele su un foglio di carta forno posto sulla leccarda. Condite con un filo d'olio. Aggiustate di sale e pepe. Infornate in forno già caldo ventilato per 15 minuti a 200°. Intanto tagliate la mozzarella e lasciatela scolare. Condite la passata di pomodoro con il sale e olio. Mescolatee quando le zucchine saranno precotte guarnitele lasciando il bordo scoperto. Strappate la mozzarella con le mani e sistemate sopra alle zucchine. Infornate per altri 5 minutigiusto il tempo di far sciogliere la mozzarella. Le vostre pizzette di zucchine sono pronte, guarnite con della menta spezzettata a mano prima di gustare.",
+    "ingredients": [
+        [
+            "Zucchine tonde",
+            "500 g"
+        ],
+        [
+            "Fiordilatte",
+            "125 g"
+        ],
+        [
+            "Passata di pomodoro",
+            "120 g"
+        ],
+        [
+            "Origano",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Menta",
+            "6 foglie"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "20 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

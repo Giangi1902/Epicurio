@@ -1,1 +1,44 @@
-{"title": "Cocktail all'anguria", "category": "Bevande", "description": "Per preparare il cocktail all'anguria cominciate a tagliare il frutto. Scartate la buccia esterna  e tagliate a pezzi grossi la polpa . Versate nel boccale di un mixer\u00a0quindi frullate  e tenete in fresco: per ogni bicchiere vi occorreranno  g di liquido . Preparate i bicchieri, versando in ognuno lo\u00a0zucchero di canna ,\u00a0qualche foglia di menta, un po' di scorza grattugiata di lime  e mescolate . Riempite il bicchiere con il ghiaccio e versate il prosecco , la polpa di anguria frullata  e il succo di lime .Aggiungete anche la soda  e mescolate il tutto. Completate con qualche foglia di menta  e degli spiedini di anguria (vi spieghiamo come nel consiglio in fondo alla pagina). Ecco pronto il primo cocktail all'anguria, continuate cos\u00ec con tutti gli altri\u00a0!", "ingredients": [["Cocomero (anguria)", "(la polpa) 60 g"], ["Zucchero di canna", "10 g"], ["Prosecco", "60 ml"], ["Soda", "60 g"], ["Succo di lime", "60 g"], ["Scorza di lime", "q.b."], ["Ghiaccio", "q.b."], ["Menta", "q.b."]], "contesto": "Il risultato finale di questo cocktail all'anguria sar\u00e0 una bevanda fresca e dissetante, dal sapore dolce e fruttato con un piacevole tocco di acidit\u00e0 dato dal succo di lime. La presenza di prosecco conferir\u00e0 al cocktail un tocco di eleganza e bollicine, mentre la soda dar\u00e0 un'effervescenza leggera e piacevole. La presenza della menta render\u00e0 la bevanda ancora pi\u00f9 profumata e fresca, perfetta per una calda giornata estiva.\n\nQuesto cocktail all'anguria \u00e8 adatto per occasioni informali e estive come feste in giardino, barbecue con gli amici o semplicemente come bevanda da sorseggiare in relax. Pu\u00f2 essere un'ottima alternativa ai classici cocktail alcolici o analcolici, grazie alla freschezza e alla leggerezza della bevanda.\n\nQuesta ricetta pu\u00f2 essere facilmente adattata a una dieta vegetariana o vegana, in quanto non contiene ingredienti di origine animale. \u00c8 inoltre adatta per chi segue una dieta bilanciata e sana, grazie alla presenza della frutta fresca e alle poche quantit\u00e0 di zucchero utilizzate.\n\nLe persone con intolleranze alimentari possono consumare questo cocktail all'anguria facendo attenzione agli ingredienti utilizzati. In particolare, \u00e8 importante verificare che il Prosecco utilizzato sia adatto alle proprie esigenze alimentari, evitando eventuali reazioni allergiche. Per le persone intolleranti al glutine, \u00e8 importante assicurarsi che la soda utilizzata non contenga tracce di glutine. Sono inoltre necessarie precauzioni per le persone intolleranti al lattosio, che dovranno verificare che il Prosecco non contenga lattosio aggiunto."}
+{
+    "title": "Cocktail all'anguria",
+    "category": "Ricette",
+    "description": "Per preparare il cocktail all'anguria cominciate a tagliare il frutto. Scartate la buccia esternae tagliate a pezzi grossi la polpa. Versate nel boccale di un mixer quindi frullatee tenete in fresco: per ogni bicchiere vi occorreranno 60 g di liquido. Preparate i bicchieri, versando in ognuno lo zucchero di canna, qualche foglia di menta, un po' di scorza grattugiata di limee mescolate. Riempite il bicchiere con il ghiaccio e versate il prosecco, la polpa di anguria frullatae il succo di lime. Aggiungete anche la sodae mescolate il tutto. Completate con qualche foglia di mentae degli spiedini di anguria (vi spieghiamo come nel consiglio in fondo alla pagina). Ecco pronto il primo cocktail all'anguria, continuate così con tutti gli altri!",
+    "ingredients": [
+        [
+            "Cocomero (anguria)",
+            "(la polpa) 60 g"
+        ],
+        [
+            "Zucchero di canna",
+            "10 g"
+        ],
+        [
+            "Prosecco",
+            "60 ml"
+        ],
+        [
+            "Soda",
+            "60 g"
+        ],
+        [
+            "Succo di lime",
+            "60 g"
+        ],
+        [
+            "Scorza di lime",
+            "q.b."
+        ],
+        [
+            "Ghiaccio",
+            "q.b."
+        ],
+        [
+            "Menta",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "1 pezzi"
+    }
+}

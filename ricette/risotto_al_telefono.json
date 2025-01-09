@@ -1,1 +1,46 @@
-{"title": "Risotto al telefono", "category": "Primi piatti", "description": "Per preparare il risotto al telefono come prima cosa preparate il brodo vegetale e tenetelo in caldo. A questo punto tritate lo scalogno . Versate in un tegame un filo d'olio, unite lo scalogno  e lasciatelo appassire. Versate il riso nel tegame  e fatelo tostare per alcuni minuti.\u00a0Aggiungete poi la passata di pomodoro \u00a0e mescolate il tutto .\u00a0Iniziate la cottura del risotto aggiungendo un po' di brodo ,in modo da coprire il riso . Regolate di sale (considerando quanto avrete salato il brodo) \u00a0e portate a cottura aggiungendo altro brodo al bisogno e mescolando spesso. In totale ci vorranno circa  minuti, da quando si inizia a bagnare con il riso con il brodo. In ogni caso i tempi variano in base alla tipologia di riso scelta, assaggiate spesso per verificare la cottura. A questo punto tagliate la mozzarella a cubetti  e tenetela da parte.\u00a0Non appena il riso sar\u00e0 cotto , spegnete il fuoco e aggiungete la mozzarella, un filo d'olio  e le foglioline di maggiorana .\u00a0Mescolate il risotto  fino a che il formaggio non sar\u00e0 ben sciolto e risulter\u00e0 all'onda . Servite e gustatelo ancora caldo .\u00a0", "ingredients": [["Riso vialone nano", "320 g"], ["Scalogno", "1"], ["Passata di pomodoro", "200 g"], ["Mozzarella", "(per pizza) 120 g"], ["Maggiorana", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Brodo vegetale", "caldo 1,5 l"]], "contesto": "Il risultato finale \u00e8 un risotto cremoso e saporito, arricchito dal contrasto tra il sapore dolce della passata di pomodoro e la cremosit\u00e0 della mozzarella fusa.\n\nOccasioni: Questo risotto \u00e8 perfetto per una cena informale in famiglia o tra amici, ma pu\u00f2 essere anche servito come piatto principale in un pranzo leggero.\n\nDieta/Regime alimentare: Questa ricetta \u00e8 adatta a persone non vegane, ma pu\u00f2 essere facilmente adattata eliminando il formaggio mozzarella o sostituendolo con una versione vegana. \u00c8 inoltre adatto per le diete vegetariane.\n\nIntolleranze: Le persone con intolleranza al lattosio possono sostituire la mozzarella con un formaggio senza lattosio o senza lattosio. Le persone celiache possono utilizzare riso certificato senza glutine per preparare questo risotto."}
+{
+    "title": "Risotto al telefono",
+    "category": "Ricette",
+    "description": "Per preparare il risotto al telefono come prima cosa preparate ilbrodo vegetalee tenetelo in caldo. A questo punto tritate lo scalogno. Versate in un tegame un filo d'olio, unite lo scalognoe lasciatelo appassire. Versate il riso nel tegamee fatelo tostare per alcuni minuti. Aggiungete poi la passata di pomodoroe mescolate il tutto. Iniziate la cottura del risotto aggiungendo un po' di brodo, in modo da coprire il riso. Regolate di sale (considerando quanto avrete salato il brodo)e portate a cottura aggiungendo altro brodo al bisogno e mescolando spesso. In totale ci vorranno circa 18 minuti, da quando si inizia a bagnare con il riso con il brodo. In ogni caso i tempi variano in base alla tipologia di riso scelta, assaggiate spesso per verificare la cottura. A questo punto tagliate la mozzarella a cubettie tenetela da parte. Non appena il riso sarà cotto, spegnete il fuoco e aggiungete la mozzarella, un filo d'olioe le foglioline di maggiorana. Mescolate il risottofino a che il formaggio non sarà ben sciolto e risulterà all'onda. Servite e gustatelo ancora caldo.",
+    "ingredients": [
+        [
+            "Riso vialone nano",
+            "320 g"
+        ],
+        [
+            "Scalogno",
+            "1"
+        ],
+        [
+            "Passata di pomodoro",
+            "200 g"
+        ],
+        [
+            "Mozzarella",
+            "(per pizza) 120 g"
+        ],
+        [
+            "Maggiorana",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Brodo vegetale",
+            "caldo 1,5 l"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

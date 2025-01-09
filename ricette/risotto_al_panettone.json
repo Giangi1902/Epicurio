@@ -1,1 +1,50 @@
-{"title": "Risotto al panettone", "category": "Primi piatti", "description": "Per realizzare il risotto al panettone tagliate a piccoli cubetti il panettone  e la fontina  e teneteli da parte, sbucciate e tritate finemente la cipolla ,scaldate un filo di olio di oliva in un tegame, aggiungete la cipolla tritata  e fatela appassire a fuoco lento poi versate un mestolo di\u00a0brodo vegetale  e dopo un paio di minuti unite anche il riso  .Tostate il riso per qualche minuto  poi sfumate con lo spumante o con del vino bianco . Proseguite la cottura versando il brodo , un mestolo alla volta finch\u00e9 il riso non sar\u00e0 giunto a cottura: ci vorranno circa  minuti.A cottura ultimata spegnete il fuoco aromatizzate con le foglioline di timo fresco , mantecate con il burro a pezzetti  e per terminare condite con i cubetti di fontina e di panettone (-); amalgamate con un cucchiaio in modo che la fontina si sciolga insaporendo il risotto. Servite il risotto al panettone ben caldo !", "ingredients": [["Riso Carnaroli", "350 g"], ["Olio extravergine d'oliva", "40 g"], ["Cipolle bianche", "50 g"], ["Fontina", "100 g"], ["Brodo vegetale", "500 g"], ["Spumante", "120 ml"], ["Burro", "10 g"], ["Panettone", "100 g"], ["Timo", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un delizioso risotto al panettone cremoso e saporito, arricchito dalla dolcezza e la consistenza del panettone e dalla cremosit\u00e0 della fontina. Il timo aggiunge una nota aromatica che si sposa perfettamente con gli altri ingredienti, mentre lo spumante dona un tocco di freschezza.\n\nQuesto piatto \u00e8 perfetto per le festivit\u00e0 natalizie o per un pranzo invernale con amici e famiglia. \u00c8 un piatto ricco e sostanzioso che pu\u00f2 essere servito come primo piatto principale.\n\nQuesta ricetta non \u00e8 adatta per persone con intolleranza al glutine, data la presenza del panettone. Tuttavia, \u00e8 adatto a una dieta vegetariana, escludendo il burro o sostituendolo con un'alternativa vegetale. \u00c8 possibile adattare la ricetta per renderla adatta anche a una dieta vegana, sostituendo il formaggio fontina con una alternativa vegana."}
+{
+    "title": "Risotto al panettone",
+    "category": "Ricette",
+    "description": "Per realizzare il risotto al panettone tagliate a piccoli cubetti il panettonee la fontinae teneteli da parte, sbucciate e tritate finemente la cipolla, scaldate un filo di olio di oliva in un tegame, aggiungete la cipolla tritatae fatela appassire a fuoco lento poi versate un mestolo dibrodo vegetalee dopo un paio di minuti unite anche il riso. Tostate il riso per qualche minutopoi sfumate con lo spumante o con del vino bianco. Proseguite la cottura versando il brodo, un mestolo alla volta finché il riso non sarà giunto a cottura: ci vorranno circa 20 minuti. A cottura ultimata spegnete il fuoco aromatizzate con le foglioline di timo fresco, mantecate con il burro a pezzettie per terminare condite con i cubetti di fontina e di panettone (13-14); amalgamate con un cucchiaio in modo che la fontina si sciolga insaporendo il risotto. Servite il risotto al panettone ben caldo!",
+    "ingredients": [
+        [
+            "Riso Carnaroli",
+            "350 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "40 g"
+        ],
+        [
+            "Cipolle bianche",
+            "50 g"
+        ],
+        [
+            "Fontina",
+            "100 g"
+        ],
+        [
+            "Brodo vegetale",
+            "500 g"
+        ],
+        [
+            "Spumante",
+            "120 ml"
+        ],
+        [
+            "Burro",
+            "10 g"
+        ],
+        [
+            "Panettone",
+            "100 g"
+        ],
+        [
+            "Timo",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

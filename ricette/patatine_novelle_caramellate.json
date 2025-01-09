@@ -1,1 +1,46 @@
-{"title": "Patatine novelle caramellate", "category": "Contorni", "description": "Lavate le patatine novelle e scottatele in acqua bollente salata per circa - minuti , (dipende dalla dimensione delle patatine), poi scolatele  e sbucciatele . Le patate non dovranno cuocersi troppo altrimenti durante la cottura in padella si romperanno.In un tegame capiente, mettete a sciogliere il burro, aggiungete lo zucchero di canna  e mescolate, poi quando sar\u00e0 sciolto , versate nel tegame il succo di limone ; mescolate benee aggiungete le patatine novelle sbucciate  lasciatele cuocere a fuoco dolce per circa  - minuti, poi salate , aggiungete la paprika lasciate insaporire le patate per qualche minuto  e, verso fine cottura (quando il caramello sar\u00e0 ben denso), aggiungete il prezzemolo tritato  girate le patate per amalgamare tutti i sapori e spegnete il fuoco. Se volete potete servire le patatine novelle caramellate spolverizzandole con scorzette sottili di limone.", "ingredients": [["Patate novelle", "800 g"], ["Burro", "50 g"], ["Zucchero di canna", "3 cucchiai"], ["Succo di limone", "1 cucchiaio"], ["Prezzemolo", "da tritare 2 cucchiai"], ["Paprika", "q.b."], ["Sale fino", "q.b."], ["Scorza di limone", "1"]], "contesto": "Il risultato finale delle patatine novelle caramellate sar\u00e0 un contorno dal sapore unico e irresistibile. Le patate novelle si presenteranno morbide all'interno e croccanti all'esterno, con un delicato gusto dolce e leggermente speziato grazie alla caramellizzazione dello zucchero di canna e alla paprika.\n\nQuesto piatto \u00e8 adatto per arricchire un menu estivo, ideale da servire durante un barbecue o una cena informale in giardino. Le patatine novelle caramellate possono essere utilizzate come contorno sia per carne che per pesce, o come finger food da servire durante un buffet.\n\nQuesta ricetta \u00e8 adatta a una dieta vegetariana, ma pu\u00f2 essere facilmente adattata per renderla vegana sostituendo il burro con olio extravergine di oliva. Le patatine caramellate sono adatte anche per chi segue una dieta senza glutine, purch\u00e9 si utilizzi solo zucchero e paprika privi di glutine. Per le persone intolleranti al lattosio, si consiglia di sostituire il burro con una margarina senza lattosio."}
+{
+    "title": "Patatine novelle caramellate",
+    "category": "Ricette",
+    "description": "Lavate le patatine novelle e scottatele in acqua bollente salata per circa 5-10 minuti, (dipende dalla dimensione delle patatine), poi scolatelee sbucciatele. Le patate non dovranno cuocersi troppo altrimenti durante la cottura in padella si romperanno. In un tegame capiente, mettete a sciogliere il burro, aggiungete lo zucchero di cannae mescolate, poi quando sarà sciolto, versate nel tegame il succo di limone; mescolate bene e aggiungete le patatine novelle sbucciatelasciatele cuocere a fuoco dolce per circa 10 -15 minuti, poi salate, aggiungete la paprika lasciate insaporire le patate per qualche minutoe, verso fine cottura (quando il caramello sarà ben denso), aggiungete il prezzemolo tritatogirate le patate per amalgamare tutti i sapori e spegnete il fuoco. Se volete potete servire le patatine novelle caramellate spolverizzandole con scorzette sottili di limone.",
+    "ingredients": [
+        [
+            "Patate novelle",
+            "800 g"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Zucchero di canna",
+            "3 cucchiai"
+        ],
+        [
+            "Succo di limone",
+            "1 cucchiaio"
+        ],
+        [
+            "Prezzemolo",
+            "da tritare 2 cucchiai"
+        ],
+        [
+            "Paprika",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Scorza di limone",
+            "1"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "25 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

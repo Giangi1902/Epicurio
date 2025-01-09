@@ -1,1 +1,42 @@
-{"title": "Torta morbida alla Nutella", "category": "Dolci", "description": "Per preparare la torta morbida alla Nutella come prima cosa rompete le uova in una ciotola. Aggiungete lo zucchero  e lavoratele per  minuti con le fruste elettriche . Unite poi la Nutella e continuate a montare . Setacciate poi all'interno il lievito , la farina  e la fecola . Incorporatele al composto utilizzando le fruste elettriche (-)e continuando a mescolare unite il latte, poco alla volta (-), fino a che non avrete ottenuto un composto liscio ed omogeneo .\u00a0Imburrate uno stampo da  cm  e versate l'impasto all'interno (-).\u00a0Cuocete in forno statico preriscaldato a \u00b0 per circa  minuti. Fate sempre la prova dello stecchino prima di sfornare il dolce . Quindi lasciate raffreddare prima di sformare  e servire la vostra torta morbida alla Nutella !\u00a0", "ingredients": [["Nutella", "200 g"], ["Farina 00", "110 g"], ["Fecola di patate", "110 g"], ["Uova", "(circa 3) 165 g"], ["Zucchero", "100 g"], ["Latte intero", "100 g"], ["Lievito in polvere per dolci", "12 g"]], "contesto": "Il risultato finale della Torta morbida alla Nutella sar\u00e0 un dolce soffice e cremoso, con un intenso sapore di Nutella che si scioglie in bocca. La consistenza sar\u00e0 leggera e delicata, perfetta per accompagnare una tazza di t\u00e8 o caff\u00e8.\n\nQuesta torta \u00e8 adatta per occasioni speciali come compleanni, feste e cene con amici. \u00c8 anche perfetta da servire come dessert dopo un pranzo o una cena.\n\nLa Torta morbida alla Nutella \u00e8 adatta per persone che seguono una dieta equilibrata e moderata, ma \u00e8 da consumare con moderazione a causa del contenuto di zucchero e calorie. Non \u00e8 indicata per diete specifiche come la dieta chetogenica o la dieta senza zuccheri aggiunti.\n\nLe persone con intolleranze al lattosio possono mangiare questa torta sostituendo il latte intero con latte senza lattosio o con una bevanda vegetale. Le persone con intolleranza al glutine possono fare la stessa sostituzione della farina 00 con farina senza glutine."}
+{
+    "title": "Torta morbida alla Nutella",
+    "category": "Ricette",
+    "description": "Per preparare la torta morbida alla Nutella come prima cosa rompete le uova in una ciotola. Aggiungete lo zuccheroe lavoratele per 5 minuti con le fruste elettriche. Unite poi la Nutella e continuate a montare. Setacciate poi all'interno il lievito, la farina 00 e la fecola. Incorporatele al composto utilizzando le fruste elettriche (8-9) e continuando a mescolare unite il latte, poco alla volta (10-11), fino a che non avrete ottenuto un composto liscio ed omogeneo. Imburrate uno stampo da 18 cme versate l'impasto all'interno (14-15). Cuocete in forno statico preriscaldato a 180° per circa 45 minuti. Fate sempre la prova dello stecchino prima di sfornare il dolce. Quindi lasciate raffreddare prima di sformaree servire la vostra torta morbida alla Nutella!",
+    "ingredients": [
+        [
+            "Nutella",
+            "200 g"
+        ],
+        [
+            "Farina 00",
+            "110 g"
+        ],
+        [
+            "Fecola di patate",
+            "110 g"
+        ],
+        [
+            "Uova",
+            "(circa 3) 165 g"
+        ],
+        [
+            "Zucchero",
+            "100 g"
+        ],
+        [
+            "Latte intero",
+            "100 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "12 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "45 min",
+        "Dosi per": "8 persone",
+        "Costo": "Basso"
+    }
+}

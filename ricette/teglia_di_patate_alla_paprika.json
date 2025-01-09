@@ -1,1 +1,53 @@
-{"title": "Teglia di patate alla paprika", "category": "Contorni", "description": "Per preparare la teglia di patate alla paprika con Grana Padano DOP partite dal taglio delle\u00a0patate. Pelatele  e tagliatele dal lato corto con la mandolina , ottenendo delle fettine di circa  mm di spessore .\u00a0Mettetele in una ciotola e conditele con olio , sale, pepe , paprika dolce e affumicata .Aggiungete anche l'aglio in polvere , il Grana Padano DOP grattugiato  e l'origano .\u00a0Mescolate per insaporire . Stendetele su una teglia da forno in verticale , creando due file .\u00a0Spolverate con abbondante Grana Padano DOP  e\u00a0cuocete  in forno ventilato preriscaldato a  gradi per  minuti. Sfornatele quando saranno ben gratinate  e gustatele calde.", "ingredients": [["Patate", "500 g"], ["Paprika dolce", "5 g"], ["Paprika affumicata", "5 g"], ["Grana Padano DOP", "20 g"], ["Aglio in polvere", "2 g"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Origano", "q.b."], ["Grana Padano DOP", "q.b."]], "contesto": "Il risultato finale della teglia di patate alla paprika sar\u00e0 un contorno colorato, profumato e saporito. Le patate saranno morbide all'interno e croccanti all'esterno, grazie alla cottura in forno con le spezie e il formaggio.\n\nQuesta ricetta \u00e8 adatta per accompagnare piatti di carne o pesce, ma pu\u00f2 essere gustata anche da sola come piatto unico. \u00c8 perfetta per serate informali con amici o in famiglia.\n\nLe teglia di patate alla paprika sono adatte per persone che seguono una dieta vegetariana, in quanto non contengono ingredienti di origine animale. Possono essere consumate anche da persone che seguono una dieta senza glutine, purch\u00e9 si utilizzi del formaggio senza glutine al posto del Grana Padano. \n\nLe persone con intolleranze al lattosio o al formaggio dovrebbero evitare di consumare questa ricetta, a meno che non siano sostituiti gli ingredienti latticini con alternative senza lattosio o formaggio."}
+{
+    "title": "Teglia di patate alla paprika",
+    "category": "Ricette",
+    "description": "Per preparare la teglia di patate alla paprika con Grana Padano DOP partite dal taglio delle patate. Pelatelee tagliatele dal lato corto con la mandolina, ottenendo delle fettine di circa 2 mm di spessore. Mettetele in una ciotola e conditele con olio, sale, pepe, paprika dolce e affumicata. Aggiungete anche l'aglio in polvere, il Grana Padano DOP grattugiatoe l'origano. Mescolate per insaporire. Stendetele su una teglia da forno in verticale, creando due file. Spolverate con abbondante Grana Padano DOPe cuocetein forno ventilato preriscaldato a 220 gradi per 40 minuti. Sfornatele quando saranno ben gratinatee gustatele calde.",
+    "ingredients": [
+        [
+            "Patate",
+            "500 g"
+        ],
+        [
+            "Paprika dolce",
+            "5 g"
+        ],
+        [
+            "Paprika affumicata",
+            "5 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "20 g"
+        ],
+        [
+            "Aglio in polvere",
+            "2 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Origano",
+            "q.b."
+        ],
+        [
+            "Grana Padano DOP",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "40 min",
+        "Dosi per": "2 persone"
+    }
+}

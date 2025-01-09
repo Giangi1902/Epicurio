@@ -1,10 +1,11 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Layout, Text, CheckBox, Input } from "@ui-kitten/components";
-import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, PixelRatio, Dimensions } from "react-native";
+import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator } from "react-native";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
 import { normalize } from "../main/home";
+import BottomTogglePage from "../components/bottomToggle";
 
 function Checklist() {
     const [username, setUsername] = useState('');
@@ -20,7 +21,7 @@ function Checklist() {
     const [searchText, setSearchText] = useState('');
     const [filteredIngredients, setFilteredIngredients] = useState();
     const [usingAsyncStorage, setUsingAsyncStorage] = useState(false);
-
+    const [currentIndex, setCurrentIndex] = useState(-1);
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -106,10 +107,14 @@ function Checklist() {
         setIsLoading(true);
         if (username !== "") {
             try {
-                const response = await axios.get(`http://192.168.1.123:8080/getAllIngredients/${username}`);
-                setAllIngredients(response.data);
-                await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
-                setUsingAsyncStorage(false)
+                const index = 1 + currentIndex
+                const response = await axios.get(`http://192.168.1.123:8080/getAllIngredients/${index}`);
+                if (response.data.length > 0) {
+                    setCurrentIndex(currentIndex + 1);
+                    setAllIngredients(prevdata => [...prevdata, ...response.data]);
+                    await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
+                    setUsingAsyncStorage(false)
+                }
             } catch (error) {
                 console.log(error);
                 const storedAllIngredients = await AsyncStorage.getItem("allIngredients");
@@ -123,26 +128,42 @@ function Checklist() {
         }
     };
 
+    const loadMoreIngredients = async () => {
+        setIsLoading(true); // Imposta lo stato di caricamento
+        await handleAllIngredients(); // Chiamata alla funzione per ottenere nuovi ingredienti
+        setIsLoading(false); // Reset dello stato di caricamento
+    };
+
+    const handleScroll = (event) => {
+        const { layoutMeasurement, contentOffset, contentSize } = event.nativeEvent;
+
+        // Calcola se siamo alla fine dello scroll
+        const isEndReached = layoutMeasurement.height + contentOffset.y >= contentSize.height - 20;
+
+        if (isEndReached && !isLoading) {
+            loadMoreIngredients();
+        }
+    };
 
     const handlePrices = async (ingredients) => {
-        setIsLoading(true);
-        if (ingredients.length > 0) {
-            try {
-                const response = await axios.get(`http://192.168.1.123:8080/getCosts/${username}`);
-                setPrices(response.data);
-                await AsyncStorage.setItem("prices", JSON.stringify(response.data));
-                setUsingAsyncStorage(false)
-            } catch (error) {
-                console.log(error);
-                const storedPrices = await AsyncStorage.getItem("prices");
-                if (storedPrices !== null) {
-                    setPrices(JSON.parse(storedPrices));
-                    setUsingAsyncStorage(true)
-                }
-            } finally {
-                setIsLoading(false);
-            }
-        }
+        // setIsLoading(true);
+        // if (ingredients.length > 0) {
+        //     try {
+        //         const response = await axios.get(`http://192.168.1.123:8080/getCosts/${username}`);
+        //         setPrices(response.data);
+        //         await AsyncStorage.setItem("prices", JSON.stringify(response.data));
+        //         setUsingAsyncStorage(false)
+        //     } catch (error) {
+        //         console.log(error);
+        //         const storedPrices = await AsyncStorage.getItem("prices");
+        //         if (storedPrices !== null) {
+        //             setPrices(JSON.parse(storedPrices));
+        //             setUsingAsyncStorage(true)
+        //         }
+        //     } finally {
+        //         setIsLoading(false);
+        //     }
+        // }
     };
 
     const handleMainButtonAnimation = () => {
@@ -274,12 +295,10 @@ function Checklist() {
     const handleSearch = (text) => {
         setSearchText(text);
         const filtered = allIngredients.filter(ingredient =>
-            ingredient.name.toLowerCase().includes(text.toLowerCase())
+            ingredient.nome.toLowerCase().includes(text.toLowerCase())
         );
         setFilteredIngredients(filtered);
     };
-
-
 
     //TODO: aggiornare vercel post icone
     return (
@@ -325,23 +344,22 @@ function Checklist() {
                             </TouchableOpacity>
                         </View>
 
-                        <ScrollView style={{ marginBottom: -50 }} showsVerticalScrollIndicator={false}>
+                        <ScrollView style={{ marginBottom: -50 }} showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
                             {filteredIngredients.map((ingredient, index) => (
-                                <View key={`name_${ingredient.id}`} style={[styles.itemContainer, (index === (filteredIngredients.length - 1)) && styles.lastItemContainer]}>
+                                <View key={`${ingredient._id}`} style={[styles.itemContainer, (index === (filteredIngredients.length - 1)) && styles.lastItemContainer]}>
                                     <View style={styles.itemTextContainer}>
-                                        <Text style={[styles.itemText, { color: "black", fontFamily: 'MyriadPro-Regular', }]}>{ingredient.name}</Text>
-                                        <Text style={[styles.itemPrice, { color: "black", fontFamily: 'MyriadPro-Light', }]}>{ingredient.price}€</Text>
+                                        <Text style={[styles.itemText, { color: "black", fontFamily: 'Poppins_400Regular', fontSize: 16 }]}>{ingredient.nome}</Text>
                                     </View>
                                     <View style={styles.buttonContainerAddMinus}>
-                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(ingredient.id)}>
+                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(ingredient._id)}>
                                             <Image source={require('../../images/minus.png')} style={styles.icon} />
                                         </TouchableOpacity>
-                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(ingredient.id)}>
+                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(ingredient._id)}>
                                             <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                            {quantities.find(item => item.id === ingredient.id)?.quantity > 0 && (
+                                            {quantities.find(item => item.id === ingredient._id)?.quantity > 0 && (
                                                 <View style={styles.quantityNotification}>
                                                     <Text style={styles.quantityText}>
-                                                        {quantities.find(item => item.id === ingredient.id)?.quantity}
+                                                        {quantities.find(item => item.id === ingredient._id)?.quantity}
                                                     </Text>
                                                 </View>
                                             )}
@@ -349,6 +367,11 @@ function Checklist() {
                                     </View>
                                 </View>
                             ))}
+                            {isLoading && (
+                                <View style={{ alignItems: 'center', marginVertical: 10 }}>
+                                    <Text style={{ fontSize: 16, color: 'gray' }}>Caricamento...</Text>
+                                </View>
+                            )}
                         </ScrollView>
                     </View>
                 ) : (
@@ -409,7 +432,8 @@ function Checklist() {
                         </View>
                     </View>
                 )}
-                <Animated.View style={{ flexDirection: "row", justifyContent: isPageVisible ? "center" : "space-around" }}>
+                {/* <BottomTogglePage></BottomTogglePage> */}
+                 <View style={{ flexDirection: "row", justifyContent: isPageVisible ? "center" : "space-around" }}>
                     <View>
                         {isPageVisible === false ? (
                             <View>
@@ -419,14 +443,7 @@ function Checklist() {
                             </View>
                         ) : null}
                     </View>
-                    <Animated.View style={{ justifyContent: "center" }}>
-                        <TouchableOpacity onPress={handleMainButtonAnimation} style={[styles.mainButton, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]}>
-                            <Animated.View style={[styles.buttonContainer, { transform: [{ rotateZ: rotation.interpolate({ inputRange: [0, 1], outputRange: ['0deg', '180deg'] }) }] }]}>
-                                <Image source={isPageVisible ? require('../../images/times.png') : require('../../images/plus.png')} style={styles.iconBottom} />
-                            </Animated.View>
-                        </TouchableOpacity>
-                    </Animated.View>
-                </Animated.View>
+                </View> 
             </SafeAreaView>
         </Layout>
     );

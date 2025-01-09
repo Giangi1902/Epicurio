@@ -1,1 +1,46 @@
-{"title": "Pak choi in wok", "category": "Contorni", "description": "Per preparare il pakchoi in wok per prima cosa lavate il pak choi ed eliminate la base del gambo, poi tagliate via le foglie e tenetele da parte . Dividete il gambo in  parti per il lungo . Tritate finemente gli spicchi di aglio .Infine pelate la radice di zenzero  e tagliatela a bastoncini . Mettete il wok sul fuoco e quando sar\u00e0 ben caldo versate l'olio di semi .Aggiungete l'aglio , lo zenzero  e i gambi del pak choi .Unite anche le foglie  e saltate il tutto a fiamma alta per un paio di minuti. Salate , pepate e insaporite con la salsa di ostriche .Continuate a cuocere per circa  minuti mescolando con le bacchette , aggiungendo anche un altro goccio di olio di semi . Quando i gambi del pak choi saranno teneri spegnete il fuoco e impiattate. Servite il vostro pak choi in wok guarnito con i semi di sesamo !", "ingredients": [["Pak choi", "450 g"], ["Zenzero fresco", "50 g"], ["Aglio", "2 spicchi"], ["Salsa di ostriche", "1 cucchiaio"], ["Semi di sesamo", "q.b."], ["Olio di semi di arachide", "(o di girasole) 2 cucchiai"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 un contorno saporito e croccante, con i pak choi cotti al wok insieme allo zenzero e all'aglio, conditi con salsa di ostriche e semi di sesamo. La combinazione di sapori e consistenze render\u00e0 il piatto appetitoso e gustoso.\n\nQuesta ricetta \u00e8 adatta per una cena leggera, da accompagnare a piatti a base di riso o carne. \u00c8 perfetto per un pasto orientale o per chi desidera un contorno ricco di verdure e condimenti.\n\nLa ricetta \u00e8 adatta a vegetariani e vegani, in quanto non contiene prodotti di origine animale. \u00c8 inoltre indicata per chi segue una dieta bilanciata e varia, ricca di verdure e spezie.\n\nLe persone con intolleranze alimentari potrebbero dover fare attenzione alla salsa di ostriche, in quanto potrebbe contenere tracce di frutti di mare o allergeni. Chi soffre di allergie al sesamo dovrebbe evitare i semi di sesamo nella preparazione. In generale, \u00e8 consigliabile verificare l'etichetta dei prodotti utilizzati per garantire la compatibilit\u00e0 con le proprie intolleranze."}
+{
+    "title": "Pak choi in wok",
+    "category": "Ricette",
+    "description": "Per preparare il pakchoi in wok per prima cosa lavate il pak choi ed eliminate la base del gambo, poi tagliate via le foglie e tenetele da parte. Dividete il gambo in 4 parti per il lungo. Tritate finemente gli spicchi di aglio. Infine pelate la radice di zenzeroe tagliatela a bastoncini. Mettete il wok sul fuoco e quando sarà ben caldo versate l’olio di semi. Aggiungete l’aglio, lo zenzeroe i gambi del pak choi. Unite anche le fogliee saltate il tutto a fiamma alta per un paio di minuti. Salate, pepate e insaporite con la salsa di ostriche. Continuate a cuocere per circa 8 minuti mescolando con le bacchette, aggiungendo anche un altro goccio di olio di semi. Quando i gambi del pak choi saranno teneri spegnete il fuoco e impiattate. Servite il vostro pak choi in wok guarnito con i semi di sesamo!",
+    "ingredients": [
+        [
+            "Pak choi",
+            "450 g"
+        ],
+        [
+            "Zenzero fresco",
+            "50 g"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Salsa di ostriche",
+            "1 cucchiaio"
+        ],
+        [
+            "Semi di sesamo",
+            "q.b."
+        ],
+        [
+            "Olio di semi di arachide",
+            "(o di girasole) 2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

@@ -1,1 +1,38 @@
-{"title": "Torta latte e biscotti", "category": "Dolci", "description": "Per preparare la torta latte e biscotti potete scegliere dei biscotti secchi misti anche al cioccolato . Versate i biscotti secchi in un mixer abbastanza capiente  e frullate per ridurli in polvere .Unite il lievito  e il latte . Quindi frullate ancora per miscelare bene il tutto .Imburrate e infarinate uno stampo da plumcake di xxcm e versate il composto ottenuto  .\u00a0Cuocete la torta latte e biscotti in forno statico preriscaldato a \u00b0 per circa  min circa. Controllate la buona riuscita della cottura con uno stuzzicadenti prima di sfornare: se uscir\u00e0 pulito dopo aver infilzato il dolce, \u00e8 pronto! Sfornate e lasciate raffreddare a temperatura ambiente nello stampo .Quindi sformate il plumcake  e cospargete con zucchero a velo a piacere .\u00a0La vostra torta latte e biscotti \u00e8 pronta per essere servita !", "ingredients": [["Latte intero", "400 g"], ["Biscotti secchi", "400 g"], ["Lievito in polvere per dolci", "16 g"], ["Burro", "q.b."], ["Farina 00", "q.b."], ["Zucchero a velo", "q.b."]], "contesto": "Il risultato finale sar\u00e0 una torta morbida e golosa, dal sapore dolce e avvolgente grazie al latte e ai biscotti. La consistenza sar\u00e0 soffice e leggera grazie al lievito in polvere per dolci.\n\nQuesta torta \u00e8 adatta per occasioni come merende, feste di compleanno o da gustare semplicemente con una tazza di t\u00e8 o caff\u00e8.\n\nLa torta latte e biscotti \u00e8 adatta per chi segue una dieta normocalorica, in quanto \u00e8 un dolce ricco di zuccheri e grassi. Non \u00e8 adatta per persone diabetiche o in sovrappeso.\n\nLe persone con intolleranza al lattosio non possono mangiare questa torta, in quanto l'ingrediente principale \u00e8 il latte intero. Le persone con intolleranza al glutine possono consumare questa torta se si utilizza farina senza glutine al posto della farina 00."}
+{
+    "title": "Torta latte e biscotti",
+    "category": "Ricette",
+    "description": "Per preparare la torta latte e biscotti potete scegliere dei biscotti secchi misti anche al cioccolato. Versate i biscotti secchi in un mixer abbastanza capientee frullate per ridurli in polvere. Unite il lievitoe il latte. Quindi frullate ancora per miscelare bene il tutto. Imburrate e infarinate uno stampo da plumcake di 22x8x7cm e versate il composto ottenuto. Cuocete la torta latte e biscotti in forno statico preriscaldato a 180° per circa 45 min circa. Controllate la buona riuscita della cottura con uno stuzzicadenti prima di sfornare: se uscirà pulito dopo aver infilzato il dolce, è pronto! Sfornate e lasciate raffreddare a temperatura ambiente nello stampo. Quindi sformate il plumcakee cospargete con zucchero a velo a piacere. La vostra torta latte e biscotti è pronta per essere servita!",
+    "ingredients": [
+        [
+            "Latte intero",
+            "400 g"
+        ],
+        [
+            "Biscotti secchi",
+            "400 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "16 g"
+        ],
+        [
+            "Burro",
+            "q.b."
+        ],
+        [
+            "Farina 00",
+            "q.b."
+        ],
+        [
+            "Zucchero a velo",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "30 min",
+        "Dosi per": "6 persone",
+        "Costo": "Basso"
+    }
+}

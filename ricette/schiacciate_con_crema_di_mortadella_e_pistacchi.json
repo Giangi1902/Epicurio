@@ -1,1 +1,37 @@
-{"title": "Schiacciate con crema di mortadella e pistacchi", "category": "Antipasti", "description": "Per preparare le schiacciate con crema di mortadella e pistacchi iniziate dalla mousse: nella tazza di un mixer frullate la mortadella , aggiungete la panna e il formaggio spalmabile (-),quindi frullate il tutto fino ad ottenere un composto cremoso ed omogeneo . Trasferite ora la mousse in una sac-\u00e0-poche munita di bocchetta stellata: siete pronti per comporre i vostri finger food. Su ogni schiacchiata ponete un ciuffetto di crema , quindi guarnite con una spolverata di pistacchi tritati e del pepe nero macinato . Voil\u00e0: le schiacciate con crema di mortadella e pistacchi sono pronte, semplicissime da realizzare e di grande effetto!", "ingredients": [["La Bottega di Olivia&Marino", "schiacciate 12"], ["Mortadella", "a fette 100 g"], ["Formaggio fresco spalmabile", "70 g"], ["Panna fresca liquida", "60 g"], ["Granella di pistacchi", "salati 10 g"], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 delle schiacciate croccanti e saporite, arricchite da una cremosa crema di mortadella e pistacchi.\n\nOccasioni: Questo antipasto \u00e8 perfetto per un aperitivo tra amici, una cena informale o una festa in stile finger food.\n\nDieta: Questa ricetta pu\u00f2 essere adatta alla maggior parte delle diete, in quanto contiene ingredienti comuni e non particolarmente calorici. Tuttavia, va consumata con moderazione in caso di diete ipocaloriche.\n\nIntolleranze: Questa ricetta potrebbe non essere adatta a persone con intolleranze alla carne, ai latticini o ai pistacchi. Se si ha un'intolleranza specifica, si consiglia di scegliere alternative agli ingredienti principali o consultare un medico prima di consumare il piatto."}
+{
+    "title": "Schiacciate con crema di mortadella e pistacchi",
+    "category": "Ricette",
+    "description": "Per preparare le schiacciate con crema di mortadella e pistacchi iniziate dalla mousse: nella tazza di un mixer frullate la mortadella, aggiungete la panna e il formaggio spalmabile (2-3), quindi frullate il tutto fino ad ottenere un composto cremoso ed omogeneo. Trasferite ora la mousse in una sac-à-poche munita di bocchetta stellata: siete pronti per comporre i vostri finger food. Su ogni schiacchiata ponete un ciuffetto di crema, quindi guarnite con una spolverata di pistacchi tritati e del pepe nero macinato. Voilà: le schiacciate con crema di mortadella e pistacchi sono pronte, semplicissime da realizzare e di grande effetto!",
+    "ingredients": [
+        [
+            "La Bottega di Olivia&Marino",
+            "schiacciate 12"
+        ],
+        [
+            "Mortadella",
+            "a fette 100 g"
+        ],
+        [
+            "Formaggio fresco spalmabile",
+            "70 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "60 g"
+        ],
+        [
+            "Granella di pistacchi",
+            "salati 10 g"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

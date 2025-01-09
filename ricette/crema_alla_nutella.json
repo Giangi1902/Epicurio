@@ -1,1 +1,37 @@
-{"title": "Crema alla Nutella", "category": null, "description": "Per preparae la crema alla Nutella versate il latte in un pentolino , accendete il fuoco e portate a bollore. Nel frattempo, in un altro tegame, lavorate i tuorli con lo zucchero   fino ad ottenere un composto chiaro, fluido e omogeneo. Aggiungete un pizzico di sale , incorporate anche l'amido di mais setacciato , alternandolo\u00a0a un bicchiere circa di\u00a0latte caldo, prelevato da quello messo sul fuoco . Mescolate con la frusta per ottenere una consistenza liscia ed omogenea.Non appena il latte sfiorer\u00e0 il bollore, versatelo tutto all'interno del composto dei tuorli  e trasferite di nuovo sul fuoco, a fiamma moderata. Continuate a mescolare  fino a che la crema non si sar\u00e0 addensata .\u00a0Togliete il tegame dal fuoco e incorporate subito la Nutella , finch\u00e8 la crema \u00e8 ancora calda. Mescolate con vigore per farla assorbire completamente . Versate la crema pronta in una pirofila bassa e larga  e coprite con pellicola trasparente a contatto. Lasciate raffreddare la crema completamente, a temperatura ambiente, prima di utilizzarla: vi baster\u00e0 togliere la pellicola e rinvigorirla, mescolando con la frusta energicamente per qualche minuto. La crema alla Nutella \u00e8 pronta per essere utilizzata nelle vostre preparazioni.", "ingredients": [["Nutella", "200 g"], ["Latte intero", "500 g"], ["Zucchero", "100 g"], ["Tuorli", "(di circa 4 uova medie) 60 g"], ["Amido di mais (maizena)", "50 g"], ["Sale fino", "1 pizzico"]], "contesto": "Il risultato finale sar\u00e0 una crema densa e vellutata dal sapore intenso di Nutella, dolce e avvolgente.\n\nOccasioni: La crema alla Nutella \u00e8 perfetta per una merenda golosa, per arricchire dolci come torte e crostate, oppure da gustare da sola come dessert.\n\nDieta: La crema alla Nutella \u00e8 adatta a una dieta normocalorica e non \u00e8 consigliata per diete ipocaloriche o iperproteiche.\n\nIntolleranze: Le persone con intolleranze al lattosio e al glutine non possono consumare questa crema. Si consiglia di prestare attenzione agli ingredienti della Nutella utilizzata, in quanto potrebbero essere presenti tracce di frutta a guscio e arachidi."}
+{
+    "title": "Crema alla Nutella",
+    "category": "Ricette",
+    "description": "Per preparae la crema alla Nutella versate il latte in un pentolino, accendete il fuoco e portate a bollore. Nel frattempo, in un altro tegame, lavorate i tuorli con lo zuccherofino ad ottenere un composto chiaro, fluido e omogeneo. Aggiungete un pizzico di sale, incorporate anche l'amido di mais setacciato, alternandolo a un bicchiere circa di latte caldo, prelevato da quello messo sul fuoco. Mescolate con la frusta per ottenere una consistenza liscia ed omogenea. Non appena il latte sfiorerà il bollore, versatelo tutto all'interno del composto dei tuorlie trasferite di nuovo sul fuoco, a fiamma moderata. Continuate a mescolarefino a che la crema non si sarà addensata. Togliete il tegame dal fuoco e incorporate subito la Nutella, finchè la crema è ancora calda. Mescolate con vigore per farla assorbire completamente. Versate la crema pronta in una pirofila bassa e largae coprite con pellicola trasparente a contatto. Lasciate raffreddare la crema completamente, a temperatura ambiente, prima di utilizzarla: vi basterà togliere la pellicola e rinvigorirla, mescolando con la frusta energicamente per qualche minuto. La crema alla Nutella è pronta per essere utilizzata nelle vostre preparazioni.",
+    "ingredients": [
+        [
+            "Nutella",
+            "200 g"
+        ],
+        [
+            "Latte intero",
+            "500 g"
+        ],
+        [
+            "Zucchero",
+            "100 g"
+        ],
+        [
+            "Tuorli",
+            "(di circa 4 uova medie) 60 g"
+        ],
+        [
+            "Amido di mais (maizena)",
+            "50 g"
+        ],
+        [
+            "Sale fino",
+            "1 pizzico"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Costo": "Medio"
+    }
+}

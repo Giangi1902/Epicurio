@@ -1,1 +1,46 @@
-{"title": "Spaghetti alla Turiddu", "category": "Primi piatti", "description": "Per preparare gli spaghetti alla Turiddu dividete a met\u00e0 il peperoncino , lavate e riducete a cubetti i pomodori . In un tegame scaldate un giro d'olio con l'aglio e il peperoncino .\u00a0\u00a0Unite il pomodoro , il sale , il pepe e l'origano secco .\u00a0Coprite con il coperchio e cuocete per  minuti a fiamma bassa . A met\u00e0 cottura del sugo lessate gli spaghetti per il tempo indicato sulla confezione . Quando gli spaghetti saranno al dente, togliete l'aglio e il peperoncino dal sugo .\u00a0Unite le olive , un mestolo di acqua di cottura  e altro\u00a0origano secco a piacere .\u00a0Scolate qui gli spaghetti , profumate con l'origano fresco . Mantecate gli spaghetti con il Pecorino grattugiato a fuoco spento .\u00a0Mescolate per amalgamare , quindi servite subito gli spaghetti alla Turiddu con altro Pecorino a piacere  e foglioline di origano fresco .", "ingredients": [["Spaghetti", "160 g"], ["Pomodori ramati", "250 g"], ["Olive verdi", "65 g"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Origano", "secco 1 cucchiaino"], ["Pecorino", "siciliano q.b."], ["Origano", "fresco q.b."]], "contesto": "Il risultato finale di questa ricetta sono degli spaghetti conditi con pomodori ramati, olive verdi, pecorino siciliano, sale, pepe nero, origano secco e fresco. Il piatto sar\u00e0 molto saporito grazie alla combinazione di ingredienti mediterranei e il pecorino aggiunger\u00e0 un tocco di sapore ricco e salato.\n\nQuesto piatto \u00e8 adatto per un pranzo o una cena informale in famiglia o tra amici. \u00c8 ideale per la stagione estiva, grazie alla freschezza dei pomodori e dell'origano fresco. Pu\u00f2 essere servito come piatto principale o come contorno.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta mediterranea o che preferiscono piatti leggeri e gustosi. \u00c8 consigliato moderare le quantit\u00e0 di formaggio per chi segue un regime alimentare ipocalorico.\n\nLe persone con intolleranze alimentari al lattosio devono evitare l'aggiunta di pecorino siciliano o possono sostituirlo con un formaggio senza lattosio. Le persone con intolleranze alle olive possono ovviamente evitare di aggiungerle alla ricetta."}
+{
+    "title": "Spaghetti alla Turiddu",
+    "category": "Ricette",
+    "description": "Per preparare gli spaghetti alla Turiddu dividete a metà il peperoncino, lavate e riducete a cubetti i pomodori. In un tegame scaldate un giro d'olio con l'aglio e il peperoncino. Unite il pomodoro, il sale, il pepe e l'origano secco. Coprite con il coperchio e cuocete per 20 minuti a fiamma bassa. A metà cottura del sugo lessate gli spaghetti per il tempo indicato sulla confezione. Quando gli spaghetti saranno al dente, togliete l'aglio e il peperoncino dal sugo. Unite le olive, un mestolo di acqua di cotturae altro origano secco a piacere. Scolate qui gli spaghetti, profumate con l'origano fresco. Mantecate gli spaghetti con il Pecorino grattugiato a fuoco spento. Mescolate per amalgamare, quindi servite subito gli spaghetti alla Turiddu con altro Pecorino a piaceree foglioline di origano fresco.",
+    "ingredients": [
+        [
+            "Spaghetti",
+            "160 g"
+        ],
+        [
+            "Pomodori ramati",
+            "250 g"
+        ],
+        [
+            "Olive verdi",
+            "65 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Origano",
+            "secco 1 cucchiaino"
+        ],
+        [
+            "Pecorino",
+            "siciliano q.b."
+        ],
+        [
+            "Origano",
+            "fresco q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

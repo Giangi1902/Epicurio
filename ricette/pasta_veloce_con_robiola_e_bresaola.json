@@ -1,1 +1,42 @@
-{"title": "Pasta veloce con robiola e bresaola", "category": null, "description": "Per preparare la pasta veloce con robiola e bresaola mettete a bollire l'acqua per cuocere la pasta. Nel frattempo occupatevi del condimento, prelevando la scorza del limone con un pelapatate, facendo attenzione a prendere solo la parte gialla . Tritate le scorze finemente con un coltello . In una ciotola mescolate la robiola per ammorbidirla, quindi condite con sale , pepe\u00a0\u00a0e un filo d'olio di oliva . Per finire insaporite con una parte delle scorzette tritate , la restante tenetela da parte per guarnire i piatti al momento di servire. Tagliate a striscioline sottili le fette di\u00a0bresaola . Tenetene qualcuna da parte,le altre unitele alla crema di robiola , quindi mescolate per amalgamare . Cuocete la pasta per il tempo di cottura riportato sulla confezione .Allungate il condimento con un mestolo di acqua di cottura per renderlo pi\u00f9 fluido . Una volta cotta la pasta, scolatela direttamente nella ciotola con il condimento . Spezzettate con le mani la rucola e unite anche questa alla pasta . Mescolate per insaporire  e servite subito la pasta veloce con robiola e bresaola, guarnendo i piatti con scorzette di limone e striscioline di bresaole tenute da parte .", "ingredients": [["Pasta", "320 g"], ["Robiola", "200 g"], ["Bresaola", "(a fette) 150 g"], ["Rucola", "40 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Scorza di limone", "q.b."]], "contesto": "- Il risultato finale della ricetta sar\u00e0 una pasta cremosa e saporita, arricchita dalla robiola e dalla bresaola che si sposano perfettamente con il sapore fresco della rucola e della scorza di limone. Un piatto dal sapore raffinato e ricco, perfetto per un pranzo veloce ma gustoso.\n\n- Questa ricetta \u00e8 adatta per occasioni informali ma anche per una cena elegante, grazie alla sua presentazione curata e al suo gusto sofisticato.\n\n- Questa ricetta \u00e8 adatta a una dieta equilibrata e varia, poich\u00e9 contiene carboidrati, proteine e verdure. \u00c8 particolarmente indicata per chi \u00e8 attento alla linea e vuole un pasto leggero ma soddisfacente.\n\n- Le persone con intolleranze possono mangiare questa ricetta a patto di sostituire la pasta con una versione senza glutine per i celiaci e scegliere una robiola senza lattosio per chi \u00e8 intollerante al lattosio. La bresaola e la rucola sono ingredienti generalmente ben tollerati anche da chi ha problemi digestivi."}
+{
+    "title": "Pasta veloce con robiola e bresaola",
+    "category": "Ricette",
+    "description": "Per preparare la pasta veloce con robiola e bresaola mettete a bollire l'acqua per cuocere la pasta. Nel frattempo occupatevi del condimento, prelevando la scorza del limone con un pelapatate, facendo attenzione a prendere solo la parte gialla. Tritate le scorze finemente con un coltello. In una ciotola mescolate la robiola per ammorbidirla, quindi condite con sale, pepe e un filo d'olio di oliva. Per finire insaporite con una parte delle scorzette tritate, la restante tenetela da parte per guarnire i piatti al momento di servire. Tagliate a striscioline sottili le fette di bresaola. Tenetene qualcuna da parte, le altre unitele alla crema di robiola, quindi mescolate per amalgamare. Cuocete la pasta per il tempo di cottura riportato sulla confezione. Allungate il condimento con un mestolo di acqua di cottura per renderlo più fluido. Una volta cotta la pasta, scolatela direttamente nella ciotola con il condimento. Spezzettate con le mani la rucola e unite anche questa alla pasta. Mescolate per insaporiree servite subito la pasta veloce con robiola e bresaola, guarnendo i piatti con scorzette di limone e striscioline di bresaole tenute da parte.",
+    "ingredients": [
+        [
+            "Pasta",
+            "320 g"
+        ],
+        [
+            "Robiola",
+            "200 g"
+        ],
+        [
+            "Bresaola",
+            "(a fette) 150 g"
+        ],
+        [
+            "Rucola",
+            "40 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Scorza di limone",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

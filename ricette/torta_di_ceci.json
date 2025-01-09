@@ -1,1 +1,30 @@
-{"title": "Torta di ceci", "category": "Piatti Unici", "description": "Per preparare la torta di ceci come prima cosa versate in una ciotola la farina di ceci e il sale . Aggiungete / dell'acqua  e mescolate sino ad ottenere un composto privo di grumi .Unite l'acqua rimasta e mescolate ancora . Coprite con pellicola  e lasciate riposare da  a  ore. Il tempo di riposo varia in base alla stagione, pi\u00f9 fa caldo pi\u00f9 maturer\u00e0 prima .Versate il composto in una brocca , facendola straboccare leggermente in modo che la schiuma fuoriesca. Usate una spatola per eliminare eventuale schiuma rimasta .Ungete  teglie da  cm con  g di olio ciascuna . Versate i  g di olio rimasti nel composto  e mescolate bene .Versate met\u00e0 del composto in ciascuna teglia   e cuocete in forno statico preriscaldato a \u00b0 per circa\u00a0 minuti, sino a che non si sar\u00e0 creata una bella crosticina sopra .", "ingredients": [["Farina di ceci", "500 g"], ["Acqua", "1,5 l"], ["Sale fino", "30 g"], ["Olio di semi di arachide", "200 ml"]], "contesto": "Risultato finale: La torta di ceci sar\u00e0 un piatto unico con una consistenza morbida e leggermente croccante all'esterno. Avr\u00e0 un sapore leggermente salato, grazie al sale, e un aroma delicato di ceci.\n\nOccasioni adatte: Questa torta di ceci \u00e8 adatta per essere servita come piatto principale in un pranzo o cena informale. Pu\u00f2 anche essere un'ottima opzione per un picnic o un buffet, grazie alla sua portabilit\u00e0 e versatilit\u00e0.\n\nDiete o regime alimentare adatti: La torta di ceci \u00e8 adatta per una variet\u00e0 di diete e regimi alimentari. \u00c8 una ricetta vegetariana e senza glutine, quindi pu\u00f2 essere consumata da vegetariani e persone con intolleranza al glutine. Inoltre, essendo a base di ceci, \u00e8 una buona fonte di proteine vegetali, quindi \u00e8 adatta per una dieta proteica o vegana.\n\nIntolleranze: La torta di ceci pu\u00f2 essere consumata da persone con intolleranza al glutine, in quanto viene preparata con farina di ceci senza glutine. Tuttavia, \u00e8 importante fare attenzione alle possibili intolleranze o allergie individuali, come l'intolleranza ai legumi o l'allergia agli arachidi, poich\u00e9 la ricetta contiene olio di semi di arachide."}
+{
+    "title": "Torta di ceci",
+    "category": "Ricette",
+    "description": "Per preparare la torta di ceci come prima cosa versate in una ciotola la farina di ceci e il sale. Aggiungete 1/3 dell'acquae mescolate sino ad ottenere un composto privo di grumi. Unite l'acqua rimasta e mescolate ancora. Coprite con pellicolae lasciate riposare da 1 a 3 ore. Il tempo di riposo varia in base alla stagione, più fa caldo più maturerà prima. Versate il composto in una brocca, facendola straboccare leggermente in modo che la schiuma fuoriesca. Usate una spatola per eliminare eventuale schiuma rimasta. Ungete 2 teglie da 30 cm con 50 g di olio ciascuna. Versate i 100 g di olio rimasti nel compostoe mescolate bene. Versate metà del composto in ciascuna tegliae cuocete in forno statico preriscaldato a 250° per circa 20 minuti, sino a che non si sarà creata una bella crosticina sopra.",
+    "ingredients": [
+        [
+            "Farina di ceci",
+            "500 g"
+        ],
+        [
+            "Acqua",
+            "1,5 l"
+        ],
+        [
+            "Sale fino",
+            "30 g"
+        ],
+        [
+            "Olio di semi di arachide",
+            "200 ml"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Dosi per": "2 pezzi",
+        "Costo": "Basso"
+    }
+}

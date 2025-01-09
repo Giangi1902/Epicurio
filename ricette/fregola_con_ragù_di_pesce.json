@@ -1,1 +1,62 @@
-{"title": "Fregola con rag\u00f9 di pesce", "category": "Primi piatti", "description": "Per preparare la fregola con rag\u00f9 di pesce cominciate dalla pulizia dei pesci. Raschiate le cozze con un coltellino , strappate i filamenti tra i due gusci e sciacquate per bene . Poi pulite i gamberi staccando la testa dal dorso .Poi sgusciateli rimuovendo anche le zampette  e incidete il dorso cos\u00ec da poter togliere il filamento nero, l'intestino . Fate la stessa cosa con gli scampi .Passate adesso al salmone: eliminate la pelle  e tagliate a tocchetti . Procedete allo stesso modo con la rana pescatrice .In una casseruola capiente scaldate l'olio insieme all'aglio sbucciato e il peperoncino a rondelle. Non appena il fondo \u00e8 caldo versate le cozze , chiudete con il coperchio e lasciate dischiudere le bivalve per qualche minuto agitando di tanto in tanto la casseruola . Non appena saranno tutte aperte versate le cozze in un colino a maglie strette per filtrare il succo da eventuali residui di gusci e di sabbia e infine sgusciatele .Trasferite il liquido delle cozze in una casseruola , scaldatelo e aggiungete la fregola . Quindi cuocete come fosse un risotto bagnando, di tanto in tanto, con il brodo di pesce caldo .Dopo  minuti di cottura cominciate ad aggiungere i pesci, iniziate dalla rana pescatrice , tre minuti dopo unite il salmone  e soltanto quando la fregola \u00e8 quasi cotta aggiungete scampi e gamberi .A fine cottura aggiungete le cozze sgusciate , una grattata di limone  e il prezzemolo tritato; aggiustate anche di sale e pepe .Mescolate  e procedete con l'impiattamento, grattugiate ancora un pochino di scorza di limone  e la vostra fregola con rag\u00f9 di pesce \u00e8 pronta, buon appetito .", "ingredients": [["Fregola", "320 g"], ["Salmone", "380 g"], ["Cozze", "1 kg"], ["Scampi", "320 g"], ["Gamberi", "300 g"], ["Rana pescatrice", "220 g"], ["Brodo di pesce", "1 l"], ["Olio extravergine d'oliva", "10 g"], ["Scorza di limone", "1"], ["Aglio", "1 spicchio"], ["Peperoncino fresco", "1"], ["Prezzemolo", "ciuffo 1"]], "contesto": "Il risultato finale della ricetta sar\u00e0 un piatto di fregola condita con un ricco rag\u00f9 di pesce, arricchito dalla presenza di salmone, cozze, scampi, gamberi e rana pescatrice. Il piatto avr\u00e0 un profumo intenso di mare, reso ancora pi\u00f9 gustoso dal brodo di pesce utilizzato per la cottura.\n\nQuesto piatto \u00e8 adatto per occasioni speciali e cene eleganti, in quanto si tratta di un piatto raffinato e particolare.\n\nLa ricetta pu\u00f2 essere adatta a persone che seguono una dieta mediterranea o pescataria, in quanto si basa principalmente su ingredienti di origine marina.\n\nLe persone con intolleranze al glutine potrebbero dover fare attenzione alla fregola, in quanto si tratta di un tipo di pasta a base di semola di grano duro. Inoltre, le persone con allergie al pesce dovrebbero evitare questo piatto, dato che \u00e8 a base di vari tipi di pesce e crostacei."}
+{
+    "title": "Fregola con ragù di pesce",
+    "category": "Ricette",
+    "description": "Per preparare la fregola con ragù di pesce cominciate dalla pulizia dei pesci. Raschiate le cozze con un coltellino, strappate i filamenti tra i due gusci e sciacquate per bene. Poi pulite i gamberi staccando la testa dal dorso. Poi sgusciateli rimuovendo anche le zampettee incidete il dorso così da poter togliere il filamento nero, l'intestino. Fate la stessa cosa con gli scampi. Passate adesso al salmone: eliminate la pellee tagliate a tocchetti. Procedete allo stesso modo con la rana pescatrice. In una casseruola capiente scaldate l'olio insieme all'aglio sbucciato e il peperoncino a rondelle. Non appena il fondo è caldo versate le cozze, chiudete con il coperchio e lasciate dischiudere le bivalve per qualche minuto agitando di tanto in tanto la casseruola. Non appena saranno tutte aperte versate le cozze in un colino a maglie strette per filtrare il succo da eventuali residui di gusci e di sabbia e infine sgusciatele. Trasferite il liquido delle cozze in una casseruola, scaldatelo e aggiungete la fregola. Quindi cuocete come fosse un risotto bagnando, di tanto in tanto, con il brodo di pesce caldo. Dopo 5 minuti di cottura cominciate ad aggiungere i pesci, iniziate dalla rana pescatrice, tre minuti dopo unite il salmonee soltanto quando la fregola è quasi cotta aggiungete scampi e gamberi. A fine cottura aggiungete le cozze sgusciate, una grattata di limonee il prezzemolo tritato; aggiustate anche di sale e pepe. Mescolatee procedete con l'impiattamento, grattugiate ancora un pochino di scorza di limonee la vostra fregola con ragù di pesce è pronta, buon appetito.",
+    "ingredients": [
+        [
+            "Fregola",
+            "320 g"
+        ],
+        [
+            "Salmone",
+            "380 g"
+        ],
+        [
+            "Cozze",
+            "1 kg"
+        ],
+        [
+            "Scampi",
+            "320 g"
+        ],
+        [
+            "Gamberi",
+            "300 g"
+        ],
+        [
+            "Rana pescatrice",
+            "220 g"
+        ],
+        [
+            "Brodo di pesce",
+            "1 l"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "10 g"
+        ],
+        [
+            "Scorza di limone",
+            "1"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Peperoncino fresco",
+            "1"
+        ],
+        [
+            "Prezzemolo",
+            "ciuffo 1"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Elevato"
+    }
+}

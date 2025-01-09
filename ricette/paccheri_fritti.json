@@ -1,1 +1,86 @@
-{"title": "Paccheri fritti", "category": "Antipasti", "description": "Per preparare i paccheri fritti iniziate dalla preparazione del sugo. Tritate finemente lo scalogno e fatelo appassire insieme ad un filo d'olio sul fuoco moderato , aggiungete la passata di pomodoro , l'acqua , mescolate e lasciate cuocere a fuoco basso per circa  minuti.Nel frattempo dedicatevi alla preparazione del ripieno. Tritate finemente la mozzarella  e unitela alla ricotta in una ciotola  Aggiungete anche il sale,il pepe e il pecorino grattugiato .Tritate grossolanamente il basilico e aggiungetelo al composto di ricotta , unite il latte  e lavorate bene il composto con un cucchiaio per amalgamare tutti gli ingredienti .Cuocete i paccheri in abbondante acqua bollente, salata a piacere , e scolateli  minuti prima del termine della cottura . Una volta scolati, posizionateli su un canovaccio pulito e lasciateli asciugare .Nel frattempo trasferite il composto di ricotta in un sac-a-poch\u00e8 e utilizzatelo per riempire i vostri paccheri . Una volta terminato di riempire tutti i paccheri  dedicatevi alla preparazione della panatura. Sbattete le uova in una ciotolina .Aggiungete il sale, il latte e sbattere nuovamente . A questo punto ripassate ogni pacchero ripieno prima nell'uovo  e poi nel pangrattato .Ripetete l'operazione, facendo quindi una doppia panatura, ripassando ogni pacchero prima nell'uovo e poi nel pangrattato . Continuate in questo modo fino a terminare tutti i paccheri e riponeteli su un vassoio . Mettete sul fuoco a scaldare l'olio di semi, controllando che raggiunga la temperatura di \u00b0 con l'aiuto di un termometro da cucina. Quando l'olio avr\u00e0 raggiunto la giusta temperatura tuffate un paio di paccheri per volta .Lasciateli friggere per un paio di minuti finch\u00e9 non saranno ben dorati . Scolateli dall'olio in eccesso e posizionateli su della carta assorbente . Servite i vostri paccheri fritti ben caldi posizionaldoli in un bicchierino con un fondo di salsa di pomodoro e una foglia di basilico .", "ingredients": [["Paccheri", "12"], ["Mozzarella di bufala", "100 g"], ["Ricotta di bufala", "200 g"], ["Pecorino", "(da grattugiare) 50 g"], ["Latte", "40 g"], ["Basilico", "q.b."], ["Sale fino", "q.b."], ["Passata di pomodoro", "250 g"], ["Scalogno", "5 g"], ["Olio extravergine d'oliva", "10 g"], ["Acqua", "20 g"], ["Basilico", "q.b."], ["Sale fino", "q.b."], ["Uova", "2"], ["Latte intero", "1 cucchiaio"], ["Pangrattato", "100 g"], ["Sale fino", "q.b."], ["Olio di semi", "1 l"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un antipasto croccante e gustoso, composto da paccheri fritti ripieni di mozzarella di bufala e ricotta di bufala, conditi con pecorino e basilico, e serviti su un letto di passata di pomodoro aromatizzata allo scalogno.\n\nOccasioni: Questo piatto \u00e8 adatto per un aperitivo con gli amici, un buffet di finger food oppure come antipasto in un pranzo o cena speciale.\n\nDiete: Questo piatto \u00e8 adatto a una dieta bilanciata, ma va consumato con moderazione a causa della frittura. \u00c8 adatto a vegetariani.\n\nIntolleranze: Le persone con intolleranza al lattosio possono sostituire il latte e i formaggi di bufala con alternative senza lattosio. Le persone con intolleranza al glutine possono utilizzare paccheri senza glutine e pane grattugiato senza glutine. Le persone con intolleranza alle uova possono omettere l'uovo nella panatura sostituendolo con un po' di farina o fecola di patate."}
+{
+    "title": "Paccheri fritti",
+    "category": "Ricette",
+    "description": "Per preparare i paccheri fritti iniziate dalla preparazione del sugo. Tritate finemente lo scalogno e fatelo appassire insieme ad un filo d’olio sul fuoco moderato, aggiungete la passata di pomodoro, l’acqua, mescolate e lasciate cuocere a fuoco basso per circa 20 minuti. Nel frattempo dedicatevi alla preparazione del ripieno. Tritate finemente la mozzarellae unitela alla ricotta in una ciotolaAggiungete anche il sale,il pepe e il pecorino grattugiato. Tritate grossolanamente il basilico e aggiungetelo al composto di ricotta, unite il lattee lavorate bene il composto con un cucchiaio per amalgamare tutti gli ingredienti. Cuocete i paccheri in abbondante acqua bollente, salata a piacere, e scolateli 5 minuti prima del termine della cottura. Una volta scolati, posizionateli su un canovaccio pulito e lasciateli asciugare. Nel frattempo trasferite il composto di ricotta in un sac-a-pochè e utilizzatelo per riempire i vostri paccheri. Una volta terminato di riempire tutti i paccheridedicatevi alla preparazione della panatura. Sbattete le uova in una ciotolina. Aggiungete il sale, il latte e sbattere nuovamente. A questo punto ripassate ogni pacchero ripieno prima nell’uovoe poi nel pangrattato. Ripetete l’operazione, facendo quindi una doppia panatura, ripassando ogni pacchero prima nell’uovo e poi nel pangrattato. Continuate in questo modo fino a terminare tutti i paccheri e riponeteli su un vassoio. Mettete sul fuoco a scaldare l'olio di semi, controllando che raggiunga la temperatura di 170° con l'aiuto di un termometro da cucina. Quando l’olio avrà raggiunto la giusta temperatura tuffate un paio di paccheri per volta. Lasciateli friggere per un paio di minuti finché non saranno ben dorati. Scolateli dall’olio in eccesso e posizionateli su della carta assorbente. Servite i vostri paccheri fritti ben caldi posizionaldoli in un bicchierino con un fondo di salsa di pomodoro e una foglia di basilico.",
+    "ingredients": [
+        [
+            "Paccheri",
+            "12"
+        ],
+        [
+            "Mozzarella di bufala",
+            "100 g"
+        ],
+        [
+            "Ricotta di bufala",
+            "200 g"
+        ],
+        [
+            "Pecorino",
+            "(da grattugiare) 50 g"
+        ],
+        [
+            "Latte",
+            "40 g"
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Passata di pomodoro",
+            "250 g"
+        ],
+        [
+            "Scalogno",
+            "5 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "10 g"
+        ],
+        [
+            "Acqua",
+            "20 g"
+        ],
+        [
+            "Basilico",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Uova",
+            "2"
+        ],
+        [
+            "Latte intero",
+            "1 cucchiaio"
+        ],
+        [
+            "Pangrattato",
+            "100 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Olio di semi",
+            "1 l"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "20 min",
+        "Cottura": "30 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,58 @@
-{"title": "Risotto con pasta di salame e Bonarda", "category": "Primi piatti", "description": "Per preparare il risotto con pasta di salame e Bonarda, tagliate finemente una cipolla rossa e fatela soffriggere, in una pentola capiente, con un paio di cucchiai d'olio extravergine d'oliva . Aggiungete un mestolo di brodo di carne e fate stufare per circa  minuti, fino a quando risulter\u00e0 morbida . A questo punto unite la pasta di salame ,sgranatela con l'aiuto di un mestolo  e cuocetela fino a che non risulter\u00e0 dorata. Fate quindi tostare il riso per circa  minuti a fuoco vivo , sfumate con il Bonarda e subito dopo abbassate l'intensit\u00e0 della fiamma .Continuate a cuocere il riso, aggiungendo un mestolo di brodo alla volta , non prima che il precedente sia stato assorbito dal riso, mescolando continuamente. Terminata la cottura del riso, togliete la pentola dal fuoco e mantecate con burro, grana grattugiato e prezzemolo fresco . Ecco pronto il vostro risotto con pasta di salame e Bonarda : sentirete che buono!", "ingredients": [["Riso Carnaroli", "320 g"], ["Pasta di salame", "300 g"], ["Bonarda", "Oltrep\u00f2 pavese DOC 180 ml"], ["Cipolle rosse", "80 g"], ["Grana Padano DOP", "da grattugiare 40 g"], ["Burro", "20 g"], ["Brodo di carne", "1 l"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Prezzemolo", "da tritare (facoltativo) q.b."]], "contesto": "Il risultato finale sar\u00e0 un risotto cremoso e saporito, arricchito dal sapore intenso della pasta di salame e del vino Bonarda. Il formaggio grattugiato render\u00e0 il piatto ancora pi\u00f9 saporito e invitante, mentre il prezzemolo tritato (opzionale) conferir\u00e0 un tocco di freschezza.\n\nOccasioni adatte: Questo risotto \u00e8 perfetto da servire come primo piatto in una cena elegante o come piatto principale in una cena informale. Pu\u00f2 essere proposto in occasioni speciali o per sorprendere gli ospiti con un piatto ricco di gusto.\n\nDiete/Regimi alimentari: Questo risotto \u00e8 adatto a una dieta bilanciata, ricco di carboidrati complessi, proteine e grassi. Adatto a chi segue una dieta mediterranea. \n\nIntolleranze: Le persone con intolleranze al lattosio possono consumare questa ricetta evitando il formaggio grattugiato. Inoltre, le persone con intolleranze al glutine possono preparare questa ricetta utilizzando riso senza glutine al posto del riso Carnaroli. Le persone con intolleranze al salame possono sostituire la pasta di salame con altri ingredienti a loro gradimento."}
+{
+    "title": "Risotto con pasta di salame e Bonarda",
+    "category": "Ricette",
+    "description": "Per preparare il risotto con pasta di salame e Bonarda, tagliate finemente una cipolla rossa e fatela soffriggere, in una pentola capiente, con un paio di cucchiai d’olio extravergine d’oliva. Aggiungete un mestolo di brodo di carne e fate stufare per circa 5 minuti, fino a quando risulterà morbida. A questo punto unite la pasta di salame, sgranatela con l’aiuto di un mestoloe cuocetela fino a che non risulterà dorata. Fate quindi tostare il riso per circa 5 minuti a fuoco vivo, sfumate con il Bonarda e subito dopo abbassate l’intensità della fiamma. Continuate a cuocere il riso, aggiungendo un mestolo di brodo alla volta, non prima che il precedente sia stato assorbito dal riso, mescolando continuamente. Terminata la cottura del riso, togliete la pentola dal fuoco e mantecate con burro, grana grattugiato e prezzemolo fresco. Ecco pronto il vostro risotto con pasta di salame e Bonarda: sentirete che buono!",
+    "ingredients": [
+        [
+            "Riso Carnaroli",
+            "320 g"
+        ],
+        [
+            "Pasta di salame",
+            "300 g"
+        ],
+        [
+            "Bonarda",
+            "Oltrepò pavese DOC 180 ml"
+        ],
+        [
+            "Cipolle rosse",
+            "80 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "da grattugiare 40 g"
+        ],
+        [
+            "Burro",
+            "20 g"
+        ],
+        [
+            "Brodo di carne",
+            "1 l"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Prezzemolo",
+            "da tritare (facoltativo) q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

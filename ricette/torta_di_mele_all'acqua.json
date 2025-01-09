@@ -1,1 +1,46 @@
-{"title": "Torta di mele all'acqua", "category": "Dolci", "description": "Per preparare la torta di mele all'acqua per prima cosa setacciate la farina in una ciotola , poi aggiungete il lievito  e lo zucchero . Mescolate le polveri con una frusta a mano.Mentre continuate a mescolare versate a filo l'acqua , il succo d'arancia filtrato  e l'olio di semi .Infine unite la scorza grattugiata dell'arancia  e mescolate ancora. A questo punto lavate le mele e tagliatele prima a spicchi  e poi a cubetti irregolari, senza sbucciarle .Aggiungete anche le mele a cubetti al composto  e mescolate con una marisa per incorporarle in modo uniforme . Versate l'impasto ottenuto in uno stampo del diametro di  cm foderato con carta forno .Cuocete in forno statico preriscaldato a \u00b0 per circa  minuti, verificando la cottura con uno stuzzicadenti . Una volta cotta, sfornate e lasciate raffreddare  prima di servire la vostra torta di mele all'acqua !", "ingredients": [["Mele Gala", "430 g"], ["Farina 00", "300 g"], ["Zucchero", "200 g"], ["Acqua", "210 g"], ["Succo d'arancia", "120 g"], ["Scorza d'arancia", "da grattugiare 2"], ["Olio di semi di girasole", "90 g"], ["Lievito in polvere per dolci", "16 g"]], "contesto": "Il risultato finale della torta di mele all'acqua sar\u00e0 un dolce soffice e profumato, con pezzetti di mela dolci e succosi che si fondono perfettamente con il sapore fresco del succo d'arancia e della scorza d'arancia grattugiata. La consistenza sar\u00e0 leggermente umida e densa, perfetta sia da gustare da sola che accompagnata da una pallina di gelato alla vaniglia.\n\nQuesta torta \u00e8 adatta per occasioni informali come colazioni, merende o dessert da servire a fine pasto. Si presta bene anche come dolce da portare a una festa o a un picnic.\n\nLa torta di mele all'acqua \u00e8 adatta per una dieta vegetariana. Per una versione vegana, \u00e8 possibile sostituire lo zucchero con zucchero di canna non raffinato e assicurarsi che gli altri ingredienti siano vegan friendly.\n\nLe persone con intolleranze alimentari possono mangiare questa torta con alcune modifiche. Per i celiaci, \u00e8 possibile sostituire la farina 00 con farina senza glutine. Per le persone intolleranti al lattosio, \u00e8 consigliabile utilizzare olio di semi di girasole anzich\u00e9 burro. Per le persone intolleranti agli agrumi, \u00e8 possibile omettere il succo e la scorza d'arancia e sostituirli con ingredienti alternativi."}
+{
+    "title": "Torta di mele all'acqua",
+    "category": "Ricette",
+    "description": "Per preparare la torta di mele all’acqua per prima cosa setacciate la farina in una ciotola, poi aggiungete il lievitoe lo zucchero. Mescolate le polveri con una frusta a mano. Mentre continuate a mescolare versate a filo l’acqua, il succo d’arancia filtratoe l’olio di semi. Infine unite la scorza grattugiata dell’aranciae mescolate ancora. A questo punto lavate le mele e tagliatele prima a spicchie poi a cubetti irregolari, senza sbucciarle. Aggiungete anche le mele a cubetti al compostoe mescolate con una marisa per incorporarle in modo uniforme. Versate l’impasto ottenuto in uno stampo del diametro di 22 cm foderato con carta forno. Cuocete in forno statico preriscaldato a 180° per circa 60 minuti, verificando la cottura con uno stuzzicadenti. Una volta cotta, sfornate e lasciate raffreddareprima di servire la vostra torta di mele all’acqua!",
+    "ingredients": [
+        [
+            "Mele Gala",
+            "430 g"
+        ],
+        [
+            "Farina 00",
+            "300 g"
+        ],
+        [
+            "Zucchero",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "210 g"
+        ],
+        [
+            "Succo d'arancia",
+            "120 g"
+        ],
+        [
+            "Scorza d'arancia",
+            "da grattugiare 2"
+        ],
+        [
+            "Olio di semi di girasole",
+            "90 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "16 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "60 min",
+        "Dosi per": "8 persone",
+        "Costo": "Basso"
+    }
+}

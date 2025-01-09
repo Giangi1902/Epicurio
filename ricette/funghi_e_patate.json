@@ -1,1 +1,42 @@
-{"title": "Funghi e patate", "category": "Contorni", "description": "Per realizzare funghi e patate per prima cosa pelate le patate, tagliatele a tocchetti  e ponetele in una ciotol capiente. Prendete i funghi, tagliate via l'estremit\u00e0 del gambo  e poi passateli velocemente sotto un getto di acqua corrente fredda per eliminare i residui di terra .Versate i funghi nella stesa ciotola , condite con gli aghi di rosmarino, l'olio , il sale grosso  e il pepe nero macinato.Versate anche il vino bianco e mescolate per insaporire, poi trasferite tutto in una pirofila con il bordo alto e cuocete in forno statico a \u00b0 per  minuti. A cottura ultimata, sfornate, lasciate intiepidire e poi servite funghi e patate ben caldi", "ingredients": [["Patate", "700 g"], ["Funghi champignon", "350 g"], ["Vino bianco secco", "50 g"], ["Sale grosso", "1 cucchiaino"], ["Rosmarino", "q.b."], ["Pepe nero", "q.b."], ["Olio extravergine d'oliva", "q.b."]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un contorno saporito e ricco di sapori. Le patate e i funghi champignon si amalgamano perfettamente insieme, arricchiti dal vino bianco, il sale, il pepe nero, il rosmarino e l'olio extravergine d'oliva. Le patate saranno morbide e avvolte dai funghi, creando un piatto gustoso e irresistibile.\n\nQuesta ricetta \u00e8 adatta per occasioni informali come pranzi o cene tra amici o in famiglia. Pu\u00f2 essere un ottimo contorno da abbinare a carne o pesce grigliato.\n\nLe patate e i funghi sono ingredienti adatti a diverse diete, come la dieta mediterranea o vegetariana. Tuttavia, persone con intolleranze alimentari come quella al glutine dovrebbero assicurarsi che il vino bianco e gli altri ingredienti siano privi di glutine. Le persone con intolleranze ai latticini o al lattosio possono gustare questo piatto in quanto non contiene ingredienti di derivazione animale."}
+{
+    "title": "Funghi e patate",
+    "category": "Ricette",
+    "description": "Per realizzare funghi e patate per prima cosa pelate le patate, tagliatele a tocchettie ponetele in una ciotol capiente. Prendete i funghi, tagliate via l’estremità del gamboe poi passateli velocemente sotto un getto di acqua corrente fredda per eliminare i residui di terra. Versate i funghi nella stesa ciotola, condite con gli aghi di rosmarino, l’olio, il sale grossoe il pepe nero macinato. Versate anche il vino bianco e mescolate per insaporire, poi trasferite tutto in una pirofila con il bordo alto e cuocete in forno statico a 200° per 50 minuti. A cottura ultimata, sfornate, lasciate intiepidire e poi servite funghi e patate ben caldi",
+    "ingredients": [
+        [
+            "Patate",
+            "700 g"
+        ],
+        [
+            "Funghi champignon",
+            "350 g"
+        ],
+        [
+            "Vino bianco secco",
+            "50 g"
+        ],
+        [
+            "Sale grosso",
+            "1 cucchiaino"
+        ],
+        [
+            "Rosmarino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "50 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

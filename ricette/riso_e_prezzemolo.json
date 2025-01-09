@@ -1,1 +1,38 @@
-{"title": "Riso e prezzemolo", "category": "Primi piatti", "description": "Per preparare il riso e prezzemolo, iniziate con la preparazione di un buon brodo di carne  (clicca qui per vedere come procedere). Portatelo poi a bollore in un tegame capiente e aggiungete il riso . Fate cuocere il riso per circa  minuti, nel frattempo pulite due foglie di salvia e un mazzetto di prezzemolo e tritatele grossolanamente con un coltello. Trascorso il tempo necessario alla cottura del riso, aggiustate eventualmente di sale, spegnete il fuoco e aggiungete il burro  e il prezzemolo e la salvia tritati . Mescolate bene e servite il riso e prezzemolo ben caldo, spolverizzando ogni piatto con abbondante grana grattugiato.", "ingredients": [["Riso", "per minestre (tipo vialone nano), 250 gr"], ["Prezzemolo", "1 grande ciuffo"], ["Salvia", "2 foglie"], ["Burro", "30 g"], ["Sale", "q.b."], ["Brodo", "1,5 l"]], "contesto": "Il risultato finale sar\u00e0 un gustoso e profumato risotto al prezzemolo, arricchito dal sapore della salvia e del burro. La consistenza sar\u00e0 cremosa e il piatto risulter\u00e0 leggermente verdognolo grazie alla presenza del prezzemolo.\n\nQuesto piatto \u00e8 adatto per occasioni informali come pranzi o cene in famiglia, ma anche per occasioni pi\u00f9 formali come cene con gli amici. \n\nQuesta ricetta \u00e8 adatta a tutti i regimi alimentari, in quanto \u00e8 un piatto vegetariano e pu\u00f2 essere facilmente reso vegano sostituendo il burro con olio d'oliva o margarina vegetale. \n\nLe persone con intolleranze possono mangiarlo a meno che non siano intolleranti al glutine, in questo caso \u00e8 importante utilizzare riso certificato senza glutine. Altre tipologie di intolleranze come lattosio o allergie al prezzemolo dovrebbero essere prese in considerazione e adattate di conseguenza."}
+{
+    "title": "Riso e prezzemolo",
+    "category": "Ricette",
+    "description": "Per preparare il riso e prezzemolo, iniziate con la preparazione di un buon brodo di carne(clicca qui per vedere come procedere).Portatelo poi a bollore in un tegame capiente e aggiungete il riso. Fate cuocere il riso per circa 15 minuti, nel frattempo pulite due foglie di salvia e un mazzetto di prezzemolo e tritatele grossolanamente con un coltello. Trascorso il tempo necessario alla cottura del riso, aggiustate eventualmente di sale, spegnete il fuoco e aggiungete il burroe il prezzemolo e la salvia tritati. Mescolate bene e servite il riso e prezzemolo ben caldo, spolverizzando ogni piatto con abbondante grana grattugiato.",
+    "ingredients": [
+        [
+            "Riso",
+            "per minestre (tipo vialone nano), 250 gr"
+        ],
+        [
+            "Prezzemolo",
+            "1 grande ciuffo"
+        ],
+        [
+            "Salvia",
+            "2 foglie"
+        ],
+        [
+            "Burro",
+            "30 g"
+        ],
+        [
+            "Sale",
+            "q.b."
+        ],
+        [
+            "Brodo",
+            "1,5 l"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "5 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

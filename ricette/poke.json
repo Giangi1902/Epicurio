@@ -1,1 +1,41 @@
-{"title": "Poke", "category": "Antipasti", "description": "Per realizzare il poke assicuratevi di aver acquistato pesce fresco abbattuto. Si raccomanda, per precauzione, di congelarlo in freezer per  ore a - gradi e poi scongelarlo per impiegarlo nella ricetta. Iniziate quindi con la preparazione: eliminate il picciolo dal peperoncino fresco , estraete i semini interni , poi affettatelo cos\u00ec da ottenere delle piccole rondelle .Ora prelevate il gambo del cipollotto fresco e tritatelo al coltello . Passate quindi al tonno: tagliatelo a fette di  cm , poi riducete ciascuna fetta a listarelle e infine da questa ricavate dei cubetti da  cm .Trasferite il tonno a cubetti in una ciotola, insaporite con il gambo di cipollotto tritato, il peperoncino fresco , aggiungete anche i semi di sesamo bianchi , irrorate con l'olio di sesamo e la salsa di soia . Per finire insaporite con un cucchiaino di sale delle Hawaii . Mescolate con un cucchiaio per insaporire .Coprite la ciotola con pellicola per alimenti  e lasciate marinare in frigorifero per - ore. Trascorso il tempo della marinatura, riprendete il vostro poke  e servitelo subito porzionato !", "ingredients": [["Tonno", "550 g"], ["Gambi di cipollotto", "20 g"], ["Olio di sesamo", "20 g"], ["Semi di sesamo", "1 cucchiaino"], ["Peperoncino fresco", "20 g"], ["Sale delle Hawaii", "1 cucchiaino"], ["Salsa di soia", "20 g"]], "contesto": "Il risultato finale della ricetta sar\u00e0 un piatto fresco e gustoso, con il tonno crudo marinato in una salsa di soia con olio di sesamo e peperoncino fresco, servito con gamberi di cipollotto e semi di sesamo. Il poke \u00e8 caratterizzato da un mix di sapori asiatici e hawaiani.\n\nIl poke \u00e8 adatto come antipasto in una cena in compagnia o come piatto principale leggero in una giornata calda. \u00c8 perfetto per un brunch o per un aperitivo informale.\n\nIl poke \u00e8 adatto a una dieta pescetariana e pu\u00f2 essere facilmente adattato a una dieta senza glutine sostituendo la salsa di soia con una versione senza glutine. Le persone con intolleranza al lattosio dovranno verificare che la salsa di soia utilizzata non contenga tracce di lattosio. Le persone con intolleranze al tonno o ai semi di sesamo dovranno ovviamente evitare questo piatto."}
+{
+    "title": "Poke",
+    "category": "Ricette",
+    "description": "Per realizzare il poke assicuratevi di aver acquistato pesce fresco abbattuto. Si raccomanda, per precauzione, di congelarlo in freezer per 96 ore a -18 gradi e poi scongelarlo per impiegarlo nella ricetta. Iniziate quindi con la preparazione: eliminate il picciolo dal peperoncino fresco, estraete i semini interni, poi affettatelo così da ottenere delle piccole rondelle. Ora prelevate il gambo del cipollotto fresco e tritatelo al coltello. Passate quindi al tonno: tagliatelo a fette di 2 cm, poi riducete ciascuna fetta a listarelle e infine da questa ricavate dei cubetti da 2 cm. Trasferite il tonno a cubetti in una ciotola, insaporite con il gambo di cipollotto tritato, il peperoncino fresco, aggiungete anche i semi di sesamo bianchi, irrorate con l’olio di sesamo e la salsa di soia. Per finire insaporite con un cucchiaino di sale delle Hawaii. Mescolate con un cucchiaio per insaporire. Coprite la ciotola con pellicola per alimentie lasciate marinare in frigorifero per 1-2 ore. Trascorso il tempo della marinatura, riprendete il vostro pokee servitelo subito porzionato!",
+    "ingredients": [
+        [
+            "Tonno",
+            "550 g"
+        ],
+        [
+            "Gambi di cipollotto",
+            "20 g"
+        ],
+        [
+            "Olio di sesamo",
+            "20 g"
+        ],
+        [
+            "Semi di sesamo",
+            "1 cucchiaino"
+        ],
+        [
+            "Peperoncino fresco",
+            "20 g"
+        ],
+        [
+            "Sale delle Hawaii",
+            "1 cucchiaino"
+        ],
+        [
+            "Salsa di soia",
+            "20 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Elevato"
+    }
+}

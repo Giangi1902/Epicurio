@@ -1,1 +1,46 @@
-{"title": "Pesto di peperoni", "category": "Salse e Sughi", "description": "Per preparare il pesto di peperoni, iniziate dalla cottura dei peperoni al forno per rendere pi\u00f9 facile l'eliminazione della pelle: ponete i peperoni rossi interi precedentemente lavati su una leccarda foderata con carta da forno; cuoceteli in forno statico prriscaldato a \u00b0 per - minuti. Una volta cotti , chiudeteli in un sachetto per alimenti  per almeno  minuti, poi spellateli privateli del torsolo e dei semini interni e tagliate le falde a met\u00e0 . Ponete i peperoni nel mixer , unite anche i pinoli le foglie di basilico pulite precedentemente con un panno ; aggiungete mezzo spicchio di aglio sbucciato , le mandorle pelate e il parmigiano grattugiato . Versate anche l'olio , un pizzico di sale quindi azionate il mixer  e frullate tutto fino ad ottenere un composto omogeneo . Il vostro pesto di peperoni \u00e8 pronto per essere utilizzato  come condimento per primi piatti o da accompagnare a del pane bruscato.", "ingredients": [["Peperoni rossi", "600 g"], ["Pinoli", "50 g"], ["Mandorle", "50 g"], ["Olio extravergine d'oliva", "60 ml"], ["Basilico", "20 g"], ["Parmigiano Reggiano DOP", "(da grattugiare) 100 g"], ["Aglio", "\u00bd spicchio"], ["Sale fino", "q.b."]], "contesto": "Risultato finale: Il pesto di peperoni \u00e8 una salsa dai sapori intensi e aromatici, con una consistenza soffice e cremosa. Ha un colore rosso brillante grazie al peperone rosso utilizzato e un sapore leggermente dolce e affumicato, arricchito dalla presenza dei pinoli e delle mandorle. Il basilico e il Parmigiano Reggiano completano il profilo gustativo, regalando freschezza e una nota salata.\n\nOccasioni: Il pesto di peperoni \u00e8 perfetto per accompagnare pasta, riso, bruschette, panini e anche carni grigliate. \u00c8 un condimento versatile che si adatta bene sia a piatti caldi che freddi. Pu\u00f2 essere servito come antipasto o come condimento principale per un primo piatto.\n\nDiete e regime alimentare: Il pesto di peperoni \u00e8 adatto a una dieta vegetariana, in quanto non contiene carne o prodotti di origine animale. Tuttavia, a causa della presenza di Parmigiano Reggiano, non \u00e8 adatto a una dieta vegana. \u00c8 inoltre adatto a una dieta senza glutine, se gli ingredienti utilizzati sono privi di glutine.\n\nIntolleranze: Le persone con intolleranza al lattosio o allergia al formaggio dovrebbero evitare di consumare il pesto di peperoni, in quanto contiene Parmigiano Reggiano grattugiato. Inoltre, le persone con allergie alle mandorle o ai pinoli dovrebbero fare attenzione o evitare il consumo di questo pesto."}
+{
+    "title": "Pesto di peperoni",
+    "category": "Ricette",
+    "description": "Per preparare il pesto di peperoni, iniziate dalla cottura dei peperoni al forno per rendere più facile l'eliminazione della pelle: ponete i peperoni rossi interi precedentemente lavati su una leccarda foderata con carta da forno; cuoceteli in forno statico prriscaldato a 220° per 20-25 minuti. Una volta cotti, chiudeteli in un sachetto per alimentiper almeno 15 minuti, poi spellateli privateli del torsolo e dei semini interni e tagliate le falde a metà. Ponete i peperoni nel mixer, unite anche i pinoli le foglie di basilico pulite precedentemente con un panno; aggiungete mezzo spicchio di aglio sbucciato, le mandorle pelate e il parmigiano grattugiato. Versate anche l'olio, un pizzico di sale quindi azionate il mixere frullate tutto fino ad ottenere un composto omogeneo. Il vostro pesto di peperoni è pronto per essere utilizzatocome condimento per primi piatti o da accompagnare a del pane bruscato.",
+    "ingredients": [
+        [
+            "Peperoni rossi",
+            "600 g"
+        ],
+        [
+            "Pinoli",
+            "50 g"
+        ],
+        [
+            "Mandorle",
+            "50 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "60 ml"
+        ],
+        [
+            "Basilico",
+            "20 g"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "(da grattugiare) 100 g"
+        ],
+        [
+            "Aglio",
+            "½ spicchio"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

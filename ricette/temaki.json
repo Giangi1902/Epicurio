@@ -1,1 +1,45 @@
-{"title": "Temaki", "category": null, "description": "Per preparare il temaki, dovrete avere in\u00a0 caldo il riso per sushi nell'apposito Ohitsu o in un contenitore di legno o acciaio, dovrete utilizzarlo alla temperatura di circa \u00b0. Preparate anche una ciotolina con dell'acqua e poco aceto di riso. Con un coltello ben affilato, ricavate da un filetto di tonno un rettangolo di  cm di lunghezza e circa , cm di spessore . Prendete la mezza foglia di alga nori e posizionarla su mano sinistra con superficie pi\u00f9 liscia e lucida a contatto con il palmo. La mano dove poggia dovr\u00e0 essere completamente asciutta . Bagnate la mano destra nell'acqua acidulata e tamponatela velocemente su un asciugamanino .Con la mano destra prelevate circa  g di riso per sushi  e posizionatelo nella parte sinistra dell'alga , schiacciate delicatamente con le dita per formare un triangolo .Aggiungete al centro del riso una punta di wasabi fresco , disponete la foglia di shiso  e poi il rettangolino di tonno fresco, adagiato sulla foglia di shiso, nell'angolo sinistro in alto del foglio di alga , in modo che una volta arrotolato fuoriesca una parte.Iniziate ad arrotolare il foglio di alga partendo dall'angolo sinistro basso , dalla parte a contatto con il palmo sotto il pollice. Arrotolate fino quasi a chiudere e per sigillare la parte finale del cono, potete utilizzare pochissimi chicchi di riso del ripieno . Il vostro temaki \u00e8 pronto !", "ingredients": [["Riso nishiki", "(per sushi, cotto) 50 g"], ["Filetti di tonno", "(abbattuto, pulito e rifilato) 40 g"], ["Alga nori", "(da 19x21) 1 foglio"], ["Shiso", "1 foglia"], ["Acqua", "q.b."], ["Aceto di riso", "q.b."], ["Wasabi", "q.b."], ["Salsa di soia", "q.b."]], "contesto": "Il risultato finale della ricetta dei Temaki sar\u00e0 un cono di alga nori ripieno di riso sushi e filetti di tonno, aromatizzato con shiso e condito con aceto di riso e wasabi. Il tutto sar\u00e0 accompagnato da salsa di soia per un tocco di sapore in pi\u00f9.\n\nQuesto piatto \u00e8 adatto per occasioni informali come aperitivi, cene tra amici o per una cena giapponese in famiglia.\n\nI Temaki sono adatti per diete a base di pesce e riso, come la dieta giapponese tradizionale. Possono essere consumati anche in regimi alimentari senza glutine, purch\u00e9 si utilizzi salsa di soia senza glutine e si presti attenzione agli ingredienti utilizzati.\n\nLe persone con intolleranze al pesce dovranno ovviamente evitare i Temaki, mentre chi \u00e8 intollerante al glutine pu\u00f2 consumarli utilizzando ingredienti privi di glutine. Si consiglia comunque di verificare l'eventuale presenza di allergeni nei condimenti e negli ingredienti utilizzati."}
+{
+    "title": "Temaki",
+    "category": "Ricette",
+    "description": "Per preparare il temaki, dovrete avere in  caldo ilriso per sushinell'apposito Ohitsu o in un contenitore di legno o acciaio, dovrete utilizzarlo alla temperatura di circa 36°. Preparate anche una ciotolina con dell'acqua e poco aceto di riso. Con un coltello ben affilato, ricavate da un filetto di tonno un rettangolo di 9 cm di lunghezza e circa 1,5 cm di spessore. Prendete la mezza foglia di alga nori e posizionarla su mano sinistra con superficie più liscia e lucida a contatto con il palmo. La mano dove poggia dovrà essere completamente asciutta. Bagnate la mano destra nell'acqua acidulata e tamponatela velocemente su un asciugamanino. Con la mano destra prelevate circa 50 g di riso per sushie posizionatelo nella parte sinistra dell'alga, schiacciate delicatamente con le dita per formare un triangolo. Aggiungete al centro del riso una punta di wasabi fresco, disponete la foglia di shisoe poi il rettangolino di tonno fresco, adagiato sulla foglia di shiso, nell'angolo sinistro in alto del foglio di alga, in modo che una volta arrotolato fuoriesca una parte. Iniziate ad arrotolare il foglio di alga partendo dall'angolo sinistro basso, dalla parte a contatto con il palmo sotto il pollice. Arrotolate fino quasi a chiudere e per sigillare la parte finale del cono, potete utilizzare pochissimi chicchi di riso del ripieno. Il vostro temaki è pronto!",
+    "ingredients": [
+        [
+            "Riso nishiki",
+            "(per sushi, cotto) 50 g"
+        ],
+        [
+            "Filetti di tonno",
+            "(abbattuto, pulito e rifilato) 40 g"
+        ],
+        [
+            "Alga nori",
+            "(da 19x21) 1 foglio"
+        ],
+        [
+            "Shiso",
+            "1 foglia"
+        ],
+        [
+            "Acqua",
+            "q.b."
+        ],
+        [
+            "Aceto di riso",
+            "q.b."
+        ],
+        [
+            "Wasabi",
+            "q.b."
+        ],
+        [
+            "Salsa di soia",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Difficile",
+        "Preparazione": "10 min",
+        "Dosi per": "1 pezzi",
+        "Costo": "Elevato"
+    }
+}

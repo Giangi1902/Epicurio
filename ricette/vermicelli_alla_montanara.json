@@ -1,1 +1,54 @@
-{"title": "Vermicelli alla montanara", "category": "Primi piatti", "description": "Per preparare i vermicelli alla montanara, per prima cosa mettete sul fuoco una pentola con acqua abbondante da salare a bollore per cuocere la pasta. Lavate e dividete a met\u00e0 i pomodorini , poi mondate la cipolla e tritatela finemente . Private la salsiccia del budello e sminuzzatela grossolanamente. Scaldate una padella con un giro d'olio .Soffriggete la cipolla per - minuti, poi aggiungete la salsiccia . Quando la salsiccia sar\u00e0 ben rosolata, sfumate con il vino bianco  e lasciate evaporare completamente la parte alcolica. Unite i pomodorini  e regolate di sale e di pepe.Sfogliate il finocchietto direttamente nella padella  e cuocete a fuoco vivace per pochi minuti. Nel frattempo cuocete i vermicelli nell'acqua che sar\u00e0 arrivata a bollore . Scolate la pasta al dente e trasferitela nella padella con il condimento .Amalgamate bene il tutto aggiungendo un mestolo dell'acqua di cottura , poi togliete la padella dal fuoco e mantecate con il Pecorino grattugiato . Servite i vostri vermicelli alla montanara con pepe nero macinato a piacere !", "ingredients": [["Vermicelli", "400 g"], ["Salsiccia", "300 g"], ["Pomodorini ciliegino", "200 g"], ["Cipolle dorate", "120 g"], ["Pecorino romano", "da grattugiare 30 g"], ["Finocchietto selvatico", "1 rametto"], ["Vino bianco secco", "100 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto di vermicelli conditi con salsiccia, pomodorini ciliegino, cipolle dorate, pecorino romano, finocchietto selvatico e vino bianco. Si tratta di un piatto gustoso e ricco di sapori, perfetto per una cena invernale o per un pranzo sostanzioso.\n\n\u00c8 adatto per occasioni informali in famiglia o con amici, ma anche per cene pi\u00f9 eleganti. \n\nQuesta ricetta \u00e8 adatta a una dieta bilanciata, ma \u00e8 consigliabile moderarne il consumo se si segue una dieta ipocalorica. \u00c8 consigliabile per chi pratica attivit\u00e0 fisica regolare o per chi necessita di integrazione di proteine.\n\nLe persone con intolleranze al lattosio possono consumare questa ricetta riducendo la quantit\u00e0 di pecorino romano o sostituendolo con un formaggio senza lattosio. Le persone celiache possono preparare questa ricetta utilizzando vermicelli senza glutine."}
+{
+    "title": "Vermicelli alla montanara",
+    "category": "Ricette",
+    "description": "Per preparare i vermicelli alla montanara, per prima cosa mettete sul fuoco una pentola con acqua abbondante da salare a bollore per cuocere la pasta. Lavate e dividete a metà i pomodorini, poi mondate la cipolla e tritatela finemente. Private la salsiccia del budello e sminuzzatela grossolanamente. Scaldate una padella con un giro d’olio. Soffriggete la cipolla per 3-4 minuti, poi aggiungete la salsiccia. Quando la salsiccia sarà ben rosolata, sfumate con il vino biancoe lasciate evaporare completamente la parte alcolica. Unite i pomodorinie regolate di sale e di pepe. Sfogliate il finocchietto direttamente nella padellae cuocete a fuoco vivace per pochi minuti. Nel frattempo cuocete i vermicelli nell’acqua che sarà arrivata a bollore. Scolate la pasta al dente e trasferitela nella padella con il condimento. Amalgamate bene il tutto aggiungendo un mestolo dell’acqua di cottura, poi togliete la padella dal fuoco e mantecate con il Pecorino grattugiato. Servite i vostri vermicelli alla montanara con pepe nero macinato a piacere!",
+    "ingredients": [
+        [
+            "Vermicelli",
+            "400 g"
+        ],
+        [
+            "Salsiccia",
+            "300 g"
+        ],
+        [
+            "Pomodorini ciliegino",
+            "200 g"
+        ],
+        [
+            "Cipolle dorate",
+            "120 g"
+        ],
+        [
+            "Pecorino Romano DOP",
+            "da grattugiare 30 g"
+        ],
+        [
+            "Finocchietto selvatico",
+            "1 rametto"
+        ],
+        [
+            "Vino bianco secco",
+            "100 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "20 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

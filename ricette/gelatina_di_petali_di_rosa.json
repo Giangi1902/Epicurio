@@ -1,1 +1,37 @@
-{"title": "Gelatina di petali di rosa", "category": "Marmellate e Conserve", "description": "Per prima cosa raccogliete delle rose pienamente sbocciate ma non sfiorite per non rischiare che i fiori abbiano gi\u00e0 perso il loro profumo, caratteristica principale di questa gelatina.Scegliete quindi delle rose, possibilmente di colore rosso o rosa, profumate e carnose.Togliete i petali staccandone la parte finale e pestateli nel mortaio assieme ai semi di anice.Mettete quindi, la poltiglia ottenuta in un frullatore, aggiungete met\u00e0 dello zucchero e lavorate il tutto fino ad ottenere un preparato polverizzato composto da zucchero e petali.Versate il tutto in una pentola d'acciaio inossidabile, aggiungete il restante zucchero, il succo di limone, l'acqua di rose, l'acqua e portate ad ebollizione.Cuocete a fuoco moderato, mescolando di tanto in tanto e schiumando se necessario, per - minuti o fino a quando una goccia del preparato, lasciata cadere su un piatto, non resti compatta.Infine, versate la gelatina ancora bollente nei barattoli, chiudete ermeticamente e conservate in un luogo ben fresco fino all'utilizzo.Consumare dopo almeno un mese.", "ingredients": [["Rose", "petali 400 g"], ["Succo di limone", "1"], ["Acqua", "500 ml"], ["Zucchero", "600 g"], ["Semi di anice", "5 g"], ["Acqua di rose", "4 cucchiai"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 una dolce e delicata gelatina profumata ai petali di rosa, con una leggera nota di limone e di anice. La consistenza sar\u00e0 morbida e gelatinosa, perfetta da spalmare su fette di pane o da abbinare a formaggi freschi.\n\nQuesta gelatina di petali di rosa \u00e8 adatta per occasioni speciali come buffet di finger food, brunch o colazioni eleganti. \u00c8 particolarmente indicata per chi ama i sapori floreali e desidera presentare in tavola un piatto raffinato e romantico.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta vegetariana, in quanto non contiene ingredienti di origine animale. Tuttavia, non \u00e8 indicata per chi segue una dieta ipocalorica o ha problemi di glicemia, a causa del contenuto di zucchero.\n\nLe persone con intolleranze alimentari possono mangiare questa gelatina di petali di rosa se non sono allergiche alle rose o al limone. \u00c8 importante controllare la provenienza delle rose per evitare eventuali contaminazioni o allergie."}
+{
+    "title": "Gelatina di petali di rosa",
+    "category": "Ricette",
+    "description": "Per prima cosa raccogliete delle rose pienamente sbocciate ma non sfiorite per non rischiare che i fiori abbiano già perso il loro profumo, caratteristica principale di questa gelatina.Scegliete quindi delle rose, possibilmente di colore rosso o rosa, profumate e carnose.Togliete i petali staccandone la parte finale e pestateli nel mortaio assieme ai semi di anice.Mettete quindi, la poltiglia ottenuta in un frullatore, aggiungete metà dello zucchero e lavorate il tutto fino ad ottenere un preparato polverizzato composto da zucchero e petali.Versate il tutto in una pentola d’acciaio inossidabile, aggiungete il restante zucchero, il succo di limone, l’acqua di rose, l’acqua e portate ad ebollizione.Cuocete a fuoco moderato, mescolando di tanto in tanto e schiumando se necessario, per 25-30 minuti o fino a quando una goccia del preparato, lasciata cadere su un piatto, non resti compatta.Infine, versate la gelatina ancora bollente nei barattoli, chiudete ermeticamente e conservate in un luogo ben fresco fino all’utilizzo.Consumare dopo almeno un mese.",
+    "ingredients": [
+        [
+            "Rose",
+            "petali 400 g"
+        ],
+        [
+            "Succo di limone",
+            "1"
+        ],
+        [
+            "Acqua",
+            "500 ml"
+        ],
+        [
+            "Zucchero",
+            "600 g"
+        ],
+        [
+            "Semi di anice",
+            "5 g"
+        ],
+        [
+            "Acqua di rose",
+            "4 cucchiai"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone"
+    }
+}

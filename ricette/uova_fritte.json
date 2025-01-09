@@ -1,1 +1,30 @@
-{"title": "Uova fritte", "category": "Secondi piatti", "description": "Per preparare le uova fritte vi consigliamo di utilizzare una padella antiaderente, versate l'olio fino a\u00a0ricoprire tutto il fondo . Fatelo scaldare e poi versate un uovo rompendolo in una ciotola . Cuocete a fuoco medio-alto inclinando di tanto in tanto la padella per raccogliere l'olio con un cucchiaio e bagnare la superficie .Continuate in questo modo finch\u00e9 non si sar\u00e0 creata una patina bianca in superficie .\u00a0In circa - minuti l'uovo fritto sar\u00e0 pronto , servite a piacere con sale e pepe .", "ingredients": [["Uova", "freschissime a temperatura ambiente 4"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta \"Uova fritte\" sono delle uova freschissime fritte in olio extravergine d'oliva, condite con sale fino e pepe nero. Le uova avranno una consistenza croccante esterna e il tuorlo rimarr\u00e0 morbido.\n\nOccasioni: Le uova fritte sono adatte per un pranzo o una cena veloce, ma anche per una colazione salata. Possono essere accompagnate da prosciutto, pancetta o insalata per un pasto pi\u00f9 sostanzioso.\n\nDiete o regime alimentare: Le uova fritte sono adatte per una dieta onnivora. Tuttavia, se si \u00e8 a dieta \u00e8 importante moderarne il consumo per il loro contenuto di colesterolo e grassi. \n\nIntolleranze: Le persone con intolleranza al lattosio possono consumare le uova fritte senza problemi. Tuttavia, le uova stesse sono un allergene comune, quindi le persone con allergia alle uova non devono mangiarle."}
+{
+    "title": "Uova fritte",
+    "category": "Ricette",
+    "description": "Per preparare le uova fritte vi consigliamo di utilizzare una padella antiaderente, versate l'olio fino a ricoprire tutto il fondo. Fatelo scaldare e poi versate un uovo rompendolo in una ciotola. Cuocete a fuoco medio-alto inclinando di tanto in tanto la padella per raccogliere l'olio con un cucchiaio e bagnare la superficie. Continuate in questo modo finché non si sarà creata una patina bianca in superficie. In circa 2-3 minuti l'uovo fritto sarà pronto, servite a piacere con sale e pepe.",
+    "ingredients": [
+        [
+            "Uova",
+            "freschissime a temperatura ambiente 4"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 pezzi",
+        "Costo": "Molto basso"
+    }
+}

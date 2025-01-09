@@ -1,1 +1,53 @@
-{"title": "Panzanella toscana", "category": "Antipasti", "description": "Per preparare la panzanella toscana per prima cosa\u00a0tagliate a fette\u00a0il pane raffermo  e mettetelo in una pirofila, poi versate l'acqua  e l'aceto . Lasciate riposare per  minuti rigirandolo spesso in modo che si ammolli in modo uniforme.Nel frattempo preparate il resto degli ingredienti: sbucciate i cetrioli e tagliateli fettine o a cubetti , poi lavate i pomodorini e divideteli a met\u00e0 . Infine mondate la cipolla e affettatela sottilmente .Trascorso il tempo di ammollo strizzate bene il pane per eliminare l'acqua in eccesso  e trasferitelo in una ciotola, poi aggiungete i cetrioli  e i pomodorini .Unite anche la cipolla  e le foglie di basilico . Mescolate, salate  e pepate.In ultimo condite con l'olio  e mescolate ancora . La vostra panzanella toscana \u00e8 pronta per essere gustata !", "ingredients": [["Pane raffermo", "250 g"], ["Pomodori piccadilly", "(o insalatari) 500 g"], ["Cetrioli", "2"], ["Cipolle rosse", "1"], ["Basilico", "15 foglie"], ["Acqua", "150 g"], ["Aceto di vino bianco", "circa 3 cucchiai"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della Panzanella toscana sar\u00e0 un antipasto fresco e saporito, perfetto per l'estate. La consistenza sar\u00e0 croccante grazie al pane raffermo inzuppato nell'acqua e condito con olio extravergine d'oliva e aceto di vino bianco. I pomodori, i cetrioli, le cipolle rosse e il basilico aggiungeranno colore e profumo al piatto, mentre il sale e il pepe nero esalteranno i sapori degli ingredienti.\n\nLa Panzanella toscana \u00e8 adatta per occasioni informali e estive come picnic, pranzi in giardino o cene al fresco. \u00c8 perfetta come antipasto o anche come piatto unico leggero e gustoso.\n\nLa Panzanella toscana \u00e8 adatta a una dieta equilibrata e sana, in quanto contiene ingredienti freschi e naturali. \u00c8 adatta a vegetariani e pu\u00f2 essere adattata anche per vegani semplicemente omettendo il formaggio. Per chi segue una dieta senza glutine, \u00e8 importante assicurarsi che il pane utilizzato sia senza glutine. \n\nLe persone con intolleranze possono mangiare la Panzanella toscana, ma \u00e8 importante fare attenzione alle intolleranze specifiche dei singoli ingredienti. Ad esempio, chi \u00e8 intollerante al lattosio dovrebbe evitare di aggiungere formaggio, mentre chi \u00e8 intollerante al glutine deve assicurarsi di utilizzare pane senza glutine."}
+{
+    "title": "Panzanella toscana",
+    "category": "Ricette",
+    "description": "Per preparare la panzanella toscana per prima cosa tagliate a fette il pane raffermoe mettetelo in una pirofila, poi versate l’acquae l’aceto. Lasciate riposare per 15 minuti rigirandolo spesso in modo che si ammolli in modo uniforme. Nel frattempo preparate il resto degli ingredienti: sbucciate i cetrioli e tagliateli fettine o a cubetti, poi lavate i pomodorini e divideteli a metà. Infine mondate la cipolla e affettatela sottilmente. Trascorso il tempo di ammollo strizzate bene il pane per eliminare l’acqua in eccessoe trasferitelo in una ciotola, poi aggiungete i cetriolie i pomodorini. Unite anche la cipollae le foglie di basilico. Mescolate, salatee pepate. In ultimo condite con l’olioe mescolate ancora. La vostra panzanella toscana è pronta per essere gustata!",
+    "ingredients": [
+        [
+            "Pane raffermo",
+            "250 g"
+        ],
+        [
+            "Pomodori piccadilly",
+            "(o insalatari) 500 g"
+        ],
+        [
+            "Cetrioli",
+            "2"
+        ],
+        [
+            "Cipolle rosse",
+            "1"
+        ],
+        [
+            "Basilico",
+            "15 foglie"
+        ],
+        [
+            "Acqua",
+            "150 g"
+        ],
+        [
+            "Aceto di vino bianco",
+            "circa 3 cucchiai"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

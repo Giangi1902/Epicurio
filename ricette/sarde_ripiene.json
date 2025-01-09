@@ -1,1 +1,34 @@
-{"title": "Sarde ripiene", "category": "Secondi piatti", "description": "Per cominciare dovrete pulire le sarde. Eliminate le teste  e le interiora  delle sarde, quindi apritele a libro ed estraete la lisca centrale .Sciacquatele velocemente e poggiatele,\u00a0 su della carta assorbente da cucina, quindi tamponatele  per asciugarle bene.\u00a0 Poi passate alla preparazione del pesto Genovese fatto in casa.Prendete una sarda e poggiatela con la pelle rivolta verso il basso; ponete al centro di essa un po' di pesto\u00a0  poi poggiatevi sopra la seconda alice con la pelle rivolta verso l'esterno .In un piatto fondo, sbattete un uovo con una forchetta e, in un altro, versate del pangrattato. Passate i \"sandwich di sarde \" nell'uovo sbattuto  e successivamente nel pangrattato , poi friggeteli in olio caldo ma non bollente  facendoli dorare su entrambi i lati. Una volta dorati, ponete le sarde fritte a sgocciolare su della carta assorbente da cucina, salate e poi servitele ancora calde.", "ingredients": [["Sardine", "circa 500-600g 16"], ["Uova", "1"], ["Pangrattato", "q.b."], ["Pesto alla Genovese", "50 g"], ["Olio di semi di arachide", "q.b."]], "contesto": "Il risultato finale sar\u00e0 un piatto gustoso e saporito, con sardine morbide e succulente, dal ripieno cremoso e aromatico del pesto alla Genovese. Le sardine saranno croccanti all'esterno grazie alla panatura e sfiziose da gustare.\n\nQuesto piatto \u00e8 adatto per occasioni informali ma anche per cene pi\u00f9 ricercate, in particolare durante la stagione estiva.\n\nLe sarde ripiene sono adatte alla dieta mediterranea, in quanto sono a base di pesce azzurro ricco di omega-3 e altri importanti nutrienti. Possono essere adatte anche a persone che seguono una dieta ricca di proteine e povera di grassi.\n\nLe persone con intolleranze possono mangiarlo se non sono intolleranti al pesce, al lattosio e al glutine, in quanto il pesto pu\u00f2 contenere formaggio e il pangrattato glutine. Infine, \u00e8 importante verificare che il pesto non contenga frutta a guscio per evitare problemi alle persone con allergie a questo tipo di alimenti."}
+{
+    "title": "Sarde ripiene",
+    "category": "Ricette",
+    "description": "Per cominciare dovretepulire le sarde. Eliminate le testee le interioradelle sarde, quindi apritele a libro ed estraete la lisca centrale. Sciacquatele velocemente e poggiatele,  su della carta assorbente da cucina, quindi tamponateleper asciugarle bene.Poi passate alla preparazione delpesto Genovesefatto in casa.Prendete una sarda e poggiatela con la pelle rivolta verso il basso; ponete al centro di essa un po’ di pestopoi poggiatevi sopra la seconda alice con la pelle rivolta verso l’esterno. In un piatto fondo, sbattete un uovo con una forchetta e, in un altro, versate del pangrattato. Passate i \"sandwich di sarde \" nell’uovo sbattutoe successivamente nel pangrattato, poi friggeteli in olio caldo ma non bollentefacendoli dorare su entrambi i lati. Una volta dorati, ponete le sarde fritte a sgocciolare su della carta assorbente da cucina, salate e poi servitele ancora calde.",
+    "ingredients": [
+        [
+            "Sardine",
+            "circa 500-600g 16"
+        ],
+        [
+            "Uova",
+            "1"
+        ],
+        [
+            "Pangrattato",
+            "q.b."
+        ],
+        [
+            "Pesto alla Genovese",
+            "50 g"
+        ],
+        [
+            "Olio di semi di arachide",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

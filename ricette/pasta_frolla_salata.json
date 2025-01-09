@@ -1,1 +1,28 @@
-{"title": "Pasta frolla salata", "category": "Antipasti", "description": "Per preparare la pasta frolla salata, versate la farina in un mixer dotato di lame d'acciaio , poi aggiungete il burro freddo di frigo , il sale grosso e l'uovo . Chiudete con il coperchio e azionate il mixer fino ad ottenere un composto bricioloso . Trasferite il composto su una spianatoia e lavoratelo velocemente con le mani per formare un panetto . Avvolgete il panetto nella pellicola trasparente  e lasciatelo riposare in frigorifero almeno un'ora. Trascorso questo tempo potete stendere la vostra pasta frolla salata su un piano leggermente infarinato per realizzare una crostata o delle crostatine !", "ingredients": [["Farina 00", "250 g"], ["Burro", "freddo 125 g"], ["Uova", "(1 medio) 52 g"], ["Sale grosso", "5 g"]], "contesto": "Il risultato finale della pasta frolla salata sar\u00e0 una base croccante e burrosa perfetta per preparare tartine salate o crostate salate.\n\n\u00c8 adatta per occasioni come aperitivi, buffet e cene informali.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta omnivora.\n\nLe persone con intolleranze al lattosio possono sostituire il burro con burro senza lattosio o margarina vegana. Per le persone celiache, \u00e8 possibile utilizzare farina senza glutine."}
+{
+    "title": "Pasta frolla salata",
+    "category": "Ricette",
+    "description": "Per preparare la pasta frolla salata, versate la farina in un mixer dotato di lame d’acciaio, poi aggiungete il burro freddo di frigo, il sale grosso e l’uovo. Chiudete con il coperchio e azionate il mixer fino ad ottenere un composto bricioloso. Trasferite il composto su una spianatoia e lavoratelo velocemente con le mani per formare un panetto. Avvolgete il panetto nella pellicola trasparentee lasciatelo riposare in frigorifero almeno un’ora. Trascorso questo tempo potete stendere la vostra pasta frolla salata su un piano leggermente infarinato per realizzare una crostata o delle crostatine!",
+    "ingredients": [
+        [
+            "Farina 00",
+            "250 g"
+        ],
+        [
+            "Burro",
+            "freddo 125 g"
+        ],
+        [
+            "Uova",
+            "(1 medio) 52 g"
+        ],
+        [
+            "Sale grosso",
+            "5 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Costo": "Molto basso"
+    }
+}

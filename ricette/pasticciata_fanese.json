@@ -1,1 +1,66 @@
-{"title": "Pasticciata fanese", "category": "Secondi piatti", "description": "Per preparare la pasticciata fanese per prima cosa tritate la cipolla e versatela in una ampio tegame con l'olio  e l'aglio intero sbucciato . Lasciate rosolare a fuoco moderato per qualche minuto, cos\u00ec che la cipolla risulti stufata. Nel frattempo prendete la carne, infilzatela con i chiodi di garofano .Insaporite con la noce moscata grattugiata , il pepe  e il sale .Adagiate la carne nel tegame e fate rosolare da tutti i lati, quindi aromatizzate con le erbe  e sfumate con il vino  e lasciate evaporare.Nel frattempo scaldate l'acqua e sciogliete all'interno il concentrato , mescolate per amalgamare quindi versatelo direttamente nel tegame con la carne .Coprite con il coperchio  e proseguite la cottura per  minuti. A questo punto la carne sar\u00e0 pronta , toglietela dalla pentola e tagliatela a fette una volta fredda .Intanto proseguite la cottura del sugo per altri  minuti cos\u00ec che si restringa , poi eliminate l'aglio . Servite la pasticciata fanese accompagnata con il sugo di cottura .", "ingredients": [["Manzo", "magatello 900 g"], ["Concentrato di pomodoro", "50 g"], ["Vino bianco", "100 g"], ["Rosmarino", "q.b."], ["Maggiorana", "q.b."], ["Chiodi di garofano", "8"], ["Noce moscata", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Cipolle bianche", "1"], ["Aglio", "2 spicchi"], ["Acqua", "1 l"], ["Olio extravergine d'oliva", "q.b."]], "contesto": "Il risultato finale della Pasticciata fanese sar\u00e0 un gustoso piatto di carne di manzo magatello, cotto lentamente in una salsa ricca di aromi e spezie. La carne sar\u00e0 tenera e saporita, perfettamente abbinata a una salsa densa e saporita.\n\nQuesta ricetta \u00e8 adatta per occasioni speciali e pranzi o cene importanti, in cui si desidera preparare un piatto tradizionale e gustoso.\n\nLa Pasticciata fanese \u00e8 adatta a una dieta onnivora e non \u00e8 adatta per diete vegetariane o vegane. Tuttavia, \u00e8 possibile adattarla a diete senza glutine o lattosio, sostituendo eventualmente alcuni ingredienti.\n\nLe persone con intolleranze al lattosio possono mangiare la Pasticciata fanese, facendo attenzione agli ingredienti utilizzati e scegliendo prodotti senza lattosio. Le persone con intolleranze al glutine possono godere di questo piatto sostituendo il concentrato di pomodoro con una versione certificata senza glutine e accertandosi che tutti gli altri ingredienti siano privi di glutine."}
+{
+    "title": "Pasticciata fanese",
+    "category": "Ricette",
+    "description": "Per preparare la pasticciata fanese per prima cosa tritate la cipolla e versatela in una ampio tegame con l’olioe l’aglio intero sbucciato. Lasciate rosolare a fuoco moderato per qualche minuto, così che la cipolla risulti stufata. Nel frattempo prendete la carne, infilzatela con i chiodi di garofano. Insaporite con la noce moscata grattugiata, il pepee il sale. Adagiate la carne nel tegame e fate rosolare da tutti i lati, quindi aromatizzate con le erbee sfumate con il vinoe lasciate evaporare. Nel frattempo scaldate l’acqua e sciogliete all’interno il concentrato, mescolate per amalgamare quindi versatelo direttamente nel tegame con la carne. Coprite con il coperchioe proseguite la cottura per 90 minuti. A questo punto la carne sarà pronta, toglietela dalla pentola e tagliatela a fette una volta fredda. Intanto proseguite la cottura del sugo per altri 30 minuti così che si restringa, poi eliminate l'aglio. Servite la pasticciata fanese accompagnata con il sugo di cottura.",
+    "ingredients": [
+        [
+            "Manzo",
+            "magatello 900 g"
+        ],
+        [
+            "Concentrato di pomodoro",
+            "50 g"
+        ],
+        [
+            "Vino bianco",
+            "100 g"
+        ],
+        [
+            "Rosmarino",
+            "q.b."
+        ],
+        [
+            "Maggiorana",
+            "q.b."
+        ],
+        [
+            "Chiodi di garofano",
+            "8"
+        ],
+        [
+            "Noce moscata",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Cipolle bianche",
+            "1"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Acqua",
+            "1 l"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "2 h 30 min",
+        "Dosi per": "6 persone",
+        "Costo": "Medio"
+    }
+}

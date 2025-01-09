@@ -1,1 +1,53 @@
-{"title": "Chips di buccia di zucca", "category": "Antipasti", "description": "Per realizzare le chips di buccia di zucca per prima cosa lavate bene la zucca, poi prelevate la buccia utilizzando un pelapatate . Trasferite le bucce in una ciotola e condite con l'aglio in polvere  e la paprika .Aggiungete anche il sale  e l'olio  e mescolate bene .Distribuite le bucce cos\u00ec condite su una teglia foderata con carta forno, poi guarnite con i semi di sesamo bianco e nero , i semi di zucca  e i semi di girasole .Spolverizzate anche con degli aghetti di rosmarino tritati  e cuocete in forno statico preriscaldato a \u00b0 per circa - minuti. Sfornate  e servite subito le vostre chips di buccia di zucca !", "ingredients": [["Zucca", "la buccia 1"], ["Paprika", "1 cucchiaino"], ["Aglio in polvere", "q.b."], ["Semi di sesamo", "q.b."], ["Semi di sesamo nero", "q.b."], ["Semi di zucca", "q.b."], ["Semi di girasole", "q.b."], ["Rosmarino", "q.b."], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta \"Chips di buccia di zucca\" sar\u00e0 una gustosa e croccante alternativa alle classiche chips, con un sapore leggermente dolce della zucca arricchito dalla paprika e dall'aglio in polvere. Le chips saranno arricchite da semi di sesamo, di zucca, di girasole e di zucca nera, che daranno un tocco croccante e saporito. Il tutto sar\u00e0 completato con un pizzico di rosmarino e sale fino e cotto con olio extravergine d'oliva.\n\nLe chips di buccia di zucca sono ideali per essere servite come antipasto sfizioso e originale, perfette da accompagnare a un aperitivo o come snack leggero da gustare in ogni momento della giornata.\n\nQuesta ricetta \u00e8 adatta a una dieta vegetariana e vegana, in quanto non contiene ingredienti di origine animale. \u00c8 inoltre ideale per chi segue un'alimentazione senza glutine, purch\u00e9 si scelgano ingredienti certificati senza glutine.\n\nLe persone con intolleranze al sesamo, al rosmarino o a qualsiasi altro ingrediente presente nella ricetta dovrebbero evitare di consumare le chips di buccia di zucca. \u00c8 sempre consigliabile controllare attentamente gli ingredienti utilizzati e, in caso di dubbi, consultare un medico o un nutrizionista."}
+{
+    "title": "Chips di buccia di zucca",
+    "category": "Ricette",
+    "description": "Per realizzare le chips di buccia di zucca per prima cosa lavate bene la zucca, poi prelevate la buccia utilizzando un pelapatate. Trasferite le bucce in una ciotola e condite con l’aglio in polveree la paprika. Aggiungete anche il salee l’olioe mescolate bene. Distribuite le bucce così condite su una teglia foderata con carta forno, poi guarnite con i semi di sesamo bianco e nero, i semi di zuccae i semi di girasole. Spolverizzate anche con degli aghetti di rosmarino tritatie cuocete in forno statico preriscaldato a 180° per circa 25-30 minuti. Sfornatee servite subito le vostre chips di buccia di zucca!",
+    "ingredients": [
+        [
+            "Zucca",
+            "la buccia 1"
+        ],
+        [
+            "Paprika",
+            "1 cucchiaino"
+        ],
+        [
+            "Aglio in polvere",
+            "q.b."
+        ],
+        [
+            "Semi di sesamo",
+            "q.b."
+        ],
+        [
+            "Semi di sesamo nero",
+            "q.b."
+        ],
+        [
+            "Semi di zucca",
+            "q.b."
+        ],
+        [
+            "Semi di girasole",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "q.b."
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "30 min",
+        "Costo": "Basso"
+    }
+}

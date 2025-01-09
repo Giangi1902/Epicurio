@@ -1,1 +1,54 @@
-{"title": "Schiacciate con torretta di verdure e fonduta ", "category": "Antipasti", "description": "Per preparare le schiacciate con torretta di verdure e fonduta, iniziate a preparate la fonduta: tagliate la fontina a dadini grossolani (-) e mettetela in un pentolino con la panna . Lasciate cuocere a fuoco dolce fino a quando gli ingredienti non saranno ben amalgamati.Intanto che la fonduta cuoce, lavate e tagliate a fette abbastanza spesse, con l'aiuto di una mandolina, la zucchina  e la melanzana . Lavate poi il peperone e tagliatelo in quarti, privandolo dei semi, del picciolo e dei filamenti binachi interni .Grigliate su una padella antiaderente le verdure una per volta (--) in modo che siano ben dorate da entrambe le parti.Appena tutte le verdure saranno pronte, tagliatele a quadrati del lato di circa  cm  e fate la stessa cosa con le fette di emmentaler . Siamo pronti per comporre la torretta di verdure: prendete  schiacciate e su ognuno pontere un quadrato di melanzana, poi una fetta di formaggio ,proseguite con un quadrato di peperone , un'altra fetta di formaggio e terminate con un quadrato di zucchina . Riscaldate la fonduta e insaporitela con del pepe, quindi ponete un cucchiaio di essa su ogni schiacciata  e completate con una macinata di pepe nero. Ecco pronte le vostre schiacciate con torretta di verdure e fonduta!", "ingredients": [["Emmentaler", "a fette 50 g"], ["Zucchine", "piccola 1"], ["Melanzane", "piccola 1"], ["Peperoni rossi", "piccolo 1"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["La Bottega di Olivia&Marino", "schiacciate 12"], ["Fontina", "50 g"], ["Panna fresca liquida", "70 ml"], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un antipasto appetitoso e ricco, composto da schiacciate croccanti con una torretta di verdure grigliate e una fonduta cremosa al formaggio.\n\nOccasioni: Questo piatto \u00e8 perfetto da servire come antipasto durante una cena tra amici o in una cena speciale.\n\nDieta/Regime alimentare: Questa ricetta \u00e8 adatta a chi segue una dieta equilibrata, in quanto \u00e8 ricca di verdure e formaggi. Tuttavia, \u00e8 consigliabile consumarla con moderazione a causa della presenza di formaggi e panna fresca.\n\nIntolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questa ricetta a causa della presenza di formaggi. Inoltre, le persone con intolleranza al fruttosio potrebbero dover limitare il consumo di zucchine e peperoni."}
+{
+    "title": "Schiacciate con torretta di verdure e fonduta ",
+    "category": "Ricette",
+    "description": "Per preparare le schiacciate con torretta di verdure e fonduta, iniziate a preparate la fonduta: tagliate la fontina a dadini grossolani (1-2) e mettetela in un pentolino con la panna. Lasciate cuocere a fuoco dolce fino a quando gli ingredienti non saranno ben amalgamati. Intanto che la fonduta cuoce, lavate e tagliate a fette abbastanza spesse, con l'aiuto di una mandolina, la zucchinae la melanzana. Lavate poi il peperone e tagliatelo in quarti, privandolo dei semi, del picciolo e dei filamenti binachi interni. Grigliate su una padella antiaderente le verdure una per volta (7-8-9) in modo che siano ben dorate da entrambe le parti. Appena tutte le verdure saranno pronte, tagliatele a quadrati del lato di circa 3 cme fate la stessa cosa con le fette di emmentaler. Siamo pronti per comporre la torretta di verdure: prendete 12 schiacciate e su ognuno pontere un quadrato di melanzana, poi una fetta di formaggio, proseguite con un quadrato di peperone, un'altra fetta di formaggio e terminate con un quadrato di zucchina. Riscaldate la fonduta e insaporitela con del pepe, quindi ponete un cucchiaio di essa su ogni schiacciatae completate con una macinata di pepe nero. Ecco pronte le vostre schiacciate con torretta di verdure e fonduta!",
+    "ingredients": [
+        [
+            "Emmentaler",
+            "a fette 50 g"
+        ],
+        [
+            "Zucchine",
+            "piccola 1"
+        ],
+        [
+            "Melanzane",
+            "piccola 1"
+        ],
+        [
+            "Peperoni rossi",
+            "piccolo 1"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "La Bottega di Olivia&Marino",
+            "schiacciate 12"
+        ],
+        [
+            "Fontina",
+            "50 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "70 ml"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "20 min",
+        "Cottura": "20 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

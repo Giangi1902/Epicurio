@@ -1,1 +1,41 @@
-{"title": "Acai bowl", "category": "Dolci", "description": "Per preparare l'acai bowl, per prima cosa versate lo yogurt greco in una ciotola insieme al latte di cocco , poi aggiungete la polvere di acai  e mescolate bene fino ad ottenere un colore uniforme .Dolcificate il composto di yogurt con il miele  e mescolate ancora , poi trasferitelo in una ciotola da portata. La consistenza finale deve essere cremosa e omogenea, abbastanza densa da non colare dal cucchiaio, ma non troppo compatta : se il composto dovesse risultare troppo denso o troppo liquido potete aggiungere pi\u00f9 o meno latte di cocco per raggiungere la consistenza ottimale.Ora tagliate il cocco fresco a lamelle , poi sbucciate la banana  e tagliatela a rondelle di circa mezzo cm di spessore .Distribuite i cornflakes sopra lo yogurt  e infine decorate con le rondelle di banana  e le fettine di cocco: la vostra acai bowl \u00e8 pronta per essere gustata !", "ingredients": [["Acai in polvere", "5 g"], ["Yogurt greco", "250 g"], ["Latte di cocco", "30 g"], ["Miele", "15 g"], ["Cocco", "fresco 35 g"], ["Banane", "baby 1"], ["Corn flakes", "30 g"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un delizioso acai bowl cremoso e fresco, arricchito da yogurt greco, latte di cocco e miele e decorato con fettine di banana, cocco fresco e corn flakes croccanti.\n\nOccasioni: L'Acai bowl \u00e8 perfetto come colazione o dessert, ma pu\u00f2 essere consumato anche come spuntino energetico durante la giornata.\n\nDieta: Questa ricetta \u00e8 adatta per una dieta equilibrata e sana, poich\u00e9 fornisce una buona dose di antiossidanti, proteine e grassi sani.\n\nIntolleranze: Le persone con intolleranze al lattosio possono sostituire il latte di cocco con latte di mandorla o di riso e optare per uno yogurt senza lattosio. Inoltre, chi \u00e8 intollerante al glutine deve assicurarsi che i corn flakes siano certificati senza glutine."}
+{
+    "title": "Acai bowl",
+    "category": "Ricette",
+    "description": "Per preparare l’acai bowl, per prima cosa versate lo yogurt greco in una ciotola insieme al latte di cocco, poi aggiungete la polvere di acaie mescolate bene fino ad ottenere un colore uniforme. Dolcificate il composto di yogurt con il mielee mescolate ancora, poi trasferitelo in una ciotola da portata. La consistenza finale deve essere cremosa e omogenea, abbastanza densa da non colare dal cucchiaio, ma non troppo compatta: se il composto dovesse risultare troppo denso o troppo liquido potete aggiungere più o meno latte di cocco per raggiungere la consistenza ottimale. Ora tagliate il cocco fresco a lamelle, poi sbucciate la bananae tagliatela a rondelle di circa mezzo cm di spessore. Distribuite i cornflakes sopra lo yogurte infine decorate con le rondelle di bananae le fettine di cocco: la vostra acai bowl è pronta per essere gustata!",
+    "ingredients": [
+        [
+            "Acai in polvere",
+            "5 g"
+        ],
+        [
+            "Yogurt greco",
+            "250 g"
+        ],
+        [
+            "Latte di cocco",
+            "30 g"
+        ],
+        [
+            "Miele",
+            "15 g"
+        ],
+        [
+            "Cocco",
+            "fresco 35 g"
+        ],
+        [
+            "Banane",
+            "baby 1"
+        ],
+        [
+            "Corn flakes",
+            "30 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "1 persone",
+        "Costo": "Medio"
+    }
+}

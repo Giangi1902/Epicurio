@@ -1,1 +1,29 @@
-{"title": "Liquore alla Nutella", "category": "Bevande", "description": "Per preparare il liquore alla Nutella cominciate prendendo un pentolino capiente in cui verserete il latte e la panna , unendo poi anche la Nutella . Mescolate energicamente con le fruste a mano per amalgamare gli ingredienti e scongiurare la presenza di grumi . Quindi cominciate a scaldare dolcemente. Quando il composto sar\u00e0 caldo, ma non avr\u00e0 raggiunto il bollore e la Nutella sar\u00e0 completamente sciolta, spegnete la fiamma e togliete il tegame dal fuoco: lasciate raffreddare completamente il composto. Continuate a frustarlo di tanto in tanto per evitare che si crei una pellicola in superficie.Quando il composto sar\u00e0 completamente raffreddato unite l'alcol  e amalgamatelo bene agli altri ingredienti. Infine versatelo nelle bottigliette ben pulite in cui lo conserverete  e lasciatelo raffreddare completamente almeno  minuti. Noi abbiamo usato un contenitore in vetro con tappo a chiusura ermetica ; conservate in frigo e lasciate riposare il liquore alla Nutella almeno - giorni prima di consumarlo! Consigliamo di agitare il liquore prima di servirlo.", "ingredients": [["Nutella", "300 g"], ["Latte intero", "400 g"], ["Panna fresca liquida", "400 g"], ["Alcol puro", "a 95\u00b0 150 g"]], "contesto": "Il risultato finale della ricetta di \"Liquore alla Nutella\" \u00e8 un liquore cremoso e dolce al gusto di Nutella, perfetto da gustare come digestivo o da utilizzare nei cocktail.\n\nOccasioni: Questo liquore \u00e8 adatto per essere servito durante feste, compleanni, cene speciali o come regalo homemade.\n\nDieta/Regime alimentare: Questo liquore \u00e8 adatto per chi segue una dieta non restrittiva, in quanto \u00e8 ricco di calorie e zuccheri. Non \u00e8 adatto per chi segue una dieta ipocalorica o povera di zuccheri.\n\nIntolleranze: Le persone con intolleranza al lattosio dovrebbero evitare questo liquore in quanto contiene latte e panna. Le persone con intolleranza al glutine dovrebbero verificare che gli ingredienti utilizzati siano privi di glutine."}
+{
+    "title": "Liquore alla Nutella",
+    "category": "Ricette",
+    "description": "Per preparare il liquore alla Nutella cominciate prendendo un pentolino capiente in cui verserete il latte e la panna, unendo poi anche la Nutella. Mescolate energicamente con le fruste a mano per amalgamare gli ingredienti e scongiurare la presenza di grumi. Quindi cominciate a scaldare dolcemente. Quando il composto sarà caldo, ma non avrà raggiunto il bollore e la Nutella sarà completamente sciolta, spegnete la fiamma e togliete il tegame dal fuoco: lasciate raffreddare completamente il composto. Continuate a frustarlo di tanto in tanto per evitare che si crei una pellicola in superficie. Quando il composto sarà completamente raffreddato unite l’alcole amalgamatelo bene agli altri ingredienti. Infine versatelo nelle bottigliette ben pulite in cui lo conserveretee lasciatelo raffreddare completamente almeno 10 minuti. Noi abbiamo usato un contenitore in vetro con tappo a chiusura ermetica; conservate in frigo e lasciate riposare il liquore alla Nutella almeno 20-30 giorni prima di consumarlo! Consigliamo di agitare il liquore prima di servirlo.",
+    "ingredients": [
+        [
+            "Nutella",
+            "300 g"
+        ],
+        [
+            "Latte intero",
+            "400 g"
+        ],
+        [
+            "Panna fresca liquida",
+            "400 g"
+        ],
+        [
+            "Alcol puro",
+            "a 95° 150 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "30 min",
+        "Cottura": "5 min",
+        "Costo": "Basso"
+    }
+}

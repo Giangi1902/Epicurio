@@ -1,1 +1,46 @@
-{"title": "Cotolette di zucca", "category": "Secondi piatti", "description": "Per preparare le cotolette di zucca cominciate a sbucciare quest'ultima, dovreste ottenere  g di polpa\u00a0. Tagliatela a fette di\u00a0circa mezzo cm di spessore . Quindi passate alla panatura. In una bacinella versate il pangrattato macinato grosso, il formaggio, aggiungete poi il sale e il pepe ,poi sfogliate l'origano fresco \u00a0e mescolate tutto . A questo punto potete impanare le fette di zucca. Passatele prima nelle uova sbattute ,poi nel mix di pangrattato  e schiacciate con le mani in modo da far aderire bene l'impanatura . Quindi procedete nuovamente ripassando la cotoletta prima nelle uova e ancora nel mix di pangrattato . Tornate a schiacciare in modo che aderisca bene e ripetete lo stesso procedimento per tutte le altre fette . A questo punto potete passare alla cottura: scaldate l'olio a \u00b0 e immergete  o  pezzi alla volta .Dopo circa  minuti le cotolette saranno ben dorate , quindi scolate le prime su carta assorbente  e proseguite con tutte le altre. Ecco pronte le vostre cotolette di zucca, servitele ben calde !", "ingredients": [["Zucca napoletana", "da pulire 500 g"], ["Uova", "4"], ["Olio di semi di arachide", "per friggere q.b."], ["Pangrattato", "macinato grosso 200 g"], ["Grana Padano DOP", "da grattugiare 3 cucchiai"], ["Origano", "qualche rametto fresco"], ["Pepe nero", "1 cucchiaino"], ["Sale fino", "1 cucchiaino"]], "contesto": "- Risultato finale: Le cotolette di zucca sono croccanti fuori e morbide dentro, con un gusto leggermente dolce della zucca arricchito dalle note aromatiche dell'origano e del Grana Padano.\n\n- Occasioni adatte: Questo piatto \u00e8 perfetto per un pranzo o una cena informale, da servire come secondo piatto accompagnato da contorni freschi o insalata.\n\n- Diete o regimi alimentari adatti: Le cotolette di zucca sono adatte per una dieta vegetariana, in quanto non contengono carne. Tuttavia, non sono adatte per una dieta vegana a causa dell'uso delle uova e del formaggio Grana Padano.\n\n- Intolleranze alimentari: Le persone con intolleranza al lattosio devono evitare il formaggio Grana Padano. Inoltre, se si \u00e8 intolleranti alle uova, non \u00e8 possibile consumare questo piatto poich\u00e9 le uova sono uno degli ingredienti principali. Le persone con intolleranze specifiche a ingredienti come il glutine o le noci devono prestare attenzione al pangrattato utilizzato e all'olio di semi di arachide."}
+{
+    "title": "Cotolette di zucca",
+    "category": "Ricette",
+    "description": "Per preparare le cotolette di zucca cominciate a sbucciare quest'ultima, dovreste ottenere 450 g di polpa. Tagliatela a fette di circa mezzo cm di spessore. Quindi passate alla panatura. In una bacinella versate il pangrattato macinato grosso, il formaggio, aggiungete poi il sale e il pepe, poi sfogliate l'origano frescoe mescolate tutto. A questo punto potete impanare le fette di zucca. Passatele prima nelle uova sbattute, poi nel mix di pangrattatoe schiacciate con le mani in modo da far aderire bene l'impanatura. Quindi procedete nuovamente ripassando la cotoletta prima nelle uova e ancora nel mix di pangrattato. Tornate a schiacciare in modo che aderisca bene e ripetete lo stesso procedimento per tutte le altre fette. A questo punto potete passare alla cottura: scaldate l'olio a 165° e immergete 1 o 2 pezzi alla volta. Dopo circa 2 minuti le cotolette saranno ben dorate, quindi scolate le prime su carta assorbentee proseguite con tutte le altre. Ecco pronte le vostre cotolette di zucca, servitele ben calde!",
+    "ingredients": [
+        [
+            "Zucca napoletana",
+            "da pulire 500 g"
+        ],
+        [
+            "Uova",
+            "4"
+        ],
+        [
+            "Olio di semi di arachide",
+            "per friggere q.b."
+        ],
+        [
+            "Pangrattato",
+            "macinato grosso 200 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "da grattugiare 3 cucchiai"
+        ],
+        [
+            "Origano",
+            "qualche rametto fresco"
+        ],
+        [
+            "Pepe nero",
+            "1 cucchiaino"
+        ],
+        [
+            "Sale fino",
+            "1 cucchiaino"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "10 min",
+        "Dosi per": "8 pezzi",
+        "Costo": "Basso"
+    }
+}

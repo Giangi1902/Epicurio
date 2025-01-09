@@ -1,1 +1,29 @@
-{"title": "Ciaccia coi friccioli", "category": "Lievitati", "description": "La prima cosa da fare \u00e8 fare struggere, ovvero rosolare a fuoco lento, la pancetta di maiale tagliata a pezzettini e farla raffreddare per bene.A questo punto mettete la pancetta in una ciotola insieme alla farina ed un p\u00f2 di pepe e procedete come nella preparazione della pasta per il pane.Una volta ottenuto l'impasto ben omogeneo, formate un panetto, avvolgetelo in un tovagliolo e lasciatelo lievitare per almeno un ora.Quando \u00e8 pronto mettete la pagnotta in forno per almeno un ora a \u00b0 e una volta pronto avrete ottenuto la vostra ciaccia con i friccioli.", "ingredients": [["Pancetta", "400 g"], ["Pasta per il pane", "500 g"], ["Olio extravergine d'oliva", "5 cucchiai"], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 una deliziosa ciaccia arricchita con i friccioli di pancetta croccante e aromatica, perfetta per un antipasto o uno spuntino rustico.\n\nQuesta ricetta \u00e8 adatta per chi segue una dieta onnivora, in quanto contiene ingredienti di origine animale come la pancetta.\n\nLe persone con intolleranze al lattosio potrebbero dover fare attenzione alla presenza di latticini nella pasta per il pane utilizzata. Le persone con intolleranze al glutine potrebbero dover utilizzare una pasta per il pane senza glutine. Infine, le persone con intolleranze alla pancetta o al pepe nero dovranno ovviamente evitare questo piatto."}
+{
+    "title": "Ciaccia coi friccioli",
+    "category": "Ricette",
+    "description": "La prima cosa da fare è fare struggere, ovvero rosolare a fuoco lento, la pancetta di maiale tagliata a pezzettini e farla raffreddare per bene.A questo punto mettete la pancetta in una ciotola insieme alla farina ed un pò di pepe e procedete come nella preparazione della pasta per il pane.Una volta ottenuto l'impasto ben omogeneo, formate un panetto, avvolgetelo in un tovagliolo e lasciatelo lievitare per almeno un ora.Quando è pronto mettete la pagnotta in forno per almeno un ora a 180° e una volta pronto avrete ottenuto la vostra ciaccia con i friccioli.",
+    "ingredients": [
+        [
+            "Pancetta",
+            "400 g"
+        ],
+        [
+            "Pasta per il pane",
+            "500 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "5 cucchiai"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "3 h 10 min",
+        "Cottura": "60 min",
+        "Dosi per": "4 persone"
+    }
+}

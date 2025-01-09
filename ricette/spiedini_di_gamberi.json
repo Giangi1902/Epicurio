@@ -1,1 +1,46 @@
-{"title": "Spiedini di gamberi", "category": "Secondi piatti", "description": "Per preparare gli spiedini di gamberi iniziate lavando bene le zucchine, eliminate le estremit\u00e0 e tagliatele a julienne. Pelate le carote e riducete anch'esse a julienne , lasciatele poi su un colino in modo che perdano l'acqua in eccesso. Sgusciate i gamberi  e dopo averli infarinati , infilateli negli spiedini di legno.In un tegame mettete l'olio e aggiungete gli spiedini di gamberi , sfumate con il vino , salate e pepate. Togliete gli spiedini e lasciateli da parte in caldo, aggiungete dell'altro olio nella padella e aggiungete le verdure che dovranno cuocere per pochi minuti in modo da risultare ancora piuttosto croccanti , infine salate. Servite gli spiedini di gamberi adagiati sul letto di verdure e accompagnati da spicchi di limone.", "ingredients": [["Gamberetti", "500 g"], ["Olio extravergine d'oliva", "4 cucchiai"], ["Zucchine", "2"], ["Carote", "2"], ["Farina 00", "q.b."], ["Sale fino", "q.b."], ["Pepe nero", "q.b."], ["Vino bianco", "\u00bd bicchiere"]], "contesto": "Il risultato finale di questa ricetta sono degli spiedini di gamberi, zucchine e carote marinati in olio extravergine d'oliva, vino bianco, sale e pepe nero e infine cotti sulla griglia. I gamberetti saranno succulenti e saporiti, mentre le verdure saranno tenere e croccanti.\n\nQuesto piatto \u00e8 adatto per occasioni speciali come cene eleganti, grigliate estive o buffet. Si pu\u00f2 servire come secondo piatto o come antipasto, magari accompagnato da una salsa leggera a base di limone e erbe aromatiche.\n\nQuesti spiedini sono adatti a diete a basso contenuto di grassi e ricche di proteine, come la dieta mediterranea. Le verdure rendono il piatto ricco di fibre e vitamine, mentre i gamberi sono una fonte importante di proteine magre e minerali essenziali.\n\nLe persone con intolleranze al glutine possono consumare questo piatto eliminando la farina o sostituendola con farina senza glutine. Le persone con intolleranze ai crostacei dovranno ovviamente evitare i gamberi, mentre chi soffre di intolleranza al lattosio dovrebbe scegliere di marinare i gamberi senza aggiungere il vino bianco o optare per una versione senza lattosio."}
+{
+    "title": "Spiedini di gamberi",
+    "category": "Ricette",
+    "description": "Per preparare gli spiedini di gamberi iniziate lavando bene le zucchine, eliminate le estremità e tagliatele a julienne. Pelate le carote e riducete anch’esse a julienne, lasciatele poi su un colino in modo che perdano l'acqua in eccesso. Sgusciate i gamberie dopo averli infarinati, infilateli negli spiedini di legno. In un tegame mettete l’olio e aggiungete gli spiedini di gamberi, sfumate con il vino, salate e pepate. Togliete gli spiedini e lasciateli da parte in caldo, aggiungete dell’altro olio nella padella e aggiungete le verdure che dovranno cuocere per pochi minuti in modo da risultare ancora piuttosto croccanti, infine salate.Servite gli spiedini di gamberi adagiati sul letto di verdure e accompagnati da spicchi di limone.",
+    "ingredients": [
+        [
+            "Gamberetti",
+            "500 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "4 cucchiai"
+        ],
+        [
+            "Zucchine",
+            "2"
+        ],
+        [
+            "Carote",
+            "2"
+        ],
+        [
+            "Farina 00",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Vino bianco",
+            "½ bicchiere"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "15 min",
+        "Dosi per": "6 pezzi",
+        "Costo": "Medio"
+    }
+}

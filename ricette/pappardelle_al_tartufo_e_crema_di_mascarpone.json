@@ -1,1 +1,42 @@
-{"title": "Pappardelle al tartufo e crema di mascarpone", "category": "Primi piatti", "description": "Per preparare le pappardelle al tartufo con crema di mascarpone fate appassire a fuoco dolce uno spicchio d'aglio, con poco olio extravergine d'oliva e, quando si sar\u00e0 ben dorato, eliminatelo (-). Aggiungete i filetti di acciuga e fateli sciogliere per bene , quindi unite il mascarpone e mescolate per amalgamare tutti gli ingredienti . Stemperate, sempre a fuoco dolce, per pochi minuti e aggiustate di sale. In una pentola capiente con abbondante acqua salata fate cuocere le pappardelle e scolatele al dente . Aggiungete la pasta alla crema al mascarpone e fatela saltare qualche istante in padella . Guarnite con delle scaglie sottili di tartufo nero e mescolate bene per amalgamare il tutto . Servite le pappardelle al tartufo con crema di mascarpone ancora calde, guarnendo i piatti con le lamelle di tartufo grattugiate al momento.", "ingredients": [["Pappardelle all'uovo", "250 g"], ["Tartufo nero", "40 g"], ["Mascarpone", "250 g"], ["Acciughe (alici)", "filetti sott'olio 5"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Sale fino", "q.b."], ["Aglio", "1 spicchio"]], "contesto": "Il risultato finale di questa ricetta sar\u00e0 un piatto di pappardelle avvolte in una deliziosa crema di mascarpone arricchita con il gusto intenso del tartufo nero e delle acciughe. Il piatto sar\u00e0 cremoso, saporito e ricco di sapori, con un tocco di eleganza dato dalla presenza del tartufo.\n\nQuesto piatto \u00e8 adatto per occasioni speciali e romantiche, grazie alla complessit\u00e0 dei sapori e alla presentazione raffinata. Pu\u00f2 essere servito come primo piatto in un menu elegante o come piatto unico in una cena dedicata al tartufo.\n\nLe pappardelle al tartufo e crema di mascarpone sono adatte per una dieta equilibrata, grazie alla presenza di buoni grassi dell'olio extravergine d'oliva e del mascarpone, e delle proteine delle uova e delle acciughe. Tuttavia, \u00e8 consigliabile consumarle con moderazione a causa del loro contenuto calorico e lipidico.\n\nLe persone con intolleranze al lattosio dovrebbero evitare questo piatto a causa della presenza di mascarpone, mentre chi \u00e8 intollerante al glutine pu\u00f2 sostituire le pappardelle all'uovo con una versione senza glutine o con un'altra pasta gluten-free. Le acciughe devono essere controllate per evitare eventuali allergie ai pesci."}
+{
+    "title": "Pappardelle al tartufo e crema di mascarpone",
+    "category": "Ricette",
+    "description": "Per preparare le pappardelle al tartufo con crema di mascarpone fate appassire a fuoco dolce uno spicchio d’aglio, con poco olio extravergine d’oliva e, quando si sarà ben dorato, eliminatelo (1-2). Aggiungete i filetti di acciuga e fateli sciogliere per bene, quindi unite il mascarpone e mescolate per amalgamare tutti gli ingredienti. Stemperate, sempre a fuoco dolce, per pochi minuti e aggiustate di sale. In una pentola capiente con abbondante acqua salata fate cuocere le pappardelle e scolatele al dente. Aggiungete la pasta alla crema al mascarpone e fatela saltare qualche istante in padella. Guarnite con delle scaglie sottili di tartufo nero e mescolate bene per amalgamare il tutto. Servite le pappardelle al tartufo con crema di mascarpone ancora calde, guarnendo i piatti con le lamelle di tartufo grattugiate al momento.",
+    "ingredients": [
+        [
+            "Pappardelle all'uovo",
+            "250 g"
+        ],
+        [
+            "Tartufo nero",
+            "40 g"
+        ],
+        [
+            "Mascarpone",
+            "250 g"
+        ],
+        [
+            "Acciughe (alici)",
+            "filetti sott'olio 5"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "4 persone",
+        "Costo": "Elevato"
+    }
+}

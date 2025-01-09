@@ -1,1 +1,34 @@
-{"title": "Piadina con crudo, brie, insalata e salsa cocktail", "category": "Piatti Unici", "description": "Per preparare le piadine di crudo, brie, insalata e salsa cocktail cominciate prendendo il brie e ricavandone delle fettine tagliandolo orizzontalmente ottenendo delle striscioline . Quindi lavate l'insalata , facendo attenzione che non siano presenti residui di terreno, ed asciugatela .Nel frattempo scaldate la piadina in una padella dal fondo basso (o una crepiera) . Cuocete le  piadine su entrambi i lati per circa  minuti. Qualora durante la cottura si formassero delle bolle nella vostra piadina, potete inciderle trasversalmente con un coltellino per non bucare tutta la pasta. Cuocete la piadina su ambo i lati . Adagiate le fettine tagliate di brie distribuendole in tutta la piadina in modo tale che con il calore il formaggio si sciolga leggermente .Aggiungetevi quindi il prosciutto crudo  e l'insalata . Cospargete la piadina di salsa cocktail .Chiudete la vostra piadina a met\u00e0  e tagliatela in due parti . La vostra piadina al crudo, brie, insalata e salsa cocktail \u00e8 cos\u00ec pronta per essere gustata !", "ingredients": [["Piadine", "4"], ["Prosciutto crudo", "250 g"], ["Brie", "200 g"], ["Insalata", "100 g"], ["Salsa cocktail", "80 g"]], "contesto": "Risultato finale: La piadina con crudo, brie, insalata e salsa cocktail \u00e8 un delizioso panino caldo e croccante, riempito con fette di prosciutto crudo, formaggio brie morbido, insalata fresca e una salsa cocktail cremosa.\n\nOccasioni adatte: Questa piadina \u00e8 perfetta per un pranzo veloce o uno spuntino gustoso. \u00c8 adatta anche come piatto unico per una cena informale o per un picnic.\n\nDiete o regime alimentari adatti: Questa ricetta \u00e8 adatta a molte diete e regimi alimentari, inclusi i regimi onnivori e i piani alimentari bilanciati. Tuttavia, non \u00e8 adatta per diete vegetariane o vegane a causa del prosciutto crudo e del formaggio brie.\n\nIntolleranze: Le persone con intolleranze al lattosio dovrebbero evitare il formaggio brie a causa del suo contenuto di lattosio. Inoltre, le persone con intolleranza al glutine devono verificare che le piadine utilizzate siano senza glutine."}
+{
+    "title": "Piadina con crudo, brie, insalata e salsa cocktail",
+    "category": "Ricette",
+    "description": "Per preparare le piadine di crudo, brie, insalata e salsa cocktail cominciate prendendo il brie e ricavandone delle fettine tagliandolo orizzontalmente ottenendo delle striscioline. Quindi lavate l’insalata, facendo attenzione che non siano presenti residui di terreno, ed asciugatela. Nel frattempo scaldate la piadina in una padella dal fondo basso (o una crepiera). Cuocete le 4 piadine su entrambi i lati per circa 2 minuti. Qualora durante la cottura si formassero delle bolle nella vostra piadina, potete inciderle trasversalmente con un coltellino per non bucare tutta la pasta. Cuocete la piadina su ambo i lati. Adagiate le fettine tagliate di brie distribuendole in tutta la piadina in modo tale che con il calore il formaggio si sciolga leggermente. Aggiungetevi quindi il prosciutto crudoe l’insalata. Cospargete la piadina di salsa cocktail. Chiudete la vostra piadina a metàe tagliatela in due parti. La vostra piadina al crudo, brie, insalata e salsa cocktail è così pronta per essere gustata!",
+    "ingredients": [
+        [
+            "Piadine",
+            "4"
+        ],
+        [
+            "Prosciutto crudo",
+            "250 g"
+        ],
+        [
+            "Brie",
+            "200 g"
+        ],
+        [
+            "Insalata",
+            "100 g"
+        ],
+        [
+            "Salsa cocktail",
+            "80 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "2 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

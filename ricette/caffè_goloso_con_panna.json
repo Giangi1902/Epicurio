@@ -1,1 +1,41 @@
-{"title": "Caff\u00e8 goloso con panna", "category": "Bevande", "description": "Per preparare il caff\u00e8 goloso con panna scaldate l'acqua  e sciogliete qui un cucchiaino di caff\u00e8 solubile  e due di zucchero .Frullate con un frullino montalatte , fino a creare una spuma . A parte, in tazza versate il latte condensato .Unite anche la crema di nocciole . Versate sopra il caff\u00e8 .Montatae la panna liquida con le fruste elettriche , finch\u00e8 sar\u00e0 ben ferma , poi trasferitela in un sac-\u00e0-poche con bocchetta rigata. Spremete la panna sul caff\u00e8 .Dovrete creare uno bel ciuffo che copre tutta la superficie . Ora spolverate del cacao amaro  e servite subito il vostro caff\u00e8 goloso con panna .", "ingredients": [["Caff\u00e8 solubile", "1 cucchiaino"], ["Zucchero", "2 cucchiaini"], ["Acqua", "calda q.b."], ["Latte condensato", "1 cucchiaino"], ["Crema spalmabile alle nocciole", "1 cucchiaino"], ["Cacao amaro in polvere", "q.b."], ["Panna fresca liquida", "q.b."]], "contesto": "Il risultato finale della ricetta \"Caff\u00e8 goloso con panna\" sar\u00e0 una bevanda cremosa e golosa, dal sapore intenso e equilibrato tra il caff\u00e8, la panna e la crema alle nocciole. La presenza di zucchero e cacao amaro conferir\u00e0 un piacevole contrasto di dolcezza e amarezza.\n\nQuesto caff\u00e8 goloso con panna \u00e8 adatto per occasioni speciali, come colazioni o merende pi\u00f9 indulgenti, per coccolarsi o sorprendere gli ospiti con una bevanda particolare.\n\nQuesta ricetta non \u00e8 adatta per diete ipocaloriche o per chi ha restrizioni nel consumo di zuccheri, grassi e latticini a causa del latte condensato, della crema spalmabile alle nocciole e della panna fresca liquida. \u00c8 consigliata per chi segue una dieta equilibrata e non ha particolari restrizioni alimentari.\n\nLe persone con intolleranze al lattosio devono fare attenzione, in quanto questa ricetta contiene latte condensato, crema spalmabile alle nocciole e panna fresca liquida. Le persone con intolleranze al glutine devono fare attenzione alla marca del caff\u00e8 solubile utilizzato, poich\u00e9 potrebbe contenere tracce di glutine. Per le persone con intolleranze alle nocciole, \u00e8 possibile sostituire la crema spalmabile con un'altra crema dolce senza nocciole."}
+{
+    "title": "Caffè goloso con panna",
+    "category": "Ricette",
+    "description": "Per preparare il caffè goloso con panna scaldate l'acquae sciogliete qui un cucchiaino di caffè solubilee due di zucchero. Frullate con un frullino montalatte, fino a creare una spuma. A parte, in tazza versate il latte condensato. Unite anche la crema di nocciole. Versate sopra il caffè. Montatae la panna liquida con le fruste elettriche, finchè sarà ben ferma, poi trasferitela in un sac-à-poche con bocchetta rigata. Spremete la panna sul caffè. Dovrete creare uno bel ciuffo che copre tutta la superficie. Ora spolverate del cacao amaroe servite subito il vostro caffè goloso con panna.",
+    "ingredients": [
+        [
+            "Caffè solubile",
+            "1 cucchiaino"
+        ],
+        [
+            "Zucchero",
+            "2 cucchiaini"
+        ],
+        [
+            "Acqua",
+            "calda q.b."
+        ],
+        [
+            "Latte condensato",
+            "1 cucchiaino"
+        ],
+        [
+            "Crema spalmabile alle nocciole",
+            "1 cucchiaino"
+        ],
+        [
+            "Cacao amaro in polvere",
+            "q.b."
+        ],
+        [
+            "Panna fresca liquida",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "2 min",
+        "Dosi per": "1 pezzi"
+    }
+}

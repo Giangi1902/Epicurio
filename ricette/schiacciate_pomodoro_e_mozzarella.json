@@ -1,1 +1,42 @@
-{"title": "Schiacciate pomodoro e mozzarella", "category": "Antipasti", "description": "Per preparare le schiacciate pomodoro e mozzarella iniziate accendendo il forno a \u00b0, poi ponete la passata di pomodoro in una ciotola, unite l'origano, il sale e i due cucchiai di olio di oliva, mescolate bene  e mettetela da parte. Tagliate la mozzarella (o la provola) a piccoli cubetti , prendete la teglia del forno e rivestitela di carta da forno, adagiate sopra le schiacciate, versate un cucchiaio di salsa su ciascuno stuzzichino  e ricoprite con qualche bocconcino di mozzarella. Cuocete per circa  minuti, il tempo necessario per far sciogliere la mozzarella. Al termine della cottura estraete le schiacciate, guarnite con una foglioline di basilico e servitele ancora calde.", "ingredients": [["Schiacciate al forno", "12"], ["Mozzarella", "120 g"], ["Basilico", "12 foglie"], ["Passata di pomodoro", "100 g"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Origano", "q.b."], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 un antipasto composto da schiacciate croccanti, mozzarella filante, pomodoro fresco e profumato basilico. Il tutto sar\u00e0 arricchito da una passata di pomodoro, olio extravergine d'oliva e aromatizzato con origano e sale fino.\n\nQuesto antipasto \u00e8 adatto per occasioni informali come aperitivi, buffet, picnic o cene tra amici. \n\nLa ricetta \u00e8 adatta a persone che seguono una dieta bilanciata, in quanto l'antipasto \u00e8 leggero ma saziante grazie alla presenza di carboidrati, proteine e grassi. \u00c8 adatto anche per chi segue una dieta vegetariana.\n\nLe persone con intolleranze o allergie alle proteine del latte non possono consumare la mozzarella. Inoltre, chi \u00e8 intollerante al glutine dovrebbe controllare che le schiacciate utilizzate siano senza glutine."}
+{
+    "title": "Schiacciate pomodoro e mozzarella",
+    "category": "Ricette",
+    "description": "Per preparare le schiacciate pomodoro e mozzarella iniziate accendendo il forno a 200°, poi ponete la passata di pomodoro in una ciotola, unite l’origano, il sale e i due cucchiai di olio di oliva, mescolate benee mettetela da parte. Tagliate la mozzarella (o la provola) a piccoli cubetti, prendete la teglia del forno e rivestitela di carta da forno, adagiate sopra le schiacciate, versate un cucchiaio di salsa su ciascuno stuzzichinoe ricoprite con qualche bocconcino di mozzarella. Cuocete per circa 5 minuti, il tempo necessario per far sciogliere la mozzarella. Al termine della cottura estraete le schiacciate, guarnite con una foglioline di basilico e servitele ancora calde.",
+    "ingredients": [
+        [
+            "Schiacciate al forno",
+            "12"
+        ],
+        [
+            "Mozzarella",
+            "120 g"
+        ],
+        [
+            "Basilico",
+            "12 foglie"
+        ],
+        [
+            "Passata di pomodoro",
+            "100 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Origano",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "5 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

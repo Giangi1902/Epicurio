@@ -1,1 +1,61 @@
-{"title": "French toast alle mele", "category": "Dolci", "description": "Per realizzare il French toast alle mele, per prima cosa lavate le mele, dividetele a met\u00e0 , eliminate il torsolo  e tagliatele a fettine di circa mezzo centimetro di spessore, senza sbucciarle .Trasferite le fettine di mela in una padella capiente, unite lo zucchero , l'origano fresco  e la cannella e cuocete a fuoco dolce fino a che lo zucchero non si sar\u00e0 sciolto: ci vorranno circa - minuti.Spremete il succo d'arancia e unitelo alle mele in padella solo quando lo zucchero si sar\u00e0 sciolto , poi continuate a cuocere a fuoco dolce per un altro paio di minuti . Una volta cotte, tenete le mele temporaneamente da parte e passate alla preparazione del French toast: tagliate le fette di pancarr\u00e9 a met\u00e0 ,poi in una ciotola a parte unite le uova e il latte  e sbattete con la frusta . Ora sciogliete il burro in una padella antiaderente a fuoco molto dolce, intingete le fette di pancarr\u00e9 nel composto di latte e uova e adagiatele nella padella ben calda . Tostate il pancarr\u00e9 da entrambi i lati, per - minuti: dovr\u00e0 risultare ben dorato .\u00a0Trasferite le fette di pancarr\u00e9 tostate nei piatti e guarnite con zucchero a velo e granella di nocciole, poi servite il vostro French toast alle mele accompagnandolo con una ciotolina di miele !", "ingredients": [["Mele Fuji", "250 g"], ["Zucchero", "40 g"], ["Succo d'arancia", "1"], ["Cannella in polvere", "q.b."], ["Origano", "fresco q.b."], ["Pancarr\u00e8", "8 fette"], ["Latte intero", "80 g"], ["Burro", "50 g"], ["Uova", "2"], ["Miele millefiori", "q.b."], ["Zucchero a velo", "q.b."], ["Granella di nocciole", "q.b."]], "contesto": "Il risultato finale della French toast alle mele sar\u00e0 un dessert delizioso e profumato, con le mele che diventano morbide e dolci, unite alla delicatezza della cannella e all'aroma dell'origano. Il tutto avvolto in fette di pancarr\u00e8 imbevute di una cremina fatta con latte e uova, per poi essere cotto in padella con burro fino a che non risulti dorato e croccante. Il dolce sar\u00e0 completato da un tocco di miele, zucchero a velo e granella di nocciole per una nota croccante.\n\nLa French toast alle mele \u00e8 adatta per occasioni speciali come colazioni o brunch eleganti, ma pu\u00f2 essere gustata anche come dessert dopo un pasto leggero. \u00c8 perfetta per chi segue una dieta equilibrata, accompagnata da una tazza di t\u00e8 o caff\u00e8.\n\nLe persone con intolleranze al lattosio possono trovare una variante utilizzando latte senza lattosio, mentre chi \u00e8 intollerante al glutine pu\u00f2 optare per pane senza glutine al posto del pancarr\u00e8. Chi ha intolleranze alle nocciole pu\u00f2 eliminare la granella oppure sostituirla con altra frutta secca a piacere."}
+{
+    "title": "French toast alle mele",
+    "category": "Ricette",
+    "description": "Per realizzare il French toast alle mele, per prima cosa lavate le mele, dividetele a metà, eliminate il torsoloe tagliatele a fettine di circa mezzo centimetro di spessore, senza sbucciarle. Trasferite le fettine di mela in una padella capiente, unite lo zucchero, l’origano frescoe la cannella e cuocete a fuoco dolce fino a che lo zucchero non si sarà sciolto: ci vorranno circa 5-6 minuti. Spremete il succo d'arancia e unitelo alle mele in padella solo quando lo zucchero si sarà sciolto, poi continuate a cuocere a fuoco dolce per un altro paio di minuti. Una volta cotte, tenete le mele temporaneamente da parte e passate alla preparazione del French toast: tagliate le fette di pancarré a metà, poi in una ciotola a parte unite le uova e il lattee sbattete con la frusta. Ora sciogliete il burro in una padella antiaderente a fuoco molto dolce, intingete le fette di pancarré nel composto di latte e uova e adagiatele nella padella ben calda. Tostate il pancarré da entrambi i lati, per 1-2 minuti: dovrà risultare ben dorato. Trasferite le fette di pancarré tostate nei piatti e guarnite con zucchero a velo e granella di nocciole, poi servite il vostro French toast alle mele accompagnandolo con una ciotolina di miele!",
+    "ingredients": [
+        [
+            "Mele Fuji",
+            "250 g"
+        ],
+        [
+            "Zucchero",
+            "40 g"
+        ],
+        [
+            "Succo d'arancia",
+            "1"
+        ],
+        [
+            "Cannella in polvere",
+            "q.b."
+        ],
+        [
+            "Origano",
+            "fresco q.b."
+        ],
+        [
+            "Pancarrè",
+            "8 fette"
+        ],
+        [
+            "Latte intero",
+            "80 g"
+        ],
+        [
+            "Burro",
+            "50 g"
+        ],
+        [
+            "Uova",
+            "2"
+        ],
+        [
+            "Miele millefiori",
+            "q.b."
+        ],
+        [
+            "Zucchero a velo",
+            "q.b."
+        ],
+        [
+            "Granella di nocciole",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone"
+    }
+}

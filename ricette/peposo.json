@@ -1,1 +1,35 @@
-{"title": "Peposo", "category": "Secondi piatti", "description": "Per preparare il peposo come prima cosa sistemate i granelli di pepe in una garza  e realizzate un pacchettino chiudendolo con dello spago . Passate ora alla carne, tagliatela prima a fette spesse circa  cm e poi a listarelle lunghe  cm . Non rifilate la carne dal grasso, a meno che non sia eccessivo. Ponete sul fuoco una pentola, possibilmente di ghisa, aggiungete la carne , gli spicchi d'aglio sbucciati e la garza con il pepe . Mescolate  e rosolate la carne per almeno  minuti. A questo punto versate il vino rosso e coprite con il coperchio . Lasciate cuocere a fiamma bassa per  ore. Togliete quindi il coperchio regolate di sale , mescolate  e lasciate cuocere per altre due ore sempre a fiamma bassa, mescolando di tanto in tanto.\u00a0Quando il sughetto si sar\u00e0 ritirato eliminate la garza con il pepe . Il vostro peposo \u00e8 pronto , assaggiate la carne per verificarne la cottura, se dovesse essere necessario regolate di sale e servitelo .\u00a0", "ingredients": [["Cappello del prete", "1400 g"], ["Vino rosso", "(Chianti) 500 g"], ["Pepe nero in grani", "10"], ["Aglio", "4 spicchi"], ["Olio extravergine d'oliva", "q.b."]], "contesto": "Il risultato finale della ricetta Peposo \u00e8 un gustoso stufato di carne di manzo marinato in vino rosso e aromatizzato con pepe nero e aglio. La carne risulter\u00e0 tenera e succulenta, con una salsa ricca e saporita.\n\nQuesto piatto \u00e8 adatto per occasioni informali e conviviali, perfetto da gustare in compagnia di amici e parenti. \n\nLa ricetta del Peposo \u00e8 adatta per diete onnivore e non \u00e8 adatta per diete vegetariane, vegane o pescatarie a causa della presenza di carne di manzo. \n\nLe persone con intolleranze al glutine possono mangiare questa ricetta purch\u00e9 si assicurino che tutti gli ingredienti utilizzati siano privi di glutine. Le persone con intolleranze all'aglio e al pepe nero dovrebbero fare attenzione e eventualmente adattare la ricetta alle proprie esigenze."}
+{
+    "title": "Peposo",
+    "category": "Ricette",
+    "description": "Per preparare il peposo come prima cosa sistemate i granelli di pepe in una garzae realizzate un pacchettino chiudendolo con dello spago. Passate ora alla carne, tagliatela prima a fette spesse circa 3 cm e poi a listarelle lunghe 4 cm. Non rifilate la carne dal grasso, a meno che non sia eccessivo. Ponete sul fuoco una pentola, possibilmente di ghisa, aggiungete la carne, gli spicchi d'aglio sbucciati e la garza con il pepe. Mescolatee rosolate la carne per almeno 10 minuti. A questo punto versate il vino rosso e coprite con il coperchio. Lasciate cuocere a fiamma bassa per 2 ore. Togliete quindi il coperchio regolate di sale, mescolatee lasciate cuocere per altre due ore sempre a fiamma bassa, mescolando di tanto in tanto. Quando il sughetto si sarà ritirato eliminate la garza con il pepe. Il vostro peposo è pronto, assaggiate la carne per verificarne la cottura, se dovesse essere necessario regolate di sale e servitelo.",
+    "ingredients": [
+        [
+            "Cappello del prete",
+            "1400 g"
+        ],
+        [
+            "Vino rosso",
+            "(Chianti) 500 g"
+        ],
+        [
+            "Pepe nero in grani",
+            "10"
+        ],
+        [
+            "Aglio",
+            "4 spicchi"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "4 h",
+        "Dosi per": "6 persone",
+        "Costo": "Medio",
+        "NotaDALLA REDAZIONE": "Il peposo all'Impruneta è una ricetta registrata presso l'Ufficio Marchi e Brevetti della Camera di Commercio di Firenze, che ne indica i canoni per la produzione. La nostra ricetta rispetta queste indicazioni, con le debite differenze"
+    }
+}

@@ -1,1 +1,42 @@
-{"title": "Frittatine nella pancetta", "category": "Antipasti", "description": "Per preparare le frittatine nella pancetta, iniziate accendendo il forno a \u00b0. In una terrina sbattete con una forchetta le uova  con la panna , il formaggio , il sale, il pepe eper ultimo aggiungete il basilico spezzato con le mani  per aromatizzare il composto. Prendete una teglia da muffin e foderate ogni stampo con due fette di pancetta, incrociandole, in modo da ricoprirne totalmente la superficie . Non \u00e8 necessario ungere gli stampini in quanto la pancetta stessa, grazie alla sua componente grassa, eviter\u00e0 che il composto si attacchi alla teglia creando una gustosa crosta croccante che andr\u00e0 a formare il cestino. Versate il composto di uova in ogni stampo  riempiendolo fino a poco sotto il bordo (con le dosi indicate si possono riempire  stampini). Infornate per  \u2013  minuti finch\u00e9 la superficie delle frittatine sar\u00e0 ben dorata. Una volta ultimata la cottura, sformate le frittatine e servitele calde.Volendo si possono aggiungere alle frittatine delle verdurine tagliate a dadini molto piccoli (zucchine, melanzane, funghi, carciofi).", "ingredients": [["Uova", "6"], ["Pancetta", "24 fette"], ["Parmigiano Reggiano DOP", "da grattugiare 3 cucchiai"], ["Panna fresca liquida", "150 g"], ["Basilico", "1 ciuffo"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale sar\u00e0 delle deliziose frittatine avvolte nella pancetta croccante e arricchite dal sapore del Parmigiano Reggiano e del basilico.\n\nOccasioni adatte: le frittatine nella pancetta sono perfette come antipasto per una cena tra amici o per un buffet.\n\nDieta adatta: questa ricetta \u00e8 adatta a una dieta proteica e pu\u00f2 essere consumata anche in una dieta chetogenica o low carb.\n\nIntolleranze: le persone con intolleranza al lattosio possono sostituire il Parmigiano Reggiano con formaggio senza lattosio o con un altro tipo di formaggio adatto. Le persone con intolleranza al glutine devono verificare che la pancetta utilizzata non contenga glutine."}
+{
+    "title": "Frittatine nella pancetta",
+    "category": "Ricette",
+    "description": "Per preparare le frittatine nella pancetta, iniziate accendendo il forno a 180°. In una terrina sbattete con una forchetta le uovacon la panna, il formaggio, il sale, il pepe e per ultimo aggiungete il basilico spezzato con le maniper aromatizzare il composto. Prendete una teglia da muffin e foderate ogni stampo con due fette di pancetta, incrociandole, in modo da ricoprirne totalmente la superficie. Non è necessario ungere gli stampini in quanto la pancetta stessa, grazie alla sua componente grassa, eviterà che il composto si attacchi alla teglia creando una gustosa crosta croccante che andrà a formare il cestino. Versate il composto di uova in ogni stamporiempiendolo fino a poco sotto il bordo (con le dosi indicate si possono riempire 12 stampini). Infornate per 12 – 15 minuti finché la superficie delle frittatine sarà ben dorata. Una volta ultimata la cottura, sformate le frittatine e servitele calde.Volendo si possono aggiungere alle frittatine delle verdurine tagliate a dadini molto piccoli (zucchine, melanzane, funghi, carciofi).",
+    "ingredients": [
+        [
+            "Uova",
+            "6"
+        ],
+        [
+            "Pancetta",
+            "24 fette"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "da grattugiare 3 cucchiai"
+        ],
+        [
+            "Panna fresca liquida",
+            "150 g"
+        ],
+        [
+            "Basilico",
+            "1 ciuffo"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "15 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,38 @@
-{"title": "Uova colorate", "category": "Antipasti", "description": "Per preparare le uova colorate come prima cosa tagliate il cavolo viola a pezzi . Immergete il cavolo viola in acqua  e lasciatelo cuocere per  minuti .\u00a0Nel frattempo immergete le uova in acqua bollente, aiutandovi con una schiumarola . Cuocete per  minuti, poi scolatele e immergetele in una ciotola con acqua fredda . Sgusciatele delicatamente  e tenetele da parte.\u00a0Trascorsi i  minuti di cottura del cavolo viola, lasciatelo intiepidire e filtrate\u00a0il liquido di cottura . Dividetelo in due ciotole  e in una delle due ciotole versate il succo di limone  e mescolate.In questo modo una diventer\u00e0 viola e l'altra rester\u00e0 blu . Ora immergete met\u00e0 delle uova nella ciotola con l'acqua viola  e met\u00e0 nella ciotola con l'acqua blu .Lasciate le uova in infusione almeno  ore, tutta la notte sarebbe anche meglio. Una volta passato il tempo minimo di infusione togliete le uova colorate dall'acqua  , asciugatele, tagliatele a met\u00e0 e condite con sale e pepe nero prima di servirle .", "ingredients": [["Uova", "16"], ["Cavolo viola", "(mezzo) 500 g"], ["Acqua", "4 l"], ["Succo di limone", "1"], ["Sale fino", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Risultato finale: Le uova colorate sono delle uova sode immerse in un liquido colorato ottenuto dalla bollitura del cavolo viola. Le uova acquisteranno una tonalit\u00e0 viola e saranno condite con un tocco di limone, sale e pepe.\n\nOccasioni adatte: Le uova colorate sono perfette come antipasto per buffet, brunch o come elementi decorativi per tavole festive come Pasqua o Halloween.\n\nDiete o regime alimentare: Le uova colorate possono essere incluse in una dieta equilibrata in quanto contengono proteine di alta qualit\u00e0 provenienti dalle uova. Sono adatte anche per una dieta vegetariana o senza glutine.\n\nIntolleranze alimentari: Le uova colorate possono essere consumate da persone senza intolleranze. Tuttavia, per coloro che sono intolleranti alle uova, questo piatto non \u00e8 adatto. \u00c8 possibile sostituire le uova con alternative vegetali, come tofu o formaggio vegano, per adattarlo alle esigenze di persone con intolleranze alle uova."}
+{
+    "title": "Uova colorate",
+    "category": "Ricette",
+    "description": "Per preparare le uova colorate come prima cosa tagliate il cavolo viola a pezzi. Immergete il cavolo viola in acquae lasciatelo cuocere per 30 minuti. Nel frattempo immergete le uova in acqua bollente, aiutandovi con una schiumarola. Cuocete per 8 minuti, poi scolatele e immergetele in una ciotola con acqua fredda. Sgusciatele delicatamentee tenetele da parte. Trascorsi i 30 minuti di cottura del cavolo viola, lasciatelo intiepidire e filtrate il liquido di cottura. Dividetelo in due ciotolee in una delle due ciotole versate il succo di limonee mescolate. In questo modo una diventerà viola e l'altra resterà blu. Ora immergete metà delle uova nella ciotola con l'acqua violae metà nella ciotola con l'acqua blu. Lasciate le uova in infusione almeno 3 ore, tutta la notte sarebbe anche meglio. Una volta passato il tempo minimo di infusione togliete le uova colorate dall’acqua, asciugatele, tagliatele a metà e condite con sale e pepe nero prima di servirle.",
+    "ingredients": [
+        [
+            "Uova",
+            "16"
+        ],
+        [
+            "Cavolo viola",
+            "(mezzo) 500 g"
+        ],
+        [
+            "Acqua",
+            "4 l"
+        ],
+        [
+            "Succo di limone",
+            "1"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "30 min",
+        "Dosi per": "16 pezzi",
+        "Costo": "Basso"
+    }
+}

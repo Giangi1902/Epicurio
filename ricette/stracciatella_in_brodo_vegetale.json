@@ -1,1 +1,66 @@
-{"title": "Stracciatella in brodo vegetale", "category": "Primi piatti", "description": "Per preparare la stracciatella in brodo vegetale come prima cosa preparate appunto il brodo. Lavate bene le verdure e sbucciate le carote . Tagliatele poi a tocchetti  e fate lo stesso con il sedano .Tagliate a rondelle anche il porro eliminando la parte con le radici  e dividete in falde le cipolle; separate poi i vari strati . In una pentola versate circa  litri di acqua fredda e aggiungete le verdure .Unite anche i chiodi di garofano , il sale  e il concentrato di pomodoro .Cuocete a fiamma media per circa  minuti . Trascorso questo tempo  filtrate il brodo .Versatelo nuovamente in pentola  e tenetelo al caldo. Intanto in una ciotola versate le uova  e aggiungete il parmigiano .Grattate all'interno anche della noce moscata  e mescolate con una frusta. Versate il composto di uova a filo nel brodo a bollore, mescolando con la frusta .Continuate a mescolare sino a che le uova non risulteranno ben strapazzate . Cuocete per  minuti , poi impiattate, aggiungete una grattata di pepe e servite .", "ingredients": [["Carote", "2"], ["Porri", "1"], ["Sedano", "1 costa"], ["Cipolle dorate", "1"], ["Acqua", "2 l"], ["Concentrato di pomodoro", "1 cucchiaio"], ["Chiodi di garofano", "q.b."], ["Sale fino", "q.b."], ["Uova", "2"], ["Parmigiano Reggiano DOP", "60 g"], ["Sale fino", "q.b."], ["Noce moscata", "q.b."], ["Pepe nero", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 una zuppa leggera e saporita, arricchita dalla presenza della stracciatella, una preparazione a base di uova e formaggio che si scioglie nel brodo creando una consistenza cremosa e avvolgente.\n\nQuesto piatto \u00e8 adatto per le occasioni in cui si desidera qualcosa di leggero e confortante, perfetto per una cena invernale o come antipasto raffinato. \n\nLa ricetta \u00e8 adatta per le persone che seguono una dieta vegetariana, in quanto il brodo \u00e8 preparato con verdure e non contiene carne. \u00c8 inoltre adatto per chi segue una dieta senza glutine, purch\u00e9 si verifichi che tutti gli ingredienti utilizzati siano privi di glutine.\n\nLe persone con intolleranze al lattosio possono avere problemi a digerire il Parmigiano Reggiano DOP, quindi potrebbero dover sostituirlo con un formaggio senza lattosio. Le persone con intolleranze alle uova non potranno consumare la stracciatella, ma potrebbero comunque gustare il brodo vegetale senza questo ingrediente."}
+{
+    "title": "Stracciatella in brodo vegetale",
+    "category": "Ricette",
+    "description": "Per preparare la stracciatella in brodo vegetale come prima cosa preparate appunto il brodo. Lavate bene le verdure e sbucciate le carote. Tagliatele poi a tocchettie fate lo stesso con il sedano. Tagliate a rondelle anche il porro eliminando la parte con le radicie dividete in falde le cipolle; separate poi i vari strati. In una pentola versate circa 2 litri di acqua fredda e aggiungete le verdure. Unite anche i chiodi di garofano, il salee il concentrato di pomodoro. Cuocete a fiamma media per circa 40 minuti. Trascorso questo tempofiltrate il brodo. Versatelo nuovamente in pentolae tenetelo al caldo. Intanto in una ciotola versate le uovae aggiungete il parmigiano. Grattate all'interno anche della noce moscatae mescolate con una frusta. Versate il composto di uova a filo nel brodo a bollore, mescolando con la frusta. Continuate a mescolare sino a che le uova non risulteranno ben strapazzate. Cuocete per 5 minuti, poi impiattate, aggiungete una grattata di pepe e servite.",
+    "ingredients": [
+        [
+            "Carote",
+            "2"
+        ],
+        [
+            "Porri",
+            "1"
+        ],
+        [
+            "Sedano",
+            "1 costa"
+        ],
+        [
+            "Cipolle dorate",
+            "1"
+        ],
+        [
+            "Acqua",
+            "2 l"
+        ],
+        [
+            "Concentrato di pomodoro",
+            "1 cucchiaio"
+        ],
+        [
+            "Chiodi di garofano",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Uova",
+            "2"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "60 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Noce moscata",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "15 min",
+        "Cottura": "45 min",
+        "Dosi per": "2 persone",
+        "Costo": "Basso"
+    }
+}

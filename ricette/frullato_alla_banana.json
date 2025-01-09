@@ -1,1 +1,25 @@
-{"title": "Frullato alla banana", "category": "Bevande", "description": "Per preparare il frullato di banana cominciate prendendo il limone. Tagliatelo a met\u00e0 e ricavatene il succo di una met\u00e0 . Prendete ora una banana e sbucciatela e tagliatela a rondelle . Riponete le rondelle della banana in una ciotola e cospargetela con il succo di mezzo limone .Ora prendete la banana a cui avete aggiunto il succo di mezzo limone e mettetela in un mixer . Aggiungete quindi l'acqua . Frullate bene fino ad ottenere un composto liscio ed omogeneo. Servite ora il vostro frullato di banana in un bicchiere o in una caraffa .", "ingredients": [["Banane", "340 g"], ["Succo di limone", "25 g"], ["Acqua", "200 g"]], "contesto": "Il frullato alla banana avr\u00e0 un colore giallo chiaro e una consistenza cremosa. Il sapore sar\u00e0 dolce e fruttato, con una leggera nota acidula data dal succo di limone. Sar\u00e0 una bevanda rinfrescante e nutrienti, perfetta da gustare come spuntino o colazione.\n\nIl frullato alla banana \u00e8 adatto per occasioni informali come merende o colazioni veloci. Pu\u00f2 essere servito come alternativa salutare ai succhi confezionati o alle bevande zuccherate.\n\nQuesta ricetta \u00e8 adatta a persone che seguono una dieta vegana o vegetariana, in quanto non contiene ingredienti di origine animale. \u00c8 inoltre adatta a persone che seguono una dieta bilanciata e vogliono integrare la frutta nella loro alimentazione.\n\nLe persone con intolleranze al glutine possono gustare questa bevanda in quanto \u00e8 naturalmente priva di glutine. Tuttavia, le persone con intolleranze al lattosio dovrebbero fare attenzione all'acqua utilizzata, scegliendo una marca garantita senza lattosio. Le persone con allergie alle banane dovrebbero ovviamente evitare questo frullato."}
+{
+    "title": "Frullato alla banana",
+    "category": "Ricette",
+    "description": "Per preparare il frullato di banana cominciate prendendo il limone. Tagliatelo a metà e ricavatene il succo di una metà. Prendete ora una banana e sbucciatela e tagliatela a rondelle. Riponete le rondelle della banana in una ciotola e cospargetela con il succo di mezzo limone. Ora prendete la banana a cui avete aggiunto il succo di mezzo limone e mettetela in un mixer. Aggiungete quindi l’acqua. Frullate bene fino ad ottenere un composto liscio ed omogeneo. Servite ora il vostro frullato di banana in un bicchiere o in una caraffa.",
+    "ingredients": [
+        [
+            "Banane",
+            "340 g"
+        ],
+        [
+            "Succo di limone",
+            "25 g"
+        ],
+        [
+            "Acqua",
+            "200 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

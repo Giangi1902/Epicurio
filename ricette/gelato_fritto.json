@@ -1,1 +1,42 @@
-{"title": "Gelato fritto", "category": "Dolci", "description": "Per realizzare il gelato fritto, per prima cosa tagliate il rotolo a fette dello spessore di circa\u00a0mezzo cm ; ve ne serviranno  in totale. Adagiate  fette sul palmo della mano  e posizionate al centro una pallina di gelato, aiutandovi con uno spallinatore .\u00a0Ricoprite con un'altra fetta  e schiacciate delicatamente con le mani per formare una pallina dall'aspetto uniforme . Avvolgete ogni pallina con pellicola trasparente, poi mettetele su un vassoio e riponete in congelatore . Lasciate solidificare per almeno  minuti.Nel frattempo preparate la pastella: setacciate la farina in una ciotola, poi aggiungete il lievito per dolci , l'olio di semi  e l'acqua fredda .Mescolate con una frusta a mano per ottenere un composto omogeneo, cremoso e senza grumi . Trascorso il tempo di raffreddamento versate l'olio di semi per la frittura in un pentolino e portatelo\u00a0alla temperatura di \u00b0-\u00b0. Tuffate una pallina per volta nella pastella, rigirandola con l'aiuto di un cucchiaio per ricoprirla interamente , poi immergetela nell'olio bollente .Friggete la pallina per - minuti fino a doratura, poi scolate  e trasferite su carta assorbente . Proseguite in questo modo con tutti gli altri pezzi e servite immediatamente il vostro gelato fritto\u00a0!", "ingredients": [["Gelato alla crema", "freddo di freezer 200 g"], ["Pan di Spagna", "rotolo farcito 250 g"], ["Farina 00", "200 g"], ["Acqua", "fredda 170 g"], ["Lievito in polvere per dolci", "24 g"], ["Olio di semi di arachide", "1 cucchiaio"], ["Olio di semi di arachide", "q.b."]], "contesto": "Risultato finale: Il gelato fritto sar\u00e0 croccante fuori e morbido dentro, con un contrasto di temperature e consistenze che lo rendono un dessert davvero goloso.\n\nOccasioni adatte: Il gelato fritto \u00e8 perfetto come dessert per una cena speciale, una festa di compleanno o come dolce originale da offrire agli ospiti.\n\nDiete o regime alimentare adatti: Il gelato fritto \u00e8 adatto a chi non segue particolari diete, ma va consumato con moderazione a causa dell'alto contenuto calorico e di grassi.\n\nIntolleranze: Le persone con intolleranza al lattosio possono sostituire il gelato alla crema con una versione senza lattosio. Chi soffre di intolleranza al glutine pu\u00f2 utilizzare un pan di Spagna senza glutine. \u00c8 inoltre importante verificare che gli ingredienti utilizzati siano privi di tracce di allergeni."}
+{
+    "title": "Gelato fritto",
+    "category": "Ricette",
+    "description": "Per realizzare il gelato fritto, per prima cosa tagliate il rotolo a fette dello spessore di circa mezzo cm; ve ne serviranno 16 in totale. Adagiate 3 fette sul palmo della manoe posizionate al centro una pallina di gelato, aiutandovi con uno spallinatore. Ricoprite con un’altra fettae schiacciate delicatamente con le mani per formare una pallina dall’aspetto uniforme. Avvolgete ogni pallina con pellicola trasparente, poi mettetele su un vassoio e riponete in congelatore. Lasciate solidificare per almeno 30 minuti. Nel frattempo preparate la pastella: setacciate la farina in una ciotola, poi aggiungete il lievito per dolci, l’olio di semie l’acqua fredda. Mescolate con una frusta a mano per ottenere un composto omogeneo, cremoso e senza grumi. Trascorso il tempo di raffreddamento versate l’olio di semi per la frittura in un pentolino e portatelo alla temperatura di 170°-180°. Tuffate una pallina per volta nella pastella, rigirandola con l’aiuto di un cucchiaio per ricoprirla interamente, poi immergetela nell’olio bollente. Friggete la pallina per 2-3 minuti fino a doratura, poi scolatee trasferite su carta assorbente. Proseguite in questo modo con tutti gli altri pezzi e servite immediatamente il vostro gelato fritto!",
+    "ingredients": [
+        [
+            "Gelato alla crema",
+            "freddo di freezer 200 g"
+        ],
+        [
+            "Pan di Spagna",
+            "rotolo farcito 250 g"
+        ],
+        [
+            "Farina 00",
+            "200 g"
+        ],
+        [
+            "Acqua",
+            "fredda 170 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "24 g"
+        ],
+        [
+            "Olio di semi di arachide",
+            "1 cucchiaio"
+        ],
+        [
+            "Olio di semi di arachide",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Media",
+        "Preparazione": "40 min",
+        "Cottura": "12 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

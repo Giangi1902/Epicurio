@@ -1,1 +1,50 @@
-{"title": "Rag\u00f9 alla napoletana", "category": "Piatti Unici", "description": "Per preparare il rag\u00f9 alla napoletana cominciate pelando e tritando la cipolla . Poi sgrassate la carne eliminando con una lama affilata la parte grassa dal biancostato di manzo  e dividete in pezzi .In una casseruola molto capiente lasciate rosolare la cipolla, a fiamma bassa, insieme all'olio extravergine d'oliva per qualche minuto . Poi unite i pezzi di biancostato e le costine , le salsicce e lasciate sigillare tutti i lati per - minuti . Sfumate con il vino rosso  e, non appena l'alcol sar\u00e0 completamente evaporato, versate la passata di pomodoro .Aggiungete anche l'acqua  ed un pizzico di sale. Cuocete a fuoco dolce, quasi sobbollente, per almeno  ore . Se l'acqua dovesse evaporare eccessivamente, potrete aggiungerne ancora al bisogno. Trascorso il tempo necessario, affinch\u00e9 la carne si ammorbidisca a sufficienza ed i sapori si siano ben amalgamati, verificate che il rag\u00f9 napoletano sia salato al punto giusto e poi gustatelo .", "ingredients": [["Biancostato di manzo", "700 g"], ["Costine di maiale", "320 g"], ["Salsiccia", "di maiale 340 g"], ["Passata di pomodoro", "700 g"], ["Cipolle dorate", "300 g"], ["Olio extravergine d'oliva", "60 g"], ["Vino rosso", "70 g"], ["Acqua", "300 g"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale del rag\u00f9 alla napoletana sar\u00e0 un sugo ricco e saporito, con pezzi teneri di carne e aromi mediterranei. La consistenza sar\u00e0 densa e avvolgente, perfetta per condire pasta fresca fatta in casa o gnocchi.\n\nQuesto piatto \u00e8 adatto per occasioni speciali come pranzi in famiglia o cene con gli amici. Pu\u00f2 essere servito come piatto unico o come condimento per diversi tipi di pasta.\n\nIl rag\u00f9 alla napoletana \u00e8 adatto a persone che seguono una dieta onnivora. Tuttavia, \u00e8 importante fare attenzione alle porzioni per non eccedere con le calorie e i grassi contenuti nella carne e nella salsiccia.\n\nLe persone con intolleranze alimentari al glutine dovrebbero evitare di consumare il rag\u00f9 alla napoletana con la pasta. Inoltre, chi \u00e8 intollerante al lattosio potrebbe dover scegliere con cura la salsiccia utilizzata per evitare ingredienti non consentiti. Infine, coloro che sono intolleranti al glutammato monosodico dovrebbero prestare attenzione agli ingredienti aggiunti come il dado da brodo."}
+{
+    "title": "Ragù alla napoletana",
+    "category": "Ricette",
+    "description": "Per preparare il ragù alla napoletana cominciate pelando e tritando la cipolla. Poi sgrassate la carne eliminando con una lama affilata la parte grassa dal biancostato di manzoe dividete in pezzi. In una casseruola molto capiente lasciate rosolare la cipolla, a fiamma bassa, insieme all’olio extravergine d’oliva per qualche minuto. Poi unite i pezzi di biancostato e le costine, le salsicce e lasciate sigillare tutti i lati per 6-7 minuti. Sfumate con il vino rossoe, non appena l’alcol sarà completamente evaporato, versate la passata di pomodoro. Aggiungete anche l’acquaed un pizzico di sale. Cuocete a fuoco dolce, quasi sobbollente, per almeno 4 ore. Se l’acqua dovesse evaporare eccessivamente, potrete aggiungerne ancora al bisogno. Trascorso il tempo necessario, affinché la carne si ammorbidisca a sufficienza ed i sapori si siano ben amalgamati, verificate che il ragù napoletano sia salato al punto giusto e poi gustatelo.",
+    "ingredients": [
+        [
+            "Biancostato di manzo",
+            "700 g"
+        ],
+        [
+            "Costine di maiale",
+            "320 g"
+        ],
+        [
+            "Salsiccia",
+            "di maiale 340 g"
+        ],
+        [
+            "Passata di pomodoro",
+            "1400 g"
+        ],
+        [
+            "Cipolle dorate",
+            "300 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "60 g"
+        ],
+        [
+            "Vino rosso",
+            "70 g"
+        ],
+        [
+            "Acqua",
+            "300 g"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "4 h 10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

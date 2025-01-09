@@ -1,1 +1,29 @@
-{"title": "Liquore al mandarino", "category": "Bevande", "description": "Per realizzare il liquore al mandarino per prima cosa lavate i mandarini sotto l'acqua corrente  e asciugateli con cura con un canovaccio pulito , poi rimuovete delicatamente la buccia .Dopo aver separato i frutti dalle scorze , ricoprite quest'ultime con l'alcol puro . Lasciate macerare per  giorni a temperatura ambiente coperto con pellicola, in un luogo fresco e al riparo dalla luce . Ricordatevi di agitare il composto una volta al giorno.Trascorso questo tempo preparate lo sciroppo: versate lo zucchero e l'acqua in un pentolino , accendete il fuoco  e aspettate che raggiunga il bollore , poi spegnete e lasciate raffreddare completamente.Aggiungete lo sciroppo al composto di scorze e alcol , mescolate bene e lasciate riposare coperto per circa - giorni , avendo sempre cura di agitare il tutto una volta al giorno. Trascorso questo tempo il volume risulter\u00e0 leggermente ridotto e il colore pi\u00f9 intenso .A questo punto filtrate il composto per eliminare le scorze  e travasatelo nelle bottiglie . Il vostro liquore al mandarino \u00e8 pronto per essere gustato ben freddo !", "ingredients": [["Mandarini", "non trattati 20"], ["Alcol puro", "96\u00b0 1 l"], ["Acqua", "1 l"], ["Zucchero", "1 kg"]], "contesto": "Il risultato finale della ricetta \"Liquore al mandarino\" \u00e8 un liquore dolce e profumato, con il gusto fresco e fruttato dei mandarini.\n\nOccasioni adatte:\n- Il liquore al mandarino \u00e8 perfetto come digestivo da gustare dopo i pasti, oppure da servire in occasioni speciali come feste e compleanni.\n\nDiete o regimi alimentari adatti:\n- Questo liquore \u00e8 adatto a chi segue una dieta vegetariana o vegana, in quanto non contiene ingredienti di origine animale.\n\nIntolleranze:\n- Le persone con intolleranza al lattosio possono consumare il liquore al mandarino, in quanto non contiene latticini.\n- Le persone con intolleranza al glutine possono consumare il liquore al mandarino, in quanto non contiene glutine.\n- Le persone con intolleranza al fruttosio devono fare attenzione, in quanto i mandarini e lo zucchero contenuti possono essere ricchi di fruttosio. \u00c8 consigliabile consultare un medico prima di consumare il liquore."}
+{
+    "title": "Liquore al mandarino",
+    "category": "Ricette",
+    "description": "Per realizzare il liquore al mandarino per prima cosa lavate i mandarini sotto l’acqua correntee asciugateli con cura con un canovaccio pulito, poi rimuovete delicatamente la buccia. Dopo aver separato i frutti dalle scorze, ricoprite quest’ultime con l’alcol puro. Lasciate macerare per 5 giorni a temperatura ambiente coperto con pellicola, in un luogo fresco e al riparo dalla luce. Ricordatevi di agitare il composto una volta al giorno. Trascorso questo tempo preparate lo sciroppo: versate lo zucchero e l’acqua in un pentolino, accendete il fuocoe aspettate che raggiunga il bollore, poi spegnete e lasciate raffreddare completamente. Aggiungete lo sciroppo al composto di scorze e alcol, mescolate bene e lasciate riposare coperto per circa 10-20 giorni, avendo sempre cura di agitare il tutto una volta al giorno. Trascorso questo tempo il volume risulterà leggermente ridotto e il colore più intenso. A questo punto filtrate il composto per eliminare le scorzee travasatelo nelle bottiglie. Il vostro liquore al mandarino è pronto per essere gustato ben freddo!",
+    "ingredients": [
+        [
+            "Mandarini",
+            "non trattati 20"
+        ],
+        [
+            "Alcol puro",
+            "96° 1 l"
+        ],
+        [
+            "Acqua",
+            "1 l"
+        ],
+        [
+            "Zucchero",
+            "1 kg"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "30 min",
+        "Cottura": "5 min",
+        "Costo": "Basso"
+    }
+}

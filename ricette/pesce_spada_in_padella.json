@@ -1,1 +1,42 @@
-{"title": "Pesce spada in padella", "category": "Secondi piatti", "description": "Per preparare il pesce spada in padella, come prima cosa tamponate il pesce con dei fogli di carta assorbente . Lavate e asciugate il ciuffo di prezzemolo, quindi tritatelo finemente . Spremete il succo del limone , filtratelo e tenete da parte.\u00a0In una padella rosolate versate un filo d'olio e rosolate l'aglio, intero e ma senza camicia. Se lo infilzerete con uno stuzzicadenti , sar\u00e0 pi\u00f9 facile rimuoverlo poi: servir\u00e0 solamente per insaporire il pesce durante i primi passaggi della cottura. Adagiate il pesce spada in padella  e rosolatelo un minuto per lato. Ora sfumate con il vino bianco .\u00a0Quando la parte alcolica sar\u00e0 evaporata, versate il succo del limone filtrato . Rimuovete l'aglio . Girate ancora il pesce e proseguite la cottura a fiamma medio bassa. Aggiungete un pizzico di sale e il prezzemolo .Completate a piacere con qualche fettina di limone . Fate colorare per un paio di minuti  portate in tavola il pesce spada in padela ben caldo.", "ingredients": [["Pesce spada", "300 g"], ["Vino bianco", "150 g"], ["Prezzemolo", "4 g"], ["Aglio", "1 spicchio"], ["Succo di limone", "40 g"], ["Olio extravergine d'oliva", "2 cucchiai"], ["Sale fino", "q.b."]], "contesto": "Il risultato finale della ricetta sar\u00e0 un delizioso pesce spada delicatamente cotto in padella con aromi freschi come prezzemolo e aglio, arricchito dal sapore del vino bianco e del succo di limone.\n\nOccasioni: Questo piatto \u00e8 perfetto per un pranzo o una cena leggera ma gustosa, adatto sia per un pasto tra amici sia per una cena romantica.\n\nDiete: Questa ricetta \u00e8 adatta a una dieta Mediterranea e a una dieta povera di grassi, in quanto il pesce spada \u00e8 un alimento ricco di proteine magre e povero di grassi saturi. \n\nIntolleranze: Le persone con intolleranze all'aglio possono ometterlo dalla ricetta senza compromettere troppo il risultato finale. Chi soffre di intolleranza al glutine dovr\u00e0 fare attenzione al tipo di vino bianco utilizzato, poich\u00e9 alcuni vini potrebbero contenere tracce di glutine."}
+{
+    "title": "Pesce spada in padella",
+    "category": "Ricette",
+    "description": "Per preparare il pesce spada in padella, come prima cosa tamponate il pesce con dei fogli di carta assorbente. Lavate e asciugate il ciuffo di prezzemolo, quindi tritatelo finemente. Spremete il succo del limone, filtratelo e tenete da parte. In una padella rosolate versate un filo d'olio e rosolate l'aglio, intero e ma senza camicia. Se lo infilzerete con uno stuzzicadenti, sarà più facile rimuoverlo poi: servirà solamente per insaporire il pesce durante i primi passaggi della cottura. Adagiate il pesce spada in padellae rosolatelo un minuto per lato. Ora sfumate con il vino bianco. Quando la parte alcolica sarà evaporata, versate il succo del limone filtrato. Rimuovete l'aglio. Girate ancora il pesce e proseguite la cottura a fiamma medio bassa. Aggiungete un pizzico di sale e il prezzemolo. Completate a piacere con qualche fettina di limone. Fate colorare per un paio di minutiportate in tavola il pesce spada in padela ben caldo.",
+    "ingredients": [
+        [
+            "Pesce spada",
+            "300 g"
+        ],
+        [
+            "Vino bianco",
+            "150 g"
+        ],
+        [
+            "Prezzemolo",
+            "4 g"
+        ],
+        [
+            "Aglio",
+            "1 spicchio"
+        ],
+        [
+            "Succo di limone",
+            "40 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "2 cucchiai"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "15 min",
+        "Dosi per": "2 persone",
+        "Costo": "Medio"
+    }
+}

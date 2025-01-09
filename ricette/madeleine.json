@@ -1,1 +1,50 @@
-{"title": "Madeleine", "category": "Dolci", "description": "Per preparare le madeleine iniziate a sciogliere il burro a bagnomaria o nel microonde , lasciatelo intiepidire e, nel frattempo, setacciate la farina in una ciotola capiente , unite lo zucchero semolato ;il sale , il lievito chimico in polvere , quindi lavate bene la scorza di un limone possibilmente non trattato, grattugiatela e aggiungetela alle polveri fate lo stesso con la scorza dell'arancia , poi mescolate tutto per bene il tutto con una frusta  e aggiungete il burro sciolto ormai tiepido amalgamate  il tutto per ottenere un composto omogeneo e aggiungete le uova , mescolate bene con un cucchiaio e in ultimo versate nel composto anche il miele \u00a0 e di nuovo amalgamate bene il composto che dovr\u00e0 risultare liscio, dalla consistenza cremosa e senza grumi. Quindi mettete il composto in frigorifero per un'ora.Quindi prendete uno stampo classico da madeleine imburratelo bene  e aiutandovi con due con  cucchiai versate l'impasto in ogni incavo dello stampo . Dovrete mettere poco impasto perch\u00e9 le madeleine cresceranno durante la cottura. Infornate in forno statico gi\u00e0 caldo a \u00b0 per  minuti (forno ventilato \u00b0 per  minuti). Sfornatele quando saranno dorate e avranno formato la caratteristica gobbetta delle madeleine , toglietele dallo stampo e lasciate raffreddare su una gratella. Ed ecco pronte le vostre madeleine che servite tiepide saranno davvero una bont\u00e0!", "ingredients": [["Lievito in polvere per dolci", "8 g"], ["Farina 00", "175 g"], ["Uova", "(circa 3) 175 g"], ["Burro", "175 g"], ["Miele millefiori", "10 g"], ["Zucchero", "semolato 150 g"], ["Sale fino", "q.b."], ["Scorza d'arancia", "da grattugiare 1"], ["Scorza di limone", "da grattugiare 1"]], "contesto": "Il risultato finale sar\u00e0 delle dolci e profumate madeleine, piccoli dolci sfiziosi e leggeri, perfetti da gustare con una tazza di t\u00e8 o caff\u00e8. Saranno leggermente croccanti all'esterno e morbidi all'interno, con un delicato aroma di miele, scorza d'arancia e limone.\n\nLe madeleine sono adatte per occasioni come una colazione speciale, un brunch, un buffet di dolci o semplicemente come dolcetto da gustare durante la giornata.\n\nLe madeleine sono adatte per tutte le persone che non seguono particolari regimi alimentari restrittivi. Tuttavia, chi segue una dieta vegana o senza lattosio non potr\u00e0 consumare questo dolce a causa della presenza di uova e burro. Le persone con intolleranze al lattosio potrebbero sostituire il burro con un'alternativa senza lattosio, mentre chi \u00e8 intollerante al glutine dovr\u00e0 optare per una farina priva di glutine. Chi \u00e8 allergico al miele potrebbe ometterlo dalla ricetta."}
+{
+    "title": "Madeleine",
+    "category": "Ricette",
+    "description": "Per preparare le madeleine per prima cosa fate sciogliere il burro e lasciatelo intiepidire. In una ciotola versate la farina e lo zucchero, il lievitoe il sale. Insaporite con la scorza grattugiata di limonee l’aroma di mandorle amare, poi unite il burro fuso intiepidito. Mescolate energicamente con una frusta per amalgamare il composto. A questo punto aggiungete un uovo alla volta, mescolando ogni volta con la frusta per farle assorbire completamente. Quando avrete ottenuto una consistenza omogenea, lasciate riposare l’impasto in frigorifero per almeno un’ora, coperto con pellicola. Trascorso questo tempo imburrate uno stampo da madeleine e riempite ogni formina con mezzo cucchiaio di impasto, aiutandovi con un altro cucchiaio per farlo scivolare. Non riempite eccessivamente le formine altrimenti l’impasto fuoriuscirà in cottura. Cuocete in forno statico preriscaldato a 200° per circa 13 minuti. Una volta dorate, sfornatee capovolgete lo stampo per sformare le madeleine. Lasciate intiepidire e servite!",
+    "ingredients": [
+        [
+            "Farina 00",
+            "175 g"
+        ],
+        [
+            "Burro",
+            "175 g"
+        ],
+        [
+            "Zucchero",
+            "150 g"
+        ],
+        [
+            "Uova",
+            "medie 3"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "8 g"
+        ],
+        [
+            "Scorza di limone",
+            "(da grattugiare) 1"
+        ],
+        [
+            "Aroma alla mandorla",
+            "amara 1 cucchiaino"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Burro",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "13 min",
+        "Dosi per": "24 pezzi",
+        "Costo": "Basso"
+    }
+}

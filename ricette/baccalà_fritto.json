@@ -1,1 +1,34 @@
-{"title": "Baccal\u00e0 fritto", "category": "Secondi piatti", "description": "Per preparare il baccal\u00e0 fritto, sciacquate ancora il baccal\u00e0 gi\u00e0 ammollato, poi asciugatelo con della carta da cucina. Quindi iniziate a scaldare l'olio. Nel frattempo tirate via la pelle del baccal\u00e0, sollevandola sollevarla a partire dalla coda e tirandola via delicatamente con le mani . Passate la mano sulla polpa del baccal\u00e0 in un senso e nell'altro per avvertire la presenza di lische ed estarle con una pinzetta da cucina . Tagliate il baccal\u00e0 a striscioline di circa  cm di spessore, da dividere poi in - parti ancora .Infarinate accuratamente i pezzi di baccal\u00e0 da entrambe le parti. Una volta che l'olio avr\u00e0 raggiunto la temperatura compresa tra i \u00b0 e i \u00b0 (da misurare con termometro da cucina), immergete pochi pezzi per volta, eliminando prima l'eccesso di farina . Potete aiutarvi con un ragno da cucina per non scottarvi. In base allo spessore ci vorranno dai - minuti di cottura e solo quando risulteranno ben dorati potrete scolarli .Adagiateli\u00a0su un vassoio rivestito con un foglio di carta assorbente per fritti, in modo da eliminare l'olio in eccesso . Terminate di friggere e condite a piacere il baccal\u00e0 fritto con del pepe macinato al momento  e se gradite qualche fettina di lime o limone .", "ingredients": [["Baccal\u00e0 dissalato", "500 g"], ["Farina 00", "q.b."], ["Pepe nero", "q.b."], ["Lime", "q.b."], ["Olio di semi di arachide", "1 l"]], "contesto": "Il risultato finale sar\u00e0 un piatto di baccal\u00e0 croccante e succulento, con un delicato aroma di lime che aggiunge freschezza al piatto.\n\nOccasioni: Il baccal\u00e0 fritto \u00e8 perfetto come secondo piatto per pranzi o cene speciali, da servire con contorni leggeri e freschi.\n\nDieta: Questa ricetta \u00e8 adatta a una dieta bilanciata e varia, purch\u00e9 consumata con moderazione in quanto fritta.\n\nIntolleranze: Le persone con intolleranza al glutine dovranno optare per una farina senza glutine, mentre le persone con intolleranza al lattosio dovranno fare attenzione a eventuali contorni o salse che potrebbero contenere latticini. Chi soffre di intolleranza al pesce dovr\u00e0 ovviamente evitare questa ricetta."}
+{
+    "title": "Baccalà fritto",
+    "category": "Ricette",
+    "description": "Per preparare il baccalà fritto, sciacquate ancora il baccalà già ammollato, poi asciugatelo con della carta da cucina. Quindi iniziate a scaldare l’olio. Nel frattempo tirate via la pelle del baccalà, sollevandola sollevarla a partire dalla coda e tirandola via delicatamente con le mani. Passate la mano sulla polpa del baccalà in un senso e nell'altro per avvertire la presenza di lische ed estarle con una pinzetta da cucina. Tagliate il baccalà a striscioline di circa 3 cm di spessore, da dividere poi in 2-3 parti ancora. Infarinate accuratamente i pezzi di baccalà da entrambe le parti. Una volta che l’olio avrà raggiunto la temperatura compresa tra i 180° e i 190° (da misurare con termometro da cucina), immergete pochi pezzi per volta, eliminando prima l'eccesso di farina. Potete aiutarvi con un ragno da cucina per non scottarvi. In base allo spessore ci vorranno dai 3-5 minuti di cottura e solo quando risulteranno ben dorati potrete scolarli. Adagiateli su un vassoio rivestito con un foglio di carta assorbente per fritti, in modo da eliminare l'olio in eccesso. Terminate di friggere e condite a piacere il baccalà fritto con del pepe macinato al momentoe se gradite qualche fettina di lime o limone.",
+    "ingredients": [
+        [
+            "Baccalà dissalato",
+            "500 g"
+        ],
+        [
+            "Farina 00",
+            "q.b."
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ],
+        [
+            "Lime",
+            "q.b."
+        ],
+        [
+            "Olio di semi di arachide",
+            "1 l"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Medio"
+    }
+}

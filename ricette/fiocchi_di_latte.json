@@ -1,1 +1,26 @@
-{"title": "Fiocchi di latte", "category": "Contorni", "description": "Per preparare i fiocchi latte versate il latte in una pentola , aggiungete il sale  e lasciate cuocere a fuoco medio per  minuti, mescolando di tanto in tanto per evitare che si crei la patina in superficie .Quando il latte avr\u00e0 raggiunto il bollore, spegnete la fiamma e aggiungete l'aceto , mescolate per trenta secondi e poi coprite la pentola con un coperchio , lasciando riposare per  minuti. Riportate a bollore nuovamente il composto, questa volta a fiamma alta, mescolando spesso: ci vorranno circa  minuti e noterete la coagulazione del latte .Spegnete la fiamma e coprite nuovamente la pentola con il coperchio, lasciando riposare per altri  minuti . Con un mestolo raccogliete i fiocchi di latte  e versateli in un recipiente su cui avrete sistemato della garza sterile o un tovagliolo di lino a maglie strette .Lasciate scolare e poi strizzate la garza eliminando cos\u00ec il liquido in eccesso . Se vi accorgete che il composto \u00e8 troppo asciutto aggiungete qualche cucchiaio di siero  e infine servite i fiocchi di latte in piccole coppette guarnendo, per esempio, con del basilico o dei pomodorini .", "ingredients": [["Latte scremato", "1 l"], ["Sale fino", "6 g"], ["Aceto di vino bianco", "17 g"]], "contesto": "Il risultato finale della ricetta \"Fiocchi di latte\" sar\u00e0 un latticino fresco dal gusto delicato e leggermente acidulo, simile allo yogurt greco ma con una consistenza pi\u00f9 morbida e cremosa.\n\nQuesto piatto \u00e8 adatto come contorno da accompagnare a piatti di carne o pesce, oppure come base per dolci e dessert.\n\nLa ricetta \u00e8 adatta a persone che seguono una dieta equilibrata e sana, in quanto il latte scremato \u00e8 un alimento ricco di proteine e calcio, ma con un basso contenuto di grassi.\n\nLe persone intolleranti al lattosio non possono consumare questa ricetta, in quanto il latte scremato contiene questo zucchero presente nel latte. Le persone intolleranti al lattosio possono invece provare a sostituire il latte scremato con latte senza lattosio o con altre alternative vegetali come latte di mandorla o di soia."}
+{
+    "title": "Fiocchi di latte",
+    "category": "Ricette",
+    "description": "Per preparare i fiocchi latte versate il latte in una pentola, aggiungete il salee lasciate cuocere a fuoco medio per 15 minuti, mescolando di tanto in tanto per evitare che si crei la patina in superficie. Quando il latte avrà raggiunto il bollore, spegnete la fiamma e aggiungete l’aceto, mescolate per trenta secondi e poi coprite la pentola con un coperchio, lasciando riposare per 30 minuti. Riportate a bollore nuovamente il composto, questa volta a fiamma alta, mescolando spesso: ci vorranno circa 10 minuti e noterete la coagulazione del latte. Spegnete la fiamma e coprite nuovamente la pentola con il coperchio, lasciando riposare per altri 30 minuti. Con un mestolo raccogliete i fiocchi di lattee versateli in un recipiente su cui avrete sistemato della garza sterile o un tovagliolo di lino a maglie strette. Lasciate scolare e poi strizzate la garza eliminando così il liquido in eccesso. Se vi accorgete che il composto è troppo asciutto aggiungete qualche cucchiaio di sieroe infine servite i fiocchi di latte in piccole coppette guarnendo, per esempio, con del basilico o dei pomodorini.",
+    "ingredients": [
+        [
+            "Latte scremato",
+            "1 l"
+        ],
+        [
+            "Sale fino",
+            "6 g"
+        ],
+        [
+            "Aceto di vino bianco",
+            "17 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

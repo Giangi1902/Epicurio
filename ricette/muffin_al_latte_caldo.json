@@ -1,1 +1,46 @@
-{"title": "Muffin al latte caldo", "category": "Dolci", "description": "Per realizzare i muffin al latte caldo iniziate lavorando le uova  e lo zucchero con le fruste elettriche , fino ad ottenere un composto spumoso. Sempre con le fruste in azione incorporate la farina . il lievito , la scorza di limone  e mescolate con cura per ottenere un composto omogeneo .Versate il latte in un pentolino  e, non appena avr\u00e0 sfiorato il bollore aggiungete il burro  e lasciate che si sciolga . Prelevate circa  cucchiaiate di composto e trasferitele in una ciotolina . Versate al suo interno il latte caldo  e amalgamate con una marisa per ottenere una sorta di pastella .Ora versate tutto nel resto dell'impasto di uova zucchero e farina  e mescolate . Inserite in uno stampo da  muffin i pirottini di carta e riempite con il composto .Distribuite in superficie della granella di zucchero   e cuocete in forno preriscaldato statico e a \u00b0 per  minuti circa. Sfornate i muffin al latte caldo e lasciateli intiepidire prima di servirli .", "ingredients": [["Farina 00", "220 g"], ["Uova", "(circa 3) 165 g"], ["Zucchero", "140 g"], ["Lievito in polvere per dolci", "8 g"], ["Latte intero", "130 g"], ["Burro", "60 g"], ["Scorza di limone", "1"], ["Granella di zucchero", "q.b."]], "contesto": "Il risultato finale dei Muffin al latte caldo sar\u00e0 dei morbidi e soffici dolcetti dal sapore delicato di latte e limone, arricchiti dalla granella di zucchero croccante in superficie.\n\nQuesti muffin sono adatti per la colazione, la merenda o come dolce da gustare durante una pausa. Possono essere serviti anche come dessert in un menu informale.\n\nQuesti muffin sono adatti a qualsiasi regime alimentare che includa latticini, uova e glutine, come la dieta onnivora. Tuttavia, non sono adatti per chi segue una dieta vegana o senza lattosio.\n\nLe persone con intolleranze al glutine non possono mangiare i Muffin al latte caldo, a meno che non li sostituiscano con ingredienti senza glutine. Le persone con intolleranza al lattosio possono sostituire il latte intero con latte senza lattosio o con un latte vegetale."}
+{
+    "title": "Muffin al latte caldo",
+    "category": "Ricette",
+    "description": "Per realizzare i muffin al latte caldo iniziate lavorando le uovae lo zucchero con le fruste elettriche, fino ad ottenere un composto spumoso. Sempre con le fruste in azione incorporate la farina. il lievito, la scorza di limonee mescolate con cura per ottenere un composto omogeneo. Versate il latte in un pentolinoe, non appena avrà sfiorato il bollore aggiungete il burroe lasciate che si sciolga. Prelevate circa 4 cucchiaiate di composto e trasferitele in una ciotolina. Versate al suo interno il latte caldoe amalgamate con una marisa per ottenere una sorta di pastella. Ora versate tutto nel resto dell'impasto di uova zucchero e farinae mescolate. Inserite in uno stampo da 12 muffin i pirottini di carta e riempite con il composto. Distribuite in superficie della granella di zuccheroe cuocete in forno preriscaldato statico e a 180° per 20 minuti circa. Sfornate i muffin al latte caldo e lasciateli intiepidire prima di servirli.",
+    "ingredients": [
+        [
+            "Farina 00",
+            "220 g"
+        ],
+        [
+            "Uova",
+            "(circa 3) 165 g"
+        ],
+        [
+            "Zucchero",
+            "140 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "8 g"
+        ],
+        [
+            "Latte intero",
+            "130 g"
+        ],
+        [
+            "Burro",
+            "60 g"
+        ],
+        [
+            "Scorza di limone",
+            "1"
+        ],
+        [
+            "Granella di zucchero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "10 min",
+        "Cottura": "25 min",
+        "Dosi per": "12 pezzi",
+        "Costo": "Basso"
+    }
+}

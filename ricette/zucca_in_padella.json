@@ -1,1 +1,42 @@
-{"title": "Zucca in padella", "category": "Contorni", "description": "Per preparare la zucca in padella lavate la zucca. Poi tagliate delle fette spesse circa  mm  senza togliere la buccia, e dividetele a met\u00e0  .\u00a0In una padella capiente versate l'olio, l'aglio  e le erbe . Fate insaporire e versate la zucca .\u00a0Salate  e aromatizzate con la paprika dolce . Cuocete a fuoco dolce medio per circa - minuti o fino a quando otterrete la consistenza desiderata. Delicatamente, di tanto in tanto, girate la zucca per avere una cottura uniforme. La zucca in padella \u00e8 pronta per essere servita .", "ingredients": [["Zucca violina", "400 g"], ["Olio extravergine d'oliva", "q.b."], ["Sale fino", "q.b."], ["Paprika", "q.b."], ["Rosmarino", "2 rametti"], ["Maggiorana", "4 rametti"], ["Aglio", "2"]], "contesto": "Il risultato finale della ricetta \"Zucca in padella\" sar\u00e0 un contorno aromatico, gustoso e colorato, grazie alla zucca violina cotta con olio extravergine d'oliva, sale, paprika, rosmarino, maggiorana e aglio. La zucca sar\u00e0 morbida e leggermente caramellata, perfetta per accompagnare secondi piatti a base di carne o pesce.\n\nQuesta ricetta \u00e8 adatta per occasioni informali come pranzi o cene tra amici o in famiglia, ma pu\u00f2 essere anche un'ottima idea per un contorno nelle festivit\u00e0 autunnali come Halloween o Thanksgiving.\n\nLa ricetta \"Zucca in padella\" \u00e8 adatta a diete vegetariane e vegane, in quanto \u00e8 priva di ingredienti di origine animale. Inoltre, la zucca \u00e8 un alimento ricco di fibre, vitamine e antiossidanti, quindi \u00e8 consigliata anche in regimi alimentari sani e equilibrati.\n\nLe persone con intolleranze alimentari possono mangiare questa ricetta con alcune accortezze: \u00e8 importante verificare che gli ingredienti non siano contaminati da glutine, lattosio o altri allergeni, e individuare eventuali intolleranze specifiche alla zucca o alle spezie utilizzate nella preparazione."}
+{
+    "title": "Zucca in padella",
+    "category": "Ricette",
+    "description": "Per preparare la zucca in padella lavate la zucca. Poi tagliate delle fette spesse circa 5 mmsenza togliere la buccia, e dividetele a metà. In una padella capiente versate l’olio, l’aglioe le erbe. Fate insaporire e versate la zucca. Salatee aromatizzate con la paprika dolce. Cuocete a fuoco dolce medio per circa 8-10 minuti o fino a quando otterrete la consistenza desiderata. Delicatamente, di tanto in tanto, girate la zucca per avere una cottura uniforme. La zucca in padella è pronta per essere servita.",
+    "ingredients": [
+        [
+            "Zucca violina",
+            "400 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "q.b."
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Paprika",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "2 rametti"
+        ],
+        [
+            "Maggiorana",
+            "4 rametti"
+        ],
+        [
+            "Aglio",
+            "2"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "15 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

@@ -1,1 +1,54 @@
-{"title": "Banana bread light", "category": "Dolci", "description": "Per realizzare il banana bread light schiacciate la polpa delle banane mature con una forchetta . Quando avrete ottenuto un composto omogeneo aggiungete lo sciroppo d'acero  e i tuorli  e mescolate bene con una frusta a mano.Versate l'olio di cocco  e amalgamate ancora, poi unite la farina  e il lievito .Incorporate le polveri con la frusta e infine aggiungete il latte di riso . Mescolate ancora finch\u00e9 non risulter\u00e0 completamente assorbito e avrete ottenuto un impasto liscio e omogeneo . Tritate grossolanamente le noci pecan .Versate l'impasto in uno stampo da plumcake svasato che misura x cm alla base e x cm in superficie, con un'altezza di  cm . Praticate un taglio in superficie per il verso della lunghezza con un coltello oliato  e guarnite con le noci pecan tritate .Cuocete in forno statico a \u00b0 per - minuti . Verificate la cottura con uno stecchino, poi sfornate e lasciate intiepidire nello stampo prima di sformare . Il vostro banana bread light \u00e8 pronto per essere gustato !", "ingredients": [["Banane", "(la polpa matura) 300 g"], ["Farina 0", "250 g"], ["Sciroppo di acero", "85 g"], ["Olio di cocco", "a temperatura ambiente 85 g"], ["Latte di riso", "(senza zucchero) 80 g"], ["Tuorli", "(circa 2) 30 g"], ["Lievito in polvere per dolci", "9 g"], ["Olio di cocco", "q.b."], ["Farina 0", "q.b."], ["Noci pecan", "20 g"]], "contesto": "Il risultato finale sar\u00e0 un morbido e profumato banana bread, ma pi\u00f9 leggero rispetto alla versione tradizionale grazie all'utilizzo di sciroppo di acero al posto dello zucchero e olio di cocco al posto del burro.\n\nQuesto dolce \u00e8 perfetto per la colazione o la merenda, ma pu\u00f2 essere anche una golosa valida alternativa ai dolci pi\u00f9 calorici. Grazie alla presenza delle banane, \u00e8 particolarmente adatto per chi segue una dieta vegetariana o vegana.\n\nLe persone con intolleranze alimentari al lattosio possono consumare questo dolce sostituendo il latte di riso con un latte vegetale privo di lattosio. Tuttavia, \u00e8 importante verificare che il lievito utilizzato sia privo di allergeni e che le noci pecan non causino reazioni allergiche."}
+{
+    "title": "Banana bread light",
+    "category": "Ricette",
+    "description": "Per realizzare il banana bread light schiacciate la polpa delle banane mature con una forchetta. Quando avrete ottenuto un composto omogeneo aggiungete lo sciroppo d’aceroe i tuorlie mescolate bene con una frusta a mano. Versate l’olio di coccoe amalgamate ancora, poi unite la farinae il lievito. Incorporate le polveri con la frusta e infine aggiungete il latte di riso. Mescolate ancora finché non risulterà completamente assorbito e avrete ottenuto un impasto liscio e omogeneo. Tritate grossolanamente le noci pecan. Versate l’impasto in uno stampo da plumcake svasato che misura 17x8 cm alla base e 20x11 cm in superficie, con un’altezza di 7 cm. Praticate un taglio in superficie per il verso della lunghezza con un coltello oliatoe guarnite con le noci pecan tritate. Cuocete in forno statico a 180° per 50-55 minuti. Verificate la cottura con uno stecchino, poi sfornate e lasciate intiepidire nello stampo prima di sformare. Il vostro banana bread light è pronto per essere gustato!",
+    "ingredients": [
+        [
+            "Banane",
+            "(la polpa matura) 300 g"
+        ],
+        [
+            "Farina 0",
+            "250 g"
+        ],
+        [
+            "Sciroppo di acero",
+            "85 g"
+        ],
+        [
+            "Olio di cocco",
+            "a temperatura ambiente 85 g"
+        ],
+        [
+            "Latte di riso",
+            "(senza zucchero) 80 g"
+        ],
+        [
+            "Tuorli",
+            "(circa 2) 30 g"
+        ],
+        [
+            "Lievito in polvere per dolci",
+            "9 g"
+        ],
+        [
+            "Olio di cocco",
+            "q.b."
+        ],
+        [
+            "Farina 0",
+            "q.b."
+        ],
+        [
+            "Noci pecan",
+            "20 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Facile",
+        "Preparazione": "20 min",
+        "Cottura": "55 min",
+        "Dosi per": "6 persone",
+        "Costo": "Medio"
+    }
+}

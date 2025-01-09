@@ -1,1 +1,50 @@
-{"title": "Pesto di pomodori arrostiti", "category": "Salse e Sughi", "description": "Per preparare il pesto di pomodori arrostiti cominciate sciacquando brevemente questi ultimi. Dopo averli asciugati divideteli in due  e disponeteli su una leccarda con carta forno rivolgendo la parte della polpa verso l'alto. Spolverizzateli con sale , zucchero e un po' di origano e cuocete in forno, preriscaldato in modalit\u00e0 statica, per circa  minuti, a \u00b0 .Non preoccupatevi, la carta forno risulter\u00e0 bruciata a causa dei liquidi rilasciati dai pomodori . Questi ultimi invece risulteranno asciutti ma ancora morbidi e probabilmente con un po' di pellicina bruciacchiata. Quindi lasciateli intiepidire prima di staccarli e di versarli nel mixer . Aggiungete le foglie di basilico ,poi sbucciate, dividete in due l'aglio e togliete l'anima , quindi versate nel mixer  insieme al Parmigiano grattugiato e i pinoli .Completate aggiungendo un pizzico di sale e l'olio . Azionate le lame finch\u00e9 non avrete ottenuto un composto morbido e omogeneo . Ecco pronto il vostro pesto di pomodori arrostiti, non vi resta che usarlo come preferite !", "ingredients": [["Pomodorini datterini", "500 g"], ["Olio extravergine d'oliva", "80"], ["Parmigiano Reggiano DOP", "60 g"], ["Pinoli", "30 g"], ["Aglio", "\u00bd"], ["Basilico", "grandi 10 foglie"], ["Sale fino", "q.b."], ["Origano", "q.b."], ["Zucchero", "1 cucchiaino"]], "contesto": "Risultato finale: Il pesto di pomodori arrostiti avr\u00e0 un sapore intenso e ricco, con un equilibrio tra la dolcezza dei pomodorini arrostiti, il sapore del parmigiano e il profumo del basilico. La consistenza sar\u00e0 cremosa e perfetta per condire pasta, bruschette o altre pietanze.\n\nOccasioni adatte: Il pesto di pomodori arrostiti \u00e8 perfetto per un pranzo o una cena informale con amici o familiari. Pu\u00f2 essere servito come condimento per primi piatti di pasta, come base per crostini o semplicemente spalmato su del pane croccante.\n\nDiete adatte: Il pesto di pomodori arrostiti \u00e8 adatto a una dieta vegetariana, ma non \u00e8 adatto a una dieta vegana a causa del formaggio parmigiano. \u00c8 importante ricordare che contiene anche pinoli, quindi bisogna fare attenzione in caso di allergie ai frutti a guscio.\n\nIntolleranze: Le persone con intolleranza al lattosio possono sostituire il parmigiano con un formaggio senza lattosio o eliminare completamente il formaggio dalla ricetta. Inoltre, chi soffre di allergie ai frutti a guscio dovrebbe evitare i pinoli presenti nel pesto. Infine, per chi ha intolleranza al glutine, \u00e8 importante controllare la provenienza e la possibile contaminazione degli ingredienti utilizzati."}
+{
+    "title": "Pesto di pomodori arrostiti",
+    "category": "Ricette",
+    "description": "Per preparare il pesto di pomodori arrostiti cominciate sciacquando brevemente questi ultimi. Dopo averli asciugati divideteli in duee disponeteli su una leccarda con carta forno rivolgendo la parte della polpa verso l’alto. Spolverizzateli con sale, zucchero e un po’ di origano e cuocete in forno, preriscaldato in modalità statica, per circa 30 minuti, a 240°. Non preoccupatevi, la carta forno risulterà bruciata a causa dei liquidi rilasciati dai pomodori. Questi ultimi invece risulteranno asciutti ma ancora morbidi e probabilmente con un po’ di pellicina bruciacchiata. Quindi lasciateli intiepidire prima di staccarli e di versarli nel mixer. Aggiungete le foglie di basilico, poi sbucciate, dividete in due l'aglio e togliete l'anima, quindi versate nel mixerinsieme al Parmigiano grattugiato e i pinoli. Completate aggiungendo un pizzico di sale e l'olio. Azionate le lame finché non avrete ottenuto un composto morbido e omogeneo. Ecco pronto il vostro pesto di pomodori arrostiti, non vi resta che usarlo come preferite!",
+    "ingredients": [
+        [
+            "Pomodorini datterini",
+            "500 g"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "80"
+        ],
+        [
+            "Parmigiano Reggiano DOP",
+            "60 g"
+        ],
+        [
+            "Pinoli",
+            "30 g"
+        ],
+        [
+            "Aglio",
+            "½"
+        ],
+        [
+            "Basilico",
+            "grandi 10 foglie"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Origano",
+            "q.b."
+        ],
+        [
+            "Zucchero",
+            "1 cucchiaino"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "25 min",
+        "Cottura": "30 min",
+        "Dosi per": "4 persone",
+        "Costo": "Basso"
+    }
+}

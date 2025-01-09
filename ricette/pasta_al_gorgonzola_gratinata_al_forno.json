@@ -1,1 +1,34 @@
-{"title": "Pasta al gorgonzola gratinata al forno", "category": "Primi piatti", "description": "Per preparare la pasta al gorgonzola gratinata al forno, per prima cosa mettete a cuocere la pasta al dente in una pentola di acqua bollente salata. Prendete il gorgonzola, tagliatelo a listarelle e poi a tocchetti . In una padella aggiungete il gorgonzola, unite il latte per diluire il formaggio e renderlo cremoso  e mescolate con una frusta .Fate cuocere a fuoco moderato per  o  minuti, fino ad ottenere una crema liscia. Una volta pronta la pasta, scolatela e trasferitela in padella insieme al condimento , amalgamando bene il tutto . Disponete la pasta in una teglia rettangolare da x cm e spolveratela con abbondante Grana .Tritate grossolanamente le noci  e distribuitele sulla pasta . Fate cuocere per - minuti in forno in modalit\u00e0 grill . La vostra pasta al gorgonzola gratinata al forno \u00e8 pronta per essere servita!", "ingredients": [["Cellentani", "320 g"], ["Gorgonzola", "300 g"], ["Gherigli di noci", "50 g"], ["Latte intero", "50 g"], ["Grana Padano DOP", "grattugiato 50 g"]], "contesto": "Il risultato finale sar\u00e0 una pasta al gorgonzola cremosa e gustosa, arricchita dal sapore delle noci e del Grana Padano gratinato in forno.\n\nOccasioni: Questa ricetta \u00e8 perfetta da servire in una cena speciale o in un pranzo domenicale con la famiglia. \u00c8 adatta anche per occasioni festive o per cene eleganti.\n\nDieta: Questa ricetta \u00e8 adatta a una dieta onnivora e non \u00e8 adatta a una dieta vegetariana o vegana a meno di apportare delle modifiche sostituendo i latticini con alternative vegane.\n\nIntolleranze: Le persone intolleranti al lattosio dovrebbero evitare questa ricetta a meno di utilizzare sostituti del formaggio senza lattosio. Le persone allergiche alle noci dovrebbero evitare di aggiungere i gherigli di noci o sostituirli con un altro ingrediente."}
+{
+    "title": "Pasta al gorgonzola gratinata al forno",
+    "category": "Ricette",
+    "description": "Per preparare la pasta al gorgonzola gratinata al forno, per prima cosa mettete a cuocere la pasta al dente in una pentola di acqua bollente salata. Prendete il gorgonzola, tagliatelo a listarelle e poi a tocchetti. In una padella aggiungete il gorgonzola, unite il latte per diluire il formaggio e renderlo cremosoe mescolate con una frusta. Fate cuocere a fuoco moderato per 2 o 3 minuti, fino ad ottenere una crema liscia. Una volta pronta la pasta, scolatela e trasferitela in padella insieme al condimento, amalgamando bene il tutto. Disponete la pasta in una teglia rettangolare da 26x18 cm e spolveratela con abbondante Grana. Tritate grossolanamente le nocie distribuitele sulla pasta. Fate cuocere per 3-4 minuti in forno in modalità grill. La vostra pasta al gorgonzola gratinata al forno è pronta per essere servita!",
+    "ingredients": [
+        [
+            "Cellentani",
+            "320 g"
+        ],
+        [
+            "Gorgonzola",
+            "300 g"
+        ],
+        [
+            "Gherigli di noci",
+            "50 g"
+        ],
+        [
+            "Latte intero",
+            "50 g"
+        ],
+        [
+            "Grana Padano DOP",
+            "grattugiato 50 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

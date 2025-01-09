@@ -1,1 +1,38 @@
-{"title": "Patatine novelle al rosmarino", "category": "Contorni", "description": "Per preparare le patatine novelle al rosmarino sciacquate per bene le patate, scolatele e asciugatele con un panno . Mettetele in una ciotola. Eliminate l'anima dall'aglio  e poi tritatelo\u00a0con agli aghi di rosmarino .\u00a0Versate il trito di aromi sulle patate\u00a0,\u00a0salate  e pepate .\u00a0Per ultimo un giro d'olio di oliva , mescolate accuratamente e trasferite su una leccarda . Cuocete in forno statico, gi\u00e0 caldo a \u00b0, per - minuti; abbiate cura di dare una mescolata ogni - minuti. Le patatine novelle al rosmarino sono pronte .", "ingredients": [["Patate novelle", "1 kg"], ["Aglio", "2 spicchi"], ["Sale fino", "q.b."], ["Rosmarino", "4 rametti"], ["Olio extravergine d'oliva", "50 ml"], ["Pepe nero", "q.b."]], "contesto": "Le patatine novelle al rosmarino sono croccanti e aromatiche, grazie alla presenza del rosmarino e dell'aglio. La pelle delle patate novelle rimane leggermente croccante mentre l'interno risulter\u00e0 morbido. Il retrogusto di rosmarino dar\u00e0 un tocco aromatico e saporito alle patatine. \n\nQuesta ricetta \u00e8 adatta per accompagnare piatti di carne o pesce, ma pu\u00f2 essere anche consumata da sola come snack o antipasto. \u00c8 perfetta per una cena informale con amici o per una grigliata all'aperto. \n\nLe patatine novelle al rosmarino sono adatte a diete vegetariane e vegane, in quanto non contengono ingredienti di origine animale. Possono essere consumate anche da persone con intolleranze al lattosio, al glutine e alle uova, in quanto gli ingredienti sono tutti naturali e privi di questi allergeni."}
+{
+    "title": "Patatine novelle al rosmarino",
+    "category": "Ricette",
+    "description": "Per preparare le patatine novelle al rosmarino sciacquate per bene le patate, scolatele e asciugatele con un panno. Mettetele in una ciotola. Eliminate l’anima dall’aglioe poi tritatelo con agli aghi di rosmarino. Versate il trito di aromi sulle patate, salatee pepate. Per ultimo un giro d'olio di oliva, mescolate accuratamente e trasferite su una leccarda. Cuocete in forno statico, già caldo a 180°, per 45-50 minuti; abbiate cura di dare una mescolata ogni 10-15 minuti. Le patatine novelle al rosmarino sono pronte.",
+    "ingredients": [
+        [
+            "Patate novelle",
+            "1 kg"
+        ],
+        [
+            "Aglio",
+            "2 spicchi"
+        ],
+        [
+            "Sale fino",
+            "q.b."
+        ],
+        [
+            "Rosmarino",
+            "4 rametti"
+        ],
+        [
+            "Olio extravergine d'oliva",
+            "50 ml"
+        ],
+        [
+            "Pepe nero",
+            "q.b."
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "5 min",
+        "Cottura": "50 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}

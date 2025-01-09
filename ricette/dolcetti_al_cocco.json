@@ -1,1 +1,27 @@
-{"title": "Dolcetti al cocco", "category": "Dolci", "description": "Per preparare i dolcetti al cocco come prima cosa versate in una ciotola la farina di cocco e lo zucchero . Unite anche gli albumi  e mescolate con un cucchiaio  oppure con una spatola.Dovrete ottenere un composto omogeneo e compatto , sar\u00e0 piuttosto asciutto ma non preoccupatevi in quanto \u00e8 la consistenza giusta che deve avere. Trasferite l'impasto in una sacca da pasticcere molto resistente (oppure usatene una di stoffa), dotata di una bocchetta liscia da  mm (evitate di usare bocchette pi\u00f9 piccole altrimenti l'impasto non uscir\u00e0 agevolmente) . Rivestite una teglia con carta forno e spremete dei ciuffetti: tenete la sac-\u00e0-poche stringendo bene vicino alla bocchetta con una mano e con l'altra spremete per far fuoriuscire l'impasto. Cos\u00ec verranno dei dolcetti a forma di fiammella di circa  g l'uno. Se trovate la procedura troppo complessa, potete realizzare delle palline con le mani, ovviamente si perder\u00e0 la forma.\u00a0Continuate in questo modo distanziandoli, in modo da ottenere  biscottini . Cuocete in forno ventilato\u00a0preriscaldato a \u00b0 per  minuti, sino a che non saranno ben dorati. Sfornateli  e lasciateli raffreddare prima di spostarli in un piatto  e servirli.\u00a0", "ingredients": [["Farina di cocco", "(NON cocco grattugiato o Cocco rap\u00e9) 50 g"], ["Zucchero", "120 g"], ["Albumi", "(di circa 3 uova medie) 90 g"]], "contesto": "Il risultato finale dei dolcetti al cocco sar\u00e0 una consistenza morbida e leggera, con un sapore dolce e fresco di cocco. I dolcetti sono morbidi all'interno ma croccanti all'esterno grazie alla farina di cocco.\n\nGli dolcetti al cocco sono adatti per occasioni informali come merende o feste di compleanno. Possono essere serviti come dessert leggero dopo un pasto o come dolcetto da gustare durante il pomeriggio.\n\nQuesti dolcetti sono adatti alle diete senza glutine, in quanto non contengono farina di grano. Sono anche adatti alle diete vegetariane e alle diete a basso contenuto di grassi, poich\u00e9 non contengono burro o olio.\n\nLe persone con intolleranze al glutine o con celiachia possono mangiare questi dolcetti al cocco in quanto non contengono glutine. Tuttavia, \u00e8 importante assicurarsi che la farina di cocco utilizzata sia certificata senza glutine per evitare contaminazioni. Le persone con intolleranze alle uova non possono consumare questi dolcetti in quanto contengono albumi."}
+{
+    "title": "Dolcetti al cocco",
+    "category": "Ricette",
+    "description": "Per preparare i dolcetti al cocco come prima cosa versate in una ciotola la farina di cocco e lo zucchero. Unite anche gli albumie mescolate con un cucchiaiooppure con una spatola. Dovrete ottenere un composto omogeneo e compatto, sarà piuttosto asciutto ma non preoccupatevi in quanto è la consistenza giusta che deve avere. Trasferite l'impasto in una sacca da pasticcere molto resistente (oppure usatene una di stoffa), dotata di una bocchetta liscia da 15 mm (evitate di usare bocchette più piccole altrimenti l'impasto non uscirà agevolmente). Rivestite una teglia con carta forno e spremete dei ciuffetti: tenete la sac-à-poche stringendo bene vicino alla bocchetta con una mano e con l'altra spremete per far fuoriuscire l'impasto. Così verranno dei dolcetti a forma di fiammella di circa 16 g l'uno. Se trovate la procedura troppo complessa, potete realizzare delle palline con le mani, ovviamente si perderà la forma. Continuate in questo modo distanziandoli, in modo da ottenere 16 biscottini. Cuocete in forno ventilato preriscaldato a 200° per 10 minuti, sino a che non saranno ben dorati. Sfornatelie lasciateli raffreddare prima di spostarli in un piattoe servirli.",
+    "ingredients": [
+        [
+            "Farina di cocco",
+            "(NON cocco grattugiato o Cocco rapé) 50 g"
+        ],
+        [
+            "Zucchero",
+            "120 g"
+        ],
+        [
+            "Albumi",
+            "(di circa 3 uova medie) 90 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Cottura": "10 min",
+        "Dosi per": "16 pezzi",
+        "Costo": "Molto basso",
+        "NotaNOTA DELLA REDAZIONE": "Per la riuscita della ricetta va utilizzata FARINA DI COCCO, che non corrisponde a cocco rapé o cocco grattugiato."
+    }
+}

@@ -1,1 +1,29 @@
-{"title": "Frapp\u00e8 alla banana", "category": "Bevande", "description": "Per preparare il frullato alla banana procedete sbucciando le banane  e tagliandole in tocchetti . Quindi inserite nel mixer i pezzetti di banana appena tagliati .Unite anche la cannella , i cubetti di ghiaccio  e il latte freddo .Azionate il mixer fino ad ottenere un composto denso e cremoso . Quindi versatelo nei bicchieri\u00a0  e decorate con qualche pezzetto di cannella . Servite subito il frapp\u00e8 alla banana e gustatelo ben freddo!", "ingredients": [["Banane", "300 g"], ["Ghiaccio", "60 g"], ["Cannella in stecche", "2 g"], ["Latte intero", "150 g"]], "contesto": "Il risultato finale della ricetta Frapp\u00e8 alla banana \u00e8 una bevanda cremosa e rinfrescante, dal sapore dolce e aromatico grazie alla presenza della banana e della cannella.\n\nOccasioni adatte: Questo frapp\u00e8 \u00e8 perfetto da gustare come colazione o merenda, ma pu\u00f2 essere anche un'ottima bevanda da servire durante una festa o come dessert dopo un pasto.\n\nDieta/Regime alimentare adatto: Il frapp\u00e8 alla banana pu\u00f2 essere inserito in una dieta bilanciata, in quanto apporta una buona quantit\u00e0 di vitamine e sali minerali grazie alla presenza della frutta. Pu\u00f2 essere adatto anche a chi segue un regime alimentare vegetariano.\n\nIntolleranze: Le persone intolleranti al lattosio possono sostituire il latte intero con latte senza lattosio o con latte vegetale come latte di mandorla o latte di cocco. Chi \u00e8 intollerante alla banana dovrebbe evitare questa bevanda o sostituirla con un'altra frutta a piacere."}
+{
+    "title": "Frappè alla banana",
+    "category": "Ricette",
+    "description": "Per preparare il frullato alla banana procedete sbucciando le bananee tagliandole in tocchetti. Quindi inserite nel mixer i pezzetti di banana appena tagliati. Unite anche la cannella, i cubetti di ghiaccioe il latte freddo. Azionate il mixer fino ad ottenere un composto denso e cremoso. Quindi versatelo nei bicchierie decorate con qualche pezzetto di cannella. Servite subito il frappè alla banana e gustatelo ben freddo!",
+    "ingredients": [
+        [
+            "Banane",
+            "300 g"
+        ],
+        [
+            "Ghiaccio",
+            "60 g"
+        ],
+        [
+            "Cannella in stecche",
+            "2 g"
+        ],
+        [
+            "Latte intero",
+            "150 g"
+        ]
+    ],
+    "details": {
+        "Difficoltà": "Molto facile",
+        "Preparazione": "10 min",
+        "Dosi per": "4 persone",
+        "Costo": "Molto basso"
+    }
+}
