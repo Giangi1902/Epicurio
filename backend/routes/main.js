@@ -4,7 +4,7 @@ const express = require('express');
 const router = express.Router();
 const cron = require('node-cron');
 //Importo User e Post da userDetails, i quali rappresentano i dettagli degli utenti e dei post
-const { User, Ingredient, Meal, Pantry } = require('../serverDetails');
+const { User, Ingredient, Meal, Pantry, Daily } = require('../serverDetails');
 
 //Funzione per prendere tutti i prodotti all'interno della lista della spesa di un determinato utente
 router.get("/getIngredients/:username", async (req, res) => {
@@ -61,6 +61,211 @@ router.get("/getIngredients/:username", async (req, res) => {
 //         console.log(e);
 //     }
 // });
+
+
+//TODO: pesi cambiabili per utente
+// Funzione per calcolare il punteggio per pasto
+async function calcolaPunteggiUtente(userId) {
+    try {
+        // Recupera tutti i pasti
+        const meals = await Meal.find();
+
+        // Recupera i pasti degli ultimi 5 giorni
+        const oggi = new Date();
+        const inizioIntervallo = new Date(oggi);
+        inizioIntervallo.setDate(oggi.getDate() - 5);
+
+        const programmazione = await Daily.find({
+            idUtente: userId,
+            data: { $gte: inizioIntervallo.toISOString(), $lte: oggi.toISOString() }
+        }).populate('pasti.colazione pasti.pranzo pasti.cena');
+
+        // Calcola le frequenze e gli ultimi utilizzi
+        const frequenze = {};
+        const ultimiUtilizzi = {};
+
+        programmazione.forEach((sched) => {
+            const { colazione, pranzo, cena, data } = sched.pasti;
+
+            [colazione, pranzo, cena].forEach((pasto) => {
+                if (pasto) {
+                    const pastoId = pasto._id.toString();
+                    const dataPasto = new Date(sched.data);
+
+                    // Calcola i giorni di distanza
+                    const giorniDiDistanza = Math.floor((oggi - dataPasto) / (1000 * 60 * 60 * 24));
+
+                    let malus = 0;
+                    if (giorniDiDistanza === 0) {
+                        malus = 2.5; 
+                    } else if (giorniDiDistanza === 1) {
+                        malus = 1.25; 
+                    } else if (giorniDiDistanza === 2) {
+                        malus = 0.625; 
+                    } else if (giorniDiDistanza === 3 || giorniDiDistanza === 4) {
+                        malus = 0.3125;
+                    }
+                    frequenze[pastoId] = (frequenze[pastoId] || 0) + malus;
+
+                    // Aggiorna ultimo utilizzo
+                    if (!ultimiUtilizzi[pastoId] || dataPasto > ultimiUtilizzi[pastoId]) {
+                        ultimiUtilizzi[pastoId] = dataPasto;
+                    }
+                }
+            });
+        });
+
+        // Calcolo del punteggio
+        const PESO_ULTIMO_UTILIZZO = 0.45;
+        const PESO_VALUTAZIONE_UTENTE = 0.45;
+        const PESO_VALUTAZIONE_GLOBALE = 0.10;
+
+        const punteggiRicette = meals.map((meal) => {
+            const mealId = meal._id.toString();
+
+            // Bonus tempo: 1 punto per ogni giorno dall'ultimo utilizzo
+            const ultimoUtilizzo = ultimiUtilizzi[mealId];
+            const giorniDalUltimoUtilizzo = ultimoUtilizzo
+                ? Math.floor((oggi - ultimoUtilizzo) / (1000 * 60 * 60 * 24))
+                : 5; // Se non è mai stato usato, massimo bonus
+            const bonusTempo = giorniDalUltimoUtilizzo * PESO_ULTIMO_UTILIZZO;
+
+            // Valutazione dell'utente
+            const valutazioneUtenteObj = meal.ratings.find((rating) => rating.idUtente.toString() === userId.toString());
+            const valutazioneUtente = valutazioneUtenteObj ? valutazioneUtenteObj.valutazione : 0;
+            const punteggioValutazioneUtente = valutazioneUtente * PESO_VALUTAZIONE_UTENTE;
+
+            // Valutazione globale
+            const valutazioniGlobali = meal.ratings.length > 0
+                ? meal.ratings.reduce((sum, rating) => sum + rating.valutazione, 0) / meal.ratings.length
+                : 0;
+            const punteggioValutazioneGlobale = valutazioniGlobali * PESO_VALUTAZIONE_GLOBALE;
+
+            // Frequenza (malus)
+            const frequenza = frequenze[mealId] || 0;
+
+            // Punteggio totale
+            const punteggioTotale = (
+                bonusTempo +
+                punteggioValutazioneUtente +
+                punteggioValutazioneGlobale -
+                frequenza
+            );
+
+            return {
+                title: meal.title,
+                punteggio: punteggioTotale,
+                valutazioneUtente,
+                valutazioniGlobali,
+                bonusTempo,
+                malusFrequenza: frequenza
+            };
+        });
+
+        // Ordina le ricette per punteggio (decrescente)
+        punteggiRicette.sort((a, b) => b.punteggio - a.punteggio);
+
+        return punteggiRicette;
+    } catch (error) {
+        console.error("Errore nel calcolo dei punteggi:", error);
+        throw error;
+    }
+}
+
+async function estraiPastiPesati(punteggiRicette, numeroPasti = 10) {
+    try {
+        if (!Array.isArray(punteggiRicette)) {
+            throw new TypeError("punteggiRicette deve essere un array valido.");
+        }
+
+        // Tratta i punteggi negativi come 0
+        const punteggiCorretti = punteggiRicette.map((ricetta) => ({
+            ...ricetta,
+            punteggio: ricetta.punteggio < 0 ? 0 : ricetta.punteggio
+        }));
+
+        // Calcola il totale dei punteggi
+        const totalePunteggi = punteggiCorretti.reduce((acc, ricetta) => acc + ricetta.punteggio, 0);
+
+        // Se il totale è 0 (tutti i punteggi sono negativi o 0), assegna probabilità uguali
+        if (totalePunteggi === 0) {
+            console.warn("Tutti i punteggi sono 0 o negativi. Assegno probabilità uguali.");
+            return punteggiCorretti.map((ricetta) => ({
+                ...ricetta,
+                probabilita: 1 / punteggiCorretti.length
+            }));
+        }
+
+        // Se il punteggio è negativo allora ha probabilità 0
+        const ricetteConProbabilita = punteggiCorretti.map((ricetta) => ({
+            ...ricetta,
+            probabilita: ricetta.punteggio / totalePunteggi
+        }));
+
+        // Trova la probabilità più bassa calcolata
+        const probabilitaMinima = Math.min(
+            ...ricetteConProbabilita.filter((ricetta) => ricetta.probabilita > 0).map((ricetta) => ricetta.probabilita)
+        );
+
+        // Assegna la probabilità minima ai punteggi 0
+        ricetteConProbabilita.forEach((ricetta) => {
+            if (ricetta.punteggio === 0) {
+                ricetta.probabilita = probabilitaMinima;
+            }
+        });
+
+        // Raggruppa piatti per probabilità unica
+        const raggruppamentoProbabilita = {};
+        ricetteConProbabilita.forEach((ricetta) => {
+            const prob = ricetta.probabilita;
+            if (!raggruppamentoProbabilita[prob]) {
+                raggruppamentoProbabilita[prob] = [];
+            }
+            raggruppamentoProbabilita[prob].push({
+                title: ricetta.title,
+                punteggio: ricetta.punteggio
+            });
+        });
+
+        // Visualizza il raggruppamento
+        console.log("Raggruppamento probabilità e punteggi:", raggruppamentoProbabilita);
+
+        // Estrai pasti randomicamente basandoti sulle probabilità pesate
+        const pastiEstratti = [];
+        while (pastiEstratti.length < numeroPasti && ricetteConProbabilita.length > 0) {
+            const random = Math.random();
+            let accumulatore = 0;
+
+            for (let i = 0; i < ricetteConProbabilita.length; i++) {
+                accumulatore += ricetteConProbabilita[i].probabilita;
+                if (random <= accumulatore) {
+                    pastiEstratti.push(ricetteConProbabilita[i]);
+                    ricetteConProbabilita.splice(i, 1); // Rimuovi la ricetta estratta
+                    break;
+                }
+            }
+        }
+
+        return pastiEstratti;
+    } catch (error) {
+        console.error("Errore durante l'estrazione dei pasti pesati:", error);
+        throw error;
+    }
+}
+
+
+router.get("/createSchedule/:username", async (req, res) => {
+    const { username } = req.params;
+    try {
+        const user = await User.findOne({ username: username });
+        const punteggiRicette = await calcolaPunteggiUtente(user.id)
+        const pastiPesati = await estraiPastiPesati(punteggiRicette, 5);
+        console.log(pastiPesati)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
 
 router.get("/getAllIngredients/:index", async (req, res) => {
     const { index } = req.params;

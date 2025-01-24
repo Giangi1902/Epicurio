@@ -38,8 +38,7 @@ const userSchema = new mongoose.Schema({
   token: {
     type: String,
     default: ""
-  },
-  //come salvare le ricette giornaliere?
+  }
 });
 
 const pantrySchema = new mongoose.Schema({
@@ -51,7 +50,7 @@ const pantrySchema = new mongoose.Schema({
     type: Array,
     default: []
   },
-  available: {
+  available: { //deve essere un campo dell'array idingredienti
     type: Boolean,
     default: true
   }
@@ -69,7 +68,15 @@ const ingredientSchema = new mongoose.Schema({
 })
 
 const mealSchema = new mongoose.Schema({
-  nome: {
+  title: {
+    type: String,
+    default: ""
+  },
+  category: {
+    type: String,
+    default: ""
+  },
+  description: {
     type: String,
     default: ""
   },
@@ -77,46 +84,61 @@ const mealSchema = new mongoose.Schema({
     type: Array,
     default: []
   },
-  description: {
-    type: String,
-    default: ""
-  },
-  timing: {
-    type: Number,
-    default: 0
-  },
-  rating: {
-    type: Number,
-    default: 0
-  },
-  difficulty: {
-    type: Number,
-    default: 0
-  },
-  images: {
+  details: {
     type: Array,
     default: []
   },
-  icon: {
-    type: String,
-    default: ""
-  },
-  raters: {
-    type: Number,
-    default: 0
-  },
-  price: {
-    type: Number,
-    default: 0
-  }
+  ratings: [{
+    idUtente: {
+      type: String, 
+      required: true
+    },
+    valutazione: {
+      type: Number, 
+      required: true
+    }
+  }]
 })
+
+//schema per la gestione giornaliera dei pasti 
+const dailySchema = new mongoose.Schema({
+  idUtente: {
+    type: String,
+    required: true,
+  },
+  data: {
+    type: Date,
+    required: true,
+  },
+  pasti: {
+    colazione: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Meal',
+      default: null,
+    },
+    pranzo: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Meal',
+      default: null,
+    },
+    cena: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Meal',
+      default: null,
+    }
+  },
+});
+
+
+
 
 //Creo il modello collection, associato allo schema creato precedentemente
 const User = mongoose.model("User", userSchema);
 const Ingredient = mongoose.model("Ingredient", ingredientSchema)
 const Meal = mongoose.model("Meal", mealSchema)
 const Pantry = mongoose.model("Pantry", pantrySchema)
+const Daily = mongoose.model("Daily", dailySchema)
 
 
 //Esporto il modulo collection così da poterlo utilizzare in altri file
-module.exports = { User, Ingredient, Meal, Pantry };
+module.exports = { User, Ingredient, Meal, Pantry, Daily };

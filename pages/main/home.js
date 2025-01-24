@@ -61,7 +61,7 @@ function Home() {
     const handleNextMeal = async () => {
         if (currentDay && username) {
             try {
-                const response = await axios.get(`http://192.168.1.123:8080/getNextMeal/${currentDay}/${username}`);
+                const response = await axios.get(`http://192.168.1.89:8080/getNextMeal/${currentDay}/${username}`);
                 setData(response.data);
             } catch (e) {
                 console.log(e);
@@ -102,6 +102,15 @@ function Home() {
         });
     };
 
+    const handleAddMeals = async () => {
+        try {
+            const response = await axios.get(`http://192.168.1.89:8080/createSchedule/${username}`);
+        }
+        catch (e) {
+            console.log(e);
+        }
+    };
+
 
     return (
         <Layout style={styles.container}>
@@ -117,6 +126,10 @@ function Home() {
             <ScrollView style={styles.scrollView}>
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", height: 400 }} >
                     <Calendario />
+
+                    <TouchableOpacity onPress={handleAddMeals}>
+                        <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image>
+                    </TouchableOpacity>
                 </View>
 
 
@@ -172,7 +185,7 @@ const styles = StyleSheet.create({
         width: screenWidth * 0.1,
         height: screenWidth * 0.1,
         resizeMode: 'contain',
-        marginTop: "100%",
+
     },
     daysListContainer: {
         width: CARD_WIDTH,
