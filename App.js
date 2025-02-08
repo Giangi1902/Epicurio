@@ -48,6 +48,7 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import Diet from './pages/main/diet.js';
 import Calendario from './pages/main/calendar.js'
 import BottomTogglePage from './pages/components/bottomToggle.js';
+import TinderSwipe from './pages/main/fooder.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -146,7 +147,7 @@ function MainTabs() {
       />
       <BottomTab.Screen
         name="Diet"
-        component={Diet}
+        component={TinderSwipe}
         options={{
           headerShown: false,
           tabBarLabel: "Diete",

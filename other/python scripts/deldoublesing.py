@@ -64,6 +64,6 @@ def rimuovi_quantita(input_file):
         print(f"Errore: {e}")
 
 # Esempio di utilizzo
-input_file = "../outputingredienti.json"  # Sostituisci con il path del file JSON di input
+input_file = "../ingredientgialloz.json"  # Sostituisci con il path del file JSON di input
 output_file = "../uniqingredienti.json"  # Sostituisci con il path del file JSON di output
 rimuovi_quantita(output_file)

@@ -132,7 +132,6 @@ function Home() {
                     </TouchableOpacity>
                 </View>
 
-
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginTop: 15, padding: 10, alignItems: "center", flexWrap: "wrap" }}>
                     <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi litri d'acqua bevuti </Text>
                     <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "flex-start", alignItems: "flex-start", width: "100%" }}>

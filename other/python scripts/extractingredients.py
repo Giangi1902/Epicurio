@@ -4,9 +4,9 @@ import json
 # Percorso alla cartella contenente i file JSON
 cartella_input = "../ricette"
 # Nome del file di output
-file_output = "../outputingredienti.json"
+file_output = "../ingredientgialloz.json"
 
-# Lista per memorizzare gli ingredienti estratti
+# Lista per memorizzare tutti gli ingredienti estratti
 ingredienti_estratti = []
 
 # Itera su tutti i file nella cartella
@@ -20,15 +20,13 @@ for nome_file in os.listdir(cartella_input):
                 dati = json.load(file)
                 # Verifica che l'oggetto "ingredients" esista e sia una lista
                 if "ingredients" in dati and isinstance(dati["ingredients"], list):
-                    # Aggiungi la stringa in posizione 0 (se esiste) alla lista
-                    if len(dati["ingredients"]) > 0:
-                        ingredienti_estratti.append(dati["ingredients"][0])
+                    # Aggiungi tutti gli ingredienti alla lista
+                    ingredienti_estratti.extend(dati["ingredients"])
             except json.JSONDecodeError:
                 print(f"Errore nel decodificare il file: {nome_file}")
 
 # Scrivi gli ingredienti estratti nel file di output
 with open(file_output, "w", encoding="utf-8") as file:
     json.dump(ingredienti_estratti, file, indent=4, ensure_ascii=False)
-
 
 print(f"Processo completato. Ingredienti estratti salvati in {file_output}.")

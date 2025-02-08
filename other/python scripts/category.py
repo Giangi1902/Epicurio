@@ -41,6 +41,6 @@ def categorize_products(input_file, output_file):
         json.dump(categorized_products, f, ensure_ascii=False, indent=4)
 
 # Esegui il processo
-input_file = "../uniqingredienti.json"  # Sostituisci con il percorso del tuo file di input
-output_file = "../categoryingredients.json"  # Sostituisci con il percorso del file di output
+input_file = "../uniqingredientigialloz.json"  # Sostituisci con il percorso del tuo file di input
+output_file = "../categoryingredientgialloz.json"  # Sostituisci con il percorso del file di output
 categorize_products(input_file, output_file)

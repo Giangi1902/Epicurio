@@ -94,7 +94,6 @@ const Calendario = () => {
               contentContainerStyle={{ flexGrow: 1, justifyContent: 'flex-start' }}>
                 <CardPasto text={`COLAZIONE per ${format(selectedDay, "d MMM", { locale: it,})}`}/>
                 <CardPasto text={`PRANZO per ${format(selectedDay, "d MMM", {locale: it,})}`}/>
-                <CardPasto text={`SPUNTINO per ${format(selectedDay, "d MMM", {locale: it,})}`}/>
                 <CardPasto text={`CENA per ${format(selectedDay, "d MMM", {locale: it,})}`}/>
               </ScrollView>
             )}

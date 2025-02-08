@@ -65,12 +65,9 @@ router.get("/getIngredients/:username", async (req, res) => {
 
 //TODO: pesi cambiabili per utente
 // Funzione per calcolare il punteggio per pasto
-async function calcolaPunteggiUtente(userId) {
+async function calcolaPunteggiUtente(userId, meals) {
     try {
-        // Recupera tutti i pasti
-        const meals = await Meal.find();
-
-        // Recupera i pasti degli ultimi 5 giorni
+        // pasti degli ultimi 5 giorni
         const oggi = new Date();
         const inizioIntervallo = new Date(oggi);
         inizioIntervallo.setDate(oggi.getDate() - 5);
@@ -97,11 +94,11 @@ async function calcolaPunteggiUtente(userId) {
 
                     let malus = 0;
                     if (giorniDiDistanza === 0) {
-                        malus = 2.5; 
+                        malus = 2.5;
                     } else if (giorniDiDistanza === 1) {
-                        malus = 1.25; 
+                        malus = 1.25;
                     } else if (giorniDiDistanza === 2) {
-                        malus = 0.625; 
+                        malus = 0.625;
                     } else if (giorniDiDistanza === 3 || giorniDiDistanza === 4) {
                         malus = 0.3125;
                     }
@@ -127,7 +124,7 @@ async function calcolaPunteggiUtente(userId) {
             const ultimoUtilizzo = ultimiUtilizzi[mealId];
             const giorniDalUltimoUtilizzo = ultimoUtilizzo
                 ? Math.floor((oggi - ultimoUtilizzo) / (1000 * 60 * 60 * 24))
-                : 5; // Se non è mai stato usato, massimo bonus
+                : 5;
             const bonusTempo = giorniDalUltimoUtilizzo * PESO_ULTIMO_UTILIZZO;
 
             // Valutazione dell'utente
@@ -155,8 +152,8 @@ async function calcolaPunteggiUtente(userId) {
             return {
                 title: meal.title,
                 punteggio: punteggioTotale,
-                valutazioneUtente,
-                valutazioniGlobali,
+                punteggioValutazioneUtente,
+                punteggioValutazioneGlobale,
                 bonusTempo,
                 malusFrequenza: frequenza
             };
@@ -172,12 +169,8 @@ async function calcolaPunteggiUtente(userId) {
     }
 }
 
-async function estraiPastiPesati(punteggiRicette, numeroPasti = 10) {
+async function estraiPastiPesati(punteggiRicette, numeroPasti = 5) {
     try {
-        if (!Array.isArray(punteggiRicette)) {
-            throw new TypeError("punteggiRicette deve essere un array valido.");
-        }
-
         // Tratta i punteggi negativi come 0
         const punteggiCorretti = punteggiRicette.map((ricetta) => ({
             ...ricetta,
@@ -253,14 +246,82 @@ async function estraiPastiPesati(punteggiRicette, numeroPasti = 10) {
     }
 }
 
+// Funzione per trovare ricette realizzabili con gli ingredienti della dispensa: ok
+async function mealsByPantry(userId) {
+    try {
+        // Trova la dispensa dell'utente
+        const pantry = await Pantry.findOne({ idUtente: userId });
+
+        if (!pantry || !pantry.idIngredienti.length) {
+            return []; // Se la dispensa non esiste o è vuota, restituisci un array vuoto
+        }
+
+        // Ottieni i nomi degli ingredienti iterando sugli ID
+        const ingredientNames = [];
+        for (const id of pantry.idIngredienti) {
+            const ingredient = await Ingredient.findById(id);
+            if (ingredient) {
+                ingredientNames.push(ingredient.nome);
+            }
+        }
+
+        // Crea un Set con i nomi degli ingredienti disponibili per una ricerca più efficiente
+        const availableIngredients = new Set(ingredientNames);
+
+        // Recupera tutte le ricette dal database
+        const recipes = await Meal.find();
+
+        // Filtra le ricette per tenere solo quelle che possono essere realizzate con gli ingredienti disponibili
+        const availableRecipes = recipes.filter(recipe => {
+            return recipe.ingredients.every(ingredient => availableIngredients.has(ingredient[0]));
+        });
+
+        return availableRecipes;
+    } catch (error) {
+        console.error("Errore nel recupero delle ricette:", error);
+        return [];
+    }
+}
+
+// Funzione per ottenere i nomi degli ingredienti
+async function getIngredients(userId) {
+    try {
+        // Trova la dispensa dell'utente
+        const pantry = await Pantry.findOne({ idUtente: userId });
+
+        if (!pantry || !pantry.idIngredienti.length) {
+            return []; // Se la dispensa non esiste o è vuota, restituisci un array vuoto
+        }
+
+        const nomeIngredienti = [];
+
+        // Itera sugli ID degli ingredienti e cerca il nome in Ingredient
+        for (const idIngredient of pantry.idIngredienti) {
+            const ingredient = await Ingredient.findById(idIngredient);
+            if (ingredient) {
+                nomeIngredienti.push(ingredient.nome);
+            }
+        }
+
+        return nomeIngredienti;
+    } catch (error) {
+        console.error("Errore nel recupero degli ingredienti:", error);
+        return [];
+    }
+}
 
 router.get("/createSchedule/:username", async (req, res) => {
     const { username } = req.params;
     try {
+        // console.log("partita")
         const user = await User.findOne({ username: username });
-        const punteggiRicette = await calcolaPunteggiUtente(user.id)
-        const pastiPesati = await estraiPastiPesati(punteggiRicette, 5);
-        console.log(pastiPesati)
+        // const punteggiRicette = await calcolaPunteggiUtente(user.id)
+        // const pastiPesati = await estraiPastiPesati(punteggiRicette, 5);
+        // console.log(pastiPesati)
+        const response = await mealsByPantry(user.id)
+        const pastipesati = await calcolaPunteggiUtente(user.id, response)
+        const pastiestratti = await estraiPastiPesati(pastipesati, 5)
+        console.log(pastiestratti)
     }
     catch (e) {
         console.log(e)
