@@ -28,7 +28,7 @@ export default function Signup() {
       try {
         const orariocenaFormatted = orariocena.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
         const orariopranzoFormatted = orariopranzo.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
-        const response = await axios.post("http://192.168.1.89:8080/signup", {
+        const response = await axios.post("http://172.20.10.7:8080/signup", {
           username, password, expoPushToken, orariopranzo: orariopranzoFormatted, orariocena: orariocenaFormatted
         })
         if (response.data == "ok") {

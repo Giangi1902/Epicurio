@@ -384,6 +384,17 @@ router.post("/addIngredients", async (req, res) => {
     }
 });
 
+router.get("/getCards", async(req,res) => {
+    try{
+        //solo 15 ricette
+        const response = await Meal.find().limit(15)
+        res.json(response)
+    }
+    catch(e){
+        console.log(e)
+    }
+})
+
 router.post("/updateIngredientFromChecklist/:username", async (req, res) => {
     const { username } = req.params;
     const { updatedQuantities } = req.body;

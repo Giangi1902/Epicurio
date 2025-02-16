@@ -67,7 +67,7 @@ function Home() {
     const handleNextMeal = async () => {
         if (currentDay && username) {
             try {
-                const response = await axios.get(`http://192.168.1.89:8080/getNextMeal/${currentDay}/${username}`);
+                const response = await axios.get(`http://172.20.10.7:8080/getNextMeal/${currentDay}/${username}`);
                 setData(response.data);
             } catch (e) {
                 console.log(e);
@@ -77,7 +77,7 @@ function Home() {
 
     const openMealListModal = async () => {
         try {
-            const response = await axios.get(`http://192.168.1.89:8080/getAllMeals/${username}`);
+            const response = await axios.get(`http://172.20.10.7:8080/getAllMeals/${username}`);
             setMeals(response.data);
             setMealListModalVisible(true);
         } catch (e) {
@@ -91,7 +91,7 @@ function Home() {
 
     const handleEdit = async (item) => {
         try {
-            const response = await axios.post(`http://192.168.1.89:8080/changeMeal`, {
+            const response = await axios.post(`http://172.20.10.7:8080/changeMeal`, {
                 id: item._id,
                 username: username,
                 orario: mealtype,

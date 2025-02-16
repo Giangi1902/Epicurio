@@ -146,13 +146,13 @@ function MainTabs() {
         }}
       />
       <BottomTab.Screen
-        name="Diet"
+        name="Finder"
         component={TinderSwipe}
         options={{
           headerShown: false,
-          tabBarLabel: "Diete",
+          tabBarLabel: "Finder",
           tabBarIcon: ({ color }) => (
-            <Ionicons name="map" color={color} size={25} />
+            <Ionicons name="search" color={color} size={25} />
           ),
         }}
       />

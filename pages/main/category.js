@@ -32,7 +32,7 @@ function Category() {
     const handleIngredients = async () => {
         if (username != "") {
             try {
-                const response = await axios.get(`http://192.168.1.89:8080/categoryIngredients/${username}/${categoria}`)
+                const response = await axios.get(`http://172.20.10.7:8080/categoryIngredients/${username}/${categoria}`)
                 if (response.data != "no") {
                     setDispensa(response.data)
                 }
@@ -45,7 +45,7 @@ function Category() {
 
     const handleMeals = async () => {
         try {
-            const response = await axios.get(`http://192.168.1.89:8080/getMealsCategory/${categoria}`)
+            const response = await axios.get(`http://172.20.10.7:8080/getMealsCategory/${categoria}`)
             setMeals(response.data)
         }
         catch (e) {
@@ -68,7 +68,7 @@ function Category() {
                 setDispensa(updatedDispensa);
 
                 // Invia la richiesta di aggiornamento al backend
-                const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
+                const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
                 if (!response.data) {
                     console.log("Errore nell'aggiornamento della quantità nel backend");
                 }
@@ -90,7 +90,7 @@ function Category() {
             setDispensa(updatedDispensa);
 
             // Invia la richiesta di aggiornamento al backend
-            const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
+            const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
             if (!response.data) {
                 console.log("Errore nell'aggiornamento della quantità nel backend");
             }
