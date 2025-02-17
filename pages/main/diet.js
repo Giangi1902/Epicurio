@@ -6,101 +6,48 @@ import { normalize } from "./home";
 function Diet() {
 
     return (
-        <Layout style={styles.container}>
-            <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
+        <View>
+            <View style={[styles.cardDietaPrincipale, { marginTop: 15, paddingBottom: 10 }]}>
+                <Text style={{ alignSelf: "center", color: "black", fontFamily: "Poppins_600SemiBold", fontSize: normalize(22) }}>La tua dieta</Text>
 
-            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
-                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic" }}>Diete</Text>
+                <View style={[styles.cardDietaPrincipale, { borderColor: "#0B7308", marginVertical: 15 }]}>
+                    <Text style={styles.titleDietaPrincipale}>Dieta mediterranea</Text>
+                    <Text style={styles.descriptionDietaPrincipale}>Descrizione della dieta attualmente scelta lorem ipsum dolor sit amet lorem ipsum dolor sit amet</Text>
+                </View>
+
+                <View style={{ flex: 1, flexDirection: "row", justifyContent: "flex-end", alignItems: "flex-end" }}>
+                    <TouchableOpacity>
+                        <View style={{ marginHorizontal: 10 }}>
+                            <Image source={require("../../images/right-arrow.png")} style={{ width: 35, height: 35, resizeMode: 'contain' }}></Image>
+                        </View>
+                    </TouchableOpacity>
                 </View>
             </View>
 
-            {/* View per la dieta principale  */}
-            <ScrollView style={styles.scrollViewDiete}>
-                <View style={[styles.cardDietaPrincipale, { marginTop: 15, paddingBottom: 10 }]}>
-                    <Text style={{ alignSelf: "center", color: "black", fontFamily: "Poppins_600SemiBold", fontSize: normalize(22) }}>La tua dieta</Text>
+            <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: normalize(16), color: "black", alignSelf: "center", marginTop: 25 }}>Scegli un'altra dieta tra quelle possibili</Text>
+            <View style={styles.viewDiete}>
+                <View style={styles.cardDieta}>
+                    <Text style={styles.titleDieta}>Dieta Chetogenica</Text>
+                    <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
 
-                    <View style={[styles.cardDietaPrincipale, { borderColor: "#0B7308", marginVertical: 15 }]}>
-                        <Text style={styles.titleDietaPrincipale}>Dieta mediterranea</Text>
-                        <Text style={styles.descriptionDietaPrincipale}>Descrizione della dieta attualmente scelta lorem ipsum dolor sit amet lorem ipsum dolor sit amet</Text>
-                    </View>
-
-                    <View style={{ flex: 1, flexDirection: "row", justifyContent: "flex-end", alignItems: "flex-end" }}>
-                        <TouchableOpacity>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 35, height: 35, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
+                    <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
+                        <View style={{ marginHorizontal: 10 }}>
+                            <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
+                        </View>
+                    </TouchableOpacity>
                 </View>
+                <View style={styles.cardDieta}>
+                    <Text style={styles.titleDieta}>Dieta Detox</Text>
+                    <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
 
-                <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: normalize(16), color: "black", alignSelf: "center", marginTop: 25 }}>Scegli un'altra dieta tra quelle possibili</Text>
-                <View style={styles.viewDiete}>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Chetogenica</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Detox</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-                        
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Chetogenica</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-                        
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Detox</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Chetogenica</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-                    <View style={styles.cardDieta}>
-                        <Text style={styles.titleDieta}>Dieta Detox</Text>
-                        <Text style={styles.descriptionDieta}>Descrizione della dieta che è possibile scegliere tra tutte quelle disponibili</Text>
-
-                        <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
-                            <View style={{ marginHorizontal: 10 }}>
-                                <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
-                            </View>
-                        </TouchableOpacity>
-                    </View>
-
+                    <TouchableOpacity style={{ justifyContent: "flex-end", alignItems: "flex-end" }}>
+                        <View style={{ marginHorizontal: 10 }}>
+                            <Image source={require("../../images/right-arrow.png")} style={{ width: 20, height: 20, resizeMode: 'contain' }}></Image>
+                        </View>
+                    </TouchableOpacity>
                 </View>
-            </ScrollView>
-
-        </Layout>
+            </View>
+        </View>
     )
 }
 
@@ -113,7 +60,7 @@ const styles = StyleSheet.create({
     },
     cardDietaPrincipale: {
         flex: 1,
-        width: "90%",
+        width: "95%",
         backgroundColor: "white",
         justifyContent: "center",
         alignSelf: "center",

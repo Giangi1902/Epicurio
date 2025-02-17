@@ -1,12 +1,14 @@
 import { Layout, Text } from "@ui-kitten/components";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
-import { View, Image, StyleSheet, TouchableOpacity, Dimensions, ScrollView, StatusBar, PixelRatio } from "react-native";
+import { View, Image, StyleSheet, TouchableOpacity, Dimensions, ScrollView, StatusBar, PixelRatio, Button } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
 import CardPasto from "../components/cardPasto";
 import Calendario from "./calendar";
+import Diet from "./diet";
+import { useTheme } from "../../themeContext";
 
 const screenWidth = Dimensions.get('window').width;
 const CARD_WIDTH = screenWidth * 0.8;
@@ -27,6 +29,8 @@ function Home() {
     const navigation = useNavigation();
     const [currentDay, setCurrentDay] = useState("")
     const [data, setData] = useState([])
+    const [meals, setMeals] = useState([])
+    const {theme, toggleTheme} = useTheme();
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -54,7 +58,8 @@ function Home() {
     useFocusEffect(
         React.useCallback(() => {
             getCurrentDay()
-            handleNextMeal();
+            // handleNextMeal();
+            handleGetMeals();
         }, [currentDay, username])
     );
 
@@ -111,37 +116,41 @@ function Home() {
         }
     };
 
+    const handleGetMeals = async () => {
+        try{
+            const response = await axios.get(`http://172.20.10.7:8080/getMeals/${username}`);
+            setMeals(response.data);
+            console.log(response.data);
+        }
+        catch(e){
+            console.log(e);
+        }
+    }
 
+
+    //TODO: migliorare il calendario
     return (
         <Layout style={styles.container}>
-            <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
-
-            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+            <StatusBar translucent={true} backgroundColor={theme.coloreChiaro} barStyle={"dark-content"} />
+            <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View>
+                    <Button title="Cambia tema" onPress={toggleTheme} />
+                </View>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
                     <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
-                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text>
+                    <Text style={{ color: theme.coloreScuro, fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text>
                 </View>
             </View>
 
             <ScrollView style={styles.scrollView}>
-                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", height: 400 }} >
-                    <Calendario />
+                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0"}} >
+                    <Calendario meals={meals} />
 
                     <TouchableOpacity onPress={handleAddMeals}>
                         <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image>
                     </TouchableOpacity>
                 </View>
-
-                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginTop: 15, padding: 10, alignItems: "center", flexWrap: "wrap" }}>
-                    <Text style={[styles.dayText, { textAlign: "center", marginBottom: 10 }]}> Aggiungi litri d'acqua bevuti </Text>
-                    <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "flex-start", alignItems: "flex-start", width: "100%" }}>
-                        {glasses.map((glass) => (
-                            <TouchableOpacity key={glass.id} onPress={() => handlePress(glass.id)}>
-                                <Image source={glass.type === "whitewater" ? require("../../images/whitewater.png") : require("../../images/water.png")} style={styles.iconBottle} />
-                            </TouchableOpacity>
-                        ))}
-                    </View>
-                </View>
+                {/* <Diet/> */}
             </ScrollView>
         </Layout>
     );

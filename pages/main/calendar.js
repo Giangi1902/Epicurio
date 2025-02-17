@@ -4,10 +4,14 @@ import { View, StyleSheet, Text, TouchableOpacity, ScrollView } from 'react-nati
 import PagerView from "react-native-pager-view";
 import { it } from 'date-fns/locale'; // Importa la locale italiana
 import CardPasto from "../components/cardPasto";
+import { useTheme } from "../../themeContext";
 
-const Calendario = () => {
 
+const Calendario = ({ meals }) => {
   const today = new Date();
+  const { theme, toggleTheme } = useTheme();
+  const styles = getStyles(theme);
+
 
   // Includi tutte le settimane dell'anno corrente
   const startOfYearDate = startOfYear(today); // Inizio dell'anno
@@ -44,8 +48,8 @@ const Calendario = () => {
 
   return (
     <View style={{ flex: 1 }}>
-      <PagerView 
-        style={{ height: 400 }} 
+      <PagerView
+        style={{ height: 400 }}
         initialPage={currentWeekIndex}
         onPageSelected={(e) => {
           // Imposta il primo giorno della settimana visualizzata come selectedDay
@@ -65,22 +69,22 @@ const Calendario = () => {
 
                 return (
                   <TouchableOpacity key={k} onPress={() => setSelectedDay(day)}>
-                    <View style={[ 
-                      styles.day, 
-                      dayIsToday && !isSelected && styles.todayTextGreen, 
-                      dayIsToday && isSelected && styles.todayDaySelected, 
-                      isSelected && styles.selectedDay 
+                    <View style={[
+                      styles.day,
+                      dayIsToday && !isSelected && styles.todayTextGreen,
+                      dayIsToday && isSelected && styles.todayDaySelected,
+                      isSelected && styles.selectedDay
                     ]}>
-                      <Text style={[ 
-                        dayIsToday && !isSelected && styles.todayTextGreen, 
-                        dayIsToday && isSelected && styles.selectedTextWhite, 
+                      <Text style={[
+                        dayIsToday && !isSelected && styles.todayTextGreen,
+                        dayIsToday && isSelected && styles.selectedTextWhite,
                         isSelected && styles.selectedTextWhite,
                         styles.textMonth,
                       ]}> {txt} </Text>
-                      <Text style={[ 
-                        dayIsToday && !isSelected && styles.todayTextGreen, 
+                      <Text style={[
+                        dayIsToday && !isSelected && styles.todayTextGreen,
                         dayIsToday && isSelected && styles.selectedTextWhite,
-                        isSelected && styles.selectedTextWhite, 
+                        isSelected && styles.selectedTextWhite,
                         styles.textDay,
                       ]}> {dayMonth} </Text>
                     </View>
@@ -90,11 +94,10 @@ const Calendario = () => {
             </View>
 
             {selectedDay && (
-              <ScrollView style={{ flexGrow: 1 }} 
-              contentContainerStyle={{ flexGrow: 1, justifyContent: 'flex-start' }}>
-                <CardPasto text={`COLAZIONE per ${format(selectedDay, "d MMM", { locale: it,})}`}/>
-                <CardPasto text={`PRANZO per ${format(selectedDay, "d MMM", {locale: it,})}`}/>
-                <CardPasto text={`CENA per ${format(selectedDay, "d MMM", {locale: it,})}`}/>
+              <ScrollView style={{ flexGrow: 1 }}
+                contentContainerStyle={{ flexGrow: 1, justifyContent: 'flex-start' }}>
+                <CardPasto text={`PRANZO`} meals={meals} selectedDay={selectedDay} type={"pranzo"} />
+                <CardPasto text={`CENA`} meals={meals} selectedDay={selectedDay} type={"cena"} />
               </ScrollView>
             )}
           </View>
@@ -104,7 +107,7 @@ const Calendario = () => {
   );
 };
 
-const styles = StyleSheet.create({
+const getStyles = (theme) => StyleSheet.create({
   container: {
     flex: 1
   },
@@ -123,16 +126,16 @@ const styles = StyleSheet.create({
     padding: 5
   },
   todayTextGreen: {
-    color: '#0B7308',
+    color: theme.coloreScuro,
     fontWeight: 'Poppins_400Regular',
   },
   todayDaySelected: {
-    backgroundColor: '#0B7308',
+    backgroundColor: theme.coloreScuro,
     borderRadius: 10,
     padding: 5
   },
   selectedDay: {
-    backgroundColor: '#0B7308',
+    backgroundColor: theme.coloreScuro,
     borderRadius: '40%',
     padding: 5,
   },

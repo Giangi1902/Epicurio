@@ -65,6 +65,7 @@ router.get("/getIngredients/:username", async (req, res) => {
 
 //TODO: pesi cambiabili per utente
 // Funzione per calcolare il punteggio per pasto
+//TODO: ricontrollare bene la funzione
 async function calcolaPunteggiUtente(userId, meals) {
     try {
         // pasti degli ultimi 5 giorni
@@ -82,11 +83,15 @@ async function calcolaPunteggiUtente(userId, meals) {
         const ultimiUtilizzi = {};
 
         programmazione.forEach((sched) => {
+            console.log("fuori")
             const { colazione, pranzo, cena, data } = sched.pasti;
 
             [colazione, pranzo, cena].forEach((pasto) => {
+                console.log("dentro")
                 if (pasto) {
+                    console.log("dentroif")
                     const pastoId = pasto._id.toString();
+                    console.log(pastoId)
                     const dataPasto = new Date(sched.data);
 
                     // Calcola i giorni di distanza
@@ -221,7 +226,7 @@ async function estraiPastiPesati(punteggiRicette, numeroPasti = 5) {
         });
 
         // Visualizza il raggruppamento
-        console.log("Raggruppamento probabilità e punteggi:", raggruppamentoProbabilita);
+        // console.log("Raggruppamento probabilità e punteggi:", raggruppamentoProbabilita);
 
         // Estrai pasti randomicamente basandoti sulle probabilità pesate
         const pastiEstratti = [];
@@ -320,8 +325,9 @@ router.get("/createSchedule/:username", async (req, res) => {
         // console.log(pastiPesati)
         const response = await mealsByPantry(user.id)
         const pastipesati = await calcolaPunteggiUtente(user.id, response)
-        const pastiestratti = await estraiPastiPesati(pastipesati, 5)
-        console.log(pastiestratti)
+        // const pastiestratti = await estraiPastiPesati(pastipesati, 5)
+        // console.log(pastiestratti)
+        res.json
     }
     catch (e) {
         console.log(e)
@@ -357,7 +363,6 @@ router.get("/getAllIngredients/:index", async (req, res) => {
     }
 });
 
-
 router.post("/addIngredients", async (req, res) => {
     const { username, quantities } = req.body;
     try {
@@ -384,13 +389,46 @@ router.post("/addIngredients", async (req, res) => {
     }
 });
 
-router.get("/getCards", async(req,res) => {
-    try{
+router.get("/getCards", async (req, res) => {
+    try {
         //solo 15 ricette
         const response = await Meal.find().limit(15)
         res.json(response)
     }
-    catch(e){
+    catch (e) {
+        console.log(e)
+    }
+})
+
+router.get("/getMeals/:username", async (req, res) => {
+    const { username } = req.params;
+    try {
+        const user = await User.findOne({ username: username });
+        const pasti = await Daily.find({ idUtente: user.id })
+        const results = [];
+        for (const pasto of pasti) {
+            let pranzo = []
+            let cena = []
+            if (pasto.pasti.pranzo != null) {
+                const idPranzo = pasto.pasti.pranzo.toString()
+                pranzo = await Meal.findOne({ _id: idPranzo })
+            }
+            if (pasto.pasti.cena != null) {
+                const idCena = pasto.pasti.cena.toString()
+                cena = await Meal.findOne({
+                    _id: idCena
+                })
+            }
+            results.push({
+                userId: pasto.idUtente,
+                data: pasto.data,
+                pranzo: pranzo ? pranzo.title : null,
+                cena: cena ? cena.title : null
+            });
+        }
+        res.json(results)
+    }
+    catch (e) {
         console.log(e)
     }
 })
@@ -935,6 +973,8 @@ const sendNotification = async (token, title, body) => {
 
 const { DateTime } = require('luxon');
 const { Expo } = require('expo-server-sdk');
+const { ca } = require('date-fns/locale');
+const { constructFromSymbol } = require('date-fns/constants');
 
 const expo = new Expo({
     useFcmV1: true,

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { StyleSheet, SafeAreaView, View, StatusBar, AppRegistry, Platform } from 'react-native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -33,6 +33,7 @@ import {
 } from '@expo-google-fonts/poppins';
 import { usePushNotifications } from './pages/main/usePushNotifications.js';
 import { normalize } from './pages/main/home.js';
+import { useTheme } from "./themeContext";
 
 AppRegistry.registerComponent('main', () => App);
 
@@ -49,6 +50,7 @@ import Diet from './pages/main/diet.js';
 import Calendario from './pages/main/calendar.js'
 import BottomTogglePage from './pages/components/bottomToggle.js';
 import TinderSwipe from './pages/main/fooder.js';
+import { ThemeProvider, ThemeContext } from "./themeContext.js";
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -84,8 +86,8 @@ function AuthStack({ navigation }) {
         tabBarLabelStyle: {
           fontFamily: "Poppins_400Regular"
         }
-      }}>      
-      <TopTab.Screen name="Signup" component={Signup} style={{fontFamily: "Poppins_400Regular"}} />
+      }}>
+      <TopTab.Screen name="Signup" component={Signup} style={{ fontFamily: "Poppins_400Regular" }} />
       <TopTab.Screen name="Login" component={Login} />
     </TopTab.Navigator>
   );
@@ -101,13 +103,34 @@ function HomeStackScreen() {
 }
 
 function MainTabs() {
+
+  const [appTheme, setAppTheme] = useState(null); // Stato per il tema
+
+  useEffect(() => {
+    const loadTheme = async () => {
+      try {
+        const savedTheme = await AsyncStorage.getItem("appTheme");
+        if (savedTheme) {
+          setAppTheme(JSON.parse(savedTheme)); // Converte stringa in oggetto tema
+        } else {
+          setAppTheme(greenTheme); // Imposta il tema di default
+        }
+      } catch (error) {
+        console.error("Errore nel caricamento del tema:", error);
+      }
+    };
+    loadTheme();
+  }, []);
+
+  if (!appTheme) return null;
+
   return (
     <BottomTab.Navigator
       screenOptions={{
-        tabBarActiveTintColor: "#0B7308",
+        tabBarActiveTintColor: appTheme.coloreScuro,
         tabBarInactiveTintColor: "#f7f7f7",
         tabBarStyle: {
-          backgroundColor: "#ADC8AD",
+          backgroundColor: appTheme.coloreChiaro,
           borderTopWidth: 0,
           borderTopRightRadius: 45,
           borderTopLeftRadius: 45,
@@ -119,7 +142,7 @@ function MainTabs() {
         },
         tabBarLabelStyle: {
           fontSize: normalize(10),
-          fontFamily: "Poppins_300Light", 
+          fontFamily: "Poppins_300Light",
         }
       }}
     >
@@ -212,27 +235,48 @@ function App() {
   }, [fontsloaded]);
 
   // usePushNotifications();
+  const [appTheme, setAppTheme] = useState(null); // Stato per il tema
+
+  useEffect(() => {
+    const loadTheme = async () => {
+      try {
+        const savedTheme = await AsyncStorage.getItem("appTheme");
+        if (savedTheme) {
+          setAppTheme(JSON.parse(savedTheme)); // Converte stringa in oggetto tema
+        } else {
+          setAppTheme(greenTheme); // Imposta il tema di default
+        }
+      } catch (error) {
+        console.error("Errore nel caricamento del tema:", error);
+      }
+    };
+    loadTheme();
+  }, []);
+
+  if (!appTheme) return null; // Evita il rendering fino a quando il tema non è caricato
 
   return (
-    <ApplicationProvider {...eva} theme={{ ...eva.dark, ...theme }}>
-      <SafeAreaProvider>
-        <SafeAreaView style={styles.AndroidSafeArea}>
-          <NavigationContainer>
-            <Stack.Navigator initialRouteName="Auth">
-              <Stack.Screen name="Auth" component={AuthStack} options={{ headerShown: false }} />
-              <Stack.Screen name="Main" component={MainTabs} options={{ headerShown: false }} />
-            </Stack.Navigator>
-          </NavigationContainer>
-        </SafeAreaView>
-      </SafeAreaProvider>
-    </ApplicationProvider>
+    <ThemeProvider>
+      <ApplicationProvider {...eva} theme={{ ...eva.light, ...theme }}>
+        <SafeAreaProvider>
+          <SafeAreaView style={[styles.AndroidSafeArea, { backgroundColor: appTheme.coloreChiaro }]}>
+            <NavigationContainer>
+              <Stack.Navigator initialRouteName="Auth">
+                <Stack.Screen name="Auth" component={AuthStack} options={{ headerShown: false }} />
+                <Stack.Screen name="Main" component={MainTabs} options={{ headerShown: false }} />
+              </Stack.Navigator>
+            </NavigationContainer>
+          </SafeAreaView>
+        </SafeAreaProvider>
+      </ApplicationProvider>
+    </ThemeProvider>
   );
 }
 
-const styles = StyleSheet.create({ 
+const styles = StyleSheet.create({
   AndroidSafeArea: {
     flex: 1,
-    backgroundColor: "#ADC8AD",
+    backgroundColor: "",
     paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0
   }
 });
