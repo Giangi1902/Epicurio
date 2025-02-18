@@ -2,15 +2,14 @@ import React from 'react';
 import { StyleSheet, View, Image, Dimensions } from 'react-native';
 
 const iconMap = {
-  "pasta": require('../../images/spaghetti.png'),
-  "carne": require('../../images/meat.png'),
+  "pasta e riso": require('../../images/spaghetti.png'),
+  "carni": require('../../images/meat.png'),
   "pesce": require('../../images/fish.png'),
-  "latte e formaggi": require('../../images/cheese.png'),
+  "latte e uova": require('../../images/cheese.png'),
   "frutta e verdura": require("../../images/healthy-food.png"),
-  "panificio": require("../../images/bread.png"),
-  "riso": require("../../images/rice.png"),
-  "surgelati": require("../../images/frozen-food.png"),
-  "biscotti": require("../../images/cookie.png"),
+  "preparazione": require("../../images/flour.png"),
+  "legumi": require("../../images/legumes.png"),
+  "dolci": require("../../images/cookie.png"),
   "bevande": require("../../images/plastic.png"),
   "condimenti": require("../../images/olive-oil.png"),
   "altro": require("../../images/surprise-box.png"),

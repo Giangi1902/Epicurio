@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, ScrollView } from "react-native";
+import { StyleSheet, View, ActivityIndicator, Image, Dimensions, TouchableOpacity, ScrollView, DevSettings } from "react-native";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
 import { Layout, Text } from "@ui-kitten/components";
 import { normalize } from "./home";
+import { useTheme } from "../../themeContext";
+
+
 
 const { width: screenWidth } = Dimensions.get('window');
-const circleSize = screenWidth * 0.55;
+const circleSize = screenWidth * 0.25;
 
 function Profile() {
     const [orariopranzo, setOrarioPranzo] = useState("");
@@ -15,6 +18,9 @@ function Profile() {
     const [username, setUsername] = useState("");
     const [loading, setLoading] = useState(false);
     const navigation = useNavigation();
+    const { toggleTheme } = useTheme();
+    const {theme} = useTheme();
+
 
     const handleInfo = async () => {
         if (username !== "") {
@@ -73,9 +79,9 @@ function Profile() {
 
     return (
         <Layout style={styles.container}>
-            <View style={styles.containerTitle}>
+            <View style={[styles.containerTitle, { backgroundColor: theme.coloreChiaro }]}>
                 <View style={styles.containerTitleText}>
-                    <Text style={styles.textTitle}>Profilo</Text>
+                    <Text style={[styles.textTitle, {color: theme.coloreScuro}]}>Profilo</Text>
                 </View>
             </View>
             <ScrollView style={styles.scrollViewContainer} showsVerticalScrollIndicator={false}>
@@ -112,6 +118,24 @@ function Profile() {
                 <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
                     <Text style={styles.titleButton}>Elimina account</Text>
                 </TouchableOpacity>
+
+                <View>
+                    <Text>Cambia tema all'applicazione: </Text>
+                    <View style={{ flexDirection: "row", justifyContent: "space-around", marginVertical: 10 }}>
+                        <TouchableOpacity onPress={() => toggleTheme("green")}>
+                            <View style={{backgroundColor: "#ADC8AD", borderRadius: 25, width: 50, height: 50}}></View>
+                        </TouchableOpacity>
+                        <TouchableOpacity onPress={() => toggleTheme("purple")}>
+                        <View style={{backgroundColor: "#C7ADC8", borderRadius: 25, width: 50, height: 50}}></View>
+                        </TouchableOpacity>
+                        <TouchableOpacity onPress={() => toggleTheme("blue")}>
+                        <View style={{backgroundColor: "#ADC8C8", borderRadius: 25, width: 50, height: 50}}></View>
+                        </TouchableOpacity>
+                        <TouchableOpacity onPress={() => toggleTheme("red")}>
+                        <View style={{backgroundColor: "#C8ADAD", borderRadius: 25, width: 50, height: 50}}></View>
+                        </TouchableOpacity>
+                    </View>
+                </View>
             </ScrollView>
         </Layout>
     );
@@ -160,7 +184,7 @@ const styles = StyleSheet.create({
     logoutButton: {
         marginVertical: 10,
         width: "100%",
-        height: circleSize / 4,
+        height: circleSize / 3,
         backgroundColor: '#407F40',
         borderRadius: 20,
         alignSelf: "center",
@@ -169,7 +193,7 @@ const styles = StyleSheet.create({
     deleteButton: {
         marginVertical: 10,
         width: "100%",
-        height: circleSize / 4,
+        height: circleSize / 3,
         backgroundColor: '#9B0800',
         borderRadius: 20,
         alignSelf: "center",
@@ -201,12 +225,10 @@ const styles = StyleSheet.create({
         marginVertical: 10
     },
     containerTitle: {
-        backgroundColor: "#ADC8AD",
         borderBottomRightRadius: 45,
         borderBottomLeftRadius: 45
     },
     textTitle: {
-        color: "#0B7308",
         fontSize: normalize(36),
         fontFamily: "Poppins_600SemiBold_Italic"
     },

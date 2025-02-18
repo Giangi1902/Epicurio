@@ -6,6 +6,8 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
 import { normalize } from "../main/home";
 import BottomTogglePage from "../components/bottomToggle";
+import { useTheme } from "../../themeContext";
+
 
 function Checklist() {
     const [username, setUsername] = useState('');
@@ -22,6 +24,7 @@ function Checklist() {
     const [filteredIngredients, setFilteredIngredients] = useState();
     const [usingAsyncStorage, setUsingAsyncStorage] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(-1);
+    const { theme } = useTheme();
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -305,12 +308,12 @@ function Checklist() {
         <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
 
-                <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                     <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
                         {isPageVisible ? (
-                            <Text style={{ color: "#0B7308", fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(30) }}>Aggiungi ingrediente</Text>
+                            <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(30) }}>Aggiungi ingrediente</Text>
                         ) : (
-                            <Text style={{ color: "#0B7308", fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(36) }}>Lista della spesa</Text>
+                            <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(36) }}>Lista della spesa</Text>
                         )}
                     </View>
                 </View>

@@ -30,7 +30,7 @@ function Home() {
     const [currentDay, setCurrentDay] = useState("")
     const [data, setData] = useState([])
     const [meals, setMeals] = useState([])
-    const {theme, toggleTheme} = useTheme();
+    const {theme} = useTheme();
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -127,15 +127,11 @@ function Home() {
         }
     }
 
-
     //TODO: migliorare il calendario
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={theme.coloreChiaro} barStyle={"dark-content"} />
             <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
-                <View>
-                    <Button title="Cambia tema" onPress={toggleTheme} />
-                </View>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
                     <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
                     <Text style={{ color: theme.coloreScuro, fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text>

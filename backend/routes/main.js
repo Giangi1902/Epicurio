@@ -552,34 +552,17 @@ router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
     try {
         const user = await User.findOne({ username: username })
         if (user) {
-            let IngredientsQuantityCategory = []
-            const ingredienti = user.dispensa
-            for (const ingrediente of ingredienti) {
-                // Bisogna prendere categoria (ingrediente), nome (ingrediente), quantità (dispensa), id (dispensa)
-                const id = ingrediente.id
-                const food = await Ingredient.findOne({ _id: id, categoria: categoria })
-                if (!food) {
-                    continue;
-                }
-                IngredientsQuantityCategory.push({
-                    name: food.nome,
-                    id: id,
-                    quantity: ingrediente.quantity
-                })
-            }
-            res.json(IngredientsQuantityCategory)
+            //confrontarlo con la collezione ingredienti
+            //prendere solo quelli della categoria
+            //ritornare come primi gli ingredienti che ha in dispensa e poi quelli che non ha
+            const pantryUser = await Pantry.findOne({ idUtente: user.id });
+            const ingredientIds = pantryUser.idIngredienti;
+            const ingredientsInPantry = await Ingredient.find({
+                _id: { $in: ingredientIds },
+                categoria: new RegExp(`^${categoria}$`, "i")
+            });
+            res.json(ingredientsInPantry)
         }
-    }
-    catch (e) {
-        console.log(e)
-    }
-})
-
-router.post("/addMeal", async (req, res) => {
-    const { ingredients } = req.body
-    try {
-        Meal.create({ ingredients: ingredients, nome: "Pasta al sugo", description: "Per preparare gli spaghetti al pomodoro cominciate dalla preparazione della salsa. In una padella versate l'olio extravergine d’oliva insieme allo spicchio d'aglio sbucciato e diviso a metà, così potrete eliminare l’anima per rendere il profumo più delicato. Dopo 2 minuti di cottura a fiamma viva, unite i pomodori pelati e aggiustate di sale, Coprite con un coperchio e fate cuocere per almeno 1 ora. Trascorso il tempo indicato, eliminate l’aglio e passate i pomodori al passaverdure, così da ottenere una purea liscia ed omogenea. A questo punto non vi resta che cuocere la pasta in abbondante acqua bollente e salata. Scolate gli spaghetti al dente direttamente nel sugo e mescolate qualche istante a fiamma viva per amalgamare il tutto. I vostri spaghetti al pomodoro sono pronti, non vi resta che impiattare e guarnire con basilico fresco a piacimento", difficulty: 1, timing: 100 })
-        res.json("ok")
     }
     catch (e) {
         console.log(e)
@@ -1054,14 +1037,15 @@ cron.schedule('*/2 * * * *', logMessage);
 router.get("/getMealsCategory/:categoria", async (req, res) => {
     const { categoria } = req.params
     try {
-        const ingredients = await Ingredient.find({ categoria: categoria })
+        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") })
         const ingredientName = ingredients.map(ingredient => ingredient.nome);
-
-        // Trova tutti i piatti che contengono almeno uno degli ingredienti trovati
-        const meals = await Meal.find(
-            { ingredients: { $in: ingredientName } },
-            { description: 0, images: 0, banned: 0, icon: 0, raters: 0, rating: 0, difficulty: 0 }
-        );
+        const meals = await Meal.find({
+            ingredients: {
+                $elemMatch: {
+                    0: { $in: ingredientName.map(name => new RegExp(`^${name}$`, "i")) } // Cerca nel primo elemento del sotto-array
+                }
+            }
+        }).limit(5);
         res.json(meals)
     }
     catch (e) {

@@ -46,6 +46,9 @@ const Calendario = ({ meals }) => {
 
   const [selectedDay, setSelectedDay] = useState(today);
 
+
+  //TODO: problema con la selezione del giorno
+  //TODO: problema nello swipe della settimana successiva con la scelta del nuovo giorno
   return (
     <View style={{ flex: 1 }}>
       <PagerView

@@ -5,6 +5,7 @@ import { View, Image, StyleSheet, TouchableOpacity, Dimensions, ScrollView, Stat
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from "@react-navigation/native";
 import { useNavigation } from '@react-navigation/native';
+import { useTheme } from "../../themeContext";
 
 
 const screenWidth = Dimensions.get('window').width;
@@ -29,6 +30,7 @@ function Home() {
     const [mealListModalVisible, setMealListModalVisible] = useState(false);
     const [meals, setMeals] = useState([]);
     const [mealtype, setMealType] = useState("")
+    const { theme } = useTheme();
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -44,9 +46,13 @@ function Home() {
         fetchUsername();
     }, []);
 
-    const handleCategory = async (category) => {
-        navigation.navigate("Category", { categoria: category });
-    }
+    const handleCategory = (categoria) => {
+        navigation.navigate("Menu", {
+            screen: "Category",
+            params: { categoria },
+        });
+    };
+
 
     const getCurrentDay = () => {
         const now = new Date();
@@ -109,9 +115,9 @@ function Home() {
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
-            <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+            <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}>Dispensa</Text>
+                    <Text style={{ color: theme.coloreScuro, fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic"}}>Dispensa</Text>
                 </View>
             </View>
             <View style={{ alignItems: "center", marginTop: 15 }}>
@@ -123,76 +129,74 @@ function Home() {
             <ScrollView style={styles.scrollView}>
                 <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", marginBottom: 15 }}>
                     <ScrollView style={{ flex: 1 }}>
-                        <Text style={{color: "black", alignSelf: "center", fontFamily: "Poppins_600SemiBold", fontSize: normalize(20), marginTop: 15}}>Categorie</Text>
+                        <Text style={{ color: "black", alignSelf: "center", fontFamily: "Poppins_600SemiBold", fontSize: normalize(20), marginTop: 15 }}>Categorie</Text>
                         <View style={{ flexDirection: "row", flexWrap: "wrap", justifyContent: "space-evenly", marginHorizontal: 10 }}>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/rice.png')} style={[styles.icon]} />
-                                    <Text style={styles.categoryText}>RISO</Text>
+
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro, width: "70%" }]}>
+                                <TouchableOpacity style={{}} onPress={() => handleCategory("pasta e riso")}>
+                                    <View style={{ flexDirection: "row", justifyContent: "space-around", margin: 10 }}>
+                                        <Image source={require('../../images/spaghetti.png')} style={[styles.icon]} />
+                                        <Image source={require('../../images/rice.png')} style={[styles.icon]} />
+                                    </View>
+                                    <Text style={styles.categoryText}>PASTA E RISO</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/spaghetti.png')} style={[styles.icon]} />
-                                    <Text style={styles.categoryText}>PASTA</Text>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("preparazione")}>
+                                    <Image source={require('../../images/flour.png')} style={[styles.icon]} />
+                                    <Text style={styles.categoryText}>PREPARAZIONE</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/bread.png')} style={[styles.icon]} />
-                                    <Text style={styles.categoryText}>PANE</Text>
-                                </TouchableOpacity>
-                            </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]} >
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("carni")}>
                                     <Image source={require('../../images/meat.png')} style={styles.icon} />
-                                    <Text style={styles.categoryText}>CARNE</Text>
+                                    <Text style={styles.categoryText}>CARNI</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("pesce")}>
                                     <Image source={require('../../images/fish.png')} style={styles.icon} />
                                     <Text style={styles.categoryText}>PESCE</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("latte e uova")}>
                                     <Image source={require('../../images/cheese.png')} style={styles.icon} />
-                                    <Text style={styles.categoryText}>LATTE E FORMAGGI</Text>
+                                    <Text style={styles.categoryText}>LATTE E UOVA</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("frutta e verdura")}>
                                     <Image source={require('../../images/healthy-food.png')} style={styles.icon} />
                                     <Text style={styles.categoryText}>FRUTTA E VERDURA</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/frozen-food.png')} style={styles.icon} />
-                                    <Text style={styles.categoryText}>SURGELATI</Text>
-                                </TouchableOpacity>
-                            </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/cookie.png')} style={styles.icon} />
-                                    <Text style={styles.categoryText}>BISCOTTI</Text>
-                                </TouchableOpacity>
-                            </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
-                                    <Image source={require('../../images/plastic.png')} style={styles.icon} />
-                                    <Text style={styles.categoryText}>BEVANDE</Text>
-                                </TouchableOpacity>
-                            </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("spezie")}>
                                     <Image source={require('../../images/olive-oil.png')} style={styles.icon} />
                                     <Text style={styles.categoryText}>CONDIMENTI</Text>
                                 </TouchableOpacity>
                             </View>
-                            <View style={styles.cardPasto}>
-                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }}>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("dolci")}>
+                                    <Image source={require('../../images/cookie.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>DOLCI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("bevande")}>
+                                    <Image source={require('../../images/plastic.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>BEVANDE</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]} >
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("legumi")}>
+                                    <Image source={require('../../images/legumes.png')} style={styles.icon} />
+                                    <Text style={styles.categoryText}>LEGUMI</Text>
+                                </TouchableOpacity>
+                            </View>
+                            <View style={[styles.cardPasto, { borderColor: theme.coloreScuro }]}>
+                                <TouchableOpacity style={{ alignItems: "center", justifyContent: "center" }} onPress={() => handleCategory("altro")}>
                                     <Image source={require('../../images/surprise-box.png')} style={styles.icon} />
                                     <Text style={styles.categoryText}>ALTRO</Text>
                                 </TouchableOpacity>
@@ -268,7 +272,6 @@ const styles = StyleSheet.create({
         elevation: 3,
         paddingVertical: 15,
         marginVertical: 10,
-        borderColor: "#0B7308",
         borderWidth: 1
     },
 });

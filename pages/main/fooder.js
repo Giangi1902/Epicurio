@@ -4,7 +4,7 @@ import Swiper from "react-native-deck-swiper";
 import { Layout, Text } from "@ui-kitten/components";
 import { normalize } from "./home";
 import axios from "axios";
-import { is } from "date-fns/locale";
+import { useTheme } from "../../themeContext";
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
@@ -13,6 +13,7 @@ const TinderSwipe = () => {
   const [images, setImages] = useState([]);
   const [loading, setLoading] = useState(true);
   const [isExpanded, setIsExpanded] = useState(false);
+  const { theme } = useTheme();
 
   useEffect(() => {
     handleCards();
@@ -52,9 +53,9 @@ const TinderSwipe = () => {
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
 
       {/* Header */}
-      <View style={{ backgroundColor: "#ADC8AD", borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+      <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
         <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-          <Text style={{ color: "#0B7308", fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic" }}>Finder</Text>
+          <Text style={{ color: theme.coloreScuro, fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic" }}>Finder</Text>
         </View>
       </View>
 
@@ -100,7 +101,7 @@ const TinderSwipe = () => {
               <>
                 {/* Card in background */}
                 {currentIndex + 1 < images.length && (
-                  <View style={styles.backgroundCard}>
+                  <View style={[styles.backgroundCard, {borderColor: theme.coloreScuro}]}>
                     <Text style={styles.titleBackground}>{images[currentIndex + 1].title}</Text>
 
                     <Image
@@ -120,7 +121,7 @@ const TinderSwipe = () => {
                       borderRadius: 15,
                       width: deviceWidth * 0.95,
                       overflow: Platform.OS === "android" ? "hidden" : "visible",
-                      borderColor: "#0B7308",
+                      borderColor: theme.coloreScuro,
                       borderWidth: 1,
                       position: "absolute",
                       alignSelf: "center",
@@ -207,7 +208,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
     alignSelf: "center",
     backgroundColor: "white",
-    borderColor: "E2E8F0",
     borderWidth: 1,
   },
   image: {

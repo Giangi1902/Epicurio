@@ -12,3 +12,8 @@ export const redTheme = {
   coloreChiaro: "#C8ADAD",
   coloreScuro: "#730808",
 };
+
+export const blueTheme = {
+  coloreChiaro: "#ADC8C8",
+  coloreScuro: "#097373",
+}

@@ -34,13 +34,14 @@ import {
 import { usePushNotifications } from './pages/main/usePushNotifications.js';
 import { normalize } from './pages/main/home.js';
 import { useTheme } from "./themeContext";
+import { greenTheme, blueTheme, redTheme, purpleTheme } from "./theme";
 
 AppRegistry.registerComponent('main', () => App);
 
 import Signup from './pages/authentication/signup.js';
 import Login from './pages/authentication/login.js';
 import Home from './pages/main/home.js';
-import Menu from './pages/main/menu.js';
+import Menu from './pages/main/pantry.js';
 import Checklist from './pages/main/checklist.js';
 import Profile from './pages/main/profile.js';
 import Category from './pages/main/category.js';
@@ -51,12 +52,22 @@ import Calendario from './pages/main/calendar.js'
 import BottomTogglePage from './pages/components/bottomToggle.js';
 import TinderSwipe from './pages/main/fooder.js';
 import { ThemeProvider, ThemeContext } from "./themeContext.js";
+import MealPage from './pages/main/mealPage.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
 const Stack = createStackNavigator();
 const HomeStack = createStackNavigator();
+const MenuStack = createStackNavigator()
 SplashScreen.preventAutoHideAsync();
+
+// Mappa dei temi disponibili
+const themes = {
+  green: greenTheme,
+  purple: purpleTheme,
+  blue: blueTheme,
+  red: redTheme,
+};
 
 function AuthStack({ navigation }) {
   useEffect(() => {
@@ -97,8 +108,17 @@ function HomeStackScreen() {
   return (
     <HomeStack.Navigator screenOptions={{ headerShown: false }}>
       <HomeStack.Screen name="HomeScreen" component={Home} />
-      <HomeStack.Screen name="Category" component={Category} />
     </HomeStack.Navigator>
+  );
+}
+
+function MenuStackScreen() {
+  return (
+    <MenuStack.Navigator screenOptions={{ headerShown: false }}>
+      <MenuStack.Screen name="MenuScreen" component={Menu} />
+      <MenuStack.Screen name="Category" component={Category} />
+      <MenuStack.Screen name="MealPage" component={MealPage}/>
+    </MenuStack.Navigator>
   );
 }
 
@@ -111,7 +131,7 @@ function MainTabs() {
       try {
         const savedTheme = await AsyncStorage.getItem("appTheme");
         if (savedTheme) {
-          setAppTheme(JSON.parse(savedTheme)); // Converte stringa in oggetto tema
+          setAppTheme(themes[savedTheme]); // Converte stringa in oggetto tema
         } else {
           setAppTheme(greenTheme); // Imposta il tema di default
         }
@@ -159,7 +179,7 @@ function MainTabs() {
       />
       <BottomTab.Screen
         name="Menu"
-        component={Menu}
+        component={MenuStackScreen}
         options={{
           headerShown: false,
           tabBarLabel: "Dispensa",
@@ -242,7 +262,7 @@ function App() {
       try {
         const savedTheme = await AsyncStorage.getItem("appTheme");
         if (savedTheme) {
-          setAppTheme(JSON.parse(savedTheme)); // Converte stringa in oggetto tema
+          setAppTheme(themes[savedTheme]); // Converte stringa in oggetto tema
         } else {
           setAppTheme(greenTheme); // Imposta il tema di default
         }

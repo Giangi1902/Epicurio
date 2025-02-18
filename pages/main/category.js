@@ -5,6 +5,11 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useRoute } from '@react-navigation/native';
 import axios from "axios";
 import DiagonalBackground from "./diagonalbackground";
+import { useTheme } from "../../themeContext";
+import { normalize } from "./home";
+import { useNavigation } from '@react-navigation/native';
+
+
 
 function Category() {
     const [username, setUsername] = useState("")
@@ -12,6 +17,9 @@ function Category() {
     const [meals, setMeals] = useState([])
     const route = useRoute()
     const { categoria } = route.params
+    const { theme } = useTheme()
+    const navigation = useNavigation();
+
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -55,50 +63,60 @@ function Category() {
 
     const handleMinus = async (id) => {
         // Verifica che la quantità da sottrarre sia maggiore o uguale a zero
-        const itemToUpdate = dispensa.find(item => item.id === id);
-        if (itemToUpdate?.quantity >= 1) {
-            try {
-                // Aggiorna immediatamente la quantità nel frontend
-                const updatedDispensa = dispensa.map(item => {
-                    if (item.id === id) {
-                        return { ...item, quantity: item.quantity - 1 };
-                    }
-                    return item;
-                });
-                setDispensa(updatedDispensa);
+        // const itemToUpdate = dispensa.find(item => item.id === id);
+        // if (itemToUpdate?.quantity >= 1) {
+        //     try {
+        //         // Aggiorna immediatamente la quantità nel frontend
+        //         const updatedDispensa = dispensa.map(item => {
+        //             if (item.id === id) {
+        //                 return { ...item, quantity: item.quantity - 1 };
+        //             }
+        //             return item;
+        //         });
+        //         setDispensa(updatedDispensa);
 
-                // Invia la richiesta di aggiornamento al backend
-                const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
-                if (!response.data) {
-                    console.log("Errore nell'aggiornamento della quantità nel backend");
-                }
-            } catch (error) {
-                console.log(error);
-            }
-        }
+        //         // Invia la richiesta di aggiornamento al backend
+        //         const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
+        //         if (!response.data) {
+        //             console.log("Errore nell'aggiornamento della quantità nel backend");
+        //         }
+        //     } catch (error) {
+        //         console.log(error);
+        //     }
+        // }
     };
 
     const handlePlus = async (id) => {
-        try {
-            // Aggiorna immediatamente la quantità nel frontend
-            const updatedDispensa = dispensa.map(item => {
-                if (item.id === id) {
-                    return { ...item, quantity: item.quantity + 1 };
-                }
-                return item;
-            });
-            setDispensa(updatedDispensa);
+        // try {
+        //     // Aggiorna immediatamente la quantità nel frontend
+        //     const updatedDispensa = dispensa.map(item => {
+        //         if (item.id === id) {
+        //             return { ...item, quantity: item.quantity + 1 };
+        //         }
+        //         return item;
+        //     });
+        //     setDispensa(updatedDispensa);
 
-            // Invia la richiesta di aggiornamento al backend
-            const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
-            if (!response.data) {
-                console.log("Errore nell'aggiornamento della quantità nel backend");
-            }
-        } catch (error) {
-            console.log(error);
-        }
+        //     // Invia la richiesta di aggiornamento al backend
+        //     const response = await axios.put(`http://172.20.10.7:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
+        //     if (!response.data) {
+        //         console.log("Errore nell'aggiornamento della quantità nel backend");
+        //     }
+        // } catch (error) {
+        //     console.log(error);
+        // }
     };
 
+    const handleMeal = async (id) => {
+        try {
+            navigation.navigate("Menu", {
+                screen: "MealPage",
+                params: { id },
+            });        }
+        catch (e) {
+            console.log(e)
+        }
+    }
 
 
     return (
@@ -106,58 +124,80 @@ function Category() {
             <DiagonalBackground
                 imageSize={30} // Dimensione di ogni piccola immagine
                 spacing={15}
-                opacity={0.3}
+                opacity={0.2}
                 categoria={categoria}
             />
-            <View style={styles.title}>
-                <Text style={{ color: "black", fontSize: 28, fontFamily: "MyriadPro-Bold", alignSelf: "center" }}>{categoria.toUpperCase()}</Text>
+            <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
+                <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
+                    <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
+                </View>
             </View>
             <View style={styles.listContainer}>
                 <ScrollView showsVerticalScrollIndicator={false}>
-                    <View style={styles.card}>
-                        {dispensa.map((item, index) => (
-                            <View key={index}>
-                                <View key={item.id} style={[styles.itemContainer]}>
-                                    <View style={styles.itemTextContainer}>
-                                        <Text style={[{ fontFamily: 'MyriadPro-Regular', color: "black", fontSize: 18 }]}>
-                                            {item.name}
-                                        </Text>
-                                    </View>
-                                    <View>
-                                        <View style={styles.buttonContainerAddMinus}>
-                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
-                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
-                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                                {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity >= 0 && (
-                                                    <View style={styles.quantityNotification}>
-                                                        <Text style={styles.quantityText}>
-                                                            {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity}
-                                                        </Text>
-                                                    </View>
-                                                )}
-                                            </TouchableOpacity>
+                    <View style={[styles.cardIngredients, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                        <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: 24, alignSelf: "center", marginBottom: 20 }}> La tua dispensa</Text>
+                        {dispensa.length > 0 ?
+                            (dispensa.map((item, index) => (
+                                <View key={index}>
+                                    <View key={item.id} style={[styles.itemContainer]}>
+                                        <View style={styles.itemTextContainer}>
+                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16 }]}>
+                                                {item.nome}
+                                            </Text>
+                                        </View>
+                                        <View>
+                                            <View style={styles.buttonContainerAddMinus}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                    <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                    <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                    {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity >= 0 && (
+                                                        <View style={styles.quantityNotification}>
+                                                            <Text style={styles.quantityText}>
+                                                                {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity}
+                                                            </Text>
+                                                        </View>
+                                                    )}
+                                                </TouchableOpacity>
+                                            </View>
                                         </View>
                                     </View>
                                 </View>
-                            </View>
-                        ))}
+                            ))) :
+                            <Text style={{ fontFamily: "Poppins_400Regular", alignSelf: "center", fontSize: 16 }}>Non sono presenti ingredienti!</Text>}
                     </View>
-                    <View style={styles.card}>
-                        <Text style={{ color: "black", fontSize: 24, fontFamily: "MyriadPro-Bold", alignSelf: "center", marginBottom: 10 }}>Componi queste ricette</Text>
+
+                    <TouchableOpacity>
+                        <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                            <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center" }}>Aggiungi ingredienti in dispensa</Text>
+                        </View>
+                    </TouchableOpacity>
+
+                    <View style={[styles.card, { borderColor: theme.coloreScuro, borderWidth: 1, }]}>
+                        <Text style={{ fontSize: 24, fontFamily: "Poppins_600SemiBold", alignSelf: "center", marginBottom: 10 }}>Componi queste ricette</Text>
                         {meals.length > 0 ?
                             meals.map((item, index) => (
-                                <View key={index}>
-                                    <Text style={{ color: "black", fontSize: 16, fontFamily: "MyriadPro-Regular" }}>{item.nome}</Text>
-                                    <Text style={{ color: "black", fontSize: 16, fontFamily: "MyriadPro-Light" }}>Ingredienti: {item.ingredients.join(', ')}</Text>
-                                    <Text style={{ color: "black", fontSize: 16, fontFamily: "MyriadPro-Light" }}>Prezzo: {item.price}€</Text>
+                                <TouchableOpacity key={index} onPress={() => handleMeal(item._id)}>
+                                    <View style={{ flexDirection: "row", justifyContent: "space-between", flexWrap: "wrap" }}>
+                                        <Text style={{ fontSize: 18, fontFamily: "Poppins_600SemiBold" }}>{item.title}</Text>
+                                        <Text style={{ fontSize: 16, fontFamily: "Poppins_200ExtraLight" }}>{item.category}</Text>
+                                    </View>
+                                    <View style={{ flexDirection: "row", justifyContent: "space-between", flexWrap: "wrap" }}>
+                                        <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 16 }}>Ingredienti:</Text>
+                                        <Text style={{ fontSize: 16, fontFamily: "Poppins_300Light" }}>
+                                            {item.ingredients.slice(0, 4).map(ing => ing[0]).join(', ')}{item.ingredients.length > 4 ? '...' : ''}
+                                        </Text>
+                                    </View>
                                     <View style={[styles.separator, { alignSelf: "center" }]}></View>
-                                </View>
+                                </TouchableOpacity>
                             ))
-                            : <Text style={{ color: "black", fontFamily: "MyriadPro-Regular", alignSelf: "center" }}>Non sono presenti ricette!</Text>
+                            : <Text style={{ fontFamily: "Poppins_400Regular", alignSelf: "center", fontSize: 16 }}>Non sono presenti ricette!</Text>
                         }
                     </View>
+                    <TouchableOpacity style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                        <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, alignSelf: "center" }}>Vedi tutte le ricette</Text>
+                    </TouchableOpacity>
                 </ScrollView>
             </View>
             <DiagonalBackground />
@@ -186,18 +226,33 @@ const styles = StyleSheet.create({
         shadowRadius: 2,
         elevation: 3,
         padding: 25,
+        marginBottom: 10
+    },
+    cardIngredients: {
+        borderRadius: 10,
+        backgroundColor: '#fff',
+        shadowColor: '#000',
+        shadowOpacity: 0.2,
+        shadowOffset: {
+            height: 2,
+        },
+        shadowRadius: 2,
+        elevation: 3,
+        padding: 25,
+        marginBottom: 10
+    },
+    cardAddIngredient: {
+        borderRadius: 10,
+        backgroundColor: '#fff',
+        shadowColor: '#000',
+        shadowOpacity: 0.2,
+        shadowOffset: {
+            height: 2,
+        },
+        shadowRadius: 2,
+        elevation: 3,
+        padding: 15,
         marginBottom: 40
-    },
-    title: {
-        backgroundColor: "white",
-        borderBottomWidth: 0.5,
-        borderTopWidth: 0.5,
-        paddingVertical: 10,
-    },
-    backgroundImage: {
-        flex: 1,
-        resizeMode: "cover", // Puoi anche provare "repeat" se la tua immagine lo supporta
-        transform: [{ rotate: '45deg' }], // Ruota l'immagine di 45 gradi
     },
     itemContainer: {
         flexDirection: 'row',
