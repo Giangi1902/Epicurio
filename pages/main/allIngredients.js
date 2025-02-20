@@ -1,25 +1,26 @@
 import { Text } from "@ui-kitten/components";
 import React, { useEffect, useState } from "react";
-import { StyleSheet, View, ScrollView, TouchableOpacity, Image } from "react-native";
+import { StyleSheet, View, ScrollView, TouchableOpacity, Image, TextInput, Dimensions } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useRoute } from '@react-navigation/native';
 import axios from "axios";
 import DiagonalBackground from "./diagonalbackground";
 import { useTheme } from "../../themeContext";
-import { normalize } from "./home";
 import { useNavigation } from '@react-navigation/native';
+import { LinearGradient } from 'expo-linear-gradient';
+
+const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
 
-
-function Category() {
+function AllIngredients() {
     const [username, setUsername] = useState("")
-    const [dispensa, setDispensa] = useState([])
-    const [meals, setMeals] = useState([])
+    const [ingredients, setIngredients] = useState([])
     const route = useRoute()
     const { categoria } = route.params
     const { theme } = useTheme()
     const navigation = useNavigation();
-
+    const [currentIndex, setCurrentIndex] = useState(-1);
+    const [isLoading, setIsLoading] = useState(false)
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -34,30 +35,23 @@ function Category() {
         };
         fetchUsername();
         handleIngredients();
-        handleMeals()
     }, [username]);
 
     const handleIngredients = async () => {
+        setIsLoading(true);
+
         if (username != "") {
             try {
-                const response = await axios.get(`http://192.168.1.89:8080/categoryIngredients/${username}/${categoria}`)
-                if (response.data != "no") {
-                    setDispensa(response.data)
-                }
+                const index = 1 + currentIndex
+                const response = await axios.get(`http://192.168.1.89:8080/categoryAllIngredients/${categoria}/${index}`)
+                setCurrentIndex(currentIndex + 1);
+                setIngredients(prevdata => [...prevdata, ...response.data]);
             }
             catch (e) {
                 console.log(e)
+            } finally {
+                setIsLoading(false);
             }
-        }
-    }
-
-    const handleMeals = async () => {
-        try {
-            const response = await axios.get(`http://192.168.1.89:8080/getMealsCategory/${categoria}`)
-            setMeals(response.data)
-        }
-        catch (e) {
-            console.log(e)
         }
     }
 
@@ -107,44 +101,25 @@ function Category() {
         // }
     };
 
-    const handleMeal = async (item) => {
-        try {
-            navigation.navigate("Menu", {
-                screen: "MealPage",
-                params: { item },
-            });
-        }
-        catch (e) {
-            console.log(e)
-        }
-    }
+    const loadMoreIngredients = async () => {
+        setIsLoading(true); // Imposta lo stato di caricamento
+        await handleIngredients(); // Chiamata alla funzione per ottenere nuovi ingredienti
+        setIsLoading(false); // Reset dello stato di caricamento
+    };
 
-    const handleAllIngredients = async (categoria) => {
-        try {
-            navigation.navigate("Menu", {
-                screen: "AllIngredients",
-                params: { categoria },
-            });
-        }
-        catch (e) {
-            console.log(e)
-        }
-    }
+    const handleScroll = (event) => {
+        const { layoutMeasurement, contentOffset, contentSize } = event.nativeEvent;
 
-    const handleAllMeals = async (categoria) => {
-        try {
-            navigation.navigate("Menu", {
-                screen: "AllMeals",
-                params: { categoria },
-            });
+        // Calcola se siamo alla fine dello scroll
+        const isEndReached = layoutMeasurement.height + contentOffset.y >= contentSize.height - 20;
+
+        if (isEndReached && !isLoading) {
+            loadMoreIngredients();
         }
-        catch (e) {
-            console.log(e)
-        }
-    }
-    
-    //TODO: visualizzare tutti i pasti con quella categoria
+    };
+
     //TODO: visualizzare tutti gli ingredienti
+    //TODO: non funzionano i tasti delle quantità
     return (
         <View style={styles.container}>
             <DiagonalBackground
@@ -158,72 +133,67 @@ function Category() {
                     <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
                 </View>
             </View>
+            <View style={{ alignItems: "center", marginTop: 15 }}>
+                <TextInput style={{ width: deviceWidth * 0.95, height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
+                    placeholder="Cerca una ricetta..."
+                    placeholderTextColor="#A0A0A0"
+                />
+            </View>
             <View style={styles.listContainer}>
-                <ScrollView showsVerticalScrollIndicator={false}>
-                    <View style={[styles.cardIngredients, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                        <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: 24, alignSelf: "center", marginBottom: 20 }}> La tua dispensa</Text>
-                        {dispensa.length > 0 ?
-                            (dispensa.map((item, index) => (
-                                <View key={index}>
-                                    <View key={item.id} style={[styles.itemContainer]}>
-                                        <View style={styles.itemTextContainer}>
-                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16 }]}>
-                                                {item.nome}
-                                            </Text>
-                                        </View>
-                                        <View>
-                                            <View style={styles.buttonContainerAddMinus}>
-                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                    <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                                </TouchableOpacity>
-                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
-                                                    <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                                    {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity >= 0 && (
-                                                        <View style={styles.quantityNotification}>
-                                                            <Text style={styles.quantityText}>
-                                                                {dispensa.find(qtyItem => qtyItem.id === item.id)?.quantity}
-                                                            </Text>
-                                                        </View>
-                                                    )}
-                                                </TouchableOpacity>
+
+                <ScrollView showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
+                    <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                        {ingredients.map((item, index) => (
+                            <View key={index}>
+                                <View key={item.id} style={[styles.itemContainer]}>
+                                    <View style={styles.itemTextContainer}>
+                                        <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
+                                            {item.nome}
+                                        </Text>
+                                    </View>
+                                    <View>
+                                        <View style={styles.buttonContainerAddMinus}>
+                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                            </TouchableOpacity>
+                                            <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                <LinearGradient
+                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                    start={{ x: 0, y: 0.5 }}
+                                                    end={{ x: 1, y: 0.5 }}
+                                                    style={{
+                                                        position: "absolute",
+                                                        top: 0,
+                                                        left: 0,
+                                                        width: "100%",
+                                                        height: 2, // Spessore del bordo
+                                                    }}
+                                                />
+                                                <LinearGradient
+                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                    start={{ x: 0, y: 0.5 }}
+                                                    end={{ x: 1, y: 0.5 }}
+                                                    style={{
+                                                        position: "absolute",
+                                                        bottom: 0,
+                                                        left: 0,
+                                                        width: "100%",
+                                                        height: 2, // Spessore del bordo
+                                                    }}
+                                                />
+                                                <View style={{borderRadius: 20, overflow: "hidden"}}>
+                                                    <Text style={{ color: "black" }}>1</Text>
+                                                </View>
                                             </View>
+                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                            </TouchableOpacity>
                                         </View>
                                     </View>
                                 </View>
-                            ))) :
-                            <Text style={{ fontFamily: "Poppins_400Regular", alignSelf: "center", fontSize: 16 }}>Non sono presenti ingredienti!</Text>}
+                            </View>
+                        ))}
                     </View>
-
-                    <TouchableOpacity onPress={() => handleAllIngredients(categoria)}>
-                        <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                            <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center" }}>Aggiungi ingredienti in dispensa</Text>
-                        </View>
-                    </TouchableOpacity>
-
-                    <View style={[styles.card, { borderColor: theme.coloreScuro, borderWidth: 1, }]}>
-                        <Text style={{ fontSize: 24, fontFamily: "Poppins_600SemiBold", alignSelf: "center", marginBottom: 10 }}>Componi queste ricette</Text>
-                        {meals.length > 0 ?
-                            meals.map((item, index) => (
-                                <TouchableOpacity key={index} onPress={() => handleMeal(item)}>
-                                    <View style={{ flexDirection: "row", justifyContent: "space-between", flexWrap: "wrap" }}>
-                                        <Text style={{ fontSize: 18, fontFamily: "Poppins_600SemiBold" }}>{item.title}</Text>
-                                        <Text style={{ fontSize: 16, fontFamily: "Poppins_200ExtraLight" }}>{item.category}</Text>
-                                    </View>
-                                    <View style={{ flexDirection: "row", justifyContent: "space-between", flexWrap: "wrap" }}>
-                                        <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 16 }}>Ingredienti:</Text>
-                                        <Text style={{ fontSize: 16, fontFamily: "Poppins_300Light" }}>
-                                            {item.ingredients.slice(0, 4).map(ing => ing[0]).join(', ')}{item.ingredients.length > 4 ? '...' : ''}
-                                        </Text>
-                                    </View>
-                                    <View style={[styles.separator, { alignSelf: "center" }]}></View>
-                                </TouchableOpacity>
-                            ))
-                            : <Text style={{ fontFamily: "Poppins_400Regular", alignSelf: "center", fontSize: 16 }}>Non sono presenti ricette!</Text>
-                        }
-                    </View>
-                    <TouchableOpacity style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]} onPress={() => handleAllMeals(categoria)}>
-                        <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, alignSelf: "center" }}>Vedi tutte le ricette</Text>
-                    </TouchableOpacity>
                 </ScrollView>
             </View>
             <DiagonalBackground />
@@ -325,11 +295,11 @@ const styles = StyleSheet.create({
     buttonAdd: {
         width: 40,
         height: 40,
-        backgroundColor: '#1B4965',
+        backgroundColor: '#0B7308',
         justifyContent: 'center',
         alignItems: 'center',
-        borderRadius: 20,
-        marginLeft: 10,
+        borderTopRightRadius: 10,
+        borderBottomRightRadius: 10,
         marginRight: 5,
         alignSelf: 'flex-end',
     },
@@ -339,7 +309,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#9B0800',
         justifyContent: 'center',
         alignItems: 'center',
-        borderRadius: 20,
+        borderTopLeftRadius: 10,
+        borderBottomLeftRadius: 10,
         marginLeft: 8,
         alignSelf: 'flex-end',
     },
@@ -393,8 +364,9 @@ const styles = StyleSheet.create({
     listContainer: {
         flex: 1,
         paddingTop: 10,
-        paddingHorizontal: 20,
-        marginTop: 30
+        width: deviceWidth * 0.95,
+        marginTop: 15,
+        alignSelf: "center"
     },
     totalContainer: {
         backgroundColor: '#407F40',
@@ -448,4 +420,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default Category
+export default AllIngredients

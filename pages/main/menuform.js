@@ -37,7 +37,7 @@ function MenuForm({ username, updateData }) {
                     cena: day.cena,
                 }));
 
-            const response = await axios.post(`http://172.20.10.7:8080/newMenu`, {
+            const response = await axios.post(`http://192.168.1.89:8080/newMenu`, {
                 selectedMeals: selectedMeals,
                 budget: budget,
                 username: username

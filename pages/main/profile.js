@@ -26,7 +26,7 @@ function Profile() {
         if (username !== "") {
             try {
                 setLoading(true);
-                const response = await axios.get(`http://172.20.10.7:8080/getInfo/${username}`);
+                const response = await axios.get(`http://192.168.1.89:8080/getInfo/${username}`);
                 if (response.data !== "nonesiste") {
                     setOrarioPranzo(response.data.orario_pranzo);
                     setOrarioCena(response.data.orario_cena);
@@ -65,7 +65,7 @@ function Profile() {
 
     const handleDelete = async () => {
         try {
-            const response = await axios.delete(`http://172.20.10.7:8080/deleteAccount/${username}`);
+            const response = await axios.delete(`http://192.168.1.89:8080/deleteAccount/${username}`);
             if (response.data === "ok") {
                 await AsyncStorage.removeItem("username");
                 navigation.navigate("Auth");

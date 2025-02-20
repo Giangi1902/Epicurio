@@ -569,6 +569,51 @@ router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
     }
 })
 
+router.get("/categoryAllIngredients/:categoria/:index", async (req, res) => {
+    const { categoria, index } = req.params
+    try {
+        //confrontarlo con la collezione ingredienti
+        //prendere solo quelli della categoria
+        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") })
+        ingredients.sort((a, b) => a.nome.localeCompare(b.nome));
+        const startIndex = parseInt(index) * 25;
+        const endIndex = startIndex + 25;
+        const chunkedArray = ingredients.slice(startIndex, endIndex);
+        res.json(chunkedArray)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
+
+router.get("/categoryAllMeals/:categoria/:index", async (req, res) => {
+    const { categoria, index } = req.params
+    try {
+        //confrontarlo con la collezione ingredienti
+        //prendere solo quelli della categoria
+        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") })
+        const ingredientNames = ingredients.map(ingredient => ingredient.nome);
+
+        // Crea un Set con i nomi degli ingredienti disponibili per una ricerca più efficiente
+        const availableIngredients = new Set(ingredientNames);
+
+        // Recupera tutte le ricette dal database
+        const recipes = await Meal.find();
+
+        // Filtra le ricette per tenere solo quelle che possono essere realizzate con gli ingredienti disponibili
+        const availableRecipes = recipes.filter(recipe => {
+            return recipe.ingredients.some(ingredient => availableIngredients.has(ingredient[0]));
+        });
+        const startIndex = parseInt(index) * 25;
+        const endIndex = startIndex + 25;
+        const chunkedArray = availableRecipes.slice(startIndex, endIndex);
+        res.json(chunkedArray)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
+
 router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;
     try {

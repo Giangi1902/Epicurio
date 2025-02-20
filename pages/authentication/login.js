@@ -18,7 +18,7 @@ function Login() {
 
   const handleLogin = async () => {
     try {
-      const response = await axios.get(`http://172.20.10.7:8080/login/${username}/${password}`);
+      const response = await axios.get(`http://192.168.1.89:8080/login/${username}/${password}`);
       if (response.data.status === "ok") {
         await AsyncStorage.setItem("username", username)
         navigation.navigate("Main");

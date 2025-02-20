@@ -65,7 +65,7 @@ function Checklist() {
             calculateTotalPrice();
             await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
             try {
-                const response = await axios.post(`http://172.20.10.7:8080/updateCheckbox/${username}/${ingredientId}`);
+                const response = await axios.post(`http://192.168.1.89:8080/updateCheckbox/${username}/${ingredientId}`);
                 if (response.data === "no") {
                     console.log("Problema aggiornamento della checkbox");
                 }
@@ -84,7 +84,7 @@ function Checklist() {
         if (username !== "") {
             setIsLoading(true);
             try {
-                const response = await axios.get(`http://172.20.10.7:8080/getIngredients/${username}`);
+                const response = await axios.get(`http://192.168.1.89:8080/getIngredients/${username}`);
                 if (response.data !== "no") {
                     setIngredients(response.data);
                     handlePrices(response.data);
@@ -111,7 +111,7 @@ function Checklist() {
         if (username !== "") {
             try {
                 const index = 1 + currentIndex
-                const response = await axios.get(`http://172.20.10.7:8080/getAllIngredients/${index}`);
+                const response = await axios.get(`http://192.168.1.89:8080/getAllIngredients/${index}`);
                 if (response.data.length > 0) {
                     setCurrentIndex(currentIndex + 1);
                     setAllIngredients(prevdata => [...prevdata, ...response.data]);
@@ -152,7 +152,7 @@ function Checklist() {
         // setIsLoading(true);
         // if (ingredients.length > 0) {
         //     try {
-        //         const response = await axios.get(`http://172.20.10.7:8080/getCosts/${username}`);
+        //         const response = await axios.get(`http://192.168.1.89:8080/getCosts/${username}`);
         //         setPrices(response.data);
         //         await AsyncStorage.setItem("prices", JSON.stringify(response.data));
         //         setUsingAsyncStorage(false)
@@ -212,7 +212,7 @@ function Checklist() {
         setIsLoading(true)
         try {
             const newQuantities = quantities.map(item => ({ id: item.id, quantity: 0 }));
-            const response = await axios.post(`http://172.20.10.7:8080/addIngredients`, {
+            const response = await axios.post(`http://192.168.1.89:8080/addIngredients`, {
                 username, quantities
             })
             if (response.data == "ok") {
@@ -241,7 +241,7 @@ function Checklist() {
             calculateTotalPrice();
             await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
             try {
-                const response = await axios.post(`http://172.20.10.7:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+                const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
                 if (response.data == "no") {
                     console.log("Problema nell'aggiunta dell'ingrediente in db");
                 }
@@ -267,7 +267,7 @@ function Checklist() {
             await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
         }
         try {
-            const response = await axios.post(`http://172.20.10.7:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+            const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
             if (response.data === "no") {
                 console.log("problema nella rimozione dell'elemento");
             }
@@ -281,7 +281,7 @@ function Checklist() {
     const handleDispensa = async () => {
         setIsLoading(true);
         try {
-            const response = await axios.post(`http://172.20.10.7:8080/addIngredientDispensa/${username}`, {
+            const response = await axios.post(`http://192.168.1.89:8080/addIngredientDispensa/${username}`, {
                 ingredients
             });
             if (response.data != "no") {

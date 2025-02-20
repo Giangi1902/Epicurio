@@ -53,12 +53,15 @@ import BottomTogglePage from './pages/components/bottomToggle.js';
 import TinderSwipe from './pages/main/fooder.js';
 import { ThemeProvider, ThemeContext } from "./themeContext.js";
 import MealPage from './pages/main/mealPage.js';
+import AllIngredients from './pages/main/allIngredients.js';
+import AllMeals from './pages/main/allMeals.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
 const Stack = createStackNavigator();
 const HomeStack = createStackNavigator();
-const MenuStack = createStackNavigator()
+const MenuStack = createStackNavigator();
+const FinderStack = createStackNavigator();
 SplashScreen.preventAutoHideAsync();
 
 // Mappa dei temi disponibili
@@ -118,7 +121,18 @@ function MenuStackScreen() {
       <MenuStack.Screen name="MenuScreen" component={Menu} />
       <MenuStack.Screen name="Category" component={Category} />
       <MenuStack.Screen name="MealPage" component={MealPage}/>
+      <MenuStack.Screen name="AllIngredients" component={AllIngredients}/>
+      <MenuStack.Screen name="AllMeals" component={AllMeals}/>
     </MenuStack.Navigator>
+  );
+}
+
+function FinderStackScreen() {
+  return (
+    <FinderStack.Navigator screenOptions={{ headerShown: false }}>
+      <FinderStack.Screen name="FinderScreen" component={TinderSwipe} />
+      <FinderStack.Screen name="MealPage" component={MealPage}/>
+    </FinderStack.Navigator>
   );
 }
 
@@ -190,7 +204,7 @@ function MainTabs() {
       />
       <BottomTab.Screen
         name="Finder"
-        component={TinderSwipe}
+        component={FinderStackScreen}
         options={{
           headerShown: false,
           tabBarLabel: "Finder",

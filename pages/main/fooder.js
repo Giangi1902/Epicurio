@@ -4,6 +4,7 @@ import Swiper from "react-native-deck-swiper";
 import { Layout, Text } from "@ui-kitten/components";
 import { normalize } from "./home";
 import axios from "axios";
+import { useNavigation } from '@react-navigation/native';
 import { useTheme } from "../../themeContext";
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
@@ -14,6 +15,7 @@ const TinderSwipe = () => {
   const [loading, setLoading] = useState(true);
   const [isExpanded, setIsExpanded] = useState(false);
   const { theme } = useTheme();
+  const navigation = useNavigation()
 
   useEffect(() => {
     handleCards();
@@ -26,10 +28,9 @@ const TinderSwipe = () => {
 
   const handleCards = async () => {
     try {
-      const response = await axios.get(`http://172.20.10.7:8080/getCards`);
+      const response = await axios.get(`http://192.168.1.89:8080/getCards`);
       if (response.data !== "no") {
-        const formattedImages = response.data.map(item => ({ image: item.imageBase64, title: item.title, description: item.description, category: item.category, details: item.details, ingredients: item.ingredients }));
-        setImages(formattedImages);
+        setImages(response.data);
       }
     } catch (error) {
       console.error("Error fetching cards:", error);
@@ -41,13 +42,20 @@ const TinderSwipe = () => {
   const handleSwiped = (cardIndex) => {
     setCurrentIndex(cardIndex + 1);
   };
-  const handleTap = () => {
-    setIsExpanded(true);
+  const handleTap = async (item) => {
+    try {
+      navigation.navigate("Finder", {
+        screen: "MealPage",
+        params: { item },
+      });
+    }
+    catch (e) {
+      console.log(e)
+    }
   };
 
-  //TODO: sistemare background
-  //TODO: bug index quando torna da handletap
-  //TODO: animazione di quando si espande la card
+  //TODO: ricerca pasti 
+  //TODO: eliminare isexpanded
   return (
     <Layout style={styles.container}>
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
@@ -71,7 +79,7 @@ const TinderSwipe = () => {
       {/* Swiper Section */}
       <View style={styles.viewContainer}>
         {loading ? (
-          <ActivityIndicator size="large" color="#0B7308" />
+          <ActivityIndicator size="large" color={theme.coloreScuro} />
         ) : (
           images.length > 0 ? (
             isExpanded ? (
@@ -83,7 +91,8 @@ const TinderSwipe = () => {
                   </TouchableOpacity>
                   <Text style={[styles.title, { textAlign: "center" }]}>{images[currentIndex].title}</Text>
                 </View>
-                <Image source={{ uri: images[currentIndex].image }} style={[styles.expandedImage, { borderTopWidth: 1, borderBottomWidth: 1, borderColor: "#E2E8F0" }]} />
+                {console.log(images[currentIndex])}
+                <Image source={{ uri: images[currentIndex].imageBase64 }} style={[styles.expandedImage, { borderTopWidth: 1, borderBottomWidth: 1, borderColor: "#E2E8F0" }]} />
                 <Text style={styles.category}>Categoria: {images[currentIndex].category}</Text>
 
                 <Text style={styles.subtitle}>Ingredienti:</Text>
@@ -101,11 +110,11 @@ const TinderSwipe = () => {
               <>
                 {/* Card in background */}
                 {currentIndex + 1 < images.length && (
-                  <View style={[styles.backgroundCard, {borderColor: theme.coloreScuro}]}>
+                  <View style={[styles.backgroundCard, { borderColor: theme.coloreScuro }]}>
                     <Text style={styles.titleBackground}>{images[currentIndex + 1].title}</Text>
 
                     <Image
-                      source={{ uri: images[currentIndex + 1].image }}
+                      source={{ uri: images[currentIndex + 1].imageBase64 }}
                       style={styles.backgroundImage}
                     />
                   </View>
@@ -138,7 +147,7 @@ const TinderSwipe = () => {
 
                       <View style={[styles.card]}>
                         <Text style={styles.title}>{card.title}</Text>
-                        <Image source={{ uri: card.image }} style={styles.image} />
+                        <Image source={{ uri: card.imageBase64 }} style={styles.image} />
                       </View>
 
                       <View style={[styles.descriptionCard, { marginTop: 10, flex: 1, flexDirection: "row" }]}>
@@ -152,7 +161,7 @@ const TinderSwipe = () => {
                   onSwiped={handleSwiped}
                   onSwipedLeft={(cardIndex) => console.log("Swiped left", cardIndex)}
                   onSwipedRight={(cardIndex) => console.log("Swiped right", cardIndex)}
-                  onTapCard={handleTap}
+                  onTapCard={() => handleTap(images[currentIndex])}
                   backgroundColor="transparent"
                   animateCardOpacity={true}
                   stackSize={4}
