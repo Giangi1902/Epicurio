@@ -7,7 +7,6 @@ import axios from "axios";
 import DiagonalBackground from "./diagonalbackground";
 import { useTheme } from "../../themeContext";
 import { useNavigation } from '@react-navigation/native';
-import { constructFromSymbol } from "date-fns/constants";
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
@@ -130,11 +129,34 @@ function AllMeals() {
         }
     }
 
+    const [query, setQuery] = useState("");
+    const [filteredData, setFilteredData] = useState([]);
+
+    useEffect(() => {
+        const words = query.trim().split(/\s+/);
+        const hasValidWord = words.some(word => word.length >= 3);
+
+        if (hasValidWord) {
+            handleSearch(query);
+        } else {
+            setFilteredData([]);
+        }
+    }, [query]);
+
+    const handleSearch = async (searchQuery) => {
+        try {
+            const response = await axios.get(`http://192.168.1.89:8080/searchCategoryMeals/${categoria}?query=${searchQuery}`);
+            setFilteredData(response.data);
+        } catch (error) {
+            console.log("Errore nella ricerca:", error);
+        }
+    };
+
     //TODO: mettere loading
     return (
         <View style={styles.container}>
             <DiagonalBackground
-                imageSize={30} 
+                imageSize={30}
                 spacing={15}
                 opacity={0.2}
                 categoria={categoria}
@@ -144,28 +166,47 @@ function AllMeals() {
                     <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
                 </View>
             </View>
-            <View style={{ alignItems: "center", marginTop: 15 }}>
-                <TextInput style={{ width: deviceWidth * 0.95, height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
-                    placeholder="Cerca una ricetta..."
+            <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", marginHorizontal: "3%" }}>
+                <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
+                    placeholder="Cerca un ingrediente..."
                     placeholderTextColor="#A0A0A0"
+                    onChangeText={setQuery}
+                    value={query}
                 />
+                <TouchableOpacity onPress={() => setQuery("")} style={{ height: 45, width: 45, backgroundColor: theme.coloreScuro, borderRadius: 15, alignItems: "center", justifyContent: "center" }}>
+                    <Image source={require("../../images/times.png")} style={{ width: 20, height: 20 }}></Image>
+                </TouchableOpacity>
             </View>
             <View style={styles.listContainer}>
-
                 <ScrollView showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
                     <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                        {meals.map((item, index) => (
+                        {query === "" ? 
+                        (meals.map((item, index) => (
                             <TouchableOpacity key={index} onPress={() => handleMealPage(item)}>
                                 <View key={item.id} style={[styles.itemContainer]}>
                                     <View style={styles.itemTextContainer}>
-                                        <Image source={{uri:item.imageBase64}} style={{height: 100, width: 100, backgroundColor: theme.coloreScuro}}></Image>
+                                        <Image source={{ uri: item.imageBase64 }} style={{ height: 100, width: 100, backgroundColor: theme.coloreScuro }}></Image>
                                         <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15, flex: 1, }]}>
                                             {item.title}
                                         </Text>
                                     </View>
                                 </View>
                             </TouchableOpacity>
-                        ))}
+                        )))
+                        :
+                        (filteredData.map((item, index) => (
+                            <TouchableOpacity key={index} onPress={() => handleMealPage(item)}>
+                                <View key={item.id} style={[styles.itemContainer]}>
+                                    <View style={styles.itemTextContainer}>
+                                        <Image source={{ uri: item.imageBase64 }} style={{ height: 100, width: 100, backgroundColor: theme.coloreScuro }}></Image>
+                                        <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15, flex: 1, }]}>
+                                            {item.title}
+                                        </Text>
+                                    </View>
+                                </View>
+                            </TouchableOpacity>
+                        )))
+                    }
                     </View>
                 </ScrollView>
             </View>

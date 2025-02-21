@@ -21,6 +21,9 @@ function AllIngredients() {
     const navigation = useNavigation();
     const [currentIndex, setCurrentIndex] = useState(-1);
     const [isLoading, setIsLoading] = useState(false)
+    const [query, setQuery] = useState("");
+    const [filteredData, setFilteredData] = useState([]);
+
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -102,9 +105,9 @@ function AllIngredients() {
     };
 
     const loadMoreIngredients = async () => {
-        setIsLoading(true); // Imposta lo stato di caricamento
-        await handleIngredients(); // Chiamata alla funzione per ottenere nuovi ingredienti
-        setIsLoading(false); // Reset dello stato di caricamento
+        setIsLoading(true);
+        await handleIngredients();
+        setIsLoading(false);
     };
 
     const handleScroll = (event) => {
@@ -115,6 +118,26 @@ function AllIngredients() {
 
         if (isEndReached && !isLoading) {
             loadMoreIngredients();
+        }
+    };
+
+    useEffect(() => {
+        const words = query.trim().split(/\s+/);
+        const hasValidWord = words.some(word => word.length >= 3);
+
+        if (hasValidWord) {
+            handleSearch(query);
+        } else {
+            setFilteredData(ingredients);
+        }
+    }, [query]);
+
+    const handleSearch = async (searchQuery) => {
+        try {
+            const response = await axios.get(`http://192.168.1.89:8080/searchCategoryIngredient/${categoria}/?query=${searchQuery}`);
+            setFilteredData(response.data);
+        } catch (error) {
+            console.log("Errore nella ricerca:", error);
         }
     };
 
@@ -133,66 +156,122 @@ function AllIngredients() {
                     <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
                 </View>
             </View>
-            <View style={{ alignItems: "center", marginTop: 15 }}>
-                <TextInput style={{ width: deviceWidth * 0.95, height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
-                    placeholder="Cerca una ricetta..."
+            <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", marginHorizontal: 10 }}>
+                <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
+                    placeholder="Cerca un ingrediente..."
                     placeholderTextColor="#A0A0A0"
+                    onChangeText={setQuery}
+                    value={query}
                 />
+                <TouchableOpacity onPress={() => setQuery("")} style={{ height: 45, width: 45, backgroundColor: theme.coloreScuro, borderRadius: 15, alignItems: "center", justifyContent: "center" }}>
+                    <Image source={require("../../images/times.png")} style={{ width: 20, height: 20 }}></Image>
+                </TouchableOpacity>
             </View>
             <View style={styles.listContainer}>
-
                 <ScrollView showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
                     <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                        {ingredients.map((item, index) => (
-                            <View key={index}>
-                                <View key={item.id} style={[styles.itemContainer]}>
-                                    <View style={styles.itemTextContainer}>
-                                        <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
-                                            {item.nome}
-                                        </Text>
-                                    </View>
-                                    <View>
-                                        <View style={styles.buttonContainerAddMinus}>
-                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
-                                            <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        top: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        bottom: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <View style={{borderRadius: 20, overflow: "hidden"}}>
-                                                    <Text style={{ color: "black" }}>1</Text>
+                        {query === "" ?
+                            (ingredients.map((item, index) => (
+                                <View key={index}>
+                                    <View key={item.id} style={[styles.itemContainer]}>
+                                        <View style={styles.itemTextContainer}>
+                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
+                                                {item.nome}
+                                            </Text>
+                                        </View>
+                                        <View>
+                                            <View style={styles.buttonContainerAddMinus}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                    <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
+                                                <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            top: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            bottom: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <View style={{ borderRadius: 20, overflow: "hidden" }}>
+                                                        <Text style={{ color: "black" }}>1</Text>
+                                                    </View>
                                                 </View>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                    <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
                                             </View>
-                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
-                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
                                         </View>
                                     </View>
                                 </View>
-                            </View>
-                        ))}
+                            )))
+                            :
+                            (filteredData.map((item, index) => (
+                                <View key={index}>
+                                    <View key={item.id} style={[styles.itemContainer]}>
+                                        <View style={styles.itemTextContainer}>
+                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
+                                                {item.nome}
+                                            </Text>
+                                        </View>
+                                        <View>
+                                            <View style={styles.buttonContainerAddMinus}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                    <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
+                                                <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            top: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            bottom: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <View style={{ borderRadius: 20, overflow: "hidden" }}>
+                                                        <Text style={{ color: "black" }}>1</Text>
+                                                    </View>
+                                                </View>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                    <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
+                                            </View>
+                                        </View>
+                                    </View>
+                                </View>
+                            )))}
                     </View>
                 </ScrollView>
             </View>
@@ -253,7 +332,7 @@ const styles = StyleSheet.create({
     itemContainer: {
         flexDirection: 'row',
         alignItems: 'center',
-        marginBottom: 8,
+        marginBottom: 10,
     },
     checkBox: {
         marginRight: 8,

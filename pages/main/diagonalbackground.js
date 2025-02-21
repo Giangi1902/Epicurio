@@ -7,7 +7,7 @@ const iconMap = {
   "pesce": require('../../images/fish.png'),
   "latte e uova": require('../../images/cheese.png'),
   "frutta e verdura": require("../../images/healthy-food.png"),
-  "preparazione": require("../../images/flour.png"),
+  "Preparazione": require("../../images/flour.png"),
   "legumi": require("../../images/legumes.png"),
   "dolci": require("../../images/cookie.png"),
   "bevande": require("../../images/plastic.png"),

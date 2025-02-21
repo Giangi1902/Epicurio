@@ -66,6 +66,7 @@ router.get("/getIngredients/:username", async (req, res) => {
 //TODO: pesi cambiabili per utente
 // Funzione per calcolare il punteggio per pasto
 //TODO: ricontrollare bene la funzione
+//TODO: per chi non ha mai votato la ricetta va messo 2.5 di default 
 async function calcolaPunteggiUtente(userId, meals) {
     try {
         // pasti degli ultimi 5 giorni
@@ -516,7 +517,7 @@ router.get("/getDispensa/:username", async (req, res) => {
     try {
         const user = await User.findOne({ username: username })
         if (user) {
-            const pantryUser = await Pantry.findOne({ _id: idUser });
+            const pantryUser = await Pantry.findOne({ _id: user.id });
             const pantryIngredient = pantryUser.idIngredienti       //problema se non c'è niente in dispensa 
             let ingredientsInfo = []
             for (const ingredient of pantryIngredient) {
@@ -569,6 +570,96 @@ router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
     }
 })
 
+router.get("/searchIngredient", async (req, res) => {
+    const { query } = req.query; // Prendiamo la parola cercata dai query params
+
+    try {
+        // Creiamo una RegExp che cerca ovunque all'interno del nome, case-insensitive
+        const regex = new RegExp(query, "i");
+
+        // Troviamo gli ingredienti che contengono la parola cercata
+        const results = await Ingredient.find({ nome: regex });
+
+        // Ordiniamo i risultati alfabeticamente
+        results.sort((a, b) => a.nome.localeCompare(b.nome));
+
+        res.json(results);
+    } catch (e) {
+        console.error("Errore nella ricerca:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
+router.get("/searchMeal", async (req, res) => {
+    const { query } = req.query
+    try {
+        const regex = new RegExp(query, "i");
+        const results = await Meal.find({ title: regex });
+        res.json(results)
+    }
+    catch (e) {
+
+    }
+})
+
+router.get("/searchCategoryIngredient/:categoria", async (req, res) => {
+    const { categoria } = req.params
+    const { query } = req.query; // Prendiamo la parola cercata dai query params
+
+    try {
+        // Controllo per evitare query vuote o troppo brevi
+        if (!query || query.length < 3) {
+            return res.status(400).json({ error: "La ricerca deve contenere almeno 3 lettere" });
+        }
+
+        // Creiamo una RegExp che cerca ovunque all'interno del nome, case-insensitive
+        const regex = new RegExp(query, "i");
+
+        // Troviamo gli ingredienti che contengono la parola cercata
+        const results = await Ingredient.find({ nome: regex, categoria: new RegExp(`^${categoria}$`, "i") });
+
+        // Ordiniamo i risultati alfabeticamente
+        results.sort((a, b) => a.nome.localeCompare(b.nome));
+
+        res.json(results);
+    } catch (e) {
+        console.error("Errore nella ricerca:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
+router.get("/searchCategoryMeals/:categoria", async (req, res) => {
+    const { categoria } = req.params
+    const { query } = req.query; // Prendiamo la parola cercata dai query params
+
+    try {
+        // Creiamo una RegExp che cerca ovunque all'interno del nome, case-insensitive
+        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") })
+        const ingredientNames = ingredients.map(ingredient => ingredient.nome);
+
+        // Crea un Set con i nomi degli ingredienti disponibili per una ricerca più efficiente
+        const availableIngredients = new Set(ingredientNames);
+
+        // Recupera tutte le ricette dal database
+        const recipes = await Meal.find();
+
+        // Filtra le ricette per tenere solo quelle che possono essere realizzate con gli ingredienti disponibili
+        let availableRecipes = recipes.filter(recipe =>
+            recipe.ingredients.some(ingredient => availableIngredients.has(ingredient[0]))
+        );
+
+        // Se l'utente ha fornito una query, filtra per nome del pasto
+        if (query && query.length >= 3) {
+            const regex = new RegExp(query, "i"); // Crea una RegExp per la ricerca case-insensitive
+            availableRecipes = availableRecipes.filter(recipe => regex.test(recipe.title));
+        }
+        res.json(availableRecipes);
+    } catch (e) {
+        console.error("Errore nella ricerca:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
 router.get("/categoryAllIngredients/:categoria/:index", async (req, res) => {
     const { categoria, index } = req.params
     try {
@@ -613,6 +704,46 @@ router.get("/categoryAllMeals/:categoria/:index", async (req, res) => {
         console.log(e)
     }
 })
+
+router.get("/getChecklist/:username", async (req, res) => {
+    const { username } = req.params;
+
+    try {
+        // Trova l'utente con lo username specificato
+        const user = await User.findOne({ username });
+
+        if (!user) {
+            return res.status(404).json({ error: "Utente non trovato" });
+        }
+
+        // Estrarre gli ID degli ingredienti dalla checklist
+        const ingredientIds = user.checklist.map(item => item.id);
+
+        // Trovare gli ingredienti corrispondenti nella collezione Ingredient
+        const ingredients = await Ingredient.find({ _id: { $in: ingredientIds } });
+
+        // Creare un array arricchito con nome, categoria e quantità
+        const enrichedChecklist = user.checklist.map(item => {
+            const ingredient = ingredients.find(ing => ing._id.toString() === item.id);
+            return {
+                id: item.id,
+                nome: ingredient ? ingredient.nome : "Ingrediente non trovato",
+                categoria: ingredient ? ingredient.categoria : "Sconosciuta",
+                quantity: item.quantity,
+                checked: item.checked
+            };
+        });
+
+        // Ordinare per categoria in ordine alfabetico
+        enrichedChecklist.sort((a, b) => a.categoria.localeCompare(b.categoria));
+
+        res.json(enrichedChecklist);
+    } catch (e) {
+        console.error("Errore nel recupero della checklist:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
 
 router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;

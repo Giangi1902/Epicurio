@@ -8,7 +8,6 @@ import { normalize } from "./home";
 import { useTheme } from "../../themeContext";
 
 
-
 const { width: screenWidth } = Dimensions.get('window');
 const circleSize = screenWidth * 0.25;
 
@@ -19,7 +18,7 @@ function Profile() {
     const [loading, setLoading] = useState(false);
     const navigation = useNavigation();
     const { toggleTheme } = useTheme();
-    const {theme} = useTheme();
+    const { theme } = useTheme();
 
 
     const handleInfo = async () => {
@@ -81,7 +80,7 @@ function Profile() {
         <Layout style={styles.container}>
             <View style={[styles.containerTitle, { backgroundColor: theme.coloreChiaro }]}>
                 <View style={styles.containerTitleText}>
-                    <Text style={[styles.textTitle, {color: theme.coloreScuro}]}>Profilo</Text>
+                    <Text style={[styles.textTitle, { color: theme.coloreScuro }]}>Profilo</Text>
                 </View>
             </View>
             <ScrollView style={styles.scrollViewContainer} showsVerticalScrollIndicator={false}>
@@ -93,46 +92,51 @@ function Profile() {
                 ) : username === "" ? (
                     <Text>Username non esistente</Text>
                 ) : (
-                    <ScrollView>
-                        <View style={styles.profileContainer}>
-                            <View style={styles.circleContainer}>
-                                <Image source={require('../../images/profile.png')} style={styles.circleImage} />
-                            </View>
-                            <Text style={styles.usernameText}>{username}</Text>
-                            <View style={styles.separator} />
-                            <View style={styles.containerDescription}>
-                                <Text style={styles.infoText}>Orario di pranzo:</Text>
-                                <Text style={styles.descriptionText}>{orariopranzo}</Text>
-                            </View>
-                            <View style={styles.containerDescription}>
-                                <Text style={styles.infoText}>Orario di cena:</Text>
-                                <Text style={styles.descriptionText}>{orariocena}</Text>
+                    <View style={styles.profileContainer}>
+                        <View style={styles.circleContainer}>
+                            <Image source={require('../../images/profile.png')} style={styles.circleImage} />
+                        </View>
+                        <Text style={styles.usernameText}>{username}</Text>
+                        <View style={styles.listContainer}>
+                            <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                                <View style={styles.containerDescription}>
+                                    <Text style={styles.infoText}>Orario di pranzo:</Text>
+                                    <Text style={styles.descriptionText}>{orariopranzo}</Text>
+                                </View>
+                                <View style={styles.containerDescription}>
+                                    <Text style={styles.infoText}>Orario di cena:</Text>
+                                    <Text style={styles.descriptionText}>{orariocena}</Text>
+                                </View>
                             </View>
                         </View>
-                    </ScrollView>
+                    </View>
                 )}
-                <View style={styles.separator} />
-                <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
-                    <Text style={styles.titleButton}>Logout</Text>
-                </TouchableOpacity>
-                <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
-                    <Text style={styles.titleButton}>Elimina account</Text>
-                </TouchableOpacity>
-
+                <View style={styles.listContainer}>
+                    <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                        <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: 18 }}>Cambia tema all'applicazione: </Text>
+                        <View style={{ flexDirection: "row", justifyContent: "space-around", marginVertical: 10 }}>
+                            <TouchableOpacity onPress={() => toggleTheme("green")}>
+                                <View style={{ backgroundColor: "#ADC8AD", borderRadius: 25, width: 50, height: 50 }}></View>
+                            </TouchableOpacity>
+                            <TouchableOpacity onPress={() => toggleTheme("purple")}>
+                                <View style={{ backgroundColor: "#C7ADC8", borderRadius: 25, width: 50, height: 50 }}></View>
+                            </TouchableOpacity>
+                            <TouchableOpacity onPress={() => toggleTheme("blue")}>
+                                <View style={{ backgroundColor: "#ADC8C8", borderRadius: 25, width: 50, height: 50 }}></View>
+                            </TouchableOpacity>
+                            <TouchableOpacity onPress={() => toggleTheme("red")}>
+                                <View style={{ backgroundColor: "#C8ADAD", borderRadius: 25, width: 50, height: 50 }}></View>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                </View>
                 <View>
-                    <Text>Cambia tema all'applicazione: </Text>
-                    <View style={{ flexDirection: "row", justifyContent: "space-around", marginVertical: 10 }}>
-                        <TouchableOpacity onPress={() => toggleTheme("green")}>
-                            <View style={{backgroundColor: "#ADC8AD", borderRadius: 25, width: 50, height: 50}}></View>
+                    <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
+                        <TouchableOpacity onPress={handleDelete} style={styles.deleteButton}>
+                            <Text style={styles.titleButton}>Elimina</Text>
                         </TouchableOpacity>
-                        <TouchableOpacity onPress={() => toggleTheme("purple")}>
-                        <View style={{backgroundColor: "#C7ADC8", borderRadius: 25, width: 50, height: 50}}></View>
-                        </TouchableOpacity>
-                        <TouchableOpacity onPress={() => toggleTheme("blue")}>
-                        <View style={{backgroundColor: "#ADC8C8", borderRadius: 25, width: 50, height: 50}}></View>
-                        </TouchableOpacity>
-                        <TouchableOpacity onPress={() => toggleTheme("red")}>
-                        <View style={{backgroundColor: "#C8ADAD", borderRadius: 25, width: 50, height: 50}}></View>
+                        <TouchableOpacity onPress={handleLogout} style={styles.logoutButton}>
+                            <Text style={styles.titleButton}>Logout</Text>
                         </TouchableOpacity>
                     </View>
                 </View>
@@ -181,23 +185,30 @@ const styles = StyleSheet.create({
         fontSize: 18,
         textAlign: 'right',
     },
+    listContainer: {
+        flex: 1,
+        paddingTop: 10,
+        width: screenWidth * 0.95,
+        marginTop: 5,
+        alignSelf: "center"
+    },
     logoutButton: {
         marginVertical: 10,
-        width: "100%",
-        height: circleSize / 3,
+        width: "40%",
         backgroundColor: '#407F40',
         borderRadius: 20,
         alignSelf: "center",
-        justifyContent: "center"
+        justifyContent: "center",
+        padding: 10
     },
     deleteButton: {
         marginVertical: 10,
-        width: "100%",
-        height: circleSize / 3,
+        width: "40%",
         backgroundColor: '#9B0800',
         borderRadius: 20,
         alignSelf: "center",
-        justifyContent: "center"
+        justifyContent: "center",
+        padding: 10
     },
     separator: {
         width: '100%',
@@ -207,7 +218,7 @@ const styles = StyleSheet.create({
     },
     titleButton: {
         color: "white",
-        fontSize: 20,
+        fontSize: 16,
         fontFamily: "Poppins_500Medium",
         alignSelf: "center",
         justifyContent: "center"
@@ -233,9 +244,23 @@ const styles = StyleSheet.create({
         fontFamily: "Poppins_600SemiBold_Italic"
     },
     scrollViewContainer: {
-        width: "90%",
+        flex: 1,
+        width: "95%",
         alignSelf: "center"
-    }
+    },
+    cardAddIngredient: {
+        borderRadius: 10,
+        backgroundColor: '#fff',
+        shadowColor: '#000',
+        shadowOpacity: 0.2,
+        shadowOffset: {
+            height: 2,
+        },
+        shadowRadius: 2,
+        elevation: 3,
+        padding: 15,
+        marginBottom: 5
+    },
 });
 
 export default Profile;

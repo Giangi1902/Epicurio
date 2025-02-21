@@ -120,7 +120,6 @@ function Home() {
         try{
             const response = await axios.get(`http://192.168.1.89:8080/getMeals/${username}`);
             setMeals(response.data);
-            console.log(response.data);
         }
         catch(e){
             console.log(e);

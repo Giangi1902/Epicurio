@@ -21,11 +21,6 @@ const TinderSwipe = () => {
     handleCards();
   }, []);
 
-  useEffect(() => {
-    console.log("Current Index:", currentIndex);
-  }, [currentIndex]);
-
-
   const handleCards = async () => {
     try {
       const response = await axios.get(`http://192.168.1.89:8080/getCards`);
@@ -54,8 +49,30 @@ const TinderSwipe = () => {
     }
   };
 
-  //TODO: ricerca pasti 
-  //TODO: eliminare isexpanded
+  const [query, setQuery] = useState("");
+  const [filteredData, setFilteredData] = useState([]);
+
+  useEffect(() => {
+    const words = query.trim().split(/\s+/);
+    const hasValidWord = words.some(word => word.length >= 3);
+
+    if (hasValidWord) {
+      handleSearch(query);
+    } else {
+      setFilteredData([]);
+    }
+  }, [query]);
+
+  const handleSearch = async (searchQuery) => {
+    try {
+      const response = await axios.get(`http://192.168.1.89:8080/searchMeal?query=${searchQuery}`);
+      setFilteredData(response.data);
+    } catch (error) {
+      console.log("Errore nella ricerca:", error);
+    }
+  };
+
+  //TODO: aggiungere logica destra e sinistra
   return (
     <Layout style={styles.container}>
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
@@ -67,48 +84,26 @@ const TinderSwipe = () => {
         </View>
       </View>
 
-      {!isExpanded && (
-        <View style={{ alignItems: "center", marginTop: 15 }}>
-          <TextInput style={{ width: deviceWidth * 0.95, height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: normalize(12), fontFamily: "Poppins_500Medium" }}
-            placeholder="Cerca una ricetta..."
-            placeholderTextColor="#A0A0A0"
-          />
-        </View>
-      )}
+      <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", marginHorizontal: 10 }}>
+        <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: normalize(12), fontFamily: "Poppins_500Medium" }}
+          placeholder="Cerca un ingrediente..."
+          placeholderTextColor="#A0A0A0"
+          onChangeText={setQuery}
+          value={query}
+        />
+        <TouchableOpacity onPress={() => setQuery("")} style={{ height: 45, width: 45, backgroundColor: theme.coloreScuro, borderRadius: 15, alignItems: "center", justifyContent: "center" }}>
+          <Image source={require("../../images/times.png")} style={{ width: 20, height: 20 }}></Image>
+        </TouchableOpacity>
+      </View>
 
       {/* Swiper Section */}
       <View style={styles.viewContainer}>
         {loading ? (
           <ActivityIndicator size="large" color={theme.coloreScuro} />
         ) : (
-          images.length > 0 ? (
-            isExpanded ? (
-              // Informazioni sulla ricetta espansa
-              <ScrollView style={styles.scrollView}>
-                <View style={{ flex: 1, flexDirection: "row", alignItems: "center", backgroundColor: "white" }}>
-                  <TouchableOpacity style={{ backgroundColor: "black", borderRadius: 10, width: 40, height: 40, justifyContent: "center", alignItems: "center", marginBottom: 15, marginHorizontal: 15 }} onPress={() => setIsExpanded(false)}>
-                    <Image source={require("../../images/times.png")} style={{ width: 20, height: 20, tintColor: "white" }} />
-                  </TouchableOpacity>
-                  <Text style={[styles.title, { textAlign: "center" }]}>{images[currentIndex].title}</Text>
-                </View>
-                {console.log(images[currentIndex])}
-                <Image source={{ uri: images[currentIndex].imageBase64 }} style={[styles.expandedImage, { borderTopWidth: 1, borderBottomWidth: 1, borderColor: "#E2E8F0" }]} />
-                <Text style={styles.category}>Categoria: {images[currentIndex].category}</Text>
-
-                <Text style={styles.subtitle}>Ingredienti:</Text>
-                <Text style={styles.description}>{images[currentIndex].ingredients}</Text>
-
-                <Text style={styles.subtitle}>Preparazione:</Text>
-                <Text style={styles.description}>{images[currentIndex].description}</Text>
-
-                <TouchableOpacity style={styles.closeButton} onPress={() => { setIsExpanded(false); }}>
-                  <Text style={styles.closeButtonText}>Chiudi</Text>
-                </TouchableOpacity>
-              </ScrollView>
-            )
-              :
+          <>
+            {query == "" ? (
               <>
-                {/* Card in background */}
                 {currentIndex + 1 < images.length && (
                   <View style={[styles.backgroundCard, { borderColor: theme.coloreScuro }]}>
                     <Text style={styles.titleBackground}>{images[currentIndex + 1].title}</Text>
@@ -120,7 +115,6 @@ const TinderSwipe = () => {
                   </View>
                 )}
 
-                {/* Card principale */}
                 <Swiper
                   cards={images}
                   cardIndex={currentIndex}
@@ -170,10 +164,34 @@ const TinderSwipe = () => {
                   disableBottomSwipe={true}
                   disableTopSwipe={true}
                 />
-              </>
-          ) : (
-            <Text style={{ textAlign: "center", fontSize: 18, color: "gray" }}>Nessuna immagine disponibile</Text>
-          )
+              </>)
+              :
+              <View style={styles.listContainer}>
+                <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16}>
+                  <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+
+
+                    {filteredData.map((item, index) => (
+
+                      <TouchableOpacity key={index} onPress={() => handleTap(item)}>
+                        <View key={item.id} style={[styles.itemContainer]}>
+                          <View style={styles.itemTextContainer}>
+                            <Image
+                              source={{ uri: item.imageBase64 }}
+                              style={{ height: 100, width: 100, backgroundColor: theme.coloreScuro }}
+                            />
+                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15, flex: 1 }]}>
+                              {item.title}
+                            </Text>
+                          </View>
+                        </View>
+                      </TouchableOpacity>
+                    ))}
+                  </View>
+                </ScrollView>
+              </View>
+            }
+          </>
         )}
       </View>
     </Layout>
@@ -192,12 +210,41 @@ const styles = StyleSheet.create({
   },
   card: {
     width: deviceWidth * 0.94,
-    height: screenHeight * 0.5,
+    height: screenHeight * 0.55,
     borderRadius: 15,
     backgroundColor: "white",
     alignSelf: "center",
     padding: 10,
     position: "relative"
+  },
+  itemContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 8,
+  },
+  itemTextContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
+  },
+  cardAddIngredient: {
+    borderRadius: 10,
+    backgroundColor: '#fff',
+    shadowColor: '#000',
+    shadowOpacity: 0.2,
+    shadowOffset: {
+      height: 2,
+    },
+    shadowRadius: 2,
+    elevation: 3,
+    padding: 15,
+    marginBottom: 40
+  },
+  listContainer: {
+    flex: 1,
+    paddingTop: 10,
+    width: deviceWidth * 0.95,
+    alignSelf: "center"
   },
   descriptionCard: {
     borderRadius: 15,

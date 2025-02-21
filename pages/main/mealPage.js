@@ -98,7 +98,7 @@ function MealPage() {
                 <View style={{ backgroundColor: "white", borderWidth: 1, borderColor: theme.coloreScuro, width: "auto", margin: 10, borderRadius: 15 }}>
                     <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
                         <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 18, padding: 10 }}>Ingredienti</Text>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_300Light", fontSize: 18, padding: 10 }}>{item.details[3].label} {item.details[3].value}</Text>
+                        <Text style={{ textAlign: "center", fontFamily: "Poppins_300Light", fontSize: 18, padding: 10, flexShrink: 1 }}>{item.details[3].label} {item.details[3].value}</Text>
                     </View>
                     {item.ingredients.slice(0, showAll ? item.ingredients.length : 5).map((ingredient, index) => (
                         <View key={index} style={{ flexDirection: "row", justifyContent: "space-between", padding: 10 }}>

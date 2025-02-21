@@ -1,12 +1,18 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Layout, Text, CheckBox, Input } from "@ui-kitten/components";
-import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator } from "react-native";
+import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, Dimensions } from "react-native";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
 import { normalize } from "../main/home";
 import BottomTogglePage from "../components/bottomToggle";
 import { useTheme } from "../../themeContext";
+import { LinearGradient } from 'expo-linear-gradient';
+import DiagonalBackground from "./diagonalbackground";
+
+
+
+const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
 
 function Checklist() {
@@ -24,6 +30,9 @@ function Checklist() {
     const [filteredIngredients, setFilteredIngredients] = useState();
     const [usingAsyncStorage, setUsingAsyncStorage] = useState(false);
     const [currentIndex, setCurrentIndex] = useState(-1);
+
+
+    const [checklist, setChecklist] = useState([])
     const { theme } = useTheme();
 
     useEffect(() => {
@@ -48,93 +57,87 @@ function Checklist() {
     );
 
     useEffect(() => {
-        calculateTotalPrice();
-    }, [prices, ingredients]);
-
-    useEffect(() => {
         setFilteredIngredients(allIngredients)
     }, [allIngredients])
 
     const handleToggle = useCallback(async (ingredientId) => {
-        setIsLoading(true);
-        const index = ingredients.findIndex(item => item.id === ingredientId);
-        if (index !== -1) {
-            const newIngredients = [...ingredients];
-            newIngredients[index] = { ...newIngredients[index], checked: !newIngredients[index].checked };
-            setIngredients(newIngredients);
-            calculateTotalPrice();
-            await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
-            try {
-                const response = await axios.post(`http://192.168.1.89:8080/updateCheckbox/${username}/${ingredientId}`);
-                if (response.data === "no") {
-                    console.log("Problema aggiornamento della checkbox");
-                }
-            } catch (e) {
-                console.log(e);
-            } finally {
-                setIsLoading(false);
-            }
-        } else {
-            console.error(`L'ingrediente con ID ${ingredientId} non è stato trovato nell'array ingredients`);
-        }
+        // setIsLoading(true);
+        // const index = ingredients.findIndex(item => item.id === ingredientId);
+        // if (index !== -1) {
+        //     const newIngredients = [...ingredients];
+        //     newIngredients[index] = { ...newIngredients[index], checked: !newIngredients[index].checked };
+        //     setIngredients(newIngredients);
+        //     await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
+        //     try {
+        //         const response = await axios.post(`http://192.168.1.89:8080/updateCheckbox/${username}/${ingredientId}`);
+        //         if (response.data === "no") {
+        //             console.log("Problema aggiornamento della checkbox");
+        //         }
+        //     } catch (e) {
+        //         console.log(e);
+        //     } finally {
+        //         setIsLoading(false);
+        //     }
+        // } else {
+        //     console.error(`L'ingrediente con ID ${ingredientId} non è stato trovato nell'array ingredients`);
+        // }
     }, [ingredients, username]);
 
 
     const handleIngredients = async () => {
-        if (username !== "") {
-            setIsLoading(true);
-            try {
-                const response = await axios.get(`http://192.168.1.89:8080/getIngredients/${username}`);
-                if (response.data !== "no") {
-                    setIngredients(response.data);
-                    handlePrices(response.data);
-                    await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
-                    setUsingAsyncStorage(false)
-                } else {
-                    console.log("Nessun ingrediente trovato");
-                }
-            } catch (error) {
-                console.log(error);
-                const storedIngredients = await AsyncStorage.getItem("ingredients");
-                if (storedIngredients !== null) {
-                    setIngredients(JSON.parse(storedIngredients));
-                    setUsingAsyncStorage(true)
-                }
-            } finally {
-                setIsLoading(false);
-            }
-        }
+        // if (username !== "") {
+        //     setIsLoading(true);
+        //     try {
+        //         const response = await axios.get(`http://192.168.1.89:8080/getIngredients/${username}`);
+        //         if (response.data !== "no") {
+        //             setIngredients(response.data);
+        //             await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
+        //             setUsingAsyncStorage(false)
+        //         } else {
+        //             console.log("Nessun ingrediente trovato");
+        //         }
+        //     } catch (error) {
+        //         console.log(error);
+        //         const storedIngredients = await AsyncStorage.getItem("ingredients");
+        //         if (storedIngredients !== null) {
+        //             setIngredients(JSON.parse(storedIngredients));
+        //             setUsingAsyncStorage(true)
+        //         }
+        //     } finally {
+        //         setIsLoading(false);
+        //     }
+        // }
     };
 
     const handleAllIngredients = async () => {
-        setIsLoading(true);
-        if (username !== "") {
-            try {
-                const index = 1 + currentIndex
-                const response = await axios.get(`http://192.168.1.89:8080/getAllIngredients/${index}`);
-                if (response.data.length > 0) {
-                    setCurrentIndex(currentIndex + 1);
-                    setAllIngredients(prevdata => [...prevdata, ...response.data]);
-                    await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
-                    setUsingAsyncStorage(false)
-                }
-            } catch (error) {
-                console.log(error);
-                const storedAllIngredients = await AsyncStorage.getItem("allIngredients");
-                if (storedAllIngredients !== null) {
-                    setAllIngredients(JSON.parse(storedAllIngredients));
-                    setUsingAsyncStorage(true)
-                }
-            } finally {
-                setIsLoading(false);
-            }
-        }
+        // setIsLoading(true);
+        // if (username !== "") {
+        //     try {
+        //         const index = 1 + currentIndex
+        //         const response = await axios.get(`http://192.168.1.89:8080/getAllIngredients/${index}`);
+        //         if (response.data.length > 0) {
+        //             setCurrentIndex(currentIndex + 1);
+        //             setAllIngredients(prevdata => [...prevdata, ...response.data]);
+        //             await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
+        //             setUsingAsyncStorage(false)
+        //         }
+        //     } catch (error) {
+        //         console.log(error);
+        //         const storedAllIngredients = await AsyncStorage.getItem("allIngredients");
+        //         if (storedAllIngredients !== null) {
+        //             setAllIngredients(JSON.parse(storedAllIngredients));
+        //             setUsingAsyncStorage(true)
+        //         }
+        //     } finally {
+        //         setIsLoading(false);
+        //     }
+        // }
     };
 
     const loadMoreIngredients = async () => {
-        setIsLoading(true); // Imposta lo stato di caricamento
-        await handleAllIngredients(); // Chiamata alla funzione per ottenere nuovi ingredienti
-        setIsLoading(false); // Reset dello stato di caricamento
+        setIsLoading(true);
+        await handleAllIngredients();
+        setIsLoading(false);
     };
 
     const handleScroll = (event) => {
@@ -170,283 +173,220 @@ function Checklist() {
     };
 
     const handleMainButtonAnimation = () => {
-        const toValue = isPageVisible ? 0 : 1;
-        Animated.timing(rotation, { toValue, duration: 500, easing: Easing.linear, useNativeDriver: true }).start();
-        setIsPageVisible(!isPageVisible);
-    };
-
-    const calculateTotalPrice = () => {
-        let totalPrice = 0;
-        prices.forEach((price, index) => {
-            const ingredient = ingredients.find(item => item.id === prices[index].id);
-            if (ingredient && !ingredient.checked) {
-                totalPrice += price.cost * ingredient.quantity;
-            }
-        });
-        totalPrice = totalPrice.toFixed(2);
-        setTotalPrice(totalPrice);
+        // const toValue = isPageVisible ? 0 : 1;
+        // Animated.timing(rotation, { toValue, duration: 500, easing: Easing.linear, useNativeDriver: true }).start();
+        // setIsPageVisible(!isPageVisible);
     };
 
     const handleAddIngredient = async (ingredientId) => {
-        const existingIndex = quantities.findIndex(item => item.id === ingredientId);
-        if (existingIndex !== -1) {
-            const updatedQuantities = [...quantities];
-            updatedQuantities[existingIndex].quantity++;
-            setQuantities(updatedQuantities);
-        } else {
-            setQuantities([...quantities, { id: ingredientId, quantity: 1 }]);
-        }
-        setSelectedIngredients([...selectedIngredients, ingredientId]);
+        // const existingIndex = quantities.findIndex(item => item.id === ingredientId);
+        // if (existingIndex !== -1) {
+        //     const updatedQuantities = [...quantities];
+        //     updatedQuantities[existingIndex].quantity++;
+        //     setQuantities(updatedQuantities);
+        // } else {
+        //     setQuantities([...quantities, { id: ingredientId, quantity: 1 }]);
+        // }
+        // setSelectedIngredients([...selectedIngredients, ingredientId]);
     }
 
     const handleRemoveIngredient = async (ingredientId) => {
-        const existingIndex = quantities.findIndex(item => item.id === ingredientId);
-        if (existingIndex !== -1 && quantities[existingIndex].quantity > 0) {
-            const updatedQuantities = [...quantities];
-            updatedQuantities[existingIndex].quantity--;
-            setQuantities(updatedQuantities);
-        }
+        // const existingIndex = quantities.findIndex(item => item.id === ingredientId);
+        // if (existingIndex !== -1 && quantities[existingIndex].quantity > 0) {
+        //     const updatedQuantities = [...quantities];
+        //     updatedQuantities[existingIndex].quantity--;
+        //     setQuantities(updatedQuantities);
+        // }
     }
 
     const handleSave = async () => {
-        setIsLoading(true)
+        // setIsLoading(true)
+        // try {
+        //     const newQuantities = quantities.map(item => ({ id: item.id, quantity: 0 }));
+        //     const response = await axios.post(`http://192.168.1.89:8080/addIngredients`, {
+        //         username, quantities
+        //     })
+        //     if (response.data == "ok") {
+        //         handleIngredients();
+        //         calculateTotalPrice();
+        //         setIsPageVisible(false)
+        //         setQuantities(newQuantities);
+        //         setSearchText("")
+        //     }
+        // }
+        // catch (e) {
+        //     console.log(e)
+        // }
+        // finally {
+        //     setIsLoading(false)
+        // }
+    }
+
+    const handleAddChecklist = async (ingredientId) => {
+        // setIsLoading(true);
+        // const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
+        // if (existingIndex !== -1) {
+        //     const updatedQuantities = [...ingredients];
+        //     updatedQuantities[existingIndex].quantity++;
+        //     setIngredients(updatedQuantities);
+        //     calculateTotalPrice();
+        //     await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
+        //     try {
+        //         const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+        //         if (response.data == "no") {
+        //             console.log("Problema nell'aggiunta dell'ingrediente in db");
+        //         }
+        //     } catch (e) {
+        //         console.log(e);
+        //     } finally {
+        //         setIsLoading(false);
+        //     }
+        // }
+    };
+
+    const handleRemoveChecklist = async (ingredientId) => {
+        // setIsLoading(true);
+        // const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
+
+        // let updatedQuantities;
+
+        // if (existingIndex !== -1 && ingredients[existingIndex].quantity > 0) {
+        //     updatedQuantities = [...ingredients];
+        //     updatedQuantities[existingIndex].quantity--;
+        //     setIngredients(updatedQuantities);
+        //     calculateTotalPrice();
+        //     await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
+        // }
+        // try {
+        //     const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
+        //     if (response.data === "no") {
+        //         console.log("problema nella rimozione dell'elemento");
+        //     }
+        // } catch (e) {
+        //     console.log(e);
+        // } finally {
+        //     setIsLoading(false);
+        // }
+    };
+
+    const handleDispensa = async () => {
+        // setIsLoading(true);
+        // try {
+        //     const response = await axios.post(`http://192.168.1.89:8080/addIngredientDispensa/${username}`, {
+        //         ingredients
+        //     });
+        //     if (response.data != "no") {
+        //         setIngredients(response.data);
+        //         await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
+        //     }
+        // } catch (e) {
+        //     console.log(e);
+        // } finally {
+        //     setIsLoading(false);
+        // }
+    };
+
+    const handleSearch = (text) => {
+        // setSearchText(text);
+        // const filtered = allIngredients.filter(ingredient =>
+        //     ingredient.nome.toLowerCase().includes(text.toLowerCase())
+        // );
+        // setFilteredIngredients(filtered);
+    };
+
+    useEffect(() => {
+        getChecklist()
+    }, [username])
+
+    const getChecklist = async () => {
         try {
-            const newQuantities = quantities.map(item => ({ id: item.id, quantity: 0 }));
-            const response = await axios.post(`http://192.168.1.89:8080/addIngredients`, {
-                username, quantities
-            })
-            if (response.data == "ok") {
-                handleIngredients();
-                calculateTotalPrice();
-                setIsPageVisible(false)
-                setQuantities(newQuantities);
-                setSearchText("")
-            }
+            const response = await axios.get(`http://192.168.1.89:8080/getChecklist/${username}`)
+            setChecklist(response.data)
         }
         catch (e) {
             console.log(e)
         }
-        finally {
-            setIsLoading(false)
-        }
     }
 
-    const handleAddChecklist = async (ingredientId) => {
-        setIsLoading(true);
-        const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
-        if (existingIndex !== -1) {
-            const updatedQuantities = [...ingredients];
-            updatedQuantities[existingIndex].quantity++;
-            setIngredients(updatedQuantities);
-            calculateTotalPrice();
-            await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
-            try {
-                const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
-                if (response.data == "no") {
-                    console.log("Problema nell'aggiunta dell'ingrediente in db");
-                }
-            } catch (e) {
-                console.log(e);
-            } finally {
-                setIsLoading(false);
-            }
-        }
-    };
-
-    const handleRemoveChecklist = async (ingredientId) => {
-        setIsLoading(true);
-        const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
-
-        let updatedQuantities;
-
-        if (existingIndex !== -1 && ingredients[existingIndex].quantity > 0) {
-            updatedQuantities = [...ingredients];
-            updatedQuantities[existingIndex].quantity--;
-            setIngredients(updatedQuantities);
-            calculateTotalPrice();
-            await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
-        }
-        try {
-            const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
-            if (response.data === "no") {
-                console.log("problema nella rimozione dell'elemento");
-            }
-        } catch (e) {
-            console.log(e);
-        } finally {
-            setIsLoading(false);
-        }
-    };
-
-    const handleDispensa = async () => {
-        setIsLoading(true);
-        try {
-            const response = await axios.post(`http://192.168.1.89:8080/addIngredientDispensa/${username}`, {
-                ingredients
-            });
-            if (response.data != "no") {
-                setIngredients(response.data);
-                await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
-            }
-        } catch (e) {
-            console.log(e);
-        } finally {
-            setIsLoading(false);
-        }
-    };
-
-    const handleSearch = (text) => {
-        setSearchText(text);
-        const filtered = allIngredients.filter(ingredient =>
-            ingredient.nome.toLowerCase().includes(text.toLowerCase())
-        );
-        setFilteredIngredients(filtered);
-    };
-
-    //TODO: aggiornare vercel post icone
+    //TODO: gestire checkbox
+    //TODO: aggiungere controllo se non c'è nulla in dispensa
+    //TODO: aggiungere bottoni per aggiungere in dispensa e bottone per ricercare nuovi ingredienti da aggiungere alla lista della spesa
     return (
         <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
-
                 <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                     <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                        {isPageVisible ? (
-                            <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(30) }}>Aggiungi ingrediente</Text>
-                        ) : (
-                            <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: normalize(36) }}>Lista della spesa</Text>
-                        )}
+                        <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: 36 }}>Lista della spesa</Text>
                     </View>
                 </View>
-                {isLoading && (
-                    <View style={[styles.loadingContainer, { position: 'absolute', top: 10, right: 10 }]}>
-                        <ActivityIndicator size="large" color="#000000" />
-                    </View>
+                <View style={styles.listContainer}>
+                    <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16}>
+                        <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                            <View>
+                                {checklist.map((item, index) => (
+                                    <View key={index}>
+                                        {index === 0 || item.categoria !== checklist[index - 1]?.categoria ? (
 
-                )}
-                <View style={styles.titleContainer}>
-                    <View>
-                        {isPageVisible === false ? (
-                            <View style={{ flexDirection: "row" }}>
-                                <View>
-                                    <Text style={{ color: "black", fontSize: 22, fontFamily: 'Poppins_600SemiBold' }}>Totale: {totalPrice}€</Text>
-                                </View>
-                            </View>
-                        ) : (
-                            null
-                        )}
-                    </View>
-                    <View style={styles.separator} />
+                                            <View style={{ alignItems: 'center' }}>
+                                                <Text style={{ fontSize: 16, textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.categoria}</Text>
+                                                <View style={[styles.separateCategory, { width: '75%' }]} />
+                                            </View>
+                                        ) : null}
 
-                </View>
-                {isPageVisible ? (
-                    <View style={styles.listContainer}>
-                        <View style={{ flexDirection: 'row', alignItems: 'center' }}>
-                            <Input style={[styles.input, { flex: 1 }]} placeholder="Cerca ingrediente" value={searchText} onChangeText={handleSearch} textStyle={{ color: "black" }} ></Input>
-                            <TouchableOpacity style={styles.totalContainer} onPress={handleSave}>
-                                <Text style={[styles.totalText, { fontFamily: 'MyriadPro-Regular' }]}>Aggiungi</Text>
-                            </TouchableOpacity>
-                        </View>
+                                        <View style={styles.itemContainer}>
+                                            <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)}/>
+                                            <View style={styles.itemTextContainer}>
+                                                <Text style={[styles.itemText, { fontFamily: 'Poppins_500Medium', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                    {item.nome}
+                                                </Text>
+                                            </View>
 
-                        <ScrollView style={{ marginBottom: -50 }} showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
-                            {filteredIngredients.map((ingredient, index) => (
-                                <View key={`${ingredient._id}`} style={[styles.itemContainer, (index === (filteredIngredients.length - 1)) && styles.lastItemContainer]}>
-                                    <View style={styles.itemTextContainer}>
-                                        <Text style={[styles.itemText, { color: "black", fontFamily: 'Poppins_400Regular', fontSize: 16 }]}>{ingredient.nome}</Text>
-                                    </View>
-                                    <View style={styles.buttonContainerAddMinus}>
-                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(ingredient._id)}>
-                                            <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                        </TouchableOpacity>
-                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(ingredient._id)}>
-                                            <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                            {quantities.find(item => item.id === ingredient._id)?.quantity > 0 && (
-                                                <View style={styles.quantityNotification}>
-                                                    <Text style={styles.quantityText}>
-                                                        {quantities.find(item => item.id === ingredient._id)?.quantity}
-                                                    </Text>
-                                                </View>
-                                            )}
-                                        </TouchableOpacity>
-                                    </View>
-                                </View>
-                            ))}
-                            {isLoading && (
-                                <View style={{ alignItems: 'center', marginVertical: 10 }}>
-                                    <Text style={{ fontSize: 16, color: 'gray' }}>Caricamento...</Text>
-                                </View>
-                            )}
-                        </ScrollView>
-                    </View>
-                ) : (
-                    <View style={{ flex: 1 }}>
-                        <View style={styles.listContainer}>
-                            <ScrollView style={{ marginBottom: -50 }} showsVerticalScrollIndicator={false}>
-                                {ingredients.length === 0 ? (
-                                    <Text style={{ color: "black", fontFamily: 'Poppins_400Regular', textAlign: 'center' }}>Non sono presenti ingredienti nella lista della spesa</Text>
-                                ) : (
-                                    ingredients.map((item, index) => (
-                                        item.quantity > 0 ?
-                                            <View key={index}>
-                                                {index === 0 || item.category !== ingredients[index - 1]?.category ? (
-                                                    <View style={{ alignItems: 'center' }}>
-
-                                                        <Text style={{ fontSize: normalize(16), textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.category}</Text>
-                                                        <View style={[styles.separateCategory, { width: '60%' }]} />
-
-                                                    </View>
-                                                ) : null}
-
-                                                <View key={item.id} style={[styles.itemContainer, (index === ingredients.length - 1) && styles.lastItemContainer]}>
-                                                    <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)} />
-                                                    <View style={styles.itemTextContainer}>
-                                                        <Text style={[styles.itemText, { fontFamily: 'Poppins_400Regular', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
-                                                            {item.nome}
-                                                        </Text>
-                                                        {prices.find(price => price.id === item.id) && (
-                                                            <Text style={[styles.itemPrice, { fontFamily: 'Poppins_300Light', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
-                                                                {((ingredients.find(qty => qty.id === item.id)?.quantity) * prices.find(price => price.id === item.id).cost.toFixed(2)).toFixed(2)}€
-                                                            </Text>
-                                                        )}
-                                                    </View>
-                                                    <View>
-                                                        <View style={styles.buttonContainerAddMinus}>
-                                                            <TouchableOpacity style={[styles.buttonMinus, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={() => handleRemoveChecklist(item.id)}>
-                                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                                            </TouchableOpacity>
-                                                            <TouchableOpacity style={[styles.buttonAdd, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={() => handleAddChecklist(item.id)}>
-                                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                                                {ingredients.find(qtyItem => qtyItem.id === item.id)?.quantity > 0 && (
-                                                                    <View style={styles.quantityNotification}>
-                                                                        <Text style={styles.quantityText}>
-                                                                            {ingredients.find(qtyItem => qtyItem.id === item.id)?.quantity}
-                                                                        </Text>
-                                                                    </View>
-                                                                )}
-                                                            </TouchableOpacity>
+                                            <View>
+                                                <View style={styles.buttonContainerAddMinus}>
+                                                    <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                        <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                    </TouchableOpacity>
+                                                    <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                        <LinearGradient
+                                                            colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                            start={{ x: 0, y: 0.5 }}
+                                                            end={{ x: 1, y: 0.5 }}
+                                                            style={{
+                                                                position: "absolute",
+                                                                top: 0,
+                                                                left: 0,
+                                                                width: "100%",
+                                                                height: 2, // Spessore del bordo
+                                                            }}
+                                                        />
+                                                        <LinearGradient
+                                                            colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                            start={{ x: 0, y: 0.5 }}
+                                                            end={{ x: 1, y: 0.5 }}
+                                                            style={{
+                                                                position: "absolute",
+                                                                bottom: 0,
+                                                                left: 0,
+                                                                width: "100%",
+                                                                height: 2, // Spessore del bordo
+                                                            }}
+                                                        />
+                                                        <View style={{ borderRadius: 20, overflow: "hidden", backgroundColor: "white" }}>
+                                                            <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                         </View>
                                                     </View>
+                                                    <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                        <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                    </TouchableOpacity>
                                                 </View>
                                             </View>
-                                            :
-                                            ""
-                                    ))
-                                )}
-                            </ScrollView>
-                        </View>
-                    </View>
-                )}
-                {/* <BottomTogglePage></BottomTogglePage> */}
-                 <View style={{ flexDirection: "row", justifyContent: isPageVisible ? "center" : "space-around" }}>
-                    <View>
-                        {isPageVisible === false ? (
-                            <View>
-                                <TouchableOpacity style={[styles.bottomContainer, styles.checkContainer, usingAsyncStorage ? { pointerEvents: "none" } : { pointerEvents: "auto" }]} onPress={handleDispensa}>
-                                    <Image source={require('../../images/check.png')} style={styles.icon} />
-                                </TouchableOpacity>
+                                        </View>
+                                    </View>
+                                ))}
                             </View>
-                        ) : null}
-                    </View>
-                </View> 
+                        </View>
+                    </ScrollView>
+                </View>
             </SafeAreaView>
         </Layout>
     );
@@ -479,10 +419,13 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     itemText: {
-        fontSize: normalize(16)
+        fontFamily: 'Poppins_500Medium',
+        color: "black",
+        fontSize: 16,
+        padding: 15
     },
     itemPrice: {
-        fontSize: normalize(14)
+        fontSize: 14
     },
     checkedText: {
         textDecorationLine: 'line-through',
@@ -510,11 +453,11 @@ const styles = StyleSheet.create({
     buttonAdd: {
         width: 40,
         height: 40,
-        backgroundColor: '#1B4965',
+        backgroundColor: '#0B7308',
         justifyContent: 'center',
         alignItems: 'center',
-        borderRadius: 20,
-        marginLeft: 10,
+        borderTopRightRadius: 10,
+        borderBottomRightRadius: 10,
         marginRight: 5,
         alignSelf: 'flex-end',
     },
@@ -524,13 +467,27 @@ const styles = StyleSheet.create({
         backgroundColor: '#9B0800',
         justifyContent: 'center',
         alignItems: 'center',
-        borderRadius: 20,
+        borderTopLeftRadius: 10,
+        borderBottomLeftRadius: 10,
         marginLeft: 8,
         alignSelf: 'flex-end',
     },
     buttonText: {
         color: 'white',
         fontSize: 18,
+    },
+    cardAddIngredient: {
+        borderRadius: 10,
+        backgroundColor: '#fff',
+        shadowColor: '#000',
+        shadowOpacity: 0.2,
+        shadowOffset: {
+            height: 2,
+        },
+        shadowRadius: 2,
+        elevation: 3,
+        padding: 15,
+        marginBottom: 40,
     },
     quantityNotification: {
         position: 'absolute',
@@ -579,7 +536,9 @@ const styles = StyleSheet.create({
     listContainer: {
         flex: 1,
         paddingTop: 10,
-        paddingHorizontal: 20,
+        width: deviceWidth * 0.95,
+        marginTop: 15,
+        alignSelf: "center"
     },
     totalContainer: {
         backgroundColor: '#407F40',
