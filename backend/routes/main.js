@@ -461,15 +461,14 @@ router.post("/updateIngredientFromChecklist/:username", async (req, res) => {
     }
 });
 
-
 router.post("/updateCheckbox/:username/:ingredientId", async (req, res) => {
     const { username, ingredientId } = req.params;
     try {
         const user = await User.findOne({ username: username });
         if (user) {
-            const ingredient = user.ingredienti.find(ingredient => ingredient.id === ingredientId);
+            const ingredient = user.checklist.find(ingredient => ingredient.id === ingredientId);
             if (ingredient) {
-                await User.findOneAndUpdate({ username: username, 'ingredienti.id': ingredientId }, { $set: { 'ingredienti.$.checked': !ingredient.checked } });
+                await User.findOneAndUpdate({ username: username, 'checklist.id': ingredientId }, { $set: { 'checklist.$.checked': !ingredient.checked } });
                 res.json("ok")
             }
             else {
@@ -483,24 +482,26 @@ router.post("/updateCheckbox/:username/:ingredientId", async (req, res) => {
 
 router.post("/addIngredientDispensa/:username", async (req, res) => {
     const { username } = req.params;
-    let { ingredients } = req.body;
+    let { checklist } = req.body;
     try {
         const user = await User.findOne({ username: username });
+        const pantryUser = await Pantry.findOne({idUtente: user._id.toString()})
         if (user) {
-            for (const ingrediente of ingredients) {
+            for (const ingrediente of checklist) {
                 if (ingrediente.checked === true) {
-                    const existingIngredientIndex = user.dispensa.findIndex(item => item.id === ingrediente.id);
+                    const existingIngredientIndex = pantryUser.idIngredienti.findIndex(item => item.id === ingrediente.id);
+                    console.log(existingIngredientIndex)
                     if (existingIngredientIndex !== -1) {
-                        await User.updateOne({ username: username, 'dispensa.id': ingrediente.id }, { $inc: { 'dispensa.$.quantity': ingrediente.quantity } })
+                        await Pantry.updateOne({ idUtente: user._id.toString(), 'idIngredienti.id': ingrediente.id }, { $inc: { 'idIngredienti.$.quantity': ingrediente.quantity } })
                     } else {
-                        user.dispensa.push({ id: ingrediente.id, quantity: ingrediente.quantity });
+                        pantryUser.idIngredienti.push({ id: ingrediente.id, quantity: ingrediente.quantity });
                     }
-                    ingredients = ingredients.filter(item => item.id !== ingrediente.id);
-                    await user.updateOne({ $pull: { 'ingredienti': { id: ingrediente.id } } });
+                    checklist = checklist.filter(item => item.id !== ingrediente.id);
+                    await user.updateOne({ $pull: { 'checklist': { id: ingrediente.id } } });
                 }
             }
-            await user.save();
-            res.json(ingredients);
+            await pantryUser.save();
+            res.json(checklist);
         }
         else {
             res.json("no")

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Layout, Text, CheckBox, Input } from "@ui-kitten/components";
-import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, Dimensions } from "react-native";
+import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, Dimensions, TextInput } from "react-native";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
@@ -52,7 +52,6 @@ function Checklist() {
     useFocusEffect(
         useCallback(() => {
             handleIngredients();
-            handleAllIngredients();
         }, [username])
     );
 
@@ -61,27 +60,27 @@ function Checklist() {
     }, [allIngredients])
 
     const handleToggle = useCallback(async (ingredientId) => {
-        // setIsLoading(true);
-        // const index = ingredients.findIndex(item => item.id === ingredientId);
-        // if (index !== -1) {
-        //     const newIngredients = [...ingredients];
-        //     newIngredients[index] = { ...newIngredients[index], checked: !newIngredients[index].checked };
-        //     setIngredients(newIngredients);
-        //     await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
-        //     try {
-        //         const response = await axios.post(`http://192.168.1.89:8080/updateCheckbox/${username}/${ingredientId}`);
-        //         if (response.data === "no") {
-        //             console.log("Problema aggiornamento della checkbox");
-        //         }
-        //     } catch (e) {
-        //         console.log(e);
-        //     } finally {
-        //         setIsLoading(false);
-        //     }
-        // } else {
-        //     console.error(`L'ingrediente con ID ${ingredientId} non è stato trovato nell'array ingredients`);
-        // }
-    }, [ingredients, username]);
+        setIsLoading(true);
+        const index = checklist.findIndex(item => item.id === ingredientId);
+        if (index !== -1) {
+            const newChecklist = [...checklist];
+            newChecklist[index] = { ...newChecklist[index], checked: !newChecklist[index].checked };
+            setChecklist(newChecklist);
+            // await AsyncStorage.setItem("ingredients", JSON.stringify(newIngredients));
+            try {
+                const response = await axios.post(`http://192.168.1.89:8080/updateCheckbox/${username}/${ingredientId}`);
+                if (response.data === "no") {
+                    console.log("Problema aggiornamento della checkbox");
+                }
+            } catch (e) {
+                console.log(e);
+            } finally {
+                setIsLoading(false);
+            }
+        } else {
+            console.error(`L'ingrediente con ID ${ingredientId} non è stato trovato nell'array ingredients`);
+        }
+    }, [checklist, username]);
 
 
     const handleIngredients = async () => {
@@ -107,48 +106,6 @@ function Checklist() {
         //         setIsLoading(false);
         //     }
         // }
-    };
-
-    const handleAllIngredients = async () => {
-        // setIsLoading(true);
-        // if (username !== "") {
-        //     try {
-        //         const index = 1 + currentIndex
-        //         const response = await axios.get(`http://192.168.1.89:8080/getAllIngredients/${index}`);
-        //         if (response.data.length > 0) {
-        //             setCurrentIndex(currentIndex + 1);
-        //             setAllIngredients(prevdata => [...prevdata, ...response.data]);
-        //             await AsyncStorage.setItem("allIngredients", JSON.stringify(response.data));
-        //             setUsingAsyncStorage(false)
-        //         }
-        //     } catch (error) {
-        //         console.log(error);
-        //         const storedAllIngredients = await AsyncStorage.getItem("allIngredients");
-        //         if (storedAllIngredients !== null) {
-        //             setAllIngredients(JSON.parse(storedAllIngredients));
-        //             setUsingAsyncStorage(true)
-        //         }
-        //     } finally {
-        //         setIsLoading(false);
-        //     }
-        // }
-    };
-
-    const loadMoreIngredients = async () => {
-        setIsLoading(true);
-        await handleAllIngredients();
-        setIsLoading(false);
-    };
-
-    const handleScroll = (event) => {
-        const { layoutMeasurement, contentOffset, contentSize } = event.nativeEvent;
-
-        // Calcola se siamo alla fine dello scroll
-        const isEndReached = layoutMeasurement.height + contentOffset.y >= contentSize.height - 20;
-
-        if (isEndReached && !isLoading) {
-            loadMoreIngredients();
-        }
     };
 
     const handlePrices = async (ingredients) => {
@@ -270,29 +227,29 @@ function Checklist() {
     };
 
     const handleDispensa = async () => {
-        // setIsLoading(true);
-        // try {
-        //     const response = await axios.post(`http://192.168.1.89:8080/addIngredientDispensa/${username}`, {
-        //         ingredients
-        //     });
-        //     if (response.data != "no") {
-        //         setIngredients(response.data);
-        //         await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
-        //     }
-        // } catch (e) {
-        //     console.log(e);
-        // } finally {
-        //     setIsLoading(false);
-        // }
+        setIsLoading(true);
+        try {
+            const response = await axios.post(`http://192.168.1.89:8080/addIngredientDispensa/${username}`, {
+                checklist
+            });
+            if (response.data != "no") {
+                setChecklist(response.data);
+                // await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
+            }
+        } catch (e) {
+            console.log(e);
+        } finally {
+            setIsLoading(false);
+        }
     };
 
-    const handleSearch = (text) => {
-        // setSearchText(text);
-        // const filtered = allIngredients.filter(ingredient =>
-        //     ingredient.nome.toLowerCase().includes(text.toLowerCase())
-        // );
-        // setFilteredIngredients(filtered);
-    };
+    // const handleSearch = (text) => {
+    // setSearchText(text);
+    // const filtered = allIngredients.filter(ingredient =>
+    //     ingredient.nome.toLowerCase().includes(text.toLowerCase())
+    // );
+    // setFilteredIngredients(filtered);
+    // };
 
     useEffect(() => {
         getChecklist()
@@ -308,9 +265,32 @@ function Checklist() {
         }
     }
 
-    //TODO: gestire checkbox
-    //TODO: aggiungere controllo se non c'è nulla in dispensa
-    //TODO: aggiungere bottoni per aggiungere in dispensa e bottone per ricercare nuovi ingredienti da aggiungere alla lista della spesa
+    const [query, setQuery] = useState("");
+    const [filteredData, setFilteredData] = useState([]);
+
+    useEffect(() => {
+        const words = query.trim().split(/\s+/);
+        const hasValidWord = words.some(word => word.length >= 3);
+
+        if (hasValidWord) {
+            handleSearch(query);
+        } else {
+            setFilteredData([]);
+        }
+    }, [query]);
+
+    const handleSearch = async (searchQuery) => {
+        try {
+            const response = await axios.get(`http://192.168.1.89:8080/searchIngredient?query=${searchQuery}`);
+            setFilteredData(response.data);
+        } catch (error) {
+            console.log("Errore nella ricerca:", error);
+        }
+    };
+
+    //TODO: aggiungere controllo se non c'è nulla in lista della spesa
+    //TODO: quando poi ritorna eliminando la query di ricerca, aggiorna le quantità in lista della spesa
+    //TODO: funzione per aggiungere gli item.checked === true in dispensa
     return (
         <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
@@ -319,28 +299,101 @@ function Checklist() {
                         <Text style={{ color: theme.coloreScuro, fontFamily: 'Poppins_600SemiBold_Italic', fontSize: 36 }}>Lista della spesa</Text>
                     </View>
                 </View>
-                <View style={styles.listContainer}>
-                    <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16}>
-                        <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                            <View>
-                                {checklist.map((item, index) => (
-                                    <View key={index}>
-                                        {index === 0 || item.categoria !== checklist[index - 1]?.categoria ? (
+                <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", width: "95%", alignSelf: "center" }}>
+                    <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
+                        placeholder="Cerca un ingrediente..."
+                        placeholderTextColor="#A0A0A0"
+                        onChangeText={setQuery}
+                        value={query}
+                    />
+                    <TouchableOpacity onPress={() => setQuery("")} style={{ height: 45, width: 45, backgroundColor: theme.coloreScuro, borderRadius: 15, alignItems: "center", justifyContent: "center" }}>
+                        <Image source={require("../../images/times.png")} style={{ width: 20, height: 20 }}></Image>
+                    </TouchableOpacity>
+                </View>
+                {query === "" ? (
+                    <View style={styles.listContainer}>
+                        <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16}>
+                            <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                                <View>
+                                    {checklist.map((item, index) => (
+                                        <View key={index}>
+                                            {index === 0 || item.categoria !== checklist[index - 1]?.categoria ? (
 
-                                            <View style={{ alignItems: 'center' }}>
-                                                <Text style={{ fontSize: 16, textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.categoria}</Text>
-                                                <View style={[styles.separateCategory, { width: '75%' }]} />
+                                                <View style={{ alignItems: 'center' }}>
+                                                    <Text style={{ fontSize: 16, textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.categoria}</Text>
+                                                    <View style={[styles.separateCategory, { width: '75%' }]} />
+                                                </View>
+                                            ) : null}
+
+                                            <View style={styles.itemContainer}>
+                                                <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)} />
+                                                <View style={styles.itemTextContainer}>
+                                                    <Text style={[styles.itemText, { fontFamily: 'Poppins_500Medium', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                        {item.nome}
+                                                    </Text>
+                                                </View>
+
+                                                <View>
+                                                    <View style={styles.buttonContainerAddMinus}>
+                                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                            <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                        </TouchableOpacity>
+                                                        <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                            <LinearGradient
+                                                                colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                                start={{ x: 0, y: 0.5 }}
+                                                                end={{ x: 1, y: 0.5 }}
+                                                                style={{
+                                                                    position: "absolute",
+                                                                    top: 0,
+                                                                    left: 0,
+                                                                    width: "100%",
+                                                                    height: 2, // Spessore del bordo
+                                                                }}
+                                                            />
+                                                            <LinearGradient
+                                                                colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                                start={{ x: 0, y: 0.5 }}
+                                                                end={{ x: 1, y: 0.5 }}
+                                                                style={{
+                                                                    position: "absolute",
+                                                                    bottom: 0,
+                                                                    left: 0,
+                                                                    width: "100%",
+                                                                    height: 2, // Spessore del bordo
+                                                                }}
+                                                            />
+                                                            <View style={{ borderRadius: 20, overflow: "hidden", backgroundColor: "white" }}>
+                                                                <Text style={{ color: "black" }}>{item.quantity}</Text>
+                                                            </View>
+                                                        </View>
+                                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                            <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                        </TouchableOpacity>
+                                                    </View>
+                                                </View>
                                             </View>
-                                        ) : null}
-
-                                        <View style={styles.itemContainer}>
-                                            <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)}/>
+                                        </View>
+                                    ))}
+                                </View>
+                            </View>
+                        </ScrollView>
+                        <TouchableOpacity style={styles.fab} onPress={handleDispensa}>
+                            <Image source={require('../../images/check.png')} style={styles.icon} />
+                        </TouchableOpacity>
+                    </View>
+                ) : (
+                    <View style={styles.listContainer}>
+                        <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16} >
+                            <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
+                                {filteredData.map((item, index) => (
+                                    <View key={index}>
+                                        <View key={item.id} style={[styles.itemContainer]}>
                                             <View style={styles.itemTextContainer}>
-                                                <Text style={[styles.itemText, { fontFamily: 'Poppins_500Medium', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
                                                     {item.nome}
                                                 </Text>
                                             </View>
-
                                             <View>
                                                 <View style={styles.buttonContainerAddMinus}>
                                                     <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
@@ -371,8 +424,8 @@ function Checklist() {
                                                                 height: 2, // Spessore del bordo
                                                             }}
                                                         />
-                                                        <View style={{ borderRadius: 20, overflow: "hidden", backgroundColor: "white" }}>
-                                                            <Text style={{ color: "black" }}>{item.quantity}</Text>
+                                                        <View style={{ borderRadius: 20, overflow: "hidden" }}>
+                                                            <Text style={{ color: "black" }}>0</Text>
                                                         </View>
                                                     </View>
                                                     <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
@@ -384,15 +437,32 @@ function Checklist() {
                                     </View>
                                 ))}
                             </View>
-                        </View>
-                    </ScrollView>
-                </View>
+                        </ScrollView>
+                    </View>
+                )}
+
             </SafeAreaView>
         </Layout>
     );
 }
 
 const styles = StyleSheet.create({
+    fab: {
+        position: 'absolute',
+        bottom: 15,
+        alignSelf: "center",
+        backgroundColor: '#0B7308',
+        width: 50,
+        height: 50,
+        borderRadius: 30,
+        alignItems: 'center',
+        justifyContent: 'center',
+        elevation: 5, // Ombra su Android
+        shadowColor: '#000', // Ombra su iOS
+        shadowOpacity: 0.3,
+        shadowOffset: { width: 0, height: 2 },
+        shadowRadius: 4,
+    },
     itemContainer: {
         flexDirection: 'row',
         alignItems: 'center',
@@ -535,7 +605,6 @@ const styles = StyleSheet.create({
     },
     listContainer: {
         flex: 1,
-        paddingTop: 10,
         width: deviceWidth * 0.95,
         marginTop: 15,
         alignSelf: "center"

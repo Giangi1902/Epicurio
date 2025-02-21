@@ -46,15 +46,13 @@ const pantrySchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  idIngredienti: {
-    type: Array,
-    default: []
-  },
-  available: { //deve essere un campo dell'array idingredienti
-    type: Boolean,
-    default: true
-  }
-})
+  idIngredienti: [
+    {
+      id: { type: String },
+      quantity: { type: Number }
+    }
+  ]
+});
 
 const ingredientSchema = new mongoose.Schema({
   nome: {
@@ -90,11 +88,11 @@ const mealSchema = new mongoose.Schema({
   },
   ratings: [{
     idUtente: {
-      type: String, 
+      type: String,
       required: true
     },
     valutazione: {
-      type: Number, 
+      type: Number,
       required: true
     }
   }]

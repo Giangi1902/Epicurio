@@ -141,7 +141,7 @@ function Category() {
             console.log(e)
         }
     }
-    
+
     //TODO: visualizzare tutti i pasti con quella categoria
     //TODO: visualizzare tutti gli ingredienti
     return (
@@ -171,54 +171,52 @@ function Category() {
                                             </Text>
                                         </View>
                                         <View>
-                                        <View style={styles.buttonContainerAddMinus}>
-                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
-                                            <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        top: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        bottom: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                    <Text style={{ color: "black" }}>1</Text>
+                                            <View style={styles.buttonContainerAddMinus}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                    <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
+                                                <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            top: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <LinearGradient
+                                                        colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                        start={{ x: 0, y: 0.5 }}
+                                                        end={{ x: 1, y: 0.5 }}
+                                                        style={{
+                                                            position: "absolute",
+                                                            bottom: 0,
+                                                            left: 0,
+                                                            width: "100%",
+                                                            height: 2, // Spessore del bordo
+                                                        }}
+                                                    />
+                                                    <View style={{ borderRadius: 20, overflow: "hidden" }}>
+                                                        <Text style={{ color: "black" }}>1</Text>
+                                                    </View>
                                                 </View>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                    <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                </TouchableOpacity>
                                             </View>
-                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
-                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
                                         </View>
-                                    </View>
                                     </View>
                                 </View>
                             ))) :
                             <Text style={{ fontFamily: "Poppins_400Regular", alignSelf: "center", fontSize: 16 }}>Non sono presenti ingredienti!</Text>}
                     </View>
 
-                    <TouchableOpacity onPress={() => handleAllIngredients(categoria)}>
-                        <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                            <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center" }}>Aggiungi ingredienti in dispensa</Text>
-                        </View>
+                    <TouchableOpacity style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]} onPress={() => handleAllIngredients(categoria)}>
+                        <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center" }}>Aggiungi ingredienti in dispensa</Text>
                     </TouchableOpacity>
 
                     <View style={[styles.card, { borderColor: theme.coloreScuro, borderWidth: 1, }]}>

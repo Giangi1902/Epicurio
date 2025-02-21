@@ -113,7 +113,7 @@ function Profile() {
                 )}
                 <View style={styles.listContainer}>
                     <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                        <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: 18 }}>Cambia tema all'applicazione: </Text>
+                        <Text style={{ fontFamily: "Poppins_600SemiBold", fontSize: 18, textAlign: "center" }}>Cambia tema all'applicazione </Text>
                         <View style={{ flexDirection: "row", justifyContent: "space-around", marginVertical: 10 }}>
                             <TouchableOpacity onPress={() => toggleTheme("green")}>
                                 <View style={{ backgroundColor: "#ADC8AD", borderRadius: 25, width: 50, height: 50 }}></View>

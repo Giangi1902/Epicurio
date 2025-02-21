@@ -166,7 +166,7 @@ function AllMeals() {
                     <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
                 </View>
             </View>
-            <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", marginHorizontal: "3%" }}>
+            <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", width: "95%", alignSelf: "center" }}>
                 <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
                     placeholder="Cerca un ingrediente..."
                     placeholderTextColor="#A0A0A0"

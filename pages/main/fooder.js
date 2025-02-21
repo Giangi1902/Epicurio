@@ -73,6 +73,7 @@ const TinderSwipe = () => {
   };
 
   //TODO: aggiungere logica destra e sinistra
+  //TODO: prendere altre immagini quando ne mancano 5 
   return (
     <Layout style={styles.container}>
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
