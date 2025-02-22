@@ -14,6 +14,7 @@ function Category() {
     const [username, setUsername] = useState("")
     const [dispensa, setDispensa] = useState([])
     const [meals, setMeals] = useState([])
+    const [noquantity, setNoQuantity] = useState([])
     const route = useRoute()
     const { categoria } = route.params
     const { theme } = useTheme()
@@ -35,6 +36,10 @@ function Category() {
         handleIngredients();
         handleMeals()
     }, [username]);
+
+    useEffect(() => {
+        handleSave()
+    }, [dispensa])
 
     const handleIngredients = async () => {
         if (username != "") {
@@ -60,51 +65,54 @@ function Category() {
         }
     }
 
-    const handleMinus = async (id) => {
-        // Verifica che la quantità da sottrarre sia maggiore o uguale a zero
-        // const itemToUpdate = dispensa.find(item => item.id === id);
-        // if (itemToUpdate?.quantity >= 1) {
-        //     try {
-        //         // Aggiorna immediatamente la quantità nel frontend
-        //         const updatedDispensa = dispensa.map(item => {
-        //             if (item.id === id) {
-        //                 return { ...item, quantity: item.quantity - 1 };
-        //             }
-        //             return item;
-        //         });
-        //         setDispensa(updatedDispensa);
+    const handleMinus = async (ingredientId) => {
+        setDispensa((prevDispensa) => {
+            const updatedDispensa = [];
+            const updatedNoQuantity = [];
 
-        //         // Invia la richiesta di aggiornamento al backend
-        //         const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
-        //         if (!response.data) {
-        //             console.log("Errore nell'aggiornamento della quantità nel backend");
-        //         }
-        //     } catch (error) {
-        //         console.log(error);
-        //     }
-        // }
+            prevDispensa.forEach(item => {
+                if (item._id === ingredientId) {
+                    if (item.quantity - 1 > 0) {
+                        updatedDispensa.push({ ...item, quantity: item.quantity - 1 });
+                    } else {
+                        updatedNoQuantity.push({ ...item, quantity: 0 }); // Spostiamo in noQuantity
+                    }
+                } else {
+                    updatedDispensa.push(item);
+                }
+            });
+
+            setNoQuantity((prevNoQuantity) => [...prevNoQuantity, ...updatedNoQuantity]);
+
+            return updatedDispensa;
+        });
     };
 
-    const handlePlus = async (id) => {
-        // try {
-        //     // Aggiorna immediatamente la quantità nel frontend
-        //     const updatedDispensa = dispensa.map(item => {
-        //         if (item.id === id) {
-        //             return { ...item, quantity: item.quantity + 1 };
-        //         }
-        //         return item;
-        //     });
-        //     setDispensa(updatedDispensa);
 
-        //     // Invia la richiesta di aggiornamento al backend
-        //     const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
-        //     if (!response.data) {
-        //         console.log("Errore nell'aggiornamento della quantità nel backend");
-        //     }
-        // } catch (error) {
-        //     console.log(error);
-        // }
+    const handlePlus = async (ingredientId) => {
+        setDispensa((prevDispensa) => {
+            return prevDispensa.map(item =>
+                item._id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
+            );
+        });
     };
+
+    const handleSave = async () => {
+        try {
+            const response = await axios.post(`http://192.168.1.89:8080/updateDispensa/${username}/${categoria}`, {
+                dispensa, noquantity
+            })
+            if (response.data != "ok") {
+                console.log("problema")
+            }
+        }
+        catch (e) {
+            console.log(e)
+        }
+        finally {
+            setIsLoading(false)
+        }
+    }
 
     const handleMeal = async (item) => {
         try {
@@ -172,7 +180,7 @@ function Category() {
                                         </View>
                                         <View>
                                             <View style={styles.buttonContainerAddMinus}>
-                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item._id)}>
                                                     <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                                 <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
@@ -201,10 +209,10 @@ function Category() {
                                                         }}
                                                     />
                                                     <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                        <Text style={{ color: "black" }}>1</Text>
+                                                        <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                     </View>
                                                 </View>
-                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item._id)}>
                                                     <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                             </View>

@@ -176,7 +176,7 @@ const styles = StyleSheet.create({
         color: "black",
         fontFamily: "Poppins_400Regular",
         marginVertical: 5,
-        fontSize: 18,
+        fontSize: 16,
     },
     descriptionText: {
         color: "black",

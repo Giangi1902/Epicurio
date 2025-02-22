@@ -17,20 +17,10 @@ const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
 function Checklist() {
     const [username, setUsername] = useState('');
-    const [ingredients, setIngredients] = useState([]);
-    const [prices, setPrices] = useState([]);
-    const [rotation] = useState(new Animated.Value(0));
-    const [isPageVisible, setIsPageVisible] = useState(false);
     const [allIngredients, setAllIngredients] = useState([]);
-    const [totalPrice, setTotalPrice] = useState(0);
-    const [selectedIngredients, setSelectedIngredients] = useState([]);
-    const [quantities, setQuantities] = useState([]);
     const [isLoading, setIsLoading] = useState(false)
-    const [searchText, setSearchText] = useState('');
     const [filteredIngredients, setFilteredIngredients] = useState();
     const [usingAsyncStorage, setUsingAsyncStorage] = useState(false);
-    const [currentIndex, setCurrentIndex] = useState(-1);
-
 
     const [checklist, setChecklist] = useState([])
     const { theme } = useTheme();
@@ -48,12 +38,6 @@ function Checklist() {
         };
         fetchUsername();
     }, []);
-
-    useFocusEffect(
-        useCallback(() => {
-            handleIngredients();
-        }, [username])
-    );
 
     useEffect(() => {
         setFilteredIngredients(allIngredients)
@@ -82,148 +66,107 @@ function Checklist() {
         }
     }, [checklist, username]);
 
+    useEffect(() => {
+        handleSave()
+    }, [checklist])
 
-    const handleIngredients = async () => {
-        // if (username !== "") {
-        //     setIsLoading(true);
-        //     try {
-        //         const response = await axios.get(`http://192.168.1.89:8080/getIngredients/${username}`);
-        //         if (response.data !== "no") {
-        //             setIngredients(response.data);
-        //             await AsyncStorage.setItem("ingredients", JSON.stringify(response.data));
-        //             setUsingAsyncStorage(false)
-        //         } else {
-        //             console.log("Nessun ingrediente trovato");
-        //         }
-        //     } catch (error) {
-        //         console.log(error);
-        //         const storedIngredients = await AsyncStorage.getItem("ingredients");
-        //         if (storedIngredients !== null) {
-        //             setIngredients(JSON.parse(storedIngredients));
-        //             setUsingAsyncStorage(true)
-        //         }
-        //     } finally {
-        //         setIsLoading(false);
-        //     }
-        // }
+    const handleAddIngredient = (ingredientId) => {
+        setChecklist((prevChecklist) => {
+            const existingIndex = prevChecklist.findIndex(item => item.id === ingredientId);
+
+            if (existingIndex !== -1) {
+                // Se l'ingrediente esiste, incrementa la quantità
+                return prevChecklist.map(item =>
+                    item.id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
+                );
+            } else {
+                // Se non esiste, lo aggiunge con quantità 1
+                return [...prevChecklist, { id: ingredientId, quantity: 1 }];
+            }
+        });
     };
 
-    const handlePrices = async (ingredients) => {
-        // setIsLoading(true);
-        // if (ingredients.length > 0) {
-        //     try {
-        //         const response = await axios.get(`http://192.168.1.89:8080/getCosts/${username}`);
-        //         setPrices(response.data);
-        //         await AsyncStorage.setItem("prices", JSON.stringify(response.data));
-        //         setUsingAsyncStorage(false)
-        //     } catch (error) {
-        //         console.log(error);
-        //         const storedPrices = await AsyncStorage.getItem("prices");
-        //         if (storedPrices !== null) {
-        //             setPrices(JSON.parse(storedPrices));
-        //             setUsingAsyncStorage(true)
-        //         }
-        //     } finally {
-        //         setIsLoading(false);
-        //     }
-        // }
+
+    const handleRemoveIngredient = (ingredientId) => {
+        setChecklist((prevChecklist) => {
+            return prevChecklist
+                .map(item =>
+                    item.id === ingredientId
+                        ? { ...item, quantity: item.quantity - 1 }
+                        : item
+                )
+                .filter(item => item.quantity > 0); // Rimuove l'ingrediente se la quantità è 0
+        });
     };
-
-    const handleMainButtonAnimation = () => {
-        // const toValue = isPageVisible ? 0 : 1;
-        // Animated.timing(rotation, { toValue, duration: 500, easing: Easing.linear, useNativeDriver: true }).start();
-        // setIsPageVisible(!isPageVisible);
-    };
-
-    const handleAddIngredient = async (ingredientId) => {
-        // const existingIndex = quantities.findIndex(item => item.id === ingredientId);
-        // if (existingIndex !== -1) {
-        //     const updatedQuantities = [...quantities];
-        //     updatedQuantities[existingIndex].quantity++;
-        //     setQuantities(updatedQuantities);
-        // } else {
-        //     setQuantities([...quantities, { id: ingredientId, quantity: 1 }]);
-        // }
-        // setSelectedIngredients([...selectedIngredients, ingredientId]);
-    }
-
-    const handleRemoveIngredient = async (ingredientId) => {
-        // const existingIndex = quantities.findIndex(item => item.id === ingredientId);
-        // if (existingIndex !== -1 && quantities[existingIndex].quantity > 0) {
-        //     const updatedQuantities = [...quantities];
-        //     updatedQuantities[existingIndex].quantity--;
-        //     setQuantities(updatedQuantities);
-        // }
-    }
 
     const handleSave = async () => {
-        // setIsLoading(true)
-        // try {
-        //     const newQuantities = quantities.map(item => ({ id: item.id, quantity: 0 }));
-        //     const response = await axios.post(`http://192.168.1.89:8080/addIngredients`, {
-        //         username, quantities
-        //     })
-        //     if (response.data == "ok") {
-        //         handleIngredients();
-        //         calculateTotalPrice();
-        //         setIsPageVisible(false)
-        //         setQuantities(newQuantities);
-        //         setSearchText("")
-        //     }
-        // }
-        // catch (e) {
-        //     console.log(e)
-        // }
-        // finally {
-        //     setIsLoading(false)
-        // }
+        try {
+            const response = await axios.post(`http://192.168.1.89:8080/updateChecklist/${username}`, {
+                checklist
+            })
+            if (response.data != "ok") {
+                console.log("problema")
+            }
+        }
+        catch (e) {
+            console.log(e)
+        }
+        finally {
+            setIsLoading(false)
+        }
     }
 
-    const handleAddChecklist = async (ingredientId) => {
-        // setIsLoading(true);
-        // const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
-        // if (existingIndex !== -1) {
-        //     const updatedQuantities = [...ingredients];
-        //     updatedQuantities[existingIndex].quantity++;
-        //     setIngredients(updatedQuantities);
-        //     calculateTotalPrice();
-        //     await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
-        //     try {
-        //         const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
-        //         if (response.data == "no") {
-        //             console.log("Problema nell'aggiunta dell'ingrediente in db");
-        //         }
-        //     } catch (e) {
-        //         console.log(e);
-        //     } finally {
-        //         setIsLoading(false);
-        //     }
-        // }
+    const handleAddChecklist = (ingredientId) => {
+        // Aggiorna `filteredData` aumentando `quantity` dell'ingrediente selezionato
+        setFilteredData((prevFilteredData) =>
+            prevFilteredData.map(item =>
+                item._id === ingredientId ? { ...item, quantity: (item.quantity || 0) + 1 } : item
+            )
+        );
+
+        // Aggiorna `checklist`
+        setChecklist((prevChecklist) => {
+            const ingredient = filteredData.find(item => item._id === ingredientId);
+            if (!ingredient) return prevChecklist; // Se non trovato, non fare nulla
+
+            const existingIndex = prevChecklist.findIndex(item => item.id === ingredientId);
+
+            if (existingIndex !== -1) {
+                // Se l'ingrediente esiste già, incrementa la quantità
+                return prevChecklist.map(item =>
+                    item.id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
+                );
+            } else {
+                return [...prevChecklist, { ...ingredient, id: ingredient._id, quantity: 1, checked: false }];
+            }
+        });
     };
 
-    const handleRemoveChecklist = async (ingredientId) => {
-        // setIsLoading(true);
-        // const existingIndex = ingredients.findIndex(item => item.id === ingredientId);
 
-        // let updatedQuantities;
+    const handleRemoveChecklist = (ingredientId) => {
+        let maxRemovableQuantity = 0;
 
-        // if (existingIndex !== -1 && ingredients[existingIndex].quantity > 0) {
-        //     updatedQuantities = [...ingredients];
-        //     updatedQuantities[existingIndex].quantity--;
-        //     setIngredients(updatedQuantities);
-        //     calculateTotalPrice();
-        //     await AsyncStorage.setItem("ingredients", JSON.stringify(updatedQuantities));
-        // }
-        // try {
-        //     const response = await axios.post(`http://192.168.1.89:8080/updateIngredientFromChecklist/${username}`, { updatedQuantities });
-        //     if (response.data === "no") {
-        //         console.log("problema nella rimozione dell'elemento");
-        //     }
-        // } catch (e) {
-        //     console.log(e);
-        // } finally {
-        //     setIsLoading(false);
-        // }
+        // Prima otteniamo la quantità attuale dell'ingrediente in `filteredData`
+        setFilteredData((prevFilteredData) => {
+            return prevFilteredData.map(item => {
+                if (item._id === ingredientId) {
+                    maxRemovableQuantity = item.quantity || 0; // Salva la quantità originale
+                    return { ...item, quantity: Math.max((item.quantity || 0) - 1, 0) };
+                }
+                return item;
+            });
+        });
+
+        // Ora aggiorniamo `checklist`, riducendo la quantità al massimo di quella registrata in `maxRemovableQuantity`
+        setChecklist((prevChecklist) =>
+            prevChecklist
+                .map(item =>
+                    item.id === ingredientId
+                        ? { ...item, quantity: Math.max(item.quantity - 1, item.quantity - maxRemovableQuantity) }
+                        : item
+                )
+                .filter(item => item.quantity > 0) // Rimuove l'elemento se `quantity` diventa 0
+        );
     };
 
     const handleDispensa = async () => {
@@ -242,14 +185,6 @@ function Checklist() {
             setIsLoading(false);
         }
     };
-
-    // const handleSearch = (text) => {
-    // setSearchText(text);
-    // const filtered = allIngredients.filter(ingredient =>
-    //     ingredient.nome.toLowerCase().includes(text.toLowerCase())
-    // );
-    // setFilteredIngredients(filtered);
-    // };
 
     useEffect(() => {
         getChecklist()
@@ -288,9 +223,9 @@ function Checklist() {
         }
     };
 
+
     //TODO: aggiungere controllo se non c'è nulla in lista della spesa
     //TODO: quando poi ritorna eliminando la query di ricerca, aggiorna le quantità in lista della spesa
-    //TODO: funzione per aggiungere gli item.checked === true in dispensa
     return (
         <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
@@ -335,7 +270,7 @@ function Checklist() {
 
                                                 <View>
                                                     <View style={styles.buttonContainerAddMinus}>
-                                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(item.id)}>
                                                             <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                         </TouchableOpacity>
                                                         <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
@@ -367,7 +302,7 @@ function Checklist() {
                                                                 <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                             </View>
                                                         </View>
-                                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(item.id)}>
                                                             <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                         </TouchableOpacity>
                                                     </View>
@@ -396,7 +331,7 @@ function Checklist() {
                                             </View>
                                             <View>
                                                 <View style={styles.buttonContainerAddMinus}>
-                                                    <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                    <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveChecklist(item._id)}>
                                                         <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                     </TouchableOpacity>
                                                     <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
@@ -425,10 +360,10 @@ function Checklist() {
                                                             }}
                                                         />
                                                         <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                            <Text style={{ color: "black" }}>0</Text>
+                                                            <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                         </View>
                                                     </View>
-                                                    <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                    <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddChecklist(item._id)}>
                                                         <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                     </TouchableOpacity>
                                                 </View>
@@ -477,11 +412,6 @@ const styles = StyleSheet.create({
         height: 15,
         resizeMode: 'contain'
     },
-    iconBottom: {
-        width: 15,
-        height: 15,
-        resizeMode: 'contain'
-    },
     itemTextContainer: {
         flexDirection: 'row',
         justifyContent: 'space-between',
@@ -494,17 +424,9 @@ const styles = StyleSheet.create({
         fontSize: 16,
         padding: 15
     },
-    itemPrice: {
-        fontSize: 14
-    },
     checkedText: {
         textDecorationLine: 'line-through',
         color: 'gray',
-    },
-    mainButton: {
-        position: 'relative',
-        bottom: 20,
-        zIndex: 1,
     },
     buttonContainer: {
         width: 50,
@@ -542,10 +464,6 @@ const styles = StyleSheet.create({
         marginLeft: 8,
         alignSelf: 'flex-end',
     },
-    buttonText: {
-        color: 'white',
-        fontSize: 18,
-    },
     cardAddIngredient: {
         borderRadius: 10,
         backgroundColor: '#fff',
@@ -559,45 +477,6 @@ const styles = StyleSheet.create({
         padding: 15,
         marginBottom: 40,
     },
-    quantityNotification: {
-        position: 'absolute',
-        top: -5,
-        right: -5,
-        backgroundColor: '#9B0800',
-        borderRadius: 10,
-        paddingHorizontal: 5,
-        paddingVertical: 2,
-    },
-    quantityText: {
-        color: 'white',
-        fontSize: 12,
-    },
-    input: {
-        height: 40,
-        width: '100%',
-        borderColor: 'black',
-        borderWidth: 2,
-        marginBottom: 20,
-        paddingHorizontal: 20,
-        backgroundColor: "white",
-        borderRadius: 15,
-        fontFamily: "MyriadPro-Regular"
-    },
-    pageContainer: {
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-    },
-    titleContainer: {
-        alignItems: 'center',
-        paddingTop: 20,
-    },
-    separator: {
-        width: '95%',
-        height: 1,
-        backgroundColor: 'black',
-        marginVertical: 10,
-    },
     separateCategory: {
         height: 1,
         backgroundColor: 'gray',
@@ -609,56 +488,6 @@ const styles = StyleSheet.create({
         marginTop: 15,
         alignSelf: "center"
     },
-    totalContainer: {
-        backgroundColor: '#407F40',
-        padding: 10,
-        width: 100,
-        borderRadius: 15,
-        marginBottom: 20
-    },
-    checkContainer: {
-        width: 50,
-        height: 50,
-        backgroundColor: '#407F40',
-        justifyContent: 'center',
-        alignItems: 'center',
-        borderRadius: 25,
-    },
-    bottomContainer: {
-        bottom: 20,
-        left: 20,
-        padding: 10,
-        borderRadius: 5,
-    },
-    totalText: {
-        fontSize: 18,
-        color: 'white',
-        textAlign: "center"
-    },
-    saveButton: {
-        backgroundColor: 'blue',
-        padding: 10,
-        margin: 20,
-        borderRadius: 5,
-        alignItems: 'center',
-    },
-    saveButtonText: {
-        color: 'white',
-        fontSize: 16,
-    },
-    lastItemContainer: {
-        marginBottom: 80,
-    },
-    loadingContainer: {
-        width: 30,
-        height: 30,
-        justifyContent: 'center',
-        alignItems: 'center',
-        borderRadius: 15,
-    },
-    text: {
-        fontFamily: "MyriadPro-Regular"
-    }
 });
 
 export default Checklist;

@@ -364,29 +364,71 @@ router.get("/getAllIngredients/:index", async (req, res) => {
     }
 });
 
-router.post("/addIngredients", async (req, res) => {
-    const { username, quantities } = req.body;
+router.post("/updateChecklist/:username", async (req, res) => {
+    const { username } = req.params
+    const { checklist } = req.body;
     try {
         const user = await User.findOne({ username: username });
-        if (user) {
-            for (const ingredient of quantities) {
-                const id = ingredient.id;
-                const quantity = parseInt(ingredient.quantity);
-                const existingIngredientIndex = user.ingredienti.findIndex(item => item.id === id);
-
-                if (existingIngredientIndex !== -1) {
-                    await User.updateOne({ username: username, 'ingredienti.id': id }, { $inc: { 'ingredienti.$.quantity': quantity } });
-                }
-                else {
-                    user.ingredienti.push({ id: id, quantity: quantity });
-                }
-            }
-            await user.save();
-            res.json("ok");
-        }
+        user.checklist = checklist; // Supponiamo che checklist sia nel formato corretto
+        await user.save();
+        res.json("ok")
     }
     catch (e) {
         console.log(e);
+    }
+});
+
+router.post("/updateDispensa/:username/:categoria", async (req, res) => {
+    const { username, categoria } = req.params;
+    const { dispensa, noquantity } = req.body;
+
+    try {
+        const user = await User.findOne({ username: username });
+        const pantryUser = await Pantry.findOne({ idUtente: user._id.toString() });
+        let pantryIngredients = pantryUser.idIngredienti; // [{ id, quantity }]
+
+        const categoryIngredients = await Ingredient.find({
+            _id: { $in: pantryIngredients.map(item => item.id) },
+            categoria: new RegExp(`^${categoria}$`, "i")
+        });
+
+        const categoryIngredientIds = new Set(categoryIngredients.map(ing => ing._id.toString()));
+        const noQuantityIds = new Set(noquantity.map(item => item._id.toString()));
+
+        let updatedPantry = pantryIngredients
+            .map(item => {
+                const itemIdStr = item.id.toString();
+                
+                if (noQuantityIds.has(itemIdStr)) {
+                    return null; // Se è in noquantity, lo rimuoviamo
+                }
+
+                if (categoryIngredientIds.has(itemIdStr)) {
+                    const dispensaItem = dispensa.find(d => d._id.toString() === itemIdStr);
+                    if (dispensaItem) {
+                        return { id: itemIdStr, quantity: dispensaItem.quantity }; // Ora prende sempre la quantità aggiornata
+                    }
+                }
+                return item; 
+            })
+            .filter(item => item !== null); // Rimuove gli ingredienti con quantità 0
+
+        dispensa.forEach(dispensaItem => {
+            const dispensaItemIdStr = dispensaItem._id.toString();
+            if (!updatedPantry.some(item => item.id === dispensaItemIdStr)) {
+                if (categoryIngredientIds.has(dispensaItemIdStr)) {
+                    updatedPantry.push({ id: dispensaItemIdStr, quantity: dispensaItem.quantity });
+                }
+            }
+        });
+
+        pantryUser.idIngredienti = updatedPantry;
+        await pantryUser.save();
+
+        res.json("ok");
+    } catch (e) {
+        console.error("Errore nell'aggiornamento della dispensa:", e);
+        res.status(500).json({ error: "Errore del server" });
     }
 });
 
@@ -467,6 +509,7 @@ router.post("/updateCheckbox/:username/:ingredientId", async (req, res) => {
         const user = await User.findOne({ username: username });
         if (user) {
             const ingredient = user.checklist.find(ingredient => ingredient.id === ingredientId);
+
             if (ingredient) {
                 await User.findOneAndUpdate({ username: username, 'checklist.id': ingredientId }, { $set: { 'checklist.$.checked': !ingredient.checked } });
                 res.json("ok")
@@ -485,7 +528,7 @@ router.post("/addIngredientDispensa/:username", async (req, res) => {
     let { checklist } = req.body;
     try {
         const user = await User.findOne({ username: username });
-        const pantryUser = await Pantry.findOne({idUtente: user._id.toString()})
+        const pantryUser = await Pantry.findOne({ idUtente: user._id.toString() })
         if (user) {
             for (const ingrediente of checklist) {
                 if (ingrediente.checked === true) {
@@ -550,27 +593,47 @@ router.get("/getDispensa/:username", async (req, res) => {
 })
 
 router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
-    const { username, categoria } = req.params
+    const { username, categoria } = req.params;
     try {
-        const user = await User.findOne({ username: username })
-        if (user) {
-            //confrontarlo con la collezione ingredienti
-            //prendere solo quelli della categoria
-            //ritornare come primi gli ingredienti che ha in dispensa e poi quelli che non ha
-            const pantryUser = await Pantry.findOne({ idUtente: user.id });
-            const ingredientIds = pantryUser.idIngredienti;
-            const ingredientsInPantry = await Ingredient.find({
-                _id: { $in: ingredientIds },
-                categoria: new RegExp(`^${categoria}$`, "i")
-            });
-            res.json(ingredientsInPantry)
+        const user = await User.findOne({ username: username });
+        if (!user) {
+            return res.status(404).json({ error: "Utente non trovato" });
         }
-    }
-    catch (e) {
-        console.log(e)
-    }
-})
 
+        // Trova la dispensa dell'utente
+        const pantryUser = await Pantry.findOne({ idUtente: user._id.toString() });
+        if (!pantryUser) {
+            return res.status(404).json({ error: "Dispensa non trovata" });
+        }
+
+        // Estrarre solo gli ingredienti presenti in dispensa con quantità
+        const pantryIngredientsMap = new Map();
+        pantryUser.idIngredienti.forEach(item => {
+            pantryIngredientsMap.set(item.id.toString(), item.quantity);
+        });
+
+        // Trova gli ingredienti nella categoria richiesta che l'utente ha in dispensa
+        const ingredientsInPantry = await Ingredient.find({
+            _id: { $in: Array.from(pantryIngredientsMap.keys()) }, // Filtra solo gli ingredienti che l'utente possiede
+            categoria: new RegExp(`^${categoria}$`, "i")
+        });
+
+        // Mappa i risultati per includere la quantità
+        const result = ingredientsInPantry.map(ingredient => ({
+            ...ingredient.toObject(),
+            quantity: pantryIngredientsMap.get(ingredient._id.toString()) || 0
+        }));
+
+        res.json(result);
+    } catch (e) {
+        console.error("Errore nel recupero degli ingredienti per categoria:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
+
+
+//TODO: quantity confrontato con la dispensa dell'utente
 router.get("/searchIngredient", async (req, res) => {
     const { query } = req.query; // Prendiamo la parola cercata dai query params
 
@@ -584,7 +647,13 @@ router.get("/searchIngredient", async (req, res) => {
         // Ordiniamo i risultati alfabeticamente
         results.sort((a, b) => a.nome.localeCompare(b.nome));
 
-        res.json(results);
+        // Aggiungiamo il campo `quantity` con valore iniziale 0 a ogni ingrediente
+        const resultsWithQuantity = results.map(ingredient => ({
+            ...ingredient.toObject(), // Convertiamo il documento Mongoose in oggetto JS
+            quantity: 0
+        }));
+
+        res.json(resultsWithQuantity);
     } catch (e) {
         console.error("Errore nella ricerca:", e);
         res.status(500).json({ error: "Errore del server" });
@@ -662,21 +731,32 @@ router.get("/searchCategoryMeals/:categoria", async (req, res) => {
 });
 
 router.get("/categoryAllIngredients/:categoria/:index", async (req, res) => {
-    const { categoria, index } = req.params
+    const { categoria, index } = req.params;
     try {
-        //confrontarlo con la collezione ingredienti
-        //prendere solo quelli della categoria
-        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") })
+        // Trova gli ingredienti della categoria
+        const ingredients = await Ingredient.find({ categoria: new RegExp(`^${categoria}$`, "i") });
+
+        // Ordina gli ingredienti per nome
         ingredients.sort((a, b) => a.nome.localeCompare(b.nome));
+
+        // Paginazione: 25 elementi per pagina
         const startIndex = parseInt(index) * 25;
         const endIndex = startIndex + 25;
         const chunkedArray = ingredients.slice(startIndex, endIndex);
-        res.json(chunkedArray)
+
+        // Aggiungi il campo quantity = 0 a ogni ingrediente
+        const modifiedArray = chunkedArray.map(ingredient => ({
+            ...ingredient.toObject(), // Converte il documento Mongoose in oggetto normale
+            quantity: 0
+        }));
+
+        res.json(modifiedArray);
+    } catch (e) {
+        console.error("Errore nel recupero degli ingredienti:", e);
+        res.status(500).json({ error: "Errore del server" });
     }
-    catch (e) {
-        console.log(e)
-    }
-})
+});
+
 
 router.get("/categoryAllMeals/:categoria/:index", async (req, res) => {
     const { categoria, index } = req.params
@@ -744,7 +824,6 @@ router.get("/getChecklist/:username", async (req, res) => {
         res.status(500).json({ error: "Errore del server" });
     }
 });
-
 
 router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;

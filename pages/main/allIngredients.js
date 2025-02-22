@@ -58,50 +58,57 @@ function AllIngredients() {
         }
     }
 
-    const handleMinus = async (id) => {
-        // Verifica che la quantità da sottrarre sia maggiore o uguale a zero
-        // const itemToUpdate = dispensa.find(item => item.id === id);
-        // if (itemToUpdate?.quantity >= 1) {
-        //     try {
-        //         // Aggiorna immediatamente la quantità nel frontend
-        //         const updatedDispensa = dispensa.map(item => {
-        //             if (item.id === id) {
-        //                 return { ...item, quantity: item.quantity - 1 };
-        //             }
-        //             return item;
-        //         });
-        //         setDispensa(updatedDispensa);
+    const handleMinus = async (ingredientId) => {
+        let maxRemovableQuantity = 0;
 
-        //         // Invia la richiesta di aggiornamento al backend
-        //         const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
-        //         if (!response.data) {
-        //             console.log("Errore nell'aggiornamento della quantità nel backend");
-        //         }
-        //     } catch (error) {
-        //         console.log(error);
-        //     }
-        // }
+        // Prima otteniamo la quantità attuale dell'ingrediente in `filteredData`
+        setFilteredData((prevFilteredData) => {
+            return prevFilteredData.map(item => {
+                if (item.id === ingredientId) {
+                    maxRemovableQuantity = item.quantity || 0; // Salva la quantità originale
+                    return { ...item, quantity: Math.max((item.quantity || 0) - 1, 0) };
+                }
+                return item;
+            });
+        });
+
+        // Ora aggiorniamo `checklist`, riducendo la quantità al massimo di quella registrata in `maxRemovableQuantity`
+        setIngredients((prevChecklist) =>
+            prevChecklist
+                .map(item =>
+                    item.id === ingredientId
+                        ? { ...item, quantity: Math.max(item.quantity - 1, item.quantity - maxRemovableQuantity) }
+                        : item
+                )
+        );
     };
 
-    const handlePlus = async (id) => {
-        // try {
-        //     // Aggiorna immediatamente la quantità nel frontend
-        //     const updatedDispensa = dispensa.map(item => {
-        //         if (item.id === id) {
-        //             return { ...item, quantity: item.quantity + 1 };
-        //         }
-        //         return item;
-        //     });
-        //     setDispensa(updatedDispensa);
+    const handlePlus = async (ingredientId) => {
+        // Aggiorna `filteredData` aumentando `quantity` dell'ingrediente selezionato
+        setFilteredData((prevFilteredData) =>
+            prevFilteredData.map(item =>
+                item.id === ingredientId ? { ...item, quantity: (item.quantity || 0) + 1 } : item
+            )
+        );
 
-        //     // Invia la richiesta di aggiornamento al backend
-        //     const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
-        //     if (!response.data) {
-        //         console.log("Errore nell'aggiornamento della quantità nel backend");
-        //     }
-        // } catch (error) {
-        //     console.log(error);
-        // }
+        console.log(filteredData)
+
+        // Aggiorna `checklist`
+        setIngredients((prevChecklist) => {
+            const ingredient = filteredData.find(item => item._id === ingredientId);
+            if (!ingredient) return prevChecklist; // Se non trovato, non fare nulla
+
+            const existingIndex = prevChecklist.findIndex(item => item.id === ingredientId);
+
+            if (existingIndex !== -1) {
+                // Se l'ingrediente esiste già, incrementa la quantità
+                return prevChecklist.map(item =>
+                    item.id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
+                );
+            } else {
+                return [...prevChecklist, { ...ingredient, id: ingredient._id, quantity: 1, checked: false }];
+            }
+        });
     };
 
     const loadMoreIngredients = async () => {
@@ -181,7 +188,7 @@ function AllIngredients() {
                                         </View>
                                         <View>
                                             <View style={styles.buttonContainerAddMinus}>
-                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item._id)}>
                                                     <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                                 <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
@@ -210,10 +217,10 @@ function AllIngredients() {
                                                         }}
                                                     />
                                                     <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                        <Text style={{ color: "black" }}>1</Text>
+                                                        <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                     </View>
                                                 </View>
-                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item._id)}>
                                                     <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                             </View>
@@ -232,7 +239,7 @@ function AllIngredients() {
                                         </View>
                                         <View>
                                             <View style={styles.buttonContainerAddMinus}>
-                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item._id)}>
                                                     <Image source={require('../../images/minus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                                 <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
@@ -264,7 +271,7 @@ function AllIngredients() {
                                                         <Text style={{ color: "black" }}>1</Text>
                                                     </View>
                                                 </View>
-                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+                                                <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item._id)}>
                                                     <Image source={require('../../images/plus.png')} style={styles.icon} />
                                                 </TouchableOpacity>
                                             </View>
