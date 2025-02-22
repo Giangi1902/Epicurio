@@ -64,7 +64,7 @@ function AllIngredients() {
         // Prima otteniamo la quantità attuale dell'ingrediente in `filteredData`
         setFilteredData((prevFilteredData) => {
             return prevFilteredData.map(item => {
-                if (item.id === ingredientId) {
+                if (item._id === ingredientId) {
                     maxRemovableQuantity = item.quantity || 0; // Salva la quantità originale
                     return { ...item, quantity: Math.max((item.quantity || 0) - 1, 0) };
                 }
@@ -76,7 +76,7 @@ function AllIngredients() {
         setIngredients((prevChecklist) =>
             prevChecklist
                 .map(item =>
-                    item.id === ingredientId
+                    item._id === ingredientId
                         ? { ...item, quantity: Math.max(item.quantity - 1, item.quantity - maxRemovableQuantity) }
                         : item
                 )
@@ -87,23 +87,20 @@ function AllIngredients() {
         // Aggiorna `filteredData` aumentando `quantity` dell'ingrediente selezionato
         setFilteredData((prevFilteredData) =>
             prevFilteredData.map(item =>
-                item.id === ingredientId ? { ...item, quantity: (item.quantity || 0) + 1 } : item
+                item._id === ingredientId ? { ...item, quantity: (item.quantity || 0) + 1 } : item
             )
         );
 
-        console.log(filteredData)
-
-        // Aggiorna `checklist`
         setIngredients((prevChecklist) => {
-            const ingredient = filteredData.find(item => item._id === ingredientId);
+            const ingredient = ingredients.find(item => item._id === ingredientId);
             if (!ingredient) return prevChecklist; // Se non trovato, non fare nulla
 
-            const existingIndex = prevChecklist.findIndex(item => item.id === ingredientId);
+            const existingIndex = prevChecklist.findIndex(item => item._id === ingredientId);
 
             if (existingIndex !== -1) {
                 // Se l'ingrediente esiste già, incrementa la quantità
                 return prevChecklist.map(item =>
-                    item.id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
+                    item._id === ingredientId ? { ...item, quantity: item.quantity + 1 } : item
                 );
             } else {
                 return [...prevChecklist, { ...ingredient, id: ingredient._id, quantity: 1, checked: false }];
@@ -141,15 +138,36 @@ function AllIngredients() {
 
     const handleSearch = async (searchQuery) => {
         try {
-            const response = await axios.get(`http://192.168.1.89:8080/searchCategoryIngredient/${categoria}/?query=${searchQuery}`);
+            const response = await axios.get(`http://192.168.1.89:8080/searchCategoryIngredient/${categoria}/${username}?query=${searchQuery}`);
             setFilteredData(response.data);
         } catch (error) {
             console.log("Errore nella ricerca:", error);
         }
     };
 
-    //TODO: visualizzare tutti gli ingredienti
-    //TODO: non funzionano i tasti delle quantità
+    useEffect(() => {
+        handleSave()
+    }, [ingredients])
+
+    const handleSave = async () => {
+        try {
+            // Filtra gli ingredienti per includere solo quelli con quantità diversa da 0
+            const filteredIngredients = ingredients.filter(item => item.quantity !== 0);
+            console.log(filteredIngredients)
+            const response = await axios.post(`http://192.168.1.89:8080/addDispensa/${username}`, {
+                ingredients: filteredIngredients
+            });
+    
+            if (response.data !== "ok") {
+                console.log("Errore nell'aggiornamento della dispensa");
+            }
+        } catch (e) {
+            console.log("Errore nella richiesta:", e);
+        }
+    };
+    
+
+    //TODO: eliminare handleminus (inutile, toglie gli ingredienti dalla dispensa, non c'entra qui)
     return (
         <View style={styles.container}>
             <DiagonalBackground
@@ -268,7 +286,7 @@ function AllIngredients() {
                                                         }}
                                                     />
                                                     <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                        <Text style={{ color: "black" }}>1</Text>
+                                                        <Text style={{ color: "black" }}>{item.quantity}</Text>
                                                     </View>
                                                 </View>
                                                 <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item._id)}>

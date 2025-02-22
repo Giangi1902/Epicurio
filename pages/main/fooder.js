@@ -6,6 +6,7 @@ import { normalize } from "./home";
 import axios from "axios";
 import { useNavigation } from '@react-navigation/native';
 import { useTheme } from "../../themeContext";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
@@ -16,17 +17,36 @@ const TinderSwipe = () => {
   const [isExpanded, setIsExpanded] = useState(false);
   const { theme } = useTheme();
   const navigation = useNavigation()
+  const [username, setUsername] = useState("")
 
   useEffect(() => {
-    handleCards();
+    const fetchUsername = async () => {
+      try {
+        const storedUsername = await AsyncStorage.getItem("username");
+        if (storedUsername !== null) {
+          setUsername(storedUsername);
+        }
+      } catch (error) {
+        console.log(error);
+      }
+    };
+    fetchUsername();
   }, []);
+
+  useEffect(() => {
+    handleCards()
+  }, [])
+
+  useEffect(() => {
+    if (images.length - currentIndex <= 5 && !loading) {
+      handleCards();
+    }
+  }, [currentIndex, images.length, loading]);
 
   const handleCards = async () => {
     try {
       const response = await axios.get(`http://192.168.1.89:8080/getCards`);
-      if (response.data !== "no") {
-        setImages(response.data);
-      }
+      setImages(prevImages => [...prevImages, ...response.data]); // Aggiunge le nuove card in coda
     } catch (error) {
       console.error("Error fetching cards:", error);
     } finally {
@@ -71,6 +91,26 @@ const TinderSwipe = () => {
       console.log("Errore nella ricerca:", error);
     }
   };
+
+  const handleSwipeLeft = async(cardIndex) => {
+    try{
+      const item = images[cardIndex]
+      const response = await axios.post(`http://192.168.1.89:8080/swipeLeft/${username}`, {item})
+    }
+    catch(e){
+      console.log(e)
+    }
+  }
+
+  const handleSwipeRight = async(cardIndex) => {
+    try{
+      const item = images[cardIndex]
+      const response = await axios.post(`http://192.168.1.89:8080/swipeRight/${username}`, {item})
+    }
+    catch(e){
+      console.log(e)
+    }
+  }
 
   //TODO: aggiungere logica destra e sinistra
   //TODO: prendere altre immagini quando ne mancano 5 
@@ -154,8 +194,8 @@ const TinderSwipe = () => {
 
                   )}
                   onSwiped={handleSwiped}
-                  onSwipedLeft={(cardIndex) => console.log("Swiped left", cardIndex)}
-                  onSwipedRight={(cardIndex) => console.log("Swiped right", cardIndex)}
+                  onSwipedLeft={(cardIndex) => handleSwipeLeft(cardIndex)}
+                  onSwipedRight={(cardIndex) => handleSwipeRight(cardIndex)}
                   onTapCard={() => handleTap(images[currentIndex])}
                   backgroundColor="transparent"
                   animateCardOpacity={true}

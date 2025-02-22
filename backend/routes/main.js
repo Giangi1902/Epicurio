@@ -398,7 +398,7 @@ router.post("/updateDispensa/:username/:categoria", async (req, res) => {
         let updatedPantry = pantryIngredients
             .map(item => {
                 const itemIdStr = item.id.toString();
-                
+
                 if (noQuantityIds.has(itemIdStr)) {
                     return null; // Se è in noquantity, lo rimuoviamo
                 }
@@ -409,7 +409,7 @@ router.post("/updateDispensa/:username/:categoria", async (req, res) => {
                         return { id: itemIdStr, quantity: dispensaItem.quantity }; // Ora prende sempre la quantità aggiornata
                     }
                 }
-                return item; 
+                return item;
             })
             .filter(item => item !== null); // Rimuove gli ingredienti con quantità 0
 
@@ -434,14 +434,66 @@ router.post("/updateDispensa/:username/:categoria", async (req, res) => {
 
 router.get("/getCards", async (req, res) => {
     try {
-        //solo 15 ricette
-        const response = await Meal.find().limit(15)
-        res.json(response)
+        const response = await Meal.aggregate([{ $sample: { size: 5 } }]);
+        res.json(response);
+    } catch (e) {
+        console.error("Errore nel recupero delle ricette:", e);
+        res.status(500).json({ error: "Errore del server" });
     }
-    catch (e) {
-        console.log(e)
+});
+
+router.post("/swipeLeft/:username", async (req, res) => {
+    const { username } = req.params;
+    const { item } = req.body;
+
+    try {
+        const user = await User.findOne({ username: username });
+        const meal = await Meal.findOne({ _id: item._id });
+        // Controlliamo se l'utente ha già una valutazione per questo pasto
+        const existingRating = meal.ratings.find(r => r.idUtente.toString() === user._id.toString());
+
+        if (existingRating) {
+            existingRating.valutazione = 0;
+        } else {
+            meal.ratings.push({ idUtente: user._id.toString(), valutazione: 0 });
+        }
+
+        // Salviamo il pasto aggiornato
+        await meal.save();
+
+        res.json("ok");
+    } catch (e) {
+        console.error("Errore nell'aggiornamento della valutazione:", e);
+        res.status(500).json({ error: "Errore del server" });
     }
-})
+});
+
+router.post("/swipeRight/:username", async (req, res) => {
+    const { username } = req.params;
+    const { item } = req.body;
+
+    try {
+        const user = await User.findOne({ username: username });
+        const meal = await Meal.findOne({ _id: item._id });
+        // Controlliamo se l'utente ha già una valutazione per questo pasto
+        const existingRating = meal.ratings.find(r => r.idUtente.toString() === user._id.toString());
+
+        if (existingRating) {
+            existingRating.valutazione = 5;
+        } else {
+            meal.ratings.push({ idUtente: user._id.toString(), valutazione: 5 });
+        }
+
+        // Salviamo il pasto aggiornato
+        await meal.save();
+
+        res.json("ok");
+    } catch (e) {
+        console.error("Errore nell'aggiornamento della valutazione:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
 
 router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;
@@ -672,26 +724,29 @@ router.get("/searchMeal", async (req, res) => {
     }
 })
 
-router.get("/searchCategoryIngredient/:categoria", async (req, res) => {
-    const { categoria } = req.params
-    const { query } = req.query; // Prendiamo la parola cercata dai query params
+router.get("/searchCategoryIngredient/:categoria/:username", async (req, res) => {
+    const { categoria, username } = req.params;
+    const { query } = req.query; // Parola cercata nei query params
 
     try {
-        // Controllo per evitare query vuote o troppo brevi
-        if (!query || query.length < 3) {
-            return res.status(400).json({ error: "La ricerca deve contenere almeno 3 lettere" });
-        }
-
-        // Creiamo una RegExp che cerca ovunque all'interno del nome, case-insensitive
+        const user = await User.findOne({ username: username });
+        const pantryUser = await Pantry.findOne({ idUtente: user._id.toString() });
+        const pantryIngredients = pantryUser ? pantryUser.idIngredienti : [];
+        const pantryMap = new Map(pantryIngredients.map(item => [item.id.toString(), item.quantity]));
         const regex = new RegExp(query, "i");
 
-        // Troviamo gli ingredienti che contengono la parola cercata
         const results = await Ingredient.find({ nome: regex, categoria: new RegExp(`^${categoria}$`, "i") });
 
-        // Ordiniamo i risultati alfabeticamente
-        results.sort((a, b) => a.nome.localeCompare(b.nome));
+        // Aggiungiamo il campo quantity in base alla dispensa dell'utente
+        const formattedResults = results.map(ingredient => ({
+            ...ingredient.toObject(), // Convertiamo il documento Mongoose in un oggetto JS
+            quantity: pantryMap.get(ingredient._id.toString()) || 0 // Se l'ingrediente è in dispensa, usa la sua quantità; altrimenti, metti 0
+        }));
 
-        res.json(results);
+        // Ordiniamo i risultati alfabeticamente
+        formattedResults.sort((a, b) => a.nome.localeCompare(b.nome));
+
+        res.json(formattedResults);
     } catch (e) {
         console.error("Errore nella ricerca:", e);
         res.status(500).json({ error: "Errore del server" });
@@ -824,6 +879,44 @@ router.get("/getChecklist/:username", async (req, res) => {
         res.status(500).json({ error: "Errore del server" });
     }
 });
+
+router.post("/addDispensa/:username", async (req, res) => {
+    const { username } = req.params;
+    const { ingredients } = req.body;
+
+    try {
+        const user = await User.findOne({ username: username });
+        let pantryUser = await Pantry.findOne({ idUtente: user._id.toString() });
+        let pantryIngredients = pantryUser.idIngredienti; // Array [{ id, quantity }]
+
+        // Creiamo una mappa per un accesso più veloce agli ingredienti nella dispensa
+        const pantryMap = new Map(pantryIngredients.map(item => [item.id.toString(), item.quantity]));
+
+        // Iteriamo sugli ingredienti in input e aggiorniamo la dispensa
+        ingredients.forEach(ingredient => {
+            if (ingredient._id && ingredient.quantity) {
+                const ingredientId = ingredient._id.toString();
+
+                if (pantryMap.has(ingredientId)) {
+                    // Se esiste già, sommiamo la quantità
+                    pantryMap.set(ingredientId, pantryMap.get(ingredientId) + ingredient.quantity);
+                } else {
+                    // Se non esiste, aggiungiamo un nuovo ingrediente
+                    pantryMap.set(ingredientId, ingredient.quantity);
+                }
+            }
+        });
+
+        pantryUser.idIngredienti = Array.from(pantryMap, ([id, quantity]) => ({ id, quantity }));
+
+        await pantryUser.save();
+        res.json({ message: "Dispensa aggiornata con successo" });
+    } catch (e) {
+        console.error("Errore nell'aggiornamento della dispensa:", e);
+        res.status(500).json({ error: "Errore del server" });
+    }
+});
+
 
 router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;
