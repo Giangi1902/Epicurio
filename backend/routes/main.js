@@ -67,6 +67,7 @@ router.get("/getIngredients/:username", async (req, res) => {
 // Funzione per calcolare il punteggio per pasto
 //TODO: ricontrollare bene la funzione
 //TODO: per chi non ha mai votato la ricetta va messo 2.5 di default 
+//TODO: preferire primi al pranzo e secondi a cena
 async function calcolaPunteggiUtente(userId, meals) {
     try {
         // pasti degli ultimi 5 giorni
@@ -499,7 +500,7 @@ router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;
     try {
         const user = await User.findOne({ username: username });
-        const pasti = await Daily.find({ idUtente: user.id })
+        const pasti = await Daily.find({ idUtente: user._id.toString() })
         const results = [];
         for (const pasto of pasti) {
             let pranzo = []
@@ -518,10 +519,32 @@ router.get("/getMeals/:username", async (req, res) => {
                 userId: pasto.idUtente,
                 data: pasto.data,
                 pranzo: pranzo ? pranzo.title : null,
-                cena: cena ? cena.title : null
+                cena: cena ? cena.title : null,
+                checkedPranzo: pasto.checkedPranzo,
             });
         }
+        console.log(results)
         res.json(results)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
+
+router.post("/updateCheckMeal/:username/:type", async (req, res) => {
+    const { username, type } = req.params
+    const { item } = req.body
+    try {
+        const user = await User.findOne({ username: username })
+        const pasto = await Daily.findOne({ idUtente: user._id.toString(), data: item.data })
+        if (type === "pranzo") {
+            pasto.checkedPranzo = !pasto.checkedPranzo;
+        } else {
+            pasto.checkedCena = !pasto.checkedCena;
+        }
+
+        await pasto.save()
+        res.json("ok")
     }
     catch (e) {
         console.log(e)
@@ -1396,6 +1419,80 @@ router.get("/getMealsCategory/:categoria", async (req, res) => {
             }
         }).limit(5);
         res.json(meals)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
+
+const normalizeDate = (date) => {
+    const [day, month, year] = date.split("/");
+    return new Date(`${year}-${month}-${day}T00:00:00.000Z`); // Assicura che sia in formato Date
+};
+
+router.post("/addMeal/:username", async (req, res) => {
+    const { username } = req.params;
+    const { item, selectedDay, type } = req.body;
+    try {
+        const user = await User.findOne({ username: username });
+        const meal = await Meal.findById(item._id);
+        const normalizedDate = normalizeDate(selectedDay);
+
+        // Trova o crea il documento giornaliero
+        let dailyEntry = await Daily.findOne({ idUtente: user._id, data: normalizedDate });
+
+        if (!dailyEntry) {
+            dailyEntry = new Daily({
+                idUtente: user._id,
+                data: normalizedDate,
+                pasti: {
+                    colazione: null,
+                    pranzo: null,
+                    cena: null
+                },
+                checkedPranzo: false,
+                checkedCena: false
+            });
+        }
+
+        if (type === "pranzo") {
+            dailyEntry.pasti.pranzo = meal._id;
+        } 
+        else if (type === "cena") {
+            dailyEntry.pasti.cena = meal._id;
+        }
+
+        await dailyEntry.save();
+        res.json("ok");
+
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: "Internal server error" });
+    }
+});
+
+router.get("/getMealInfo/:mealId", async (req, res) => {
+    const { mealId } = req.params
+    try {
+        const meal = await Meal.findOne({ title: mealId })
+        res.json(meal)
+    }
+    catch (e) {
+        console.log(e)
+    }
+})
+
+router.get("/searchAllMeals/:index", async (req, res) => {
+    const { index } = req.params
+    try {
+        // Applica la paginazione
+        const meals = await Meal.find({})
+        const startIndex = parseInt(index) * 25;
+        const endIndex = startIndex + 25;
+        const chunkedArray = meals.slice(startIndex, endIndex);
+
+        // Restituisci gli elementi filtrati e paginati
+        res.json(chunkedArray);
     }
     catch (e) {
         console.log(e)

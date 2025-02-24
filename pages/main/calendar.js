@@ -1,92 +1,144 @@
-import { startOfYear, endOfYear, eachWeekOfInterval, addDays, eachDayOfInterval, format } from "date-fns";
-import React, { useState } from "react";
-import { View, StyleSheet, Text, TouchableOpacity, ScrollView } from 'react-native';
-import PagerView from "react-native-pager-view";
-import { it } from 'date-fns/locale'; // Importa la locale italiana
+import { startOfYear, endOfYear, eachWeekOfInterval, addDays, eachDayOfInterval, format, addHours } from "date-fns";
+import React, { useState, useEffect, useRef, useCallback } from "react";
+import { View, StyleSheet, Text, TouchableOpacity, FlatList, Dimensions, Image, RefreshControl, ScrollView } from 'react-native';
+import { it } from 'date-fns/locale';
 import CardPasto from "../components/cardPasto";
 import { useTheme } from "../../themeContext";
+import axios from "axios";
 
+const { width: deviceWidth } = Dimensions.get("window");
 
-const Calendario = ({ meals }) => {
+const Calendario = ({ username }) => {
   const today = new Date();
-  const { theme, toggleTheme } = useTheme();
+  const { theme } = useTheme();
   const styles = getStyles(theme);
+  const flatListRef = useRef(null);
+  const [meals, setMeals] = useState([])
+  const [refreshing, setRefreshing] = useState(false); // Stato per il pull-to-refresh
+
+  const startOfYearDate = startOfYear(today);
+  const endOfYearDate = endOfYear(today);
+
+  // Funzione per ricaricare i pasti quando l'utente scrolla verso il basso
+  const onRefresh = useCallback(async () => {
+    setRefreshing(true);
+
+    try {
+      await getMeals(); // Ricarica i pasti
+
+      console.log("Pasti aggiornati!");
+    } catch (error) {
+      console.error("Errore durante l'aggiornamento:", error);
+    }
+
+    setRefreshing(false);
+  }, []);
 
 
-  // Includi tutte le settimane dell'anno corrente
-  const startOfYearDate = startOfYear(today); // Inizio dell'anno
-  const endOfYearDate = endOfYear(today); // Fine dell'anno
+  const getMeals = async () => {
+    try {
+      const response = await axios.get(`http://192.168.1.89:8080/getMeals/${username}`)
+      setMeals(response.data)
+    }
+    catch (e) {
+      console.log(e)
+    }
+  }
 
-  // Genera le settimane per tutto l'anno
+  useEffect(() => {
+    getMeals()
+  }, [username])
+
+  // Creazione delle settimane dell'anno
   const dates = eachWeekOfInterval(
-    {
-      start: startOfYearDate,
-      end: endOfYearDate
-    },
-    {
-      weekStartsOn: 1 // Settimana che inizia di lunedì
-    }).reduce((acc, curr) => {
-      const allDays = eachDayOfInterval({
-        start: curr,
-        end: addDays(curr, 6) // Genera i giorni della settimana
-      });
-      acc.push(allDays);
-      return acc;
-    }, []);
+    { start: startOfYearDate, end: endOfYearDate },
+    { weekStartsOn: 1 }
+  ).map((weekStart) => eachDayOfInterval({ start: weekStart, end: addDays(weekStart, 6) }));
 
   // Trova l'indice della settimana corrente
-  const currentWeekIndex = dates.findIndex(week => {
-    return week.some(day => day.toDateString() === today.toDateString());
-  });
+  const currentWeekIndex = dates.findIndex(week =>
+    week.some(day => day.toDateString() === today.toDateString())
+  );
 
-  // Funzione per verificare se una data è oggi
-  const isToday = (day) => {
-    return day.toDateString() === today.toDateString();
+  // Imposta come giorno selezionato il giorno corrente
+  const [selectedDay, setSelectedDay] = useState(today);
+  const [currentPage, setCurrentPage] = useState(currentWeekIndex);
+
+  useEffect(() => {
+    if (flatListRef.current) {
+      setTimeout(() => {
+        flatListRef.current.scrollToIndex({ index: currentWeekIndex, animated: false });
+      }, 100);
+    }
+  }, []);
+
+  const handleScrollEnd = (event) => {
+    const newIndex = Math.round(event.nativeEvent.contentOffset.x / deviceWidth);
+    setCurrentPage(newIndex);
+    setSelectedDay(addHours(dates[newIndex].find(day => day.toDateString() === today.toDateString()) || dates[newIndex][0], 1));
   };
 
-  const [selectedDay, setSelectedDay] = useState(today);
+  const handleAddMeals = async () => {
+    try {
+      // const response = await axios.get(`http://192.168.1.89:8080/createSchedule/${username}`);
+    }
+    catch (e) {
+      console.log(e);
+    }
+  };
 
+  const updateMealStatus = (updatedMeal) => {
+    setMeals(prevMeals =>
+      prevMeals.map(meal =>
+        meal.data === updatedMeal.data ? updatedMeal : meal
+      )
+    );
+  };
 
-  //TODO: problema con la selezione del giorno
-  //TODO: problema nello swipe della settimana successiva con la scelta del nuovo giorno
   return (
     <View style={{ flex: 1 }}>
-      <PagerView
-        style={{ height: 400 }}
-        initialPage={currentWeekIndex}
-        onPageSelected={(e) => {
-          // Imposta il primo giorno della settimana visualizzata come selectedDay
-          const selectedWeekIndex = e.nativeEvent.position;
-          setSelectedDay(dates[selectedWeekIndex][0]);
+      <FlatList
+        ref={flatListRef}
+        horizontal
+        pagingEnabled
+        showsHorizontalScrollIndicator={false}
+        data={dates}
+        keyExtractor={(item, index) => index.toString()}
+        snapToInterval={deviceWidth}
+        snapToAlignment="start"
+        getItemLayout={(data, index) => ({ length: deviceWidth, offset: deviceWidth * index, index })}
+        initialScrollIndex={currentWeekIndex}
+        onMomentumScrollEnd={handleScrollEnd}
+        onScrollToIndexFailed={(info) => {
+          setTimeout(() => {
+            flatListRef.current.scrollToIndex({ index: info.index, animated: true });
+          }, 100);
         }}
-      >
-        {dates.map((week, i) => (
-          <View key={i} style={{ flex: 1, }}>
-            <View style={styles.row}>
+        renderItem={({ item: week }) => (
+          <View style={{ width: deviceWidth, flex: 1 }}>
+            <View style={[styles.row, { borderTopColor: theme.coloreScuro, borderBottomColor: theme.coloreScuro, borderTopWidth: 1, borderBottomWidth: 1 }]}>
               {week.map((day, k) => {
                 const txt = format(day, "EEEEE", { locale: it });
                 const dayMonth = format(day, "d MMM", { locale: it });
-                const dayIsToday = isToday(day);
-                const isSelected =
-                  selectedDay && selectedDay.toDateString() === day.toDateString();
-
+                const isToday = day.toDateString() === today.toDateString();
+                const isSelected = selectedDay.toDateString() === day.toDateString();
                 return (
                   <TouchableOpacity key={k} onPress={() => setSelectedDay(day)}>
                     <View style={[
                       styles.day,
-                      dayIsToday && !isSelected && styles.todayTextGreen,
-                      dayIsToday && isSelected && styles.todayDaySelected,
+                      isToday && !isSelected && styles.todayTextGreen,
+                      isToday && isSelected && styles.todayDaySelected,
                       isSelected && styles.selectedDay
                     ]}>
                       <Text style={[
-                        dayIsToday && !isSelected && styles.todayTextGreen,
-                        dayIsToday && isSelected && styles.selectedTextWhite,
+                        isToday && !isSelected && styles.todayTextGreen,
+                        isToday && isSelected && styles.selectedTextWhite,
                         isSelected && styles.selectedTextWhite,
                         styles.textMonth,
                       ]}> {txt} </Text>
                       <Text style={[
-                        dayIsToday && !isSelected && styles.todayTextGreen,
-                        dayIsToday && isSelected && styles.selectedTextWhite,
+                        isToday && !isSelected && styles.todayTextGreen,
+                        isToday && isSelected && styles.selectedTextWhite,
                         isSelected && styles.selectedTextWhite,
                         styles.textDay,
                       ]}> {dayMonth} </Text>
@@ -95,20 +147,32 @@ const Calendario = ({ meals }) => {
                 );
               })}
             </View>
-
-            {selectedDay && (
-              <ScrollView style={{ flexGrow: 1 }}
-                contentContainerStyle={{ flexGrow: 1, justifyContent: 'flex-start' }}>
-                <CardPasto text={`PRANZO`} meals={meals} selectedDay={selectedDay} type={"pranzo"} />
-                <CardPasto text={`CENA`} meals={meals} selectedDay={selectedDay} type={"cena"} />
-              </ScrollView>
-            )}
+            <ScrollView
+              style={{ flex: 1 }}
+              refreshControl={
+                <RefreshControl refreshing={refreshing} onRefresh={onRefresh} colors={[theme.coloreScuro]} />
+              }
+            >
+              <View style={{ backgroundColor: "white", marginTop: 15, width: "100%", alignSelf: "center", padding: 10, borderColor: theme.coloreScuro, borderTopWidth: 1, borderBottomWidth: 1 }}>
+                {selectedDay && (
+                  <View>
+                    <CardPasto text={`PRANZO`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"pranzo"} username={username} updateMealStatus={updateMealStatus} />
+                    <CardPasto text={`CENA`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"cena"} username={username} updateMealStatus={updateMealStatus} />
+                  </View>
+                )}
+                <TouchableOpacity onPress={handleAddMeals} style={[styles.cardAddIngredient, { backgroundColor: theme.coloreScuro }]}>
+                  <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center", color: "white" }}>Crea il menu</Text>
+                  {/* <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image> */}
+                </TouchableOpacity>
+              </View>
+            </ScrollView>
           </View>
-        ))}
-      </PagerView>
+        )}
+      />
     </View>
   );
 };
+
 
 const getStyles = (theme) => StyleSheet.create({
   container: {
@@ -116,16 +180,12 @@ const getStyles = (theme) => StyleSheet.create({
   },
   row: {
     flexDirection: 'row',
-    justifyContent: 'space-around'
+    justifyContent: "space-around",
+    backgroundColor: "white",
   },
   day: {
     alignItems: 'center',
-    padding: 5,
-    marginTop: 5
-  },
-  todayDay: {
-    backgroundColor: 'blue',
-    borderRadius: 10,
+    marginVertical: 10,
     padding: 5
   },
   todayTextGreen: {
@@ -140,7 +200,7 @@ const getStyles = (theme) => StyleSheet.create({
   selectedDay: {
     backgroundColor: theme.coloreScuro,
     borderRadius: '40%',
-    padding: 5,
+    padding: 5
   },
   selectedTextWhite: {
     color: 'white',
@@ -152,7 +212,27 @@ const getStyles = (theme) => StyleSheet.create({
   },
   textMonth: {
     fontFamily: "Poppins_400Regular"
-  }
+  },
+  icon: {
+    width: deviceWidth * 0.1,
+    height: deviceWidth * 0.1,
+    resizeMode: 'contain',
+  },
+  cardAddIngredient: {
+    borderRadius: 10,
+    backgroundColor: '#fff',
+    shadowColor: '#000',
+    shadowOpacity: 0.2,
+    shadowOffset: {
+      height: 2,
+    },
+    shadowRadius: 2,
+    elevation: 3,
+    padding: 15,
+    marginTop: 5,
+    marginBottom: 15,
+    alignSelf: "center",
+  },
 });
 
 export default Calendario;

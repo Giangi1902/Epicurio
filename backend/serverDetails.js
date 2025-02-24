@@ -125,6 +125,14 @@ const dailySchema = new mongoose.Schema({
       default: null,
     }
   },
+  checkedPranzo: {
+    type: Boolean,
+    default: false
+  },
+  checkedCena: {
+    type: Boolean,
+    default: false
+  }
 });
 
 

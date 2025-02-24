@@ -27,10 +27,8 @@ export function normalize(size) {
 function Home() {
     const [username, setUsername] = useState("");
     const navigation = useNavigation();
-    const [currentDay, setCurrentDay] = useState("")
-    const [data, setData] = useState([])
-    const [meals, setMeals] = useState([])
-    const {theme} = useTheme();
+    // const [glasses, setGlasses] = useState([{ id: 1, type: "whitewater" }]);
+    const { theme } = useTheme();
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -46,106 +44,54 @@ function Home() {
         fetchUsername();
     }, []);
 
-    const getCurrentDay = () => {
-        const now = new Date();
-        const dayIndex = now.getDay();
-
-        const weekDays = ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica'];
-        const mappedDayIndex = (dayIndex === 0) ? 6 : dayIndex - 1;
-        setCurrentDay(weekDays[mappedDayIndex])
-    };
-
-    useFocusEffect(
-        React.useCallback(() => {
-            getCurrentDay()
-            // handleNextMeal();
-            handleGetMeals();
-        }, [currentDay, username])
-    );
-
-    const handleNextMeal = async () => {
-        if (currentDay && username) {
-            try {
-                const response = await axios.get(`http://192.168.1.89:8080/getNextMeal/${currentDay}/${username}`);
-                setData(response.data);
-            } catch (e) {
-                console.log(e);
-            }
-        }
-    };
-
-    const [glasses, setGlasses] = useState([{ id: 1, type: "whitewater" }]);
-
     const handlePress = (id) => {
-        setGlasses((prevGlasses) => {
-            // Trova l'indice del bicchiere cliccato
-            const clickedIndex = prevGlasses.findIndex((glass) => glass.id === id);
+        // setGlasses((prevGlasses) => {
+        //     // Trova l'indice del bicchiere cliccato
+        //     const clickedIndex = prevGlasses.findIndex((glass) => glass.id === id);
 
-            // Se il bicchiere è whitewater, cambia il tipo in water e aggiungi un nuovo whitewater
-            if (prevGlasses[clickedIndex].type === "whitewater") {
-                // Cambia il tipo di whitewater in water e aggiungi un nuovo bicchiere whitewater
-                return [
-                    ...prevGlasses.slice(0, clickedIndex),
-                    { ...prevGlasses[clickedIndex], type: "water" }, // Cambia il bicchiere cliccato in "water"
-                    ...prevGlasses.slice(clickedIndex + 1), // Mantieni i bicchieri successivi
-                    { id: prevGlasses.length + 1, type: "whitewater" }, // Aggiungi un nuovo bicchiere whitewater
-                ];
-            }
+        //     // Se il bicchiere è whitewater, cambia il tipo in water e aggiungi un nuovo whitewater
+        //     if (prevGlasses[clickedIndex].type === "whitewater") {
+        //         // Cambia il tipo di whitewater in water e aggiungi un nuovo bicchiere whitewater
+        //         return [
+        //             ...prevGlasses.slice(0, clickedIndex),
+        //             { ...prevGlasses[clickedIndex], type: "water" }, // Cambia il bicchiere cliccato in "water"
+        //             ...prevGlasses.slice(clickedIndex + 1), // Mantieni i bicchieri successivi
+        //             { id: prevGlasses.length + 1, type: "whitewater" }, // Aggiungi un nuovo bicchiere whitewater
+        //         ];
+        //     }
 
-            // Se il bicchiere è water, cambialo in whitewater e elimina tutti i bicchieri successivi
-            if (prevGlasses[clickedIndex].type === "water") {
-                return prevGlasses
-                    .slice(0, clickedIndex + 1) // Mantieni solo i bicchieri fino a quello cliccato
-                    .map((glass, index) =>
-                        index === clickedIndex
-                            ? { ...glass, type: "whitewater" } // Cambia il tipo del bicchiere cliccato
-                            : glass
-                    );
-            }
+        //     // Se il bicchiere è water, cambialo in whitewater e elimina tutti i bicchieri successivi
+        //     if (prevGlasses[clickedIndex].type === "water") {
+        //         return prevGlasses
+        //             .slice(0, clickedIndex + 1) // Mantieni solo i bicchieri fino a quello cliccato
+        //             .map((glass, index) =>
+        //                 index === clickedIndex
+        //                     ? { ...glass, type: "whitewater" } // Cambia il tipo del bicchiere cliccato
+        //                     : glass
+        //             );
+        //     }
 
-            return prevGlasses;
-        });
+        //     return prevGlasses;
+        // });
     };
 
-    const handleAddMeals = async () => {
-        try {
-            const response = await axios.get(`http://192.168.1.89:8080/createSchedule/${username}`);
-        }
-        catch (e) {
-            console.log(e);
-        }
-    };
-
-    const handleGetMeals = async () => {
-        try{
-            const response = await axios.get(`http://192.168.1.89:8080/getMeals/${username}`);
-            setMeals(response.data);
-        }
-        catch(e){
-            console.log(e);
-        }
-    }
-
-    //TODO: migliorare il calendario
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={theme.coloreChiaro} barStyle={"dark-content"} />
             <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
-                    <Text style={{ color: theme.coloreScuro, fontSize: normalize(36), fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text>
+                    {/* <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
+                    <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text> */}
+                    <Image source={require("../../images/logo5.png")} style={{height: 100, resizeMode: "contain"}}/>
                 </View>
             </View>
 
             <ScrollView style={styles.scrollView}>
-                <View style={{ backgroundColor: "white", width: "95%", alignSelf: "center", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0"}} >
-                    <Calendario meals={meals} />
-
-                    <TouchableOpacity onPress={handleAddMeals}>
-                        <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image>
-                    </TouchableOpacity>
+                <View style={{marginVertical: 15}}>
+                    <Calendario username={username}/>
                 </View>
-                {/* <Diet/> */}
+
+                {/* <Diet /> */}
             </ScrollView>
         </Layout>
     );
@@ -188,7 +134,6 @@ const styles = StyleSheet.create({
         width: screenWidth * 0.1,
         height: screenWidth * 0.1,
         resizeMode: 'contain',
-
     },
     daysListContainer: {
         width: CARD_WIDTH,
@@ -312,7 +257,6 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.1,
         shadowRadius: 5,
         elevation: 5,
-        marginVertical: 15,
     },
 });
 

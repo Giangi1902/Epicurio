@@ -55,6 +55,7 @@ import { ThemeProvider, ThemeContext } from "./themeContext.js";
 import MealPage from './pages/main/mealPage.js';
 import AllIngredients from './pages/main/allIngredients.js';
 import AllMeals from './pages/main/allMeals.js';
+import SearchMeals from './pages/main/searchMeals.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -111,6 +112,8 @@ function HomeStackScreen() {
   return (
     <HomeStack.Navigator screenOptions={{ headerShown: false }}>
       <HomeStack.Screen name="HomeScreen" component={Home} />
+      <HomeStack.Screen name="SearchMeals" component={SearchMeals} />
+      <HomeStack.Screen name="MealPage" component={MealPage} />
     </HomeStack.Navigator>
   );
 }
@@ -120,9 +123,9 @@ function MenuStackScreen() {
     <MenuStack.Navigator screenOptions={{ headerShown: false }}>
       <MenuStack.Screen name="MenuScreen" component={Menu} />
       <MenuStack.Screen name="Category" component={Category} />
-      <MenuStack.Screen name="MealPage" component={MealPage}/>
-      <MenuStack.Screen name="AllIngredients" component={AllIngredients}/>
-      <MenuStack.Screen name="AllMeals" component={AllMeals}/>
+      <MenuStack.Screen name="MealPage" component={MealPage} />
+      <MenuStack.Screen name="AllIngredients" component={AllIngredients} />
+      <MenuStack.Screen name="AllMeals" component={AllMeals} />
     </MenuStack.Navigator>
   );
 }
@@ -131,7 +134,7 @@ function FinderStackScreen() {
   return (
     <FinderStack.Navigator screenOptions={{ headerShown: false }}>
       <FinderStack.Screen name="FinderScreen" component={TinderSwipe} />
-      <FinderStack.Screen name="MealPage" component={MealPage}/>
+      <FinderStack.Screen name="MealPage" component={MealPage} />
     </FinderStack.Navigator>
   );
 }

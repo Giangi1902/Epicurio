@@ -9,7 +9,6 @@ import { useNavigation } from '@react-navigation/native';
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
-
 function MealPage() {
     const [username, setUsername] = useState("")
     const route = useRoute()
@@ -18,7 +17,6 @@ function MealPage() {
     const [showAll, setShowAll] = useState(false);
     const [showFullDescription, setShowFullDescription] = useState(false);
     const MAX_LENGTH = 300;
-
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -56,6 +54,14 @@ function MealPage() {
         ));
     };
 
+    const validLabels = ["preparazione", "cottura", "costo"]; // Campi da mostrare nella prima View
+    const dosiPerLabel = "dosi per"; // Campo da mostrare accanto a "Ingredienti"
+
+    // Filtra i dettagli
+    const filteredDetails = item.details.filter(detail => validLabels.includes(detail.label.toLowerCase()));
+    const dosiPerDetail = item.details.find(detail => detail.label.toLowerCase() === dosiPerLabel);
+
+
     //TODO: mettere loading immagine
     //TODO: mettere modo di aggiunta pasto alla settimana
     //TODO: problema in details, possono esserci cambi nei campi
@@ -79,26 +85,24 @@ function MealPage() {
                 <View>
                     <Image source={{ uri: item.imageBase64 }} style={[styles.expandedImage, { width: "100%", borderColor: theme.coloreScuro, borderWidth: 1, borderRadius: 15, width: "95%", alignSelf: "center" }]}></Image>
                 </View>
-                <View style={{ backgroundColor: "white", borderWidth: 1, borderColor: theme.coloreScuro, width: "auto", margin: 10, borderRadius: 15 }}>
-                    <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_400Regular", fontSize: 16, padding: 10 }}>{item.details[1].label}</Text>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 16, padding: 10 }}>{item.details[1].value}</Text>
+                {filteredDetails.length > 0 && (
+                    <View style={{ backgroundColor: "white", borderWidth: 1, borderColor: theme.coloreScuro, width: "auto", margin: 10, borderRadius: 15 }}>
+                        {filteredDetails.map((detail, index) => (
+                            <View key={index} style={{ flexDirection: "row", justifyContent: "space-between" }}>
+                                <Text style={{ textAlign: "center", fontFamily: "Poppins_400Regular", fontSize: 16, padding: 10 }}>{detail.label}</Text>
+                                <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 16, padding: 10 }}>{detail.value}</Text>
+                            </View>
+                        ))}
                     </View>
-
-                    <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_400Regular", fontSize: 16, padding: 10 }}>{item.details[2].label}</Text>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 16, padding: 10 }}>{item.details[2].value}</Text>
-                    </View>
-                    <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_400Regular", fontSize: 16, padding: 10 }}>{item.details[3].label}</Text>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 16, padding: 10 }}>{item.details[3].value}</Text>
-                    </View>
-                </View>
-
+                )}
                 <View style={{ backgroundColor: "white", borderWidth: 1, borderColor: theme.coloreScuro, width: "auto", margin: 10, borderRadius: 15 }}>
                     <View style={{ flexDirection: "row", justifyContent: "space-between" }}>
                         <Text style={{ textAlign: "center", fontFamily: "Poppins_600SemiBold", fontSize: 18, padding: 10 }}>Ingredienti</Text>
-                        <Text style={{ textAlign: "center", fontFamily: "Poppins_300Light", fontSize: 18, padding: 10, flexShrink: 1 }}>{item.details[3].label} {item.details[3].value}</Text>
+                        {dosiPerDetail && (
+                            <Text style={{ textAlign: "center", fontFamily: "Poppins_300Light", fontSize: 18, padding: 10, flexShrink: 1 }}>
+                                {dosiPerDetail.label} {dosiPerDetail.value}
+                            </Text>
+                        )}
                     </View>
                     {item.ingredients.slice(0, showAll ? item.ingredients.length : 5).map((ingredient, index) => (
                         <View key={index} style={{ flexDirection: "row", justifyContent: "space-between", padding: 10 }}>

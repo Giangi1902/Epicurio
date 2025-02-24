@@ -4,20 +4,17 @@ import { StyleSheet, View, ScrollView, TouchableOpacity, Image, TextInput, Dimen
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useRoute } from '@react-navigation/native';
 import axios from "axios";
-import DiagonalBackground from "./diagonalbackground";
 import { useTheme } from "../../themeContext";
 import { useNavigation } from '@react-navigation/native';
-import { LinearGradient } from 'expo-linear-gradient';
 
 const { width: deviceWidth, height: screenHeight } = Dimensions.get("window");
 
-
-function AllIngredients() {
+function SearchMeals() {
     const [username, setUsername] = useState("")
-    const [ingredients, setIngredients] = useState([])
+    const [meals, setMeals] = useState([])
     const route = useRoute()
-    const { categoria } = route.params
     const { theme } = useTheme()
+    const { selectedDay, type } = route.params
     const navigation = useNavigation();
     const [currentIndex, setCurrentIndex] = useState(-1);
     const [isLoading, setIsLoading] = useState(false)
@@ -34,18 +31,18 @@ function AllIngredients() {
             }
         };
         fetchUsername();
-        handleIngredients();
+        handleMeals();
     }, [username]);
 
-    const handleIngredients = async () => {
+    const handleMeals = async () => {
         setIsLoading(true);
 
         if (username != "") {
             try {
                 const index = 1 + currentIndex
-                const response = await axios.get(`http://192.168.1.89:8080/searchAllIngredients/${index}`)
+                const response = await axios.get(`http://192.168.1.89:8080/searchAllMeals/${index}`)
                 setCurrentIndex(currentIndex + 1);
-                setIngredients(prevdata => [...prevdata, ...response.data]);
+                setMeals(prevdata => [...prevdata, ...response.data]);
             }
             catch (e) {
                 console.log(e)
@@ -55,56 +52,10 @@ function AllIngredients() {
         }
     }
 
-    const handleMinus = async (id) => {
-        // Verifica che la quantità da sottrarre sia maggiore o uguale a zero
-        // const itemToUpdate = dispensa.find(item => item.id === id);
-        // if (itemToUpdate?.quantity >= 1) {
-        //     try {
-        //         // Aggiorna immediatamente la quantità nel frontend
-        //         const updatedDispensa = dispensa.map(item => {
-        //             if (item.id === id) {
-        //                 return { ...item, quantity: item.quantity - 1 };
-        //             }
-        //             return item;
-        //         });
-        //         setDispensa(updatedDispensa);
-
-        //         // Invia la richiesta di aggiornamento al backend
-        //         const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: -1, username });
-        //         if (!response.data) {
-        //             console.log("Errore nell'aggiornamento della quantità nel backend");
-        //         }
-        //     } catch (error) {
-        //         console.log(error);
-        //     }
-        // }
-    };
-
-    const handlePlus = async (id) => {
-        // try {
-        //     // Aggiorna immediatamente la quantità nel frontend
-        //     const updatedDispensa = dispensa.map(item => {
-        //         if (item.id === id) {
-        //             return { ...item, quantity: item.quantity + 1 };
-        //         }
-        //         return item;
-        //     });
-        //     setDispensa(updatedDispensa);
-
-        //     // Invia la richiesta di aggiornamento al backend
-        //     const response = await axios.put(`http://192.168.1.89:8080/updateIngredientQuantity/${id}`, { quantity: 1, username });
-        //     if (!response.data) {
-        //         console.log("Errore nell'aggiornamento della quantità nel backend");
-        //     }
-        // } catch (error) {
-        //     console.log(error);
-        // }
-    };
-
-    const loadMoreIngredients = async () => {
-        setIsLoading(true); // Imposta lo stato di caricamento
-        await handleIngredients(); // Chiamata alla funzione per ottenere nuovi ingredienti
-        setIsLoading(false); // Reset dello stato di caricamento
+    const loadMoreMeals = async () => {
+        setIsLoading(true);
+        await handleMeals();
+        setIsLoading(false);
     };
 
     const handleScroll = (event) => {
@@ -114,89 +65,99 @@ function AllIngredients() {
         const isEndReached = layoutMeasurement.height + contentOffset.y >= contentSize.height - 20;
 
         if (isEndReached && !isLoading) {
-            loadMoreIngredients();
+            loadMoreMeals();
         }
     };
 
-    //TODO: visualizzare tutti gli ingredienti
-    //TODO: non funzionano i tasti delle quantità
+    const [query, setQuery] = useState("");
+    const [filteredData, setFilteredData] = useState([]);
+
+    useEffect(() => {
+        const words = query.trim().split(/\s+/);
+        const hasValidWord = words.some(word => word.length >= 3);
+
+        if (hasValidWord) {
+            handleSearch(query);
+        } else {
+            setFilteredData([]);
+        }
+    }, [query]);
+
+    const handleSearch = async (searchQuery) => {
+        try {
+            const response = await axios.get(`http://192.168.1.89:8080/searchMeal?query=${searchQuery}`);
+            setFilteredData(response.data);
+        } catch (error) {
+            console.log("Errore nella ricerca:", error);
+        }
+    };
+
+    const handleAddMeal = async (item) => {
+        try {
+            const response = await axios.post(`http://192.168.1.89:8080/addMeal/${username}`, {
+                item, selectedDay, type
+            })
+            if (response.data == "ok") {
+                navigation.goBack();
+            }
+        }
+        catch (e) {
+            console.log(e)
+        }
+    }
+
+    //TODO: mettere loading
     return (
         <View style={styles.container}>
-            <DiagonalBackground
-                imageSize={30} // Dimensione di ogni piccola immagine
-                spacing={15}
-                opacity={0.2}
-                categoria={categoria}
-            />
             <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
-                    <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>{categoria.toUpperCase()}</Text>
+                    <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic" }}>AGGIUNGI PASTO</Text>
                 </View>
             </View>
-            <View style={{ alignItems: "center", marginTop: 15 }}>
-                <TextInput style={{ width: deviceWidth * 0.95, height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
-                    placeholder="Cerca una ricetta..."
+            <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", width: "95%", alignSelf: "center" }}>
+                <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: 12, fontFamily: "Poppins_500Medium" }}
+                    placeholder="Cerca un ingrediente..."
                     placeholderTextColor="#A0A0A0"
+                    onChangeText={setQuery}
+                    value={query}
                 />
+                <TouchableOpacity onPress={() => setQuery("")} style={{ height: 45, width: 45, backgroundColor: theme.coloreScuro, borderRadius: 15, alignItems: "center", justifyContent: "center" }}>
+                    <Image source={require("../../images/times.png")} style={{ width: 20, height: 20 }}></Image>
+                </TouchableOpacity>
             </View>
             <View style={styles.listContainer}>
-
                 <ScrollView showsVerticalScrollIndicator={false} onScroll={handleScroll} scrollEventThrottle={16}>
                     <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                        {ingredients.map((item, index) => (
-                            <View key={index}>
-                                <View key={item.id} style={[styles.itemContainer]}>
-                                    <View style={styles.itemTextContainer}>
-                                        <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15 }]}>
-                                            {item.nome}
-                                        </Text>
-                                    </View>
-                                    <View>
-                                        <View style={styles.buttonContainerAddMinus}>
-                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
-                                            <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        top: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <LinearGradient
-                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                    start={{ x: 0, y: 0.5 }}
-                                                    end={{ x: 1, y: 0.5 }}
-                                                    style={{
-                                                        position: "absolute",
-                                                        bottom: 0,
-                                                        left: 0,
-                                                        width: "100%",
-                                                        height: 2, // Spessore del bordo
-                                                    }}
-                                                />
-                                                <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                    <Text style={{ color: "black" }}>1</Text>
-                                                </View>
-                                            </View>
-                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
-                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                            </TouchableOpacity>
+                        {query === "" ?
+                            (meals.map((item, index) => (
+                                <TouchableOpacity key={index} onPress={() => handleAddMeal(item)}>
+                                    <View key={item.id} style={[styles.itemContainer]}>
+                                        <View style={styles.itemTextContainer}>
+                                            <Image source={{ uri: item.imageBase64 }} style={{ height: 100, width: 100, backgroundColor: theme.coloreScuro }}></Image>
+                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15, flex: 1, }]}>
+                                                {item.title}
+                                            </Text>
                                         </View>
                                     </View>
-                                </View>
-                            </View>
-                        ))}
+                                </TouchableOpacity>
+                            )))
+                            :
+                            (filteredData.map((item, index) => (
+                                <TouchableOpacity key={index} onPress={() => handleAddMeal(item)}>
+                                    <View key={item.id} style={[styles.itemContainer]}>
+                                        <View style={styles.itemTextContainer}>
+                                            <Image source={{ uri: item.imageBase64 }} style={{ height: 100, width: 100, backgroundColor: theme.coloreScuro }}></Image>
+                                            <Text style={[{ fontFamily: 'Poppins_300Light', color: "black", fontSize: 16, padding: 15, flex: 1, }]}>
+                                                {item.title}
+                                            </Text>
+                                        </View>
+                                    </View>
+                                </TouchableOpacity>
+                            )))
+                        }
                     </View>
                 </ScrollView>
             </View>
-            <DiagonalBackground />
         </View>
     )
 }
@@ -261,7 +222,6 @@ const styles = StyleSheet.create({
     },
     itemTextContainer: {
         flexDirection: 'row',
-        justifyContent: 'space-between',
         alignItems: 'center',
         flex: 1,
     },
@@ -295,11 +255,11 @@ const styles = StyleSheet.create({
     buttonAdd: {
         width: 40,
         height: 40,
-        backgroundColor: '#0B7308',
+        backgroundColor: '#1B4965',
         justifyContent: 'center',
         alignItems: 'center',
-        borderTopRightRadius: 10,
-        borderBottomRightRadius: 10,
+        borderRadius: 20,
+        marginLeft: 10,
         marginRight: 5,
         alignSelf: 'flex-end',
     },
@@ -309,8 +269,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#9B0800',
         justifyContent: 'center',
         alignItems: 'center',
-        borderTopLeftRadius: 10,
-        borderBottomLeftRadius: 10,
+        borderRadius: 20,
         marginLeft: 8,
         alignSelf: 'flex-end',
     },
@@ -420,4 +379,4 @@ const styles = StyleSheet.create({
     }
 })
 
-export default AllIngredients
+export default SearchMeals
