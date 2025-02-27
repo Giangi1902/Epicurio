@@ -56,6 +56,7 @@ import MealPage from './pages/main/mealPage.js';
 import AllIngredients from './pages/main/allIngredients.js';
 import AllMeals from './pages/main/allMeals.js';
 import SearchMeals from './pages/main/searchMeals.js';
+import CreateMenu from './pages/main/createMenu.js';
 
 const TopTab = createMaterialTopTabNavigator();
 const BottomTab = createBottomTabNavigator();
@@ -90,11 +91,31 @@ function AuthStack({ navigation }) {
     checkUsername();
   }, []);
 
+  const [appTheme, setAppTheme] = useState(null); // Stato per il tema
+
+  useEffect(() => {
+    const loadTheme = async () => {
+      try {
+        const savedTheme = await AsyncStorage.getItem("appTheme");
+        if (savedTheme) {
+          setAppTheme(themes[savedTheme]); // Converte stringa in oggetto tema
+        } else {
+          setAppTheme(greenTheme); // Imposta il tema di default
+        }
+      } catch (error) {
+        console.error("Errore nel caricamento del tema:", error);
+      }
+    };
+    loadTheme();
+  }, []);
+
+  if (!appTheme) return null;
+
   return (
     <TopTab.Navigator
       initialRouteName={"Signup"}
       screenOptions={{
-        tabBarStyle: { backgroundColor: "#9B0800" },
+        tabBarStyle: { backgroundColor: appTheme.coloreChiaro },
         tabBarActiveTintColor: "white",
         tabBarInactiveTintColor: "#27241F",
         tabBarIndicatorStyle: { backgroundColor: "white" },
@@ -114,6 +135,7 @@ function HomeStackScreen() {
       <HomeStack.Screen name="HomeScreen" component={Home} />
       <HomeStack.Screen name="SearchMeals" component={SearchMeals} />
       <HomeStack.Screen name="MealPage" component={MealPage} />
+      <HomeStack.Screen name="Create Menu" component={CreateMenu} />
     </HomeStack.Navigator>
   );
 }

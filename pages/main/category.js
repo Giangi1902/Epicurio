@@ -150,8 +150,6 @@ function Category() {
         }
     }
 
-    //TODO: visualizzare tutti i pasti con quella categoria
-    //TODO: visualizzare tutti gli ingredienti
     return (
         <View style={styles.container}>
             <DiagonalBackground

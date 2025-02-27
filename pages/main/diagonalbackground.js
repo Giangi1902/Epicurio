@@ -13,6 +13,7 @@ const iconMap = {
   "bevande": require("../../images/plastic.png"),
   "condimenti": require("../../images/olive-oil.png"),
   "altro": require("../../images/surprise-box.png"),
+  "crea": require("../../images/magic-wand.png")
 };
 
 const DiagonalBackground = ({ imageSize, spacing, opacity, categoria }) => {

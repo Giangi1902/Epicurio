@@ -112,8 +112,6 @@ const TinderSwipe = () => {
     }
   }
 
-  //TODO: aggiungere logica destra e sinistra
-  //TODO: prendere altre immagini quando ne mancano 5 
   return (
     <Layout style={styles.container}>
       <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
@@ -127,7 +125,7 @@ const TinderSwipe = () => {
 
       <View style={{ flexDirection: "row", marginTop: 15, justifyContent: "space-between", marginHorizontal: 10 }}>
         <TextInput style={{ width: "85%", height: 45, backgroundColor: "white", borderRadius: 15, borderWidth: 1, borderColor: "#E2E8F0", paddingLeft: 15, fontSize: normalize(12), fontFamily: "Poppins_500Medium" }}
-          placeholder="Cerca un ingrediente..."
+          placeholder="Cerca una ricetta..."
           placeholderTextColor="#A0A0A0"
           onChangeText={setQuery}
           value={query}

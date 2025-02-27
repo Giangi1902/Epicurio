@@ -65,8 +65,6 @@ router.get("/getIngredients/:username", async (req, res) => {
 
 //TODO: pesi cambiabili per utente
 // Funzione per calcolare il punteggio per pasto
-//TODO: ricontrollare bene la funzione
-//TODO: per chi non ha mai votato la ricetta va messo 2.5 di default 
 //TODO: preferire primi al pranzo e secondi a cena
 async function calcolaPunteggiUtente(userId, meals) {
     try {
@@ -78,22 +76,18 @@ async function calcolaPunteggiUtente(userId, meals) {
         const programmazione = await Daily.find({
             idUtente: userId,
             data: { $gte: inizioIntervallo.toISOString(), $lte: oggi.toISOString() }
-        }).populate('pasti.colazione pasti.pranzo pasti.cena');
+        }).populate('pasti.pranzo pasti.cena');
 
         // Calcola le frequenze e gli ultimi utilizzi
         const frequenze = {};
         const ultimiUtilizzi = {};
 
         programmazione.forEach((sched) => {
-            console.log("fuori")
-            const { colazione, pranzo, cena, data } = sched.pasti;
+            const { pranzo, cena, data } = sched.pasti;
 
-            [colazione, pranzo, cena].forEach((pasto) => {
-                console.log("dentro")
+            [pranzo, cena].forEach((pasto) => {
                 if (pasto) {
-                    console.log("dentroif")
-                    const pastoId = pasto._id.toString();
-                    console.log(pastoId)
+                    const pastoId = pasto.mealId;
                     const dataPasto = new Date(sched.data);
 
                     // Calcola i giorni di distanza
@@ -136,7 +130,7 @@ async function calcolaPunteggiUtente(userId, meals) {
 
             // Valutazione dell'utente
             const valutazioneUtenteObj = meal.ratings.find((rating) => rating.idUtente.toString() === userId.toString());
-            const valutazioneUtente = valutazioneUtenteObj ? valutazioneUtenteObj.valutazione : 0;
+            const valutazioneUtente = valutazioneUtenteObj ? valutazioneUtenteObj.valutazione : 2.5;
             const punteggioValutazioneUtente = valutazioneUtente * PESO_VALUTAZIONE_UTENTE;
 
             // Valutazione globale
@@ -176,82 +170,120 @@ async function calcolaPunteggiUtente(userId, meals) {
     }
 }
 
-async function estraiPastiPesati(punteggiRicette, numeroPasti = 5) {
+async function estraiPastiPesati(punteggiRicette, dayMeals) {
     try {
-        // Tratta i punteggi negativi come 0
-        const punteggiCorretti = punteggiRicette.map((ricetta) => ({
-            ...ricetta,
-            punteggio: ricetta.punteggio < 0 ? 0 : ricetta.punteggio
-        }));
+        // Aggiungi la categoria a ogni ricetta trovandola nel database
+        const punteggiConCategoria = await Promise.all(
+            punteggiRicette.map(async (ricetta) => {
+                const meal = await Meal.findOne({ title: ricetta.title });
+                return {
+                    ...ricetta,
+                    category: meal ? meal.category : "Sconosciuto" // Se non trova la categoria, assegna "Sconosciuto"
+                };
+            })
+        );
 
-        // Calcola il totale dei punteggi
-        const totalePunteggi = punteggiCorretti.reduce((acc, ricetta) => acc + ricetta.punteggio, 0);
+        // Separiamo le ricette in due gruppi: Primi Piatti e Secondi Piatti
+        let primiPiatti = punteggiConCategoria.filter((r) => r.category === "Primo piatto");
+        let secondiPiatti = punteggiConCategoria.filter((r) => r.category === "Secondo piatto");
 
-        // Se il totale è 0 (tutti i punteggi sono negativi o 0), assegna probabilità uguali
-        if (totalePunteggi === 0) {
-            console.warn("Tutti i punteggi sono 0 o negativi. Assegno probabilità uguali.");
-            return punteggiCorretti.map((ricetta) => ({
-                ...ricetta,
-                probabilita: 1 / punteggiCorretti.length
+        // Funzione per calcolare le probabilità normalizzate di una categoria
+        function calcolaProbabilita(ricette) {
+            if (ricette.length === 0) return [];
+
+            // Tratta i punteggi negativi come 0
+            const ricetteCorrette = ricette.map((r) => ({ ...r, punteggio: r.punteggio < 0 ? 0 : r.punteggio }));
+
+            // Calcola il totale dei punteggi
+            const totalePunteggi = ricetteCorrette.reduce((acc, r) => acc + r.punteggio, 0);
+
+            // Se il totale è 0, assegna probabilità uguali
+            if (totalePunteggi === 0) {
+                return ricetteCorrette.map((r) => ({ ...r, probabilita: 1 / ricetteCorrette.length }));
+            }
+
+            // Normalizza le probabilità
+            return ricetteCorrette.map((r) => ({
+                ...r,
+                probabilita: r.punteggio / totalePunteggi
             }));
         }
 
-        // Se il punteggio è negativo allora ha probabilità 0
-        const ricetteConProbabilita = punteggiCorretti.map((ricetta) => ({
-            ...ricetta,
-            probabilita: ricetta.punteggio / totalePunteggi
-        }));
+        // Calcola le probabilità iniziali per ogni categoria
+        let primiConProbabilita = calcolaProbabilita(primiPiatti);
+        let secondiConProbabilita = calcolaProbabilita(secondiPiatti);
 
-        // Trova la probabilità più bassa calcolata
-        const probabilitaMinima = Math.min(
-            ...ricetteConProbabilita.filter((ricetta) => ricetta.probabilita > 0).map((ricetta) => ricetta.probabilita)
-        );
+        // Funzione per estrarre un pasto da una categoria e aggiornare le probabilità
+        function estraiPasto(ricetteConProbabilita, categoria) {
+            if (ricetteConProbabilita.length === 0) return null;
 
-        // Assegna la probabilità minima ai punteggi 0
-        ricetteConProbabilita.forEach((ricetta) => {
-            if (ricetta.punteggio === 0) {
-                ricetta.probabilita = probabilitaMinima;
-            }
-        });
-
-        // Raggruppa piatti per probabilità unica
-        const raggruppamentoProbabilita = {};
-        ricetteConProbabilita.forEach((ricetta) => {
-            const prob = ricetta.probabilita;
-            if (!raggruppamentoProbabilita[prob]) {
-                raggruppamentoProbabilita[prob] = [];
-            }
-            raggruppamentoProbabilita[prob].push({
-                title: ricetta.title,
-                punteggio: ricetta.punteggio
-            });
-        });
-
-        // Visualizza il raggruppamento
-        // console.log("Raggruppamento probabilità e punteggi:", raggruppamentoProbabilita);
-
-        // Estrai pasti randomicamente basandoti sulle probabilità pesate
-        const pastiEstratti = [];
-        while (pastiEstratti.length < numeroPasti && ricetteConProbabilita.length > 0) {
             const random = Math.random();
             let accumulatore = 0;
 
             for (let i = 0; i < ricetteConProbabilita.length; i++) {
                 accumulatore += ricetteConProbabilita[i].probabilita;
                 if (random <= accumulatore) {
-                    pastiEstratti.push(ricetteConProbabilita[i]);
-                    ricetteConProbabilita.splice(i, 1); // Rimuovi la ricetta estratta
-                    break;
+                    // Rimuove il pasto estratto
+                    const pastoEstratto = ricetteConProbabilita.splice(i, 1)[0];
+
+                    // Ricalcola le probabilità per i pasti rimanenti
+                    if (categoria === "Primo piatto") {
+                        primiConProbabilita = calcolaProbabilita(primiConProbabilita);
+                    } else if (categoria === "Secondo piatto") {
+                        secondiConProbabilita = calcolaProbabilita(secondiConProbabilita);
+                    }
+
+                    return pastoEstratto;
                 }
             }
+            return null;
         }
 
-        return pastiEstratti;
+        // Array finale con i pasti estratti per ogni giorno e tipo di pasto
+        const pastiEstrattiPerGiorno = [];
+
+        for (const giorno of dayMeals) {
+            const pastiDelGiorno = { data: giorno.data, pasti: [] };
+
+            let primoPiatto = null;
+            let secondoPiatto = null;
+
+            if (giorno.pranzo) {
+                primoPiatto = estraiPasto(primiConProbabilita, "Primo piatto");
+
+                // Se non c'è un Primo Piatto disponibile, prova con un Secondo Piatto
+                if (!primoPiatto) {
+                    primoPiatto = estraiPasto(secondiConProbabilita, "Secondo piatto");
+                }
+
+                if (primoPiatto) {
+                    pastiDelGiorno.pasti.push({ tipo: "Pranzo", pasto: primoPiatto });
+                }
+            }
+
+            if (giorno.cena) {
+                secondoPiatto = estraiPasto(secondiConProbabilita, "Secondo piatto");
+
+                // Se non c'è un Secondo Piatto disponibile, prova con un Primo Piatto
+                if (!secondoPiatto) {
+                    secondoPiatto = estraiPasto(primiConProbabilita, "Primo piatto");
+                }
+
+                if (secondoPiatto) {
+                    pastiDelGiorno.pasti.push({ tipo: "Cena", pasto: secondoPiatto });
+                }
+            }
+
+            pastiEstrattiPerGiorno.push(pastiDelGiorno);
+        }
+
+        return pastiEstrattiPerGiorno;
     } catch (error) {
         console.error("Errore durante l'estrazione dei pasti pesati:", error);
         throw error;
     }
 }
+
 
 // Funzione per trovare ricette realizzabili con gli ingredienti della dispensa: ok
 async function mealsByPantry(userId) {
@@ -259,20 +291,16 @@ async function mealsByPantry(userId) {
         // Trova la dispensa dell'utente
         const pantry = await Pantry.findOne({ idUtente: userId });
 
-        if (!pantry || !pantry.idIngredienti.length) {
-            return []; // Se la dispensa non esiste o è vuota, restituisci un array vuoto
-        }
-
         // Ottieni i nomi degli ingredienti iterando sugli ID
         const ingredientNames = [];
-        for (const id of pantry.idIngredienti) {
-            const ingredient = await Ingredient.findById(id);
-            if (ingredient) {
-                ingredientNames.push(ingredient.nome);
+        for (const ingredient of pantry.idIngredienti) {
+            const item = await Ingredient.findById(ingredient.id);
+            if (item) {
+                ingredientNames.push(item.nome);
             }
         }
 
-        // Crea un Set con i nomi degli ingredienti disponibili per una ricerca più efficiente
+        // Set con i nomi degli ingredienti
         const availableIngredients = new Set(ingredientNames);
 
         // Recupera tutte le ricette dal database
@@ -290,51 +318,59 @@ async function mealsByPantry(userId) {
     }
 }
 
-// Funzione per ottenere i nomi degli ingredienti
-async function getIngredients(userId) {
-    try {
-        // Trova la dispensa dell'utente
-        const pantry = await Pantry.findOne({ idUtente: userId });
-
-        if (!pantry || !pantry.idIngredienti.length) {
-            return []; // Se la dispensa non esiste o è vuota, restituisci un array vuoto
-        }
-
-        const nomeIngredienti = [];
-
-        // Itera sugli ID degli ingredienti e cerca il nome in Ingredient
-        for (const idIngredient of pantry.idIngredienti) {
-            const ingredient = await Ingredient.findById(idIngredient);
-            if (ingredient) {
-                nomeIngredienti.push(ingredient.nome);
-            }
-        }
-
-        return nomeIngredienti;
-    } catch (error) {
-        console.error("Errore nel recupero degli ingredienti:", error);
-        return [];
-    }
-}
-
-router.get("/createSchedule/:username", async (req, res) => {
+router.post("/createSchedule/:username", async (req, res) => {
     const { username } = req.params;
+    const { meals } = req.body;
+
     try {
-        // console.log("partita")
+        // Trova l'utente
         const user = await User.findOne({ username: username });
-        // const punteggiRicette = await calcolaPunteggiUtente(user.id)
-        // const pastiPesati = await estraiPastiPesati(punteggiRicette, 5);
-        // console.log(pastiPesati)
-        const response = await mealsByPantry(user.id)
-        const pastipesati = await calcolaPunteggiUtente(user.id, response)
-        // const pastiestratti = await estraiPastiPesati(pastipesati, 5)
-        // console.log(pastiestratti)
-        res.json
+        if (!user) return res.status(404).json({ error: "Utente non trovato" });
+
+        const ricette = await mealsByPantry(user.id);
+        const pastipesati = await calcolaPunteggiUtente(user.id, ricette);
+        const pastiestratti = await estraiPastiPesati(pastipesati, meals);
+
+        // Itera su ogni giorno estratto e assegna i pasti
+        for (const giorno of pastiestratti) {
+            const normalizedDate = new Date(giorno.data); // Formatta la data correttamente
+
+            // Trova o crea il documento Daily per quel giorno
+            let dailyEntry = await Daily.findOne({ idUtente: user._id.toString(), data: normalizedDate });
+
+            if (!dailyEntry) {
+                dailyEntry = new Daily({
+                    idUtente: user._id.toString(),
+                    data: normalizedDate,
+                    pasti: { pranzo: [], cena: [] }
+                });
+            }
+
+            // Itera sui pasti (pranzo o cena) e aggiungili alla collezione Daily
+            for (const pasto of giorno.pasti) {
+                const meal = await Meal.findOne({ title: pasto.pasto.title })
+                const newMealEntry = {
+                    mealId: meal._id.toString(), // Può essere anche l'ID della ricetta se necessario
+                    checked: false // Il pasto inizia non selezionato
+                };
+
+                if (pasto.tipo === "Pranzo") {
+                    dailyEntry.pasti.pranzo.push(newMealEntry);
+                } else if (pasto.tipo === "Cena") {
+                    dailyEntry.pasti.cena.push(newMealEntry);
+                }
+            }
+            // Salva il documento aggiornato nel database
+            await dailyEntry.save();
+        }
+
+        res.json("ok");
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: "Errore nel creare il programma dei pasti" });
     }
-    catch (e) {
-        console.log(e)
-    }
-})
+});
+
 
 router.get("/getAllIngredients/:index", async (req, res) => {
     const { index } = req.params;
@@ -398,7 +434,7 @@ router.post("/updateDispensa/:username/:categoria", async (req, res) => {
 
         let updatedPantry = pantryIngredients
             .map(item => {
-                const itemIdStr = item.id.toString();
+                const itemIdStr = item.id;
 
                 if (noQuantityIds.has(itemIdStr)) {
                     return null; // Se è in noquantity, lo rimuoviamo
@@ -500,56 +536,99 @@ router.get("/getMeals/:username", async (req, res) => {
     const { username } = req.params;
     try {
         const user = await User.findOne({ username: username });
-        const pasti = await Daily.find({ idUtente: user._id.toString() })
+        if (!user) {
+            return res.status(404).json({ error: "User not found" });
+        }
+
+        const pasti = await Daily.find({ idUtente: user._id.toString() });
         const results = [];
+
         for (const pasto of pasti) {
-            let pranzo = []
-            let cena = []
-            if (pasto.pasti.pranzo != null) {
-                const idPranzo = pasto.pasti.pranzo.toString()
-                pranzo = await Meal.findOne({ _id: idPranzo })
+            let pranzo = [];
+            let cena = [];
+
+            if (pasto.pasti.pranzo.length > 0) {
+                pranzo = await Meal.find({ _id: { $in: pasto.pasti.pranzo.map(p => p.mealId) } });
             }
-            if (pasto.pasti.cena != null) {
-                const idCena = pasto.pasti.cena.toString()
-                cena = await Meal.findOne({
-                    _id: idCena
-                })
+            if (pasto.pasti.cena.length > 0) {
+                cena = await Meal.find({ _id: { $in: pasto.pasti.cena.map(c => c.mealId) } });
             }
+
             results.push({
                 userId: pasto.idUtente,
                 data: pasto.data,
-                pranzo: pranzo ? pranzo.title : null,
-                cena: cena ? cena.title : null,
-                checkedPranzo: pasto.checkedPranzo,
+                pranzo: pranzo.map(p => ({ mealId: p._id, title: p.title, checked: pasto.pasti.pranzo.find(item => item.mealId.toString() === p._id.toString())?.checked })),
+                cena: cena.map(c => ({ mealId: c._id, title: c.title, checked: pasto.pasti.cena.find(item => item.mealId.toString() === c._id.toString())?.checked })),
             });
         }
-        console.log(results)
-        res.json(results)
+
+        res.json(results);
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: "Internal server error" });
     }
-    catch (e) {
-        console.log(e)
-    }
-})
+});
 
 router.post("/updateCheckMeal/:username/:type", async (req, res) => {
-    const { username, type } = req.params
-    const { item } = req.body
+    const { username, type } = req.params;
+    const { item, selectedDay } = req.body;
+    const formattedDay = new Date(selectedDay.split("/").reverse().join("-"))
     try {
-        const user = await User.findOne({ username: username })
-        const pasto = await Daily.findOne({ idUtente: user._id.toString(), data: item.data })
+        const user = await User.findOne({ username: username });
+        const pasto = await Daily.findOne({ idUtente: user._id.toString(), data: formattedDay });
+
         if (type === "pranzo") {
-            pasto.checkedPranzo = !pasto.checkedPranzo;
+            pasto.pasti.pranzo = pasto.pasti.pranzo.map(p =>
+                p.mealId === item.mealId ? { ...p, checked: !p.checked } : p
+            );
+        } else if (type === "cena") {
+            pasto.pasti.cena = pasto.pasti.cena.map(c =>
+                c.mealId === item.mealId ? { ...c, checked: !c.checked } : c
+            );
         } else {
-            pasto.checkedCena = !pasto.checkedCena;
+            return res.status(400).json({ error: "Invalid meal type" });
         }
 
-        await pasto.save()
-        res.json("ok")
+        await pasto.save();
+        res.json("ok");
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: "Internal server error" });
     }
-    catch (e) {
-        console.log(e)
+});
+
+router.post("/removeIngredients/:username", async (req, res) => {
+    const { username } = req.params;
+    const { item } = req.body;
+    try {
+        const user = await User.findOne({ username: username });
+        const pasto = await Meal.findOne({ _id: item.mealId });
+        const dispensa = await Pantry.findOne({ idUtente: user._id.toString() });
+        const ingredientiPasto = pasto.ingredients;
+
+        // Trova gli ID degli ingredienti a partire dal nome
+        const ingredientNames = ingredientiPasto.map(p => p[0]);
+        const ingredientIds = await Ingredient.find({ nome: { $in: ingredientNames } });
+
+        // Aggiorna le quantità nella dispensa e rimuove gli ingredienti con quantità 0
+        dispensa.idIngredienti = dispensa.idIngredienti
+            .map(ing => {
+                const ingredienteNome = ingredientIds.find(p => p._id.toString() === ing.id);
+                if (ingredienteNome) {
+                    const newQuantity = Math.max(0, ing.quantity - 1);
+                    return newQuantity > 0 ? { ...ing, quantity: newQuantity } : null;
+                }
+                return ing;
+            })
+            .filter(ing => ing !== null); // Rimuove gli ingredienti con quantità 0
+
+        await dispensa.save();
+        res.json("ok");
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: "Internal server error" });
     }
-})
+});
 
 router.post("/updateIngredientFromChecklist/:username", async (req, res) => {
     const { username } = req.params;
@@ -608,7 +687,6 @@ router.post("/addIngredientDispensa/:username", async (req, res) => {
             for (const ingrediente of checklist) {
                 if (ingrediente.checked === true) {
                     const existingIngredientIndex = pantryUser.idIngredienti.findIndex(item => item.id === ingrediente.id);
-                    console.log(existingIngredientIndex)
                     if (existingIngredientIndex !== -1) {
                         await Pantry.updateOne({ idUtente: user._id.toString(), 'idIngredienti.id': ingrediente.id }, { $inc: { 'idIngredienti.$.quantity': ingrediente.quantity } })
                     } else {
@@ -684,7 +762,7 @@ router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
         // Estrarre solo gli ingredienti presenti in dispensa con quantità
         const pantryIngredientsMap = new Map();
         pantryUser.idIngredienti.forEach(item => {
-            pantryIngredientsMap.set(item.id.toString(), item.quantity);
+            pantryIngredientsMap.set(item.id, item.quantity);
         });
 
         // Trova gli ingredienti nella categoria richiesta che l'utente ha in dispensa
@@ -706,9 +784,6 @@ router.get("/categoryIngredients/:username/:categoria", async (req, res) => {
     }
 });
 
-
-
-//TODO: quantity confrontato con la dispensa dell'utente
 router.get("/searchIngredient", async (req, res) => {
     const { query } = req.query; // Prendiamo la parola cercata dai query params
 
@@ -933,12 +1008,49 @@ router.post("/addDispensa/:username", async (req, res) => {
         pantryUser.idIngredienti = Array.from(pantryMap, ([id, quantity]) => ({ id, quantity }));
 
         await pantryUser.save();
-        res.json({ message: "Dispensa aggiornata con successo" });
+        res.json("ok");
     } catch (e) {
         console.error("Errore nell'aggiornamento della dispensa:", e);
         res.status(500).json({ error: "Errore del server" });
     }
 });
+
+router.post("/addSingleIngredientDispensa/:username", async (req, res) => {
+    const { username } = req.params;
+    const { ingredientId } = req.body;
+
+    try {
+        // Trova l'utente
+        const user = await User.findOne({ username: username });
+
+        // Trova l'ingrediente
+        const ingredient = await Ingredient.findOne({ _id: ingredientId });
+
+        // Trova o crea la dispensa dell'utente
+        let pantry = await Pantry.findOne({ idUtente: user._id.toString() });
+
+        // Controlla se l'ingrediente è già presente nella dispensa
+        const ingredientIndex = pantry.idIngredienti.findIndex(item => item.id === ingredientId);
+
+        if (ingredientIndex !== -1) {
+            // Se esiste già, aumenta la quantità di 1
+            pantry.idIngredienti[ingredientIndex].quantity += 1;
+        } else {
+            // Se non esiste, aggiungilo con quantità 1
+            pantry.idIngredienti.push({ _id: ingredient._id, quantity: 1 });
+        }
+
+
+        // Salva le modifiche
+        await pantry.save();
+
+        res.json({ message: "Ingrediente aggiornato con successo", pantry });
+    } catch (e) {
+        console.log(e);
+        res.status(500).json({ error: "Errore durante l'aggiornamento della dispensa" });
+    }
+});
+
 
 
 router.get("/getMeals/:username", async (req, res) => {
@@ -1111,7 +1223,6 @@ router.post("/changeMeal", async (req, res) => {
         res.status(500).json({ error: "Internal server error" });
     }
 });
-
 
 //TODO: gestire bene gli errori nella creazione del nuovo menu
 router.post("/newMenu", async (req, res) => {
@@ -1433,10 +1544,10 @@ const normalizeDate = (date) => {
 router.post("/addMeal/:username", async (req, res) => {
     const { username } = req.params;
     const { item, selectedDay, type } = req.body;
+
     try {
         const user = await User.findOne({ username: username });
-        const meal = await Meal.findById(item._id);
-        const normalizedDate = normalizeDate(selectedDay);
+        const normalizedDate = new Date(selectedDay.split("/").reverse().join("-")); // Converte DD/MM/YYYY in Date
 
         // Trova o crea il documento giornaliero
         let dailyEntry = await Daily.findOne({ idUtente: user._id, data: normalizedDate });
@@ -1445,23 +1556,45 @@ router.post("/addMeal/:username", async (req, res) => {
             dailyEntry = new Daily({
                 idUtente: user._id,
                 data: normalizedDate,
-                pasti: {
-                    colazione: null,
-                    pranzo: null,
-                    cena: null
-                },
-                checkedPranzo: false,
-                checkedCena: false
+                pasti: { pranzo: [], cena: [] }
             });
         }
 
+        // Crea l'oggetto pasto
+        const newMealEntry = {
+            mealId: item._id,
+            checked: false
+        };
+
+        // Aggiungi il pasto nel tipo corretto (pranzo o cena)
         if (type === "pranzo") {
-            dailyEntry.pasti.pranzo = meal._id;
-        } 
-        else if (type === "cena") {
-            dailyEntry.pasti.cena = meal._id;
+            dailyEntry.pasti.pranzo.push(newMealEntry);
+        } else if (type === "cena") {
+            dailyEntry.pasti.cena.push(newMealEntry);
+        } else {
+            return res.status(400).json({ error: "Invalid meal type" });
         }
 
+        for (const ingredient of item.ingredients) {
+            const foundIngredient = await Ingredient.findOne({ nome: ingredient[0] });
+            if (foundIngredient) {
+                // Verifica che l'ingrediente non sia già presente nella checklist
+                const alreadyInChecklist = user.checklist.some(i => i.id === foundIngredient._id.toString());
+                if (!alreadyInChecklist) {
+                    user.checklist.push({
+                        quantity: 1,
+                        checked: false,
+                        id: foundIngredient._id.toString(),
+                        nome: ingredient[0]
+                    });
+                }
+                else {
+                    alreadyInChecklist.quantity += 1
+                }
+            }
+        }
+
+        await user.save();
         await dailyEntry.save();
         res.json("ok");
 
@@ -1474,7 +1607,7 @@ router.post("/addMeal/:username", async (req, res) => {
 router.get("/getMealInfo/:mealId", async (req, res) => {
     const { mealId } = req.params
     try {
-        const meal = await Meal.findOne({ title: mealId })
+        const meal = await Meal.findOne({ _id: mealId })
         res.json(meal)
     }
     catch (e) {

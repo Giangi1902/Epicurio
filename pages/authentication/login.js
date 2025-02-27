@@ -5,14 +5,16 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useNavigation } from '@react-navigation/native';
 import axios from "axios";
 import * as Notifications from 'expo-notifications';
+import { useTheme } from "../../themeContext";
 
-const backgroundimg = require('../../images/food.png')
+const backgroundimg = require('../../images/foodwhite.png')
 
 function Login() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [isLoading, setIsLoading] = useState(false)
   const navigation = useNavigation();
+  const { theme } = useTheme()
 
   const spinValue = useState(new Animated.Value(0))[0]; // Valore iniziale per l'animazione
 
@@ -83,16 +85,16 @@ function Login() {
       <ImageBackground source={backgroundimg} style={styles.backgroundImage} resizeMode='repeat'>
 
         <View style={styles.imageContainer}>
-          <View style={styles.backgroundWrapper} />
+          <View style={[styles.backgroundWrapper, {backgroundColor: theme.coloreChiaro, borderColor: theme.coloreScuro}]} />
           <Image source={require('../../images/image.png')} style={styles.image} />
         </View>
 
-        <Input placeholder="Inserisci username" style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
-        <Input placeholder="Inserisci password" style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
-        
+        <Input placeholder="Inserisci username" style={[styles.input, { borderColor: theme.coloreScuro }]} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
+        <Input placeholder="Inserisci password" style={[styles.input, { borderColor: theme.coloreScuro }]} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
+
         {isLoading === false ?
           <View style={styles.buttonContainer}>
-            <TouchableOpacity onPress={() => { setIsLoading(!isLoading); startSpin(); handleLogin() }} style={styles.button}>
+            <TouchableOpacity onPress={() => { setIsLoading(!isLoading); startSpin(); handleLogin() }} style={[styles.button, {backgroundColor: theme.coloreScuro}]}>
               <Text style={{ alignSelf: "center", fontFamily: "Poppins_400Regular", color: "white" }}>Login</Text>
             </TouchableOpacity>
           </View>
@@ -116,7 +118,6 @@ const styles = StyleSheet.create({
   input: {
     height: 40,
     width: '100%',
-    borderColor: 'black',
     borderWidth: 2,
     marginVertical: 10,
     paddingHorizontal: 20,
@@ -127,7 +128,6 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   button: {
-    backgroundColor: "#9B0800",
     borderRadius: 15,
     padding: 15
   },
@@ -152,7 +152,6 @@ const styles = StyleSheet.create({
   },
   backgroundWrapper: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
     borderWidth: 1

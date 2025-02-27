@@ -27,19 +27,38 @@ function CardPasto({ text, meals, selectedDay, type, username, updateMealStatus 
     // Filtra i pasti che corrispondono alla data selezionata
     const selectedMeals = meals.filter(meal => formatMealDate(meal.data) === normalizeDate(selectedDay));
 
-    const handleToggle = async (item) => {
+    const handleToggle = async (meal, item) => {
         try {
             const updatedMeal = {
-                ...item,
-                checkedPranzo: type === "pranzo" ? !item.checkedPranzo : item.checkedPranzo,
-                checkedCena: type === "cena" ? !item.checkedCena : item.checkedCena
+                ...meal,
+                [type]: meal[type].map(p =>
+                    p.mealId === item.mealId ? { ...p, checked: !p.checked } : p
+                )
             };
 
             updateMealStatus(updatedMeal);
-            const response = await axios.post(`http://192.168.1.89:8080/updateCheckMeal/${username}/${type}`, {
+            await axios.post(`http://192.168.1.89:8080/updateCheckMeal/${username}/${type}`, {
+                item, selectedDay
+            });
+            const updatedItem = updatedMeal[type].find(p => p.mealId === item.mealId);
+            if (updatedItem?.checked) {
+                handleRemoveIngredients(item);
+            }
+
+        }
+        catch (e) {
+            console.log(e);
+        }
+    };
+
+
+    const handleRemoveIngredients = async (item) => {
+        try {
+            const response = await axios.post(`http://192.168.1.89:8080/removeIngredients/${username}`, {
                 item
             })
-            if (response.data === "ok") {
+            if (response.data == "ok") {
+                console.log("dispensa aggiornata")
             }
         }
         catch (e) {
@@ -49,7 +68,7 @@ function CardPasto({ text, meals, selectedDay, type, username, updateMealStatus 
 
     const handleMealPage = async (meal) => {
         try {
-            const mealId = type === "pranzo" ? meal.pranzo : meal.cena;
+            const mealId = meal.mealId
 
             if (!mealId) {
                 console.warn("Nessun pasto registrato");
@@ -71,14 +90,13 @@ function CardPasto({ text, meals, selectedDay, type, username, updateMealStatus 
         try {
             navigation.navigate("Home", {
                 screen: "SearchMeals",
-                params: {selectedDay, type}
+                params: { selectedDay, type }
             });
         } catch (e) {
             console.log(e);
         }
     };
 
-    //TODO: mettere pasti come array per supportare piu di un cibo
     return (
         <View style={styles.cardPasto}>
             <TouchableOpacity style={{ flexDirection: "row", justifyContent: "space-between", marginHorizontal: 10, padding: 10, borderColor: theme.coloreScuro, borderWidth: 1, borderRadius: 15 }} onPress={handleSearchMealPage}>
@@ -88,22 +106,40 @@ function CardPasto({ text, meals, selectedDay, type, username, updateMealStatus 
 
             {selectedMeals.length > 0 ? (
                 selectedMeals.map((meal, index) => (
-                    <View key={index} style={styles.mealContainer}>
-
-                        <CheckBox
-                            checked={type == "pranzo" ? meal.checkedPranzo : meal.checkedCena}
-                            onChange={() => handleToggle(meal)}
-                        />
-                        <TouchableOpacity onPress={() => handleMealPage(meal)}>
-                            <Text style={styles.mealText}>
-                                {type === "pranzo" ? (meal.pranzo || "Nessun pasto registrato") : (meal.cena || "Nessun pasto registrato")}
-                            </Text>
-                        </TouchableOpacity>
+                    <View key={index}>
+                        {type === "pranzo" && meal.pranzo.length > 0 ? (
+                            meal.pranzo.map((p, idx) => (
+                                <View key={idx} style={styles.mealContainer}>
+                                    <CheckBox
+                                        checked={p.checked}
+                                        onChange={() => handleToggle(meal, p)}
+                                    />
+                                    <TouchableOpacity onPress={() => handleMealPage(p)}>
+                                        <Text style={styles.mealText}>{p.title || "Nessun pasto registrato"}</Text>
+                                    </TouchableOpacity>
+                                </View>
+                            ))
+                        ) : type === "cena" && meal.cena.length > 0 ? (
+                            meal.cena.map((c, idx) => (
+                                <View key={idx} style={styles.mealContainer}>
+                                    <CheckBox
+                                        checked={c.checked}
+                                        onChange={() => handleToggle(meal, c)}
+                                    />
+                                    <TouchableOpacity onPress={() => handleMealPage(c)}>
+                                        <Text style={styles.mealText}>{c.title || "Nessun pasto registrato"}</Text>
+                                    </TouchableOpacity>
+                                </View>
+                            ))
+                        ) : (
+                            <Text style={styles.noMealText}>Nessun pasto disponibile</Text>
+                        )}
                     </View>
                 ))
             ) : (
                 <Text style={styles.noMealText}>Nessun pasto disponibile</Text>
             )}
+
         </View>
     );
 }
@@ -137,7 +173,7 @@ const getStyles = (theme) => StyleSheet.create({
         width: "95%",
         alignSelf: "center",
         backgroundColor: 'white',
-        borderRadius: 10,
+        borderRadius: 15,
         shadowColor: '#000',
         shadowOpacity: 0.2,
         shadowOffset: { width: 0, height: 2 },

@@ -109,29 +109,18 @@ const dailySchema = new mongoose.Schema({
     required: true,
   },
   pasti: {
-    colazione: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Meal',
-      default: null,
-    },
-    pranzo: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Meal',
-      default: null,
-    },
-    cena: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Meal',
-      default: null,
-    }
-  },
-  checkedPranzo: {
-    type: Boolean,
-    default: false
-  },
-  checkedCena: {
-    type: Boolean,
-    default: false
+    pranzo: [
+      {
+        mealId: { type: String, required: true },
+        checked: { type: Boolean, default: false }
+      }
+    ],
+    cena: [
+      {
+        mealId: { type: String, required: true },
+        checked: { type: Boolean, default: false }
+      }
+    ]
   }
 });
 

@@ -64,7 +64,6 @@ function MealPage() {
 
     //TODO: mettere loading immagine
     //TODO: mettere modo di aggiunta pasto alla settimana
-    //TODO: problema in details, possono esserci cambi nei campi
     return (
         <View style={styles.container}>
             <View style={{ backgroundColor: theme.coloreChiaro, borderBottomRightRadius: 45, borderBottomLeftRadius: 45 }}>

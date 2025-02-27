@@ -27,12 +27,8 @@ function Home() {
     const navigation = useNavigation();
     const [currentDay, setCurrentDay] = useState("")
     const [data, setData] = useState([])
-    const [mealListModalVisible, setMealListModalVisible] = useState(false);
-    const [meals, setMeals] = useState([]);
-    const [mealtype, setMealType] = useState("")
+    const [ingredients, setIngredients] = useState([])
     const { theme } = useTheme();
-    const [currentIndex, setCurrentIndex] = useState(0);
-    const [isLoading, setIsLoading] = useState(false)
 
     useEffect(() => {
         const fetchUsername = async () => {
@@ -82,36 +78,6 @@ function Home() {
         }
     };
 
-    const openMealListModal = async () => {
-        try {
-            const response = await axios.get(`http://192.168.1.89:8080/getAllMeals/${username}`);
-            setMeals(response.data);
-            setMealListModalVisible(true);
-        } catch (e) {
-            console.log(e);
-        }
-    };
-
-    const closeMealListModal = () => {
-        setMealListModalVisible(false);
-    };
-
-    const handleEdit = async (item) => {
-        try {
-            const response = await axios.post(`http://192.168.1.89:8080/changeMeal`, {
-                id: item._id,
-                username: username,
-                orario: mealtype,
-                day: currentDay
-            })
-            handleNextMeal()
-            setMealListModalVisible(false)
-        }
-        catch (e) {
-            console.log(e)
-        }
-    };
-
     const [query, setQuery] = useState("");
     const [filteredData, setFilteredData] = useState([]);
 
@@ -135,6 +101,20 @@ function Home() {
         }
     };
 
+    const handlePlus = async (ingredientId) => {
+        // Aggiorna `filteredData` aumentando `quantity` dell'ingrediente selezionato
+        setFilteredData((prevFilteredData) =>
+            prevFilteredData.map(item =>
+                item._id === ingredientId ? { ...item, quantity: (item.quantity || 0) + 1 } : item
+            )
+        );
+
+        const response = await axios.post(`http://192.168.1.89:8080/addSingleIngredientDispensa/${username}`, {
+            ingredientId
+        });
+    };
+
+    //TODO: aggiungere handleMinus
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={'#ADC8AD'} barStyle={"dark-content"} />
@@ -247,41 +227,15 @@ function Home() {
                                             </View>
                                             <View>
                                                 <View style={styles.buttonContainerAddMinus}>
-                                                    <TouchableOpacity style={styles.buttonMinus} onPress={() => handleMinus(item.id)}>
-                                                        <Image source={require('../../images/minus.png')} style={styles.iconButton} />
-                                                    </TouchableOpacity>
-                                                    <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
-                                                        <LinearGradient
-                                                            colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                            start={{ x: 0, y: 0.5 }}
-                                                            end={{ x: 1, y: 0.5 }}
-                                                            style={{
-                                                                position: "absolute",
-                                                                top: 0,
-                                                                left: 0,
-                                                                width: "100%",
-                                                                height: 2, // Spessore del bordo
-                                                            }}
-                                                        />
-                                                        <LinearGradient
-                                                            colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                            start={{ x: 0, y: 0.5 }}
-                                                            end={{ x: 1, y: 0.5 }}
-                                                            style={{
-                                                                position: "absolute",
-                                                                bottom: 0,
-                                                                left: 0,
-                                                                width: "100%",
-                                                                height: 2, // Spessore del bordo
-                                                            }}
-                                                        />
-                                                        <View style={{ borderRadius: 20, overflow: "hidden" }}>
-                                                            <Text style={{ color: "black" }}>1</Text>
-                                                        </View>
-                                                    </View>
-                                                    <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item.id)}>
+
+                                                    <TouchableOpacity style={styles.buttonAdd} onPress={() => handlePlus(item._id)}>
                                                         <Image source={require('../../images/plus.png')} style={styles.iconButton} />
                                                     </TouchableOpacity>
+                                                    <View style={[styles.quantityNotification, {backgroundColor: theme.coloreChiaro}]}>
+                                                        <Text style={styles.quantityText}>
+                                                            {item.quantity}
+                                                        </Text>
+                                                    </View>
                                                 </View>
                                             </View>
                                         </View>
@@ -338,21 +292,21 @@ const styles = StyleSheet.create({
         backgroundColor: '#0B7308',
         justifyContent: 'center',
         alignItems: 'center',
-        borderTopRightRadius: 10,
-        borderBottomRightRadius: 10,
+        borderRadius: 10,
         marginRight: 5,
         alignSelf: 'flex-end',
     },
-    buttonMinus: {
-        width: 40,
-        height: 40,
-        backgroundColor: '#9B0800',
-        justifyContent: 'center',
-        alignItems: 'center',
-        borderTopLeftRadius: 10,
-        borderBottomLeftRadius: 10,
-        marginLeft: 8,
-        alignSelf: 'flex-end',
+    quantityNotification: {
+        position: 'absolute',
+        top: -5,
+        right: -5,
+        borderRadius: 10,
+        paddingHorizontal: 5,
+        paddingVertical: 2,
+    },
+    quantityText: {
+        fontSize: 12,
+        fontFamily: "Poppins_400Regular"
     },
     cardAddIngredient: {
         borderRadius: 10,

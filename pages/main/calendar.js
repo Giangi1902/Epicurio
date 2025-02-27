@@ -5,6 +5,7 @@ import { it } from 'date-fns/locale';
 import CardPasto from "../components/cardPasto";
 import { useTheme } from "../../themeContext";
 import axios from "axios";
+import { useNavigation, useIsFocused } from '@react-navigation/native';
 
 const { width: deviceWidth } = Dimensions.get("window");
 
@@ -15,6 +16,8 @@ const Calendario = ({ username }) => {
   const flatListRef = useRef(null);
   const [meals, setMeals] = useState([])
   const [refreshing, setRefreshing] = useState(false); // Stato per il pull-to-refresh
+  const navigation = useNavigation();
+  const isFocused = useIsFocused();
 
   const startOfYearDate = startOfYear(today);
   const endOfYearDate = endOfYear(today);
@@ -46,8 +49,10 @@ const Calendario = ({ username }) => {
   }
 
   useEffect(() => {
-    getMeals()
-  }, [username])
+    if (isFocused) {
+      getMeals()
+    }
+  }, [username, isFocused])
 
   // Creazione delle settimane dell'anno
   const dates = eachWeekOfInterval(
@@ -78,15 +83,6 @@ const Calendario = ({ username }) => {
     setSelectedDay(addHours(dates[newIndex].find(day => day.toDateString() === today.toDateString()) || dates[newIndex][0], 1));
   };
 
-  const handleAddMeals = async () => {
-    try {
-      // const response = await axios.get(`http://192.168.1.89:8080/createSchedule/${username}`);
-    }
-    catch (e) {
-      console.log(e);
-    }
-  };
-
   const updateMealStatus = (updatedMeal) => {
     setMeals(prevMeals =>
       prevMeals.map(meal =>
@@ -95,6 +91,18 @@ const Calendario = ({ username }) => {
     );
   };
 
+  const handleCreateMenu = async () => {
+    try {
+      navigation.navigate("Home", {
+        screen: "Create Menu",
+        params: { username }
+      });
+    } catch (e) {
+      console.log(e);
+    }
+  };
+
+  //TODO: mostrare modal per scegliere quali giorni organizzare le ricette
   return (
     <View style={{ flex: 1 }}>
       <FlatList
@@ -147,25 +155,25 @@ const Calendario = ({ username }) => {
                 );
               })}
             </View>
-            <ScrollView
+            {/* <ScrollView
               style={{ flex: 1 }}
               refreshControl={
                 <RefreshControl refreshing={refreshing} onRefresh={onRefresh} colors={[theme.coloreScuro]} />
               }
-            >
-              <View style={{ backgroundColor: "white", marginTop: 15, width: "100%", alignSelf: "center", padding: 10, borderColor: theme.coloreScuro, borderTopWidth: 1, borderBottomWidth: 1 }}>
-                {selectedDay && (
-                  <View>
-                    <CardPasto text={`PRANZO`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"pranzo"} username={username} updateMealStatus={updateMealStatus} />
-                    <CardPasto text={`CENA`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"cena"} username={username} updateMealStatus={updateMealStatus} />
-                  </View>
-                )}
-                <TouchableOpacity onPress={handleAddMeals} style={[styles.cardAddIngredient, { backgroundColor: theme.coloreScuro }]}>
-                  <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center", color: "white" }}>Crea il menu</Text>
-                  {/* <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image> */}
-                </TouchableOpacity>
-              </View>
-            </ScrollView>
+            > */}
+            <View style={{ backgroundColor: "white", marginTop: 15, width: "100%", alignSelf: "center", padding: 10, borderColor: theme.coloreScuro, borderTopWidth: 1, borderBottomWidth: 1 }}>
+              {selectedDay && (
+                <View>
+                  <CardPasto text={`PRANZO`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"pranzo"} username={username} updateMealStatus={updateMealStatus} />
+                  <CardPasto text={`CENA`} meals={meals} selectedDay={selectedDay.toLocaleDateString()} type={"cena"} username={username} updateMealStatus={updateMealStatus} />
+                </View>
+              )}
+              <TouchableOpacity onPress={handleCreateMenu} style={[styles.cardAddIngredient, { backgroundColor: theme.coloreScuro }]}>
+                <Text style={{ fontFamily: "Poppins_500Medium", fontSize: 18, textAlign: "center", color: "white" }}>Crea il menu</Text>
+                {/* <Image source={require("../../images/magic-wand.png")} style={[styles.icon, { alignSelf: "center", margin: 10 }]}></Image> */}
+              </TouchableOpacity>
+            </View>
+            {/* </ScrollView> */}
           </View>
         )}
       />
@@ -219,7 +227,7 @@ const getStyles = (theme) => StyleSheet.create({
     resizeMode: 'contain',
   },
   cardAddIngredient: {
-    borderRadius: 10,
+    borderRadius: 15,
     backgroundColor: '#fff',
     shadowColor: '#000',
     shadowOpacity: 0.2,

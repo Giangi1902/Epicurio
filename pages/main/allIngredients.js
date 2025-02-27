@@ -153,7 +153,6 @@ function AllIngredients() {
         try {
             // Filtra gli ingredienti per includere solo quelli con quantità diversa da 0
             const filteredIngredients = ingredients.filter(item => item.quantity !== 0);
-            console.log(filteredIngredients)
             const response = await axios.post(`http://192.168.1.89:8080/addDispensa/${username}`, {
                 ingredients: filteredIngredients
             });

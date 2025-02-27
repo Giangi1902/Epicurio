@@ -75,6 +75,7 @@ function Home() {
         // });
     };
 
+    //TODO: rivedere login e signup
     return (
         <Layout style={styles.container}>
             <StatusBar translucent={true} backgroundColor={theme.coloreChiaro} barStyle={"dark-content"} />
@@ -82,13 +83,13 @@ function Home() {
                 <View style={{ alignItems: "center", flexDirection: "row", alignSelf: "center", marginVertical: 10 }}>
                     {/* <Image source={require("../../images/image.png")} style={{ height: 75, width: 75 }} />
                     <Text style={{ color: theme.coloreScuro, fontSize: 36, fontFamily: "Poppins_600SemiBold_Italic", marginHorizontal: -5 }}> picurio</Text> */}
-                    <Image source={require("../../images/logo5.png")} style={{height: 100, resizeMode: "contain"}}/>
+                    <Image source={require("../../images/logo5.png")} style={{ height: 100, resizeMode: "contain" }} />
                 </View>
             </View>
 
             <ScrollView style={styles.scrollView}>
-                <View style={{marginVertical: 15}}>
-                    <Calendario username={username}/>
+                <View style={{ marginVertical: 15 }}>
+                    <Calendario username={username} />
                 </View>
 
                 {/* <Diet /> */}

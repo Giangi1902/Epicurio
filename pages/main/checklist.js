@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import { Layout, Text, CheckBox, Input } from "@ui-kitten/components";
-import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, Dimensions, TextInput } from "react-native";
+import { View, StyleSheet, TouchableOpacity, Animated, Easing, SafeAreaView, ScrollView, Image, ActivityIndicator, Dimensions, TextInput, RefreshControl } from "react-native";
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useFocusEffect } from '@react-navigation/native';
@@ -21,6 +21,8 @@ function Checklist() {
     const [isLoading, setIsLoading] = useState(false)
     const [filteredIngredients, setFilteredIngredients] = useState();
     const [usingAsyncStorage, setUsingAsyncStorage] = useState(false);
+    const [isRefreshing, setIsRefreshing] = useState(false);
+
 
     const [checklist, setChecklist] = useState([])
     const { theme } = useTheme();
@@ -223,9 +225,12 @@ function Checklist() {
         }
     };
 
+    const handleRefresh = async () => {
+        setIsRefreshing(true);
+        await getChecklist(); // Chiamata per aggiornare la lista della spesa
+        setIsRefreshing(false);
+    };
 
-    //TODO: aggiungere controllo se non c'è nulla in lista della spesa
-    //TODO: quando poi ritorna eliminando la query di ricerca, aggiorna le quantità in lista della spesa
     return (
         <Layout style={{ flex: 1, backgroundColor: "#F3F4F6" }}>
             <SafeAreaView style={{ flex: 1 }}>
@@ -247,70 +252,84 @@ function Checklist() {
                 </View>
                 {query === "" ? (
                     <View style={styles.listContainer}>
-                        <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16}>
+                        <ScrollView showsVerticalScrollIndicator={false} scrollEventThrottle={16} refreshControl={
+                            <RefreshControl refreshing={isRefreshing} onRefresh={handleRefresh} />
+                        }>
                             <View style={[styles.cardAddIngredient, { borderColor: theme.coloreScuro, borderWidth: 1 }]}>
-                                <View>
-                                    {checklist.map((item, index) => (
-                                        <View key={index}>
-                                            {index === 0 || item.categoria !== checklist[index - 1]?.categoria ? (
+                                {checklist.length === 0 ? (
+                                    // Se la lista è vuota, mostra un messaggio
+                                    <View style={{ alignItems: 'center', marginTop: 20 }}>
+                                        <Text style={{ fontSize: 18, color: 'black', fontFamily: 'Poppins_400Regular' }}>
+                                            La tua lista della spesa è vuota!
+                                        </Text>
+                                        <Text style={{ fontSize: 14, color: 'gray', fontFamily: 'Poppins_300Light', marginTop: 10 }}>
+                                            Aggiungi nuovi ingredienti o aggiorna la lista.
+                                        </Text>
+                                    </View>
+                                ) : (
+                                    <View>
+                                        {checklist.map((item, index) => (
+                                            <View key={index}>
+                                                {index === 0 || item.categoria !== checklist[index - 1]?.categoria ? (
 
-                                                <View style={{ alignItems: 'center' }}>
-                                                    <Text style={{ fontSize: 16, textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.categoria}</Text>
-                                                    <View style={[styles.separateCategory, { width: '75%' }]} />
-                                                </View>
-                                            ) : null}
+                                                    <View style={{ alignItems: 'center' }}>
+                                                        <Text style={{ fontSize: 16, textAlign: "center", color: "gray", fontFamily: 'Poppins_300Light' }}>{item.categoria}</Text>
+                                                        <View style={[styles.separateCategory, { width: '75%' }]} />
+                                                    </View>
+                                                ) : null}
 
-                                            <View style={styles.itemContainer}>
-                                                <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)} />
-                                                <View style={styles.itemTextContainer}>
-                                                    <Text style={[styles.itemText, { fontFamily: 'Poppins_500Medium', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
-                                                        {item.nome}
-                                                    </Text>
-                                                </View>
+                                                <View style={styles.itemContainer}>
+                                                    <CheckBox style={styles.checkBox} checked={item.checked} onChange={() => handleToggle(item.id)} />
+                                                    <View style={styles.itemTextContainer}>
+                                                        <Text style={[styles.itemText, { fontFamily: 'Poppins_500Medium', color: item.checked === true ? "gray" : "black" }, item.checked === true ? styles.checkedText : null]}>
+                                                            {item.nome}
+                                                        </Text>
+                                                    </View>
 
-                                                <View>
-                                                    <View style={styles.buttonContainerAddMinus}>
-                                                        <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(item.id)}>
-                                                            <Image source={require('../../images/minus.png')} style={styles.icon} />
-                                                        </TouchableOpacity>
-                                                        <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
-                                                            <LinearGradient
-                                                                colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                                start={{ x: 0, y: 0.5 }}
-                                                                end={{ x: 1, y: 0.5 }}
-                                                                style={{
-                                                                    position: "absolute",
-                                                                    top: 0,
-                                                                    left: 0,
-                                                                    width: "100%",
-                                                                    height: 2, // Spessore del bordo
-                                                                }}
-                                                            />
-                                                            <LinearGradient
-                                                                colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
-                                                                start={{ x: 0, y: 0.5 }}
-                                                                end={{ x: 1, y: 0.5 }}
-                                                                style={{
-                                                                    position: "absolute",
-                                                                    bottom: 0,
-                                                                    left: 0,
-                                                                    width: "100%",
-                                                                    height: 2, // Spessore del bordo
-                                                                }}
-                                                            />
-                                                            <View style={{ borderRadius: 20, overflow: "hidden", backgroundColor: "white" }}>
-                                                                <Text style={{ color: "black" }}>{item.quantity}</Text>
+                                                    <View>
+                                                        <View style={styles.buttonContainerAddMinus}>
+                                                            <TouchableOpacity style={styles.buttonMinus} onPress={() => handleRemoveIngredient(item.id)}>
+                                                                <Image source={require('../../images/minus.png')} style={styles.icon} />
+                                                            </TouchableOpacity>
+                                                            <View style={{ width: 30, height: 40, justifyContent: "center", alignItems: "center" }}>
+                                                                <LinearGradient
+                                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                                    start={{ x: 0, y: 0.5 }}
+                                                                    end={{ x: 1, y: 0.5 }}
+                                                                    style={{
+                                                                        position: "absolute",
+                                                                        top: 0,
+                                                                        left: 0,
+                                                                        width: "100%",
+                                                                        height: 2, // Spessore del bordo
+                                                                    }}
+                                                                />
+                                                                <LinearGradient
+                                                                    colors={["#9B0800", "#9B0800", "#0B7308", "#0B7308"]}
+                                                                    start={{ x: 0, y: 0.5 }}
+                                                                    end={{ x: 1, y: 0.5 }}
+                                                                    style={{
+                                                                        position: "absolute",
+                                                                        bottom: 0,
+                                                                        left: 0,
+                                                                        width: "100%",
+                                                                        height: 2, // Spessore del bordo
+                                                                    }}
+                                                                />
+                                                                <View style={{ borderRadius: 20, overflow: "hidden", backgroundColor: "white" }}>
+                                                                    <Text style={{ color: "black" }}>{item.quantity}</Text>
+                                                                </View>
                                                             </View>
+                                                            <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(item.id)}>
+                                                                <Image source={require('../../images/plus.png')} style={styles.icon} />
+                                                            </TouchableOpacity>
                                                         </View>
-                                                        <TouchableOpacity style={styles.buttonAdd} onPress={() => handleAddIngredient(item.id)}>
-                                                            <Image source={require('../../images/plus.png')} style={styles.icon} />
-                                                        </TouchableOpacity>
                                                     </View>
                                                 </View>
                                             </View>
-                                        </View>
-                                    ))}
-                                </View>
+                                        ))}
+                                    </View>
+                                )}
                             </View>
                         </ScrollView>
                         <TouchableOpacity style={styles.fab} onPress={handleDispensa}>

@@ -7,8 +7,10 @@ import { useNavigation } from '@react-navigation/native';
 import { Layout, Text, Input } from '@ui-kitten/components';
 import { usePushNotifications } from '../main/usePushNotifications';
 import DateTimePicker from '@react-native-community/datetimepicker';
+import { useTheme } from "../../themeContext";
 
-const backgroundimg = require('../../images/food.png');
+
+const backgroundimg = require('../../images/foodwhite.png');
 
 export default function Signup() {
   const [orariopranzo, setOrarioPranzo] = useState(new Date());
@@ -20,6 +22,7 @@ export default function Signup() {
   const [showPranzoPicker, setShowPranzoPicker] = useState(false);
   const [showCenaPicker, setShowCenaPicker] = useState(false);
   const { expoPushToken, notification } = useState("")
+  const { theme } = useTheme()
   // usePushNotifications()
 
 
@@ -80,17 +83,17 @@ export default function Signup() {
       <ImageBackground source={backgroundimg} style={styles.backgroundImage} resizeMode='repeat'>
 
         <View style={styles.imageContainer}>
-          <View style={styles.backgroundWrapper} />
+          <View style={[styles.backgroundWrapper, {backgroundColor: theme.coloreChiaro, borderColor: theme.coloreScuro}]} />
           <Image source={require('../../images/image.png')} style={styles.image} />
         </View>
 
         <ScrollView style={{ flex: 1 }}>
 
-          <Input placeholder='Inserisci username' style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
-          <Input placeholder='Inserisci password' style={styles.input} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
+          <Input placeholder='Inserisci username' style={[styles.input, {borderColor: theme.coloreScuro}]} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setUsername(text)} autoCapitalize="none" />
+          <Input placeholder='Inserisci password' style={[styles.input, {borderColor: theme.coloreScuro}]} textStyle={{ color: "black", fontFamily: "Poppins_400Regular" }} onChangeText={(text) => setPassword(text)} secureTextEntry={true} autoCapitalize="none" />
 
           {Platform.OS === 'ios' ?
-            <View style={styles.buttonContainerOrario}>
+            <View style={[styles.buttonContainerOrario, {borderColor: theme.coloreScuro}]}>
               <View style={styles.buttonOrario}>
                 <View style={styles.inputContainer}>
                   <Text style={styles.inputTextStyle}>Orario del pranzo: </Text>
@@ -99,7 +102,7 @@ export default function Signup() {
               </View>
             </View>
             :
-            <View style={styles.buttonContainerOrario}>
+            <View style={[styles.buttonContainerOrario, {borderColor: theme.coloreScuro}]}>
               <TouchableOpacity style={styles.buttonOrario} onPress={handlePranzoPicker}>
                 <View style={styles.inputContainer}>
                   <Text style={styles.inputTextStyle}>Orario del pranzo:</Text>
@@ -111,7 +114,7 @@ export default function Signup() {
           }
 
           {Platform.OS === 'ios' ?
-            <View style={styles.buttonContainerOrario}>
+            <View style={[styles.buttonContainerOrario, {borderColor: theme.coloreScuro}]}>
               <View style={styles.buttonOrario}>
                 <View style={styles.inputContainer}>
                   <Text style={styles.inputTextStyle}>Orario della cena:</Text>
@@ -120,7 +123,7 @@ export default function Signup() {
               </View>
             </View>
             :
-            <View style={styles.buttonContainerOrario}>
+            <View style={[styles.buttonContainerOrario, {borderColor: theme.coloreScuro}]}>
               <TouchableOpacity style={styles.buttonOrario} onPress={handleCenaPicker}>
                 <View style={styles.inputContainer}>
                   <Text style={styles.inputTextStyle}>Orario della cena: </Text>
@@ -130,13 +133,11 @@ export default function Signup() {
               {showCenaPicker && (<DateTimePicker value={orariocena} mode="time" is24Hour={true} display="default" onChange={handleOrarioCenaChange} />)}
             </View>
           }
-
-
         </ScrollView>
 
         {isLoading === false ?
           <View style={styles.buttonContainer}>
-            <TouchableOpacity onPress={() => { handleCreate() }} style={styles.button}>
+            <TouchableOpacity onPress={() => { handleCreate() }} style={[styles.button, {backgroundColor: theme.coloreScuro}]}>
               <Text style={styles.textButton}>Signup</Text>
             </TouchableOpacity>
           </View>
@@ -161,7 +162,6 @@ const styles = StyleSheet.create({
   input: {
     height: 40,
     width: '100%',
-    borderColor: 'black',
     borderWidth: 2,
     marginVertical: 10,
     paddingHorizontal: 20,
@@ -172,13 +172,13 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   button: {
-    backgroundColor: "#9B0800",
     borderRadius: 15,
     padding: 15
   },
   textButton: {
     alignSelf: "center",
-    fontFamily: "Poppins_400Regular"
+    fontFamily: "Poppins_400Regular",
+    color: "white"
   },
   buttonOrario: {
     backgroundColor: "white",
@@ -190,7 +190,6 @@ const styles = StyleSheet.create({
     marginVertical: 10
   },
   buttonContainerOrario: {
-    borderColor: 'black',
     borderWidth: 2,
     backgroundColor: "white",
     borderRadius: 15,
@@ -221,7 +220,6 @@ const styles = StyleSheet.create({
   },
   backgroundWrapper: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: '#ADC8AD',
     opacity: 0.75,
     borderRadius: 50,
     borderWidth: 1
