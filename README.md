@@ -14,7 +14,7 @@ Epicurio è un'applicazione mobile innovativa progettata per rivoluzionare la ge
 
 | Componente | Tecnologia | Utilizzo |
 | :--- | :--- | :--- |
-| **```Frontend```** | ```React Native + Expo```*| Sviluppo cross-platform per Androis e iOS |
+| **```Frontend```** | ```React Native + Expo```| Sviluppo cross-platform per Androis e iOS |
 | **```UI Framework```** | ```UI Kitten``` | Componenti visivi dal design moderno e personalizzabile |
 | **```Backend```** | ```Node.js``` | Ambiente di esecuzione lato server per la gestione delle richieste |
 | **```Database```** | ```MongoDB``` | Database NoSQL per la persistenza di utenti, pasti e ingredienti |
